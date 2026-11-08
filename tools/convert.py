@@ -15,6 +15,7 @@ import json, os, re, ssl, sys, datetime, urllib.request, urllib.error, gzip
 
 UA = "SideStore/0.6.0 (com.SideStore.SideStore; build 1) iOS/18.0"
 ctx = ssl.create_default_context(); ctx.check_hostname = False; ctx.verify_mode = ssl.CERT_NONE
+LENIENT = os.environ.get("LENIENT") == "1"   # omit "size" instead of supplying a placeholder
 BID = re.compile(r"^[A-Za-z0-9][A-Za-z0-9\-]*(\.[A-Za-z0-9][A-Za-z0-9\-]*)+$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}")
 STALE = "2000-01-01T00:00:00Z"   # unknown date: sorts last, never wins a dedupe
@@ -56,6 +57,9 @@ def norm_versions(a):
              "downloadURL": a["downloadURL"]}
         if isinstance(a.get("size"), int): e["size"] = a["size"]
         vs.append(e)
+    for e in vs:
+        # SideStore's AltStoreSource models decode size as non-optional Int
+        if "size" not in e and not LENIENT: e["size"] = 0
     # newest first, dedupe by version string
     seen, out = set(), []
     for v in sorted(vs, key=lambda x: x["date"], reverse=True):

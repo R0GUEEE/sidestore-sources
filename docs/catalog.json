@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T14:34:12Z",
+ "generated": "2026-11-08T15:03:08Z",
  "sources": [
   {
    "file": "altmaker.json",
@@ -211,8 +211,8 @@
   },
   {
    "file": "sidestore-official.json",
-   "name": "SideStore",
-   "identifier": "com.SideStore.SideStore.source",
+   "name": "SideStore Official",
+   "identifier": "com.SideStore.SideStore",
    "apps": 1,
    "unique_bundle_ids": 1,
    "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/sidestore-official.json"

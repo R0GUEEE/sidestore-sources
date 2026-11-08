@@ -40,6 +40,24 @@ Per-upstream files (29) are in [`sources/`](sources) — browse them at
 | Provenance | 4 | `provenance.json` |
 | FrizzleM, shplash, StikDebug, Geode, LiveContainer ×3, SideStore official, dsewerek selected | 1–2 each | — |
 
+## Schema rules SideStore enforces
+
+SideStore decodes every entry, so one missing field kills the whole source
+(`Decoding failed: Key 'size' not found … apps > 60 > versions > 0 > size`).
+Required by `AltStoreSource` / `AppVersion`, per version object:
+
+| Key | Type | Notes |
+|---|---|---|
+| `version` | String | required |
+| `date` | String | required, ISO 8601 (`2026-11-08T00:00:00Z`) |
+| `downloadURL` | String | required, http(s) |
+| `localizedDescription` | String | required in practice |
+| `size` | **Int** | non-optional — omit it and the source fails to decode |
+
+Plus `name` and `identifier` at the top level and `name` + `bundleIdentifier` per app.
+`tools/audit_schema.py` checks exactly this; `tools/patch.py in.json out.json` fixes any
+source you point it at (lifts legacy fields, fills `size`, normalizes dates).
+
 ## What the conversion does
 
 - **legacy → `versions[]`** — app-level `version` / `versionDate` / `downloadURL` / `size`
@@ -53,6 +71,8 @@ Per-upstream files (29) are in [`sources/`](sources) — browse them at
   9,272 duplicates collapsed; fastsign 16,945 → 3,725; ittza7aa 1,794 → 726).
 - **headers** — sources missing `identifier` (all three dsewerek files) get one; missing icons,
   subtitles and tint colors are filled in.
+- every `versions[]` entry carries an Int `size`; unknown sizes are written as `0`
+  (use `LENIENT=1 python3 tools/convert.py` / `patch.py --lenient` to omit instead)
 - legacy keys (`version`, `versionDate`, `versionDescription`) are re-emitted next to `versions[]`
   for clients that still look for them.
 
@@ -88,6 +108,7 @@ Regenerate everything:
 python3 tools/convert.py      # all upstreams → sources/*.json
 python3 tools/aggregate.py    # → sources/merged.json
 python3 tools/fcheck.py sources/*.json
+python3 tools/audit_schema.py     # strict Codable check: nothing may fail to decode
 ```
 
 These files only point at upstream download URLs — no IPAs are mirrored here.

@@ -1,0 +1,1311 @@
+{
+ "name": "QuantumSource++",
+ "identifier": "com.quarksources.quantumsource",
+ "subtitle": "",
+ "description": "",
+ "website": "",
+ "tintColor": "#0A84FF",
+ "iconURL": "",
+ "apps": [
+  {
+   "bundleIdentifier": "com.errorerrorerror.animenow",
+   "name": "Anime Now!",
+   "developerName": "AnimeNow Team",
+   "subtitle": "Watch your favorite Anime anywhere for free!",
+   "localizedDescription": "Features:\n\n• Ad Free\n• No logins\n• Custom video playback\n• Airplay 2 Support\n• Picture in Picture playback support\n• Download & play episodes offline\n• Custom Collections\n• Third party anime tracking\n• Manga support (Will be added in V2.0.0)",
+   "iconURL": "https://static.appdb.to/images/cydia-1900001008-icon-1669968478.png",
+   "tintColor": "#343334",
+   "screenshots": [
+    "https://static.appdb.to/images/cydia-1900001008-iphone-0-1669964060.png",
+    "https://static.appdb.to/images/cydia-1900001008-iphone-1-1669964061.png",
+    "https://static.appdb.to/images/cydia-1900001008-iphone-2-1669964061.png",
+    "https://static.appdb.to/images/cydia-1900001008-iphone-3-1669964061.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.0-b3",
+     "date": "2023-03-29T00:00:00Z",
+     "localizedDescription": "• Updated Anime Now to v1.0.0-b3",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b3.ipa",
+     "size": 6870000
+    },
+    {
+     "version": "1.0.0-beta.1",
+     "date": "2023-02-14T00:00:00Z",
+     "localizedDescription": "• Updated Anime Now to v1.0.0-beta.1",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b1.ipa",
+     "size": 6380000
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "AlexisBarreyat.BeReal",
+   "name": "BeReal++",
+   "developerName": "Avangelista",
+   "subtitle": "See your friends BeReals without posting anything!",
+   "localizedDescription": "Unblur your friends’ posts on BeReal, even when you haven't posted. All functions of the app work as normal.",
+   "iconURL": "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.jpg",
+   "tintColor": "#363636",
+   "screenshots": [
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-1.jpg",
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-2.jpg",
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-3.jpg",
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-4.jpg",
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.36.0",
+     "date": "2023-03-30T00:00:00Z",
+     "localizedDescription": "• BeReal updated to v0.36.0\n• UnBlur remains at latest (v0.0.2)",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.36.0.+.UnBlur.v0.0.2.ipa",
+     "size": 23800000
+    },
+    {
+     "version": "0.33.1",
+     "date": "2023-02-26T00:00:00Z",
+     "localizedDescription": "• BeReal updated to v0.33.1\n• UnBlur remains at latest (v0.0.2)",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.33.1.+.UnBlur.v0.0.2.ipa",
+     "size": 26900000
+    },
+    {
+     "version": "0.32.0",
+     "date": "2023-02-12T00:00:00Z",
+     "localizedDescription": "• BeReal updated to v0.32.0\n• UnBlur remains at latest (v0.0.2)",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/BeReal.v0.32.0.+.UnBlur.v0.0.2.ipa",
+     "size": 26000000
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.atebits.Tweetie2",
+   "name": "BHTwitter (deprecated)",
+   "developerName": "BandarHL",
+   "subtitle": "The sideloaded version of BHTwitter, made by @BandarHL, requires iOS 13.4+ (deprecated)",
+   "localizedDescription": "Full infomation about BHTwitterPlus (BHTwitter+) is available on my Github: https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/\n\nCredits: \n- BandarHL - for BHTwitter and his solution for Twitter-login (Sideload).\n- haoict - developer of Twitter No Ads.\n- Tanner B - solution for Skip Analytics URL (t.co).\n\nKwown issues:\n- \"Skip Analytic URL\" breaks embed pictures as described here.\n- Analytics link in cards can't be skipped.\n- Download videos may not work if you use appdb. In that case, please change the \"Identity type to use for appdb PRO\" in the \"appdb configuration\" from Auto to Development.\n",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/553d345e375ad6042571f427_twitter.png",
+   "tintColor": "3f9de5",
+   "screenshots": [
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2396.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2397.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2399.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2400.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2401.jpg"
+   ],
+   "versions": [
+    {
+     "version": "9.2",
+     "date": "2022-03-07T14:00:00-07:00Z",
+     "localizedDescription": "v9.2 (2.9.2): The changelog can be found at\nhttps://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/latest\n BHTwitterPlus is now deprecated. Follow @BandarHL on Twitter (https://twitter.com/bandarhl?s=21) to get the latest version of BHTwitter.",
+     "downloadURL": "https://github.com/qnblackcat/BHTwitter-Plus_Sideloaded/releases/download/v9.2-2.9.2/BHTwitterPlus_9.2-2.9.2.ipa",
+     "size": 78643200
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.grailr.CARROTweather",
+   "name": "CARROT Weather",
+   "developerName": "Grailr LLC",
+   "subtitle": "The crazy-powerful weather app.",
+   "localizedDescription": "** Winner of Apple’s Editor’s Choice award on the Mac and featured by The New York Times, Good Morning America, CNN, Wired, & more! **\n\nAccurate and Detailed\n\nDark Sky’s super accurate weather data gives you quick access to your current, hourly, and daily forecasts. Plus, you can upgrade to use other providers like AccuWeather, ClimaCell, and MeteoGroup as your data source!\n\nOverflowing with Personality\n\nFrom spooky fog to torrential downpours, CARROT’s dialogue, characters, and scenery change in… “unexpected” ways. You’ll actually be looking forward to a blizzard just to see what CARROT has in store for you!\n\nNotifications\n\nPremium Club members can sign up for all sorts of notifications, including ones for precipitation, weather alerts, lightning strikes, and daily forecast summaries. (Precipitation notifications are available in the US, UK, & parts of Canada. Weather alert and storm cell notifications are only available in the US. Lightning notifications are available in the US and Canada.)\n\nWidgets\n\nCheck the weather right from your Home Screen with CARROT's customizable widgets. (Note: Premium Club subscription required to unlock background updates and some widgets.)\n\nWeather Maps\n\nWatch in awe as the next big storm bears down on your house with CARROT’s trusty radar. Plus, Premium Club Tier 2 members get access to future radar (in the US), lightning strikes, and 12 additional map layers!\n\nCustomization\n\nWant to disable CARROT's personality? You can turn her into a 100% professional weather app! And Premium Club members can customize every last data point that CARROT displays to show the weather data that you care about.\n\nSiri Shortcuts\n\nAsk Siri about upcoming weather or use forecast data to build complex workflows in the Shortcuts app.\n\nSecret Locations\n\nFollow clues to hunt down 60+ secret locations - like the Moon, the Pyramids, and Chernobyl.\n\nAchievements\n\nUnlock 40+ achievements by experiencing weather events, traveling around the world, and using different features in the app.\n\nApple Watch\n\nIn addition to a full weather app and notifications, you also get colorful complications for your watch face. (Note: Premium Club subscription required to unlock background data updates and complication customization features.)\n\nFeatures:\n• Beautifully minimalist weather app\n• Dark Sky’s super accurate weather data\n• AccuWeather, ClimaCell, Foreca, MeteoGroup, Aeris Weather, Environment Canada, and WillyWeather data sources available via upgrade\n• Precipitation, weather alert, lightning strike, storm cell, daily summary, and astronomy notifications (where available)\n• Radar and satellite maps\n• Apple Watch app with complications\n• Home Screen widgets\n• Siri shortcuts\n• 6,500+ lines of hilarious spoken dialogue\n• 62 secret locations\n• 41 achievements\n• 27 alternative app icons\n• Will never sell your location data to third parties\n\nDon’t make CARROT angry. Download her now!",
+   "iconURL": "https://i.imgur.com/StH6kxR.png",
+   "tintColor": "#302960",
+   "screenshots": [
+    "https://i.imgur.com/UHvEpF7.png",
+    "https://i.imgur.com/PlGkBhT.png",
+    "https://i.imgur.com/NzoIzvj.png",
+    "https://i.imgur.com/rKntwiD.png",
+    "https://i.imgur.com/VIwCwnM.png"
+   ],
+   "versions": [
+    {
+     "version": "4.14",
+     "date": "2019-12-06T00:00:00Z",
+     "localizedDescription": "Winter is coming, meatbags, but I've got an update for you that's approximately 756.3% less disappointing than the final season of Game of Thrones.\n\nRedesigned Weather Alerts\nNot only does my weather alerts screen show more information than ever before, many \"warning\"-level alerts will also show a map with the affected area highlighted so you can see if you're in the path of an oncoming severe thunderstorm, tornado, or hurricane. And if it's already too late for you to escape certain death, there may still be time to save your loved ones - just tap an alert to share it.\n\nSecret Locations\nYou can quit pestering my Maker because there's not one but two brand new secret locations for you to track down. (This brings the grand total to 60!)\n\nAlternate App Icon\nGet in the holiday spirit with my festive new alternate app icon, \"Now I Have A Machine Gun\".\n\nBut wait, there's more!\n\n- The Infograph “top text” complication is now available on California watch faces - just set the style to something other than \"snark\" to activate.\n- Siri watch face cards now open directly to the Watch app when you tap on them.\n- Snow accumulations for Dark Sky's day summaries are available again.\n\nAnd because I ran out of coal, I also tossed in a bunch of bug fixes and performance improvements as stocking stuffers. Happy holidays, you filthy animals.\n\nxoxo,\nCARROT",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/CARROT-Weather.ipa",
+     "size": 102825374
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.google.ios.youtube.cercube",
+   "name": "Cercube+",
+   "developerName": "Majd Alfhaily",
+   "subtitle": "Cercube+ for YouTube",
+   "localizedDescription": "Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.",
+   "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Cercube/icon.png",
+   "tintColor": "#1E47D0",
+   "screenshots": [
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "16.42.3",
+     "date": "2021-10-30T16:25:00Z",
+     "localizedDescription": "Changelog:\n- Update YouTube base to 16.42.3\n\nFor full changelog, visit https://apt.alfhaily.me/changelogs/FDXO5R",
+     "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-3-3_16-42-3.ipa",
+     "size": 103228234
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.google.ios.youtubecercube",
+   "name": "CercubePlus (Cercube+)",
+   "developerName": "Alfhaily & Qn_",
+   "subtitle": "Cercube with extra features! Requires iOS 14.0 and later.",
+   "localizedDescription": "Unfortunately, AltStore can not handle two applications that have the same bundle ID (uYou+ and Cercube+). I have no other choice except to modify CercubePlus's bundle ID. As a result, you won't be able to install CercubePlus directly through AltStore. You still can download the IPA like normal though.\n\nCredits: Please keep the Credits if you re-up CercubePlus! \n- https://github.com/qnblackcat/CercubePlus#credits\n\nFull infomation about CercubePlus (Cercube+) is available on my Github: https://github.com/qnblackcat/CercubePlus/\n\n",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
+   "tintColor": "e22a41",
+   "screenshots": [
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1521.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
+   ],
+   "versions": [
+    {
+     "version": "17.43.1",
+     "date": "2022-11-06T16:00:00-01:00Z",
+     "localizedDescription": "v17.43.1 (5.3.11): The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases/latest",
+     "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.43.1-5.3.11/CercubePlus_17.43.1_5.3.11.ipa",
+     "size": 101187584
+    },
+    {
+     "version": "17.42.7",
+     "date": "2022-10-28T16:00:00-01:00Z",
+     "localizedDescription": "v17.42.7 (5.3.11): The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases/latest",
+     "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.42.7-5.3.11/CercubePlus_17.42.7_5.3.11.ipa",
+     "size": 101187584
+    },
+    {
+     "version": "17.41.2",
+     "date": "2022-10-18T16:00:00-01:00Z",
+     "localizedDescription": "v17.41.2 (5.3.11): The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases/latest",
+     "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.41.2-5.3.11/CercubePlus_17.41.2_5.3.11.ipa",
+     "size": 101187584
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.google.ios.youtubecercubelegacy",
+   "name": "CercubePlus (Legacy)",
+   "developerName": "Alfhaily & Qn_",
+   "subtitle": "CercubePlus but for iOS 12!",
+   "localizedDescription": "Unfortunately, AltStore can not handle two (or more) applications that have the same bundle ID (uYouPlus, CercubePlus and CercubePlus (Legacy)). I have no other choice except to modify the bundle ID of CercubePlus (Legacy). Thus, you won't be able to install CercubePlus (Legacy) directly through AltStore. You still can download the IPA like normal though.\n\nFull infomation about CercubePlus (Legacy) is available on my Github: https://github.com/qnblackcat/CercubePlus/tree/iOS-12/\n\nCredits: Please keep the Credits if you re-up CercubePlus (Legacy)! \n- Alfhaily for Cercube.\n- Galactic-Dev for the original iSponsorBlockLegacy, @Luewii for his fork of iSponsorBlock (which works in jailed mode).\n- PoomSmart for YouRememberCaption, YTClassicVideoQuality, YTNoCheckLocalNetwork, YTSystemAppearance, and Return YouTube Dislike.\n- level3tjg for YTNoHoverCards.\n\nKnown issues:\n- YTUHD is removed because most iOS 12 devices don't support VP9 codec (Hardware restriction).\n- iOS 12 doesn't have the built-in Picture in Picture mode like iOS 14+, so YouPiP must be removed as well.\n- Hide Cast button may not work.\n- YouPiP (iOS 14.0 - 14.4.2): due to Apple's fault, you may encounter the speedup-bug as described here. The bug also happens when you try to play multi-sources of sound at the same time. Enable Legacy PiP is a workaround. Note that Legacy PiP removes UHD quality and breaks the default video quality feature of uYou. Use it at your own risk!",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
+   "tintColor": "e22e2e",
+   "screenshots": [
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2393.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
+   ],
+   "versions": [
+    {
+     "version": "17.36.4",
+     "date": "2022-09-16T14:00:00-01:00Z",
+     "localizedDescription": "v17.36.4 (5.3.11): The information can be found at\nhttps://github.com/qnblackcat/CercubePlus/tree/iOS-12",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Eeeh0Cxz3nFLh9DKqUIs3C0BIbPTA60ipOgEPW4O78qfqQ?download=1",
+     "size": 112617062
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.channelsapp.channels",
+   "name": "Channels",
+   "developerName": "Furkan Simsir",
+   "subtitle": "Watch live TV & events for free with Channels.",
+   "localizedDescription": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.\n\nFeatures:\n\n• Daily live events for NBA, NFL, Soccer, UFC and more\n• Categorized live TV channels\n• Daily updated Movies & TV Shows\n\n Follow @channelstheapp on Twitter for more information.",
+   "iconURL": "https://i.imgur.com/qixCmDA.png",
+   "tintColor": "#0093e9",
+   "screenshots": [
+    "https://i.imgur.com/VWcVoUR.png",
+    "https://i.imgur.com/lqK844i.png",
+    "https://i.imgur.com/djgm5ZQ.png",
+    "https://i.imgur.com/Y7mO6oI.png"
+   ],
+   "versions": [
+    {
+     "version": "1.8.0",
+     "date": "2020-03-24T00:00:00-00:00Z",
+     "localizedDescription": "• Completely redesigned Events tab\n• Most streams will open in the default iOS player instead of in the browser\n• 'Open in VLC' support (VLC app has Chromecast)\n• Reduced app size by 85%! (168 MB -> 22 MB)\n• Smoother loading experience\n• Cleanup and bugfixes",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Channels.ipa",
+     "size": 9090644
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.crunchyroll.iphone",
+   "name": "Crunchyroll++",
+   "developerName": "unlimapps",
+   "subtitle": "The Ad-Free Anime you've been looking for.",
+   "localizedDescription": "- No ads\n- New episodes one hour after airing in Japan\n- The highest watching quality possible",
+   "iconURL": "https://i.imgur.com/qM7e1Ey.png",
+   "tintColor": "#f47521",
+   "screenshots": [
+    "https://i.imgur.com/ss27Uf3.png",
+    "https://i.imgur.com/AxhO3kI.png",
+    "https://i.imgur.com/KdmaxEZ.png",
+    "https://i.imgur.com/XMO94gp.png",
+    "https://i.imgur.com/qBeM1ri.png"
+   ],
+   "versions": [
+    {
+     "version": "3.5.1",
+     "date": "2019-10-01T00:00:00Z",
+     "localizedDescription": "Optimized for iOS 13.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Crunchyroll++.ipa",
+     "size": 11688173
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.deezer.Deezer",
+   "name": "Deezer++",
+   "developerName": "julioverne",
+   "subtitle": "Mix your music your way.",
+   "localizedDescription": "Your life deserves its own soundtrack. With 56 million tracks, playlists and podcasts plus personalized recommendations just for you, Deezer is your music companion. A music player that always gives you the songs you love, and helps you discover your next favorites. You bring the passion, we bring the music.\n\nEnjoy best-in-class features with the Deezer music player:\n\n• Stream the biggest global hits\n• 56 million songs to discover and enjoy\n• Lean back and find new tracks with Shuffle Mode\n• Get personalized recommendations and explore new music styles with Flow\n• Listen to any playlist you want or create your own\n• Add the tracks you love to your music collection in a single tap with Favorites\n• Organise your new music by artist or genre\n• Share your personal playlists and favorite tracks with others\n• Discover podcasts, radio stations, and audio channels\n\nWhat you get for free with Deezerlife v0.5:\n\n• No ads\n• Offline Mode: download your favorite tracks or podcasts and listen to offline music anywhere\n• Unlimited skips\n• No song shuffling\n• Superior Sound Quality (320 kBps)\n• Music player is compatible with Amazon Alexa and connected devices",
+   "iconURL": "https://i.imgur.com/zGqFxJz.png",
+   "tintColor": "#252d36",
+   "screenshots": [
+    "https://i.imgur.com/iox1WHX.png",
+    "https://i.imgur.com/chYRMOg.png",
+    "https://i.imgur.com/2NUi4lD.png",
+    "https://i.imgur.com/8fUSZuW.png",
+    "https://i.imgur.com/9uztFPu.png"
+   ],
+   "versions": [
+    {
+     "version": "7.1.1",
+     "date": "2020-10-15T00:00:00Z",
+     "localizedDescription": "Deezerlife v0.5\n\nDowngraded to v7 of Deezer since v8 crashes on login.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Deezer++.ipa",
+     "size": 99126030
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.duolingo.DuolingoMobile",
+   "name": "Duolingo++",
+   "developerName": "unlimapps",
+   "subtitle": "Learn new languages like a pro.",
+   "localizedDescription": "Get all the benefits of Duolingo Plus:\n\n- Ad-free learning experience\n- Offline learning\n- Unlimited hearts\n- Unlimited skill test-outs\n- Monthly streak repair",
+   "iconURL": "https://i.imgur.com/xTmgUgF.png",
+   "tintColor": "#78c800",
+   "screenshots": [
+    "https://i.imgur.com/WvspTMZ.png",
+    "https://i.imgur.com/N9TZwA4.png",
+    "https://i.imgur.com/BlQMDja.png",
+    "https://i.imgur.com/7c1QYMY.png",
+    "https://i.imgur.com/7NCRo40.png"
+   ],
+   "versions": [
+    {
+     "version": "6.2.0",
+     "date": "2019-01-22T00:00:00Z",
+     "localizedDescription": "Bug fixes and performance improvements.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Duolingo++.ipa",
+     "size": 92016431
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "app.ehpanda",
+   "name": "EhPanda",
+   "developerName": "Araki Tatsuzou",
+   "subtitle": "An unofficial E-Hentai App for iOS",
+   "localizedDescription": "EhPanda allows you to browse almost every category of E-Hentai that exists. It provides valuable details and information about each series using an intuitive design modeled after the App Store. You can also participate in the ongoing conversation and leave comments, replies, or reactions!\n\nMore Features include:\n\n* The ability to download via your own Hath client.\n* In-app torrenting to save the best ones\n* Advanced, customizable filters\n* Various settings to access optional features, modify the app icon, and more!",
+   "iconURL": "https://i.imgur.com/gzJjtF3.png",
+   "tintColor": "#60a696",
+   "screenshots": [
+    "https://i.imgur.com/p6jIy2a.png",
+    "https://i.imgur.com/JfGI97l.png",
+    "https://i.imgur.com/bx9Qw1T.png",
+    "https://i.imgur.com/jvWA3kH.png",
+    "https://i.imgur.com/ND3pnAe.png"
+   ],
+   "versions": [
+    {
+     "version": "2.7.10",
+     "date": "2024-12-21T03:22:55Z",
+     "localizedDescription": "# Bugfix\n\n1. Fixed reading page scroll functionality.",
+     "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.10/EhPanda.ipa",
+     "size": 7231227
+    },
+    {
+     "version": "2.7.4",
+     "date": "2023-11-02T14:11:53Z",
+     "localizedDescription": "# Bugfix\n\n1. fix: Previews parsing.\r\nプレビューの解析エラーを修正。\r\n修正了縮圖的解析錯誤。",
+     "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.4/EhPanda.ipa",
+     "size": 6685295
+    },
+    {
+     "version": "2.7.3",
+     "date": "2023-11-02T12:06:11Z",
+     "localizedDescription": "# Bugfix\n\n1. fix: Multiple page viewer mode.\r\nマルチページビューアモードを修正。\r\n修正了多頁瀏覽模式。",
+     "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.3/EhPanda.ipa",
+     "size": 6684864
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "FaceID",
+      "usageDescription": "We need this permission to provide Face ID option while unlocking the App."
+     },
+     {
+      "name": "PhotoLibraryAdd",
+      "usageDescription": "We need this permission to save images to your photo library."
+     }
+    ]
+   }
+  },
+  {
+   "bundleIdentifier": "com.hammerandchisel.discord",
+   "name": "Emnity",
+   "developerName": "Emnity Team",
+   "subtitle": "The power of addons, all in your hand.",
+   "localizedDescription": "Add plugins and themes to Discord!",
+   "iconURL": "https://files.enmity.app/icon-altstore.png",
+   "tintColor": "#6D00FF",
+   "screenshots": [
+    "https://i.imgur.com/Xg65i1U.png",
+    "https://i.imgur.com/97x9gcA.png"
+   ],
+   "versions": [
+    {
+     "version": "177.1",
+     "date": "2023-05-13T14:40:38Z",
+     "localizedDescription": "# Enmity v2.2.6\n\n",
+     "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
+     "size": 94911970
+    },
+    {
+     "version": "175.0",
+     "date": "2023-04-16T13:31:23Z",
+     "localizedDescription": "# Enmity v2.2.5\n\n",
+     "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.5/Enmity.ipa",
+     "size": 87875692
+    },
+    {
+     "version": "155.0",
+     "date": "2022-11-29T00:39:49Z",
+     "localizedDescription": "# v2.1.4\n\n",
+     "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.1.4/Enmity.ipa",
+     "size": 79750354
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.facebook.Facebook",
+   "name": "Facebook Wolf",
+   "developerName": "Michael Lema & Qn_",
+   "subtitle": "A tweaked version of \"Wolf\" (made by Michael Lema). Requires iOS 12.4 and later.",
+   "localizedDescription": "Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.\n\nLearn how to make your own IPA of Facebook Wolf here: https://github.com/qnblackcat/FBSideloadfix\n\nFEATURES:\n• No feed ads\n• No story ads\n• Disable marking messages as seen\n• Disable typing status in messages\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• Save Feed videos by long-pressing the video\n\nNOTES:\n• I'm not the developer of Wolf. This is not an official version of Wolf.\n• Michael Lema, the developer of Wolf,  hasn't updated Wolf for a while. Expect some features may not work correctly.",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
+   "tintColor": "478EE2",
+   "screenshots": [
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/wolf2.jpg",
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2698.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2699.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2700.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2701.PNG"
+   ],
+   "versions": [
+    {
+     "version": "402.0",
+     "date": "2023-02-22T14:00:00-00:30Z",
+     "localizedDescription": "v402.0 (2.1): Updated to the latest version of Facebook app",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Efkyz3QAKyFNouUBvVdZbi0ByCqJToLW78ctOkSB5ayBUw?download=1",
+     "size": 152672665
+    },
+    {
+     "version": "372.0",
+     "date": "2022-06-24T14:00:00-00:30Z",
+     "localizedDescription": "v372.0 (2.1): Updated to the latest version of Facebook app",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EWEdhH_a8T5FmeQ7104KY70Bm--b0Vg_e9r71yWVdru-aA?download=1",
+     "size": 152672665
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.stey",
+   "name": "Filmr Pro",
+   "developerName": "Stei App",
+   "subtitle": "Become a Pro Video Editor.",
+   "localizedDescription": "Filmr is a video editor that opens the door to infinite possibilities of creation, from beginners to movie directors. With a simple, fast and intuitive interface, our clean vertical design makes it easy to edit and play around with your videos.\n\nOver 5 million downloads. Start creating now and share your stories with #Filmr!\n\nFREE VIDEO CREATOR & EDITOR\n\nTransform your videos with +150 professional features and editing tools. Edit with exclusives filters, effects and transitions. Add your favorite music from files or explore our Royalty Free Music library.\n\nADVANCED EDITING TOOLS\n- Choose Filters from our collection\n- Inspire with awesome Effects (Zoom, RGB, Retro, Sparkles, VHS and many more)\n- Create dynamic clips with unique Transitions\n- Transfer exclusives styles to your videos\n- Adjust the speed of your video\n- Trim, crop, cut, reverse and flip easily\n- Adjust contrast, balance and brightness\n- Create compositions with the Video in Video feature\n- Shoot with front and back camera simultaneously (iPhone XS, XS Max, XR, and iPad Pro; iOS 13)\n- Express yourself with multiple fonts\n- Explore many characters with our Augmented Reality camera (iPhone XS, XS Max, XR, and iPad Pro) iOS 13\n- Try one free feature every day\n\nTHE PERFECT SOUNDTRACK\n\n- Add your favorite music from files or explore our royalty free music library\n- Create narratives with Voice Over and mix it with the volume of the music\n\nSAVE AND SHARE\n\n- Give color to your frames and save directly to your camera roll\n- Export with different formats and FPS\n- Share directly to Youtube, Instagram, Facebook, Twitter, Whatsapp and more\n- Choose between Dark and Light Mode directly on your phone\n- Create GIFs, stop motions, slideshows and tutorials like a PRO",
+   "iconURL": "https://i.imgur.com/v3O5Bmz.png",
+   "tintColor": "#0a0079",
+   "screenshots": [
+    "https://i.imgur.com/kCMBrTV.png",
+    "https://i.imgur.com/lrgHRBP.png",
+    "https://i.imgur.com/jozfKSc.png",
+    "https://i.imgur.com/macbdxG.png",
+    "https://i.imgur.com/tGG2UIf.png"
+   ],
+   "versions": [
+    {
+     "version": "7.5.4",
+     "date": "2020-12-17T00:00:00Z",
+     "localizedDescription": "- 1000 NEW SONGS for you to take your videos to the next level!\n- New amazing \"Holiday Specials\" effects!\n- AR: Christmas characters in real life!\n- Share your videos directly on TikTok\n- Performance improvements",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Filmr-Pro.ipa",
+     "size": 219640035
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.firecore.infuse",
+   "name": "Infuse Pro 6",
+   "developerName": "Firecore, LLC",
+   "subtitle": "Watch and listen to media of nearly any format.",
+   "localizedDescription": "Ignite your video content with Infuse – the beautiful way to watch almost any video format on your iPhone, iPad, and Apple TV. No need to convert files! Infuse is optimized for iOS 13, with powerful streaming options, Trakt sync, and unmatched AirPlay & subtitle support. Gorgeous interface. Precise controls. And silky-smooth playback.\n\n- PLAY MORE VIDEO TYPES\n\nA powerful video player that plays just about anything, including the standard MP4, M4V and MOV – plus MKV, AVI, WMV, MTS, ISO, VIDEO_TS, FLV, OGM, OGV, ASF, 3GP, DVR-MS, WebM, and WTV. Includes fully certified Dolby® Digital Plus (AC3/E-AC3), DTS® and DTS-HD® audio.\n\n- STREAM FROM OTHER DEVICES\n\nBrowse and play videos stored on your Mac, PC, NAS, Wi-Fi hard drive, UPnP/DLNA apps like Plex and Kodi (XBMC), or from cloud services like Dropbox, Google Drive, and OneDrive – no syncing required!\n\n- AIRPLAY & GOOGLE CAST OPTIONS\n\nStream a wide variety of videos types such as MKV, MP4, M4V, and others over AirPlay & Google Cast with full surround sound and subtitles.\n\n- TRAKT 2-WAY SYNC\n\nConnect with Trakt to sync watched history, submit ratings and post comments.\n\n- OPTIMIZED SUBTITLES POWERED BY OPENSUBTITLES\n\nBring your own subtitles, or download them on the fly (for free) in virtually any language.\n\n=====\n\nMORE THAN JUST A PRETTY FACE\n\nTHE BASICS\n\n- Silky-smooth video player (plays full 4K w/ HDR & Dolby Vision)\n- Stream from a Mac, PC, NAS or Wi-Fi enabled hard drive\n- Connect with Plex, Kodi (XBMC), WMC and most other UPnP/DLNA servers\n- Beautiful layout with quick access to video info\n- Artwork and metadata added automatically\n- Split View & PIP\n\nSUPPORTED FORMATS\n\n- Video: 3GP, AVI, ASF, BDMV, DIVX, DVDMEDIA, DVR-MS, FLV, ISO, M4V, MKV, MOV, MP4, M2TS, MTS, OGM, OGV, TP, TS, VIDEO_TS, WEBM, WMV, WTV\n- Audio: AAC, AC3/E-AC3, DOLBY TRUEHD, DTS, DTS-HD MA, FLAC, MP3, OGG, PCM, WMA\n- Subtitles: DVB, DVDSUB, MICRODVD, MPL2, PGS, SMI, SSA/ASS, SRT, SUB, TIMED TEXT, TMP, TXT, VOBSUB, XSUB\n\nPLAYER FEATURES\n\n- Multiple audio tracks\n- Chapters\n- Gesture controls\n- 8 video zoom options\n- Continuous playback\n- TV out via HDMI or VGA adapter\n- Deinterlacing\n\nEXTRAS\n\n- Folders\n- One-click subtitle downloads from OpenSubtitles\n- Scrobble plays to Trakt\n- Download videos from networked devices\n- Drag and drop uploads via web browser\n- Get extra onboard storage with SanDisk iXpand\n\nGET MORE WITH INFUSE PRO!\n\n- Play even more video formats\n- Enjoy Dolby® Digital Plus (AC3/E-AC3), DTS® and DTS-HD® mobile surround sound\n- Stream a wide variety of video types over AirPlay and Google Cast\n- Access videos stored in cloud services like Dropbox, Google Drive, Box, and OneDrive\n- Sync libraries, settings, watched history, and playback progress between devices",
+   "iconURL": "https://i.imgur.com/AuR5Nez.png",
+   "tintColor": "#fd9a00",
+   "screenshots": [
+    "https://i.imgur.com/QTogbRz.png",
+    "https://i.imgur.com/RXJpPmj.png",
+    "https://i.imgur.com/8f15dQa.png",
+    "https://i.imgur.com/Tm3vNfI.png",
+    "https://i.imgur.com/ofmi26e.png"
+   ],
+   "versions": [
+    {
+     "version": "6.5.6",
+     "date": "2020-12-18T00:00:00Z",
+     "localizedDescription": "Lots of new bug fixes",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Infuse-Pro-6.ipa",
+     "size": 41222899
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.Lema.Michael.InstagramApp",
+   "name": "Instagram Rhino",
+   "developerName": "Michael Lema",
+   "subtitle": "A powerful tweaked version of Instagram.",
+   "localizedDescription": "Instagram Rhino is tweaked version of the popular Instagram app. It adds all the features you've wanted, and more.",
+   "iconURL": "https://i.imgur.com/i5M0PEk.png",
+   "tintColor": "#16c54f",
+   "screenshots": [
+    "https://i.imgur.com/pWFwm6N.png",
+    "https://i.imgur.com/GbFXm0a.png"
+   ],
+   "versions": [
+    {
+     "version": "167.0",
+     "date": "2020-09-07T00:00:00Z",
+     "localizedDescription": "Minor improvements.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Instagram-Rhino.ipa",
+     "size": 64923971
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.google.ios.youtube",
+   "name": "iVanced for YouTube",
+   "developerName": "TherionRO",
+   "subtitle": "A strong suite of improvements to YouTube!",
+   "localizedDescription": "iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking, dislikes, skip sponsors (iSponsorBlock) and many more customizations and features! All of this without charging you anything: no subscriptions, no unlocks.",
+   "iconURL": "https://i.imgur.com/ZCtZ5W4.png",
+   "tintColor": "#6D00FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "19.08.2",
+     "date": "2024-02-27T14:56:49Z",
+     "localizedDescription": "# iVanced 19.08.2\n\niVanced for YouTube 19.08.2 |\r\n\r\nDownload from AppDb : https://appdb.to/app/cydia/1900001075 or download the .ipa file from this release.",
+     "downloadURL": "https://github.com/TherionRO/YouTubeiVanced/releases/download/release19.08.2/iVanced_19.08.2.ipa",
+     "size": 132283385
+    },
+    {
+     "version": "19.06.2",
+     "date": "2024-02-12T17:27:29Z",
+     "localizedDescription": "# iVanced 19.06.2\n\niVanced for YouTube 19.06.2 |\r\n\r\nDownload from AppDb : https://appdb.to/app/cydia/1900001075 or download the .ipa file from this release.",
+     "downloadURL": "https://github.com/TherionRO/YouTubeiVanced/releases/download/release19.06.2/iVanced_19.06.2.ipa",
+     "size": 126381167
+    },
+    {
+     "version": "19.05.5",
+     "date": "2024-02-07T16:16:52Z",
+     "localizedDescription": "# iVanced 19.05.5\n\niVanced for YouTube 19.05.5 |\r\n\r\nDownload from AppDb : https://appdb.to/app/cydia/1900001075 or download the .ipa file from this release.",
+     "downloadURL": "https://github.com/TherionRO/YouTubeiVanced/releases/download/release19.05.5/iVanced_19.05.5.ipa",
+     "size": 127403638
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "AppleMusic",
+      "usageDescription": "This lets you add your own audio files to your videos."
+     },
+     {
+      "name": "BluetoothPeripheral",
+      "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
+     },
+     {
+      "name": "Camera",
+      "usageDescription": "This lets you create videos using the app."
+     },
+     {
+      "name": "Contacts",
+      "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+     },
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
+     },
+     {
+      "name": "LocationWhenInUse",
+      "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+     },
+     {
+      "name": "Microphone",
+      "usageDescription": "This lets you include audio with your videos and search using your voice."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "This lets you upload media you've already created."
+     }
+    ]
+   }
+  },
+  {
+   "bundleIdentifier": "com.luma-touch.LumaFusion",
+   "name": "LumaFusion",
+   "developerName": "Luma Touch, LLC",
+   "subtitle": "Pro video editing and effects.",
+   "localizedDescription": "The most popular mobile video editing app for iOS is now better than ever!\n\nLumaFusion 2.0 introduces a host of powerful new features and an elegant new UI. The simple-start timeline gives new users an intuitive head start, and professionals will find all the powerful features they need.\n\nTutorials, overlay help in the app, and a detailed user guide will get you started and keep you going. Our friendly support gives you direct access to our editing experts.\n\nPROJECT MANAGER\n\n• Create projects with a variety of aspect ratios (including landscape, portrait, square, film)\n• Frame rates (18 to 60 fps including 29.97 and 59.94)\n• Duplicate, add notes, color-tag, search and sort your projects for easy organization\n\nMEDIA LIBRARY\n\n• Browse media directly from Photos, GNARBOX, and WD Wireless Pro/SSD drives – import only clips you use on the timeline.\n• Drag-and-drop or import from anywhere, including cloud storage, SanDisk iXpand flash drives and SMB network drives\n• Use for free - dozens of royalty-free music, loops, sound fx, videos and backgrounds OR subscribe to Storyblocks for LumaFusion to access the full library of thousands clips.\n• View detailed information about your media\n• Rename, add notes, and color-tag clips in the library\n• Sort and search your library to quickly find what you need\n\nEDITING\n\n• 6 video/audio tracks for photos, videos, audio, titles and graphics\n• 6 additional audio tracks for narration, music and sound effects\n• Magnetic timeline with extended features such as insert/overwrite and link/unlink clip\n• New track headers for locking, hiding, and muting all tracks\n• Dozens of transitions\n• Display your preview on an external monitor\n• Add markers with notes to your timeline\n\nEFFECTS\n\n• Layer effects including chroma key, blurs, distort, styles and color in any order to create an endless variety of effects.\n• Use powerful color correction tools\n• Select from included color LUTs like FiLMiC deLog or import your own .cube or .3dl\n• Add unlimited keyframes to animate any effect or color\n• Save effect presets\n\nSLOW AND FAST MOTION\n\n• Create slow motion/fast motion forward and reverse\n• Create smooth slow motion with 120 and 240fps files\n• Edit with time-lapse video files\n\nAUDIO\n\n• Keyframe audio levels and panning for perfect mixes\n• Listen to your mix while adjusting track levels\n• Fill-from-left and fill-from-right for dual-mono audio captures\n• Select tracks from multiple track files (perfect for screen recordings)\n• Duck background music during dialog with Auto-ducking\n• Add audio filters and EQ\n\nTITLER\n\n• Create multi-layer titles with text, shapes and images\n• Adjust font, color, face, border and shadow\n• Import custom fonts including multi-color fonts\n• Save and share title presets or styles\n\nSHARE\n\n• Easily share movies anywhere with control over resolution, compression quality, frame rate and format.\n• Snapshot a photo of any frame in your project to the Photos app\n• Archive projects + media for backup or to edit on another iPhone or iPad\n• Include VR metadata for exporting 360° videos",
+   "iconURL": "https://i.imgur.com/PZ4I4OA.png",
+   "tintColor": "#4c1719",
+   "screenshots": [
+    "https://i.imgur.com/3gK220b.png",
+    "https://i.imgur.com/LQZn0Om.png",
+    "https://i.imgur.com/KmtV8Ax.png",
+    "https://i.imgur.com/ZOo0IYk.png",
+    "https://i.imgur.com/hlzXzQI.png"
+   ],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2019-10-27T14:00:00-07:00Z",
+     "localizedDescription": "Fixed:\n\n• Startup crash for original iPad Air and iPad mini 2 users\n• Export to Weibo now appears in Export selection\n• Improved stability and performance",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/LumaFusion.ipa",
+     "size": 153279738
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.marcuszhou.NineAnimator",
+   "name": "NineAnimator",
+   "developerName": "Marcus Zhou",
+   "subtitle": "",
+   "localizedDescription": "NineAnimator is an elegant and concise anime streaming application specifically designed for iOS. It is open source, meaning that anyone is welcomed to contribute and collaborate on the project, and, most importantly, that you are encouraged to \"shape\" NineAnimator however you like (under the terms of GNU GPL 3.0).",
+   "iconURL": "https://raw.githubusercontent.com/SuperMarcus/NineAnimator/master/Misc/icon_rendered.png",
+   "tintColor": "8038E5",
+   "screenshots": [
+    "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/watch_next.dark.png",
+    "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/browse_episodes.png",
+    "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/information.png",
+    "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/library.dark.png",
+    "https://github.com/SuperMarcus/NineAnimator/raw/master/Misc/Media/Demo/Dark/listing_edit.dark.png"
+   ],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2023-05-30T13:58:02Z",
+     "localizedDescription": "# NineAnimator 1.3.0 Build 3 - May 30, 2023\n\n    \r\n    Copyright © 2018-2023 Marcus Zhou. All rights reserved.\r\n    \r\n    NineAnimator is free software: you can redistribute it and/or modify\r\n    it under the terms of the GNU General Public License as published by\r\n    the Free Software Foundation, either version 3 of the License, or\r\n    (at your option) any later version.\r\n    \r\n    NineAnimator is distributed in the hope that it will be useful,\r\n    but WITHOUT ANY WARRANTY; without even the implied warranty of\r\n    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\r\n    GNU General Public License for more details.\r\n    \r\n    You should have received a copy of the GNU General Public License\r\n    along with NineAnimator.  If not, see <http://www.gnu.org/licenses/>.\r\n    \r\n\r\n## Important Notes\r\n\r\n**Nightly releases**: Since version 1.2.7, automated builds of NineAnimator are available from [Github Actions](https://github.com/SuperMarcus/NineAnimator/actions). These builds usually have more up-to-date sources and servers. Join our [Discord server](https://discord.gg/dzTVzeW) for more information.\r\n\r\n**Backup Your Data**: Remember to backup your history & subscriptions before upgrading the app. In some rare cases, NineAnimator updates may cause the app settings to be reset. Use the `Create Backup` option in the app settings to create a backup file.\r\n\r\n**TestFlight Users**: Please note that builds of version 1.2.7 will not be immediately available to the NineAnimator Beta Testing program. Please use [other methods of installation](https://nineanimator.marcuszhou.com/docs/installation.html). Please join our [Discord server](https://discord.gg/dzTVzeW) for more information.\r\n\r\n**macOS Users**: The macCatalyst build is unsigned. If the system prompts you that the app cannot be opened, please go to `System Preferences -> Security & Privacy` and allow the app to run. Please join our [Discord server](https://discord.gg/dzTVzeW) for more information.\r\n\r\n**iOS 12 Users**: Starting from version 1.3.0, NineAnimator will only support devices running iOS 13 or higher versions. Please join our [Discord server](https://discord.gg/dzTVzeW) for more information.\r\n\r\nThe compiled IPA is attached below.",
+     "downloadURL": "https://github.com/SuperMarcus/NineAnimator/releases/download/1.3.0-3/NineAnimator_1.3.0_Build_3.iOS.ipa",
+     "size": 8144665
+    },
+    {
+     "version": "1.2.7",
+     "date": "2021-04-26T02:21:41Z",
+     "localizedDescription": "**## Important Notes\r**• *Backup Your Data**: Remember to backup your history & subscriptions before upgrading the app. In some rare cases, NineAnimator updates may cause the app settings to be reset. Use the `Create Backup` option in the app settings to create a backup file.\r\n\r\n• *TestFlight Users**: Please note that builds of version 1.2.7 will not be immediately available to the NineAnimator Beta Testing program. Please use [other methods of installation](https://nineanimator.marcuszhou.com/docs/installation.html). Please join our [Discord server](https://discord.gg/dzTVzeW) for more information.\r\n\r\n• *macOS Users**: The macCatalyst build is unsigned. If the system prompts you that the app cannot be opened, please go to `System Preferences -> Security & Privacy` and allow the app to run. Please join our [Discord server](https://discord.gg/dzTVzeW) for more information.\r\n\r\n• *iOS 12 Users**: Starting from version 1.2.7 Build 6, NineAnimator will only support devices running iOS 12.3 or higher versions. Please join our [Discord server](https://discord.gg/dzTVzeW) for more information.",
+     "downloadURL": "https://github.com/SuperMarcus/NineAnimator/releases/download/1.2.7-6/NineAnimator_1.2.7_Build_6.ipa",
+     "size": 9132049
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "HomeKit",
+      "usageDescription": "NineAnimator uses Home to run certain scenes during playback."
+     },
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "NineAnimator uses the local network to discover Cast-enabled devices on your home network."
+     }
+    ]
+   }
+  },
+  {
+   "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
+   "name": "Paperback",
+   "developerName": "Faizan Durrani",
+   "subtitle": "An ad-free manga reader for iOS.",
+   "localizedDescription": "Paperback is a fully ad-free manga reader for iOS 13 and iPadOS 13.4 and up.\n\niPad support\n• Friendly layout with a robust double spread chapter reader for iPad.\n\nMangaDex integration\n• Paperback will sync your mangas and settings to and from MangaDex.\n\nNo advertisements\n• Unlike other not-to-be-named apps and websites, this is a fully ad-free experience.\n\nIf you enjoy the app, please support the developer on Patreon to get access to the beta version of the app: https://www.patreon.com/FaizanDurrani",
+   "iconURL": "https://i.imgur.com/q8HqXb6.png",
+   "tintColor": "#202020",
+   "screenshots": [
+    "https://i.imgur.com/RfnknpJ.png",
+    "https://i.imgur.com/p6q0X1l.png",
+    "https://i.imgur.com/NLPzAxI.png",
+    "https://i.imgur.com/kZtdoxe.png",
+    "https://i.imgur.com/t42F34N.png"
+   ],
+   "versions": [
+    {
+     "version": "0.8.11",
+     "date": "2025-05-20T13:55:37Z",
+     "localizedDescription": "# Public Release 0.8.11 (2)\n\n",
+     "downloadURL": "https://github.com/Paperback-iOS/app/releases/download/v0.8.11-r2/Paperback.ipa",
+     "size": 13597210
+    },
+    {
+     "version": "0.8.6",
+     "date": "2023-11-06T05:51:12Z",
+     "localizedDescription": "# Public Release 0.8.6 (2)\n\n\n\nNOTE: BundleIdentifier changed in this version and automatic updates have been disabled until manual install occurs.",
+     "downloadURL": "https://github.com/Paperback-iOS/app/releases/download/v0.8.6-r2/Paperback-0.8.6r2.ipa",
+     "size": 10915503
+    },
+    {
+     "version": "0.7",
+     "date": "2022-05-28T06:15:01Z",
+     "localizedDescription": "# Public Release 0.7 (45)\n\n# Changelog\r\n - Fixed search history items not being cleared\r\n - Fixed Group Priority not working correctly",
+     "downloadURL": "https://github.com/Paperback-iOS/app/releases/download/v0.7-r45/Paperback.ipa",
+     "size": 21747099
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "FaceID",
+      "usageDescription": "Face ID is required to unlock Library"
+     },
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "Atlantis would use Bonjour Service to discover Proxyman app from your local network."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "Photo Library access is required to save images to Photos"
+     }
+    ]
+   }
+  },
+  {
+   "bundleIdentifier": "com.microblink.PhotoMath",
+   "name": "Photomath++",
+   "developerName": "Strejda603",
+   "subtitle": "Photomath with plus activated!",
+   "localizedDescription": "Photomath works as normal, only the premium features are activated as if you bought them.",
+   "iconURL": "https://img.ipa4fun.com/c9/1d/c3/919087726-logo.jpg",
+   "tintColor": "#830824",
+   "screenshots": [
+    "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-1.jpg",
+    "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-2.jpg",
+    "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-3.jpg",
+    "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-4.jpg",
+    "https://img.ipa4fun.com/c9/1d/c3/919087726-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "8.21.0",
+     "date": "2023-03-29T00:00:00Z",
+     "localizedDescription": "• Updated Photomath to v8.21.0",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath.Cracked.v8.21.0.ipa",
+     "size": 13700000
+    },
+    {
+     "version": "8.19.1",
+     "date": "2023-02-16T00:00:00Z",
+     "localizedDescription": "• Updated Photomath to v8.19.1",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Photomath+.v8.18.1.ipa",
+     "size": 12900000
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "syto203.reddit.pp",
+   "name": "Reddit++",
+   "developerName": "syto203",
+   "subtitle": "Ad-free, customizable Reddit.",
+   "localizedDescription": "The Reddit you know and love but with all the premium features you have always wanted.\n\n• Absolutely no ads.\n• Access to r/lounge\n• And more!",
+   "iconURL": "https://i.imgur.com/1YJO4aW.png",
+   "tintColor": "#ff4500",
+   "screenshots": [
+    "https://i.imgur.com/KWMTEJj.png",
+    "https://i.imgur.com/qHnOKuC.png",
+    "https://i.imgur.com/zg5knuy.png",
+    "https://i.imgur.com/XVC7rfu.png",
+    "https://i.imgur.com/H4xxQdt.png"
+   ],
+   "versions": [
+    {
+     "version": "2020.12.0",
+     "date": "2020-01-12T00:00:00Z",
+     "localizedDescription": "Bug fixes.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Reddit%2B%2B.ipa",
+     "size": 55538241
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.reddit.Reddit",
+   "name": "RedditFilter",
+   "developerName": "level3tjg",
+   "subtitle": "Filter out unwanted content from your Reddit feed. Configurable from in-app settings",
+   "localizedDescription": "- RedditFilter & RedditSideloadFix are made by u/level3tjg!!!\n- Filter out unwanted content from your Reddit feed. Configurable from in-app settings.\n- Requires iOS 14.0 or later.\n- Source code: \nhttps://github.com/level3tjg/RedditFilter\nhttps://github.com/level3tjg/RedditSideloadFix",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
+   "tintColor": "ff4600",
+   "screenshots": [
+    "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/1.PNG",
+    "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG"
+   ],
+   "versions": [
+    {
+     "version": "2023.50.1",
+     "date": "2024-01-05T12:00:00-01:00Z",
+     "localizedDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n",
+     "downloadURL": "https://github.com/qnblackcat/RedditFilter_Sideloaded/releases/download/v2023.50.1-1.1.1/RedditFilter_2023.50.1_1.1.1.ipa",
+     "size": 142121615
+    },
+    {
+     "version": "2023.37.0",
+     "date": "2023-02-22T12:00:00-01:00Z",
+     "localizedDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n",
+     "downloadURL": "https://github.com/qnblackcat/RedditFilter_Sideloaded/releases/download/v2023.07.0-1.1.1/RedditFilter_2023.07.0_1.1.1.ipa",
+     "size": 142121615
+    },
+    {
+     "version": "2022.45.0",
+     "date": "2022-12-12T12:00:00-01:00Z",
+     "localizedDescription": "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter\n",
+     "downloadURL": "https://github.com/qnblackcat/RedditFilter_Sideloaded/releases/download/v2022.45.0-1.0.9/RedditFilter_2022.45.0_1.0.9.ipa",
+     "size": 142121615
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "Calendars",
+      "usageDescription": "Reddit needs access to your calendar to operate the community calendar widget."
+     },
+     {
+      "name": "Camera",
+      "usageDescription": "Use your camera to record videos. See our Privacy Policy for more information."
+     },
+     {
+      "name": "FaceID",
+      "usageDescription": "Reddit needs access to Face ID to unlock your Vault."
+     },
+     {
+      "name": "LocationWhenInUse",
+      "usageDescription": "Reddit needs access to your location to show you communities and content in your area."
+     },
+     {
+      "name": "Microphone",
+      "usageDescription": "Reddit needs access to your microphone to post videos with audio."
+     },
+     {
+      "name": "PhotoLibraryAdd",
+      "usageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos."
+     },
+     {
+      "name": "UserTracking",
+      "usageDescription": "This allows Reddit to provide you with a better ads experience."
+     }
+    ]
+   }
+  },
+  {
+   "bundleIdentifier": "com.burbn.instagram",
+   "name": "Rocket for Instagram",
+   "developerName": "Alfhaily & Qn_",
+   "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 12.4 and later.",
+   "localizedDescription": "Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+   "tintColor": "c72a96",
+   "screenshots": [
+    "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+    "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+    "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+    "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+   ],
+   "versions": [
+    {
+     "version": "312.0.0",
+     "date": "2024-01-05T12:00:00-01:00Z",
+     "localizedDescription": "Changelog v312.0.0-3.8.19:\n- https://apt.alfhaily.me/depiction/4EYOXC",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EdNlrmF07-VKts4Vb-ZNdn8Bl_HIJjiUKwnNGHEzOsmW4g?download=1",
+     "size": 91750400
+    },
+    {
+     "version": "288.1",
+     "date": "2023-07-03T12:00:00-01:00Z",
+     "localizedDescription": "Changelog v280.0-3.8.9:\n- https://apt.alfhaily.me/depiction/4EYOXC",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EQv6sckLCvlGnfMH24EzBpsB0SIt-cMlQrxXYjO8U_H5IA?download=1",
+     "size": 91750400
+    },
+    {
+     "version": "280.0",
+     "date": "2023-04-28T12:00:00-01:00Z",
+     "localizedDescription": "Changelog v280.0-3.8.5:\n- https://apt.alfhaily.me/depiction/4EYOXC",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EVmGQw5amutDvTKiKOn6cdYBad3s6R-SsSAGV3BshbNd7g?download=1",
+     "size": 91750400
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "Calendars",
+      "usageDescription": "This will let Instagram sync events to your calendar."
+     },
+     {
+      "name": "Camera",
+      "usageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects."
+     },
+     {
+      "name": "Contacts",
+      "usageDescription": "Instagram will use your contacts to help you connect with the people and things you care about and offer a better service. Your contacts will be synced and securely stored on Instagram's servers."
+     },
+     {
+      "name": "FaceID",
+      "usageDescription": "Enable Face ID for quick and secure authentication on Instagram."
+     },
+     {
+      "name": "FocusStatus",
+      "usageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings."
+     },
+     {
+      "name": "LocationAlwaysAndWhenInUse",
+      "usageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings."
+     },
+     {
+      "name": "Location",
+      "usageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings."
+     },
+     {
+      "name": "LocationWhenInUse",
+      "usageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings."
+     },
+     {
+      "name": "Microphone",
+      "usageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects."
+     },
+     {
+      "name": "PhotoLibraryAdd",
+      "usageDescription": "This lets you save photos and videos to your Camera Roll."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share."
+     },
+     {
+      "name": "UserTracking",
+      "usageDescription": "This allows Instagram to provide you with a better ads experience."
+     }
+    ]
+   }
+  },
+  {
+   "bundleIdentifier": "com.toyopagroup.picaboo",
+   "name": "Snapchat++",
+   "developerName": "Kanji",
+   "subtitle": "Snapchat Tweaked with extra features!",
+   "localizedDescription": "Note: Notifications may not work for some devices\n\nFeatures:\n\n•Screenshot Supression - Screenshotting will no longer send a notification.\n\n• Keep Snaps In Chat - Delivered and open snaps will temporarily be saved in chat.\n\n• Story Ghost - View stories anonymously.\n\n• Snap Ghost - Snaps and messages will appear unviewed/unopened.\n\n• Spoof Story Views\n\n• Spoof Story Screenshots\n\n• Save To Camera Roll - Tap and hold while viewing a snap to bring up the UI press \"Save Snap\"\n\n• Hide Subtitle - Hide the subtitle containing an MOTD or something from the devs\n\n• Upload From Camera Roll - Press the upload button to select an image and then press the button to take a picture.\n\n• Hide Call Buttons - Hide the call buttons on recent Ul versions.\n\n• Video Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Audio Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Hide New Chat Button - Hide the blue button on the bottom on recent Ul versions.\n\n• Remove Highlights (Not Working) - Remove the stupid TikTok knock-off tab (requires app restart).\n\n• Hide Friendmoji - Hide the \"Friendmojis\" next to people's names (requires pull-refresh).\n\n• Randomize Best Friends - Randomly change the order off the best friends list.\n\n• Keep Normal Title - Enable this to hide the \"Shadow X\" label\n\n• Cool RGB Animation - Makes the shadow header RBG (think chromahomebarx).",
+   "iconURL": "https://img.ipa4fun.com/5f/b5/79/447188370-logo.jpg",
+   "tintColor": "#b0b004",
+   "screenshots": [
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-1.jpg",
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-2.jpg",
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-3.jpg",
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-4.jpg",
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "11.80.0",
+     "date": "2023-02-20T00:00:00Z",
+     "localizedDescription": "• Updated Snapchat to last working version with Shadow X (v11.80.0)",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Snapchat.v11.80.0.+.Shadow.X.ipa",
+     "size": 80600000
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.soundcloud.TouchApp",
+   "name": "SoundCloud++",
+   "developerName": "Codey Moore",
+   "subtitle": "SoundCloud with no ads and extra features.",
+   "localizedDescription": "SoundCloud Injected with DarkCloud - A Tweak that disables Ads and enables the developer menu.\n\nThe developer menu includes a wide range of adjustmets the user can make to the app, some include:\n\n• Block audio and video ads\n• Enable developer menu\n• Hide Go+ tab\n\nDon't worry, the tweaks you would expect (such as no ads) are enabled in the dev menu by default. So just install and enjoy.",
+   "iconURL": "https://img.ipa4fun.com/b1/62/d8/336353151-logo.jpg",
+   "tintColor": "#db5b14",
+   "screenshots": [
+    "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-1.jpg",
+    "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-2.jpg",
+    "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-3.jpg",
+    "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-4.jpg",
+    "https://img.ipa4fun.com/b1/62/d8/336353151-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "6.20.0",
+     "date": "2023-03-19T00:00:00Z",
+     "localizedDescription": "• Updated SoundCloud to v6.20.0\n• DarkCloud remains at latest (v1.4)",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/SoundCloud.v6.20.0.+.DarkCloud.v1.4.ipa",
+     "size": 58500000
+    },
+    {
+     "version": "6.18.0",
+     "date": "2023-02-26T00:00:00Z",
+     "localizedDescription": "• Updated SoundCloud to v6.18.0\n• DarkCloud remains at latest (v1.4)",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/SoundCloud.v6.18.0.+.DarkCloud.v1.4.ipa",
+     "size": 74000000
+    },
+    {
+     "version": "6.17.0",
+     "date": "2023-02-14T00:00:00Z",
+     "localizedDescription": "• Updated SoundCloud to v6.17.0\n• DarkCloud remains at Latest (v1.4)",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/SoundCloud.v6.17.0.+.DarkCloud.v1.4.ipa",
+     "size": 73800000
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.spotify.client",
+   "name": "Spotify++",
+   "developerName": "iJulioVerne",
+   "subtitle": "Spotify with free premium, and extra UI features",
+   "localizedDescription": "Spotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife - Premium for free.\n\n• Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n• Volify - Adds a volume slider to Spotify.\n\n• SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n• SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n• SpotifyHighQuality - Enables ’Very High’ Quality in Audio Quality settings\n\n•TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n• Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n",
+   "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
+   "tintColor": "#1c843c",
+   "screenshots": [
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.jpg",
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.jpg",
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.jpg",
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.jpg",
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "8.9.38",
+     "date": "2024-05-10T00:00:00Z",
+     "localizedDescription": "• EeveeSpotify now supports LRCLIB and Musixmatch time-synced lyrics sources! You can select your preferred source in the tweak settings\n• Lyrics colors are now normalized\n• Fixed Genius issue where the tweak would pick a translation instead of the original lyrics",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.38.+.Eevee.v3.0.ipa",
+     "size": 68800000
+    },
+    {
+     "version": "8.9.36",
+     "date": "2024-05-08T00:00:00Z",
+     "localizedDescription": "• Fixed app crashing when opening the player\n• EeveeSpotify now replaces Spotify monthly limited lyrics with Genius!\n• Updated Spotify to v8.9.36",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.36.+.Eevee.v2.1.ipa",
+     "size": 69100000
+    },
+    {
+     "version": "8.9.34",
+     "date": "2024-04-30T00:00:00Z",
+     "localizedDescription": "• Replaced Spotify v8.6.42 (Spotilife) with Spotify v8.9.34 (Eevee)",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.34.+.Eevee.v1.4.1.ipa",
+     "size": 65900000
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "AppleMusic",
+      "usageDescription": "This will let you play your imported music on Spotify."
+     },
+     {
+      "name": "BluetoothAlways",
+      "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
+     },
+     {
+      "name": "BluetoothPeripheral",
+      "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
+     },
+     {
+      "name": "Camera",
+      "usageDescription": "This lets you scan Spotify Codes."
+     },
+     {
+      "name": "FaceID",
+      "usageDescription": "This lets you set access restrictions using Face ID."
+     },
+     {
+      "name": "HealthShare",
+      "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
+     },
+     {
+      "name": "HealthUpdate",
+      "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
+     },
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
+     },
+     {
+      "name": "Microphone",
+      "usageDescription": "This lets you control Spotify using your voice."
+     },
+     {
+      "name": "Motion",
+      "usageDescription": "We will use this to understand which audio motivates you most."
+     },
+     {
+      "name": "PhotoLibraryAdd",
+      "usageDescription": "This lets you save images to your Photo Library."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "This lets you select images from your Photo Library."
+     },
+     {
+      "name": "UserTracking",
+      "usageDescription": "Your data will be used to deliver personalized ads or content to you."
+     }
+    ]
+   }
+  },
+  {
+   "bundleIdentifier": "com.streamerapp.ios",
+   "name": "Streamer",
+   "developerName": "StreamerApp",
+   "subtitle": "App for Streaming Movies and TV shows",
+   "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.\n\n- Stream all TV shows and Movies from multiple websites without any annoying ads\n- Supports Chromecast to stream to FireTV and Chromecasts\n- Supports multi-language subtitles for iOS and tvOS\n- Favorite functionality to quickly access your favorite shows and movies\n",
+   "iconURL": "https://i.imgur.com/JbUuxP9.png",
+   "tintColor": "#5e5e5e",
+   "screenshots": [
+    "https://user-images.githubusercontent.com/96978272/191682372-93158122-160c-446e-9384-282833cc5626.png",
+    "https://user-images.githubusercontent.com/96978272/191682918-b644aa53-3084-4c3b-b809-97f1b010f985.png",
+    "https://user-images.githubusercontent.com/96978272/191682352-3cb452c1-081e-4981-9dcc-6246a4b6ff4c.png",
+    "https://user-images.githubusercontent.com/96978272/191682345-f882e099-3ba3-4851-b5db-b9709bc64abe.png"
+   ],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2025-05-18T11:18:31Z",
+     "localizedDescription": "# V 1.3.0 Release\n\n🔍 Sora Search Integration\r\nGlobal search now includes results from Sora modules. Easily add supported add-ons from the Sora Library. https://sora.jm26.net/library/\r\n\r\n📺 Stremio Add-ons Support\r\nNow supports Stremio Subtitles and Live TV add-ons for a richer streaming experience.\r\n\r\n🎥 MPV Player with Dolby Vision Support\r\nNew MPV video engine enables high-quality playback, including full Dolby Vision support.\r\n\r\n🌍 Universal Resolver Upgrade (Torrentio & Comet)\r\nImproved source resolving with smarter Comet integration and enhanced Torrentio settings.\r\n\r\n🧑‍🎨 Redesigned Stremio UI\r\nUpdated interface with new media icons, improved layout, and smoother navigation.\r\n\r\n📱 iOS 15 Compatibility\r\nThe app now runs smoothly on older iOS 15 devices.\r\n\r\n📂 External Subtitles Add-on Support\r\nEasily connect external subtitle sources for greater flexibility.\r\n\r\n🔄 Trakt Integration Fixes\r\nMore reliable syncing of favorites and watch history, with improved handling of default keys and icons.\r\n\r\n\n\nNOTE: BundleIdentifier changed in this version and automatic updates have been disabled until manual install occurs.",
+     "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.3.0/Streamer-iOS.ipa",
+     "size": 45382385
+    },
+    {
+     "version": "1.2.42",
+     "date": "2025-02-22T18:01:35Z",
+     "localizedDescription": "# V 1.2.42 Release\n\n<img width=\"1694\" alt=\"Screenshot 2025-02-22 at 8 47 15 AM\" src=\"https://github.com/user-attachments/assets/87a93172-f13e-4d6f-968d-2902e352ab5e\" />\r\n📢 Release Update – Exciting Fixes & Improvements!\r\nWe’re back with a fresh update packed with key fixes and improvements to enhance your streaming experience! 🎉\r\n\r\n✅ Trakt Integration Fixed\r\nWe’ve resolved the issues with Trakt integration, ensuring that your watch history, progress tracking, and syncing work seamlessly across devices.\r\n\r\n📺 Anime Now Pulls Season 2 Episodes\r\nAnime fans, rejoice! 🎌 Season 2 episodes are now properly detected and displayed, so you won’t miss a single moment of your favorite series.\r\n\r\n🔧 Fixed Several Providers\r\nWe’ve gone under the hood and fixed multiple content providers, ensuring better reliability, faster loading, and improved stream availability.\r\n\r\n🐛 Various Bug Fixes & Performance Enhancements\r\nFrom small glitches to UI tweaks, we’ve tackled a range of bugs to make everything smoother and more stable.\r\n\r\n🚀 More Updates Coming Soon!\r\nThis is just the beginning! We’re actively working on more improvements, new features, and optimizations—stay tuned for even bigger things ahead!\r\n\r\nEnjoy the update & happy streaming! 🎬🍿",
+     "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.42/Streamer-iOS.ipa",
+     "size": 34524248
+    },
+    {
+     "version": "1.2.38",
+     "date": "2024-04-24T21:37:13Z",
+     "localizedDescription": "# V 1.2.38 Release\n\n- **New Feature: Custom Stremio Addon Support**\r\n  - You can now add your own custom Stremio addons to Streamer! These addons currently support IMDB and direct links, but torrent support is not available. Most self-hosted addons should work seamlessly.\r\n\r\n- **Enhancements: Jackett and Annatar Configurations**\r\n  - We've updated the support for Jackett and Annatar configurations. Enjoy improved performance and compatibility.\r\n\r\n- **Bug Fixes and New Provider: Filma24**\r\n  - The Flixtor provider has been fixed, and we've also added a new Albanian provider called Filma24.\r\n  - Additionally, this release includes various small bug fixes and overall improvements.\r\n\r\n<img width=\"627\" alt=\"Custom Stremio Addon Support\" src=\"https://github.com/StreamerApp/Streamer/assets/96978272/50aceceb-27ca-4807-ac95-ced248552149\">\r\n\n\nNOTE: BundleIdentifier changed in this version and automatic updates have been disabled until manual install occurs.",
+     "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.2.38/Streamer-iOS.ipa",
+     "size": 37008501
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "BluetoothAlways",
+      "usageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi network."
+     },
+     {
+      "name": "Camera",
+      "usageDescription": "Some ad content may access camera to take picture."
+     },
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "Streamer uses the local network to discover Cast-enabled devices on your WiFi network."
+     },
+     {
+      "name": "Motion",
+      "usageDescription": "Some ad content may require access to accelerometer for interactive ad experience."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "Some ad content may require access to the photo library."
+     },
+     {
+      "name": "UserTracking",
+      "usageDescription": "App would like to access IDFA for tracking purpose"
+     }
+    ]
+   }
+  },
+  {
+   "bundleIdentifier": "com.zhiliaoapp.musically",
+   "name": "TikTok++",
+   "developerName": "CrazyMind90",
+   "subtitle": "TikTok with added features.",
+   "localizedDescription": "TikTokLRD (Cracked) - Add features to the TikTok App:\n\n• Save video without watermark\n• Share or save the video\n• Hide the user interface\n• Play the next video automatically\n• Skip watching live while watching automatically\n• Show progress bar for video\n• Enable high-quality video upload\n• Save a profile picture\n• Show the number of videos\n• Create favorite groups\n• Increase the number of letters in the comment to 240\n• Show the country code for the video\n• Enable copying for description and account\n• Enable comments transparency\n• Hide you just saw\n• Read closed comments\n• Watching videos under review\n• Show creation video date\n• Hide ADS\n• Change country\n• Confirm | cancel the like\n• Confirm | cancel the like in the comments\n• Confirm | cancel the follow\n• Lock the app",
+   "iconURL": "https://img.ipa4fun.com/06/ac/ac/835599320-logo.jpg",
+   "tintColor": "#363636",
+   "screenshots": [
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-1.jpg",
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-2.jpg",
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-3.jpg",
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-4.jpg",
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "28.4.1",
+     "date": "2023-03-29T00:00:00Z",
+     "localizedDescription": "• Updated TikTok to v28.4.1\n• Updated LRD+ to v2.5\n\nOnce settings have been applied app will freeze close and relaunch app for settings to successfully apply",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v28.2.0.+.LRD+.ipa",
+     "size": 202000000
+    },
+    {
+     "version": "28.2.0",
+     "date": "2023-02-26T00:00:00Z",
+     "localizedDescription": "• Updated TikTok to v28.2.0",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v28.2.0.+.LRD+.ipa",
+     "size": 156000000
+    },
+    {
+     "version": "27.9.0",
+     "date": "2023-02-12T00:00:00Z",
+     "localizedDescription": "• Updated TikTok to v27.9.0 - This is currently the latest version of TikTok that works with TikTokLRD (Cracked)",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v27.9.0.+.LRD+.ipa",
+     "size": 160000000
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "tv.twitch",
+   "name": "Twitch++",
+   "developerName": "Michael Lema",
+   "subtitle": "Twitch Fox allows you to stream ad-free.",
+   "localizedDescription": "With Twitch Fox you get ad-free streams, the ability to download clips, and plenty more tweak options in Twitch's settings. Experience the games you love like never before! Watch live streams and chat with devoted gamers around the world.\n\nCatch the action as it happens! Access all the content you care about, from frenetic Overwatch multiplayer matches to soothing Bob Ross art demos. With millions of unique streamers every day playing everything under the sun, if it’s worth watching, it’s live on Twitch right now.\n\nTwitch: TOP 3 FEATURES\n1. Watch live videos of your favorite games, from blockbuster titles like Minecraft and League of Legends to little-known indie gems.\n2. Connect with other gamers in real time with full-featured live chat.\n3. Go live with a touch and share your passion with the world!\n\nBe a part of the leading social gaming platform on iPhone and iPad! With esports events, art, cooking, music and much more on demand, there’s something for everyone on Twitch.\n\n+ Watch interactive live shows from the likes of Sony, Microsoft, Blizzard and Riot Games.\n+ Tune into unique programming, from music festival live streams to exclusive video game events.\n+ Discover new content with ease thanks to simple and intuitive navigation.\n+ Switch to Dark Mode for those late night viewing sessions.\n\nJoin the millions of hardcore and casual gamers who have found a place to connect over the games they love. Take your passion to the next level with Twitch!",
+   "iconURL": "https://i.imgur.com/pcqVs0i.png",
+   "tintColor": "#9146ff",
+   "screenshots": [
+    "https://i.imgur.com/GWNj5HB.png",
+    "https://i.imgur.com/LZ9pnCc.png",
+    "https://i.imgur.com/mPF1OtD.png",
+    "https://i.imgur.com/QE7op8J.png",
+    "https://i.imgur.com/3dVqhBv.png"
+   ],
+   "versions": [
+    {
+     "version": "9.3.1",
+     "date": "2020-07-15T00:00:00Z",
+     "localizedDescription": "Twitch Fox v1.1\n\nBug fixes, stability fixes, and app optimizations.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Twitch++.ipa",
+     "size": 36594109
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsApp",
+   "name": "WhatsApp++",
+   "developerName": "unlimapps",
+   "subtitle": "WhatsApp but with more amazing features.",
+   "localizedDescription": "Features:\n\n• Hide your online and last seen status from others\n• Disable read receipts so that others will not know when you read their message\n• Disable delivery receipts so that others will know when the message has been delivered to you\n• Customize the look and feel of Whatsapp\n• Use a full profile picture that doesn't get cropped\n• Send more than 10 media at once\n• Share music from your device\n• Record audio with a single tap rather than having to tap and hold\n• Lock WhatsApp with Touch ID or passcode",
+   "iconURL": "https://i.imgur.com/pT4kfwk.png",
+   "tintColor": "#2ad347",
+   "screenshots": [
+    "https://i.imgur.com/QA8U38K.png",
+    "https://i.imgur.com/oeY0SpI.png",
+    "https://i.imgur.com/CNv0CNe.png"
+   ],
+   "versions": [
+    {
+     "version": "2.19.71",
+     "date": "2019-08-14T00:00:00Z",
+     "localizedDescription": "Bug fixes.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/WhatsApp%2B%2B.ipa?dl=1",
+     "size": 119535189
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.wolframalpha.wolframalpha",
+   "name": "WolframAlpha",
+   "developerName": "Wolfram Group, LLC",
+   "subtitle": "Use the power of Wolfram's computational intelligence.",
+   "localizedDescription": "Use the power of Wolfram's computational intelligence to answer your questions. Building on 30+ years of development led by Stephen Wolfram, Wolfram|Alpha is the world's definitive source for instant expert knowledge and computation.\n\nAcross thousands of domains—with more continually added—Wolfram|Alpha uses its vast collection of algorithms and data to compute answers and generate reports for you.\n\nWalk through the steps of solving many math and chemistry problems with Wolfram|Alpha. Get even more detailed assistance with a Wolfram|Alpha Pro subscription.\n\nParts of Wolfram|Alpha are used in Apple's Siri assistant; this app gives you access to the full power of the Wolfram|Alpha computational knowledge engine.\n\nUse Wolfram|Alpha to compute the following and much more:\n\n- Get homework help \"Factor 9x^2 + 29x + 6\"\n- Identify a plane \"Flights overhead\"\n- Find out weather \"Weather last New Year's\"\n- Get information on movies \"Movies with Keanu Reeves and Sandra Bullock\"\n- Get financial insight \"APPL vs. MSFT\"\n- Calculate units and measurements \"Seconds in a nanocentury\"\n- Get trivia answers \"Number of tennis balls that can fit in a Boeing 747\"\n- Find nutritional information \"Whopper vs. Big Mac\"\n- Get shopping help \"Chicago Target stores open at 10 pm\"\n- Get fitness information \"Running calculator\"\n- Have fun \"Tell me a joke\"",
+   "iconURL": "https://i.imgur.com/1MsjN5j.png",
+   "tintColor": "#ffc300",
+   "screenshots": [
+    "https://i.imgur.com/udPcT9r.png",
+    "https://i.imgur.com/ndKotFI.png",
+    "https://i.imgur.com/yQ4IQCb.png",
+    "https://i.imgur.com/PBqeoch.png",
+    "https://i.imgur.com/K2A653q.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0.5",
+     "date": "2019-11-26T00:00:00Z",
+     "localizedDescription": "Bug fixes.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/WolframAlpha.ipa?dl=1",
+     "size": 39855086
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "stream.yattee.app",
+   "name": "Yattee",
+   "developerName": "Yattee",
+   "subtitle": "Alternative YouTube frontend",
+   "localizedDescription": "Alternative YouTube frontent for iOS, tvOS and macOS built with Invidious and Piped.\nFeatures:\n- Native user interface built with SwiftUI\n- Multiple instances and accounts, fast switching\n- SponsorBlock, configurable categories to skip\n- Player queue and history\n- Fullscreen playback, Picture in Picture and AirPlay support\n- Stream quality selection\n- Favorites: customizable section of channels, playlists, trending, searches and other views",
+   "iconURL": "https://r.yattee.stream/icons/yattee-300-rectangle.png",
+   "tintColor": "21335C",
+   "screenshots": [
+    "https://r.yattee.stream/screenshots/iOS/trending.png",
+    "https://r.yattee.stream/screenshots/iOS/player.png",
+    "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
+   ],
+   "versions": [
+    {
+     "version": "1.3.5",
+     "date": "2022-08-17T00:00:00Z",
+     "localizedDescription": "- Fixed reported crash\n- Fixed issue where \"Add to Playlist\" window cannot be closed when there is no playlists",
+     "downloadURL": "https://github.com/yattee/yattee/releases/download/v1.3.5/Yattee-1.3.5-iOS.ipa",
+     "size": 2522502
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "jb.zini.tevi",
+   "name": "ZiniTevi++",
+   "developerName": "",
+   "subtitle": "Watch free movies and TV Shows on your iPhone!",
+   "localizedDescription": "Tweaked version of ZiniTevi - Ads disabled\n\nApp for Streaming Movies and TV Shows for free on your phone.\n\nApp features:\n\n• Play video online and offline.\n• Download multiple videos in background mode.\n• Stream video to Google's Chromecast, Airplay, Smart TV,\n• Android TV Box, Web Browser, UPnP, DLNA.\n• Add to favorites list.\n• Save to watched list.\n• Caption in video with all languages on over the world.\n• Trakt.tv to sync history and favorites list to the cloud.\n\nEnjoy!",
+   "iconURL": "https://i.imgur.com/rgL5qrB.png",
+   "tintColor": "#333939",
+   "screenshots": [
+    "https://static.appdb.to/images/cydia-1900000660-iphone-0.png",
+    "https://static.appdb.to/images/cydia-1900000660-iphone-1.png",
+    "https://static.appdb.to/images/cydia-1900000660-iphone-2.png"
+   ],
+   "versions": [
+    {
+     "version": "1.5.0",
+     "date": "2023-02-15T00:00:00Z",
+     "localizedDescription": "• Updated ZiniTevi to v1.5.0",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ZiniTevi+.v1.5.0.ipa",
+     "size": 7580000
+    }
+   ]
+  }
+ ]
+}

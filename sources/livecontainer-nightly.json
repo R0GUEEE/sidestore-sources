@@ -1,0 +1,84 @@
+{
+ "name": "LiveContainer (nightly)",
+ "identifier": "com.livecontainer.source.nightly",
+ "subtitle": "",
+ "description": "",
+ "website": "",
+ "tintColor": "#0A84FF",
+ "iconURL": "",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kdt.livecontainer",
+   "name": "LiveContainer (nightly)",
+   "developerName": "LiveContainer Team",
+   "subtitle": "Run iOS apps without actually installing them!",
+   "localizedDescription": "Run iOS apps without actually installing them!",
+   "iconURL": "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/AppIcon1024.png",
+   "tintColor": "#0784FC",
+   "screenshots": [
+    "https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/screenshots/1.png"
+   ],
+   "versions": [
+    {
+     "version": "3.8.13",
+     "date": "2026-11-07T17:12:11Z",
+     "localizedDescription": "Nightly build from [9d6ea09](https://github.com/LiveContainer/LiveContainer/commit/9d6ea09): Support for built-in jit enablers, ram donors, helper process etc\n\nThis is a nightly release [created automatically with GitHub Actions workflow](https://github.com/LiveContainer/LiveContainer/actions/runs/42464599105/attempts/2).\n",
+     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer.ipa",
+     "size": 4778765
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups",
+     "com.apple.developer.kernel.extended-virtual-addressing",
+     "com.apple.developer.kernel.increased-memory-limit",
+     "com.apple.developer.healthkit.background-delivery",
+     "com.apple.developer.healthkit",
+     "com.apple.developer.healthkit.access"
+    ],
+    "privacy": {
+     "LSRequiresIPhoneOS": "The guest app is requesting for this permission.",
+     "NFCReaderUsageDescription": "The guest app is requesting for this permission.",
+     "NSAppleMusicUsageDescription": "The guest app is requesting for this permission.",
+     "NSBluetoothAlwaysUsageDescription": "The guest app is requesting for this permission.",
+     "NSBluetoothPeripheralUsageDescription": "The guest app is requesting for this permission.",
+     "NSCalendarsFullAccessUsageDescription": "The guest app is requesting for this permission.",
+     "NSCalendarsWriteOnlyAccessUsageDescription": "The guest app is requesting for this permission.",
+     "NSCameraUsageDescription": "The guest app is requesting for this permission.",
+     "NSContactsUsageDescription": "The guest app is requesting for this permission.",
+     "NSFaceIDUsageDescription": "The guest app is requesting for this permission.",
+     "NSFallDetectionUsageDescription": "The guest app is requesting for this permission.",
+     "NSGKFriendListUsageDescription": "The guest app is requesting for this permission.",
+     "NSHealthClinicalHealthRecordsShareUsageDescription": "The guest app is requesting for this permission.",
+     "NSHealthRequiredReadAuthorizationTypeIdentifiers": "The guest app is requesting for this permission.",
+     "NSHomeKitUsageDescription": "The guest app is requesting for this permission.",
+     "NSIdentityUsageDescription": "The guest app is requesting for this permission.",
+     "NSLocalNetworkUsageDescription": "The guest app is requesting for this permission.",
+     "NSLocationDefaultAccuracyReduced": "The guest app is requesting for this permission.",
+     "NSLocationTemporaryUsageDescriptionDictionary": "The guest app is requesting for this permission.",
+     "NSLocationUsageDescription": "The guest app is requesting for this permission.",
+     "NSLocationWhenInUseUsageDescription": "The guest app is requesting for this permission.",
+     "NSMicrophoneUsageDescription": "The guest app is requesting for this permission.",
+     "NSMotionUsageDescription": "The guest app is requesting for this permission.",
+     "NSNearbyInteractionAllowOnceUsageDescription": "The guest app is requesting for this permission.",
+     "NSNearbyInteractionUsageDescription": "The guest app is requesting for this permission.",
+     "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+     "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission.",
+     "NSRemindersFullAccessUsageDescription": "The guest app is requesting for this permission.",
+     "NSSensorKitUsageDescription": "The guest app is requesting for this permission.",
+     "NSSiriUsageDescription": "The guest app is requesting for this permission.",
+     "NSSpeechRecognitionUsageDescription": "The guest app is requesting for this permission.",
+     "NSUserTrackingUsageDescription": "The guest app is requesting for this permission.",
+     "SBAppUsesLocalNotifications": "The guest app is requesting for this permission.",
+     "UIApplicationSceneManifest": "The guest app is requesting for this permission.",
+     "NSHealthUpdateUsageDescription": "The guest app is requesting for this permission.",
+     "NSHealthShareUsageDescription": "The guest app is requesting for this permission.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "The guest app is requesting for this permission."
+    }
+   }
+  }
+ ]
+}

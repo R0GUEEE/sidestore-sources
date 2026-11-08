@@ -1,0 +1,144 @@
+{
+ "name": "NexSideloading App Source",
+ "identifier": "nexsideloading.app-source",
+ "subtitle": "",
+ "description": "",
+ "website": "",
+ "tintColor": "#0A84FF",
+ "iconURL": "",
+ "apps": [
+  {
+   "bundleIdentifier": "org.angelauramc.amethyst",
+   "name": "Angel Aura Amethyst",
+   "developerName": "AngelAuraMC",
+   "subtitle": "",
+   "localizedDescription": "A Minecraft: Java Edition Launcher for iOS based on PojavLauncher.",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/Amethyst.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-01-01T00:00:00Z",
+     "localizedDescription": "Commit f98c413. A Minecraft: Java Edition Launcher for iOS based on PojavLauncher.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/org.angelauramc.amethyst-1.0-ios.ipa",
+     "size": 191972732
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "novadev.iram-plus",
+   "name": "iRAM+",
+   "developerName": "NovaDev404",
+   "subtitle": "",
+   "localizedDescription": "An app that allows you to enable Increased Memory Limit to your sideloaded apps directly on device.",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/iRAM-Plus.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.1",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "An app that allows you to enable Increased Memory Limit to your sideloaded apps directly on device.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/iRAM-Plus.ipa",
+     "size": 4562979
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.stossy11.MeloNX",
+   "name": "MeloNX",
+   "developerName": "Stossy11",
+   "subtitle": "",
+   "localizedDescription": "An open-source Nintendo Switch emulator for iPhone and iPad. No jailbreak required.",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/MeloNX.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7",
+     "date": "2026-10-11T00:00:00Z",
+     "localizedDescription": "An open-source Nintendo Switch emulator for iPhone and iPad. No jailbreak required.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/MeloNX.ipa",
+     "size": 49196463
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.novadev.nexstore",
+   "name": "NexStore",
+   "developerName": "NovaDev404",
+   "subtitle": "",
+   "localizedDescription": "The best sideloading app for iOS!",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/NexStore.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "The best sideloading app for iOS!",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/NexStore.ipa",
+     "size": 14975240
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.frizzle.sideinstaller",
+   "name": "SideInstaller",
+   "developerName": "FrizzleM",
+   "subtitle": "",
+   "localizedDescription": "An app that installs SideStore and LiveContainer directly on your iPhone on iOS 27, fully on-device. No PC required.",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/SideInstaller.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.1",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "An app that installs SideStore and LiveContainer directly on your iPhone on iOS 27, fully on-device. No PC required.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/SideInstaller.ipa",
+     "size": 10201016
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.stik.stikdebug",
+   "name": "StikDebug",
+   "developerName": "StephenDev0",
+   "subtitle": "",
+   "localizedDescription": "An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/StikDebug.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.15",
+     "date": "2026-10-16T00:00:00Z",
+     "localizedDescription": "An on-device debugger/JIT enabler for iOS versions 17.4+, powered by idevice.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/StikDebug-3.1.9.ipa",
+     "size": 13543234
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.majicjungle.blockheads",
+   "name": "The Blockheads",
+   "developerName": "Majic Jungle Software",
+   "subtitle": "",
+   "localizedDescription": "Explore, mine, craft and build in this giant and detailed sandbox game. Navigate huge simulated worlds thousands of blocks wide with a full temperature and climate system, seasons, an equator, and frozen poles. Explore complex cave systems and flowing water, and survive deserts and snowy mountain tops. Build, farm, find & craft your way to advanced technology including shops, steam trains, electricity, and more!",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/Blockheads.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2019-06-14T00:00:00Z",
+     "localizedDescription": "Explore, mine, craft and build in this giant and detailed sandbox game. Navigate huge simulated worlds thousands of blocks wide with a full temperature and climate system, seasons, an equator, and frozen poles. Explore complex cave systems and flowing water, and survive deserts and snowy mountain tops. Build, farm, find & craft your way to advanced technology including shops, steam trains, electricity, and more!",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/Blockheads_1.7.4.ipa",
+     "size": 85208920
+    }
+   ]
+  }
+ ]
+}

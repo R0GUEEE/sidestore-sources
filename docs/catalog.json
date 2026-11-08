@@ -1,0 +1,238 @@
+{
+ "generated": "2026-11-08T14:34:12Z",
+ "sources": [
+  {
+   "file": "altmaker.json",
+   "name": "Altmaker by RipeStore",
+   "identifier": "com.ripestore.altmaker",
+   "apps": 445,
+   "unique_bundle_ids": 445,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/altmaker.json"
+  },
+  {
+   "file": "apptesters.json",
+   "name": "AppTesters IPA Repo",
+   "identifier": "org.apptesters.repo",
+   "apps": 812,
+   "unique_bundle_ids": 812,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/apptesters.json"
+  },
+  {
+   "file": "cypwn-altstore.json",
+   "name": "CyPwn IPA Library (AltStore edition)",
+   "identifier": "xyz.cypwn.ipalibrary.altstore",
+   "apps": 180,
+   "unique_bundle_ids": 180,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/cypwn-altstore.json"
+  },
+  {
+   "file": "cypwn-trollstore.json",
+   "name": "CyPwn Trollstore Library",
+   "identifier": "xyz.cypwn.trollstorelibrary",
+   "apps": 119,
+   "unique_bundle_ids": 119,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/cypwn-trollstore.json"
+  },
+  {
+   "file": "cypwn.json",
+   "name": "CyPwn IPA Library",
+   "identifier": "xyz.cypwn.ipalibrary",
+   "apps": 180,
+   "unique_bundle_ids": 180,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/cypwn.json"
+  },
+  {
+   "file": "dsewerek-fastsign.json",
+   "name": "dsewerek fastsign (organized)",
+   "identifier": "com.dsewerek.fastsign",
+   "apps": 8400,
+   "unique_bundle_ids": 8400,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/dsewerek-fastsign.json"
+  },
+  {
+   "file": "dsewerek-general.json",
+   "name": "dsewerek's general apps",
+   "identifier": "com.dsewerek.general",
+   "apps": 1959,
+   "unique_bundle_ids": 1959,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/dsewerek-general.json"
+  },
+  {
+   "file": "dsewerek-selected.json",
+   "name": "dsewerek's selected apps",
+   "identifier": "com.dsewerek.selected",
+   "apps": 2,
+   "unique_bundle_ids": 2,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/dsewerek-selected.json"
+  },
+  {
+   "file": "fastsign.json",
+   "name": "Alan's Gigantic Repo",
+   "identifier": "dev.fastsign.repo",
+   "apps": 3725,
+   "unique_bundle_ids": 3725,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/fastsign.json"
+  },
+  {
+   "file": "frizzlem.json",
+   "name": "FrizzleM's AltSource",
+   "identifier": "com.frizzlem.altsource",
+   "apps": 2,
+   "unique_bundle_ids": 2,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/frizzlem.json"
+  },
+  {
+   "file": "geode.json",
+   "name": "Geode iOS",
+   "identifier": "org.geode-sdk.ios.altsource",
+   "apps": 1,
+   "unique_bundle_ids": 1,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/geode.json"
+  },
+  {
+   "file": "itslevii.json",
+   "name": "itslevii",
+   "identifier": "dev.itslevii.source",
+   "apps": 6,
+   "unique_bundle_ids": 6,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/itslevii.json"
+  },
+  {
+   "file": "ittza7aa.json",
+   "name": "Ittz_A7aa VIP",
+   "identifier": "com.ittza7aa.repo",
+   "apps": 726,
+   "unique_bundle_ids": 726,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/ittza7aa.json"
+  },
+  {
+   "file": "livecontainer-nightly.json",
+   "name": "LiveContainer (nightly)",
+   "identifier": "com.livecontainer.source.nightly",
+   "apps": 1,
+   "unique_bundle_ids": 1,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/livecontainer-nightly.json"
+  },
+  {
+   "file": "livecontainer-sidestore.json",
+   "name": "LiveContainer + SideStore",
+   "identifier": "com.livecontainer.source.sslc",
+   "apps": 1,
+   "unique_bundle_ids": 1,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/livecontainer-sidestore.json"
+  },
+  {
+   "file": "livecontainer-stable.json",
+   "name": "LiveContainer",
+   "identifier": "com.livecontainer.source.stable",
+   "apps": 1,
+   "unique_bundle_ids": 1,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/livecontainer-stable.json"
+  },
+  {
+   "file": "neoncat-native.json",
+   "name": "Neoncat-OG (native)",
+   "identifier": "xyz.hieuddo.ipalibrary.native",
+   "apps": 286,
+   "unique_bundle_ids": 286,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/neoncat-native.json"
+  },
+  {
+   "file": "neoncat.json",
+   "name": "Neoncat-OG IPA Library",
+   "identifier": "xyz.hieuddo.ipalibrary",
+   "apps": 286,
+   "unique_bundle_ids": 286,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/neoncat.json"
+  },
+  {
+   "file": "nexsideloading.json",
+   "name": "NexSideloading App Source",
+   "identifier": "nexsideloading.app-source",
+   "apps": 7,
+   "unique_bundle_ids": 7,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/nexsideloading.json"
+  },
+  {
+   "file": "owo.json",
+   "name": "OwO Source",
+   "identifier": "network.owo.repo",
+   "apps": 29,
+   "unique_bundle_ids": 29,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/owo.json"
+  },
+  {
+   "file": "provenance.json",
+   "name": "Provenance",
+   "identifier": "org.provenance-emu.source",
+   "apps": 4,
+   "unique_bundle_ids": 4,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/provenance.json"
+  },
+  {
+   "file": "quantumsource.json",
+   "name": "QuantumSource++",
+   "identifier": "com.quarksources.quantumsource",
+   "apps": 35,
+   "unique_bundle_ids": 35,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/quantumsource.json"
+  },
+  {
+   "file": "riftys.json",
+   "name": "Riftys Repo",
+   "identifier": "com.riftysrepo.source",
+   "apps": 36,
+   "unique_bundle_ids": 36,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/riftys.json"
+  },
+  {
+   "file": "shplash.json",
+   "name": "shplash Repo",
+   "identifier": "com.shplash.repo",
+   "apps": 2,
+   "unique_bundle_ids": 2,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/shplash.json"
+  },
+  {
+   "file": "sidestore-community.json",
+   "name": "SideStore Community",
+   "identifier": "io.sidestore.community",
+   "apps": 23,
+   "unique_bundle_ids": 23,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/sidestore-community.json"
+  },
+  {
+   "file": "sidestore-connect.json",
+   "name": "SideStore Connect",
+   "identifier": "io.sidestore.connect",
+   "apps": 8,
+   "unique_bundle_ids": 8,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/sidestore-connect.json"
+  },
+  {
+   "file": "sidestore-official.json",
+   "name": "SideStore",
+   "identifier": "com.SideStore.SideStore.source",
+   "apps": 1,
+   "unique_bundle_ids": 1,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/sidestore-official.json"
+  },
+  {
+   "file": "stikdebug.json",
+   "name": "StikDebug",
+   "identifier": "xyz.stikdebug.source",
+   "apps": 2,
+   "unique_bundle_ids": 2,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/stikdebug.json"
+  },
+  {
+   "file": "swaggy.json",
+   "name": "swaggyP36000 IPA Library",
+   "identifier": "xyz.hieuddo.ipalibrary.swaggy",
+   "apps": 109,
+   "unique_bundle_ids": 109,
+   "url": "https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/swaggy.json"
+  }
+ ],
+ "merged_apps": 9484
+}

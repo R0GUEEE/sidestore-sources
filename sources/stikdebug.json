@@ -1,0 +1,65 @@
+{
+ "name": "StikDebug",
+ "identifier": "xyz.stikdebug.source",
+ "subtitle": "",
+ "description": "",
+ "website": "",
+ "tintColor": "#0A84FF",
+ "iconURL": "",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stik.stikdebug",
+   "name": "StikDebug",
+   "developerName": "StikDebug",
+   "subtitle": "On-device JIT enabler and device toolbox.",
+   "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
+   "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
+   "tintColor": "#3B86F7",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.1",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "- More error cleanup\r\n- Chinese (Simplified) localization\r\n- Kill processes via name via url scheme\r\n- FYI- StikDebug now requires Xcode 27+\n\nWhat's Changed\n Added Chinese localization by @jlj1102 in https://github.com/StikDebug/StikDebug/pull/494\n\nNew Contributors\n @jlj1102 made their first contribution in https://github.com/StikDebug/StikDebug/pull/494\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.2.0...3.2.1",
+     "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.1/StikDebug-3.2.1.ipa",
+     "size": 16924629
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "StikDebug needs access to devices on your local network so it can connect to the ip of the target device.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your connection. This can be turned off in settings.",
+     "NSLocationWhenInUseUsageDescription": "StikDebug uses location to stay running in the background and maintain your connection. This can be turned off in settings."
+    }
+   }
+  },
+  {
+   "bundleIdentifier": "com.stik.StikPair",
+   "name": "StikPair",
+   "developerName": "StikDebug",
+   "subtitle": "Requires iOS 27+",
+   "localizedDescription": "A simple SwiftUI iOS app that creates a pairing file on-device, using iOS 27+ wireless pairing.  Note: Requires iOS 27+.",
+   "iconURL": "https://github.com/StikDebug/StikPair/blob/main/App/Assets.xcassets/AppLogo.imageset/StikPair-iOS-Default-1024%401x.png?raw=true",
+   "tintColor": "#3B86F7",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "Added Apple TV wireless pairing.",
+     "downloadURL": "https://github.com/StikDebug/StikPair/releases/download/v1.2.0/StikPair.ipa",
+     "size": 7735750
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "StikPair needs access to devices on your local network so the it can pair with your device.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "StikPair uses location to stay running in the background. This can be turned off in the main view.",
+     "NSLocationWhenInUseUsageDescription": "StikPair uses location to stay running in the background and maintain your connection. This can be turned off in the main view."
+    }
+   }
+  }
+ ]
+}

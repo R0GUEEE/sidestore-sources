@@ -1,0 +1,63 @@
+{
+ "generated": "2026-11-08T14:34:12Z",
+ "results": [
+  {
+   "file": "apptesters.json",
+   "name": "AppTesters IPA Repo",
+   "upstream": 10084,
+   "kept": 812,
+   "no_bundle_id": 0,
+   "no_versions": 0,
+   "duplicates": 9272
+  },
+  {
+   "file": "cypwn.json",
+   "name": "CyPwn IPA Library",
+   "upstream": 209,
+   "kept": 180,
+   "no_bundle_id": 0,
+   "no_versions": 0,
+   "duplicates": 29
+  },
+  {
+   "file": "neoncat.json",
+   "name": "Neoncat-OG IPA Library",
+   "upstream": 1988,
+   "kept": 286,
+   "no_bundle_id": 0,
+   "no_versions": 0,
+   "duplicates": 1702
+  },
+  {
+   "file": "cypwn-trollstore.json",
+   "name": "CyPwn Trollstore Library",
+   "upstream": 127,
+   "kept": 119,
+   "no_bundle_id": 0,
+   "no_versions": 0,
+   "duplicates": 8
+  },
+  {
+   "file": "ittza7aa.json",
+   "name": "Ittz_A7aa VIP",
+   "upstream": 1794,
+   "kept": 726,
+   "no_bundle_id": 11,
+   "no_versions": 0,
+   "duplicates": 1057
+  },
+  {
+   "file": "cypwn-altstore.json",
+   "name": "CyPwn IPA Library (AltStore edition)",
+   "upstream": 180,
+   "kept": 180,
+   "no_bundle_id": 0,
+   "no_versions": 0,
+   "duplicates": 0
+  }
+ ],
+ "merged": {
+  "apps": 9484,
+  "sources": 29
+ }
+}

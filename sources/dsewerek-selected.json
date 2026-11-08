@@ -1,0 +1,77 @@
+{
+ "name": "dsewerek's selected apps",
+ "identifier": "com.dsewerek.selected",
+ "subtitle": "",
+ "description": "",
+ "website": "",
+ "tintColor": "#0A84FF",
+ "iconURL": "",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client",
+   "name": "Spotify",
+   "developerName": "jaydenjcpy/Skye/whoeevee",
+   "subtitle": "Latest Eevee release",
+   "localizedDescription": "Now support any custom lyrics source\n\nThis tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+   "iconURL": "https://i.imgur.com/j51OrKn.png",
+   "tintColor": "#1cd464",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.48",
+     "date": "2026-05-11T00:00:00Z",
+     "localizedDescription": "- Updated to Spotify v9.1.48\n- Fix crashes\n\nCredits:\nfarokbmiledzx\nPluginsInject",
+     "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/303874879/download",
+     "size": 111225012
+    },
+    {
+     "version": "9.1.34",
+     "date": "2026-04-07T00:00:00Z",
+     "localizedDescription": "- Updated to Spotify v9.1.34\n- More Adblocking for visual pop-ups and Ads\n- As always, thanks to blatants for his patch bot\nDISABLE ANY VPN BEFORE OPENING AFTER INSTALL",
+     "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/289733435/download",
+     "size": 98723618
+    },
+    {
+     "version": "9.1.32",
+     "date": "2026-04-01T00:00:00Z",
+     "localizedDescription": "The logout issue is fixed\n\n- EeveeSpotifyRevived public v9.1.32 Crashes Fixed\n— Improved AdBlocking for blocking home page ads\n— Logout and Crash Fixes\nThanks to blatant's for his patch bot",
+     "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/289722012/download",
+     "size": 97200573
+    }
+   ]
+  },
+  {
+   "bundleIdentifier": "com.spotify.client.patched",
+   "name": "Spotify (Patched)",
+   "developerName": "jaydenjcpy/Skye/whoeevee",
+   "subtitle": "Patched for paid certs",
+   "localizedDescription": "Warning : Only use with Feather, ESign or KSign, or TrollApps.\n\nNow support any custom lyrics source\n\nUsing the patched IPA should fix any widgets issues had when sideloading with paid certs (with app groups entitlement). this fix does not work with free sideloading methods such as AltStore/Sideloadly, and TrollStore users do not need to use a patched IPA.\n\nfurther note: this IPA should be considered a beta test for now, so general support will not be provided for it.",
+   "iconURL": "https://i.imgur.com/j51OrKn.png",
+   "tintColor": "#1cd464",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.48",
+     "date": "2026-05-11T00:00:00Z",
+     "localizedDescription": "- Updated to Spotify v9.1.48\n- Fix crashes\n\nCredits:\nfarokbmiledzx\nPluginsInject",
+     "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/303874951/download",
+     "size": 113640523
+    },
+    {
+     "version": "9.1.34",
+     "date": "2026-04-07T00:00:00Z",
+     "localizedDescription": "- Updated to Spotify v9.1.34\n- More Adblocking for visual pop-ups and Ads\n- As always, thanks to blatants for his patch bot\nDISABLE ANY VPN BEFORE OPENING AFTER INSTALL",
+     "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/289733485/download",
+     "size": 104414955
+    },
+    {
+     "version": "9.1.32",
+     "date": "2026-04-01T00:00:00Z",
+     "localizedDescription": "The logout issue is fixed\n\n- EeveeSpotifyRevived public v9.1.32 Crashes Fixed\n— Improved AdBlocking for blocking home page ads\n— Logout and Crash Fixes\nThanks to blatant's for his patch bot",
+     "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/289722040/download",
+     "size": 102814856
+    }
+   ]
+  }
+ ]
+}

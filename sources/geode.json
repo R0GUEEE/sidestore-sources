@@ -1,0 +1,61 @@
+{
+ "name": "Geode iOS",
+ "identifier": "org.geode-sdk.ios.altsource",
+ "subtitle": "",
+ "description": "",
+ "website": "",
+ "tintColor": "#0A84FF",
+ "iconURL": "",
+ "apps": [
+  {
+   "bundleIdentifier": "com.geode.launcher",
+   "name": "Geode",
+   "developerName": "Geode SDK Team",
+   "subtitle": "Geode, now on iOS!",
+   "localizedDescription": "Geode, has come to iOS!",
+   "iconURL": "https://raw.githubusercontent.com/geode-sdk/ios-launcher/main/Icons/Default.png",
+   "tintColor": "#272727",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.5",
+     "date": "2026-09-15T07:26:49Z",
+     "localizedDescription": "Massive bug fix update! Including the fix for iOS 27 devices not being able to run Geode!\r\n\r\n- Fixed **iOS 27** compatibility\r\n- Fixed importing mods in JIT-Less not being signed (https://github.com/geode-sdk/ios-launcher/issues/180)\r\n- Fixed iPhone SE devices from not being able to tap the Import Certificate button on the setup\r\n- Fixed restarting not working in LiveContainer JIT-Less\r\n- Changed the \"You need to update the Helper\" message to explain whether the Helper was actually updated or not\r\n- Attempt to fix the \"first time setup\" on Enterprise Mode from reappearing (due to IPA being removed from temporary directory)\r\n- Use new release API endpoint  for downloading Geode (for those who can't access github.com)\r\n- Added safe mode restarting\r\n- Added metadata information in the About section in settings\r\n- Added in settings: Open crashlogs (Opens the crashlogs folder), Download and redownload (Deletes Geode and redownloads it, usually fixing issues if geode is missing in GD)\r\n- Added custom JIT enabler\r\n- Added skipping the intro setup\r\n\r\nView the [INSTALL.md](https://github.com/geode-sdk/ios-launcher/blob/main/INSTALL.md) guide on installing.\r\n\r\n**Full Changelog**: https://github.com/geode-sdk/ios-launcher/compare/v1.5.4...v1.5.5",
+     "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.5.5/com.geode.launcher_1.5.5.ipa",
+     "size": 13256824
+    },
+    {
+     "version": "1.5.4",
+     "date": "2026-04-01T07:09:04Z",
+     "localizedDescription": "Sapphire SDK!\r\n\r\n- Replaced default logo with Sapphire SDK\r\n- Fixed PDF rendering for iOS 18+ (hopefully)\r\n\r\nView the [INSTALL.md](https://github.com/geode-sdk/ios-launcher/blob/main/INSTALL.md) guide on installing.\r\n\r\n**Full Changelog**: https://github.com/geode-sdk/ios-launcher/compare/v1.5.3...v1.5.4",
+     "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.5.4/com.geode.launcher_1.5.4.ipa",
+     "size": 13242128
+    },
+    {
+     "version": "1.5.3",
+     "date": "2026-03-15T20:06:48Z",
+     "localizedDescription": "An important bug fix that fixes mods that require static hook patching, and more!\r\n\r\n- Made iOS 26 use JIT-Less by default on the setup\r\n- Disabled Automatic Launch for Enterprise Mode\r\n- Disabled Launch without Patching for non-developers, requiring Developer Mode to use\r\n- Fixed static hook patching causing Geometry Dash to not launch anymore\r\n- Fixed the wrong link for the PC guide on the setup\r\n\r\nView the [INSTALL.md](https://github.com/geode-sdk/ios-launcher/blob/main/INSTALL.md) guide on installing.\r\n\r\n**Full Changelog**: https://github.com/geode-sdk/ios-launcher/compare/v1.5.2...v1.5.3",
+     "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.5.3/com.geode.launcher_1.5.3.ipa",
+     "size": 10354018
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "com.apple.developer.kernel.extended-virtual-addressing",
+     "com.apple.developer.kernel.increased-memory-limit",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "com.apple.private.MobileContainerManager.allowed",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSMicrophoneUsageDescription": "A mod you are using is requesting this permission.",
+     "NSCameraUsageDescription": "A mod you are using is requesting this permission.",
+     "NSLocalNetworkUsageDescription": "This permission is needed for accessing the JIT server."
+    }
+   }
+  }
+ ]
+}

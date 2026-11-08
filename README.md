@@ -1,79 +1,93 @@
 # sidestore-sources
 
-SideStore-native source JSON, rebuilt from repositories that still publish the legacy
-AltStore 1.x / eSign layout. Plus the tooling that produces and validates them.
+Every upstream source I could reach — including the ones that still publish the legacy
+AltStore 1.x / eSign layout — converted into the format SideStore actually parses.
 
-SideStore parses `name`, `identifier`, `apps[].bundleIdentifier` and
-`apps[].versions[].downloadURL`. Sources that put `version` / `versionDate` / `downloadURL`
-at the app level parse to an empty app list, so they import "successfully" and then show
-nothing. Everything in `sources/` is in the `versions[]` form.
+SideStore reads `name`, `identifier`, `apps[].bundleIdentifier` and
+`apps[].versions[].downloadURL`. Fix one field and a broken source starts working.
+`tools/convert.py` fixes all of them.
 
-## Add to SideStore
+## Add to SideStore (`Sources → +`)
 
-`SideStore → Sources → +` and paste one of:
+**Everything in one source:**
 
-| Source | URL | Apps |
+```
+https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/merged.json
+```
+9,484 apps, deduplicated by bundle ID.
+
+Per-upstream files (29) are in [`sources/`](sources) — browse them at
+[docs/sources.html](docs/sources.html):
+
+| Source | Apps | File |
 |---|---|---|
-| Everything, merged | `https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/merged.json` | 1,230 |
-| AppTesters (AppStore apps) | `https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/mirror-apptesters.json` | 785 |
-| Neoncat-OG | `https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/mirror-neoncat.json` | 286 |
-| CyPwn (TrollStore-era builds) | `https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/sources/mirror-cypwn.json` | 130 |
+| dsewerek fastsign (organized) | 8,400 | `dsewerek-fastsign.json` |
+| dsewerek general | 1,959 | `dsewerek-general.json` |
+| fastsign.dev | 3,725 | `fastsign.json` |
+| AppTesters | 812 | `apptesters.json` |
+| ittza7aa | 726 | `ittza7aa.json` |
+| AltMaker (RipeStore) | 445 | `altmaker.json` |
+| Neoncat-OG | 286 | `neoncat.json` |
+| CyPwn (native + TrollStore) | 180 + 119 | `cypwn*.json` |
+| swaggyP36000 | 109 | `swaggy.json` |
+| Riftys | 36 | `riftys.json` |
+| QuantumSource++ | 35 | `quantumsource.json` |
+| OwO | 29 | `owo.json` |
+| SideStore community | 23 | `sidestore-community.json` |
+| SideStore connect | 8 | `sidestore-connect.json` |
+| NexSideloading | 7 | `nexsideloading.json` |
+| itslevii | 6 | `itslevii.json` |
+| Provenance | 4 | `provenance.json` |
+| FrizzleM, shplash, StikDebug, Geode, LiveContainer ×3, SideStore official, dsewerek selected | 1–2 each | — |
 
-## Upstream URLs that work as-is
+## What the conversion does
 
-| Repo | URL | Apps |
-|---|---|---|
-| LiveContainer (nightly) | `https://github.com/LiveContainer/LiveContainer/releases/download/nightly/apps_nightly.json` | 1 |
-| LiveContainer + SideStore | `https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/.github/apps_ss_lc.json` | 1 |
-| shplash | `https://shplash.github.io/shplash-repo/apps.json` | 2 |
-| AltMaker (RipeStore) | `https://raw.githubusercontent.com/RipeStore/altmaker/main/AltMaker.json` | 445 |
-| itslevii | `https://itslevii.dev/repo.json` | 6 |
-| NexSideloading | `https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/repo.json` | 7 |
-| fastsign | `https://fastsign.dev/repo.json` | 16,945 |
-| Neoncat-OG (native) | `https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json` | 347 |
-| CyPwn (native) | `https://ipa.cypwn.xyz/cypwn_altstore.json` | 180 |
-| FrizzleM | `https://raw.githubusercontent.com/FrizzleM/SideInstaller/main/frizzlem.json` | 2 |
-| SideStore official | `https://apps.sidestore.io` | 6 |
-| SideStore community | `https://community-apps.sidestore.io/sidecommunity.json` | 23 |
-| SideStore connect | `https://connect.sidestore.io/apps.json` | 8 |
-| QuantumSource++ | `https://quarksources.github.io/quantumsource++.json` | 35 |
-| swaggyP36000 | `https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json` | 133 |
+- **legacy → `versions[]`** — app-level `version` / `versionDate` / `downloadURL` / `size`
+  move into a `versions` array; multi-version sources are sorted newest-first and capped at 3.
+- **dates normalized to ISO 8601** — `2026-11-08` → `2026-11-08T00:00:00Z`; a date that can't be
+  parsed sorts last instead of silently winning the dedupe.
+- **bundle IDs** — entries with a non reverse-DNS ID (Amperwave hashes, `hello-weather-app`,
+  `cypwn.AppDB_1.1.5.1.1.5`) get a stable `synthetic.<name>.<hash>` placeholder so the entry
+  remains listed; entries with a `null` ID and no app payload are dropped.
+- **dedupe** — one app per bundle ID, newest version wins (AppTesters: 10,084 rows → 812 apps,
+  9,272 duplicates collapsed; fastsign 16,945 → 3,725; ittza7aa 1,794 → 726).
+- **headers** — sources missing `identifier` (all three dsewerek files) get one; missing icons,
+  subtitles and tint colors are filled in.
+- legacy keys (`version`, `versionDate`, `versionDescription`) are re-emitted next to `versions[]`
+  for clients that still look for them.
 
-## Why the rest of the list is here
+## Not convertible
 
-| Upstream | Problem |
+| Input | Why |
 |---|---|
-| `https://repository.apptesters.org` | 10,084 apps, 100% legacy layout → `sources/mirror-apptesters.json` |
-| `https://ipa.cypwn.xyz/cypwn.json` | legacy + 50 bogus bundle IDs (hex hashes) → use `cypwn_altstore.json` |
-| `https://ipa.cypwn.xyz/cypwn_ts.json` | legacy, no native twin → `sources/mirror-cypwn.json` |
-| `https://repo.owo.network/` | legacy only → folded into `merged.json` |
-| `Neoncat-OG/.../apps_esign.json` | 1,988 legacy entries → use `apps.json`, or `sources/mirror-neoncat.json` |
-| `notrifty1/riftysrepo` | legacy, and 36/43 download URLs point at dead Heroku dynos |
-| `ittza7aa.com/repo.json` | 1,794 entries for 341 bundle IDs, 704 with `bundleIdentifier: null` |
-| `dsewerek/dsewerek-s-source` | valid apps but no `identifier` header — add it and it loads (1,961 apps) |
-| `LiveContainer/.../nightly/apps_ss_lc.json` | 404, it is only in the git tree |
+| `file:///var/mobile/Containers/…/telegram-source.json` | an iOS app container path — not readable by the sandbox, and not a URL SideStore can load. Re-export the file to Files, then host it (the converter takes any http(s) URL; add it to `upstreams.json`). |
+| `https://repos.yattee.stream/alt/apps.json` | 404 upstream |
+| `https://theodyssey.dev/altstore/odysseysource.json` | 404 upstream |
+| `https://ftrepo.xyz/apps.json` | 530 upstream |
+| `https://alt.crystall1ne.dev`, `https://rickowens.su/repo.json` | unreachable / 403 |
 
 ## Layout
 
 ```
-sources/            generated source JSON (served straight to SideStore)
-docs/index.html     audit report for the 16 upstream URLs
+sources/            converted source JSON (served straight to SideStore)
+upstreams.json      registry: one entry per upstream URL → output file
+docs/index.html     audit of the original 16 URLs
+docs/sources.html   index of every converted file with its raw URL
+docs/catalog.json   machine-readable list of the same
+tools/convert.py    fetch + normalize (the converter)
+tools/aggregate.py  rebuild sources/merged.json + docs/catalog.json
 tools/ja.py         validate a URL list (stdin, one per line)
-tools/fcheck.py     validate local files
-tools/merge.py      legacy -> versions[] normalizer + per-source generation
+tools/fcheck.py     validate converted files
 tools/verify.py     compatibility matrix against SideStore's decode rules
 tools/discover.py   walk a GitHub repo tree and validate every .json
 ```
 
-Regenerate:
+Regenerate everything:
 
 ```sh
-python3 tools/merge.py                      # rewrites sources/*.json
+python3 tools/convert.py      # all upstreams → sources/*.json
+python3 tools/aggregate.py    # → sources/merged.json
 python3 tools/fcheck.py sources/*.json
 ```
 
-Merging keeps the newest version per `bundleIdentifier`, drops entries without a
-conforming bundle ID (SideStore looks apps up by bundle ID), and caps history at three
-versions per app.
-
-These files only point at upstream download URLs — IPAs are not mirrored here.
+These files only point at upstream download URLs — no IPAs are mirrored here.

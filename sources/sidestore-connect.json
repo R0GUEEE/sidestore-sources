@@ -1,0 +1,266 @@
+{
+ "name": "SideStore Connect",
+ "identifier": "io.sidestore.connect",
+ "subtitle": "",
+ "description": "",
+ "website": "",
+ "tintColor": "#0A84FF",
+ "iconURL": "",
+ "apps": [
+  {
+   "bundleIdentifier": "me.kingbri.ferrite",
+   "name": "Ferrite",
+   "developerName": "RoyalLab",
+   "subtitle": "",
+   "localizedDescription": "Ferrite is a magnet search engine and debrid management app for iOS.\n\nCompared to other platforms, iOS doesn't have any good options for using debrid services with media. Ferrite aims to change that by giving users a simple UI and an extensible framework to search the websites you want without all the clutter.\n\nBut, what is debrid? Well, it's a bunch of servers in the cloud that cache media from P2P sharing services. Therefore, a user does not have to worry about waiting for a P2P download to finish or waste storage space on one large file.\n\nFerrite also has other features for convenience including:\n- Local library with history and bookmarks\n- Cloud management\n- Kodi integration\n- Ad-free\n- Flexible parser written in native Swift\n- Intuitive filters while searching\n\nThese are the currently supported debrid services:\n- RealDebrid\n- AllDebrid\n- Premiumize\n- TorBox\n- OffCloud\n\nThe app is free and 100% open sourced: https://github.com/Ferrite-iOS/ferrite\n\nMore information is in the app website: https://kingbri.dev/ferrite\n\nHappy watching!",
+   "iconURL": "https://connect.sidestore.io/public/apps/me.kingbri.ferrite/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.7.1",
+     "date": "2024-06-14T17:05:47.342957+00:00",
+     "localizedDescription": "This is the last version for iOS 15.0. Newer builds will require iOS 16.0 and higher to run.\n\nChangelog:\nFeatures:\n- Overhauled the internal logic for Debrid services\n- Added support for sources that include \"library-like\" listings via the {queryFirstLetter} param\n- Add TorBox and OffCloud support\n- Fixed seeder list with htmlParser\n- Add the ability to set request headers and body in a Plugin\n- Cleanup and fix bugs + UI issues",
+     "downloadURL": "https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.7.1/Ferrite-iOS_v0.7.1.ipa",
+     "size": 1671340
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  },
+  {
+   "bundleIdentifier": "me.nabdev.gearglimpserev",
+   "name": "GearGlimpseRevolution",
+   "developerName": "nab138",
+   "subtitle": "FRC AR Tools for iOS",
+   "localizedDescription": "AR Tools for FRC! Connect to the simulator or robot and view it on the field in real-time. View the field in life-size or miniature!\n\nWorks best on devices with a LIDAR sensor, but other devices are supported.",
+   "iconURL": "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/icon.png",
+   "tintColor": "ffde59",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.4",
+     "date": "2024-07-04T18:31:19.999422+00:00",
+     "localizedDescription": "The following are the highlights of the changes since 0.0.1. For a complete changelog, read the release notes on [github](https://github.com/nab138/GearGlimpseRevolution/releases).\n\nNew Features:\n- Game piece (note) visualization\n- Trajectory visualization\n- View FMS Data & Command scheduler in floating windows above the field\n- Proof-of-concept AprilTag detection (will be used for field alignment in the future)\n- Custom Robots and more defaults\n- Translucent or invisible field options\n- Many, many bug fixes\n-",
+     "downloadURL": "https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.4/me.nabdev.gearglimpserev_0.0.4.ipa",
+     "size": 56509966
+    },
+    {
+     "version": "0.0.1",
+     "date": "2024-05-25T17:29:55.451014+00:00",
+     "localizedDescription": "Initial Release",
+     "downloadURL": "https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.1/me.nabdev.gearglimpserev_0.0.1.ipa",
+     "size": 50045250
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Camera is required for AR Experiences",
+     "NSLocalNetworkUsageDescription": "GearGlimpse uses the network to communicate with your robot or simulator.",
+     "NSMotionUsageDescription": "Motion Data is required for AR experiences"
+    }
+   }
+  },
+  {
+   "bundleIdentifier": "com.kdt.livecontainer",
+   "name": "LiveContainer",
+   "developerName": "khanhduytran0",
+   "subtitle": "Contanerize your apps without app limits!",
+   "localizedDescription": "Run iOS app without actually installing it!\n- Allows you to install unlimited apps (10 apps limit of free developer account do not apply here!)\n- When JIT is available, codesign is entirely bypassed, no need to sign your apps before installing. Otherwise, app will be signed with the same certificate used by LiveContainer.\n\n## Compatibility\nUnfortunately, not all apps work in LiveContainer, so we have a [compatibility list](https://github.com/khanhduytran0/LiveContainer/labels/compatibility) to tell if there is apps that have issues. If they aren't on this list, then it's likely going run. However, if it doesn't work, please make an [issue](https://github.com/khanhduytran0/LiveContainer/issues/new/choose) about it.\n\n## Usage\n- Open LiveContainer, tap the plus icon in the upper right hand corner and select IPA files to install.\n- Choose the app you want to open in the next launch.\n\n### With JIT\n- Tap the play icon, it will jump to SideStore and exit.\n- In SideStore, hold down LiveContainer and tap `Enable JIT`. If you have SideStore build supporting JIT URL scheme, it jumps back to LiveContainer with JIT enabled and the guest app is ready to use.\n\n### Without JIT\n> [!NOTE]\n> You need to setup JIT-less mode once. This can be done by pressing \"Setup JIT-less\" and following instructions.\n\n- Tap the play icon, it will attempt to restart LiveContainer with guest app loaded.\n\n### Installing external tweaks\nTo install tweaks, you can use the built-in tweak manager in LiveContainer, which will automatically sign tweaks as you import. Otherwise, you can manually add them and then use the tweak manager to sign them.\n\n## How does it work?\nSee [README.md](https://github.com/khanhduytran0/LiveContainer#how-does-it-work)\n\n## Limitations\n- Entitlements from the guest app are not applied to the host app. This isn't a big deal since sideloaded apps requires only basic entitlements.\n- App Permissions are globally applied.\n- Guest app containers are not sandboxed. This means one guest app can access other guest apps' data.\n- Only one guest app can run at a time. This is much more like 3 apps limit where you have to disable an app to run another (switching between app in LiveContainer is instant).\n- Remote push notification might not work.\n- Querying URL schemes might not work(?)",
+   "iconURL": "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/icon.png",
+   "tintColor": "0069e2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2024-08-08T05:31:29.800995+00:00",
+     "localizedDescription": "- Fix `code signature invalid` issue",
+     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/2.1.1/com.kdt.livecontainer_2.1.1.ipa",
+     "size": 195840
+    },
+    {
+     "version": "1.0",
+     "date": "2023-08-06T22:36:54.988306+00:00",
+     "localizedDescription": "inital release",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.kdt.livecontainer/app.ipa",
+     "size": 80633
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  },
+  {
+   "bundleIdentifier": "io.anuke.mindustry.be",
+   "name": "Mindustry",
+   "developerName": "Unofficial Mindustry repository",
+   "subtitle": "A factory management TD/RTS",
+   "localizedDescription": "Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo into your turrets, produce materials to use for building, and construct units. Command units to capture enemy bases, and expand your production. Defend your core from waves of enemies.\n\nGameplay Features:\n\n- Use production blocks to create a wide variety of advanced materials\n\n- Defend your structures from waves of enemies\n\n- Play with your friends in cross-platform multiplayer co-op games, or challenge them in team-based PvP matches\n\n- Distribute liquids and fight constant challenges, like outbreaks of fire or enemy flier raids\n\n- Get the most out of your production by supplying optional coolant and lubricant\n\n- Produce a wide variety of units for automatic management of your base or assault on enemy bases\n\n- Set up assembly lines to construct armies of mechanized units\n\n- Use your units to square up against fully functional enemy bases\n\n\nCampaign:\n\n- Conquer the planets Serpulo and Erekir as you advance through 35 hand-made maps and 250+ procedurally generated sectors\n\n- Capture territory and set up factories to produce resources while you play other sectors\n\n- Defend your sectors from periodic invasions\n\n- Coordinate resource distribution between sectors via launch pads\n\n- Research new blocks to fuel progress\n\n- Invite your friends to complete missions together\n\n- 250+ technology blocks to master\n\n- 50+ different types of drones, mechs and ships\n\n\nCustom Games & Cross-Platform Multiplayer:\n\n- 16+ built in maps for custom games, in addition to two entire campaigns\n\n- Play co-op, PvP or sandbox\n\n- Join a public dedicated server, or invite friends to your own private session\n\n- Customizable game rules: Change block costs, enemy stats, starting items, wave timing and more\n\n- Full functional map editor with scripting support",
+   "iconURL": "https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20021",
+     "date": "2025-01-07T18:31:23.760006+00:00",
+     "localizedDescription": "- Fixed a variety of issues with unit & block cost multiplier rules\n\n- Fixed many various crashes\n\n- Fixed pathfinding not being able to path through solid enemy blocks\n\n- Fixed naval units sometimes attempting to pathfind through land\n\n- Fixed water tiles with space background resulting in a black background\n\n- Fixed internal legacy blocks being logic constants\n\n- Fixed power node double-click leading to interaction rate limit triggering\n\n- Fixed units sometimes being unkillable\n\n- Fixed units with long paths sometimes recalculating forever\n\n- Fixed serious issue with player units getting bugged in certain maps with puddles\n\n- Fixed Neoplasia reactor sometimes not exploding\n\n- Fixed units randomly dying when hitting corners\n\n- Fixed piercing bullets permaturely hitting blocks \"under\" bullets\n\n- Fixed missiles dealing double damage to units\n\n- Fixed FPS not limiting accurately\n\n- Added setting to disable all lighting\n\n- Added logic unit autoPathfind command (default wave pathfinding)\n\n- Made logic unbind command set `@unit` to null\n\n- Made \"any\" environment accessible outside of sandbox\n\n- Made payload loaders no longer accept inputs from payload unloaders\n\n- Added logic sensors for shields, content ID (inverse of lookup command)\n\n- Added logic particle effect instruction\n\n- Added logic sync instruction\n\n- Setting factory output points now updates \"last accessed\"\n\n- Disabled team switching menu in multiplayer outside of sandbox/PvP\n\n- Decreased canvas block silicon cost slightly\n\n- Scathe ammo usage decreased to 15\n\n- Buffed Precept unit",
+     "downloadURL": "https://github.com/sonphantrung/MindustryiOS-Compiler/releases/download/20021/IOSLauncher.ipa",
+     "size": 118182344
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Needed for local coop"
+    }
+   }
+  },
+  {
+   "bundleIdentifier": "com.NCX-Programming.RNGToolMobile",
+   "name": "RNGTool",
+   "developerName": "NCX Programming",
+   "subtitle": "The best way to generate random numbers on iOS",
+   "localizedDescription": "RNGTool is the best and easiest way to generate random numbers, roll some dice, draw some cards, and select random letters, right from your iPhone (or iPad)!\n\n## Modes\n### Numbers\nGenerate a single random number using only a minimum and maximum number. The simplest way to generate numbers. Now features fancy animations if run on iOS 16+ or macOS 13+!\n### Coins\nFlip some coins! Displays the total coins flipped and how many were heads or tails. Supports flipping up to 100 consecutive coins on macOS, 50 consecutive coins on iOS, and single coins on watchOS.\n### Dice\nGenerate numbers using your standard 6-sided dice. Supports up to 18 dice on macOS, 9 dice on iOS, and 2 dice on watchOS.\n### Cards\nGenerate numbers by drawing a hand of cards. Optionally, you can display the point values of each card drawn, with the Ace being toggleable between 1 and 11 points. Supports up to 10 cards on macOS, 7 cards on iOS, and 3 cards on watchOS.\n### Marbles\nGenerate letters by rolling some marbles. Supports up to 18 marbles on macOS, 9 marbles on iOS, and 3 marbles on watchOS.\n\nRNGTool is fully open source, and the source can be found [on GitHub](https://github.com/NCX-Programming/RNGTool). You can also find the macOS version there.\n\nNote that a watchOS extension app for RNGTool exists, but is currently unsupported by AltStore/SideStore. Should it become supported, it will be added here, however you will need to install the IPA manually for now if you want it. RNGTool is also available for macOS in the GitHub repository.",
+   "iconURL": "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/icon.png",
+   "tintColor": "ff5814",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.0",
+     "date": "2024-03-09T21:54:49.030405+00:00",
+     "localizedDescription": "### General\n- The title on the main menu now proudly proclaims \"RNGTool\" instead of \"Home\".\n- The \"Interface\" settings category has been renamed to \"General\" and has been moved to the top of the settings screen.\n- Toggles for generator animations have been removed from each mode's settings and are instead unified into one \"Play animations in supported modes\" toggle under General.\n  - As a result, dice and marble modes no longer have dedicated settings sections, as their only option was to enable animations.\n- The \"Credits\" section of the About RNGTool page has been removed, as it was mostly unnecessary and contained credits not relevant to RNGTool.\n- The copyright year now extends to the current year instead of just specifying 2022.\n- I added a credit for myself at the bottom and there's nothing you can do about it.\n- Advanced settings is now a proper settings page rather than a sheet, which resolves an issue on iPad where it would be dismissed at inopportune times.\n- All modes have been entirely redesigned to have clearer controls and to occupy more of the screen space, so you can finally justify the cost of your M4 iPad Pro.\n- Modes no longer inappropriately use scroll views, so you can't scroll through a page of nothingness anymore.\n- The generate and reset buttons have been enlarged across all modes and no longer look like they're trying to hide from RNGTool's terrifying former design.\n- All modes now have a dedicated generate button, because sometimes you don't want to have to handle the marbles if someone else has had their hands all over them. That's gross.\n\n### Number Mode\n- The maximum and minimum text fields are now always exposed, because hiding them away seemed a bit silly when there was so much open space.\n- There's now a super fancy animation that plays when you generate a number, though it's only supported on iOS 16+. Sorry iOS 15 users. iOS 17+ users get a slightly cooler animation that changes based on whether the new number was greater than or less than the previous one.\n\n### New Mode: Coin Mode\n- You can finally flip a coin from the convenience of your RNGTool!\n- Supports up to 50 coin flips in one go, with a charming haptic tap for each one.\n\n### Dice Mode\n- The dice now wrap quite nicely, so you now only get 3 per row.\n- As a result, I could fit 3 extra dice in! Wow! That's a total of 9!\n- You can now shake your device to roll! This feature is sure to amaze your friends. (This feature can be disabled using the \"Shake your device to generate in supported models\" toggle in general settings.)\n\n### Card Mode\n- The cards are now above the controls, because I felt like it was really weird that it was the only mode where the content was below the controls.\n\n### Marble Mode\n- By using the same dark magic as dice mode, I've enabled wrapping and increased the maximum to 9 for marbles as well.\n- The entire space of the marble is now tappable. Previously you needed to hit either the outer circle or the letter, because the visual empty space inside of the marble wasn't actually part of the marble. This might not have been a huge deal on iPhone, but on iPad you could manage to miss the actual marble.\n- Also using the same dark magic as dice mode, device shaking! You can now shake your device to roll marbles. (This feature can also be disabled using the \"Shake your device to generate in supported models\" toggle in general settings.)",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/app.ipa",
+     "size": 3563495
+    },
+    {
+     "version": "2.0.0",
+     "date": "2024-03-09T17:21:39.209569+00:00",
+     "localizedDescription": "## v2.0.0: State restoration!\n### What's new on iOS:\n- Interface settings are now separate from advanced settings and are shown in the main settings screen.\n    - These settings include \"Ask to confirm resets\" and \"Show tap hints\".\n- Number Mode now saves your result, max number and min number while the app is running.\n    - A toggle has been added to advanced settings to disable this.\n- Number settings now saves your default numbers as you type.\n- Default numbers now reset correctly.\n- The text on the marbles in Marble Mode now scales with the display size.",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/app.ipa",
+     "size": 3896362
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  },
+  {
+   "bundleIdentifier": "com.stossy11.SideJIT",
+   "name": "SideJIT",
+   "developerName": "Stossy11 | nythepegasus",
+   "subtitle": "Wireless JIT on iOS 17 (Windows or Mac) with SideJITServer",
+   "localizedDescription": "Its an app to enable JIT on iOS 17 with macOS or Windows without needing to interact with the computer at all. using nythepegasus SideJITServer you can find [it here](https://github.com/nythepegasus/SideJITServer)",
+   "iconURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.4",
+     "date": "2024-04-16T03:03:34.811286+00:00",
+     "localizedDescription": "Updated images on SideStore Connect this update will not come to the Github and will be skipped on github too",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+     "size": 634794
+    },
+    {
+     "version": "0.0.3",
+     "date": "2024-04-15T04:31:28.706830+00:00",
+     "localizedDescription": "1. New icon \n2. New Accent Colours\n3. Fixed Notifications\n4. Added Version in settings (doesnt work rn will get fixed next update lol\n5. Added https:// autocorrect \n6. a bit more that I forgot\n7. Fixed app not showing error when it cannot connect to the server",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+     "size": 634794
+    },
+    {
+     "version": "0.0.1",
+     "date": "2024-04-15T00:46:28.430668+00:00",
+     "localizedDescription": "1st Release",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+     "size": 128529
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Local network access is required to use the app."
+    }
+   }
+  },
+  {
+   "bundleIdentifier": "com.SideStore.SideStore",
+   "name": "SideStore",
+   "developerName": "SideStore Team",
+   "subtitle": "",
+   "localizedDescription": "SideStore is the home of untethered sideloading on iOS and iPadOS.\n\n[SideStore](https://sidestore.io) is an iOS application that allows you to sideload apps onto your iOS device with just your Apple ID. SideStore resigns apps with your personal development certificate, and then uses a specially designed VPN in order to trick iOS into installing them. SideStore will periodically \"refresh\" your apps in the background, to keep their normal 7-day development period from expiring.\n\nSideStore's goal is to provide an untethered sideloading experience. It's a community driven fork of AltStore, and has already implemented some of the community's most-requested features.",
+   "iconURL": "https://connect.sidestore.io/public/apps/com.SideStore.SideStore/icon.png",
+   "tintColor": "982abc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5.8",
+     "date": "2024-08-16T08:09:10.927234+00:00",
+     "localizedDescription": "## What's Changed:\n* UI Improvements for the Anisette Servers View. by @0-Blu in #672\n* Added more feedback options. by @0-Blu in #673\n* Fix SideJITServer Support for iOS 17+ by @stossy11 in #674\n* Makes revoking optional by @junepark678 in #675\n* Better pairing file info by @bogotesr in #676\n* Selective app extension removal by @junepark678 in #677\n* legal: developer's certificate of origin 1.1 by @polymo1 in #686\n## New Contributors:\n* @0-Blu made their first contribution in #672",
+     "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.8/SideStore.ipa",
+     "size": 9351984
+    },
+    {
+     "version": "0.5.7",
+     "date": "2024-08-16T01:53:18.852595+00:00",
+     "localizedDescription": "Happy August! We have been very busy with doing quality of life changes and fixing bugs everyone’s been having.\n\nWhat's Changed:\n- Added Stossy11 Anisette Server by stossy11\n- Added SideJITServer Support for Enabling JIT on iOS 17+ by @stossy11\n- Change AltStore Expiring Soon to SideStore Expiring Soon by therealFoxster\n- Add Dynamic anisette servers\n- Update to altstore 1.6.3 by @junepark678 @nythepegasus\n- Include Enable JIT errors in Error Log\n- Fix minimuxer status checking\n- Update no wifi message to include VPN\n- Opens Error Log when tapping ToastView\n- Fixes Error Log context menu covering cell content\n- Fixes Error Log context menu appearing while scrolling\n- Fixes incorrect Search FAQ URL\n- Fix Error Log showing UIAlertController on iOS 14+\n- Fix Error Log not showing UIAlertController on iOS <=13\n- Fix wrong color in AuthenticationViewController\n\n\nThanks to all of the community’s support to keep this project alive and motivated. We have more planned ahead and are doing our best to keep up with updates to make it a seamless/stress free experience. Stay tuned to our progress on future endeavors for SideStore on our [Discord](https://discord.gg/sidestore-949183273383395328)!",
+     "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.7/SideStore.ipa",
+     "size": 9341239
+    },
+    {
+     "version": "0.5.6",
+     "date": "2024-03-16T01:37:02.092240+00:00",
+     "localizedDescription": "Everything in 0.5.5 along with\n* Add description on what disable idle timeout toggle + change add to Siri text for accuracy by @Spidy123222\n* Remove patreon exclusivity message for sources by @Spidy123222\n* Add ani.wesbryie.com to Anisette list by @WesleyBryie\n* Actually, attempt to (hackily) fix embedded pairing file issues @nythepegasus",
+     "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.5.6/SideStore.ipa",
+     "size": 9203929
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "To use the vpn for main functions via WireGuard.",
+     "NSPhotoLibraryUsageDescription": "To add custom icons for apps."
+    }
+   }
+  },
+  {
+   "bundleIdentifier": "com.utmapp.UTM",
+   "name": "UTM Virtual Machines",
+   "developerName": "osy",
+   "subtitle": "Virtual machines for iOS",
+   "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\nThis version requires using AltJIT. Install UTM SE for slower emulation without JIT.\n\nMore information at [https://getutm.app/](https://getutm.app/)\n\nFeatures:\n\n• Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n• Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n• Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n• High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n• Free and Open Source\nUTM and its dependencies are all free and open source\n• Easy to Use\nConfigure and customize your VM in a native UI",
+   "iconURL": "https://connect.sidestore.io/public/apps/com.utmapp.UTM/icon.png",
+   "tintColor": "1a2cc2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.4",
+     "date": "2024-11-10T01:40:00.408717+00:00",
+     "localizedDescription": "- Fixed an issue causing \"The file ... couldn't be opened\" immediately after creating a new VM (#6398)\n- The timestamp of the .utm package will always update to the last time it runs, this should make managing backups easier (#6474)\n- Fixed the error \"Failed to lock byte 100: Operation not supported\" when trying to attach an ISO which the OS has mounted or from a network drive that does not support locking (#6564)\n- Fixed an issue where release notes loading can be delayed by a lack of internet connection (it should just fail silently)\n- Localization: Added Arabic (thanks @muhammadbahaa2001)\n- Localization: Updated Chinese (Simplified + Hong Kong) (thanks @changanmoon)\n- Localization: Updated Japanese (thanks @MMP0)\n- Updated DEB to support rootless\n- Terminal lines no longer get hidden by the top curved edge or by the keyboard (#6482)\n- Fixed an issue where importing a drive shows up as a removable drive (#6485)\n- Fixed an issue where creating a new drive sometimes automatically closes the popup\n- External displays can now view serial output terminals (#6594)\n- Added new tips overlay for new users",
+     "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.5.4/UTM.ipa",
+     "size": 122064838
+    },
+    {
+     "version": "4.3.5",
+     "date": "2023-10-08T04:28:35.080873+00:00",
+     "localizedDescription": "## Highlights\n* **Rewrite of QEMU support internals.** Much of the code to support QEMU has been refactored into a new project, [QEMUKit](https://github.com/utmapp/QEMUKit), which will make it easier to support QEMU changes as well as support for new platforms.\n* **TPM 2.0 and Secure Boot** This is required for Windows 11 updates to 22H2. To enable TPM on an existing virtual machine (only x86_64, i386, and ARM64 architectures are supported), open the VM settings, go to the QEMU page and select \"UEFI Boot\", \"TPM 2.0 Device\", and \"Reset UEFI Variables.\" Any new VM created through the wizard will have TPM 2.0 and Secure Boot enabled by default if Windows 10+ support is checked.\n* **Download Windows installer with a new utility.** We know that creating a Windows installer can be a hassle which is why we are releasing a new free tool called CrystalFetch which can be found on [GitHub](https://github.com/TuringSoftware/CrystalFetch) as well as free on the [Mac App Store](https://apps.apple.com/app/crystalfetch-iso-downloader/id6454431289). This companion to UTM will allow you to generate a Windows 11 ISO with a few clicks (no Terminal, Homebrew, or scripts required). Note that just like before, you still need a valid license from Microsoft to use Windows.\n\n## Notes\n* On i386 and x86_64 machines, HPET is now disabled by default. This improves performance (slightly) on some guests and also addresses boot issues with OpenIndiana. This change means that suspended VM state from previous versions are not compatible, so please shut down those VMs before updating. If you require HPET to be enabled for any reason, go into the VM's settings and under QEMU → QEMU Machine Properties, add the text `hpet=on`.\n* In v4.3.5, we rolled back backend updates to QEMU and EDK2 due to a critical issue that prevented VMs from booting. While the issue is investigated, the last stable version will be used and once the issue is resolved, a new update will be released.\n* If you suspended an Apple Virtualization VM in v4.4 and then downgrade to v4.3, you will not be able to resume the VM or start it at all. Please make sure you shut down any such VMs before downgrading or you may suffer data loss.\n\n## Changes (v4.3.5)\n* Rollback QEMU version to 7.2.0\n* Rollback EDK2 firmware to edk2-stable202102\n* Reduced amount of logging when Debug Log is not checked\n* (macOS) Wizard: Fixed boot ISO not saving for AVF (#5517)\n\n## Changes (v4.3.4)\n* Localization: Updated Japanese (thanks @MMP0)\n* Fixed WebDAV shared directory not setup on start (#5506)\n* (macOS) Improved debug logging by showing more verbose logging for SPICE. If \"Enable Debug Log\" is selected, more verbose logging will be activated.\n* (macOS) Fixed an issue where the VM freezes or shows \"port not connected\" when the computer is under memory pressure (#5489)\n* (macOS 11) Disabled options in the context menu which had broken UI leading to freezes or crashes (#5147)\n* (macOS 12) Wizard: Fixed a crash when selecting a file with VoiceOver (#5250)\n* (macOS 12+) Settings: new table view for QEMU custom arguments\n\n## Changes (v4.3.3)\n* Fixed a crash when selecting a VM (#5481)\n* Fixed a crash when starting a VM and an error occurred when creating display/serial devices (#5472)\n* Fixed boot issues when trying to load OpenIndiana by disabling HPET timers by default (#2394)\n* Fixed an issue where selected removable drive image and shared directory are not syncing correctly\n* QEMUKit: Fixed race condition when multiple RPC commands are sent (#5477)\n* EDK2: Fixed an issue preventing some versions of Windows 11 from booting (#5495)\n* utmctl: Add a more verbose error message when utmctl fails because it is launched from an SSH session or before logging in (#5499)\n* Wizard: Fixed selected boot ISO not saving (#5471)\n* Wizard: Link to CrystalFetch when Windows is selected\n* (macOS) AVF: Automatically un-capture system keys when VM terminates\n\n## Changes (v4.3.2)\n* The last update introduced two units per bus for IDE devices. H",
+     "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.3.5/UTM.ipa",
+     "size": 123210353
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM also uses the local network to communicate with AltServer.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+     "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Phoenix",
+ "identifier": "dev.perapp.com-phoenix-motivationapp",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Phoenix (com.phoenix.motivationapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phoenix.motivationapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.phoenix.motivationapp",
+   "name": "Phoenix",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phoenix.motivationapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.0",
+     "date": "2026-10-07T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Phoenix - Daily Motivation+  🧸 Min.iOS: [15.6+] 🧀 App version: [4.0.1] !upd  🪼 App Store: https://apps.apple.com/ua/app/phoenix-daily-mot",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13848-%E2%80%8EMotivation_v4.0.1_tg@Sa1y0miii.ipa",
+     "size": 28410596
+    },
+    {
+     "version": "2.1.23",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Phoenix_2.1.23_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 24835203
+    }
+   ]
+  }
+ ]
+}

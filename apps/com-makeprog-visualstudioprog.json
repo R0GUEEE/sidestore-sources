@@ -1,0 +1,30 @@
+{
+ "name": "VisualStudioProg",
+ "identifier": "dev.perapp.com-makeprog-visualstudioprog",
+ "subtitle": "ipaomtk.com | iVisualStudioProg Vis Studio IPA v1.7.4 is a mobile companion application designed to enhance the Visual S",
+ "description": "Single-app source for VisualStudioProg (com.makeprog.visualstudioprog). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iVisualStudioProg-Vis.-Studio.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.makeprog.visualstudioprog",
+   "name": "VisualStudioProg",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | iVisualStudioProg Vis Studio IPA v1.7.4 is a mobile companion application designed to enhance the Visual Studio development experience o",
+   "localizedDescription": "ipaomtk.com | iVisualStudioProg Vis Studio IPA v1.7.4 is a mobile companion application designed to enhance the Visual Studio development experience o",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iVisualStudioProg-Vis.-Studio.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | iVisualStudioProg Vis Studio IPA v1.7.4 is a mobile companion application designed to enhance the Visual Studio development experience o",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iVisualStudioProg_Vis._Studio-v1.7.4-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Truecaller",
+ "identifier": "dev.perapp.synthetic-truecaller-22d4d604",
+ "subtitle": "Truecaller by Karbin-Store",
+ "description": "Single-app source for Truecaller (synthetic.truecaller.22d4d604). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Truecaller.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.truecaller.22d4d604",
+   "name": "Truecaller",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️ \n\n شاشەی پەیوەندی پیشەیی و گرافیکی ✅\n توانای زیادکردنی ژمارەی تایبەت بۆ داتابەیسی پەیوەندی ✅\n کۆپی ژمارەی پەیوەندی لە هەر بەرنامەیەکەوە ✅\n پەیوەندی ڕاستەوخۆ لە ڕێگەی ئەپەوە بکە ✅",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Truecaller.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.65.5",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️ \n\n شاشەی پەیوەندی پیشەیی و گرافیکی ✅\n توانای زیادکردنی ژمارەی تایبەت بۆ داتابەیسی پەیوەندی ✅\n کۆپی ژمارەی پەیوەندی لە هەر بەرنامەیەکەوە ✅\n پەیوەندی ڕاستەوخۆ لە ڕێگەی ئەپەوە بکە ✅",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Truecaller.12.65.5.ipa",
+     "size": 91420000
+    }
+   ]
+  }
+ ]
+}

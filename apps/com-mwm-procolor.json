@@ -1,0 +1,44 @@
+{
+ "name": "ColorPop",
+ "identifier": "dev.perapp.com-mwm-procolor",
+ "subtitle": "@blatants | Color Pop: AI Coloring Book  • Bundle ID: com.mwm.procolor • Updated to: 2.64.05 • Minimum iOS: 17.0 • Patch",
+ "description": "Single-app source for ColorPop (com.mwm.procolor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11418.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mwm.procolor",
+   "name": "ColorPop",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | Color Pop: AI Coloring Book  • Bundle ID: com.mwm.procolor • Updated to: 2.64.05 • Minimum iOS: 17.0 • Patched • Modifier: Subscription Un",
+   "localizedDescription": "@blatants | Color Pop: AI Coloring Book  • Bundle ID: com.mwm.procolor • Updated to: 2.64.05 • Minimum iOS: 17.0 • Patched • Modifier: Subscription Un",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11418.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.69.00",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@blatants | Color Pop: AI Coloring Book  • Bundle ID: com.mwm.procolor • Updated to: 2.69.00 • Minimum iOS: 17.5 • Patched • Modifier: Subscription Un",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/ColorPop_2.69.00_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 193202286
+    },
+    {
+     "version": "2.68.03",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@blatants | Color Pop: AI Coloring Book  • Bundle ID: com.mwm.procolor • Updated to: 2.68.03 • Minimum iOS: 17.5 • Patched • Modifier: Subscription Un",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ColorPop_2.68.03_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 193069324
+    },
+    {
+     "version": "2.68.02",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@blatants | Color Pop: AI Coloring Book  • Bundle ID: com.mwm.procolor • Updated to: 2.68.02 • Minimum iOS: 17.5 • Patched • Modifier: Subscription Un",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/ColorPop_2.68.02_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 195844627
+    }
+   ]
+  }
+ ]
+}

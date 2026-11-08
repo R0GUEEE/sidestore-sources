@@ -1,0 +1,30 @@
+{
+ "name": "MAME4iOS",
+ "identifier": "dev.perapp.com-example-mame4ios",
+ "subtitle": "MAME stands for Multi Arcade Machine Emulator. This app lets you play arcade games from the past 30+ years on your iPhon",
+ "description": "Single-app source for MAME4iOS (com.example.mame4ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/gZCjhLl.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.example.mame4ios",
+   "name": "MAME4iOS",
+   "developerName": "yoshisuga",
+   "subtitle": "MAME stands for Multi Arcade Machine Emulator. This app lets you play arcade games from the past 30+ years on your iPhone, iPad, macOS, or AppleTV.  M",
+   "localizedDescription": "MAME stands for Multi Arcade Machine Emulator. This app lets you play arcade games from the past 30+ years on your iPhone, iPad, macOS, or AppleTV.  M",
+   "iconURL": "https://i.imgur.com/gZCjhLl.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2022.5",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "MAME stands for Multi Arcade Machine Emulator. This app lets you play arcade games from the past 30+ years on your iPhone, iPad, macOS, or AppleTV.  M",
+     "downloadURL": "https://github.com/yoshisuga/MAME4iOS/releases/download/2022.5/MAME4iOS-2022.5-139.ipa",
+     "size": 52332306
+    }
+   ]
+  }
+ ]
+}

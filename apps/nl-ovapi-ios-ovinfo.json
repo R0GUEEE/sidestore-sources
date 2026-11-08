@@ -1,0 +1,30 @@
+{
+ "name": "OVinfoPro",
+ "identifier": "dev.perapp.nl-ovapi-ios-ovinfo",
+ "subtitle": "OVinfoPro by Neoncat-OG IPA Library",
+ "description": "Single-app source for OVinfoPro (nl.ovapi.ios.ovinfo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/nl.ovapi.ios.ovinfo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nl.ovapi.ios.ovinfo",
+   "name": "OVinfoPro",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/nl.ovapi.ios.ovinfo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.3",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/04-11-2026/OVinfoPro-2.0.3.ipa",
+     "size": 5018034
+    }
+   ]
+  }
+ ]
+}

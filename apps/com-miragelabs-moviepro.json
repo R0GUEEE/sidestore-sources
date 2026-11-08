@@ -1,0 +1,30 @@
+{
+ "name": "MoviePro",
+ "identifier": "dev.perapp.com-miragelabs-moviepro",
+ "subtitle": "ipaomtk.com | MoviePro Pro Video Camera iOS is a powerful and feature-rich video camera app designed specifically for iO",
+ "description": "Single-app source for MoviePro (com.MirageLabs.MoviePro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/MoviePro-Pro-Video-Camera-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.MirageLabs.MoviePro",
+   "name": "MoviePro",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MoviePro Pro Video Camera iOS is a powerful and feature-rich video camera app designed specifically for iOS devices. Whether you’re a pr",
+   "localizedDescription": "ipaomtk.com | MoviePro Pro Video Camera iOS is a powerful and feature-rich video camera app designed specifically for iOS devices. Whether you’re a pr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/MoviePro-Pro-Video-Camera-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.4",
+     "date": "2024-06-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MoviePro Pro Video Camera iOS is a powerful and feature-rich video camera app designed specifically for iOS devices. Whether you’re a pr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MoviePro-Pro-Video-Camera.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

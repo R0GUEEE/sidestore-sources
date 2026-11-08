@@ -1,0 +1,30 @@
+{
+ "name": "Sudoku +",
+ "identifier": "dev.perapp.com-mobilityware-sudokuaa",
+ "subtitle": "ipaomtk.com | Sudoku by MobilityWare+ IPA v1.6.0 is a premium mobile game that brings the classic number-placement puzzl",
+ "description": "Single-app source for Sudoku + (com.mobilityware.SudokuAA). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Sudoku-by-MobilityWare.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobilityware.SudokuAA",
+   "name": "Sudoku +",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sudoku by MobilityWare+ IPA v1.6.0 is a premium mobile game that brings the classic number-placement puzzle to life with a sleek, user-f",
+   "localizedDescription": "ipaomtk.com | Sudoku by MobilityWare+ IPA v1.6.0 is a premium mobile game that brings the classic number-placement puzzle to life with a sleek, user-f",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Sudoku-by-MobilityWare.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sudoku by MobilityWare+ IPA v1.6.0 is a premium mobile game that brings the classic number-placement puzzle to life with a sleek, user-f",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sudoku_by_MobilityWare%20-v1.6.0-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "LiveContainer v2.1.2",
+ "identifier": "dev.perapp.com-kdt-livecontainer212",
+ "subtitle": "Run iOS app without actually installing it!",
+ "description": "Single-app source for LiveContainer v2.1.2 (com.kdt.livecontainer212). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "0784fc",
+ "iconURL": "https://cdn.omnidev.org/livecontainer-ZM.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kdt.livecontainer212",
+   "name": "LiveContainer v2.1.2",
+   "developerName": "khanhduytran0",
+   "subtitle": "Run iOS app without actually installing it!",
+   "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/livecontainer-ZM.png",
+   "tintColor": "0784fc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.2",
+     "date": "2024-10-30T00:00:00Z",
+     "localizedDescription": " Run iOS app without actually installing it!\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/com_kdt_livecontainer_2_1_2-3Z.ipa",
+     "size": 194586
+    }
+   ]
+  }
+ ]
+}

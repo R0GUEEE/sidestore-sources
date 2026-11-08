@@ -1,0 +1,30 @@
+{
+ "name": "Battery_Info_1.2.0",
+ "identifier": "dev.perapp.com-developlab-batteryinfo",
+ "subtitle": "TS app to check battery information",
+ "description": "Single-app source for Battery_Info_1.2.0 (com.developlab.BatteryInfo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Battery_Info_1.2.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.developlab.BatteryInfo",
+   "name": "Battery_Info_1.2.0",
+   "developerName": "Battery_Info_1.2.0 x CyPwn",
+   "subtitle": "TS app to check battery information",
+   "localizedDescription": "TS app to check battery information",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Battery_Info_1.2.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "TS app to check battery information",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Battery_Info_1.2.0.ipa",
+     "size": 308531
+    }
+   ]
+  }
+ ]
+}

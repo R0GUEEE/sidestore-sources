@@ -1,0 +1,30 @@
+{
+ "name": "FLMC",
+ "identifier": "dev.perapp.com-dny-flmccam",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for FLMC (com.dny.flmccam). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dny.flmccam.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dny.flmccam",
+   "name": "FLMC",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dny.flmccam.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/FLMC_2.0.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 195503733
+    }
+   ]
+  }
+ ]
+}

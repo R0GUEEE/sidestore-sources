@@ -1,0 +1,44 @@
+{
+ "name": "StepsAppPro",
+ "identifier": "dev.perapp.com-gunthermarktl-stepapp",
+ "subtitle": "StepsAppPro by Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
+ "description": "Single-app source for StepsAppPro (com.gunthermarktl.stepapp). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gunthermarktl.stepapp",
+   "name": "StepsAppPro",
+   "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gunthermarktl.stepapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.17",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StepsAppPro/StepsAppPro-7.0.17.ipa",
+     "size": 167961413
+    },
+    {
+     "version": "7.0.20",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StepsAppPro/StepsAppPro-7.0.20.ipa",
+     "size": 170044242
+    },
+    {
+     "version": "7.0.4",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Turns your phone into a simple and stylish step counter. Just put your phone in your pocket and go.\nLast updated: 07-10-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StepsAppPro/StepsAppPro-7.0.4.ipa",
+     "size": 160327151
+    }
+   ]
+  }
+ ]
+}

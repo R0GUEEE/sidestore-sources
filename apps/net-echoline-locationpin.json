@@ -1,0 +1,30 @@
+{
+ "name": "iLocation+",
+ "identifier": "dev.perapp.net-echoline-locationpin",
+ "subtitle": "ipaomtk.com | iLocation+ IPA For iOS is a cutting-edge location tracking app designed to provide you with accurate and r",
+ "description": "Single-app source for iLocation+ (net.echoline.LocationPin). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-2023-05-12T135131.693-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "net.echoline.LocationPin",
+   "name": "iLocation+",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | iLocation+ IPA For iOS is a cutting-edge location tracking app designed to provide you with accurate and real-time information about the",
+   "localizedDescription": "ipaomtk.com | iLocation+ IPA For iOS is a cutting-edge location tracking app designed to provide you with accurate and real-time information about the",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-2023-05-12T135131.693-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.25",
+     "date": "2023-05-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | iLocation+ IPA For iOS is a cutting-edge location tracking app designed to provide you with accurate and real-time information about the",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iLocation+.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

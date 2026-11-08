@@ -1,0 +1,37 @@
+{
+ "name": "Balatro",
+ "identifier": "dev.perapp.com-unofficial-balatro",
+ "subtitle": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
+ "description": "Single-app source for Balatro (com.unofficial.balatro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unofficial.balatro",
+   "name": "Balatro",
+   "developerName": "driftywinds",
+   "subtitle": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
+   "localizedDescription": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/b1/14/a6b114b7-541f-d929-1724-6665b9ccf255/iOS_AppIcon_Premium-0-0-1x_U007epad-0-85-220.png/492x0w.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1o",
+     "date": "2025-02-26T00:00:00Z",
+     "localizedDescription": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
+     "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
+     "size": 91750400
+    },
+    {
+     "version": "1.0.1c",
+     "date": "2025-02-26T00:00:00Z",
+     "localizedDescription": "When Poker Meets Solitaire   Join https://t.me/+rvcObIvOpctiMDI9 for more.",
+     "downloadURL": "https://github.com/driftywinds/balatro-builds/releases/download/v1.0.1o/Balatro.v1.0.1o-FULL.ipa",
+     "size": 75062700
+    }
+   ]
+  }
+ ]
+}

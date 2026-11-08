@@ -1,0 +1,30 @@
+{
+ "name": "Stremio-1.3.6",
+ "identifier": "dev.perapp.com-stremio-ios",
+ "subtitle": "Watch videos, movies, TV series and TV channels instantly.",
+ "description": "Single-app source for Stremio-1.3.6 (com.stremio.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-1.3.6.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stremio.ios",
+   "name": "Stremio-1.3.6",
+   "developerName": "Stremio-1.3.6 x CyPwn",
+   "subtitle": "Watch videos, movies, TV series and TV channels instantly.",
+   "localizedDescription": "Watch videos, movies, TV series and TV channels instantly.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-1.3.6.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.6",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Watch videos, movies, TV series and TV channels instantly.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-1.3.6.ipa",
+     "size": 79429632
+    }
+   ]
+  }
+ ]
+}

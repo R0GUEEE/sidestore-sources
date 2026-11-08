@@ -1,0 +1,44 @@
+{
+ "name": "OldRoll",
+ "identifier": "dev.perapp.com-zijayrate-analogcam",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for OldRoll (com.zijayrate.analogcam). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zijayrate.analogcam",
+   "name": "OldRoll",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zijayrate.analogcam.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.9.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-10-2025/OldRoll_7.9.0_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 160570806
+    },
+    {
+     "version": "7.7.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-08-2025/OldRoll_7.7.0_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 158169965
+    },
+    {
+     "version": "8.2.2",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-12-2025/OldRoll_8.2.2_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 176791232
+    }
+   ]
+  }
+ ]
+}

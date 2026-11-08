@@ -1,0 +1,30 @@
+{
+ "name": "Wallpapers",
+ "identifier": "dev.perapp.com-contactposter-wallpaper-app",
+ "subtitle": "Wallpapers by Karbin-Store",
+ "description": "Single-app source for Wallpapers (com.contactposter.wallpaper.app). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Wallpapers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.contactposter.wallpaper.app",
+   "name": "Wallpapers",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "دیزاینێکی جوانتر بدە بە ڕەسمی شاشەی موبایلەکەت لەڕی ئەم بەرنامەوە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Wallpapers.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.20",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "دیزاینێکی جوانتر بدە بە ڕەسمی شاشەی موبایلەکەت لەڕی ئەم بەرنامەوە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Wallpapers--.ipa",
+     "size": 23310000
+    }
+   ]
+  }
+ ]
+}

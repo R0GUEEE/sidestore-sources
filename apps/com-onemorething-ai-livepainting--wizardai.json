@@ -1,0 +1,30 @@
+{
+ "name": "WizardAi",
+ "identifier": "dev.perapp.com-onemorething-ai-livepainting",
+ "subtitle": "WizardAi by Holloway",
+ "description": "Single-app source for WizardAi (com.oneMoreThing.AI-LivePainting). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380573.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.oneMoreThing.AI-LivePainting",
+   "name": "WizardAi",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380573.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.4.2",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1691",
+     "size": 84411123
+    }
+   ]
+  }
+ ]
+}

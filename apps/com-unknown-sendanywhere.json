@@ -1,0 +1,30 @@
+{
+ "name": "Send Anywhere",
+ "identifier": "dev.perapp.com-unknown-sendanywhere",
+ "subtitle": "بۆ ناردنی فایل بۆ هەر ئامێرێک ✅  تایبەتمەندیەکانی قفڵ نەکراو (کڕین پاشان هەڵوەشاندنەوە) 🔔",
+ "description": "Single-app source for Send Anywhere (com.unknown.sendanywhere). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Send.Anywere.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.sendanywhere",
+   "name": "Send Anywhere",
+   "developerName": "Karbin-Store",
+   "subtitle": "بۆ ناردنی فایل بۆ هەر ئامێرێک ✅  تایبەتمەندیەکانی قفڵ نەکراو (کڕین پاشان هەڵوەشاندنەوە) 🔔",
+   "localizedDescription": "بۆ ناردنی فایل بۆ هەر ئامێرێک ✅  تایبەتمەندیەکانی قفڵ نەکراو (کڕین پاشان هەڵوەشاندنەوە) 🔔",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Send.Anywere.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "23.5.1",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "بۆ ناردنی فایل بۆ هەر ئامێرێک ✅  تایبەتمەندیەکانی قفڵ نەکراو (کڕین پاشان هەڵوەشاندنەوە) 🔔",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/Send.Anywhere_23.5.1_DEV.ipa",
+     "size": 44520000
+    }
+   ]
+  }
+ ]
+}

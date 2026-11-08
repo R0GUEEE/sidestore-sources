@@ -1,0 +1,30 @@
+{
+ "name": "TrollSign",
+ "identifier": "dev.perapp.com-appinstallerios-trollsign",
+ "subtitle": "ipaomtk.com | Entitlements are a set of permissions and capabilities that define what actions an application can perform",
+ "description": "Single-app source for TrollSign (com.AppInstalleriOS.TrollSign). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/images-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AppInstalleriOS.TrollSign",
+   "name": "TrollSign",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Entitlements are a set of permissions and capabilities that define what actions an application can perform on a user’s device. These ent",
+   "localizedDescription": "ipaomtk.com | Entitlements are a set of permissions and capabilities that define what actions an application can perform on a user’s device. These ent",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/images-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Entitlements are a set of permissions and capabilities that define what actions an application can perform on a user’s device. These ent",
+     "downloadURL": "https://file.ipaomtk.com/Trollstore/TrollSign.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

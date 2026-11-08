@@ -1,0 +1,30 @@
+{
+ "name": "Hyrule Recipe",
+ "identifier": "dev.perapp.net-shengpan-zeldacookbook",
+ "subtitle": "ipaomtk.com | The Hyrule Recipe for the End of the Wild (EoW) IPA v4.1.0 for iOS offers players an immersive culinary gu",
+ "description": "Single-app source for Hyrule Recipe (net.shengpan.ZeldaCookbook). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Hyrule-Recipe-for-EoW-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "net.shengpan.ZeldaCookbook",
+   "name": "Hyrule Recipe",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Hyrule Recipe for the End of the Wild (EoW) IPA v4.1.0 for iOS offers players an immersive culinary guide that enhances their gaming",
+   "localizedDescription": "ipaomtk.com | The Hyrule Recipe for the End of the Wild (EoW) IPA v4.1.0 for iOS offers players an immersive culinary guide that enhances their gaming",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Hyrule-Recipe-for-EoW-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.0",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Hyrule Recipe for the End of the Wild (EoW) IPA v4.1.0 for iOS offers players an immersive culinary guide that enhances their gaming",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Hyrule_Recipe_for_EoW-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PosterBoard",
+ "identifier": "dev.perapp.com-yourname028-posterboard",
+ "subtitle": "PosterBoard by Apple",
+ "description": "Single-app source for PosterBoard (com.yourname028.PosterBoard). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://media.discordapp.net/attachments/1279964710522982440/1281807695476953100/IMG_6405.png?ex=66dd0ff1&is=66dbbe71&hm=1ec7ba3c80cd617efb8a331c2050c04bdff82c246e708ed4527cc5f87fef5428&=&format=webp&quality=lossless",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yourname028.PosterBoard",
+   "name": "PosterBoard",
+   "developerName": "Apple",
+   "subtitle": "",
+   "localizedDescription": "PosterBoard is a hidden iOS app for customizing the lockscreen's look and widgets.",
+   "iconURL": "https://media.discordapp.net/attachments/1279964710522982440/1281807695476953100/IMG_6405.png?ex=66dd0ff1&is=66dbbe71&hm=1ec7ba3c80cd617efb8a331c2050c04bdff82c246e708ed4527cc5f87fef5428&=&format=webp&quality=lossless",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-09-06T00:00:00Z",
+     "localizedDescription": "PosterBoard is a hidden iOS app for customizing the lockscreen's look and widgets.",
+     "downloadURL": "https://raw.githubusercontent.com/YourName028/System-Apps/main/PosterBoard.ipa",
+     "size": 300747
+    }
+   ]
+  }
+ ]
+}

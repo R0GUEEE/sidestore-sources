@@ -1,0 +1,30 @@
+{
+ "name": "Get More Ram",
+ "identifier": "dev.perapp.com-aigch-getmoreram",
+ "subtitle": "Get More Ram:  A simple StosSign wrapper app that allows you to enable \"Increased Memory Limit\" for your sideloaded apps",
+ "description": "Single-app source for Get More Ram (com.aigch.getMoreRam). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aigch.getMoreRam",
+   "name": "Get More Ram",
+   "developerName": "hugeBlack",
+   "subtitle": "Get More Ram:  A simple StosSign wrapper app that allows you to enable \"Increased Memory Limit\" for your sideloaded apps without using Xcode.  How to ",
+   "localizedDescription": "Get More Ram:  A simple StosSign wrapper app that allows you to enable \"Increased Memory Limit\" for your sideloaded apps without using Xcode.  How to\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Get More Ram:  A simple StosSign wrapper app that allows you to enable \"Increased Memory Limit\" for your sideloaded apps without using Xcode.  How to ",
+     "downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+     "size": 2305445
+    }
+   ]
+  }
+ ]
+}

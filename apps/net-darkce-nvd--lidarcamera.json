@@ -1,0 +1,30 @@
+{
+ "name": "LidarCamera",
+ "identifier": "dev.perapp.net-darkce-nvd",
+ "subtitle": "ipaomtk.com | Imagine turning your iPhone into a powerful night vision device capable of capturing detailed photos and v",
+ "description": "Single-app source for LidarCamera (net.darkce.nvd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/11/Night-Vision-8211-LiDAR-Camera-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "net.darkce.nvd",
+   "name": "LidarCamera",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Imagine turning your iPhone into a powerful night vision device capable of capturing detailed photos and videos in low light or complete",
+   "localizedDescription": "ipaomtk.com | Imagine turning your iPhone into a powerful night vision device capable of capturing detailed photos and videos in low light or complete",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/11/Night-Vision-8211-LiDAR-Camera-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.12.0",
+     "date": "2025-11-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Imagine turning your iPhone into a powerful night vision device capable of capturing detailed photos and videos in low light or complete",
+     "downloadURL": "https://file.ipaomtk.com/ipa/LidarCamera_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

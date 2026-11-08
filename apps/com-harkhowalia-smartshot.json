@@ -1,0 +1,41 @@
+{
+ "name": "SmartShot",
+ "identifier": "dev.perapp.com-harkhowalia-smartshot",
+ "subtitle": "Bring iPhone Duo's Smart Take, on any iPhone and Mac",
+ "description": "Single-app source for SmartShot (com.harkhowalia.smartshot). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b4932e",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.harkhowalia.smartshot.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.harkhowalia.smartshot",
+   "name": "SmartShot",
+   "developerName": "harkhowalia-1",
+   "subtitle": "Bring iPhone Duo's Smart Take, on any iPhone and Mac",
+   "localizedDescription": "Features:\n\nCamera.\n\n• HEIF or Apple ProRAW at 12, 24 or 48 MP, as your device allows. 48 MP uses the main camera and switches lenses for .5× and telephoto automatically.\n• A clean, familiar interface with Liquid Glass controls (iOS 26 and later; a material look on earlier versions).\n• Zoom buttons and pinch to zoom, tap to focus and expose, flash, front and back cameras.\n• With the back camera, the flash light blinks after every automatic photo, so the group knows it was taken (like Smart Take on iPhone Duo).\n• Icons turn with your phone; the camera recovers cleanly from calls, FaceTime and Split View.\n• On Mac: any built-in, external or iPhone camera. Press Space to start.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.harkhowalia.smartshot.png",
+   "tintColor": "#b4932e",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/harkhowalia-1/SmartShot@main/docs/images/shot-waiting.jpg",
+    "https://cdn.jsdelivr.net/gh/harkhowalia-1/SmartShot@main/docs/images/shot-posing.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-10-12T05:12:14Z",
+     "localizedDescription": "The camera that waits for everyone. This update fixes the app icon: the corner brackets now show as thin, rounded brackets in both light and dark mode, as designed.\n\nDownload:\n\nMac: unzip, move SmartShot to Applications and open it. It is signed with a Developer ID and notarized by Apple, so it opens like any other app.\n\niPhone / iPad: install the .ipa with AltStore or Sideloadly, or build from source with Xcode.\n\nWhat's new in 1.0.1:\n\n• Fixed: the app icon's corner brackets were drawn as solid triangles.\n\nSHA-256.\n\nSmartShot is an independent project and is not affiliated with, endorsed by or sponsored by Apple Inc.",
+     "downloadURL": "https://github.com/harkhowalia-1/SmartShot/releases/download/v1.0.1/SmartShot-iOS.ipa",
+     "size": 6162929
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "SmartShot uses the camera to take photos.",
+     "NSPhotoLibraryAddUsageDescription": "SmartShot saves your photos to your library.",
+     "NSPhotoLibraryUsageDescription": "SmartShot shows your photos so you can view, favorite, edit and share them."
+    }
+   }
+  }
+ ]
+}

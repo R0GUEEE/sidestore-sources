@@ -1,0 +1,30 @@
+{
+ "name": "IdleBreakout",
+ "identifier": "dev.perapp.com-tdmbest-idlebreakout",
+ "subtitle": "IdleBreakout",
+ "description": "Single-app source for IdleBreakout (com.tdmbest.Idlebreakout). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/28ff872d-e78d-4990-995c-baa8a9d94e61/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tdmbest.Idlebreakout",
+   "name": "IdleBreakout",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nIdle Breakout ported to iOS!\n(Reupload for zx repo)\n- I’m not sure if this existed before hand \n- game looks like square \n- if you skip ahead in your system clock so does in the game",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/28ff872d-e78d-4990-995c-baa8a9d94e61/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nIdle Breakout ported to iOS!\n(Reupload for zx repo)\n- I’m not sure if this existed before hand \n- game looks like square \n- if you skip ahead in your system clock so does in the game",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/9adf5961-01b1-43d0-ab45-79798db4de8b/IdleBreakout-TDMbest.ipa",
+     "size": 6236623
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Sonic (2006)",
+ "identifier": "dev.perapp.com-devz-sonic2006",
+ "subtitle": "An unofficial iOS port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recomp",
+ "description": "Single-app source for Sonic (2006) (com.devz.sonic2006). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#486acb",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.sonic2006.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.sonic2006",
+   "name": "Sonic (2006)",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "An unofficial iOS port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation",
+   "localizedDescription": "This port is experimental. It has been played on an iPhone 14 Pro Max, but full playthroughs of all three episodes, long sessions and other devices have not been tested yet.\n\nMarathon Recompiled for iOS is an unofficial iOS port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation. It is based on Marathon Recompiled and brings it to iPhone and iPad with touch controls, Metal rendering and an installer that works with the Files app.\n\nThis project does not include any game assets. You must provide the files from your own legally acquired copy of the game to install or build Marathon Recompiled for iOS.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.sonic2006.png",
+   "tintColor": "#486acb",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026",
+     "date": "2026-10-16T17:57:34Z",
+     "localizedDescription": "Build 1.0.11. Install over the existing Sonic (2006) app and keep the bundle ID com.devz.sonic2006. The IPA is unsigned and contains no game files or patches.\n\nSonic '06 Mod Manager patches (.mlua):\n\nThe mod manager has a new Patches section for patches written for the Sonic '06 Mod Manager, such as Knuxfan24/Sonic-06-Mod-Manager-Patches.\n\n• In the mod manager, tap Import folder and select the extracted folder.\n• Tap the patches you want, then tap Play.\n\nPatches run at launch on top of your mods. The installed game is never modified. Edited files go to mod-cache/patches and are reused until you change the selection.\n\nWhat works: patches that edit archives, packages (.pkg) or files, and patches that change data in the executable. 39 of the 150 patches in Knuxfan24's collection run, for example Disable Fog, Disable Character Stumble, Disable Hint Rings, Disable Music, E3 Timers, Correct Sonic Jump Animation and Opposite Button Prompts. Another 17 already exist as built-in codes.\n\nWhat doesn't (yet):\n\n• Patches that rewrite game code (82 in that collection) can't run, because the game's code is recompiled ahead of time. Each shows the address it would change, and can be ported as a built-in code.\n• Patches that edit Lua scripts as text (29 of them) need decompiled scripts. The game ships compiled ones.\n\nBoth kinds stay listed with the reason, instead of failing silently.",
+     "downloadURL": "https://github.com/DevZer0D4Y/MarathonRecompilediOS/releases/download/ios-2026-10-16-c/Sonic06-iOS.ipa",
+     "size": 35806088
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "Connect to wireless game controllers."
+    }
+   }
+  }
+ ]
+}

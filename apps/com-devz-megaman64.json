@@ -1,0 +1,34 @@
+{
+ "name": "Mega Man 64",
+ "identifier": "dev.perapp.com-devz-megaman64",
+ "subtitle": "Unofficial Mega Man 64 Recompiled mobile port for Android and iOS, with editable touch controls and controller support. ",
+ "description": "Single-app source for Mega Man 64 (com.devz.megaman64). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#bc7d38",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.megaman64.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.megaman64",
+   "name": "Mega Man 64",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "Unofficial Mega Man 64 Recompiled mobile port for Android and iOS, with editable touch controls and controller support. Bring your own USA ROM",
+   "localizedDescription": "Mega Man 64: Recompiled — Mobile:\n\nAndroid and iOS ports of MegaMan64Recompiled, built with N64ModernRuntime and RT64. This is an unofficial community project, not affiliated with Capcom.\n\nBoth platforms include editable gameplay and menu touch layouts, a movement stick, controller support, ROM import, and persistent saves. Use EDIT to move buttons or change size, opacity, and colors. MENU PAD and GAME PAD switch layouts; returning to gameplay from app settings honors pending Apply/Discard changes.\n\nROM requirement:\n\nImport the ROM using the launcher's file picker. On Android, you can keep it in Downloads and select it there; access to Android's private application folder is unnecessary. On iOS, keep it in Files and select it, or use the app's shared Documents ROM drop folder.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.megaman64.png",
+   "tintColor": "#bc7d38",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.1",
+     "date": "2026-10-13T17:45:33Z",
+     "localizedDescription": "Android and iOS mobile builds of Mega Man 64: Recompiled.\n\n• Editable gameplay and menu touch pads: movement stick, N64 buttons, position/size/opacity/color controls, and GAME PAD / MENU PAD switching.\n• SDL USB/Bluetooth controller support and configurable bindings.\n• Mobile renderer fixes, Android Vulkan surface/descriptor handling, and iOS screenshot/notification size restoration.\n• Persistent USA FlashRAM saves, atomic replacement, backup writes, and background save flushing.\n• The supplied Mega Man 64 artwork is now the app icon on both platforms.\n• Both application IDs are com.devz.megaman64, matching the other ports' naming convention.\n\nDownloads: install the ARM64 APK on Android 8.0+ with a compatible Vulkan GPU. Sign the ARM64 IPA for your own iOS 16+ device using eSign or another signing tool. The IPA contains no personal certificate or provisioning profile. SHA256SUMS.txt covers both downloads.\n\nROM: supply your own Mega Man 64 USA ROM through the launcher. .z64, .v64, and .n64 byte orders are accepted. Japanese Rockman DASH gameplay is not supported by this USA recompilation; the loader reports that limitation. No ROM or save data is bundled.\n\nExisting saves: the new IDs create separate app storage. Back up the old app's config/saves folder before changing builds, preserve filenames, and keep the old app installed until the backup is safe. Storage locations and restoration limits are described in MOBILE.md. Saves are not automatically migrated between different IDs.\n\nThe repository starts with a clean source history and pinned dependencies. It excludes ROM-derived generated sources, ROMs, saves, logs, SDKs, local build folders, personal paths, and signing keys. Required build scripts, application assets, licenses, and upstream attribution remain available.\n\nUpstream: https://github.com/MegaMan64Recomp/MegaMan64Recompiled",
+     "downloadURL": "https://github.com/DevZer0D4Y/MegaMan64Recompiled-Mobile/releases/download/v0.9.1-mobile.1/MegaMan64-iOS-v0.9.1-mobile.1.ipa",
+     "size": 15317212
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

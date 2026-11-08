@@ -1,0 +1,30 @@
+{
+ "name": "Voloco",
+ "identifier": "dev.perapp.com-resonantcavity-voloco",
+ "subtitle": "ipaomtk.com | What is Voloco Vocal Recording Studio IPA? Voloco Vocal Recording Studio IPA is an iOS installation packag",
+ "description": "Single-app source for Voloco (com.resonantcavity.Voloco). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Voloco-Vocal-Recording-Studio-IPA-v9.14.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.resonantcavity.Voloco",
+   "name": "Voloco",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Voloco Vocal Recording Studio IPA? Voloco Vocal Recording Studio IPA is an iOS installation package that allows users to…",
+   "localizedDescription": "ipaomtk.com | What is Voloco Vocal Recording Studio IPA? Voloco Vocal Recording Studio IPA is an iOS installation package that allows users to install a powerful mobile recording studio on iPhone devices outside of the App Store, offering advanced vocal processing, auto-tuning, and music production tools in a single app. The Purpose Behind Voloco Music Production Voloco […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Voloco-Vocal-Recording-Studio-IPA-v9.14.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.21.0",
+     "date": "2026-04-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Voloco Vocal Recording Studio IPA? Voloco Vocal Recording Studio IPA is an iOS installation package that allows users to…",
+     "downloadURL": "https://file.ipaomtk.com/voloco-vocal-recording-studio/Voloco-Vocal-Recording-Studio-IPAOMTK.com.ipa",
+     "size": 112814879
+    }
+   ]
+  }
+ ]
+}

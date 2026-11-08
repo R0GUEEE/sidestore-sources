@@ -1,0 +1,44 @@
+{
+ "name": "Crossy Road",
+ "identifier": "dev.perapp.com-hipsterwhale-crossy",
+ "subtitle": "@riftysIPAlibrary | Crossy Road  Tweak: Unlimited Coins, No Ads  Version: 7.13.0  Patched ✓  @riftysIPAlibrary  Addition",
+ "description": "Single-app source for Crossy Road (com.hipsterwhale.crossy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7297.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hipsterwhale.crossy",
+   "name": "Crossy Road",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Crossy Road  Tweak: Unlimited Coins, No Ads  Version: 7.13.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+   "localizedDescription": "@riftysIPAlibrary | Crossy Road  Tweak: Unlimited Coins, No Ads  Version: 7.13.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7297.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.14.3",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Crossy Road  Tweak: Unlimited Coins, No Ads  Version: 7.14.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8794-Crossy%20Road-v7.14.3-riftysipas.ipa",
+     "size": 144451063
+    },
+    {
+     "version": "7.14.2",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Crossy Road  Tweak: Unlimited Coins, No Ads  Version: 7.14.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8677-Crossy%20Road-v7.14.2-riftysipas.ipa",
+     "size": 144591278
+    },
+    {
+     "version": "7.14.1",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Crossy Road  Tweak: Unlimited Coins, No Ads  Version: 7.14.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8540-Crossy%20Road-v7.14.1-riftysipas.ipa",
+     "size": 140069625
+    }
+   ]
+  }
+ ]
+}

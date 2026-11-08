@@ -1,0 +1,30 @@
+{
+ "name": "Eatventure",
+ "identifier": "dev.perapp.com-hwqgrhhjfd-idlefastfood",
+ "subtitle": "Eatventure",
+ "description": "Single-app source for Eatventure (com.hwqgrhhjfd.idlefastfood). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hwqgrhhjfd.idlefastfood.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hwqgrhhjfd.idlefastfood",
+   "name": "Eatventure",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hwqgrhhjfd.idlefastfood.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.27.1",
+     "date": "2024-12-07T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/Eatventure_1.27.1_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 119980843
+    }
+   ]
+  }
+ ]
+}

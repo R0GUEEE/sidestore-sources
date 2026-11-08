@@ -1,0 +1,30 @@
+{
+ "name": "Photo Recovery",
+ "identifier": "dev.perapp.com-unknown-photorecovery",
+ "subtitle": "✅ MOD:Recover deleted photos   ✅ MOD:Activate premium",
+ "description": "Single-app source for Photo Recovery (com.unknown.photorecovery). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Photo.Recovery.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.photorecovery",
+   "name": "Photo Recovery",
+   "developerName": "Karbin-Store",
+   "subtitle": "✅ MOD:Recover deleted photos   ✅ MOD:Activate premium",
+   "localizedDescription": "✅ MOD:Recover deleted photos   ✅ MOD:Activate premium",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Photo.Recovery.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.5",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "✅ MOD:Recover deleted photos   ✅ MOD:Activate premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Photo.Recovery.5.2.5.ipa",
+     "size": 77120000
+    }
+   ]
+  }
+ ]
+}

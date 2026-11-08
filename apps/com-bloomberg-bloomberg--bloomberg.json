@@ -1,0 +1,44 @@
+{
+ "name": "Bloomberg",
+ "identifier": "dev.perapp.com-bloomberg-bloomberg",
+ "subtitle": "@ciesIPAs | Bloomberg: Business News Daily v6.62.1 - AppStore Link - News App - Subscription Unlocked - Log in and resta",
+ "description": "Single-app source for Bloomberg (com.bloomberg.Bloomberg). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ciesipas/210.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bloomberg.Bloomberg",
+   "name": "Bloomberg",
+   "developerName": "@ciesIPAs",
+   "subtitle": "@ciesIPAs | Bloomberg: Business News Daily v6.62.1 - AppStore Link - News App - Subscription Unlocked - Log in and restart the app to activate the sub",
+   "localizedDescription": "@ciesIPAs | Bloomberg: Business News Daily v6.62.1 - AppStore Link - News App - Subscription Unlocked - Log in and restart the app to activate the sub",
+   "iconURL": "https://fastsign.dev/tg-icon/ciesipas/210.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.62.1",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "@ciesIPAs | Bloomberg: Business News Daily v6.62.1 - AppStore Link - News App - Subscription Unlocked - Log in and restart the app to activate the sub",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ciesipas/210-com.bloomberg.Bloomberg-6.62.1.ipa",
+     "size": 43008250
+    },
+    {
+     "version": "6.51.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-01-2026/Bloomberg_6.51.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 25702367
+    },
+    {
+     "version": "6.56.0",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-04-2026/Bloomberg_6.56.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 41285853
+    }
+   ]
+  }
+ ]
+}

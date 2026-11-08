@@ -1,0 +1,30 @@
+{
+ "name": "Suwatte",
+ "identifier": "dev.perapp.com-ceres-suwatte",
+ "subtitle": "Suwatte:  Suwatte is an ad-free, open source & feature-rich comic/manga reader for iOS.  This build is distributed by a ",
+ "description": "Single-app source for Suwatte (com.ceres.suwatte). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ceres.suwatte.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ceres.suwatte",
+   "name": "Suwatte",
+   "developerName": "RipeStore",
+   "subtitle": "Suwatte:  Suwatte is an ad-free, open source & feature-rich comic/manga reader for iOS.  This build is distributed by a third-party not related to Suw",
+   "localizedDescription": "Suwatte:  Suwatte is an ad-free, open source & feature-rich comic/manga reader for iOS.  This build is distributed by a third-party not related to Suw\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ceres.suwatte.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Suwatte:  Suwatte is an ad-free, open source & feature-rich comic/manga reader for iOS.  This build is distributed by a third-party not related to Suw",
+     "downloadURL": "https://github.com/RipeStore/suwattebuilder/releases/download/v6.0.1-c3333ed/Suwatte-v6.0.1-c3333ed-unsigned.ipa",
+     "size": 16394180
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "HD Flix (No Ads)",
+ "identifier": "dev.perapp.com-box-hd-flix-drama-hub",
+ "subtitle": "WHEN YOU FIRST OPEN THE APP IT WILL LOOK LIKE A DIFFERENT APP JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP  With HD Fli",
+ "description": "Single-app source for HD Flix (No Ads) (com.box.hd.flix.drama.hub). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/3tQFB9N.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.box.hd.flix.drama.hub",
+   "name": "HD Flix (No Ads)",
+   "developerName": "Dezokr",
+   "subtitle": "WHEN YOU FIRST OPEN THE APP IT WILL LOOK LIKE A DIFFERENT APP JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP  With HD Flix for iOS you can able to watc",
+   "localizedDescription": "WHEN YOU FIRST OPEN THE APP IT WILL LOOK LIKE A DIFFERENT APP JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP  With HD Flix for iOS you can able to watc",
+   "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/3tQFB9N.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlix/HDFlix-3.0.ipa",
+     "size": 21989838
+    },
+    {
+     "version": "2.0",
+     "date": "2025-03-10T00:00:00Z",
+     "localizedDescription": "WHEN YOU FIRST OPEN THE APP IT WILL LOOK LIKE A DIFFERENT APP JUST WAIT AND IT WILL CHANGE TO THE MOVIE APP  With HD Flix for iOS you can able to watc",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/HD.Flix.No.Ads.v2.0.ipa",
+     "size": 2800000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "mood",
+ "identifier": "dev.perapp.com-alexfox-camx",
+ "subtitle": "ipaomtk.com | What is mood.camera IPA? mood.camera IPA is the iOS installation file of a photography app designed to cre",
+ "description": "Single-app source for mood (com.alexfox.camx). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/mood.camera-IPA-v1.11.5-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alexfox.camx",
+   "name": "mood",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is mood.camera IPA? mood.camera IPA is the iOS installation file of a photography app designed to create visually expressive and mo",
+   "localizedDescription": "ipaomtk.com | What is mood.camera IPA? mood.camera IPA is the iOS installation file of a photography app designed to create visually expressive and mo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/mood.camera-IPA-v1.11.5-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.1",
+     "date": "2026-04-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is mood.camera IPA? mood.camera IPA is the iOS installation file of a photography app designed to create visually expressive and mo",
+     "downloadURL": "https://file.ipaomtk.com/mood-camera/mood-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

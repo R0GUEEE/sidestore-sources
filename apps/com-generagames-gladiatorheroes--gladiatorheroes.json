@@ -1,0 +1,30 @@
+{
+ "name": "Gladiatorheroes",
+ "identifier": "dev.perapp.com-generagames-gladiatorheroes",
+ "subtitle": "Gladiatorheroes",
+ "description": "Single-app source for Gladiatorheroes (com.generagames.gladiatorheroes). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.generagames.gladiatorheroes.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.generagames.gladiatorheroes",
+   "name": "Gladiatorheroes",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Gems",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.generagames.gladiatorheroes.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.07.22",
+     "date": "2024-12-08T00:00:00Z",
+     "localizedDescription": "Injected with Gems",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/Gladiatorheroes_3.07.22_Gems_%40thisismanpreets_apptesters.org.ipa",
+     "size": 381153147
+    }
+   ]
+  }
+ ]
+}

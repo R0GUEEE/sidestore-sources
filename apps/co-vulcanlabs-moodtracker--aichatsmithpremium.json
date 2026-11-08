@@ -1,0 +1,44 @@
+{
+ "name": "AIChatSmithPremium",
+ "identifier": "dev.perapp.co-vulcanlabs-moodtracker",
+ "subtitle": "AIChatSmithPremium by تطبيقات IPA 🌙 / DPixel",
+ "description": "Single-app source for AIChatSmithPremium (co.vulcanlabs.moodtracker). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.vulcanlabs.moodtracker",
+   "name": "AIChatSmithPremium",
+   "developerName": "تطبيقات IPA 🌙 / DPixel",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.1",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmithPremium/AIChatSmithPremium-6.1.ipa",
+     "size": 48912919
+    },
+    {
+     "version": "6.2.2",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmithPremium/AIChatSmithPremium-6.2.2.ipa",
+     "size": 58152963
+    },
+    {
+     "version": "6.2.4",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "A UI for ChatGPT/GPT-4, has a some different AI assistants, including email writer, comedian, plagiarism checker, etc. Full app description here\nLast updated: 08-02-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AIChatSmithPremium/AIChatSmithPremium-6.2.4.ipa",
+     "size": 85820013
+    }
+   ]
+  }
+ ]
+}

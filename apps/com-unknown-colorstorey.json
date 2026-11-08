@@ -1,0 +1,30 @@
+{
+ "name": "Color Storey",
+ "identifier": "dev.perapp.com-unknown-colorstorey",
+ "subtitle": "Activate Premium",
+ "description": "Single-app source for Color Storey (com.unknown.colorstorey). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Color.Storey.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.colorstorey",
+   "name": "Color Storey",
+   "developerName": "Karbin-Store",
+   "subtitle": "Activate Premium",
+   "localizedDescription": "Activate Premium",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Color.Storey.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.5",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Activate Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/ColorStory.Genius3.1.5.ipa",
+     "size": 41920000
+    }
+   ]
+  }
+ ]
+}

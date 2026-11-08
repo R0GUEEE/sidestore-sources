@@ -1,0 +1,30 @@
+{
+ "name": "Цифровой сейф",
+ "identifier": "dev.perapp.com-app-home-vault-prod",
+ "subtitle": "@ipa_dark | 🔄 Газпромбанк  🇷🇺 Обновлённое приложение газпромбанка, добавленное в appstore под видом другого приложения \"",
+ "description": "Single-app source for Цифровой сейф (com.app.home.vault.prod). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1725.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.app.home.vault.prod",
+   "name": "Цифровой сейф",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Газпромбанк  🇷🇺 Обновлённое приложение газпромбанка, добавленное в appstore под видом другого приложения \"Цифровой сейф\".  ℹ️ Особенност",
+   "localizedDescription": "@ipa_dark | 🔄 Газпромбанк  🇷🇺 Обновлённое приложение газпромбанка, добавленное в appstore под видом другого приложения \"Цифровой сейф\".  ℹ️ Особенност\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1725.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.1.3",
+     "date": "2026-09-19T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Газпромбанк  🇷🇺 Обновлённое приложение газпромбанка, добавленное в appstore под видом другого приложения \"Цифровой сейф\".  ℹ️ Особенност",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1725-%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA_%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%A1%D0%B5%D0%B9%D1%84_v6_1_3tg@ipa_dark.ipa",
+     "size": 259555879
+    }
+   ]
+  }
+ ]
+}

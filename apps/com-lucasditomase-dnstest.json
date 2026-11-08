@@ -1,0 +1,30 @@
+{
+ "name": "Anotalos",
+ "identifier": "dev.perapp.com-lucasditomase-dnstest",
+ "subtitle": "ipaomtk.com | Anotalos is a powerful and intuitive note-taking app that has been designed to revolutionize the way you c",
+ "description": "Single-app source for Anotalos (com.lucasditomase.dnstest). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-01-12.54.04%E2%80%AFAM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lucasditomase.dnstest",
+   "name": "Anotalos",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Anotalos is a powerful and intuitive note-taking app that has been designed to revolutionize the way you capture and organize your thoug",
+   "localizedDescription": "ipaomtk.com | Anotalos is a powerful and intuitive note-taking app that has been designed to revolutionize the way you capture and organize your thoug",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-01-12.54.04%E2%80%AFAM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-09-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Anotalos is a powerful and intuitive note-taking app that has been designed to revolutionize the way you capture and organize your thoug",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Anotalos-Quick-Notes-Taking-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

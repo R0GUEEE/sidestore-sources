@@ -1,0 +1,44 @@
+{
+ "name": "Spotilife",
+ "identifier": "dev.perapp.com-spotify-client",
+ "subtitle": "Spotilife by Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
+ "description": "Single-app source for Spotilife (com.spotify.client). Converted from swaggy.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client",
+   "name": "Spotilife",
+   "developerName": "Manpreet Singh @thisismanpreets / Spotilife IPAs / Spotify iOS",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.8.48",
+     "date": "2023-06-29T00:00:00Z",
+     "localizedDescription": "This version has support for CarPlay when installed via TrollStore.\nLast updated: 04-20-2024\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/Spotilife-8.8.48.ipa",
+     "size": 62089458
+    },
+    {
+     "version": "8.8.42",
+     "date": "2023-06-25T00:00:00Z",
+     "localizedDescription": "This version has support for CarPlay when installed via TrollStore.\nLast updated: 04-20-2024\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/Spotilife-8.8.42.ipa",
+     "size": 76001742
+    },
+    {
+     "version": "8.8.40",
+     "date": "2023-06-04T00:00:00Z",
+     "localizedDescription": "This version has support for CarPlay when installed via TrollStore.\nLast updated: 04-20-2024\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Spotilife-8.8.40.ipa",
+     "size": 60750670
+    }
+   ]
+  }
+ ]
+}

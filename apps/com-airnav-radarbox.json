@@ -1,0 +1,44 @@
+{
+ "name": "AirNav Radar",
+ "identifier": "dev.perapp.com-airnav-radarbox",
+ "subtitle": "@Sa1y0miii | AirNav Radar – Flight Tracker 🧸 Min.iOS: [15.1+] 🧀 App version: [3.4.8] !upd  🪼 App Store: https://apps.app",
+ "description": "Single-app source for AirNav Radar (com.airnav.radarbox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10877.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.airnav.radarbox",
+   "name": "AirNav Radar",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | AirNav Radar – Flight Tracker 🧸 Min.iOS: [15.1+] 🧀 App version: [3.4.8] !upd  🪼 App Store: https://apps.apple.com/ua/app/airnav-radar-fli",
+   "localizedDescription": "@Sa1y0miii | AirNav Radar – Flight Tracker 🧸 Min.iOS: [15.1+] 🧀 App version: [3.4.8] !upd  🪼 App Store: https://apps.apple.com/ua/app/airnav-radar-fli",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10877.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.17",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | AirNav Radar – Flight Tracker 🧸 Min.iOS: [15.1+] 🧀 App version: [3.4.17] !upd  🪼 App Store: https://apps.apple.com/ua/app/airnav-radar-fl",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15163-%E2%80%8EAirNav%20Radar%20Fli%E2%80%A6_v3.4.17_tg@Sa1y0miii.ipa",
+     "size": 70793792
+    },
+    {
+     "version": "3.4.16",
+     "date": "2026-10-09T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | AirNav Radar – Flight Tracker 🧸 Min.iOS: [15.1+] 🧀 App version: [3.4.16] !upd  🪼 App Store: https://apps.apple.com/ua/app/airnav-radar-fl",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14007-%E2%80%8EAirNav%20Radar_v3.4.16_tg@Sa1y0miii.ipa",
+     "size": 71187479
+    },
+    {
+     "version": "3.4.15",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | AirNav Radar – Flight Tracker 🧸 Min.iOS: [15.1+] 🧀 App version: [3.4.15] !upd  🪼 App Store: https://apps.apple.com/ua/app/airnav-radar-fl",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13554-%E2%80%8EAirNav%20Radar_v3.4.15_tg@Sa1y0miii.ipa",
+     "size": 71214998
+    }
+   ]
+  }
+ ]
+}

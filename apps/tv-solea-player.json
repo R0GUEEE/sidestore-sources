@@ -1,0 +1,49 @@
+{
+ "name": "Solea",
+ "identifier": "dev.perapp.tv-solea-player",
+ "subtitle": "A free IPTV player for Android TV, Fire TV, Android, iPhone and Windows: Xtream Codes and M3U playlists, with a TV inter",
+ "description": "Single-app source for Solea (tv.solea.player). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#bd6457",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/tv.solea.player.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.solea.player",
+   "name": "Solea",
+   "developerName": "ScaryFr92",
+   "subtitle": "A free IPTV player for Android TV, Fire TV, Android, iPhone and Windows: Xtream Codes and M3U playlists, with a TV interface built for the remote",
+   "localizedDescription": "Solea is a player, just as a web browser is for web pages. It provides, sells and recommends no content and no subscription: it only plays the sources you add yourself, and you must have the right to watch them.\n\nThis repository hosts the releases of Solea (downloads and release notes). The source code is private.\n\nDownload:\n\n• Windows – Solea--Setup.exe (installer) or Solea--windows.zip (portable).\n• iPhone, iPad – with SideStore: see below.\n\niPhone and iPad with SideStore:\n\nSolea installs on iPhone and iPad with SideStore, for free, with your own Apple Account. You need a computer once (about 10 minutes); after that, updates arrive on the iPhone. Step-by-step guide: solea.tv/en/install-iphone.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/tv.solea.player.png",
+   "tintColor": "#bd6457",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ScaryFr92/solea-releases@main/images/phone-home.png",
+    "https://cdn.jsdelivr.net/gh/ScaryFr92/solea-releases@main/images/phone-movie.png",
+    "https://cdn.jsdelivr.net/gh/ScaryFr92/solea-releases@main/images/phone-live.png"
+   ],
+   "versions": [
+    {
+     "version": "1.2.5",
+     "date": "2026-10-26T10:32:43Z",
+     "localizedDescription": "Settings:\n\n• Reorganized: six categories instead of seven (General, Playback, Subscription, Accounts, Advanced, About). Home options (categories, Anime, Sports) are now in General, subtitles in Playback, and technical options in Advanced. A single \"Refresh\" updates both the subscription and the catalog.\n\nSubtitles:\n\n• Appearance in detail: size, weight, colors of the text, outline and background, outline, shadow and height, with \"Default values\" and \"Undo changes\".\n• Turn on automatically: when the audio isn't in your language (Auto), always, only forced subtitles, or never. A choice made on a title still wins.\n• Keyboard: turn subtitles on or off, and shift them earlier or later by 0.25 s. Subtitles also stay visible in the small player window.\n\nJellyfin:\n\n• External address: add a Tailscale link or a domain name next to your home address. Solea uses the home address when it answers and switches to the external one when you're away.\n• On TV: a QR code lets you type the server address and your login on your phone instead of the remote.\n\nSports and Anime:\n\n• Sports can be shown as a column on the left, like movie and series categories, or as chips at the top (same setting as the libraries).\n• Anime is shown as a column until you choose a layout.\n\nDownloads:\n\n• Android box, Android TV, Fire TV, Android phones and tablets: Solea-1.2.5-android.apk.\n• Windows: Solea-1.2.5-Setup.exe (installer) or Solea-1.2.5-windows.zip (portable).\n• iPhone, iPad: with SideStore, see solea.tv/en/install-iphone.",
+     "downloadURL": "https://github.com/ScaryFr92/solea-releases/releases/download/v1.2.5/Solea-1.2.5-ios.ipa",
+     "size": 42501951
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "Solea utilise l'appareil photo seulement quand tu prends une photo pour ton profil.",
+     "NSLocalNetworkUsageDescription": "Solea cherche tes box Solea et tes Chromecast pour y envoyer des vidéos, et synchronise « Continuer à regarder » et tes favoris entre tes appareils.",
+     "NSMicrophoneUsageDescription": "Solea n'utilise pas le micro et ne le demande jamais. Cette mention est exigée par FFmpeg, intégré à Solea pour convertir le son des films envoyés au Chromecast.",
+     "NSPhotoLibraryUsageDescription": "Solea ouvre ta galerie seulement pour choisir la photo de ton profil."
+    }
+   }
+  }
+ ]
+}

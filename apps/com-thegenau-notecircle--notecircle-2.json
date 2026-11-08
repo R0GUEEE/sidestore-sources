@@ -1,0 +1,44 @@
+{
+ "name": "NoteCircle",
+ "identifier": "dev.perapp.com-thegenau-notecircle",
+ "subtitle": "NoteCircle",
+ "description": "Single-app source for NoteCircle (com.thegenau.NoteCircle). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thegenau.NoteCircle.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thegenau.NoteCircle",
+   "name": "NoteCircle",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thegenau.NoteCircle.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.74",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "You organize your tasks. Then everything falls apart. NoteCircle is built for when nothing sticks—and trusted by over 1 million users worldwide, with App Store features across the US, Europe, and Asia.\r\n\r\nWhy most to-do apps don’t stick\r\nYou start motivated, but after a few days everything falls apart again. Tasks get buried, routines break, and important things slip through the cracks. NoteCircle solves this by giving you structure without clutter.\r\n\r\nOne clear system for your day and week\r\nNoteCircle brings tasks, routines, events, and checklists into one clean planner, so nothing is hidden in separate apps or screens. With a calm weekly view, you always know what needs attention today and what can wait.\r\n\r\nEspecially helpful when focus is",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2242",
+     "size": 23312038
+    },
+    {
+     "version": "4.49",
+     "date": "2026-01-20T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/NoteCircle_4.49_Plus_%40thisismanpreets_apptesters.org.ipa",
+     "size": 15551457
+    },
+    {
+     "version": "4.45",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/NoteCircle_4.45_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 15960813
+    }
+   ]
+  }
+ ]
+}

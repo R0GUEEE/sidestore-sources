@@ -1,0 +1,30 @@
+{
+ "name": "Getting Over It",
+ "identifier": "dev.perapp.net-foddy-gettingoverit",
+ "subtitle": "Getting Over It by sidelix",
+ "description": "Single-app source for Getting Over It (net.Foddy.GettingOverIt). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a555d4211fe3.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "net.Foddy.GettingOverIt",
+   "name": "Getting Over It",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "A game I made\r\nFor a certain kind of person\r\n\r\nTo hurt them.\r\n\r\n• Climb up an enormous mountain with nothing but a hammer and a pot.\r\n• Listen as I make philosophical observations about the problem at hand.\r\n• Between 2 and ∞ hours of agonizing gameplay, depending. The median time to finish for my playtesters was 5 hours, but the mean was closer to ∞.\r\n• Lose all your progress, over and over.\r\n• Feel new types of frustration you didn't know you were capable of.",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a555d4211fe3.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.14",
+     "date": "2026-07-13T00:00:00Z",
+     "localizedDescription": "A game I made\r\nFor a certain kind of person\r\n\r\nTo hurt them.\r\n\r\n• Climb up an enormous mountain with nothing but a hammer and a pot.\r\n• Listen as I make philosophical observations about the problem at hand.\r\n• Between 2 and ∞ hours of agonizing gameplay, depending. The median time to finish for my playtesters was 5 hours, but the mean was closer to ∞.\r\n• Lose all your progress, over and over.\r\n• Feel new types of frustration you didn't know you were capable of.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1872",
+     "size": 120468908
+    }
+   ]
+  }
+ ]
+}

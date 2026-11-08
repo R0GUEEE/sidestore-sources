@@ -1,0 +1,30 @@
+{
+ "name": "Smashy Road: Wanted",
+ "identifier": "dev.perapp.com-rkgames-smashywanted",
+ "subtitle": "Smashy Road: Wanted by Bearbit Studios B.V.",
+ "description": "Single-app source for Smashy Road: Wanted (com.rkgames.smashywanted). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/43/03/b74303f0-ce7d-495f-b026-1d76d3909982/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rkgames.smashywanted",
+   "name": "Smashy Road: Wanted",
+   "developerName": "Bearbit Studios B.V.",
+   "subtitle": "",
+   "localizedDescription": "Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/43/03/b74303f0-ce7d-495f-b026-1d76d3909982/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.8",
+     "date": "2025-03-03T00:00:00Z",
+     "localizedDescription": "Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-bot-nx-51e1b7ab1fe5.herokuapp.com/dl/67c53713d943079d9d23f39e",
+     "size": 29263793
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "رشاقة",
+ "identifier": "dev.perapp.com-madarsoft-fitness",
+ "subtitle": "رشاقة",
+ "description": "Single-app source for رشاقة (com.madarsoft.fitness). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/6028b4cc-a40e-468d-9d10-51facaba30b6/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.madarsoft.fitness",
+   "name": "رشاقة",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @blatants |\n----------------\n📱 Rashaqa Home Workout & Diet\n\n🆔 Bundle ID: com.madarsoft.fitness\n⬆️ Updated to: 16.3\n🔧 Minimum iOS: 13.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\n>Ignore the \"Premium\" button all features should work.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/6028b4cc-a40e-468d-9d10-51facaba30b6/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/_20.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 263988651
+    },
+    {
+     "version": "7.28.5",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "Injected with VIP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/_7.28.5_VIP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 214336750
+    },
+    {
+     "version": "4.3.6",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/_4.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 245261473
+    }
+   ]
+  }
+ ]
+}

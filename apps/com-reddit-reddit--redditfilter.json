@@ -1,0 +1,84 @@
+{
+ "name": "RedditFilter",
+ "identifier": "dev.perapp.com-reddit-reddit",
+ "subtitle": "Filter out unwanted content from your Reddit feed. Configurable from in-app settings",
+ "description": "Single-app source for RedditFilter (com.reddit.Reddit). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ff4600",
+ "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.reddit.Reddit",
+   "name": "RedditFilter",
+   "developerName": "level3tjg",
+   "subtitle": "Filter out unwanted content from your Reddit feed. Configurable from in-app settings",
+   "localizedDescription": "- RedditFilter & RedditSideloadFix are made by u/level3tjg!!!\n- Filter out unwanted content from your Reddit feed. Configurable from in-app settings.\n- Requires iOS 14.0 or later.\n- Source code: \nhttps://github.com/level3tjg/RedditFilter\nhttps://github.com/level3tjg/RedditSideloadFix",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
+   "tintColor": "ff4600",
+   "screenshots": [
+    "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/1.PNG",
+    "https://level3tjg.me/repo/depictions/com.level3tjg.redditfilter/screenshots/2.PNG"
+   ],
+   "versions": [
+    {
+     "version": "2026.44.1",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "• Reddit updated to v2026.44.1",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.1.+.RedditFilter.ipa",
+     "size": 146986354
+    },
+    {
+     "version": "2026.44.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Initial addition.",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.0.ipa",
+     "size": 147004450
+    },
+    {
+     "version": "2026.25.0",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "features:\r\n- Apollo for Reddit Liquid Glass",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2109",
+     "size": 94982312
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "Calendars",
+      "usageDescription": "Reddit needs access to your calendar to operate the community calendar widget."
+     },
+     {
+      "name": "Camera",
+      "usageDescription": "Use your camera to record videos. See our Privacy Policy for more information."
+     },
+     {
+      "name": "FaceID",
+      "usageDescription": "Reddit needs access to Face ID to unlock your Vault."
+     },
+     {
+      "name": "LocationWhenInUse",
+      "usageDescription": "Reddit needs access to your location to show you communities and content in your area."
+     },
+     {
+      "name": "Microphone",
+      "usageDescription": "Reddit needs access to your microphone to post videos with audio."
+     },
+     {
+      "name": "PhotoLibraryAdd",
+      "usageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "Reddit needs access to your photo library to post, save, and upload photos or videos."
+     },
+     {
+      "name": "UserTracking",
+      "usageDescription": "This allows Reddit to provide you with a better ads experience."
+     }
+    ]
+   }
+  }
+ ]
+}

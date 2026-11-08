@@ -1,0 +1,30 @@
+{
+ "name": "FGB Operators",
+ "identifier": "dev.perapp.com-moab-fgb-operators",
+ "subtitle": "ipaomtk.com | The FGB Operators Game is an innovative training simulation designed to enhance the skills of financial pr",
+ "description": "Single-app source for FGB Operators (com.moab.fgb-operators). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-13-2.59.25%E2%80%AFAM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.moab.fgb-operators",
+   "name": "FGB Operators",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The FGB Operators Game is an innovative training simulation designed to enhance the skills of financial professionals. This immersive ga",
+   "localizedDescription": "ipaomtk.com | The FGB Operators Game is an innovative training simulation designed to enhance the skills of financial professionals. This immersive ga",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-13-2.59.25%E2%80%AFAM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The FGB Operators Game is an innovative training simulation designed to enhance the skills of financial professionals. This immersive ga",
+     "downloadURL": "https://file.ipaomtk.com/ipa/FGB_Operators-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "LingoDeer",
+ "identifier": "dev.perapp.com-lingodeer",
+ "subtitle": "Tweaks: LeTi",
+ "description": "Single-app source for LingoDeer (com.lingodeer). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lingodeer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lingodeer",
+   "name": "LingoDeer",
+   "developerName": "ipalibrary.me / binnichtaktiv's iPA Library",
+   "subtitle": "Tweaks: LeTi",
+   "localizedDescription": "Tweaks: LeTi\n\nInjected with Premium. The top app for mastering Asian languages and beyond, trusted by a lot of learners. Expertly crafted lessons ensure efficient and effective learning. Achieve conversational fluency in 12 languages, including Korean, Japanese, Spanish, French, Italian, German, Portuguese, Chinese, Thai, Arabic, Russian, Vietnamese, and English. Full app description here\nLast updated: 08-16-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lingodeer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.6",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tweaks: LeTi\n\nInjected with Premium. The top app for mastering Asian languages and beyond, trusted by a lot of learners. Expertly crafted lessons ensure efficient…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LingoDeer/LingoDeer-2.9.6.ipa",
+     "size": 161508999
+    }
+   ]
+  }
+ ]
+}

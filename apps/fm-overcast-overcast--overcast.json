@@ -1,0 +1,37 @@
+{
+ "name": "Overcast",
+ "identifier": "dev.perapp.fm-overcast-overcast",
+ "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Overcast (fm.overcast.overcast). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fm.overcast.overcast.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fm.overcast.overcast",
+   "name": "Overcast",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fm.overcast.overcast.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.10",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/12-10-2025/Overcast_2025.10_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 12706620
+    },
+    {
+     "version": "2024.9.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Overcast IPA v2024.10.2 MOD is a popular, free podcast player for iOS devices, known for its user-friendly interface and innovative feat",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Overcast-v2024.9.1_2024-10-16_17-03-26-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

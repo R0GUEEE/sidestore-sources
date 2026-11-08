@@ -1,0 +1,30 @@
+{
+ "name": "Manga Infinity",
+ "identifier": "dev.perapp.mangareader-infinity",
+ "subtitle": "ipaomtk.com | What is Manga Reader Infinity IPA? Manga Reader Infinity IPA is the iOS installable version of a manga rea",
+ "description": "Single-app source for Manga Infinity (mangareader.infinity). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Manga-Reader-Infinity-IPA-v6.4.10-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "mangareader.infinity",
+   "name": "Manga Infinity",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Manga Reader Infinity IPA? Manga Reader Infinity IPA is the iOS installable version of a manga reading application designed for ",
+   "localizedDescription": "ipaomtk.com | What is Manga Reader Infinity IPA? Manga Reader Infinity IPA is the iOS installable version of a manga reading application designed for ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Manga-Reader-Infinity-IPA-v6.4.10-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.3",
+     "date": "2026-04-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Manga Reader Infinity IPA? Manga Reader Infinity IPA is the iOS installable version of a manga reading application designed for ",
+     "downloadURL": "https://file.ipaomtk.com/manga-reader-infinity/Manga-Infinity-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

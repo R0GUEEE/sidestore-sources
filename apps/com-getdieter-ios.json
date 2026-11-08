@@ -1,0 +1,48 @@
+{
+ "name": "Dieter",
+ "identifier": "dev.perapp.com-getdieter-ios",
+ "subtitle": "Run AI coding agents on your own machines: a local daemon, a relay gateway, and native macOS, iOS and Android clients",
+ "description": "Single-app source for Dieter (com.getdieter.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3f748a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.getdieter.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.getdieter.ios",
+   "name": "Dieter",
+   "developerName": "dbpprt",
+   "subtitle": "Run AI coding agents on your own machines: a local daemon, a relay gateway, and native macOS, iOS and Android clients",
+   "localizedDescription": "Dieter is a workspace for coding agents (Codex, Claude Code, Pi, Oh My Pi and DeepSeek Harness) that run on your own machines. A small daemon starts each agent beside your Git checkout, with your tools and your provider accounts, and keeps it running when you close the app or put your laptop to sleep. Native apps bring every machine's boards, conversations, files, terminals and screens into one place, so you can start a task on your Mac, let a Linux workstation do it, and review the result from your phone.\n\n• Many machines, one project. Check out the same project on several hosts; each conversation runs on the machine you choose.\n• Review in place. Files, Git changes, terminals, background processes and an authenticated remote screen, next to the conversation.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.getdieter.ios.png",
+   "tintColor": "#3f748a",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/dbpprt/dieter@main/site/static/images/screenshots/ios-inbox.png",
+    "https://cdn.jsdelivr.net/gh/dbpprt/dieter@main/site/static/images/screenshots/ios-conversation.png",
+    "https://cdn.jsdelivr.net/gh/dbpprt/dieter@main/site/static/images/screenshots/android-board.png"
+   ],
+   "versions": [
+    {
+     "version": "0.6.441",
+     "date": "2026-11-07T02:41:15Z",
+     "localizedDescription": "Fixed:\n\n• Screen-sharing keyboards suppress autocomplete on Android and inline predictions on iOS, preserving the text sent to the remote desktop.",
+     "downloadURL": "https://github.com/dbpprt/dieter/releases/download/v0.6.441/Dieter-iOS.ipa",
+     "size": 64950895
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "Dieter includes camera-capable WebRTC components for remote screen viewing. Dieter does not capture or transmit camera video.",
+     "NSLocalNetworkUsageDescription": "Connect securely to your enrolled Dieter nodes on the local network."
+    }
+   }
+  }
+ ]
+}

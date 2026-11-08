@@ -1,0 +1,30 @@
+{
+ "name": "VNDS",
+ "identifier": "dev.perapp.me-octonezd-vnds",
+ "subtitle": "VNDS-LOVE-TOUCH:  VNDS-LOVE-TOUCH is a fork of VNDS-LOVE designed to work with touchscreens, particularly iPadOS devices",
+ "description": "Single-app source for VNDS (me.octonezd.vnds). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.octonezd.vnds.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.octonezd.vnds",
+   "name": "VNDS",
+   "developerName": "OctoNezd",
+   "subtitle": "VNDS-LOVE-TOUCH:  VNDS-LOVE-TOUCH is a fork of VNDS-LOVE designed to work with touchscreens, particularly iPadOS devices.  VNDS-LOVE is a cross platfo",
+   "localizedDescription": "VNDS-LOVE-TOUCH:  VNDS-LOVE-TOUCH is a fork of VNDS-LOVE designed to work with touchscreens, particularly iPadOS devices.  VNDS-LOVE is a cross platfo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.octonezd.vnds.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "VNDS-LOVE-TOUCH:  VNDS-LOVE-TOUCH is a fork of VNDS-LOVE designed to work with touchscreens, particularly iPadOS devices.  VNDS-LOVE is a cross platfo",
+     "downloadURL": "https://github.com/OctoNezd/VNDS-LOVE-TOUCH/releases/download/0.2.1/VNDS.ipa",
+     "size": 6869294
+    }
+   ]
+  }
+ ]
+}

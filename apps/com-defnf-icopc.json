@@ -1,0 +1,34 @@
+{
+ "name": "ICO",
+ "identifier": "dev.perapp.com-defnf-icopc",
+ "subtitle": "This is ICO (Sony Computer Entertainment, 2001) made to run as a normal",
+ "description": "Single-app source for ICO (com.defnf.icopc). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.defnf.icopc",
+   "name": "ICO",
+   "developerName": "nathanialf",
+   "subtitle": "This is ICO (Sony Computer Entertainment, 2001) made to run as a normal",
+   "localizedDescription": "ico-pc:\n\nThis is ICO (Sony Computer Entertainment, 2001) made to run as a normal program on a Windows or Linux PC, the Steam Deck, 64-bit ARM Linux handhelds, Android phones and tablets, iPhones and Apple-silicon Macs. It runs the game's own code, so it plays, sounds and feels like the PlayStation 2 game, from the European, Japanese, Korean, North American or Asian disc, or from the August 2001 preview disc or the June 2001 magazine demo. There are extras, such as a sharper picture, widescreen and smoother motion. The sharper picture, widescreen and the other picture extras stay off until you turn them on, and the frame rate is not held to the PS2's unless you choose Original. The mouse camera starts on.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.0",
+     "date": "2026-11-08T07:12:31Z",
+     "localizedDescription": "New:\n\n• Options > Picture has a new row, Upscaling. FSR 1.0 (AMD's open upscaler) makes the picture sharper when it is drawn smaller than your screen, as at Resolution 1x or after Downsampling, on every computer and phone. A Sharpness row goes with it. Off by default, the picture as the original game showed it.\n• Options > Picture > Upscaling has a second choice, FSR 3.1 (AMD's open temporal upscaler), on computers that run the game with Vulkan (Windows and Linux), with an Upscaling quality row: Native AA smooths the edges of the picture at your resolution; Quality, Balanced and Performance draw it smaller and rebuild it to size. Off as in the original game. Things the game draws flat on the screen, such as the fades, the film grain, sparks and smoke, can leave a faint trail. Computers that cannot run it do not offer it.\n\nFixed:\n\n• On phones and tablets with Mali, PowerVR, Adreno or Samsung Xclipse graphics, on Macs with Apple chips and on the Raspberry Pi, the game now works out each corner of the 3D scenery once a picture instead of up to nine times, as it already did on other computers: cutscenes and busy scenes on slower phones should run faster. At start the game checks that the chip draws this way exactly as the slower way does, over several pictures in a row, and goes back to the slower way by itself if not.\n• On Snapdragon phones and tablets, the check that watches the characters for missing parts now steps back once it has seen nothing wrong for a while, so it costs less each picture, and the driver setting it may have saved is tried again at a later start instead of kept forever. The log now shows what the check costs each picture.\n• The file the game saves by itself from a slow scene now holds a picture from the heavy part of the scene, and up to three such files are written each time you start the game, each from a heavier moment than the one before.",
+     "downloadURL": "https://github.com/nathanialf/ico-pc/releases/download/v0.11.0/ico-pc-v0.11.0-ios-unsigned.ipa",
+     "size": 8606845
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

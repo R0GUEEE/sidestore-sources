@@ -1,0 +1,30 @@
+{
+ "name": "WaterReminder",
+ "identifier": "dev.perapp.com-vgfit-waterreminder",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for WaterReminder (com.vgfit.waterreminder). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.waterreminder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vgfit.waterreminder",
+   "name": "WaterReminder",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.waterreminder.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.11.3",
+     "date": "2026-09-28T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-09-2026/WaterReminder_1.11.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 51884635
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Lock Screen 16",
+ "identifier": "dev.perapp.com-lockscreen-app",
+ "subtitle": "ipaomtk.com | Have you tired of the same, boring lock screen on your phone? Lock Screen 16 is the perfect solution for y",
+ "description": "Single-app source for Lock Screen 16 (com.lockscreen.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/launcher-ios-16-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lockscreen.app",
+   "name": "Lock Screen 16",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Have you tired of the same, boring lock screen on your phone? Lock Screen 16 is the perfect solution for you! It’s an app that brings yo",
+   "localizedDescription": "ipaomtk.com | Have you tired of the same, boring lock screen on your phone? Lock Screen 16 is the perfect solution for you! It’s an app that brings yo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/launcher-ios-16-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8",
+     "date": "2023-04-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Have you tired of the same, boring lock screen on your phone? Lock Screen 16 is the perfect solution for you! It’s an app that brings yo",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Lock-Screen.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

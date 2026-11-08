@@ -1,0 +1,30 @@
+{
+ "name": "Alook_Browser_20.1",
+ "identifier": "dev.perapp.com-ld-takebrowser",
+ "subtitle": "Ayy look, a browser!",
+ "description": "Single-app source for Alook_Browser_20.1 (com.ld.TakeBrowser). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Alook_Browser_20.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ld.TakeBrowser",
+   "name": "Alook_Browser_20.1",
+   "developerName": "Alook_Browser_20.1 x CyPwn",
+   "subtitle": "Ayy look, a browser!",
+   "localizedDescription": "Ayy look, a browser!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Alook_Browser_20.1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Ayy look, a browser!",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Alook_Browser_20.1.ipa",
+     "size": 12020537
+    }
+   ]
+  }
+ ]
+}

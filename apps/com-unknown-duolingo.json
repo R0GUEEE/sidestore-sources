@@ -1,0 +1,30 @@
+{
+ "name": "Duolingo",
+ "identifier": "dev.perapp.com-unknown-duolingo",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    ئەپڵیکەیشنێکی بەناوبانگ بۆ فێربونی زمانی ئینگلیزی و زمانەکانی تر ✅  بەشداریکردنی VIP ب",
+ "description": "Single-app source for Duolingo (com.unknown.duolingo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Duolingo.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.duolingo",
+   "name": "Duolingo",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    ئەپڵیکەیشنێکی بەناوبانگ بۆ فێربونی زمانی ئینگلیزی و زمانەکانی تر ✅  بەشداریکردنی VIP بەخۆڕایی ✅  دڵەکان هیچ سنوورێکی",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    ئەپڵیکەیشنێکی بەناوبانگ بۆ فێربونی زمانی ئینگلیزی و زمانەکانی تر ✅  بەشداریکردنی VIP بەخۆڕایی ✅  دڵەکان هیچ سنوورێکی",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Duolingo.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.53.0",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    ئەپڵیکەیشنێکی بەناوبانگ بۆ فێربونی زمانی ئینگلیزی و زمانەکانی تر ✅  بەشداریکردنی VIP بەخۆڕایی ✅  دڵەکان هیچ سنوورێکی",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/Duolingo_7.53.0_DEV.ipa",
+     "size": 118660000
+    }
+   ]
+  }
+ ]
+}

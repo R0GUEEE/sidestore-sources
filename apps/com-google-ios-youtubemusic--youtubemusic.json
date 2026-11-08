@@ -1,0 +1,30 @@
+{
+ "name": "YouTubeMusic",
+ "identifier": "dev.perapp.com-google-ios-youtubemusic",
+ "subtitle": "Tweaks: ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate",
+ "description": "Single-app source for YouTubeMusic (com.google.ios.youtubemusic). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/36/f8/5836f886-4ebf-52b7-5a5b-ee99c104355b/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtubemusic",
+   "name": "YouTubeMusic",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Tweaks: ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate",
+   "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate\n\nChức năng đã thêm: YTMusicUltimate - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/58/36/f8/5836f886-4ebf-52b7-5a5b-ee99c104355b/logo_youtube_music_2024_q4_color-0-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.21.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, YTMABConfig, YTMusicUltimate\n\nChức năng đã thêm: YTMusicUltimate - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/YoutubeMusic_7.21.1_YTMusicUltimate_TTJB.ipa",
+     "size": 87561166
+    }
+   ]
+  }
+ ]
+}

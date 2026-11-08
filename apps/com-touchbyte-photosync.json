@@ -1,0 +1,44 @@
+{
+ "name": "PhotoSync",
+ "identifier": "dev.perapp.com-touchbyte-photosync",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for PhotoSync (com.touchbyte.PhotoSync). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.touchbyte.PhotoSync",
+   "name": "PhotoSync",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.10",
+     "date": "2026-09-05T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/PhotoSync_4.10_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 37279725
+    },
+    {
+     "version": "4.9.7",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/26-09-2025/PhotoSync_4.9.7_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 61854545
+    },
+    {
+     "version": "4.9.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoSyncPremium/PhotoSyncPremium-4.9.1.ipa",
+     "size": 59737296
+    }
+   ]
+  }
+ ]
+}

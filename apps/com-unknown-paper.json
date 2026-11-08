@@ -1,0 +1,30 @@
+{
+ "name": "Paper",
+ "identifier": "dev.perapp.com-unknown-paper",
+ "subtitle": "Injected with AllFeaturesUnlocked",
+ "description": "Single-app source for Paper (com.unknown.paper). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Papper-apk.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.paper",
+   "name": "Paper",
+   "developerName": "Karbin-Store",
+   "subtitle": "Injected with AllFeaturesUnlocked",
+   "localizedDescription": "Injected with AllFeaturesUnlocked",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Papper-apk.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.8",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Injected with AllFeaturesUnlocked",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Paper-v5.4.8.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

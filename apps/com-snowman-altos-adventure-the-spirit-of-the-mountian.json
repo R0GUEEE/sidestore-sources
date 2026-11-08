@@ -1,0 +1,30 @@
+{
+ "name": "Altos Adventure",
+ "identifier": "dev.perapp.com-snowman-altos-adventure-the-spirit-of-the-mountian",
+ "subtitle": "Join my telegram: t.me/riftysIPAlibrary",
+ "description": "Single-app source for Altos Adventure (com.snowman.altos-adventure.the-spirit-of-the-mountian). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/90/27/b59027ef-4595-72fb-7a36-c9f7a15d5d66/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.snowman.altos-adventure.the-spirit-of-the-mountian",
+   "name": "Altos Adventure",
+   "developerName": "snowman",
+   "subtitle": "Join my telegram: t.me/riftysIPAlibrary",
+   "localizedDescription": "Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/90/27/b59027ef-4595-72fb-7a36-c9f7a15d5d66/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.7",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://github.com/notrifty1/riftysrepo/releases/download/test/Alto.s.Adventure.-.Remastered.-.v1.0.7.ipa",
+     "size": 87900000
+    }
+   ]
+  }
+ ]
+}

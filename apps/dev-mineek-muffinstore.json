@@ -1,0 +1,32 @@
+{
+ "name": "MuffinStore_1.1.2",
+ "identifier": "dev.perapp.dev-mineek-muffinstore",
+ "subtitle": "MuffinStore_1.1.2 by MuffinStore_1.1.2 x CyPwn",
+ "description": "Single-app source for MuffinStore_1.1.2 (dev.mineek.muffinstore). Converted from cypwn-trollstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/MuffinStore_1.1.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.mineek.muffinstore",
+   "name": "MuffinStore_1.1.2",
+   "developerName": "MuffinStore_1.1.2 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Experimental app downgrader.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/MuffinStore_1.1.2.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/MuffinStore_1.1.2/MuffinStore_1.1.2-0.png"
+   ],
+   "versions": [
+    {
+     "version": "1.1.2",
+     "date": "2024-10-08T00:00:00Z",
+     "localizedDescription": "Experimental app downgrader.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/MuffinStore_1.1.2.ipa",
+     "size": 219228
+    }
+   ]
+  }
+ ]
+}

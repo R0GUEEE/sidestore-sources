@@ -1,0 +1,44 @@
+{
+ "name": "Paradise Paws",
+ "identifier": "dev.perapp.com-wildlifestudios-merge-animal-sanctuary",
+ "subtitle": "ipaomtk.com | Paradise Paws Merge Animals IPA is an enchanting mobile game designed exclusively for iOS users. It combin",
+ "description": "Single-app source for Paradise Paws (com.wildlifestudios.merge.animal.sanctuary). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Paradise-Paws-Merge-Animals-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wildlifestudios.merge.animal.sanctuary",
+   "name": "Paradise Paws",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Paradise Paws Merge Animals IPA is an enchanting mobile game designed exclusively for iOS users. It combines the relaxing nature of merg",
+   "localizedDescription": "ipaomtk.com | Paradise Paws Merge Animals IPA is an enchanting mobile game designed exclusively for iOS users. It combines the relaxing nature of merg",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Paradise-Paws-Merge-Animals-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.37",
+     "date": "2025-06-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Paradise Paws Merge Animals IPA is an enchanting mobile game designed exclusively for iOS users. It combines the relaxing nature of merg",
+     "downloadURL": "https://file.ipaomtk.com/Paradise-Paws-Merge-Animals/Paradise-Paws-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.15.0",
+     "date": "2025-06-12T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Paradise Paws Merge Animals IPA is an enchanting mobile game designed exclusively for iOS users. It combines the relaxing nature of merg",
+     "downloadURL": "https://file.ipaomtk.com/Paradise-Paws-Merge-Animals/Paradise-Paws-IPAOMTK.COM.ipa",
+     "size": 206325429
+    },
+    {
+     "version": "0.2.1",
+     "date": "2025-05-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Animal Sanctuary IPA for iOS ​offers a unique and heartwarming experience for players who love animals and strategy gameplay. Designed t",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Animal_Sanctuary_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

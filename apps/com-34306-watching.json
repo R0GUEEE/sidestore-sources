@@ -1,0 +1,30 @@
+{
+ "name": "Watching",
+ "identifier": "dev.perapp.com-34306-watching",
+ "subtitle": "An app that reveals more detailed information about your iPhone's battery, which Apple does not disclose. Last updated: ",
+ "description": "Single-app source for Watching (com.34306.watching). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.34306.watching.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.34306.watching",
+   "name": "Watching",
+   "developerName": "34306",
+   "subtitle": "An app that reveals more detailed information about your iPhone's battery, which Apple does not disclose. Last updated: 03-17-2024 Status: ✅",
+   "localizedDescription": "An app that reveals more detailed information about your iPhone's battery, which Apple does not disclose. Last updated: 03-17-2024 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.34306.watching.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "An app that reveals more detailed information about your iPhone's battery, which Apple does not disclose. Last updated: 03-17-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Watching/Watching-1.0.ipa",
+     "size": 3103136
+    }
+   ]
+  }
+ ]
+}

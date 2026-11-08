@@ -1,0 +1,30 @@
+{
+ "name": "TotM+",
+ "identifier": "dev.perapp.com-playgendary-totmplus",
+ "subtitle": "@ipa_dark | 🔄 Tomb of the Mask+ - appstore  🇷🇺 Динамичная аркада с неоновым визуальным стилем, где нужно перемещаться по",
+ "description": "Single-app source for TotM+ (com.playgendary.totmplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1682.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playgendary.totmplus",
+   "name": "TotM+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Tomb of the Mask+ - appstore  🇷🇺 Динамичная аркада с неоновым визуальным стилем, где нужно перемещаться по лабиринтам, собирать точки и ",
+   "localizedDescription": "@ipa_dark | 🔄 Tomb of the Mask+ - appstore  🇷🇺 Динамичная аркада с неоновым визуальным стилем, где нужно перемещаться по лабиринтам, собирать точки и ",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1682.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.36",
+     "date": "2026-08-29T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Tomb of the Mask+ - appstore  🇷🇺 Динамичная аркада с неоновым визуальным стилем, где нужно перемещаться по лабиринтам, собирать точки и ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1682-Tomb%20of%20the%20Mask+%20%5Bv1.36.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 45673562
+    }
+   ]
+  }
+ ]
+}

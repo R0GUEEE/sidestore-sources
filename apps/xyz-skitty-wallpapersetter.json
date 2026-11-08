@@ -1,0 +1,30 @@
+{
+ "name": "WPSetter",
+ "identifier": "dev.perapp.xyz-skitty-wallpapersetter",
+ "subtitle": "ipaomtk.com | When it comes to personalizing our smartphones, one of the most popular ways is by changing our wallpapers",
+ "description": "Single-app source for WPSetter (xyz.skitty.WallpaperSetter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/unnamed-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.skitty.WallpaperSetter",
+   "name": "WPSetter",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | When it comes to personalizing our smartphones, one of the most popular ways is by changing our wallpapers. A stunning wallpaper can mak",
+   "localizedDescription": "ipaomtk.com | When it comes to personalizing our smartphones, one of the most popular ways is by changing our wallpapers. A stunning wallpaper can mak",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/unnamed-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2024-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | When it comes to personalizing our smartphones, one of the most popular ways is by changing our wallpapers. A stunning wallpaper can mak",
+     "downloadURL": "https://file.ipaomtk.com/Trollstore/WallpaperSetter.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

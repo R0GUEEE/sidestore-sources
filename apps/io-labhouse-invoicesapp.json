@@ -1,0 +1,30 @@
+{
+ "name": "Invoice Fly",
+ "identifier": "dev.perapp.io-labhouse-invoicesapp",
+ "subtitle": "ipaomtk.com | What is Invoice Maker – Invoice Fly IPA? Invoice Maker – Invoice Fly IPA is the iOS installation package f",
+ "description": "Single-app source for Invoice Fly (io.labhouse.invoicesapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Invoice-Maker-8211-Invoice-Fly-IPA-v2.20.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "io.labhouse.invoicesapp",
+   "name": "Invoice Fly",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Invoice Maker – Invoice Fly IPA? Invoice Maker – Invoice Fly IPA is the iOS installation package for the Invoice Fly application",
+   "localizedDescription": "ipaomtk.com | What is Invoice Maker – Invoice Fly IPA? Invoice Maker – Invoice Fly IPA is the iOS installation package for the Invoice Fly application",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Invoice-Maker-8211-Invoice-Fly-IPA-v2.20.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.20.0",
+     "date": "2026-03-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Invoice Maker – Invoice Fly IPA? Invoice Maker – Invoice Fly IPA is the iOS installation package for the Invoice Fly application",
+     "downloadURL": "https://file.ipaomtk.com/invoice-maker-invoice-fly/Invoice-Maker-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

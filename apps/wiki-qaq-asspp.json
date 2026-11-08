@@ -1,0 +1,32 @@
+{
+ "name": "Asspp_2.3",
+ "identifier": "dev.perapp.wiki-qaq-asspp",
+ "subtitle": "Asspp_2.3 by Asspp_2.3 x CyPwn",
+ "description": "Single-app source for Asspp_2.3 (wiki.qaq.Asspp). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Asspp_2.3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "wiki.qaq.Asspp",
+   "name": "Asspp_2.3",
+   "developerName": "Asspp_2.3 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Multi-account App Store management",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Asspp_2.3.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Asspp_2.3/Asspp_2.3-0.png"
+   ],
+   "versions": [
+    {
+     "version": "2.3",
+     "date": "2025-09-20T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Asspp_2.3.ipa",
+     "size": 10223616
+    }
+   ]
+  }
+ ]
+}

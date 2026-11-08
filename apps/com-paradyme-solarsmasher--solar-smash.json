@@ -1,0 +1,44 @@
+{
+ "name": "Solar Smash",
+ "identifier": "dev.perapp.com-paradyme-solarsmasher",
+ "subtitle": "Solar Smash",
+ "description": "Single-app source for Solar Smash (com.paradyme.solarsmasher). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/8b342d4c-a0f2-44e7-bc64-ba1ec5edde69/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.paradyme.solarsmasher",
+   "name": "Solar Smash",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Solar Smash\n\nTweak: No Ads\n\nVersion: 2.6.4\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/8b342d4c-a0f2-44e7-bc64-ba1ec5edde69/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.5",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "No Ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2357",
+     "size": 322090639
+    },
+    {
+     "version": "2.7.3",
+     "date": "2026-08-02T00:00:00Z",
+     "localizedDescription": "No Ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2357",
+     "size": 315427431
+    },
+    {
+     "version": "2.6.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Solar Smash\n\nTweak: No Ads\n\nVersion: 2.6.4\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/081a9ea9-0646-4c1f-be8e-70570030a271/Solar_Smash-v2.6.4-riftysipas.ipa",
+     "size": 304786608
+    }
+   ]
+  }
+ ]
+}

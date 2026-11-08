@@ -1,0 +1,44 @@
+{
+ "name": "Cheatsheet",
+ "identifier": "dev.perapp.com-overdesigned-cheatsheet",
+ "subtitle": "Cheatsheet",
+ "description": "Single-app source for Cheatsheet (com.overdesigned.Cheatsheet). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/cf23b557-4353-4216-b78b-b2e8a23dbdc8/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.overdesigned.Cheatsheet",
+   "name": "Cheatsheet",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Cheatsheet — Sticky Notes Widget\n\nTweak: Subscription Unlocked\n\nVersion: 5.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/cf23b557-4353-4216-b78b-b2e8a23dbdc8/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.1.1",
+     "date": "2026-08-19T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1601",
+     "size": 61481687
+    },
+    {
+     "version": "6.1",
+     "date": "2026-08-13T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1601",
+     "size": 61120612
+    },
+    {
+     "version": "5.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Cheatsheet — Sticky Notes Widget\n\nTweak: Subscription Unlocked\n\nVersion: 5.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4a776385-4206-4c1f-90ea-b303f5a9ef77/Cheatsheet__Sticky_Note_Widget-v5.3-riftysipas.ipa",
+     "size": 52155587
+    }
+   ]
+  }
+ ]
+}

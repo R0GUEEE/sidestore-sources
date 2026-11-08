@@ -1,0 +1,30 @@
+{
+ "name": "SixPackAbs-AbsWorkout",
+ "identifier": "dev.perapp.com-abishkking-sixpack",
+ "subtitle": "SixPackAbs-AbsWorkout",
+ "description": "Single-app source for SixPackAbs-AbsWorkout (com.abishkking.sixpack). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.abishkking.sixpack",
+   "name": "SixPackAbs-AbsWorkout",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.sixpack.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.24.0",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/SixPackAbs-AbsWorkout_1.24.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 299045340
+    }
+   ]
+  }
+ ]
+}

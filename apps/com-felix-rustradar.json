@@ -1,0 +1,40 @@
+{
+ "name": "RustRadar",
+ "identifier": "dev.perapp.com-felix-rustradar",
+ "subtitle": "A live flight radar on a 3D globe: Tauri 2 + SvelteKit (Svelte 5) + deck.gl 9,",
+ "description": "Single-app source for RustRadar (com.felix.rustradar). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#81bd74",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.felix.rustradar.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.felix.rustradar",
+   "name": "RustRadar",
+   "developerName": "felixgoff",
+   "subtitle": "A live flight radar on a 3D globe: Tauri 2 + SvelteKit (Svelte 5) + deck.gl 9,",
+   "localizedDescription": "RustRadar:\n\nA live flight radar on a 3D globe: Tauri 2 + SvelteKit (Svelte 5) + deck.gl 9, backed by a native Rust port of the fr24 Python library.\n\n• Every live aircraft (~20k worldwide), drawn from the real shape of its type. Around 99.7% of live traffic resolves to one of 40 aircraft models; the rest (fighters, drones, balloons, ground vehicles) keep the built-in low-poly shapes. What you see depends on the camera:.\n\n• Flat and wide — a top-down silhouette of the actual type, which is how a map read from straight above wants to look.\n• Tilted — the real mesh, about 220 triangles, enough for the planform, engines and fin.\n• Zoom 11 and closer — the same mesh at about 2,600 triangles, tilted or not.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.felix.rustradar.png",
+   "tintColor": "#81bd74",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.11",
+     "date": "2026-10-26T19:43:17Z",
+     "localizedDescription": "Installed copies update to this version automatically the next time they open.",
+     "downloadURL": "https://github.com/felixgoff/RustRadar/releases/download/v0.3.11/RustRadar_0.3.11.ipa",
+     "size": 30888572
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

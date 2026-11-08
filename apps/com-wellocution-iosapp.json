@@ -1,0 +1,30 @@
+{
+ "name": "BoldVoice",
+ "identifier": "dev.perapp.com-wellocution-iosapp",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for BoldVoice (com.wellocution.iosapp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wellocution.iosapp",
+   "name": "BoldVoice",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.7",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/BoldVoice_4.4.7_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 120951814
+    }
+   ]
+  }
+ ]
+}

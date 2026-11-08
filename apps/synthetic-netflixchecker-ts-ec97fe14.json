@@ -1,0 +1,30 @@
+{
+ "name": "NetflixChecker_TS",
+ "identifier": "dev.perapp.synthetic-netflixchecker-ts-ec97fe14",
+ "subtitle": "Netflix account checker by Julio Verne.",
+ "description": "Single-app source for NetflixChecker_TS (synthetic.netflixchecker-ts.ec97fe14). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/NetflixChecker_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.netflixchecker-ts.ec97fe14",
+   "name": "NetflixChecker_TS",
+   "developerName": "NetflixChecker_TS x CyPwn",
+   "subtitle": "Netflix account checker by Julio Verne.",
+   "localizedDescription": "Netflix account checker by Julio Verne.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/NetflixChecker_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Netflix account checker by Julio Verne.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/NetflixChecker_TS.ipa",
+     "size": 60282
+    }
+   ]
+  }
+ ]
+}

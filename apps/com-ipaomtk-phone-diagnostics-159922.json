@@ -1,0 +1,37 @@
+{
+ "name": "Phone Diagnostics",
+ "identifier": "dev.perapp.com-ipaomtk-phone-diagnostics-159922",
+ "subtitle": "ipaomtk.com | What is Phone Diagnostics IPA? Phone Diagnostics IPA is an iOS installation package that allows users to i",
+ "description": "Single-app source for Phone Diagnostics (com.ipaomtk.phone.diagnostics.159922). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Phone-Diagnostics-IPA-v4.1.1-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.phone.diagnostics.159922",
+   "name": "Phone Diagnostics",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Phone Diagnostics IPA? Phone Diagnostics IPA is an iOS installation package that allows users to install a comprehensive device ",
+   "localizedDescription": "ipaomtk.com | What is Phone Diagnostics IPA? Phone Diagnostics IPA is an iOS installation package that allows users to install a comprehensive device ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Phone-Diagnostics-IPA-v4.1.1-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Phone Diagnostics IPA? Phone Diagnostics IPA is an iOS installation package that allows users to install a comprehensive device ",
+     "downloadURL": "https://file.ipaomtk.com/phone-diagnostics/Phone-Diagnostics-IPAOMTK.com.ipa",
+     "size": 0
+    },
+    {
+     "version": "4.1.7",
+     "date": "2026-05-04T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nipaomtk.com | What is Phone Diagnostics IPA? Phone Diagnostics IPA is an iOS installation package that allows users to install a comprehensive device ",
+     "downloadURL": "https://file.ipaomtk.com/phone-diagnostics/Phone-Diagnostics-IPAOMTK.com.ipa",
+     "size": 12919012
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "MyLight",
+ "identifier": "dev.perapp.com-fingercoding-mylighthd",
+ "subtitle": "ipaomtk.com | MyLight – Flashlight & LED IPA v3.13.1 MyLight – Flashlight & LED App is a mobile application that turns y",
+ "description": "Single-app source for MyLight (com.fingercoding.mylighthd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/MyLight-%E2%80%93-Flashlight-038-LED.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fingercoding.mylighthd",
+   "name": "MyLight",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MyLight – Flashlight & LED IPA v3.13.1 MyLight – Flashlight & LED App is a mobile application that turns your smartphone into a flashlig",
+   "localizedDescription": "ipaomtk.com | MyLight – Flashlight & LED IPA v3.13.1 MyLight – Flashlight & LED App is a mobile application that turns your smartphone into a flashlig",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/MyLight-%E2%80%93-Flashlight-038-LED.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.13.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MyLight – Flashlight & LED IPA v3.13.1 MyLight – Flashlight & LED App is a mobile application that turns your smartphone into a flashlig",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MyLight_Flashlight_LED-v3.13.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

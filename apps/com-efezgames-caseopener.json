@@ -1,0 +1,37 @@
+{
+ "name": "CaseOpener",
+ "identifier": "dev.perapp.com-efezgames-caseopener",
+ "subtitle": "ipaomtk.com | Case Opener IPA is a modified version of the popular iOS game that is perfect for all the collectors and e",
+ "description": "Single-app source for CaseOpener (com.efezgames.caseopener). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-case-opener-skins-simulator-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.efezgames.caseopener",
+   "name": "CaseOpener",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Case Opener IPA is a modified version of the popular iOS game that is perfect for all the collectors and enthusiasts out there. This mod",
+   "localizedDescription": "ipaomtk.com | Case Opener IPA is a modified version of the popular iOS game that is perfect for all the collectors and enthusiasts out there. This mod",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-case-opener-skins-simulator-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.40.0",
+     "date": "2023-10-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Case Opener IPA is a modified version of the popular iOS game that is perfect for all the collectors and enthusiasts out there. This mod",
+     "downloadURL": "https://file.ipaomtk.com/Case%20Opener%20-%20skins%20simulator/Case-Opener-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.42.0",
+     "date": "2023-10-05T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Case Opener IPA is a modified version of the popular iOS game that is perfect for all the collectors and enthusiasts out there. This mod",
+     "downloadURL": "https://file.ipaomtk.com/Case%20Opener%20-%20skins%20simulator/Case-Opener-IPAOMTK.COM.ipa",
+     "size": 164665165
+    }
+   ]
+  }
+ ]
+}

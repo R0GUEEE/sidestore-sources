@@ -1,0 +1,30 @@
+{
+ "name": "Addons_3.2",
+ "identifier": "dev.perapp.com-qingbin-addons",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for Addons_3.2 (com.qingbin.Addons). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Addons_3.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.qingbin.Addons",
+   "name": "Addons_3.2",
+   "developerName": "Addons_3.2 x CyPwn",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nPowerful Safari browser extension!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Addons_3.2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nPowerful Safari browser extension!",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Addons_3.2.ipa",
+     "size": 28430074
+    }
+   ]
+  }
+ ]
+}

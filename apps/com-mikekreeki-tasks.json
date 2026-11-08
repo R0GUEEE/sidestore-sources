@@ -1,0 +1,30 @@
+{
+ "name": "Lunatask",
+ "identifier": "dev.perapp.com-mikekreeki-tasks",
+ "subtitle": "Tweaks: riftyslunatask",
+ "description": "Single-app source for Lunatask (com.mikekreeki.tasks). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mikekreeki.tasks.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mikekreeki.tasks",
+   "name": "Lunatask",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: riftyslunatask",
+   "localizedDescription": "Tweaks: riftyslunatask\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mikekreeki.tasks.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.18",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: riftyslunatask\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lunatask_2.1.18_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 14829930
+    }
+   ]
+  }
+ ]
+}

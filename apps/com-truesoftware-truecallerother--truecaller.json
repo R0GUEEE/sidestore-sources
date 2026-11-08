@@ -1,0 +1,44 @@
+{
+ "name": "Truecaller",
+ "identifier": "dev.perapp.com-truesoftware-truecallerother",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Truecaller (com.truesoftware.TrueCallerOther). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+   "name": "Truecaller",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.truesoftware.TrueCallerOther.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.40.5",
+     "date": "2026-10-18T00:00:00Z",
+     "localizedDescription": "@kamohacks | Truecaller ( KamoHacks Special ) 🆕🆙🆙  ⚙️Features⚙️ ✅Gold Membership Unlocked ✅Works With Sideloading for the first time only on KamoHacks",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16807-Truecaller%20-%20KamoHacks%20%5B26.40.5%5D.ipa",
+     "size": 75366359
+    },
+    {
+     "version": "14.44.6",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-11-2025/Truecaller_14.44.6_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 77703385
+    },
+    {
+     "version": "14.36.6",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-09-2025/Truecaller_14.36.6_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 81296980
+    }
+   ]
+  }
+ ]
+}

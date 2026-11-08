@@ -1,0 +1,30 @@
+{
+ "name": "VideoRemover",
+ "identifier": "dev.perapp.com-unknown-videoremover",
+ "subtitle": "ئەپڵیکەیشنە بۆ دەستکاریکردنی ڤیدیۆ کلیپەکان و کەمکردنەوەی قەبارەیان",
+ "description": "Single-app source for VideoRemover (com.unknown.videoremover). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/VideoRemover.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.videoremover",
+   "name": "VideoRemover",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپڵیکەیشنە بۆ دەستکاریکردنی ڤیدیۆ کلیپەکان و کەمکردنەوەی قەبارەیان",
+   "localizedDescription": "ئەپڵیکەیشنە بۆ دەستکاریکردنی ڤیدیۆ کلیپەکان و کەمکردنەوەی قەبارەیان",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/VideoRemover.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.7",
+     "date": "2025-01-11T00:00:00Z",
+     "localizedDescription": "ئەپڵیکەیشنە بۆ دەستکاریکردنی ڤیدیۆ کلیپەکان و کەمکردنەوەی قەبارەیان",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/karbin-ipa-six/VideoRemover_2.3.7_3BodSy.ipa",
+     "size": 8130000
+    }
+   ]
+  }
+ ]
+}

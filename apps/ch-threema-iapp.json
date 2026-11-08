@@ -1,0 +1,30 @@
+{
+ "name": "Threema",
+ "identifier": "dev.perapp.ch-threema-iapp",
+ "subtitle": "ipaomtk.com | Introduction Threema: The Secure Messenger IPA is a privacy-focused messaging app designed for iPhone and ",
+ "description": "Single-app source for Threema (ch.threema.iapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Threema.-The-Secure-Messenger-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "ch.threema.iapp",
+   "name": "Threema",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Threema: The Secure Messenger IPA is a privacy-focused messaging app designed for iPhone and iPad users who want secure and",
+   "localizedDescription": "ipaomtk.com | Introduction Threema: The Secure Messenger IPA is a privacy-focused messaging app designed for iPhone and iPad users who want secure and",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Threema.-The-Secure-Messenger-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.3.1",
+     "date": "2024-10-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Threema: The Secure Messenger IPA is a privacy-focused messaging app designed for iPhone and iPad users who want secure and",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Threema._The_Secure_Messenger-IPAOMTK.COM-v6.3.1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

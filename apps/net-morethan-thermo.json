@@ -1,0 +1,30 @@
+{
+ "name": "Thermo",
+ "identifier": "dev.perapp.net-morethan-thermo",
+ "subtitle": "ipaomtk.com | Thermo-hygrometer IPA v5.2.3 is a practical mobile application designed for monitoring and tracking temper",
+ "description": "Single-app source for Thermo (net.morethan.Thermo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Thermo-hygrometer.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "net.morethan.Thermo",
+   "name": "Thermo",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Thermo-hygrometer IPA v5.2.3 is a practical mobile application designed for monitoring and tracking temperature and humidity levels in v",
+   "localizedDescription": "ipaomtk.com | Thermo-hygrometer IPA v5.2.3 is a practical mobile application designed for monitoring and tracking temperature and humidity levels in v",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Thermo-hygrometer.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.3",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Thermo-hygrometer IPA v5.2.3 is a practical mobile application designed for monitoring and tracking temperature and humidity levels in v",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Thermo-hygrometer-v5.2.3-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

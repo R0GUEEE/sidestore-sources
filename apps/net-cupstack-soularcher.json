@@ -1,0 +1,30 @@
+{
+ "name": "Soul Archer",
+ "identifier": "dev.perapp.net-cupstack-soularcher",
+ "subtitle": "ipaomtk.com | Soul Archer: Defense Survival is a tower defense game The game was released in 2021 for iOS and Android de",
+ "description": "Single-app source for Soul Archer (net.cupstack.soularcher). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/soul-archer-defense-survival-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.cupstack.soularcher",
+   "name": "Soul Archer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Soul Archer: Defense Survival is a tower defense game The game was released in 2021 for iOS and Android devices. In Soul Archer: Defense",
+   "localizedDescription": "ipaomtk.com | Soul Archer: Defense Survival is a tower defense game The game was released in 2021 for iOS and Android devices. In Soul Archer: Defense",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/soul-archer-defense-survival-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.0",
+     "date": "2023-07-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Soul Archer: Defense Survival is a tower defense game The game was released in 2021 for iOS and Android devices. In Soul Archer: Defense",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Soul-Archer.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

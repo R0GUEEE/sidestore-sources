@@ -1,0 +1,30 @@
+{
+ "name": "Peakvisor",
+ "identifier": "dev.perapp.ru-routes-peakvisor",
+ "subtitle": "Peakvisor",
+ "description": "Single-app source for Peakvisor (ru.routes.peakvisor). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.routes.peakvisor",
+   "name": "Peakvisor",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription.Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.39",
+     "date": "2025-01-19T00:00:00Z",
+     "localizedDescription": "Injected with Subscription.Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-01-2025/Peakvisor_5.39_Subscription.Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 109498395
+    }
+   ]
+  }
+ ]
+}

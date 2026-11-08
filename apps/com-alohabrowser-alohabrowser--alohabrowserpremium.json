@@ -1,0 +1,44 @@
+{
+ "name": "AlohaBrowserPremium",
+ "identifier": "dev.perapp.com-alohabrowser-alohabrowser",
+ "subtitle": "AlohaBrowserPremium by Manpreet Singh @thisismanpreeets",
+ "description": "Single-app source for AlohaBrowserPremium (com.alohabrowser.alohabrowser). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alohabrowser.alohabrowser",
+   "name": "AlohaBrowserPremium",
+   "developerName": "Manpreet Singh @thisismanpreeets",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.10.1",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlohaBrowserPremium/AlohaBrowserPremium-5.10.1.ipa",
+     "size": 100531576
+    },
+    {
+     "version": "5.12.1",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlohaBrowserPremium/AlohaBrowserPremium-5.12.1.ipa",
+     "size": 107894228
+    },
+    {
+     "version": "5.4.1",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "A private browser, providing unmatched privacy and security for all your browsing needs. Note: VPN also works.\nLast updated: 07-11-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlohaBrowserPremium/AlohaBrowserPremium-5.4.1.ipa",
+     "size": 89330708
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "MaxTube (2.1) - iOS 16+ Support",
+ "identifier": "dev.perapp.com-google-ios-youtube-maxtube-6-0-beta-2-21-33-6",
+ "subtitle": "Tweaks: YTLite, DontEatMyContent, MaxTubeExtras +17",
+ "description": "Single-app source for MaxTube (2.1) - iOS 16+ Support (com.google.ios.youtube.maxtube.6.0.beta.2.21.33.6). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.maxtube.6.0.beta.2.21.33.6",
+   "name": "MaxTube (2.1) - iOS 16+ Support",
+   "developerName": "YouTube",
+   "subtitle": "Tweaks: YTLite, DontEatMyContent, MaxTubeExtras +17",
+   "localizedDescription": "Tweaks: YTLite, DontEatMyContent, MaxTubeExtras, YouTubeDislikesReturn, VolumeBoostYT, YouGroupSettings, YouChooseQuality, YouGetCaption, YouLoop, YouMute, YouPiP, YouShare +8\n\nThis is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more tweaks than the original YouTube Plus.\nThis includes the following tweaks:\nYouPiP, YTUHD, YouQuality, RYD, YTABConfig, DontEatMyContent,YTweaks, Gonerino, YouSpeed, YTLowContrastMode (my fork with a setting section), VolumeBoostYT, YouGetCaption, YouChooseQuality, YouShare, YouLoop, YouMute, YTLocalQueue, MaxTube Extras and OpenInYouTube Safari Extension. You can see more information about this mod at: https://github.com/Mark02-2012/MaxTube\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.33.6",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "Tweaks: YTLite, DontEatMyContent, MaxTubeExtras, YouTubeDislikesReturn, VolumeBoostYT, YouGroupSettings, YouChooseQuality, YouGetCaption, YouLoop, YouMute, YouPiP, YouShare +8\n\nThis is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with…",
+     "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.33.6_6.0b2.ipa",
+     "size": 145176314
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "FineReader",
+ "identifier": "dev.perapp.com-abbyy-finescanner",
+ "subtitle": "ipaomtk.com | FineReader Pro IPA v15.6.6 a‍ powerful tool designed specifically for‍ iOS users seeking ‍precision and ef",
+ "description": "Single-app source for FineReader (com.abbyy.finescanner). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/FineReader-Pro-PDF-Scanner-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.abbyy.finescanner",
+   "name": "FineReader",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FineReader Pro IPA v15.6.6 a‍ powerful tool designed specifically for‍ iOS users seeking ‍precision and efficiency in PDF scanning. Whet",
+   "localizedDescription": "ipaomtk.com | FineReader Pro IPA v15.6.6 a‍ powerful tool designed specifically for‍ iOS users seeking ‍precision and efficiency in PDF scanning. Whet",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/FineReader-Pro-PDF-Scanner-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.2.2",
+     "date": "2025-02-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FineReader Pro IPA v15.6.6 a‍ powerful tool designed specifically for‍ iOS users seeking ‍precision and efficiency in PDF scanning. Whet",
+     "downloadURL": "https://file.ipaomtk.com/finereader-pro-pdf-scanner/FineReader-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

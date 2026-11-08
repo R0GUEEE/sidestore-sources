@@ -1,0 +1,30 @@
+{
+ "name": "Hexologic",
+ "identifier": "dev.perapp.com-mythicowl-hexologic",
+ "subtitle": "ipaomtk.com | Hexologic IPA v3.1 is an engaging puzzle game app that challenges players with a unique hexagonal grid-bas",
+ "description": "Single-app source for Hexologic (com.mythicowl.hexologic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Hexologic-8211-Sudoku-Puzzle-Game.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mythicowl.hexologic",
+   "name": "Hexologic",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Hexologic IPA v3.1 is an engaging puzzle game app that challenges players with a unique hexagonal grid-based gameplay. Developed by Myth",
+   "localizedDescription": "ipaomtk.com | Hexologic IPA v3.1 is an engaging puzzle game app that challenges players with a unique hexagonal grid-based gameplay. Developed by Myth",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Hexologic-8211-Sudoku-Puzzle-Game.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Hexologic IPA v3.1 is an engaging puzzle game app that challenges players with a unique hexagonal grid-based gameplay. Developed by Myth",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Hexologic_-_Sudoku_Puzzle_Game-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

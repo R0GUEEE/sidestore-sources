@@ -1,0 +1,30 @@
+{
+ "name": "Homescapes",
+ "identifier": "dev.perapp.com-playrix-gardenscapes-sweethome",
+ "subtitle": "Homescapes",
+ "description": "Single-app source for Homescapes (com.playrix.gardenscapes-sweethome). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-sweethome.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playrix.gardenscapes-sweethome",
+   "name": "Homescapes",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playrix.gardenscapes-sweethome.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.2.1",
+     "date": "2025-08-25T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Homescapes_8.2.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+     "size": 198133336
+    }
+   ]
+  }
+ ]
+}

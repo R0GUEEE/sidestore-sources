@@ -1,0 +1,30 @@
+{
+ "name": "UPLsnap",
+ "identifier": "dev.perapp.com-unknown-uplsnap",
+ "subtitle": "➜ To upload photos and videos to Snapchat",
+ "description": "Single-app source for UPLsnap (com.unknown.uplsnap). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/UPLsnap.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.uplsnap",
+   "name": "UPLsnap",
+   "developerName": "Karbin-Store",
+   "subtitle": "➜ To upload photos and videos to Snapchat",
+   "localizedDescription": "➜ To upload photos and videos to Snapchat",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/UPLsnap.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.9.9",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "➜ To upload photos and videos to Snapchat",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/UPLsnap.9.9.9.ipa",
+     "size": 18790000
+    }
+   ]
+  }
+ ]
+}

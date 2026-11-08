@@ -1,0 +1,30 @@
+{
+ "name": "Photoapp",
+ "identifier": "dev.perapp.com-scaleup-photofx",
+ "subtitle": "Photoapp",
+ "description": "Single-app source for Photoapp (com.scaleup.photofx). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scaleup.photofx",
+   "name": "Photoapp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.5",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Photoapp_2.7.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 345282976
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "RoyalMatch",
+ "identifier": "dev.perapp.com-dreamgames-royalmatch",
+ "subtitle": "RoyalMatch",
+ "description": "Single-app source for RoyalMatch (com.dreamgames.royalmatch). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamgames.royalmatch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dreamgames.royalmatch",
+   "name": "RoyalMatch",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamgames.royalmatch.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "30524",
+     "date": "2025-08-25T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/RoyalMatch_30524_Mods_%40thisismanpreets_apptesters.org.ipa",
+     "size": 200698391
+    }
+   ]
+  }
+ ]
+}

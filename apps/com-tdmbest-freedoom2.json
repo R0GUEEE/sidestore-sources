@@ -1,0 +1,30 @@
+{
+ "name": "FREEDOOM2",
+ "identifier": "dev.perapp.com-tdmbest-freedoom2",
+ "subtitle": "FREEDOOM2",
+ "description": "Single-app source for FREEDOOM2 (com.TDMbest.freedoom2). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/63bc5a47-7521-448d-95c3-fcac588702a4/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TDMbest.freedoom2",
+   "name": "FREEDOOM2",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nOnly Freedoom port for iOS you can find\n(Reupload for zx repo)\n- This is running the freedoom2.wad \n- watchout for the difference\n\nSpecial credits to the people who made the code tomkidd and jadinTsunami\n\nhttps://github.com/tomkidd/DOOM-iOS\nhttps://github.com/JadingTsunami/FinalJudgment-iOS",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/63bc5a47-7521-448d-95c3-fcac588702a4/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nOnly Freedoom port for iOS you can find\n(Reupload for zx repo)\n- This is running the freedoom2.wad \n- watchout for the difference\n\nSpecial credits to the people who made the code tomkidd and jadinTsunami\n\nhttps://github.com/tomkidd/DOOM-iOS\nhttps://github.com/JadingTsunami/FinalJudgment-iOS",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/5071a7eb-859e-4593-b7ae-5145a873e9c4/FREEDOOM2-TDMbest.ipa",
+     "size": 27302983
+    }
+   ]
+  }
+ ]
+}

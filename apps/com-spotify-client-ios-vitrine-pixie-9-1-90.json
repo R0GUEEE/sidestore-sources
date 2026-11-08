@@ -1,0 +1,30 @@
+{
+ "name": "Vitrine v1.0.0-b16 + Pixie v1.4",
+ "identifier": "dev.perapp.com-spotify-client-ios-vitrine-pixie-9-1-90",
+ "subtitle": "Tweaks: spotifyglass, SpotifyAudioProbe",
+ "description": "Single-app source for Vitrine v1.0.0-b16 + Pixie v1.4 (com.spotify.client.ios.vitrine.pixie.9.1.90). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.vitrine.pixie.9.1.90",
+   "name": "Vitrine v1.0.0-b16 + Pixie v1.4",
+   "developerName": "Spotify",
+   "subtitle": "Tweaks: spotifyglass, SpotifyAudioProbe",
+   "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\nThis is a modded version of Spotify. This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.4.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.90",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\nThis is a modded version of Spotify. This includes both Vitrine v1.0.0-b16 and Pixie Download Manager v1.4.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/Spotify-9.1.90-Vitrine-b16-Pixie-v1.4.ipa",
+     "size": 131308654
+    }
+   ]
+  }
+ ]
+}

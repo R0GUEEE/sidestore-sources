@@ -1,0 +1,37 @@
+{
+ "name": "Gemini",
+ "identifier": "dev.perapp.com-google-gemini",
+ "subtitle": "@glesign | Google Gemini v1.2026.3170602  🇷🇺 Приложение Google Gemini - это ваш персональный, проактивный и мощный ИИ-по",
+ "description": "Single-app source for Gemini (com.google.gemini). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/glesign/1918.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.gemini",
+   "name": "Gemini",
+   "developerName": "@glesign",
+   "subtitle": "@glesign | Google Gemini v1.2026.3170602  🇷🇺 Приложение Google Gemini - это ваш персональный, проактивный и мощный ИИ-помощник. С SyntheticHeart вы мо",
+   "localizedDescription": "@glesign | Google Gemini v1.2026.3170602  🇷🇺 Приложение Google Gemini - это ваш персональный, проактивный и мощный ИИ-помощник. С SyntheticHeart вы мо",
+   "iconURL": "https://fastsign.dev/tg-icon/glesign/1918.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2026.3470105",
+     "date": "2026-09-10T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Google Gemini  🇷🇺 Приложение с искусственным интеллектом от Google для общения, поиска информации, генерации текстов, помощи в учёбе и р",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1703-Gemini%20%5Bv1.2026.3470105%5D%28tg@ipa_dark%29.ipa",
+     "size": 127439565
+    },
+    {
+     "version": "1.2026.3170602",
+     "date": "2026-08-13T00:00:00Z",
+     "localizedDescription": "@glesign | Google Gemini v1.2026.3170602  🇷🇺 Приложение Google Gemini - это ваш персональный, проактивный и мощный ИИ-помощник. С SyntheticHeart вы мо",
+     "downloadURL": "https://fastsign.dev/tg-ipa/glesign/1918-Gemini%20v1.2026.3170602%20SyntheticHeart%20v2.0%5Btg@glesign%5D.ipa",
+     "size": 123045600
+    }
+   ]
+  }
+ ]
+}

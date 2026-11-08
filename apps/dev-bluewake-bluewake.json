@@ -1,0 +1,36 @@
+{
+ "name": "BlueWake",
+ "identifier": "dev.perapp.dev-bluewake-bluewake",
+ "subtitle": "The Legend of Zelda: The Wind Waker Recompiled. Native for MacOS, iOS, Windows, Linux, and Android",
+ "description": "Single-app source for BlueWake (dev.bluewake.BlueWake). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1872d2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.bluewake.BlueWake.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.bluewake.BlueWake",
+   "name": "BlueWake",
+   "developerName": "chrissotraidis",
+   "subtitle": "The Legend of Zelda: The Wind Waker Recompiled. Native for MacOS, iOS, Windows, Linux, and Android",
+   "localizedDescription": "BlueWake:\n\nBring your own disc. BlueWake needs your own legally obtained copy of The Wind Waker for GameCube, USA version (GZLE01, revision 0). This repository contains no disc image, game assets or saves.\n\nGet BlueWake:\n\nOn Mac, iPhone, iPad, Linux and Android, the app you build contains code translated from your disc. It is yours alone: never share or upload it.\n\nComing from Wind Waker Recomp?:\n\nWind Waker Recomp has moved here. Its creator, Elliott, now maintains BlueWake together with Chris, and his work is part of BlueWake with his authorship kept.\n\nis built from BlueWake itself and replaces Wind Waker Recomp 0.4.0. Smooth Motion is off by default (press F10 to turn it on), and 0.4.0's experimental 60 FPS game logic is gone.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.bluewake.BlueWake.png",
+   "tintColor": "#1872d2",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/bluewake@main/docs/images/bluewake-iphone-title.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.10.0",
+     "date": "2026-11-01T01:19:50Z",
+     "localizedDescription": "BlueWake 0.10.0 makes the game faster on every platform, most of all on the Steam Deck and slower PCs, fixes the HD look's dark outline around Link and its flickering shadows, puts the stars back in the night sky, and brings the first ready-made Linux AppImage. Every version needs your own USA (GZLE01) disc image. The ready-made Windows and Linux builds include the game code translated from my disc; nothing else from the game is included.\n\nMac: build it from this release's source: scripts/builder/build.sh \"/path/to/GZLE01.iso\" --platform macos --out build/macos. Your saves in ~/Library/Application Support/BlueWake are kept.\n\nAndroid (experimental): build it yourself from your own disc, as docs/ANDROID.md describes. It now runs on Android 10 and newer.\n\nWhat's new:\n\nFaster everywhere (thanks to irregularthanis and pdale-boop).\n\n• The translated game spends less time saving and restoring registers, and finding where the game keeps its collision data. Against 0.9.0 on the benchmark tour it's 7 to 11% faster at every stop on my Mac (M3 Max) and 8 to 11% on my iPad Pro. Contributors measured about 14% on a Steam Deck (one lava cave a third faster) and about 6% on Windows and Linux PCs. Every build you make trains on its own, so this needs nothing from you.\n\nThe Wind Waker HD look (thanks to pdale-boop, for #491).\n\n• No more dark outline around Link, and no dark patch on the floor in front of him.\n• Shadows no longer flicker when a hit shakes the camera, the clouds keep their shading, the sky stays sharp, torches are softer, and sun shadows no longer stripe walls or shade islands in blocks.\n• A switch for each part of the look, in Wind Waker HD look settings under the look on the Display tab. Sun shadows moved there from Mods › Experimental, and F2 now turns them off with the rest of the look.\n• New, off until you turn them on: HD's sky and light (Wind Waker HD's sky colours and sunlight for the hour, with choices for how strong the sunlight is and how dark the sun shadows are), and HD's clouds in the sky. Both read your own Wind Waker HD files, so import your HD textures again to get them. Sun shadows are also timed and shaped as in Wind Waker HD.\n\nFixes.\n\n• The stars are back in the night sky, for everyone, and stay steady with Smooth Motion (thanks to pdale-boop).\n• Linux and Steam Deck: closing BlueWake from Steam's menu no longer resets all your settings (#511).\n• Mac: the audio no longer holds the game back on top of the clock, as on every other platform (#509).\n• Building with PadMint works again on Macs that use Apple's own Python 3.9 (#496).\n• Linux's first start says when the data folder is out of space, instead of blaming the disc (thanks to jkoehler11, #479).\n• The Windows builder finds the Windows SDK on PCs where a policy blocks reg.exe (thanks to imcamilouribe).\n\nMenus and controls (thanks to pdale-boop).\n\n• Nintendo button layout: one switch that swaps A and B, and X and Y, so a Switch controller's buttons do what their letters say. It turns on by itself the first time BlueWake starts with a Switch controller or Joy-Cons. It replaces Swap A and B and Swap X and Y: if you had only one of those on, check Controls.\n• A setting your settings file left empty now shows its real state (Direct right-stick camera showed off while it was on).\n• With a controller, the menu scrolls on to the notes at the end of a tab, and a greyed setting says which switch turns it on.\n• Smooth Motion under sustained load: Automatic, or Never pause, for when Smooth Motion keeps pausing while the game holds 30 FPS (thanks to irregularthanis, #473).\n\nSaves.\n\n• Export Dolphin Save… on iPhone, iPad and Android writes your three quest logs out as a .gci that Dolphin opens. Your card is only read (thanks to jkoehler11, #508).\n\nHow it was checked:\n\nI built 0.10.0 and 0.9.0 for the Mac from my own disc the same way and ran the benchmark tour on both, alternating, from one saved moment: 0.10.0 was 7 to 11% faster at every stop (Outset, Windfall, Dragon R",
+     "downloadURL": "https://github.com/chrissotraidis/bluewake/releases/download/v0.10.0/BlueWake-v0.10.0-ios-unsigned.ipa",
+     "size": 6062308
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "PokéRogue Offline",
+ "identifier": "dev.perapp.xyz-scooom-pkr",
+ "subtitle": "Offline PokeRogue App",
+ "description": "Single-app source for PokéRogue Offline (xyz.scooom.pkr). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#ab5087",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/xyz.scooom.pkr.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.scooom.pkr",
+   "name": "PokéRogue Offline",
+   "developerName": "PokeRogue-Offline",
+   "subtitle": "Offline PokeRogue App",
+   "localizedDescription": "PokeRogueOffline:\n\nA fully offline wrapper for PokéRogue, available on iOS, Android, Windows, and Linux. Play fully offline with local saves, or import your save from pokerogue.net.\n\nFeatures:\n\n• Fully offline — no internet required after install.\n\n• Exception: Starting a daily run will attempt to connect to this repo, but is not required.\n\n• Local saves that persist between sessions.\n• Import saves from your online account.\n• Based on the latest main branch of pagefaultgames / pokerogue.\n\nNew Features:\n\n• Added a Clear All Data option in Settings → Offline — this deletes all current data. USE WITH CAUTION.\n• This is the only offline client that loads the actual server daily seed. Useful when there are special event daily runs.\n• Includes the build number in the banner for support reasons.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/xyz.scooom.pkr.png",
+   "tintColor": "#ab5087",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/e4ec56fc-7162-4526-9e0b-af75002cb9c4"
+   ],
+   "versions": [
+    {
+     "version": "1.12.2.6",
+     "date": "2026-11-06T23:19:50Z",
+     "localizedDescription": "UI/UX:\n\n• The error message that is supposed to show if save loading fails when loading the game while already logged in will now display as intended.\n\n• Additionally, the player will now be logged out if this occurs.\n\n• An error message will now be displayed if an error occurs when attempting to log in with a valid username & password.\n• If an error occurs when attempting to load save data while logging in, an error message will be shown and the log in attempt will be aborted.\n\nFiles:\n\n• PokeRogueOffline.ipa — iOS (sideload via SideStore / LiveContainer / Feather).\n• PokeRogueOffline.apk — Android (sideload by enabling \"Install unknown apps\").\n• PokeRogueOffline.AppImage — Linux AppImage.\n• PokeRogueOffline.exe — Windows Portable EXE.\n• PokeRogueOffline-x64.dmg — macOS (Intel).\n• PokeRogueOffline-arm64.dmg — macOS (Apple Silicon).\n• PokeRogueOffline-x64.app.tar.gz / PokeRogueOffline-arm64.app.tar.gz — macOS app bundle, used only by the in-app self-updater (not for manual install — use the DMG for that).\n• PokeRogueOffline-{Android,iOS}-ota.zip — legacy combined bundle kept only for installs still running an in-app updater from before the code/assets/locales split; not used by current clients, not for manual install.\n• SHA256SUMS.txt — checksums for the sixteen files above (excluding the two -ota-manifest.json files, which carry their own per-channel checksums).\n• Build provenance for each binary is attested via GitHub Actions — verify with gh attestation verify <file> --repo PokeRogue-Offline/pokerogue-offline.",
+     "downloadURL": "https://github.com/PokeRogue-Offline/pokerogue-offline/releases/download/v1.12.2.6-368/PokeRogueOffline.ipa",
+     "size": 551488313
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSDocumentsFolderUsageDescription": "Required to save your exported game data file.",
+     "NSPhotoLibraryAddUsageDescription": "Required to save your screenshots to Photos.",
+     "NSPhotoLibraryUsageDescription": "Required to find or create the Photos album your screenshots are saved to."
+    }
+   }
+  }
+ ]
+}

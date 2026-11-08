@@ -1,0 +1,44 @@
+{
+ "name": "FitbittoAppleHealth",
+ "identifier": "dev.perapp.com-bickster-myfitnesssync",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for FitbittoAppleHealth (com.bickster.myFitnessSync). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bickster.myFitnessSync.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bickster.myFitnessSync",
+   "name": "FitbittoAppleHealth",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bickster.myFitnessSync.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.8",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-11-2025/FitbittoAppleHealth_3.1.8_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 44964015
+    },
+    {
+     "version": "3.1.6",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-10-2025/FitbittoAppleHealth_3.1.6_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 45458212
+    },
+    {
+     "version": "3.1.5",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-10-2025/FitbittoAppleHealth_3.1.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 45889777
+    }
+   ]
+  }
+ ]
+}

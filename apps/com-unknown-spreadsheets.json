@@ -1,0 +1,30 @@
+{
+ "name": "Spreadsheets",
+ "identifier": "dev.perapp.com-unknown-spreadsheets",
+ "subtitle": "بەرنایەکی تایەبت بە قوتابیان بۆئەوەی ئامادەی بکەن دۆکیومێنتەکان",
+ "description": "Single-app source for Spreadsheets (com.unknown.spreadsheets). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Spreadsheets.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.spreadsheets",
+   "name": "Spreadsheets",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنایەکی تایەبت بە قوتابیان بۆئەوەی ئامادەی بکەن دۆکیومێنتەکان",
+   "localizedDescription": "بەرنایەکی تایەبت بە قوتابیان بۆئەوەی ئامادەی بکەن دۆکیومێنتەکان",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Spreadsheets.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.35",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "بەرنایەکی تایەبت بە قوتابیان بۆئەوەی ئامادەی بکەن دۆکیومێنتەکان",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Spreadsheets_1.0.35_.KaraStore.ipa",
+     "size": 3890000
+    }
+   ]
+  }
+ ]
+}

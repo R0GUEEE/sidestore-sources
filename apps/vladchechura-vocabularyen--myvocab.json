@@ -1,0 +1,44 @@
+{
+ "name": "MyVocab",
+ "identifier": "dev.perapp.vladchechura-vocabularyen",
+ "subtitle": "MyVocab",
+ "description": "Single-app source for MyVocab (vladchechura.VocabularyEN). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/265ced89-b1ec-400e-a7a6-23eacd2c0d21/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "vladchechura.VocabularyEN",
+   "name": "MyVocab",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: MyVocab - Learn New Words\n\nTweak: Subscription Unlocked\n\nVersion: 1.3.5\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/265ced89-b1ec-400e-a7a6-23eacd2c0d21/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.4",
+     "date": "2026-08-14T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1547",
+     "size": 95326406
+    },
+    {
+     "version": "1.3.5",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: MyVocab - Learn New Words\n\nTweak: Subscription Unlocked\n\nVersion: 1.3.5\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/3d9f5964-6633-4cf8-b474-475fa8f6408f/MyVocab_-_Learn_new_words-v1.3.5-riftysipas.ipa",
+     "size": 85430306
+    },
+    {
+     "version": "1.3.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: MyVocab - Learn New Words\n\nTweak: Subscription Unlocked\n\nVersion: 1.3.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/176aac11-4c3d-43a8-a111-54051d8ae0fd/MyVocab_-_Learn_new_words-v1.3.3-riftysipas.ipa",
+     "size": 85430875
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Machinika Museum",
+ "identifier": "dev.perapp.com-pid-machinikamuseum",
+ "subtitle": "ipaomtk.com | The Machinika Museum IPA in Amsterdam is a one-of-a-kind museum dedicated to the history and technological",
+ "description": "Single-app source for Machinika Museum (com.pid.machinikamuseum). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/machinika-museum.png-150x150.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pid.machinikamuseum",
+   "name": "Machinika Museum",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Machinika Museum IPA in Amsterdam is a one-of-a-kind museum dedicated to the history and technological evolution of computers and co",
+   "localizedDescription": "ipaomtk.com | The Machinika Museum IPA in Amsterdam is a one-of-a-kind museum dedicated to the history and technological evolution of computers and co",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/machinika-museum.png-150x150.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.22060901",
+     "date": "2023-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Machinika Museum IPA in Amsterdam is a one-of-a-kind museum dedicated to the history and technological evolution of computers and co",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Machinika-Museum.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

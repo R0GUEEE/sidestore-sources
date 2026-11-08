@@ -1,0 +1,30 @@
+{
+ "name": "Gopeed-v1.8.3-ios",
+ "identifier": "dev.perapp.com-gopeed-gopeed",
+ "subtitle": "A modern download manager",
+ "description": "Single-app source for Gopeed-v1.8.3-ios (com.gopeed.gopeed). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Gopeed-v1.8.3-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gopeed.gopeed",
+   "name": "Gopeed-v1.8.3-ios",
+   "developerName": "Gopeed-v1.8.3-ios x CyPwn",
+   "subtitle": "A modern download manager",
+   "localizedDescription": "A modern download manager\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Gopeed-v1.8.3-ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "A modern download manager",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Gopeed-v1.8.3-ios.ipa",
+     "size": 41366501
+    }
+   ]
+  }
+ ]
+}

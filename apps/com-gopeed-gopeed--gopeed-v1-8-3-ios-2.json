@@ -1,0 +1,44 @@
+{
+ "name": "Gopeed-v1.8.3-ios",
+ "identifier": "dev.perapp.com-gopeed-gopeed",
+ "subtitle": "A modern download manager",
+ "description": "Single-app source for Gopeed-v1.8.3-ios (com.gopeed.gopeed). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Gopeed-v1.8.3-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gopeed.gopeed",
+   "name": "Gopeed-v1.8.3-ios",
+   "developerName": "Gopeed-v1.8.3-ios x CyPwn",
+   "subtitle": "A modern download manager",
+   "localizedDescription": "A modern download manager",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Gopeed-v1.8.3-ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.3",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "English | 中文 | 日本語 | 正體中文 | Tiếng Việt.  🚀 Introduction:  Gopeed (short for Go Speed) is a fast, modern, free, and open-source download manager built ",
+     "downloadURL": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-ios.ipa",
+     "size": 27488140
+    },
+    {
+     "version": "1.8.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "A modern download manager",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Gopeed-v1.8.3-ios.ipa",
+     "size": 41366323
+    },
+    {
+     "version": "1.7.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "A modern download manager",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Gopeed_1.7.0.ipa",
+     "size": 38807797
+    }
+   ]
+  }
+ ]
+}

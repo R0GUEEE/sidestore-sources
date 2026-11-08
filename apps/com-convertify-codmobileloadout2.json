@@ -1,0 +1,30 @@
+{
+ "name": "CODMunity",
+ "identifier": "dev.perapp.com-convertify-codmobileloadout2",
+ "subtitle": "CODMunity",
+ "description": "Single-app source for CODMunity (com.convertify.codmobileloadout2). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.convertify.codmobileloadout2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.convertify.codmobileloadout2",
+   "name": "CODMunity",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.convertify.codmobileloadout2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.259",
+     "date": "2025-10-31T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/CODMunity_12.259_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 25537161
+    }
+   ]
+  }
+ ]
+}

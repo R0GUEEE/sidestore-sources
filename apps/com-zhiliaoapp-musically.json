@@ -1,0 +1,44 @@
+{
+ "name": "BHTikTokPlus",
+ "identifier": "dev.perapp.com-zhiliaoapp-musically",
+ "subtitle": "BHTikTokPlus",
+ "description": "Single-app source for BHTikTokPlus (com.zhiliaoapp.musically). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zhiliaoapp.musically",
+   "name": "BHTikTokPlus",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "47.6.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "• TikTok updated to v47.6.0\n• gtok updated to v2.5",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.6.0.+.gtok.v2.5.fixed.ipa",
+     "size": 520080338
+    },
+    {
+     "version": "47.5.0",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "• TikTok updated to v47.5.0\n• RXTikTok updated to v2.0.4",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.5.0.RXTikTok.2.0.4.ipa",
+     "size": 531863321
+    },
+    {
+     "version": "47.4.0",
+     "date": "2026-10-19T00:00:00Z",
+     "localizedDescription": "• TikTok updated to v47.4.0",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.4.0.Infinitok.ipa",
+     "size": 504394824
+    }
+   ]
+  }
+ ]
+}

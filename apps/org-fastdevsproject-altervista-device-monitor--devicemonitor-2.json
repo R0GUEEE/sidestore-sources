@@ -1,0 +1,30 @@
+{
+ "name": "DeviceMonitor.",
+ "identifier": "dev.perapp.org-fastdevsproject-altervista-device-monitor",
+ "subtitle": "DeviceMonitor.",
+ "description": "Single-app source for DeviceMonitor. (org.fastdevsproject.altervista.Device-Monitor). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
+   "name": "DeviceMonitor.",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.1.1",
+     "date": "2024-12-18T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/DeviceMonitor._10.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 20496444
+    }
+   ]
+  }
+ ]
+}

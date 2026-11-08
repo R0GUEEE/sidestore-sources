@@ -1,0 +1,54 @@
+{
+ "name": "Floe Agent",
+ "identifier": "dev.perapp.org-floeagent-ios",
+ "subtitle": "Your models. Your files. Your machines",
+ "description": "Single-app source for Floe Agent (org.floeagent.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3665ed",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.floeagent.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.floeagent.ios",
+   "name": "Floe Agent",
+   "developerName": "JiangNanGenius",
+   "subtitle": "Your models. Your files. Your machines",
+   "localizedDescription": "Get started:\n\n·.\n\nThe iOS setup guide offers four recommendations to prefill choices for models, search, voice and workspaces, while keeping every section editable. Continue setup while voice packs, models or environments download, then check progress later. Apple Intelligence is off by default for new users.\n\nFeatures:\n\nCloud model requests go directly to your chosen provider; supported local models run inference on the device. Credentials stay in protected storage on your device. Files, uploads and remote actions follow task permissions, with consequential actions confirmed under the current policy. See security.\n\nSee Floe at work:\n\nRecorded on iOS; the Android alpha already includes chat, Office, files, terminal, IDE and network-diagnostic workflows and keeps growing.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.floeagent.ios.png",
+   "tintColor": "#3665ed",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/JiangNanGenius/floe-agent@main/docs/assets/video/floe-en-20261108.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.8.5",
+     "date": "2026-11-07T20:39:55Z",
+     "localizedDescription": "English:\n\n• Meetings use one assistant to answer questions and organize the current meeting notes, while retaining unsent drafts.\n• Refines CAD machining, engineering and manufacturing-cell work pages, inspectors and navigation. Fixes engineering-page height, keyboard avoidance and a result being cleared when a field was only focused.\n• Adds assistant readback of saved manufacturing-cell results, visible saved-result opening, and address/port validation in connection tools.\n• Combines the Canvas More menus while keeping the existing editing actions and export formats, and improves file-deletion confirmation and return.\n• Adds optional unified push settings, off by default. Background execution remains subject to system limits; device enrollment and receipt of notifications have not yet been verified.\n\nThis candidate is for internal TestFlight only. Native USB drivers are not included.\n\nFocus on menus, layout, opening and returning, and previously reported UI issues. This round does not repeat comprehensive functional or stability qualification. Build 315’s formal review and automatic release remain unchanged. No public TestFlight submission.\n\nGitHub IPA 未签名，不能直接安装，也不是 App Store 上传包。 The GitHub IPA is unsigned, cannot be installed directly, and is not the App Store upload package.",
+     "downloadURL": "https://github.com/JiangNanGenius/floe-agent/releases/download/v1.8.5/Floe-Agent-1.8.5-build325-unsigned.ipa",
+     "size": 855615788
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSAlarmKitUsageDescription": "Floe schedules the alarms and timers you create in the app.",
+     "NSAppleMusicUsageDescription": "Floe finds and plays items from your media library when you request them.",
+     "NSBluetoothAlwaysUsageDescription": "Floe uses Bluetooth only when you ask it to connect to a nearby BLE serial device.",
+     "NSCalendarsFullAccessUsageDescription": "Floe accesses calendars only when you ask the agent to read or edit events.",
+     "NSCameraUsageDescription": "Floe opens the camera only when you choose to capture an image for a task.",
+     "NSContactsUsageDescription": "Floe reads the contacts you ask it to find.",
+     "NSFaceIDUsageDescription": "Floe uses Face ID only to confirm when you enable unrestricted task access or unlock protected settings.",
+     "NSHealthShareUsageDescription": "Floe reads the Health data you request after you authorize access.",
+     "NSHealthUpdateUsageDescription": "Floe only reads the Health data you authorize; it does not save or modify Health data.",
+     "NSHomeKitUsageDescription": "Floe accesses your Home only when you enable Home tools and request an automation action.",
+     "NSLocalNetworkUsageDescription": "Floe scans your local network only when you ask the agent to discover nearby services and devices.",
+     "NSLocationWhenInUseUsageDescription": "Floe uses your location for requested weather and nearby places. Wi-Fi diagnostics needs precise-location permission to show the connected network and access point. Running tasks may continue using approximate location in the background.",
+     "NSMicrophoneUsageDescription": "Floe uses the microphone when you dictate, record music, or record a meeting.",
+     "NSPhotoLibraryAddUsageDescription": "Floe saves generated or edited images only when you ask it to save them to Photos.",
+     "NSPhotoLibraryUsageDescription": "Floe opens your photo library only when you choose an image for a task.",
+     "NSRemindersFullAccessUsageDescription": "Floe accesses reminders only when you ask the agent to read or edit them.",
+     "NSSpeechRecognitionUsageDescription": "Floe converts your speech into text for the message composer."
+    }
+   }
+  }
+ ]
+}

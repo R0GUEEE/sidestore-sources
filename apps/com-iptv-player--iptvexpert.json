@@ -1,0 +1,44 @@
+{
+ "name": "IPTVExpert",
+ "identifier": "dev.perapp.com-iptv-player",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for IPTVExpert (com.iptv.player). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iptv.player",
+   "name": "IPTVExpert",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.2.2",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-12-2025/IPTVExpert_9.2.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 43888367
+    },
+    {
+     "version": "9.1.1",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-11-2025/IPTVExpert_9.1.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 36255589
+    },
+    {
+     "version": "9.0.7",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/16-11-2025/IPTVExpert_9.0.7_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 36254106
+    }
+   ]
+  }
+ ]
+}

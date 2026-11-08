@@ -1,0 +1,30 @@
+{
+ "name": "Sonic 2",
+ "identifier": "dev.perapp.com-sega-sonic2",
+ "subtitle": "ipaomtk.com | Sonic The Hedgehog 2 Classic IPA v5.0.3.1 iOS! This classic game has been remastered for iOS devices, brin",
+ "description": "Single-app source for Sonic 2 (com.sega.Sonic2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Sonic-The-Hedgehog-2-Classic-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sega.Sonic2",
+   "name": "Sonic 2",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sonic The Hedgehog 2 Classic IPA v5.0.3.1 iOS! This classic game has been remastered for iOS devices, bringing back all the nostalgia an",
+   "localizedDescription": "ipaomtk.com | Sonic The Hedgehog 2 Classic IPA v5.0.3.1 iOS! This classic game has been remastered for iOS devices, bringing back all the nostalgia an",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Sonic-The-Hedgehog-2-Classic-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.3",
+     "date": "2024-04-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sonic The Hedgehog 2 Classic IPA v5.0.3.1 iOS! This classic game has been remastered for iOS devices, bringing back all the nostalgia an",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sonic-The-Hedgehog-2-Classic.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

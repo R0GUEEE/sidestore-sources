@@ -1,0 +1,30 @@
+{
+ "name": "DebToIPA",
+ "identifier": "dev.perapp.net-sourceloc-debtoipa",
+ "subtitle": "ipaomtk.com | DebToIPA Conversion of DEB Files To IPA If you’re an iOS developer, you’re likely familiar with DEB and IP",
+ "description": "Single-app source for DebToIPA (net.sourceloc.DebToIPA). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/DebToIPA-ios-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.sourceloc.DebToIPA",
+   "name": "DebToIPA",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | DebToIPA Conversion of DEB Files To IPA If you’re an iOS developer, you’re likely familiar with DEB and IPA files. These file formats ar",
+   "localizedDescription": "ipaomtk.com | DebToIPA Conversion of DEB Files To IPA If you’re an iOS developer, you’re likely familiar with DEB and IPA files. These file formats ar",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/DebToIPA-ios-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2024-02-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | DebToIPA Conversion of DEB Files To IPA If you’re an iOS developer, you’re likely familiar with DEB and IPA files. These file formats ar",
+     "downloadURL": "https://file.ipaomtk.com/Trollstore/DebToIPA-1.1.1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

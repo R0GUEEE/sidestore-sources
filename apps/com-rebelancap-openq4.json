@@ -1,0 +1,44 @@
+{
+ "name": "openQ4",
+ "identifier": "dev.perapp.com-rebelancap-openq4",
+ "subtitle": "Play Quake 4 on your iPhone, iPad and Apple Vision Pro — the full story",
+ "description": "Single-app source for openQ4 (com.rebelancap.openq4). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#618426",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.openq4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.openq4",
+   "name": "openQ4",
+   "developerName": "rebelancap",
+   "subtitle": "Play Quake 4 on your iPhone, iPad and Apple Vision Pro — the full story",
+   "localizedDescription": "openQ4 for iPhone & Apple Vision Pro:\n\nPlay Quake 4 on your iPhone, iPad and Apple Vision Pro — the full story campaign, openQ4's offline Arena Campaign against bots, multiplayer between openQ4 players, and on Vision Pro a stereoscopic 3D mode that puts the game on a floating screen in your room with real depth.\n\nBuilt on openQ4, the open-source replacement for the Quake 4 engine and game binaries, running its Vulkan renderer natively on Metal through MoltenVK.\n\nYou bring the game:\n\nopenQ4 ships with no Quake 4 game content — you must own Quake 4 and provide your own files. You need the retail q4base folder, patched to 1.4.2. The Steam and GOG releases are already patched; a disc install needs the official 1.4.2 patch first.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.openq4.png",
+   "tintColor": "#618426",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rebelancap/openQ4-ios@main/docs/screenshots/visionos-window.png"
+   ],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-10-13T21:00:12Z",
+     "localizedDescription": "openQ4 1.1.0 — Quake 4 for iPhone, iPad and Apple Vision Pro:\n\nBuilt on openQ4 v0.14.000.\n\nWhat's new:\n\n• openQ4 v0.14.000 from upstream: more faithful sound and room reverb, smarter multiplayer bots, campaign and renderer fixes, and the classic Quake 4 menus by default again.\n• Saves from 1.0.0 load right where you left off.\n\nAdd a SideStore source — openQ4 then updates itself. It is in both; add either one (Quake ports carries just the Quake family; All ports carries every port):\n\nOn Apple Vision Pro, first install SideStore onto the headset with.\n\nOr install openq4-1.1.0-iOS.ipa / openq4-1.1.0-visionOS.ipa below with SideStore/AltStore yourself.\n\nNo game data is included. You need your own Quake 4, patched to 1.4.2 (Steam and GOG releases already are); the app asks for your q4base folder on first launch.",
+     "downloadURL": "https://github.com/rebelancap/openQ4-ios/releases/download/v1.1.0/openq4-1.1.0-iOS.ipa",
+     "size": 811684514
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "openQ4 can connect to Bluetooth game controllers.",
+     "NSBluetoothPeripheralUsageDescription": "openQ4 can connect to Bluetooth game controllers."
+    }
+   }
+  }
+ ]
+}

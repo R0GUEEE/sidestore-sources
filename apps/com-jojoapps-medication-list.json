@@ -1,0 +1,44 @@
+{
+ "name": "Medication List",
+ "identifier": "dev.perapp.com-jojoapps-medication-list",
+ "subtitle": "@riftysIPAlibrary | Medication List  Tweak: Subscription Unlocked  Version: 1.8.12  Patched ✓  @riftysIPAlibrary  Additi",
+ "description": "Single-app source for Medication List (com.jojoapps.Medication-List). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7131.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jojoapps.Medication-List",
+   "name": "Medication List",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Medication List  Tweak: Subscription Unlocked  Version: 1.8.12  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Ve",
+   "localizedDescription": "@riftysIPAlibrary | Medication List  Tweak: Subscription Unlocked  Version: 1.8.12  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Ve",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7131.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.15",
+     "date": "2026-10-18T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Medication List  Tweak: Subscription Unlocked  Version: 1.8.15  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Ve",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8418-Medication%20List-v1.8.15-riftysipas.ipa",
+     "size": 21374498
+    },
+    {
+     "version": "1.8.14",
+     "date": "2026-09-22T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Medication List  Tweak: Subscription Unlocked  Version: 1.8.14  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Ve",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8028-Medication%20List-v1.8.14-riftysipas.ipa",
+     "size": 21288177
+    },
+    {
+     "version": "1.8.13",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Medication List  Tweak: Subscription Unlocked  Version: 1.8.13  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Ve",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7589-Medication%20List-v1.8.13-riftysipas.ipa",
+     "size": 19024211
+    }
+   ]
+  }
+ ]
+}

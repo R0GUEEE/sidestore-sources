@@ -1,0 +1,30 @@
+{
+ "name": "Shadow Fight 3",
+ "identifier": "dev.perapp.com-unknown-shadowfight3",
+ "subtitle": "تایبەتمەندی هاک؛ بەستنی دوژمن",
+ "description": "Single-app source for Shadow Fight 3 (com.unknown.shadowfight3). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Shadow.Fight.3.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.shadowfight3",
+   "name": "Shadow Fight 3",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی هاک؛ بەستنی دوژمن",
+   "localizedDescription": "تایبەتمەندی هاک؛ بەستنی دوژمن",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Shadow.Fight.3.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.40.2",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی هاک؛ بەستنی دوژمن",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-one/Shadow.Fight.3.-.1.40.2.ipa",
+     "size": 188440000
+    }
+   ]
+  }
+ ]
+}

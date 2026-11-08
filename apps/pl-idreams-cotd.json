@@ -1,0 +1,30 @@
+{
+ "name": "Creatures",
+ "identifier": "dev.perapp.pl-idreams-cotd",
+ "subtitle": "ipaomtk.com | Dive into the captivating world of “Creatures of the Deep IPA v2.92,” a thrilling iOS game that transports",
+ "description": "Single-app source for Creatures (pl.idreams.cotd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Creatures-of-the-Deep-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "pl.idreams.cotd",
+   "name": "Creatures",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Dive into the captivating world of “Creatures of the Deep IPA v2.92,” a thrilling iOS game that transports you to the mysterious depths ",
+   "localizedDescription": "ipaomtk.com | Dive into the captivating world of “Creatures of the Deep IPA v2.92,” a thrilling iOS game that transports you to the mysterious depths ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Creatures-of-the-Deep-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.92",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Dive into the captivating world of “Creatures of the Deep IPA v2.92,” a thrilling iOS game that transports you to the mysterious depths ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Creatures-of-the-Deep-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Sea Battle 2",
+ "identifier": "dev.perapp.com-byril-seabattle2",
+ "subtitle": "ipaomtk.com | Sea Battle 2 is a thrilling and captivating naval shooter that offers a unique gaming experience. Develope",
+ "description": "Single-app source for Sea Battle 2 (com.byril.seabattle2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/sea-battle-2-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.byril.seabattle2",
+   "name": "Sea Battle 2",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sea Battle 2 is a thrilling and captivating naval shooter that offers a unique gaming experience. Developed by Byeloking Games, the game",
+   "localizedDescription": "ipaomtk.com | Sea Battle 2 is a thrilling and captivating naval shooter that offers a unique gaming experience. Developed by Byeloking Games, the game",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/sea-battle-2-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.1",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Морской бой 2 - appstore  🇷🇺 Классическая игра в морской бой с боями на клетчатом поле, различными режимами, развитием флота и возможнос",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1854-Sea%20Battle%202%20%5Bv4.2.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 102994663
+    },
+    {
+     "version": "3.8.9",
+     "date": "2023-06-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sea Battle 2 is a thrilling and captivating naval shooter that offers a unique gaming experience. Developed by Byeloking Games, the game",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sea-Battle-2.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

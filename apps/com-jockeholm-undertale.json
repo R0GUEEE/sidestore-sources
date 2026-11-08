@@ -1,0 +1,30 @@
+{
+ "name": "UNDERTALE",
+ "identifier": "dev.perapp.com-jockeholm-undertale",
+ "subtitle": "ipaomtk.com | Today we are introducing “Undertale Disbelief (Demo) IPA IOS”, an interactive adventure game that takes pl",
+ "description": "Single-app source for UNDERTALE (com.jockeholm.undertale). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/undertale-disbelief-demo-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jockeholm.undertale",
+   "name": "UNDERTALE",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Today we are introducing “Undertale Disbelief (Demo) IPA IOS”, an interactive adventure game that takes players on an exciting journey f",
+   "localizedDescription": "ipaomtk.com | Today we are introducing “Undertale Disbelief (Demo) IPA IOS”, an interactive adventure game that takes players on an exciting journey f",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/undertale-disbelief-demo-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.0",
+     "date": "2023-06-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Today we are introducing “Undertale Disbelief (Demo) IPA IOS”, an interactive adventure game that takes players on an exciting journey f",
+     "downloadURL": "https://file.ipaomtk.com/ipa/UNDERTALE.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

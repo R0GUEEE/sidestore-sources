@@ -1,0 +1,37 @@
+{
+ "name": "Filmica",
+ "identifier": "dev.perapp.com-2hours-filmica",
+ "subtitle": "ipaomtk.com | FilmicA on iOS is designed for creators who want more control over their iPhone camera than the standard C",
+ "description": "Single-app source for Filmica (com.2hours.Filmica). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Filmica-IPA-v3.6-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.2hours.Filmica",
+   "name": "Filmica",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FilmicA on iOS is designed for creators who want more control over their iPhone camera than the standard Camera app provides. It turns y",
+   "localizedDescription": "ipaomtk.com | FilmicA on iOS is designed for creators who want more control over their iPhone camera than the standard Camera app provides. It turns y",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Filmica-IPA-v3.6-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6",
+     "date": "2026-03-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FilmicA on iOS is designed for creators who want more control over their iPhone camera than the standard Camera app provides. It turns y",
+     "downloadURL": "https://file.ipaomtk.com/Filmica/Filmica-ipaomtk.com.ipa",
+     "size": 0
+    },
+    {
+     "version": "7.5.35",
+     "date": "2026-03-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FilmicA on iOS is designed for creators who want more control over their iPhone camera than the standard Camera app provides. It turns y",
+     "downloadURL": "https://file.ipaomtk.com/Filmica/Filmica-ipaomtk.com.ipa",
+     "size": 147305157
+    }
+   ]
+  }
+ ]
+}

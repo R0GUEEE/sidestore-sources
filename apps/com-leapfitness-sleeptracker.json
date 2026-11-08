@@ -1,0 +1,30 @@
+{
+ "name": "Sleep Tracker",
+ "identifier": "dev.perapp.com-leapfitness-sleeptracker",
+ "subtitle": "ipaomtk.com | Sleep Tracker Sleep Recorder IPA getting a good night’s sleep has become more important than ever. Lack of",
+ "description": "Single-app source for Sleep Tracker (com.leapfitness.Sleeptracker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/2024-09-05-4.52.36%E2%80%AFAM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leapfitness.Sleeptracker",
+   "name": "Sleep Tracker",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sleep Tracker Sleep Recorder IPA getting a good night’s sleep has become more important than ever. Lack of sleep can lead to a host of h",
+   "localizedDescription": "ipaomtk.com | Sleep Tracker Sleep Recorder IPA getting a good night’s sleep has become more important than ever. Lack of sleep can lead to a host of h",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/2024-09-05-4.52.36%E2%80%AFAM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.21.0",
+     "date": "2024-01-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sleep Tracker Sleep Recorder IPA getting a good night’s sleep has become more important than ever. Lack of sleep can lead to a host of h",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sleep-Tracker-Sleep-Recorder.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

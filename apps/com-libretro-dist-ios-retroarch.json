@@ -1,0 +1,32 @@
+{
+ "name": "RetroArch",
+ "identifier": "dev.perapp.com-libretro-dist-ios-retroarch",
+ "subtitle": "All-in-One emulator for iOS.",
+ "description": "Single-app source for RetroArch (com.libretro.dist.ios.RetroArch). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://www.libretro.com/wp-content/uploads/2016/01/ic_launcher.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.libretro.dist.ios.RetroArch",
+   "name": "RetroArch",
+   "developerName": "libRetro",
+   "subtitle": "All-in-One emulator for iOS.",
+   "localizedDescription": "RetroArch is a frontend for emulators, game engines and media players.\n\nIt enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!",
+   "iconURL": "https://www.libretro.com/wp-content/uploads/2016/01/ic_launcher.png",
+   "tintColor": "000000",
+   "screenshots": [
+    "https://i.imgur.com/aDXoWTT.png"
+   ],
+   "versions": [
+    {
+     "version": "1.10.2",
+     "date": "2022-03-06T12:00:00-06:00Z",
+     "localizedDescription": "RetroArch is a frontend for emulators, game engines and media players.\n\nIt enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\n\nIn addition to this, you will soon be able to run original game discs (CDs) from RetroArch.\n\nRetroArch has advanced features like shaders, netplay, rewinding, next-frame response times, runahead, machine translation, blind accessibility features, and more!",
+     "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/RetroArch_v1.10.1.ipa",
+     "size": 421153286
+    }
+   ]
+  }
+ ]
+}

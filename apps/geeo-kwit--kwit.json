@@ -1,0 +1,44 @@
+{
+ "name": "Kwit",
+ "identifier": "dev.perapp.geeo-kwit",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Kwit (geeo.Kwit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/geeo.Kwit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "geeo.Kwit",
+   "name": "Kwit",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/geeo.Kwit.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.37.0",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Quit smoking for good - Kwit  Tweak: Premium Unlocked  Version: 4.37.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8657-Quit%20smoking%20for%20good%20-%20Kwit-v4.37.0-riftysipas.ipa",
+     "size": 117619557
+    },
+    {
+     "version": "4.36.0",
+     "date": "2026-09-15T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Quit smoking for good - Kwit  Tweak: Premium Unlocked  Version: 4.36.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7876-Quit%20smoking%20for%20good%20-%20Kwit-v4.36.0-riftysipas.ipa",
+     "size": 117638131
+    },
+    {
+     "version": "4.35.0",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Quit smoking for good - Kwit  Tweak: Premium Unlocked  Version: 4.35.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7569-Quit%20smoking%20for%20good%20-%20Kwit-v4.35.0-riftysipas.ipa",
+     "size": 114644916
+    }
+   ]
+  }
+ ]
+}

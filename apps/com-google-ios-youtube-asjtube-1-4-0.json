@@ -1,0 +1,37 @@
+{
+ "name": "ASJTube + Bonus Tweaks (1.4.0 - mrdrvt99)",
+ "identifier": "dev.perapp.com-google-ios-youtube-asjtube-1-4-0",
+ "subtitle": "This is a modded version of YouTube. This mod was created by asjrx, and Bonus Tweaks added by mrdrvt99. Bonus Tweaks inc",
+ "description": "Single-app source for ASJTube + Bonus Tweaks (1.4.0 - mrdrvt99) (com.google.ios.youtube.asjtube.1.4.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.asjtube.1.4.0",
+   "name": "ASJTube + Bonus Tweaks (1.4.0 - mrdrvt99)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. This mod was created by asjrx, and Bonus Tweaks added by mrdrvt99. Bonus Tweaks include: YouPiP, YTABConfig, YouQ",
+   "localizedDescription": "This is a modded version of YouTube. This mod was created by asjrx, and Bonus Tweaks added by mrdrvt99. Bonus Tweaks include: YouPiP, YTABConfig, YouQ\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.40.5",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This mod was created by asjrx, and Bonus Tweaks added by mrdrvt99. Bonus Tweaks include: YouPiP, YTABConfig, YouQ",
+     "downloadURL": "https://repo.ballermc.com/tubevault/ASJTube_21.40.5_1.4.ipa",
+     "size": 131975546
+    },
+    {
+     "version": "21.39.4",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This mod was created by asjrx.  You can read more about it here: https://github.com/asjrx/ASJTube",
+     "downloadURL": "https://repo.ballermc.com/tubevault/ASJTube-1.4_21.39.4.ipa",
+     "size": 147923687
+    }
+   ]
+  }
+ ]
+}

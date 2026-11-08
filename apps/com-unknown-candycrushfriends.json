@@ -1,0 +1,30 @@
+{
+ "name": "Candy Crush Friends",
+ "identifier": "dev.perapp.com-unknown-candycrushfriends",
+ "subtitle": "تایبەتمەندی؛ ژمارەیەکی بێسنوور لە هەنگاوەکان",
+ "description": "Single-app source for Candy Crush Friends (com.unknown.candycrushfriends). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Candy.Crush.Friends.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.candycrushfriends",
+   "name": "Candy Crush Friends",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی؛ ژمارەیەکی بێسنوور لە هەنگاوەکان",
+   "localizedDescription": "تایبەتمەندی؛ ژمارەیەکی بێسنوور لە هەنگاوەکان",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Candy.Crush.Friends.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.7.1",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی؛ ژمارەیەکی بێسنوور لە هەنگاوەکان",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Candy.Crush.Friends.v4.7.1_BabyloniPA.ipa",
+     "size": 122080000
+    }
+   ]
+  }
+ ]
+}

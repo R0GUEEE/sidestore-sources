@@ -1,0 +1,30 @@
+{
+ "name": "LEGO Marvel",
+ "identifier": "dev.perapp.com-wb-legomarvel",
+ "subtitle": "ipaomtk.com | Get ready to embark on an epic adventure with your favorite superheroes in the palm of your hand! The LEGO",
+ "description": "Single-app source for LEGO Marvel (com.wb.LEGOMarvel). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/LEGO-%C2%AE-Marvel-Super-Heroes-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wb.LEGOMarvel",
+   "name": "LEGO Marvel",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Get ready to embark on an epic adventure with your favorite superheroes in the palm of your hand! The LEGO Marvel Super Heroes IPA for i",
+   "localizedDescription": "ipaomtk.com | Get ready to embark on an epic adventure with your favorite superheroes in the palm of your hand! The LEGO Marvel Super Heroes IPA for i",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/LEGO-%C2%AE-Marvel-Super-Heroes-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.8",
+     "date": "2024-01-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Get ready to embark on an epic adventure with your favorite superheroes in the palm of your hand! The LEGO Marvel Super Heroes IPA for i",
+     "downloadURL": "https://file.ipaomtk.com/ipa/LEGO-Marvel.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

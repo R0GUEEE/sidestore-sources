@@ -1,0 +1,30 @@
+{
+ "name": "GTA: III",
+ "identifier": "dev.perapp.synthetic-gta-iii-3d873b84",
+ "subtitle": "GTA: III",
+ "description": "Single-app source for GTA: III (synthetic.gta-iii.3d873b84). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://ittza7aa.com/aseets/icon/gtaiii.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.gta-iii.3d873b84",
+   "name": "GTA: III",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Appleid VIP",
+   "iconURL": "https://ittza7aa.com/aseets/icon/gtaiii.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Appleid VIP",
+     "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/gtaiii.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

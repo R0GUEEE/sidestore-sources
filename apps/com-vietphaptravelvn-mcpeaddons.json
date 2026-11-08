@@ -1,0 +1,30 @@
+{
+ "name": "Addons",
+ "identifier": "dev.perapp.com-vietphaptravelvn-mcpeaddons",
+ "subtitle": "ipaomtk.com | Addons for Minecraft IPA Minecraft, the game that has captivated millions of hearts with its unique blend ",
+ "description": "Single-app source for Addons (com.vietphaptravelvn.mcpeaddons). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Addons-for-Minecraft-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vietphaptravelvn.mcpeaddons",
+   "name": "Addons",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Addons for Minecraft IPA Minecraft, the game that has captivated millions of hearts with its unique blend of creativity and adventure, n",
+   "localizedDescription": "ipaomtk.com | Addons for Minecraft IPA Minecraft, the game that has captivated millions of hearts with its unique blend of creativity and adventure, n",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Addons-for-Minecraft-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6",
+     "date": "2023-12-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Addons for Minecraft IPA Minecraft, the game that has captivated millions of hearts with its unique blend of creativity and adventure, n",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Addons-for-Minecraft.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

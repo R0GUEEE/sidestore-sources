@@ -1,0 +1,32 @@
+{
+ "name": "DLiPA_v1.1",
+ "identifier": "dev.perapp.com-ahmedbafkir-dlipa",
+ "subtitle": "DLiPA_v1.1 by DLiPA_v1.1 x CyPwn",
+ "description": "Single-app source for DLiPA_v1.1 (com.ahmedbafkir.dlipa). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/DLiPA_v1.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ahmedbafkir.dlipa",
+   "name": "DLiPA_v1.1",
+   "developerName": "DLiPA_v1.1 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "An iOS app inspired by ipatool.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/DLiPA_v1.1.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/DLiPA_v1.1/DLiPA_v1.1-0.png"
+   ],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2025-12-01T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/DLiPA_v1.1.ipa",
+     "size": 480112
+    }
+   ]
+  }
+ ]
+}

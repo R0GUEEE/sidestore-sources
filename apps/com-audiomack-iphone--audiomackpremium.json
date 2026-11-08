@@ -1,0 +1,44 @@
+{
+ "name": "AudiomackPremium",
+ "identifier": "dev.perapp.com-audiomack-iphone",
+ "subtitle": "AudiomackPremium by Lãng Khách🇻🇳",
+ "description": "Single-app source for AudiomackPremium (com.audiomack.iphone). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.audiomack.iphone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.audiomack.iphone",
+   "name": "AudiomackPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.audiomack.iphone.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.29.1",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Audiomack is a worldwide music streaming and discovery application that enables you to download and access the latest songs, albums, mixtapes, and playlists offline. Enjoy entire tracks without the need for data, as well as local MP3 files. Note: Very laggy.\nLast updated: 07-12-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AudiomackPremium/AudiomackPremium-6.29.1.ipa",
+     "size": 226252208
+    },
+    {
+     "version": "7.1.4",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Audiomack is a worldwide music streaming and discovery application that enables you to download and access the latest songs, albums, mixtapes, and playlists offline. Enjoy entire tracks without the need for data, as well as local MP3 files. Note: Very laggy.\nLast updated: 07-12-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AudiomackPremium/AudiomackPremium-7.1.4.ipa",
+     "size": 141530067
+    },
+    {
+     "version": "7.3.0",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Audiomack is a worldwide music streaming and discovery application that enables you to download and access the latest songs, albums, mixtapes, and playlists offline. Enjoy entire tracks without the need for data, as well as local MP3 files. Note: Very laggy.\nLast updated: 07-12-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AudiomackPremium/AudiomackPremium-7.3.0.ipa",
+     "size": 149492689
+    }
+   ]
+  }
+ ]
+}

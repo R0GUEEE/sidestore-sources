@@ -1,0 +1,30 @@
+{
+ "name": "CoinId",
+ "identifier": "dev.perapp.com-aiby-wtcoin",
+ "subtitle": "CoinId",
+ "description": "Single-app source for CoinId (com.aiby.wtcoin). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aiby.wtcoin",
+   "name": "CoinId",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.17",
+     "date": "2024-12-18T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/CoinId_1.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 33095182
+    }
+   ]
+  }
+ ]
+}

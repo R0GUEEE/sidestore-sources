@@ -1,0 +1,30 @@
+{
+ "name": "Evermusic",
+ "identifier": "dev.perapp.com-leshko-cloudplayer",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Evermusic (com.leshko.cloudplayer). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.cloudplayer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leshko.cloudplayer",
+   "name": "Evermusic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.cloudplayer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Evermusic_9.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 114138751
+    }
+   ]
+  }
+ ]
+}

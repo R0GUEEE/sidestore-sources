@@ -1,0 +1,30 @@
+{
+ "name": "Musify",
+ "identifier": "dev.perapp.com-tpowenda-musify",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Musify (com.TPowenda.Musify). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TPowenda.Musify.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TPowenda.Musify",
+   "name": "Musify",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TPowenda.Musify.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Musify_1.4_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 6621084
+    }
+   ]
+  }
+ ]
+}

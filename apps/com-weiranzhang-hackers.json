@@ -1,0 +1,42 @@
+{
+ "name": "Hackers",
+ "identifier": "dev.perapp.com-weiranzhang-hackers",
+ "subtitle": "Hackers is an elegant iOS app for reading Hacker News written in Swift",
+ "description": "Single-app source for Hackers (com.weiranzhang.Hackers). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b05185",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.weiranzhang.Hackers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.weiranzhang.Hackers",
+   "name": "Hackers",
+   "developerName": "weiran",
+   "subtitle": "Hackers is an elegant iOS app for reading Hacker News written in Swift",
+   "localizedDescription": "Hackers:\n\nHackers is an open-source Hacker News client for iPhone and iPad, built with SwiftUI.\n\nIt focuses on fast feed browsing, readable comment threads, voting, bookmarks, search, Dynamic Type, VoiceOver, dark mode, and a native iOS/iPadOS experience. Version 5 is a SwiftUI rebuild with a modular Swift Package layout.\n\nDownload on the App Store Join the TestFlight beta.\n\nFeatures:\n\n• Browse Top, New, Best, Ask, Show, Jobs, and Active stories.\n• Read nested comments with collapse/expand controls.\n• Open stories in the in-app browser with comments available alongside the page.\n• Vote on posts and comments when signed in.\n• Save bookmarks and search Hacker News content.\n• Use the share extension to open Hacker News links in Hackers.\n• Supports Dynamic Type, VoiceOver, dark mode, and high-contrast-friendly styling.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.weiranzhang.Hackers.png",
+   "tintColor": "#b05185",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/378e848f-6ef8-4238-972e-95e6c8f93869"
+   ],
+   "versions": [
+    {
+     "version": "5.6.0",
+     "date": "2026-10-13T09:55:32Z",
+     "localizedDescription": "Support for iPhone Duo’s distinctive design.",
+     "downloadURL": "https://github.com/weiran/Hackers/releases/download/v5.6.0%2B170/Hackers.ipa",
+     "size": 8938581
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

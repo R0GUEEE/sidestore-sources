@@ -1,0 +1,30 @@
+{
+ "name": "GBA4iOS",
+ "identifier": "dev.perapp.com-rileytestut-enterprise-gba4ios",
+ "subtitle": "ipaomtk.com | For gaming aficionados, GBA4iOS emulator IPA is the best way to relive the classic games of yesteryear. Th",
+ "description": "Single-app source for GBA4iOS (com.rileytestut.enterprise.GBA4iOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/GBA4iOS-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.enterprise.GBA4iOS",
+   "name": "GBA4iOS",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | For gaming aficionados, GBA4iOS emulator IPA is the best way to relive the classic games of yesteryear. This open-source emulator offers",
+   "localizedDescription": "ipaomtk.com | For gaming aficionados, GBA4iOS emulator IPA is the best way to relive the classic games of yesteryear. This open-source emulator offers",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/GBA4iOS-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1",
+     "date": "2023-02-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | For gaming aficionados, GBA4iOS emulator IPA is the best way to relive the classic games of yesteryear. This open-source emulator offers",
+     "downloadURL": "https://file.ipaomtk.com/ipa/GBA4iOS.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "UniSSH",
+ "identifier": "dev.perapp.me-goduni-unissh",
+ "subtitle": "A cross-platform SSH client with end-to-end-encrypted vaults that sync through a server you host",
+ "description": "Single-app source for UniSSH (me.goduni.unissh). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8b5beb",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.goduni.unissh.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.goduni.unissh",
+   "name": "UniSSH",
+   "developerName": "goduni",
+   "subtitle": "A cross-platform SSH client with end-to-end-encrypted vaults that sync through a server you host",
+   "localizedDescription": "UniSSH:\n\nA cross-platform SSH client with end-to-end-encrypted vaults — local-first, and optionally synced through a server you host.\n\nYour keys, your hosts, your machine. The client is complete on its own — no account, no cloud, no server required. Run one only when you want the same vault on a second device or in a team, and even then it can't read a single byte of your data.\n\nQuick Start:\n\n(A) is the whole install. Download the client and open it: the first run creates a local vault, and your hosts and keys are encrypted on that device. No account to create, no backend to stand up, and nothing of ours between you and the machines you connect to. (Do write down the Secret Key it shows you — it is what recovers the vault.).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.goduni.unissh.png",
+   "tintColor": "#8b5beb",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/goduni/unissh@main/docs/screenshots/hosts-dark.png",
+    "https://cdn.jsdelivr.net/gh/goduni/unissh@main/docs/screenshots/sftp-dark.png",
+    "https://cdn.jsdelivr.net/gh/goduni/unissh@main/docs/screenshots/broadcast-dark.png",
+    "https://cdn.jsdelivr.net/gh/goduni/unissh@main/docs/screenshots/fleet-exec-dark.png",
+    "https://cdn.jsdelivr.net/gh/goduni/unissh@main/docs/screenshots/admin-dark.png"
+   ],
+   "versions": [
+    {
+     "version": "0.7.1",
+     "date": "2026-10-31T22:25:51Z",
+     "localizedDescription": "Native CLI on every desktop platform:\n\nUniSSH 0.7.1 adds native command-line downloads for macOS (Apple Silicon and Intel) and Windows (x64 and ARM64) alongside the existing static Linux binaries.\n\n• Optional desktop CLI installation: choose Install CLI on first run or in Settings → General → Command-line tools. Installs for your user, adds PATH, refreshes managed copies with the app and supports removal from Settings.\n• One Linux command, two modes: after installing the desktop tools, unissh runs the terminal client and unissh --gui opens the app. Application-menu entries always open the GUI. macOS/Windows use unissh-cli.\n• Native Windows terminal support: hidden prompts, Unicode, interactive SSH, pipes, cancellation, resize, private device ACLs and Notepad/editor integration.\n• macOS terminal waits: prompts now respect deadlines and session shutdown.\n\nOpen a new terminal after installing the tools. The CLI signs in as its own device: pair it with unissh login pair on Linux or unissh-cli login pair on macOS/Windows. Installing it does not reuse the GUI's unlocked session.\n\nDownloads:\n\nEvery platform above ships both architectures, Windows included — so if your machine is ARM, take the ARM file rather than letting it emulate the x86-64 one. Nothing here is 32-bit for desktop.\n\nDoes this break anything you already have? The changelog answers that per release, including whether the vault format or server protocol moved: CHANGELOG.md.\n\nYour OS will block the first launch. These builds carry no Apple or Windows code-signing certificate — obtaining one would attach a legal identity to an anonymously maintained project. The way past the warning is ten seconds per platform: Installing unsigned builds.\n\nVerify it before you trust it. SHA256SUMS, a minisign signature over that file, and GitHub build provenance proving this repo's public CI built these exact artifacts from this exact commit — which is a stronger claim than a certificate:\n\nDesktop keeps itself current. After the first install, UniSSH checks this feed, verifies the download against a signing key compiled into the app, and installs on your click — never silently. Turn it off in Settings → About. Mobile sideloads are updated by hand.",
+     "downloadURL": "https://github.com/goduni/unissh/releases/download/v0.7.1/UniSSH_0.7.1_ios-sideload.ipa",
+     "size": 13167392
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

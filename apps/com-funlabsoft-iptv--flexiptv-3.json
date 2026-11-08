@@ -1,0 +1,30 @@
+{
+ "name": "FlexIptv",
+ "identifier": "dev.perapp.com-funlabsoft-iptv",
+ "subtitle": "FlexIptv",
+ "description": "Single-app source for FlexIptv (com.funlabsoft.iptv). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.funlabsoft.iptv",
+   "name": "FlexIptv",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.12",
+     "date": "2025-01-24T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/FlexIptv_2.12_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 20163743
+    }
+   ]
+  }
+ ]
+}

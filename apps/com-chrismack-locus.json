@@ -1,0 +1,30 @@
+{
+ "name": "Locus",
+ "identifier": "dev.perapp.com-chrismack-locus",
+ "subtitle": "Locus:  Free and open-source iPhone location teleport. Tap the map, search a place, or drive a route — Locus injects coo",
+ "description": "Single-app source for Locus (com.chrismack.locus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrismack.locus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chrismack.locus",
+   "name": "Locus",
+   "developerName": "ChrisMack32",
+   "subtitle": "Locus:  Free and open-source iPhone location teleport. Tap the map, search a place, or drive a route — Locus injects coordinates through Apple’s devel",
+   "localizedDescription": "Locus:  Free and open-source iPhone location teleport. Tap the map, search a place, or drive a route — Locus injects coordinates through Apple’s devel\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrismack.locus.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Locus:  Free and open-source iPhone location teleport. Tap the map, search a place, or drive a route — Locus injects coordinates through Apple’s devel",
+     "downloadURL": "https://github.com/ChrisMack32/Locus/releases/download/v1.0.2/Locus-1.0.2.ipa",
+     "size": 7153016
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "RoutineFlow",
+ "identifier": "dev.perapp.app-routineflow-routineflow",
+ "subtitle": "ipaomtk.com | RoutineFlow IPA is a productivity app for iOS that helps users create, manage, and follow guided routines ",
+ "description": "Single-app source for RoutineFlow (app.routineflow.routineflow). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/11/RoutineFlow-Guided-Routines-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "app.routineflow.routineflow",
+   "name": "RoutineFlow",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | RoutineFlow IPA is a productivity app for iOS that helps users create, manage, and follow guided routines for their daily lives. Designe",
+   "localizedDescription": "ipaomtk.com | RoutineFlow IPA is a productivity app for iOS that helps users create, manage, and follow guided routines for their daily lives. Designe",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/11/RoutineFlow-Guided-Routines-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.94",
+     "date": "2025-11-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | RoutineFlow IPA is a productivity app for iOS that helps users create, manage, and follow guided routines for their daily lives. Designe",
+     "downloadURL": "https://file.ipaomtk.com/routineflow-guided-routines/RoutineFlow_Guided-Routines-IPAOMTK.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

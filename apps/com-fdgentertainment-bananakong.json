@@ -1,0 +1,30 @@
+{
+ "name": "Banana Kong (hacked)",
+ "identifier": "dev.perapp.com-fdgentertainment-bananakong",
+ "subtitle": "Banana Kong (hacked) by sidelix",
+ "description": "Single-app source for Banana Kong (hacked) (com.FDGEntertainment.BananaKong). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a2efaf8478b5.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.FDGEntertainment.BananaKong",
+   "name": "Banana Kong (hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Features:\r\n\r\n- in app purchase\r\n- Sideloading bypass\r\n\r\nWarning: can buy everything but the subscription also after every purchase make sure to restart the app",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a2efaf8478b5.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.20",
+     "date": "2026-06-14T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- in app purchase\r\n- Sideloading bypass\r\n\r\nWarning: can buy everything but the subscription also after every purchase make sure to restart the app",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2060",
+     "size": 85555041
+    }
+   ]
+  }
+ ]
+}

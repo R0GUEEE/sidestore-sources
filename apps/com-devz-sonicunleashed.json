@@ -1,0 +1,30 @@
+{
+ "name": "Sonic Unleashed",
+ "identifier": "dev.perapp.com-devz-sonicunleashed",
+ "subtitle": "UnleashedRecompiled for iOS is an iOS port of the Xbox 360 version of Sonic Unleashed created through the process of sta",
+ "description": "Single-app source for Sonic Unleashed (com.devz.sonicunleashed). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.sonicunleashed.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.sonicunleashed",
+   "name": "Sonic Unleashed",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "UnleashedRecompiled for iOS is an iOS port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation. The port of",
+   "localizedDescription": "UnleashedRecompiled for iOS is an iOS port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation. The port of\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.sonicunleashed.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "UnleashedRecompiled for iOS is an iOS port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation. The port of",
+     "downloadURL": "https://github.com/DevZer0D4Y/UnleashedRecompilediOS/releases/download/v1.1.0/SonicUnleashed_iOS_v1.1.0.ipa",
+     "size": 55943360
+    }
+   ]
+  }
+ ]
+}

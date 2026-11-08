@@ -1,0 +1,40 @@
+{
+ "name": "Twitch Streamside",
+ "identifier": "dev.perapp.tv-twitch",
+ "subtitle": "Streamside: VAFT ad blocking and third-party emotes for Twitch on iOS",
+ "description": "Single-app source for Twitch Streamside (tv.twitch). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8e44f8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/tv.twitch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.twitch",
+   "name": "Twitch Streamside",
+   "developerName": "BananaOnGitHub",
+   "subtitle": "Streamside: VAFT ad blocking and third-party emotes for Twitch on iOS",
+   "localizedDescription": "Streamside:\n\nMore emotes and VAFT-based ad blocking for Twitch on iOS.\n\nStreamside brings 7TV, BetterTTV, and FrankerFaceZ into the Twitch app you already use, with VAFT-based ad blocking and a few extra comforts for chatting.\n\nFind your favorite emotes, preview them while you type, and see animated and wide emotes in chat. Everything fits into Twitch's own chat and emote keyboard, so you can keep watching and chatting where you're used to.\n\nFeatures:\n\n• Ad blocking — VAFT-based filtering for Twitch streams, with support for the main player, Picture in Picture, and channel previews.\n\n• Animated and wide emotes — Keep their animation and proper proportions.\n• Emote suggestions — Find Twitch and third-party emotes together as you type, with Automatic, Colon, and Off modes.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/tv.twitch.png",
+   "tintColor": "#8e44f8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.0",
+     "date": "2026-10-12T08:40:18Z",
+     "localizedDescription": "Streamside 3.0.0:\n\nUnsigned sideload IPA for Twitch 31.5 (arm64), requiring iOS 16.4 or later. Sign the IPA with your usual installation tool before installing. The installed app is named Twitch Streamside.\n\nStreamside brings 7TV, BetterTTV, and FrankerFaceZ into Twitch's own chat, alongside VAFT-based ad blocking. This release supports both Twitch 31.5's React Native chat and its retained legacy UIKit interface.\n\nFeatures and improvements:\n\n• Unified Twitch/provider suggestions with Automatic, Colon, and Off modes.\n• Composer previews, supported GIF animation, and whole-emote deletion.\n• A five-row horizontal provider library with All / 7TV / BTTV / FFZ filters, Channel / Global browsing, recents, and names below thumbnails.\n• Provider details with previews, creator credit when available, copy actions, and browser links.\n\n• Shared provider-image transport, cache reuse, bounded recovery, and improved handling of unconfirmed iOS keyboard predictions.\n• Streamside's own framework identity and verified binary/package layout.\n\nGetting started:\n\nThird-party emotes are off by default. Enable them under Profile → Settings → Streamside, then fully quit and reopen Twitch.\n\nThe released IPA is the exact RC.1 artifact tested on-device, with only its filename changed. It contains Streamside 3.0.0 / bundle 3.0.0.92. Native/package checks, compiled Hermes validation, and macOS/Linux CI passed.\n\nJailbreak packages are distributed separately in 3.0.0-jb.",
+     "downloadURL": "https://github.com/BananaOnGitHub/Streamside/releases/download/3.0.0/Twitch_31.5_Streamside_3.0.0.ipa",
+     "size": 191870879
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Twitch needs permission to access the camera on this device to stream live video and change your profile image.",
+     "NSLocalNetworkUsageDescription": "Twitch uses the local network to discover Cast-enabled devices on your WiFi network.",
+     "NSMicrophoneUsageDescription": "Twitch needs permission to access the microphone on this device to stream live video.",
+     "NSPhotoLibraryAddUsageDescription": "Twitch needs permission to write to your photo library in order to save images.",
+     "NSUserTrackingUsageDescription": "Your iOS advertising ID and device data will be used to support creators and provide a personal ad experience."
+    }
+   }
+  }
+ ]
+}

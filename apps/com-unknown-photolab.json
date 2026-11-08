@@ -1,0 +1,30 @@
+{
+ "name": "Photo Lab",
+ "identifier": "dev.perapp.com-unknown-photolab",
+ "subtitle": "ئەپڵیکەیشنی بۆ دەستکاریکردنی وێنە و ڤیدیۆ بە هەموو تایبەتمەندییەکانیەوە",
+ "description": "Single-app source for Photo Lab (com.unknown.photolab). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Photo.Lab.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.photolab",
+   "name": "Photo Lab",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپڵیکەیشنی بۆ دەستکاریکردنی وێنە و ڤیدیۆ بە هەموو تایبەتمەندییەکانیەوە",
+   "localizedDescription": "ئەپڵیکەیشنی بۆ دەستکاریکردنی وێنە و ڤیدیۆ بە هەموو تایبەتمەندییەکانیەوە",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Photo.Lab.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.12.45",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپڵیکەیشنی بۆ دەستکاریکردنی وێنە و ڤیدیۆ بە هەموو تایبەتمەندییەکانیەوە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/Photo.Lab_3.12.45_3BodSy.ipa",
+     "size": 132330000
+    }
+   ]
+  }
+ ]
+}

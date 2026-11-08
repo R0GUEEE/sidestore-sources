@@ -1,0 +1,30 @@
+{
+ "name": "PowerWarriors_18.0",
+ "identifier": "dev.perapp.com-zombiariel-power-warriors",
+ "subtitle": "Power Warriors iOS port by mancha",
+ "description": "Single-app source for PowerWarriors_18.0 (com.ZombiAriel.Power-Warriors). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/PowerWarriors_18.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ZombiAriel.Power-Warriors",
+   "name": "PowerWarriors_18.0",
+   "developerName": "PowerWarriors_18.0 x CyPwn",
+   "subtitle": "Power Warriors iOS port by mancha",
+   "localizedDescription": "Power Warriors iOS port by mancha\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/PowerWarriors_18.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18",
+     "date": "2026-09-17T00:00:00Z",
+     "localizedDescription": "Power Warriors iOS port by mancha",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/PowerWarriors_18.0.ipa",
+     "size": 174121434
+    }
+   ]
+  }
+ ]
+}

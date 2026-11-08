@@ -1,0 +1,30 @@
+{
+ "name": "B42",
+ "identifier": "dev.perapp.com-soccerfityou-app",
+ "subtitle": "B42",
+ "description": "Single-app source for B42 (com.soccerFitYou.App). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soccerFitYou.App.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.soccerFitYou.App",
+   "name": "B42",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soccerFitYou.App.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.7.8",
+     "date": "2025-10-31T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/B42_6.7.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 78998608
+    }
+   ]
+  }
+ ]
+}

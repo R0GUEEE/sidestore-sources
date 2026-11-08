@@ -1,0 +1,30 @@
+{
+ "name": "Doppler3",
+ "identifier": "dev.perapp.co-brushedtype-doppler-ios",
+ "subtitle": "Doppler3 by binnichtaktiv's iPA Library",
+ "description": "Single-app source for Doppler3 (co.brushedtype.doppler-ios). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.brushedtype.doppler-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.brushedtype.doppler-ios",
+   "name": "Doppler3",
+   "developerName": "binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.brushedtype.doppler-ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.5",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "A stunningly FLAC and MP3 player that supports a wide range of file formats. Easily import music and playlists for offline listening and edit song and album artwork and information without the need for syncing. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Doppler3/Doppler3-3.1.5.ipa",
+     "size": 14617674
+    }
+   ]
+  }
+ ]
+}

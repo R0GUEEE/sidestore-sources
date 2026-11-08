@@ -1,0 +1,30 @@
+{
+ "name": "MeloNX",
+ "identifier": "dev.perapp.com-stossy11-melonx",
+ "subtitle": "MeloNX by Stossy11",
+ "description": "Single-app source for MeloNX (com.stossy11.MeloNX). Converted from nexsideloading.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/MeloNX.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stossy11.MeloNX",
+   "name": "MeloNX",
+   "developerName": "Stossy11",
+   "subtitle": "",
+   "localizedDescription": "An open-source Nintendo Switch emulator for iPhone and iPad. No jailbreak required.",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/MeloNX.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7",
+     "date": "2026-10-11T00:00:00Z",
+     "localizedDescription": "An open-source Nintendo Switch emulator for iPhone and iPad. No jailbreak required.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/MeloNX.ipa",
+     "size": 49196463
+    }
+   ]
+  }
+ ]
+}

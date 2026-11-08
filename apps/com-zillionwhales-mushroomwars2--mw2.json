@@ -1,0 +1,30 @@
+{
+ "name": "Mw2",
+ "identifier": "dev.perapp.com-zillionwhales-mushroomwars2",
+ "subtitle": "Mw2",
+ "description": "Single-app source for Mw2 (com.zillionwhales.mushroomwars2). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zillionwhales.mushroomwars2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zillionwhales.mushroomwars2",
+   "name": "Mw2",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with All Episodes",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zillionwhales.mushroomwars2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.6.6",
+     "date": "2025-02-04T00:00:00Z",
+     "localizedDescription": "Injected with All Episodes",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/Mw2_2024.6.6_All_Episodes_%40thisismanpreets_apptesters.org.ipa",
+     "size": 651859607
+    }
+   ]
+  }
+ ]
+}

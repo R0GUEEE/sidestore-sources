@@ -1,0 +1,30 @@
+{
+ "name": "Five Nights at Freddy's 4",
+ "identifier": "dev.perapp.com-scottgames-fnaf4",
+ "subtitle": "Five Nights at Freddy's 4 - Point and click surivival horror",
+ "description": "Single-app source for Five Nights at Freddy's 4 (com.scottgames.fnaf4). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ff1200",
+ "iconURL": "https://cdn.omnidev.org/fivenights4-tA.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scottgames.fnaf4",
+   "name": "Five Nights at Freddy's 4",
+   "developerName": "Scott Games & Clickteam LLC",
+   "subtitle": "Five Nights at Freddy's 4 - Point and click surivival horror",
+   "localizedDescription": "Five Nights at Freddy's 4 (FNaF 4) is a 2015 point-and-click survival horror video game made and published by Scott Cawthon. It is the fourth installment of the Five Nights at Freddy's series.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/fivenights4-tA.png",
+   "tintColor": "ff1200",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.2",
+     "date": "2024-11-06T00:00:00Z",
+     "localizedDescription": "Five Nights at Freddy's 4 (FNaF 4) is a 2015 point-and-click survival horror video game made and published by Scott Cawthon. It is the fourth installment of the Five Nights at Freddy's series.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_4_v2_0_2-tK.ipa",
+     "size": 65323008
+    }
+   ]
+  }
+ ]
+}

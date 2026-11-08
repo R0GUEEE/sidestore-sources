@@ -1,0 +1,37 @@
+{
+ "name": "Seanime",
+ "identifier": "dev.perapp.app-seanime-tenji",
+ "subtitle": "Open-source Seanime client for iOS, Android, tvOS and Android TV",
+ "description": "Single-app source for Seanime (app.seanime.tenji). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6c5dd0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.seanime.tenji.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.seanime.tenji",
+   "name": "Seanime",
+   "developerName": "5rahim",
+   "subtitle": "Open-source Seanime client for iOS, Android, tvOS and Android TV",
+   "localizedDescription": "About:\n\nSeanime Tenji is a mobile and TV client app for your Seanime media server with a built-in player and offline support for streaming anime and reading manga.\n\nSeanime Tenji does not provide, host, or distribute any media content. Users are responsible for obtaining media through legal means and complying with their local laws.\n\nFeatures:\n\n• Cross-platform: Available on Android, AndroidTV, iOS and tvOS.\n• Built-in media player: Powered by libmpv, supports most anime codecs and formats.\n• Playback Options: Support for server local files, torrent, debrid and online streaming.\n\n• External Player Support: Support for opening media in mobile external players such as VLC, MX Player, Outplayer, etc.\n\nDevelopment:\n\nSeanime Tenji is built with React Native and Expo. Detailed guides on setup and local development workflows can be found in the Contributing Guide.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.seanime.tenji.png",
+   "tintColor": "#6c5dd0",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.0",
+     "date": "2026-10-31T18:58:14Z",
+     "localizedDescription": "Seanime Tenji:\n\nThis is a release build. Features may still be incomplete or unstable.\n\n• ⚡️ TV: Added Discover and Settings shortcuts to the empty library screen.\n• 🦺 Player(Android TV): Fixed controls and dialogs hidden behind video.\n• 🦺 Player(Android TV): Fixed playback getting stuck after quick seeks.\n• 🦺 Player(Android): Fixed https streams failing to open.\n• 🦺 Player(Android): Fixed black screen when resuming playback.\n• 🦺 Player(tvOS): Fixed crash when playing AV1 files.\n• 🦺 Player(TV): Fixed Play and Pause buttons on the remote.\n• 🦺 Player: Fixed the app freezing when a video stalls.\n• 🦺 Player: Fixed stream request headers containing commas.\n• 🦺 Player: Fixed preferred subtitle language not applying to subtitles added after the video loads.\n• 🦺 Player: Fixed Up next countdown cancelling at the end of an episode.\n• 🦺 Playback: Fixed episodes marked as watched when a stream fails.\n\n• 🦺 Server: Fixed getting sent back to the setup screen after connecting.\n• 🦺 TV: Fixed focus getting lost after leaving a text field.\n• 🦺 Android: Fixed navigation bar scrim.\n• ⬆️ Player(Android): Upgraded mpv.\n• ⬆️ Upgraded to React Native 0.88 / Expo SDK 58.\n\nAndroid:\n\n• Version code: 24.\n• SHA-256: 2977b37a29caac939216145a71704740dceee351a22fe3b401ce0340ea89ce05.\n\nAndroid TV:\n\n• Version code: 24.\n• SHA-256: 06a92ba58ccaa51637c2b918f5589ce2d89ed2172c916a85c8804748e3b85d55.\n\niOS:\n\n• Build number: 24.\n• SHA-256: ae54f72632c4672d44baaca53793d98d4eefab76570936cb963c0c7bd7b6e13c.\n\ntvOS:\n\n• Build number: 24.\n• SHA-256: 64c0a45295a6a19764539c2100e9d92f3d83b3f56f2f1aee9acc540bb45275ce.\n\nBuild:\n\n• Commit: cc29022.",
+     "downloadURL": "https://github.com/5rahim/seanime-tenji/releases/download/v0.4.0-24.24-20261031-cc29022/seanime-tenji-v0.4.0-24-20261031-cc29022.ipa",
+     "size": 33505178
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Seanime needs local network access to connect to your server on your home network.",
+     "NSMotionUsageDescription": "Allow Seanime to access your device motion"
+    }
+   }
+  }
+ ]
+}

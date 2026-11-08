@@ -1,0 +1,44 @@
+{
+ "name": "Yuka",
+ "identifier": "dev.perapp.yuca-scanner",
+ "subtitle": "Yuka",
+ "description": "Single-app source for Yuka (yuca.scanner). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/4f/a0/d44fa0dd-2563-7c28-ab95-6219903b8fad/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "yuca.scanner",
+   "name": "Yuka",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nYuka - Food & Cosmetic Scanner\n\nPremium features unlocked\n\nTweak made by Dell\n\nminimum OS version 15.5\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d4/4f/a0/d44fa0dd-2563-7c28-ab95-6219903b8fad/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.58",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1683",
+     "size": 115568450
+    },
+    {
+     "version": "4.34",
+     "date": "2024-10-17T00:00:00Z",
+     "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.34.ipa",
+     "size": 121466871
+    },
+    {
+     "version": "4.35",
+     "date": "2024-10-17T00:00:00Z",
+     "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed information for a thorough analysis of each product. Note: The search feature is currently not working and a premium subscription popup appears every time the app is opened which may be somewhat bothersome.\nLast updated: 07-23-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.35.ipa",
+     "size": 123092775
+    }
+   ]
+  }
+ ]
+}

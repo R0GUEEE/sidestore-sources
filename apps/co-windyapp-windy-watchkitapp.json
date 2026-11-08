@@ -1,0 +1,44 @@
+{
+ "name": "WindyappPro",
+ "identifier": "dev.perapp.co-windyapp-windy-watchkitapp",
+ "subtitle": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing",
+ "description": "Single-app source for WindyappPro (co.windyapp.Windy.watchkitapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.windyapp.Windy.watchkitapp",
+   "name": "WindyappPro",
+   "developerName": "iApps",
+   "subtitle": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides compre",
+   "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides compre",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.windyapp.Windy.watchkitapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.6.6",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides compre",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WindyappPro/WindyappPro-13.6.6.ipa",
+     "size": 211068559
+    },
+    {
+     "version": "13.7.2",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides compre",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WindyappPro/WindyappPro-13.7.2.ipa",
+     "size": 231431201
+    },
+    {
+     "version": "13.4.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Expert weather application designed specifically for aquatic and wind-based activities such as sailing, surfing, fishing, and more. It provides compre",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WindyappPro/WindyappPro-13.4.1.ipa",
+     "size": 121501690
+    }
+   ]
+  }
+ ]
+}

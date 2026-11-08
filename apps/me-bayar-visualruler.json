@@ -1,0 +1,30 @@
+{
+ "name": "Visual Ruler",
+ "identifier": "dev.perapp.me-bayar-visualruler",
+ "subtitle": "ipaomtk.com | VisualRuler IPA is an innovative app designed specifically for iOS devices that allows you to measure obje",
+ "description": "Single-app source for Visual Ruler (me.bayar.VisualRuler). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-2023-05-12T134033.901-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "me.bayar.VisualRuler",
+   "name": "Visual Ruler",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | VisualRuler IPA is an innovative app designed specifically for iOS devices that allows you to measure objects with just your smartphone ",
+   "localizedDescription": "ipaomtk.com | VisualRuler IPA is an innovative app designed specifically for iOS devices that allows you to measure objects with just your smartphone ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-2023-05-12T134033.901-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2023-05-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | VisualRuler IPA is an innovative app designed specifically for iOS devices that allows you to measure objects with just your smartphone ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/VisualRuler.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

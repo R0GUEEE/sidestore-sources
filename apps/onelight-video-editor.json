@@ -1,0 +1,30 @@
+{
+ "name": "TONfilters",
+ "identifier": "dev.perapp.onelight-video-editor",
+ "subtitle": "Tweaks: TON",
+ "description": "Single-app source for TONfilters (onelight.video-editor). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/onelight.video-editor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "onelight.video-editor",
+   "name": "TONfilters",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: TON",
+   "localizedDescription": "Tweaks: TON\n\nInjected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/onelight.video-editor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.16.7",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "Tweaks: TON\n\nInjected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/TONfilters_1.16.7_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 117227975
+    }
+   ]
+  }
+ ]
+}

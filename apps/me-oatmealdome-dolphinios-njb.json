@@ -1,0 +1,30 @@
+{
+ "name": "DolphiniOS",
+ "identifier": "dev.perapp.me-oatmealdome-dolphinios-njb",
+ "subtitle": "ipaomtk.com | Introduction Dolphin Emulator IPA is one of the most powerful and versatile emulators available for iOS de",
+ "description": "Single-app source for DolphiniOS (me.oatmealdome.DolphiniOS-njb). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/dolphin-emulator-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb",
+   "name": "DolphiniOS",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Dolphin Emulator IPA is one of the most powerful and versatile emulators available for iOS devices. Designed to bring conso",
+   "localizedDescription": "ipaomtk.com | Introduction Dolphin Emulator IPA is one of the most powerful and versatile emulators available for iOS devices. Designed to bring conso",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/dolphin-emulator-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.2",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Dolphin Emulator IPA is one of the most powerful and versatile emulators available for iOS devices. Designed to bring conso",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Dolphin.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "SharkForMessenger",
+ "identifier": "dev.perapp.com-facebook-messenger",
+ "subtitle": "SharkForMessenger by ipahost / CyPwn IPA Library / CydiaAbdullah / FayezUpdates",
+ "description": "Single-app source for SharkForMessenger (com.facebook.Messenger). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Messenger.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.facebook.Messenger",
+   "name": "SharkForMessenger",
+   "developerName": "ipahost / CyPwn IPA Library / CydiaAbdullah / FayezUpdates",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Messenger.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.1-311.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SharkForMessenger/SharkForMessenger-2.2.1-311.0.ipa",
+     "size": 34767265
+    },
+    {
+     "version": "2.2.1-385.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SharkForMessenger/SharkForMessenger-2.2.1-385.0.ipa",
+     "size": 44298930
+    },
+    {
+     "version": "2.2.1-388.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Messenger, injected with Shark by Michael Lema\nLast updated: 06-24-2023\nStatus: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SharkForMessenger/SharkForMessenger-2.2.1-388.0.ipa",
+     "size": 61867529
+    }
+   ]
+  }
+ ]
+}

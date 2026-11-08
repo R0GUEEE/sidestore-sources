@@ -1,0 +1,44 @@
+{
+ "name": "Planta",
+ "identifier": "dev.perapp.com-stromming-plants",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Planta (com.stromming.Plants). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stromming.Plants",
+   "name": "Planta",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.125.2",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Planta: Plant & Garden Care  Tweak: Subscription Unlocked  Version: 3.125.2  Patched ✓  @riftysIPAlibrary  Additional Information ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8820-Planta:%20Plant%20&%20Garden%20Care-v3.125.2-riftysipas.ipa",
+     "size": 173572635
+    },
+    {
+     "version": "3.125.1",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Planta: Plant & Garden Care  Tweak: Subscription Unlocked  Version: 3.125.1  Patched ✓  @riftysIPAlibrary  Additional Information ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8783-Planta:%20Plant%20&%20Garden%20Care-v3.125.1-riftysipas.ipa",
+     "size": 173469341
+    },
+    {
+     "version": "3.125.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Planta: Plant & Garden Care  Tweak: Subscription Unlocked  Version: 3.125.0  Patched ✓  @riftysIPAlibrary  Additional Information ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8755-Planta:%20Plant%20&%20Garden%20Care-v3.125.0-riftysipas.ipa",
+     "size": 173455615
+    }
+   ]
+  }
+ ]
+}

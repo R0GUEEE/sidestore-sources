@@ -1,0 +1,44 @@
+{
+ "name": "Messenger",
+ "identifier": "dev.perapp.com-facebook-messenger",
+ "subtitle": "Messenger",
+ "description": "Single-app source for Messenger (com.facebook.Messenger). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.facebook.Messenger",
+   "name": "Messenger",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "584.0.0",
+     "date": "2026-10-17T00:00:00Z",
+     "localizedDescription": "• Messenger updated to v584.0.0",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Messenger.v584.0.0.Flow.ipa",
+     "size": 125027873
+    },
+    {
+     "version": "571.0.0",
+     "date": "2026-07-22T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Messenger_571.0.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+     "size": 108526761
+    },
+    {
+     "version": "565.0.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Messenger_565.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 87655611
+    }
+   ]
+  }
+ ]
+}

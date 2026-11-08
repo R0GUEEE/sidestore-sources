@@ -1,0 +1,44 @@
+{
+ "name": "Elevate",
+ "identifier": "dev.perapp.com-elevateapp-elevate",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Elevate (com.elevateapp.elevate). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.elevateapp.elevate",
+   "name": "Elevate",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.264.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Elevate - Brain Training Games  Tweak: Subscription Unlocked  Version: 5.264.0  Patched ✓  @riftysIPAlibrary  Additional Informati",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8765-Elevate%20-%20Brain%20Training%20Games-v5.264.0-riftysipas.ipa",
+     "size": 442273477
+    },
+    {
+     "version": "5.263.0",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@blatants | Elevate - Brain Training Games  • Bundle ID: com.elevateapp.elevate • Updated to: 5.263.0 • Minimum iOS: 17.0 • Patched • Modifier: Subscr",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Elevate_5.263.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 429416317
+    },
+    {
+     "version": "5.261.0",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Elevate - Brain Training Games  Tweak: Subscription Unlocked  Version: 5.261.0  Patched ✓  @riftysIPAlibrary  Additional Informati",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8353-Elevate%20-%20Brain%20Training%20Games-v5.261.0-riftysipas.ipa",
+     "size": 423456164
+    }
+   ]
+  }
+ ]
+}

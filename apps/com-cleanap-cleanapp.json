@@ -1,0 +1,30 @@
+{
+ "name": "Duplicate Photo Cleaner App",
+ "identifier": "dev.perapp.com-cleanap-cleanapp",
+ "subtitle": "ipaomtk.com | In the age of smartphones, our photo libraries have grown exponentially, often cluttered with duplicate an",
+ "description": "Single-app source for Duplicate Photo Cleaner App (com.cleanap.cleanApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/DuplicatePhotosCleaner-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cleanap.cleanApp",
+   "name": "Duplicate Photo Cleaner App",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | In the age of smartphones, our photo libraries have grown exponentially, often cluttered with duplicate and similar photos. This is wher",
+   "localizedDescription": "ipaomtk.com | In the age of smartphones, our photo libraries have grown exponentially, often cluttered with duplicate and similar photos. This is wher",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/DuplicatePhotosCleaner-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.6",
+     "date": "2023-04-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | In the age of smartphones, our photo libraries have grown exponentially, often cluttered with duplicate and similar photos. This is wher",
+     "downloadURL": "https://file.ipaomtk.com/ipa/DuplicatePhotosCleaner.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

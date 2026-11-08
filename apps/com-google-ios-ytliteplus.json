@@ -1,0 +1,30 @@
+{
+ "name": "YTLitePlus",
+ "identifier": "dev.perapp.com-google-ios-ytliteplus",
+ "subtitle": "YTLitePlus - Youtube for iOS Supercharged",
+ "description": "Single-app source for YTLitePlus (com.google.ios.ytliteplus). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "fc0032",
+ "iconURL": "https://cdn.omnidev.org/ytliteplus-5K.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.ytliteplus",
+   "name": "YTLitePlus",
+   "developerName": "YTLitePlus",
+   "subtitle": "YTLitePlus - Youtube for iOS Supercharged",
+   "localizedDescription": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/ytliteplus-5K.png",
+   "tintColor": "fc0032",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "19.42.1",
+     "date": "2024-10-26T00:00:00Z",
+     "localizedDescription": "YouTube for iOS, supercharged with @dayanch96 YouTube Plus (ex. YTLite) and several other tweaks.\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/YT_Lite_Plus_19_42_1_5_0_2-ns.ipa",
+     "size": 114438144
+    }
+   ]
+  }
+ ]
+}

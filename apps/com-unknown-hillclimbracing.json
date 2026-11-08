@@ -1,0 +1,30 @@
+{
+ "name": "Hill Climb Racing",
+ "identifier": "dev.perapp.com-unknown-hillclimbracing",
+ "subtitle": "بۆ کڕین دەست بدە لە Buy دواتر هەڵوەشاندنەوە بکە",
+ "description": "Single-app source for Hill Climb Racing (com.unknown.hillclimbracing). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Hill.Climb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.hillclimbracing",
+   "name": "Hill Climb Racing",
+   "developerName": "Karbin-Store",
+   "subtitle": "بۆ کڕین دەست بدە لە Buy دواتر هەڵوەشاندنەوە بکە",
+   "localizedDescription": "بۆ کڕین دەست بدە لە Buy دواتر هەڵوەشاندنەوە بکە",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Hill.Climb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.62.2",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "بۆ کڕین دەست بدە لە Buy دواتر هەڵوەشاندنەوە بکە",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Hill.Climb._1.62.2_1737230003.ipa",
+     "size": 102660000
+    }
+   ]
+  }
+ ]
+}

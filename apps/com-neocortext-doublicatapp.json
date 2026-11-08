@@ -1,0 +1,30 @@
+{
+ "name": "Reface",
+ "identifier": "dev.perapp.com-neocortext-doublicatapp",
+ "subtitle": "Reface",
+ "description": "Single-app source for Reface (com.neocortext.doublicatapp). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.neocortext.doublicatapp",
+   "name": "Reface",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.9.1",
+     "date": "2026-05-28T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Reface_6.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 110214919
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Academia",
+ "identifier": "dev.perapp.edu-academia-academia",
+ "subtitle": "ipaomtk.com | Academia.edu IPA File brings the popular academic platform to iOS in a convenient way that allows users to",
+ "description": "Single-app source for Academia (edu.academia.academia). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Academia.edu-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "edu.academia.academia",
+   "name": "Academia",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Academia.edu IPA File brings the popular academic platform to iOS in a convenient way that allows users to explore scholarly articles, u",
+   "localizedDescription": "ipaomtk.com | Academia.edu IPA File brings the popular academic platform to iOS in a convenient way that allows users to explore scholarly articles, u",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Academia.edu-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.77",
+     "date": "2025-12-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Academia.edu IPA File brings the popular academic platform to iOS in a convenient way that allows users to explore scholarly articles, u",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Academia.edu-IPAOMTK.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

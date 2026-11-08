@@ -1,0 +1,41 @@
+{
+ "name": "Ghostship",
+ "identifier": "dev.perapp.com-rebelancap-ghostship",
+ "subtitle": "Ghostship for iPhone & Apple Vision Pro — a native Metal N64 port with a stereoscopic 3D mode on Vision Pro. Bring your ",
+ "description": "Single-app source for Ghostship (com.rebelancap.ghostship). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2c758f",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.ghostship.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.ghostship",
+   "name": "Ghostship",
+   "developerName": "rebelancap",
+   "subtitle": "Ghostship for iPhone & Apple Vision Pro — a native Metal N64 port with a stereoscopic 3D mode on Vision Pro. Bring your own ROM",
+   "localizedDescription": "Ghostship for iPhone & Apple Vision Pro:\n\nRun Ghostship on your iPhone and Apple Vision Pro — the full game with saves, the Ghostship enhancements menu, game controllers and a tunable touch layout, and on Vision Pro a stereoscopic 3D mode that puts the game on a world-locked panel floating in your room with real depth.\n\nBuilt on Ghostship and libultraship, rendering natively on Metal — no translation layer. 100% vibe coded with lots of passion and attention to detail.\n\nGhostship on Apple Vision Pro — a resizable window floating in your room, with the on-screen touch layout. The same build also runs in stereoscopic 3D.\n\nTexture Packs (strongly recommended):\n\nThe port supports Harbour Masters' .o2r mods, and the one worth installing is SM64 Reloaded by GhostlyDark — a UHD texture pack in two flavours.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.ghostship.png",
+   "tintColor": "#2c758f",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rebelancap/Ghostship-ios@main/docs/screenshots/visionos-window.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-10-09T18:58:41Z",
+     "localizedDescription": "An iOS 27 compatibility and performance update. Your saves and extracted game data carry over unchanged; no re-extraction needed.\n\niPhone & iPad.\n\n• Built with the iOS 27 SDK: launches correctly on iOS 27 and stays in landscape, including after returning from the Home screen or pulling down Control Center (no more stretched or sideways picture).\n• The game no longer slows down under load: the game clock now keeps real time, so when a frame runs late the game and its music stay at full speed instead of dropping into slow motion.\n• Lighter touch controls: the on-screen stick and Z button are drawn as separate layers, so moving the stick no longer redraws the whole overlay every frame.\n• Drag-to-look: with the Manual camera (Enhancements > Camera > Default Camera Mode = Manual), swipe on empty screen space to turn the camera. Adjust it with Touch Camera Sensitivity in the iOS settings section. Invert and Camera Speed settings apply as usual.\n• Always Show Menu Button: a new option in the iOS settings section that keeps the menu button on screen during gameplay.\n\nApple Vision Pro.\n\n• Rebuilt from the same source. The pacing fix applies to the 2D window; the 3D mode is unchanged from 1.0.1. Verified on the visionOS simulator; this build was not tested in the headset.\n\nThis public build does not include the developer console.\n\nBring your own ROM; the app extracts it on device.",
+     "downloadURL": "https://github.com/rebelancap/Ghostship-ios/releases/download/v1.0.2/ghostship-1.0.2-iOS.ipa",
+     "size": 5993793
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

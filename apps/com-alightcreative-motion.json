@@ -1,0 +1,30 @@
+{
+ "name": "AlightMotion",
+ "identifier": "dev.perapp.com-alightcreative-motion",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for AlightMotion (com.alightcreative.motion). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alightcreative.motion",
+   "name": "AlightMotion",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alightcreative.motion.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.60",
+     "date": "2026-10-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/AlightMotion_6.2.60_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 129663642
+    }
+   ]
+  }
+ ]
+}

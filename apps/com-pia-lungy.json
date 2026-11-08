@@ -1,0 +1,30 @@
+{
+ "name": "Lungy",
+ "identifier": "dev.perapp.com-pia-lungy",
+ "subtitle": "Lungy",
+ "description": "Single-app source for Lungy (com.pia.lungy). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pia.lungy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pia.lungy",
+   "name": "Lungy",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pia.lungy.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.26",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lungy_2.9.26_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 214317666
+    }
+   ]
+  }
+ ]
+}

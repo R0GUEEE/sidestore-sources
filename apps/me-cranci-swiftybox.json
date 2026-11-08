@@ -1,0 +1,30 @@
+{
+ "name": "SwiftyBox",
+ "identifier": "dev.perapp.me-cranci-swiftybox",
+ "subtitle": "SwiftyBox:  An unofficial catbox.moe iOS client.  SwiftyBox is a fast and lightweight client for catbox.moe and litterbo",
+ "description": "Single-app source for SwiftyBox (me.cranci.SwiftyBox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.cranci.SwiftyBox.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.cranci.SwiftyBox",
+   "name": "SwiftyBox",
+   "developerName": "cranci1",
+   "subtitle": "SwiftyBox:  An unofficial catbox.moe iOS client.  SwiftyBox is a fast and lightweight client for catbox.moe and litterbox.catbox.moe, built in SwiftUI",
+   "localizedDescription": "SwiftyBox:  An unofficial catbox.moe iOS client.  SwiftyBox is a fast and lightweight client for catbox.moe and litterbox.catbox.moe, built in SwiftUI\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.cranci.SwiftyBox.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "SwiftyBox:  An unofficial catbox.moe iOS client.  SwiftyBox is a fast and lightweight client for catbox.moe and litterbox.catbox.moe, built in SwiftUI",
+     "downloadURL": "https://github.com/cranci1/SwiftyBox/releases/download/v1.0.1/SwiftyBox.ipa",
+     "size": 1123839
+    }
+   ]
+  }
+ ]
+}

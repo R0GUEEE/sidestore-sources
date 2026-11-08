@@ -1,0 +1,30 @@
+{
+ "name": "LastDayOnEarth.Survival",
+ "identifier": "dev.perapp.zombie-survival-craft-z",
+ "subtitle": "LastDayOnEarth.Survival",
+ "description": "Single-app source for LastDayOnEarth.Survival (zombie.survival.craft.z). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png",
+ "apps": [
+  {
+   "bundleIdentifier": "zombie.survival.craft.z",
+   "name": "LastDayOnEarth.Survival",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/zombie.survival.craft.z.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.32.0",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/LastDayOnEarth.Survival_1.32.0_%40thisismanpreets_apptesters.org.ipa",
+     "size": 881041012
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "ABYSS",
+ "identifier": "dev.perapp.com-titans-abyss",
+ "subtitle": "ipaomtk.com | Abyss Dungeon Action RPG IPA MOD (Enermies no atk) iOS, Prepare to embark on an exhilarating journey throu",
+ "description": "Single-app source for ABYSS (com.titans.abyss). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Abyss-8211-Dungeon-Action-RPG-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.titans.abyss",
+   "name": "ABYSS",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Abyss Dungeon Action RPG IPA MOD (Enermies no atk) iOS, Prepare to embark on an exhilarating journey through the depths of the Abyss Dun",
+   "localizedDescription": "ipaomtk.com | Abyss Dungeon Action RPG IPA MOD (Enermies no atk) iOS, Prepare to embark on an exhilarating journey through the depths of the Abyss Dun",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Abyss-8211-Dungeon-Action-RPG-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.30",
+     "date": "2024-12-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Abyss Dungeon Action RPG IPA MOD (Enermies no atk) iOS, Prepare to embark on an exhilarating journey through the depths of the Abyss Dun",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Abyss-Dungeon_Action_RPG_ipaomtk.com.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.07",
+     "date": "2024-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Abyss Roguelike ARPG IPA MOD iOS is captivating game combines the excitement of a roguelike with the intensity of an action role-playing",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Abyss.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

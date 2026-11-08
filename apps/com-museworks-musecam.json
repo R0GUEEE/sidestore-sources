@@ -1,0 +1,30 @@
+{
+ "name": "MuseCam",
+ "identifier": "dev.perapp.com-museworks-musecam",
+ "subtitle": "ipaomtk.com | MuseCam, a recently released RAW photo editor for iPhone and iPad, has revolutionized the way photographs ",
+ "description": "Single-app source for MuseCam (com.museworks.musecam). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-2-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.museworks.musecam",
+   "name": "MuseCam",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MuseCam, a recently released RAW photo editor for iPhone and iPad, has revolutionized the way photographs can be edited and shared. With",
+   "localizedDescription": "ipaomtk.com | MuseCam, a recently released RAW photo editor for iPhone and iPad, has revolutionized the way photographs can be edited and shared. With",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-2-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.2",
+     "date": "2023-05-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MuseCam, a recently released RAW photo editor for iPhone and iPad, has revolutionized the way photographs can be edited and shared. With",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MuseCam.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

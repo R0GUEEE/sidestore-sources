@@ -1,0 +1,37 @@
+{
+ "name": "Gold Rush",
+ "identifier": "dev.perapp.io-whitesharx-moon",
+ "subtitle": "ipaomtk.com | Gold Rush Frozen Adventures IPA (Freeze Resource (Don’t work when interacting also disable it for collecti",
+ "description": "Single-app source for Gold Rush (io.whitesharx.moon). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/Gold-Rush-Frozen-Adventures-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "io.whitesharx.moon",
+   "name": "Gold Rush",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Gold Rush Frozen Adventures IPA (Freeze Resource (Don’t work when interacting also disable it for collecting) – [Beta] Freeze Resources ",
+   "localizedDescription": "ipaomtk.com | Gold Rush Frozen Adventures IPA (Freeze Resource (Don’t work when interacting also disable it for collecting) – [Beta] Freeze Resources ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/Gold-Rush-Frozen-Adventures-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.26.30",
+     "date": "2025-02-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Gold Rush Frozen Adventures IPA (Freeze Resource (Don’t work when interacting also disable it for collecting) – [Beta] Freeze Resources ",
+     "downloadURL": "https://file.ipaomtk.com/gold-rush-frozen-adventures/Gold-Rush-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "0.28.30",
+     "date": "2025-02-13T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Gold Rush Frozen Adventures IPA (Freeze Resource (Don’t work when interacting also disable it for collecting) – [Beta] Freeze Resources ",
+     "downloadURL": "https://file.ipaomtk.com/gold-rush-frozen-adventures/Gold-Rush-IPAOMTK.COM.ipa",
+     "size": 196662024
+    }
+   ]
+  }
+ ]
+}

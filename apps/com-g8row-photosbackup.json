@@ -1,0 +1,36 @@
+{
+ "name": "Photos Backup",
+ "identifier": "dev.perapp.com-g8row-photosbackup",
+ "subtitle": "PhotosBackup iOS app",
+ "description": "Single-app source for Photos Backup (com.g8row.photosbackup). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4f9fe6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.g8row.photosbackup.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.g8row.photosbackup",
+   "name": "Photos Backup",
+   "developerName": "g8row",
+   "subtitle": "PhotosBackup iOS app",
+   "localizedDescription": "Photos Backup for iOS:\n\nAn experimental, fully on-device iPhone app for backing up selected photos, videos, and albums to Google Photos. It is a single SwiftUI app that completes Google account setup in an in-app web view, so everything happens on the phone without a desktop companion or hosted service.\n\nThis project uses Google's private, undocumented Photos endpoints and an Android-style authentication flow. It is not affiliated with or endorsed by Google, and the integration may stop working without notice. Treat it as experimental software and use it at your own risk.\n\nWhat it can do:\n\n• Connect a Google account through Google's EmbeddedSetup flow, in an in-app web view.\n• Capture the single-use oauth_token in-process from the web view's cookie store.\n• Exchange the token for a Google Photos credential entirely on the device.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.g8row.photosbackup.png",
+   "tintColor": "#4f9fe6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.7",
+     "date": "2026-09-20T16:10:16Z",
+     "localizedDescription": "New:\n\n• The Google Photos app now counts what this app backs up. (, thanks @saileshbro) Uploads showed as \"not backed up\" in the Google Photos app, and its own Free up space never offered them. It now recognises them, and its Free up space and Delete from device remove the photos from your iPhone. On one library of about 8,500 items, \"Not backed up\" went from 8,145 to 0 and Free up space from 2 items to 461.The reason was the version being uploaded. The Google Photos app only counts a photo it can match to the one on your iPhone, so an edited photo or video now backs up as it looks, not as its unedited original. A photo you edited in the Google Photos app also needs the version that edit was applied on, which is uploaded in an extra step.\n• Back Up Live Photo Motion. Off by default. With it on, a Live Photo's motion is attached to the still already in your account, so it plays as a Live Photo and Free up space will offer it. Live Photos backed up earlier get their motion added as a backlog — this can be tens of GB, which is why it is a setting you turn on.\n• Backup keeps going after you leave the app (iOS 26). While the app is open with work to do, iOS is asked to keep it running; progress then shows in a Live Activity, where you can also stop it. Up to 2 uploads run at once in the background. On earlier iOS versions nothing changes.\n\nFixed:\n\n• Google's rate limit no longer fails a row. When Google asked the app to slow down (HTTP 429), rows retried a second apart, met the same refusal, and failed. The whole queue now waits it out — a minute, doubling up to ten while Google keeps refusing — and carries on.\n• Photos deleted while still queued. Freeing space on your iPhone deletes photos that may still be waiting to upload. Those rows are dropped quietly instead of failing with \"no longer in your photo library\" — about 2,000 rows had failed that way on one library.\n• Hand-picked photos are re-checked even when the app already remembers them as backed up.\n\nVerifying this release:\n\n• Every pull request and every push now runs the test suite before it can land.\n\nWorth knowing:\n\n• An edited photo now backs up its edit, not its original. Originals already uploaded stay in your account, but a newly edited photo no longer uploads its unedited version. Google's own backup behaves the same way.\n• After updating, the app queues a one-time re-check of edited photos already backed up. Most settle without uploading anything.\n• A photo saved to your iPhone from Google Photos is never counted as backed up, even though it is in your library. Editing it in Apple Photos works around this.\n\nNotes:\n\n• 191 tests, 189 passing (2 opt-in live tests skipped).\n• Tested on an iPhone 16 Pro Max (iOS 26.6.1, Google Photos 7.92.0) across a full library, and on a SideStore-signed install where the background tasks now register and run.",
+     "downloadURL": "https://github.com/g8row/PhotosBackup/releases/download/0.3.7/PhotosBackup.ipa",
+     "size": 2716224
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryUsageDescription": "Photos Backup needs access to the albums and photos you choose so it can safely back them up to Google Photos."
+    }
+   }
+  }
+ ]
+}

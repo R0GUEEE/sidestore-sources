@@ -1,0 +1,44 @@
+{
+ "name": "AlfredCamera",
+ "identifier": "dev.perapp.com-kalavision-alfred",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for AlfredCamera (com.kalavision.alfred). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kalavision.alfred",
+   "name": "AlfredCamera",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.22.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-10-2025/AlfredCamera_2025.22.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 124855068
+    },
+    {
+     "version": "2025.17.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-08-2025/AlfredCamera_2025.17.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 123203109
+    },
+    {
+     "version": "2025.24.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-11-2025/AlfredCamera_2025.24.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 125293823
+    }
+   ]
+  }
+ ]
+}

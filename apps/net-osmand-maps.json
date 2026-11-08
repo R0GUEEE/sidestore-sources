@@ -1,0 +1,30 @@
+{
+ "name": "OsmAndMapsPlus",
+ "identifier": "dev.perapp.net-osmand-maps",
+ "subtitle": "an offline world map app based on OpenStreetMap. A user requested it so here it is. Last updated: 07-18-2024 Status: ✅",
+ "description": "Single-app source for OsmAndMapsPlus (net.osmand.maps). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.osmand.maps.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.osmand.maps",
+   "name": "OsmAndMapsPlus",
+   "developerName": "Qamislo - Apps",
+   "subtitle": "an offline world map app based on OpenStreetMap. A user requested it so here it is. Last updated: 07-18-2024 Status: ✅",
+   "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.osmand.maps.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.8.2",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "an offline world map app based on OpenStreetMap. A user requested it so here it is. Last updated: 07-18-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OsmAndMapsPlus/OsmAndMapsPlus-4.8.2.ipa",
+     "size": 102836079
+    }
+   ]
+  }
+ ]
+}

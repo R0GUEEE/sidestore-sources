@@ -1,0 +1,37 @@
+{
+ "name": "My Journey",
+ "identifier": "dev.perapp.com-zenlife-tour",
+ "subtitle": "ipaomtk.com | What is APP or Game Name IPA? An IPA file is the installation package format used for iOS devices, allowin",
+ "description": "Single-app source for My Journey (com.zenlife.tour). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/My-Journey-8211-Puzzles-038-Stories-IPA-v1.13.0416-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zenlife.tour",
+   "name": "My Journey",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is APP or Game Name IPA? An IPA file is the installation package format used for iOS devices, allowing users to manually install ap",
+   "localizedDescription": "ipaomtk.com | What is APP or Game Name IPA? An IPA file is the installation package format used for iOS devices, allowing users to manually install ap",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/My-Journey-8211-Puzzles-038-Stories-IPA-v1.13.0416-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.13.0416",
+     "date": "2026-04-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is APP or Game Name IPA? An IPA file is the installation package format used for iOS devices, allowing users to manually install ap",
+     "downloadURL": "https://file.ipaomtk.com/my-journey-puzzles-stories/My-Journey-Puzzles-Stories-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.47.1015",
+     "date": "2026-04-21T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is APP or Game Name IPA? An IPA file is the installation package format used for iOS devices, allowing users to manually install ap",
+     "downloadURL": "https://file.ipaomtk.com/my-journey-puzzles-stories/My-Journey-Puzzles-Stories-IPAOMTK.COM.ipa",
+     "size": 558416207
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "NCT-NhacCuaTui",
+ "identifier": "dev.perapp.com-nct-nhaccuatui",
+ "subtitle": "VIP unlocked",
+ "description": "Single-app source for NCT-NhacCuaTui (com.nct.nhaccuatui). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/72/71/7c7271de-14bd-5dfe-0ce8-1cdfe8f30e7c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nct.nhaccuatui",
+   "name": "NCT-NhacCuaTui",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "VIP unlocked",
+   "localizedDescription": "Chức năng đã thêm: VIP - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/72/71/7c7271de-14bd-5dfe-0ce8-1cdfe8f30e7c/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.4.17",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: VIP - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/NCT_8.4.17_TTJB.ipa",
+     "size": 104666492
+    }
+   ]
+  }
+ ]
+}

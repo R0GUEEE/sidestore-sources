@@ -1,0 +1,30 @@
+{
+ "name": "Todoist",
+ "identifier": "dev.perapp.com-todoist-ios",
+ "subtitle": "Todoist",
+ "description": "Single-app source for Todoist (com.todoist.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.todoist.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.todoist.ios",
+   "name": "Todoist",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.todoist.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.5.19",
+     "date": "2026-05-29T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-05-2026/Todoist_26.5.19_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 143597540
+    }
+   ]
+  }
+ ]
+}

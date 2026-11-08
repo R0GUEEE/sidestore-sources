@@ -1,0 +1,30 @@
+{
+ "name": "GlossWire",
+ "identifier": "dev.perapp.com-barzze",
+ "subtitle": "ipaomtk.com | The GlossWire IPA v3.8 for iOS is a dynamic platform designed to streamline the way users discover and eng",
+ "description": "Single-app source for GlossWire (com.barzze). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/GlossWire-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.barzze",
+   "name": "GlossWire",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The GlossWire IPA v3.8 for iOS is a dynamic platform designed to streamline the way users discover and engage with the world of beauty a",
+   "localizedDescription": "ipaomtk.com | The GlossWire IPA v3.8 for iOS is a dynamic platform designed to streamline the way users discover and engage with the world of beauty a",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/GlossWire-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8",
+     "date": "2024-12-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The GlossWire IPA v3.8 for iOS is a dynamic platform designed to streamline the way users discover and engage with the world of beauty a",
+     "downloadURL": "https://file.ipaomtk.com/ipa/GlossWire-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

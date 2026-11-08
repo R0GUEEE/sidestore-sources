@@ -1,0 +1,30 @@
+{
+ "name": "Captions",
+ "identifier": "dev.perapp.boomer-smart-video",
+ "subtitle": "Premium unlocked. Press restore once then close the app if subscription isn't activated",
+ "description": "Single-app source for Captions (boomer.Smart-Video). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8824.png",
+ "apps": [
+  {
+   "bundleIdentifier": "boomer.Smart-Video",
+   "name": "Captions",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "Premium unlocked. Press restore once then close the app if subscription isn't activated",
+   "localizedDescription": "@riftysIPAlibrary | Captions: For Talking Videos\n\nTweak: Premium Unlocked\n\nVersion: 13.42.0\n\nNotes: Press restore once then close the app if subscription isn't activated\n\n@riftysIPAlibrary\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 16.0\nBundle ID: boomer.Smart-Video\nDeveloper: Captions, LLC (US)\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8824.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.42.0",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Captions: For Talking Videos Tweak: Premium Unlocked Version: 13.42.0 Notes: Press restore once then close the app if…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8824-Captions:%20For%20Talking%20Videos-v13.42.0-riftysipas.ipa",
+     "size": 110376240
+    }
+   ]
+  }
+ ]
+}

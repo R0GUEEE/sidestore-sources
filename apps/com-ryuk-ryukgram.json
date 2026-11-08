@@ -1,0 +1,44 @@
+{
+ "name": "RyukGram (Duplicate)",
+ "identifier": "dev.perapp.com-ryuk-ryukgram",
+ "subtitle": "RyukGram installed side by side with the real Instagram — a separate app with its own name, icon and login, so both stay",
+ "description": "Single-app source for RyukGram (Duplicate) (com.ryuk.ryukgram). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/e5/f2/30e5f206-5a5b-c586-5d94-619f69c53448/Placeholder.mill/400x400bb-75.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ryuk.ryukgram",
+   "name": "RyukGram (Duplicate)",
+   "developerName": "Ryuk",
+   "subtitle": "RyukGram installed side by side with the real Instagram — a separate app with its own name, icon and login, so both stay signed in at once. The no-plu",
+   "localizedDescription": "RyukGram installed side by side with the real Instagram — a separate app with its own name, icon and login, so both stay signed in at once. The no-plu\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/e5/f2/30e5f206-5a5b-c586-5d94-619f69c53448/Placeholder.mill/400x400bb-75.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "453.0.0",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "RyukGram installed side by side with the real Instagram — a separate app with its own name, icon and login, so both stay signed in at once. The no-plu",
+     "downloadURL": "https://source.ryuksign.com/ipas/aa11cb3cbaa2017b72ba.ipa",
+     "size": 288080092
+    },
+    {
+     "version": "452.0.1",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "RyukGram installed side by side with the real Instagram — a separate app with its own name, icon and login, so both stay signed in at once. The no-plu",
+     "downloadURL": "https://source.ryuksign.com/ipas/1523fb0d30380084f0ea.ipa",
+     "size": 283340916
+    },
+    {
+     "version": "449.0.0",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "RyukGram installed side by side with the real Instagram — a separate app with its own name, icon and login, so both stay signed in at once. The no-plu",
+     "downloadURL": "https://source.ryuksign.com/ipas/9680da5f9b755d9fc8b0.ipa",
+     "size": 269519729
+    }
+   ]
+  }
+ ]
+}

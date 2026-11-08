@@ -1,0 +1,30 @@
+{
+ "name": "Photo Vault",
+ "identifier": "dev.perapp.com-enchantedcloud-photovault",
+ "subtitle": "ipaomtk.com | Private Photo Vault – Pic Safe IPA v22.9, privacy is of utmost importance, especially when it comes to per",
+ "description": "Single-app source for Photo Vault (com.enchantedcloud.photovault). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/Photo-Vault-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.enchantedcloud.photovault",
+   "name": "Photo Vault",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Private Photo Vault – Pic Safe IPA v22.9, privacy is of utmost importance, especially when it comes to personal photos and videos. Priva",
+   "localizedDescription": "ipaomtk.com | Private Photo Vault – Pic Safe IPA v22.9, privacy is of utmost importance, especially when it comes to personal photos and videos. Priva",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/Photo-Vault-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "22.9",
+     "date": "2023-04-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Private Photo Vault – Pic Safe IPA v22.9, privacy is of utmost importance, especially when it comes to personal photos and videos. Priva",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Photo-Vault-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

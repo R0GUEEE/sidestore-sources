@@ -1,0 +1,37 @@
+{
+ "name": "NathanLR",
+ "identifier": "dev.perapp.com-nathan-nathanlr",
+ "subtitle": "https://ios.cfw.guide/installing-nathanlr/  Jailbreak for iOS 16.5.1 to iOS 16.6.1, A12+ Status: ✅",
+ "description": "Single-app source for NathanLR (com.nathan.nathanlr). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://files.catbox.moe/l9tlpa.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nathan.nathanlr",
+   "name": "NathanLR",
+   "developerName": "Nathan",
+   "subtitle": "https://ios.cfw.guide/installing-nathanlr/  Jailbreak for iOS 16.5.1 to iOS 16.6.1, A12+ Status: ✅",
+   "localizedDescription": "https://ios.cfw.guide/installing-nathanlr/  Jailbreak for iOS 16.5.1 to iOS 16.6.1, A12+ Status: ✅",
+   "iconURL": "https://files.catbox.moe/l9tlpa.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Semi-Jailbreak iOS 16.5.1-16.6.1 - Nên cài bằng TrollStore. Nếu bạn đã cài phiên bản cũ hãy xoá bản cũ đi cài bản mới này - IPA đã được kiểm tra và tổ",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/nathanlr_1.1.1_TTJB.tipa",
+     "size": 65131543
+    },
+    {
+     "version": "1.1.4",
+     "date": "2026-07-06T00:00:00Z",
+     "localizedDescription": "https://ios.cfw.guide/installing-nathanlr/  Jailbreak for iOS 16.5.1 to iOS 16.6.1, A12+ Status: ✅",
+     "downloadURL": "https://nathan4s.lol/nathanlr/nathanlr.tipa",
+     "size": 40330000
+    }
+   ]
+  }
+ ]
+}

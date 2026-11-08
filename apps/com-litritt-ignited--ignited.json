@@ -1,0 +1,30 @@
+{
+ "name": "Ignited",
+ "identifier": "dev.perapp.com-litritt-ignited",
+ "subtitle": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a",
+ "description": "Single-app source for Ignited (com.litritt.ignited). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.litritt.ignited.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.litritt.ignited",
+   "name": "Ignited",
+   "developerName": "LitRitt",
+   "subtitle": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not…",
+   "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not typically found in other emulators.\nLast updated: 03-29-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.litritt.ignited.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.6",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Forked from Delta, this is a multi-core emulator front-end for iOS devices. It offers an attractive user interface and a suite of features not…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Ignited/Ignited-1.8.6.ipa",
+     "size": 74540387
+    }
+   ]
+  }
+ ]
+}

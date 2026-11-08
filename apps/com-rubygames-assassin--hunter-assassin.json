@@ -1,0 +1,44 @@
+{
+ "name": "Hunter Assassin",
+ "identifier": "dev.perapp.com-rubygames-assassin",
+ "subtitle": "@riftysIPAlibrary | Hunter Assassin  Tweak: Unlimited Gems, - Unlimited Coins, - No Ads  Version: 2.043  Patched ✓  @rif",
+ "description": "Single-app source for Hunter Assassin (com.rubygames.assassin). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7253.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rubygames.assassin",
+   "name": "Hunter Assassin",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Hunter Assassin  Tweak: Unlimited Gems, - Unlimited Coins, - No Ads  Version: 2.043  Patched ✓  @riftysIPAlibrary  Additional Info",
+   "localizedDescription": "@riftysIPAlibrary | Hunter Assassin  Tweak: Unlimited Gems, - Unlimited Coins, - No Ads  Version: 2.043  Patched ✓  @riftysIPAlibrary  Additional Info",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7253.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.044",
+     "date": "2026-09-05T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Hunter Assassin  Tweak: Unlimited Gems, - Unlimited Coins, - No Ads  Version: 2.044  Patched ✓  @riftysIPAlibrary  Additional Info",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7725-Hunter%20Assassin-v2.044-riftysipas.ipa",
+     "size": 126235622
+    },
+    {
+     "version": "2.043",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Hunter Assassin  Tweak: Unlimited Gems, - Unlimited Coins, - No Ads  Version: 2.043  Patched ✓  @riftysIPAlibrary  Additional Info",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7253-Hunter%20Assassin-v2.043-riftysipas.ipa",
+     "size": 129590933
+    },
+    {
+     "version": "2.033",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: noads - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/20-12-2025/HunterAssassin_2.033_noads_@thisismanpreets_apptesters.org.ipa",
+     "size": 139054599
+    }
+   ]
+  }
+ ]
+}

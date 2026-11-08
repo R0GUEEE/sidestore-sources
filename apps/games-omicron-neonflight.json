@@ -1,0 +1,37 @@
+{
+ "name": "Neon Wings",
+ "identifier": "dev.perapp.games-omicron-neonflight",
+ "subtitle": "ipaomtk.com | Neon Wings IPA is an exhilarating game designed for iOS devices that ‌combines fast-paced action, neon ‍ae",
+ "description": "Single-app source for Neon Wings (games.omicron.neonflight). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Neon-Wings-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "games.omicron.neonflight",
+   "name": "Neon Wings",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Neon Wings IPA is an exhilarating game designed for iOS devices that ‌combines fast-paced action, neon ‍aesthetics, and ​intuitive contr",
+   "localizedDescription": "ipaomtk.com | Neon Wings IPA is an exhilarating game designed for iOS devices that ‌combines fast-paced action, neon ‍aesthetics, and ​intuitive contr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Neon-Wings-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20.1.63",
+     "date": "2025-07-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Neon Wings IPA is an exhilarating game designed for iOS devices that ‌combines fast-paced action, neon ‍aesthetics, and ​intuitive contr",
+     "downloadURL": "https://file.ipaomtk.com/Neon%20Wings/Neon-Wings-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "20.1.66",
+     "date": "2025-07-16T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Neon Wings IPA is an exhilarating game designed for iOS devices that ‌combines fast-paced action, neon ‍aesthetics, and ​intuitive contr",
+     "downloadURL": "https://file.ipaomtk.com/Neon%20Wings/Neon-Wings-IPAOMTK.COM.ipa",
+     "size": 187177403
+    }
+   ]
+  }
+ ]
+}

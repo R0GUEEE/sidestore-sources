@@ -1,0 +1,30 @@
+{
+ "name": "Slow Shutter",
+ "identifier": "dev.perapp.com-cogitap-slowshutter",
+ "subtitle": "ipaomtk.com | Slow Shutter Cam IPA v5.9.2 is a powerful photography app that brings advanced long-exposure techniques to",
+ "description": "Single-app source for Slow Shutter (com.cogitap.SlowShutter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Slow-Shutter-Cam.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cogitap.SlowShutter",
+   "name": "Slow Shutter",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Slow Shutter Cam IPA v5.9.2 is a powerful photography app that brings advanced long-exposure techniques to iOS devices. This innovative ",
+   "localizedDescription": "ipaomtk.com | Slow Shutter Cam IPA v5.9.2 is a powerful photography app that brings advanced long-exposure techniques to iOS devices. This innovative ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Slow-Shutter-Cam.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.9",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Slow Shutter Cam IPA v5.9.2 is a powerful photography app that brings advanced long-exposure techniques to iOS devices. This innovative ",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Slow_Shutter_Cam-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

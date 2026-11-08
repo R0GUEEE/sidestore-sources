@@ -1,0 +1,30 @@
+{
+ "name": "RCT Classic",
+ "identifier": "dev.perapp.com-atari-mobile-rctclassic",
+ "subtitle": "ipaomtk.com | RollerCoaster Tycoon Classic IPA is‍ a nostalgic gem that has made its way onto iOS devices, ⁣allowing fan",
+ "description": "Single-app source for RCT Classic (com.atari.mobile.rctclassic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/RollerCoaster-Tycoon%C2%AE-Classic-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.atari.mobile.rctclassic",
+   "name": "RCT Classic",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | RollerCoaster Tycoon Classic IPA is‍ a nostalgic gem that has made its way onto iOS devices, ⁣allowing fans of theme park management ⁢ga",
+   "localizedDescription": "ipaomtk.com | RollerCoaster Tycoon Classic IPA is‍ a nostalgic gem that has made its way onto iOS devices, ⁣allowing fans of theme park management ⁢ga",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/RollerCoaster-Tycoon%C2%AE-Classic-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.9",
+     "date": "2025-03-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | RollerCoaster Tycoon Classic IPA is‍ a nostalgic gem that has made its way onto iOS devices, ⁣allowing fans of theme park management ⁢ga",
+     "downloadURL": "https://file.ipaomtk.com/ipa/RollerCoaster_Tycoon_Classic_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

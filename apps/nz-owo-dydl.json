@@ -1,0 +1,37 @@
+{
+ "name": "DYDL",
+ "identifier": "dev.perapp.nz-owo-dydl",
+ "subtitle": "Injected with Nothing",
+ "description": "Single-app source for DYDL (nz.owo.DYDL). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/nz.owo.DYDL.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nz.owo.DYDL",
+   "name": "DYDL",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing",
+   "localizedDescription": "Injected with Nothing",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/nz.owo.DYDL.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2025-08-18T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-08-18/DYDL_1.0.0_Nothing_@repo.owo.network.ipa",
+     "size": 928970
+    },
+    {
+     "version": "1.0",
+     "date": "2025-08-18T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-08-18/DYDL_1.0.0_Nothing_@repo.owo.network.ipa",
+     "size": 928970
+    }
+   ]
+  }
+ ]
+}

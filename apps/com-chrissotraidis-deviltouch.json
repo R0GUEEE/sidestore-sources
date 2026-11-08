@@ -1,0 +1,37 @@
+{
+ "name": "DevilTouch",
+ "identifier": "dev.perapp.com-chrissotraidis-deviltouch",
+ "subtitle": "DevilutionX on iPad, rebuilt around direct touch. A native ARM64 iPadOS experience for your legally owned Diablo and Hel",
+ "description": "Single-app source for DevilTouch (com.chrissotraidis.deviltouch). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#a45f2c",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.deviltouch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chrissotraidis.deviltouch",
+   "name": "DevilTouch",
+   "developerName": "chrissotraidis",
+   "subtitle": "DevilutionX on iPad, rebuilt around direct touch. A native ARM64 iPadOS experience for your legally owned Diablo and Hellfire game data",
+   "localizedDescription": "AI disclosure: DevilTouch uses substantial AI assistance for code, tests, documentation, debugging and maintenance. Some support replies and maintenance tasks are automated. There is no audited percentage of AI-generated code. Build, test and device records describe what was checked. This disclosure concerns DevilTouch's workflow, not the authorship of its upstream projects.\n\nThe original descent. A native iPad experience.:\n\nDevilTouch is a focused iPad integration for DevilutionX, the modern source port of the original Diablo engine. It is not an emulator, a streamed desktop session, or a repackaged copy of the game.\n\nWhat you need:\n\n• A Mac with a current Xcode installation.\n• CMake 3.21 or newer and Git.\n• An Apple ID configured for development signing in Xcode.\n• A paired iPad with Developer Mode enabled.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.deviltouch.png",
+   "tintColor": "#a45f2c",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/deviltouch@main/doc/images/deviltouch-tristram.webp",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/deviltouch@main/doc/images/deviltouch-cathedral.webp"
+   ],
+   "versions": [
+    {
+     "version": "1.5.5",
+     "date": "2026-09-29T09:21:52Z",
+     "localizedDescription": "DevilTouch's first public IPA preview for AltStore Classic. Based on DevilutionX 1.5.5, with the existing direct-touch controls and Files importer preserved.\n\nDownload DevilTouch-1.5.5-build2.ipa, then select it using My Apps → + in AltStore Classic. The IPA is unsigned; AltStore signs it with your own Apple account. For an existing installation, preserve the signing identity and app data and update in place. Do not uninstall to work around a signing mismatch.\n\nThis release replaces the incompatible GPL libmpq reader with MIT mpqfs, while retaining the existing save writer. The engine's Sustainable Use License still requires free, non-commercial distribution. No retail Diablo/Hellfire MPQs, user saves or personal signing material are included; supply legally obtained game data yourself. Upstream supplemental resources and component notices remain included.\n\nVersion: 1.5.5, build 2. Bundle: com.chrissotraidis.deviltouch. Platform: ARM64 iOS/iPadOS 13+, with iPad as the tested product focus.\n\nSource: app cf2da5a1ab07bcf26220b9cb1dffe790bfd6a823; maintained engine f4098a0c834d5e81354700260d05f1c1718c244f; mpqfs 9423bd48d04c8a0c51d3df6ce328e66785e3b441. PRs #1 and #2 are merged.\n\nSHA256SUMS covers the IPA, complete source, notice archive, provenance and validation report. Source-based rebuildability is verified; byte-identical executable reproducibility is not claimed.",
+     "downloadURL": "https://github.com/chrissotraidis/deviltouch/releases/download/v1.5.5-preview.1/DevilTouch-1.5.5-build2.ipa",
+     "size": 11865922
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

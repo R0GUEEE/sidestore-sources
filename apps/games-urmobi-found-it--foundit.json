@@ -1,0 +1,44 @@
+{
+ "name": "FoundIt",
+ "identifier": "dev.perapp.games-urmobi-found-it",
+ "subtitle": "FoundIt",
+ "description": "Single-app source for FoundIt (games.urmobi.found.it). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png",
+ "apps": [
+  {
+   "bundleIdentifier": "games.urmobi.found.it",
+   "name": "FoundIt",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.73.63",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers and more),",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2305",
+     "size": 249272006
+    },
+    {
+     "version": "1.61.80",
+     "date": "2025-12-30T00:00:00Z",
+     "localizedDescription": "Injected with noads",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/FoundIt_1.61.80_noads_%40thisismanpreets_apptesters.org.ipa",
+     "size": 324624330
+    },
+    {
+     "version": "1.53.110",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Found It! Hidden Object Game\n\nTweak:\n\n - Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers and more)\n - All Premium Levels Unlocked\n - No Ads\n\nVersion: 1.53.110\n\nNotes: Restart app if there isn't automatically unlimited of everything.\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/a608902a-0d32-4d2a-b089-1897f9096606/Found_It__Hidden_Object_Game-v1.53.110-riftysipas.ipa",
+     "size": 275027972
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "GTA: SA - Netflix VH",
+ "identifier": "dev.perapp.com-netflix-ngp-gtasadefinitiveedition",
+ "subtitle": "Chức năng đã thêm: Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi - IPA đã được kiểm tra và tổng hợp bở",
+ "description": "Single-app source for GTA: SA - Netflix VH (com.netflix.NGP.GTASADefinitiveEdition). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/GTASADEN.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netflix.NGP.GTASADefinitiveEdition",
+   "name": "GTA: SA - Netflix VH",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/GTASADEN.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.72.42919648",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://archive.org/download/gta-trilogy-viet-hoa-ios-ipados-ttjb/GTA:%20SA_1.72.42919648_1702699843.ipa",
+     "size": 2147483647
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Idle Dice",
+ "identifier": "dev.perapp.com-lutsgames-idle-dice",
+ "subtitle": "Idle Dice",
+ "description": "Single-app source for Idle Dice (com.lutsgames.idle-dice). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/d8/d0/f1d8d03e-9876-53c9-047b-eb18861ee94d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lutsgames.idle-dice",
+   "name": "Idle Dice",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Idle Dice: Incremental Game\n⁣\nTweak: No Ads\n\nVersion: 1.3.453\n\nMade by riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f1/d8/d0/f1d8d03e-9876-53c9-047b-eb18861ee94d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.452",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Idle Dice: Incremental Game\n⁣\nTweak: No Ads\n\nVersion: 1.3.453\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/27ca9456-3fed-46ed-8b0f-9dfe0b1f7e4a/IdleDice_v1.3.453-riftysipas.ipa",
+     "size": 21550054
+    }
+   ]
+  }
+ ]
+}

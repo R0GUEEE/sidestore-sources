@@ -1,0 +1,44 @@
+{
+ "name": "Stretch",
+ "identifier": "dev.perapp.breakthroughapps-com-stretch",
+ "subtitle": "@riftysIPAlibrary | Stretch: Stretching & Mobility  Tweak: Subscription Unlocked  Version: 6.9.8  Patched ✓  @riftysIPAl",
+ "description": "Single-app source for Stretch (breakthroughapps.com.stretch). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7457.png",
+ "apps": [
+  {
+   "bundleIdentifier": "breakthroughapps.com.stretch",
+   "name": "Stretch",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Stretch: Stretching & Mobility  Tweak: Subscription Unlocked  Version: 6.9.8  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "localizedDescription": "@riftysIPAlibrary | Stretch: Stretching & Mobility  Tweak: Subscription Unlocked  Version: 6.9.8  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7457.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.12.0",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Stretch: Stretching & Mobility Tweak: Subscription Unlocked Version: 6.12.0 Patched ✓ @riftysIPAlibrary Additional Information…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8861-Stretch:%20Stretching%20&%20Mobility-v6.12.0-riftysipas.ipa",
+     "size": 76934473
+    },
+    {
+     "version": "6.11.0",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Stretch: Stretching & Mobility  Tweak: Subscription Unlocked  Version: 6.11.0  Patched ✓  @riftysIPAlibrary  Additional Informatio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8384-Stretch:%20Stretching%20&%20Mobility-v6.11.0-riftysipas.ipa",
+     "size": 70829281
+    },
+    {
+     "version": "6.10.0",
+     "date": "2026-09-09T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Stretch: Stretching & Mobility  Tweak: Subscription Unlocked  Version: 6.10.0  Patched ✓  @riftysIPAlibrary  Additional Informatio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7760-Stretch:%20Stretching%20&%20Mobility-v6.10.0-riftysipas.ipa",
+     "size": 70587723
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Letterboxd",
+ "identifier": "dev.perapp.com-letterboxd-letterboxdapp",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Letterboxd (com.letterboxd.LetterboxdApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.letterboxd.LetterboxdApp",
+   "name": "Letterboxd",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.letterboxd.LetterboxdApp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.2",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Letterboxd_4.6.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 46130017
+    },
+    {
+     "version": "4.8.2",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Letterboxd_4.8.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 47069378
+    },
+    {
+     "version": "4.7.2",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Letterboxd_4.7.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 46325977
+    }
+   ]
+  }
+ ]
+}

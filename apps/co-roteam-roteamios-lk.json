@@ -1,0 +1,30 @@
+{
+ "name": "Rổ Phim X",
+ "identifier": "dev.perapp.co-roteam-roteamios-lk",
+ "subtitle": "Tweaks: rophim",
+ "description": "Single-app source for Rổ Phim X (co.roteam.roteamios.lk). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/RophimX.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.roteam.roteamios.lk",
+   "name": "Rổ Phim X",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Tweaks: rophim",
+   "localizedDescription": "Tweaks: rophim\n\nChức năng đã thêm: RoX bởi LK. Yêu cầu phải đăng nhập hoặc tạo tài khoản để kích hoạt RoX. Dành cho iOS 26 có thể iOS 16 sẽ không hoạt động. - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/RophimX.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: rophim\n\nChức năng đã thêm: RoX bởi LK. Yêu cầu phải đăng nhập hoặc tạo tài khoản để kích hoạt RoX. Dành cho iOS 26 có thể iOS 16 sẽ không hoạt động. - IPA…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/RoPhimX_TTJB.ipa",
+     "size": 36264996
+    }
+   ]
+  }
+ ]
+}

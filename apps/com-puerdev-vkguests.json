@@ -1,0 +1,30 @@
+{
+ "name": "Статистика",
+ "identifier": "dev.perapp.com-puerdev-vkguests",
+ "subtitle": "ipaomtk.com | My Statistic for VK IPA v4.3 is a comprehensive analytics application designed to provide users of the pop",
+ "description": "Single-app source for Статистика (com.puerDev.vkguests). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/My-Statistic-for-VK.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.puerDev.vkguests",
+   "name": "Статистика",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | My Statistic for VK IPA v4.3 is a comprehensive analytics application designed to provide users of the popular Russian social networking",
+   "localizedDescription": "ipaomtk.com | My Statistic for VK IPA v4.3 is a comprehensive analytics application designed to provide users of the popular Russian social networking",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/My-Statistic-for-VK.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | My Statistic for VK IPA v4.3 is a comprehensive analytics application designed to provide users of the popular Russian social networking",
+     "downloadURL": "https://file.ipaomtk.com/ipa/My_Statistic_for_VK-v4.0-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

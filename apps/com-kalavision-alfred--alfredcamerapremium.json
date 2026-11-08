@@ -1,0 +1,37 @@
+{
+ "name": "AlfredCameraPremium",
+ "identifier": "dev.perapp.com-kalavision-alfred",
+ "subtitle": "AlfredCameraPremium by Lãng Khách🇻🇳",
+ "description": "Single-app source for AlfredCameraPremium (com.kalavision.alfred). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kalavision.alfred.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kalavision.alfred",
+   "name": "AlfredCameraPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.kalavision.alfred.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.12.0",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "All-in-one app offering live streaming, instant intruder alerts, walkie-talkie, etc. A user requested it so here it is.\nLast updated: 07-23-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlfredCameraPremium/AlfredCameraPremium-2024.12.0.ipa",
+     "size": 195716357
+    },
+    {
+     "version": "2024.19.0",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "All-in-one app offering live streaming, instant intruder alerts, walkie-talkie, etc. A user requested it so here it is.\nLast updated: 07-23-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlfredCameraPremium/AlfredCameraPremium-2024.19.0.ipa",
+     "size": 200790149
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SpeedTestPremium",
+ "identifier": "dev.perapp.com-ookla-speedtest",
+ "subtitle": "SpeedTest by Ookla, with premium features. Last updated: 06-04-2024 Status: ✅",
+ "description": "Single-app source for SpeedTestPremium (com.ookla.speedtest). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ookla.speedtest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ookla.speedtest",
+   "name": "SpeedTestPremium",
+   "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets",
+   "subtitle": "SpeedTest by Ookla, with premium features. Last updated: 06-04-2024 Status: ✅",
+   "localizedDescription": "SpeedTest by Ookla, with premium features.\nLast updated: 06-04-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ookla.speedtest.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.3.1",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "SpeedTest by Ookla, with premium features. Last updated: 06-04-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SpeedTestPremium/SpeedTestPremium-5.3.1.ipa",
+     "size": 59896562
+    }
+   ]
+  }
+ ]
+}

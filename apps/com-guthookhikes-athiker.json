@@ -1,0 +1,44 @@
+{
+ "name": "FarOut",
+ "identifier": "dev.perapp.com-guthookhikes-athiker",
+ "subtitle": "@riftysIPAlibrary | FarOut Guides  Tweak: Unlimited Unlocked  Version: 15.4  Notes: sign in then restart app to unlock u",
+ "description": "Single-app source for FarOut (com.guthookhikes.ATHiker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7245.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.guthookhikes.ATHiker",
+   "name": "FarOut",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | FarOut Guides  Tweak: Unlimited Unlocked  Version: 15.4  Notes: sign in then restart app to unlock unlimited  Patched ✓  @riftysIP",
+   "localizedDescription": "@riftysIPAlibrary | FarOut Guides  Tweak: Unlimited Unlocked  Version: 15.4  Notes: sign in then restart app to unlock unlimited  Patched ✓  @riftysIP",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7245.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.6",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | FarOut Guides  Tweak: Unlimited Unlocked  Version: 15.6  Notes: sign in then restart app to unlock unlimited  Patched ✓  @riftysIP",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8767-FarOut%20Guides-v15.6-riftysipas.ipa",
+     "size": 125510280
+    },
+    {
+     "version": "15.5",
+     "date": "2026-09-16T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | FarOut Guides  Tweak: Unlimited Unlocked  Version: 15.5  Notes: sign in then restart app to unlock unlimited  Patched ✓  @riftysIP",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7920-FarOut%20Guides-v15.5-riftysipas.ipa",
+     "size": 125385390
+    },
+    {
+     "version": "15.4",
+     "date": "2026-07-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | FarOut Guides  Tweak: Unlimited Unlocked  Version: 15.4  Notes: sign in then restart app to unlock unlimited  Patched ✓  @riftysIP",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7245-FarOut%20Guides-v15.4-riftysipas.ipa",
+     "size": 123709241
+    }
+   ]
+  }
+ ]
+}

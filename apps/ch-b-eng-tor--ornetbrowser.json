@@ -1,0 +1,44 @@
+{
+ "name": "OrNETBrowser",
+ "identifier": "dev.perapp.ch-b-eng-tor",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for OrNETBrowser (ch.b-eng.tor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ch.b-eng.tor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ch.b-eng.tor",
+   "name": "OrNETBrowser",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ch.b-eng.tor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.9.9",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/OrNETBrowser_3.9.9_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 124883196
+    },
+    {
+     "version": "3.9",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/13-10-2025/OrNETBrowser_3.9_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 90359014
+    },
+    {
+     "version": "3.8.14",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-10-2025/OrNETBrowser_3.8.14_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 90232148
+    }
+   ]
+  }
+ ]
+}

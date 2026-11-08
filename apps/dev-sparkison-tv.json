@@ -1,0 +1,38 @@
+{
+ "name": "M3U TV",
+ "identifier": "dev.perapp.dev-sparkison-tv",
+ "subtitle": "Cross-platform TV front-end player for the M3U Editor app. Provides a convenient way to view your content on multiple pl",
+ "description": "Single-app source for M3U TV (dev.sparkison.tv). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f42446",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.sparkison.tv.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.sparkison.tv",
+   "name": "M3U TV",
+   "developerName": "m3ue",
+   "subtitle": "Cross-platform TV front-end player for the M3U Editor app. Provides a convenient way to view your content on multiple platforms",
+   "localizedDescription": "m3u tv:\n\nCross-platform TV front-end player for the M3U Editor web app.\n\nDownload:\n\nNOTE: Release assets are versioned (m3u-tv-v-.), so each row links to the latest release page rather than a fixed-name download.\n\nFeatures:\n\n• Live TV: Browse and watch live TV channels with category filtering.\n• Movies (VOD): Browse and watch on-demand movies with category filtering.\n• TV Series: Browse series with season/episode navigation.\n• EPG: Electronic Program Guide with timeline view for live channels.\n• Search: Search across live channels, movies, and series.\n• Favorites: Save and manage favorite channels and content.\n• Continue Watching: Resume playback from where you left off.\n• Settings: Configure Xtream API connection with secure credential storage.\n• Localization: Full UI in English, German, Spanish, French, and Simplified Chinese — language selectable in Settings, persisted across sessions.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.sparkison.tv.png",
+   "tintColor": "#f42446",
+   "screenshots": [
+    "https://m3ue.sparkison.dev/img/tv-social-card.jpg?v=2"
+   ],
+   "versions": [
+    {
+     "version": "1.2.5",
+     "date": "2026-11-06T15:04:58Z",
+     "localizedDescription": "Features:\n\n• Seamless EPG preview to fullscreen handoff (no stream restart) (#349) (f98057f).\n• Add Title (A-Z / Z-A) sort to VOD and Series grids (#256) (09d9121).\n• Add multiple playlist support (#350) (5f06b5c).\n• Add sports screen (87367fc).\n• Add sports homescreen row (when feature enabled) (3f2d374).\n• Allow nav and screen customization (506afd6).\n\nBug Fixes:\n\n• Surface request_* error envelopes sent with HTTP error statuses (#195) (7a6c474).\n• VOD detail calling info endpoint on each load (99d4586).\n• re-pin mpv-build to 16c95c3, Android remote OK fix, Skia without Vulkan 1.1, iOS host-clock video (#354) (723c4ae).\n\nPerformance:\n\n• move work off the UI isolate and bound catalog/EPG memory (#348) (e1ab007).\n\nRefactoring:\n\n• Extract NotificationCoordinator and PlayerSkipSegments (e5f2836).\n\nMaintenance:\n\n• Spotlight and EPG timeline nav and display updates (e0028ee).\n• Update store listing notes (a30a970).\n• Migrate to stand alone material_ui library (bac2510).\n• Move to shared UI components structure (5309ea5).\n• Implement teams screen (efc9476).\n• Update sports screen display (84ccaa9).\n• Add missing sports leagues (e2ad9e4).\n• Migrate Sports page tabbed view to date picker (6f729d9).\n• Add sports detail view and optimize mobile view (2998e7c).\n• bump the flutter-production group (#353) (1edea14).\n• Default to all by default for Sports screen (01c92b2).\n• Update sports matchup cards to show league logo when available (0a966ef).\n• Make long channel titles and team names draggable on mobile (1be1a63).\n• More tweaks to the sports screen (b21d2fb).\n\nOther Changes:\n\n• Update README.md (88949b4).",
+     "downloadURL": "https://github.com/m3ue/m3u-tv/releases/download/v1.2.5/m3u-tv-v1.2.5-ios.ipa",
+     "size": 29443141
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "M3U TV needs local network access to connect to your streaming server."
+    }
+   }
+  }
+ ]
+}

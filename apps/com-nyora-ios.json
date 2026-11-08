@@ -1,0 +1,30 @@
+{
+ "name": "Nyora",
+ "identifier": "dev.perapp.com-nyora-ios",
+ "subtitle": "Read like the world can wait.:  A fast, free, ad-free, open-source manga / manhwa / manhua reader for iPhone & iPad — pa",
+ "description": "Single-app source for Nyora (com.nyora.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nyora.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nyora.ios",
+   "name": "Nyora",
+   "developerName": "Nyora-Manga",
+   "subtitle": "Read like the world can wait.:  A fast, free, ad-free, open-source manga / manhwa / manhua reader for iPhone & iPad — part of the cross-platform Nyora",
+   "localizedDescription": "Read like the world can wait.:  A fast, free, ad-free, open-source manga / manhwa / manhua reader for iPhone & iPad — part of the cross-platform Nyora\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nyora.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.3",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Read like the world can wait.:  A fast, free, ad-free, open-source manga / manhwa / manhua reader for iPhone & iPad — part of the cross-platform Nyora",
+     "downloadURL": "https://github.com/Nyora-Manga/nyora-ios/releases/download/v2.7.3/Nyora-2.7.3.ipa",
+     "size": 47097388
+    }
+   ]
+  }
+ ]
+}

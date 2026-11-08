@@ -1,0 +1,37 @@
+{
+ "name": "Remoter_Pro_6.2.1",
+ "identifier": "dev.perapp.com-remoterlabs-remotercomplete",
+ "subtitle": "A powerful remote desktop client.",
+ "description": "Single-app source for Remoter_Pro_6.2.1 (com.remoterlabs.remotercomplete). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Remoter_Pro_6.2.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.remoterlabs.remotercomplete",
+   "name": "Remoter_Pro_6.2.1",
+   "developerName": "Remoter_Pro_6.2.1 x CyPwn",
+   "subtitle": "A powerful remote desktop client.",
+   "localizedDescription": "A powerful remote desktop client.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Remoter_Pro_6.2.1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "A powerful remote desktop client.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Remoter_Pro_6.2.1.ipa",
+     "size": 24798822
+    },
+    {
+     "version": "6.1.5",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Remoter Pro IPA v6.2.0 is a powerful and versatile tool designed for users who need seamless remote access to their computers from t",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Remoter_Pro-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

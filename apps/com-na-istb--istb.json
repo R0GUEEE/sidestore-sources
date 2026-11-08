@@ -1,0 +1,44 @@
+{
+ "name": "iSTB",
+ "identifier": "dev.perapp.com-na-istb",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for iSTB (com.na.istb). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.na.istb",
+   "name": "iSTB",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.29.3",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-12-2025/iSTB_1.29.3_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 40797354
+    },
+    {
+     "version": "1.29.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/16-12-2025/iSTB_1.29.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 40746063
+    },
+    {
+     "version": "1.29.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-11-2025/iSTB_1.29.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 40330828
+    }
+   ]
+  }
+ ]
+}

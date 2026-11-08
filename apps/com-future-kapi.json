@@ -1,0 +1,30 @@
+{
+ "name": "Action",
+ "identifier": "dev.perapp.com-future-kapi",
+ "subtitle": "Action",
+ "description": "Single-app source for Action (com.future.kapi). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.future.kapi",
+   "name": "Action",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.45.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Action_4.45.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 155424084
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Guitar Tab Maker",
+ "identifier": "dev.perapp.com-kg-guitartabber",
+ "subtitle": "ipaomtk.com | Guitar Tab Maker IPA v4.5 is a user-friendly mobile application designed for musicians and guitar enthusia",
+ "description": "Single-app source for Guitar Tab Maker (com.kg.GuitarTabber). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Guitar-Tab-Maker.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kg.GuitarTabber",
+   "name": "Guitar Tab Maker",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Guitar Tab Maker IPA v4.5 is a user-friendly mobile application designed for musicians and guitar enthusiasts to create, edit, and share",
+   "localizedDescription": "ipaomtk.com | Guitar Tab Maker IPA v4.5 is a user-friendly mobile application designed for musicians and guitar enthusiasts to create, edit, and share",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Guitar-Tab-Maker.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Guitar Tab Maker IPA v4.5 is a user-friendly mobile application designed for musicians and guitar enthusiasts to create, edit, and share",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Guitar_Tab_Maker-v4.5_2024-10-25_08-37-18-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

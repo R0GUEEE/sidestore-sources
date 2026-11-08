@@ -1,0 +1,44 @@
+{
+ "name": "30DayFitness",
+ "identifier": "dev.perapp.com-vigorapps-30dayfitness",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for 30DayFitness (com.vigorapps.30DayFitness). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vigorapps.30DayFitness",
+   "name": "30DayFitness",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vigorapps.30DayFitness.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.29.21",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-09-2025/30DayFitness_6.29.21_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 34480654
+    },
+    {
+     "version": "6.29.22",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/04-11-2025/30DayFitness_6.29.22_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 49301487
+    },
+    {
+     "version": "6.29.17",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-08-2025/30DayFitness_6.29.17_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 117772801
+    }
+   ]
+  }
+ ]
+}

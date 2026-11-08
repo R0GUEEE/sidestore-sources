@@ -1,0 +1,30 @@
+{
+ "name": "Space Frontier",
+ "identifier": "dev.perapp.com-ketchapp-spacefrontier",
+ "subtitle": "Space Frontier by Ketchapp",
+ "description": "Single-app source for Space Frontier (com.ketchapp.spacefrontier). Converted from riftys.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/13/28/a31328a7-a070-1d6c-f17b-72046e73dd73/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.spacefrontier",
+   "name": "Space Frontier",
+   "developerName": "Ketchapp",
+   "subtitle": "",
+   "localizedDescription": "Get updated version from zx's AIO repo.",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/13/28/a31328a7-a070-1d6c-f17b-72046e73dd73/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.19",
+     "date": "2025-02-10T00:00:00Z",
+     "localizedDescription": "Get updated version from zx's AIO repo.",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a9913272b77be7cfa3b069",
+     "size": 67811560
+    }
+   ]
+  }
+ ]
+}

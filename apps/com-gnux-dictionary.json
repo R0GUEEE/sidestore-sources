@@ -1,0 +1,30 @@
+{
+ "name": "Dict Box",
+ "identifier": "dev.perapp.com-gnux-dictionary",
+ "subtitle": "ipaomtk.com | Are you tired of being constantly connected to the internet just to look up a word’s definition? Look no f",
+ "description": "Single-app source for Dict Box (com.gnux.dictionary). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Dictionary-Offline-Dict-Box-IPA-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gnux.dictionary",
+   "name": "Dict Box",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Are you tired of being constantly connected to the internet just to look up a word’s definition? Look no further than Dictionary Offline",
+   "localizedDescription": "ipaomtk.com | Are you tired of being constantly connected to the internet just to look up a word’s definition? Look no further than Dictionary Offline",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Dictionary-Offline-Dict-Box-IPA-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.14.22",
+     "date": "2024-01-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Are you tired of being constantly connected to the internet just to look up a word’s definition? Look no further than Dictionary Offline",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Dictionary-Offline-Dict-Box.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

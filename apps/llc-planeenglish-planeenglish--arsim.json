@@ -1,0 +1,44 @@
+{
+ "name": "ARSim",
+ "identifier": "dev.perapp.llc-planeenglish-planeenglish",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for ARSim (llc.planeenglish.PlaneEnglish). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png",
+ "apps": [
+  {
+   "bundleIdentifier": "llc.planeenglish.PlaneEnglish",
+   "name": "ARSim",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.15",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | PlaneEnglish: ARSim  Tweak: Premium Unlocked  Version: 1.5.15  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Ver",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8846-PlaneEnglish:%20ARSim-v1.5.15-riftysipas.ipa",
+     "size": 486266299
+    },
+    {
+     "version": "1.5.14",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | PlaneEnglish: ARSim  Tweak: Premium Unlocked  Version: 1.5.14  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Ver",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7418-PlaneEnglish:%20ARSim-v1.5.14-riftysipas.ipa",
+     "size": 295675493
+    },
+    {
+     "version": "1.5.13",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/ARSim_1.5.13_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 287598826
+    }
+   ]
+  }
+ ]
+}

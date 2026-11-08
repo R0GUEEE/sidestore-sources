@@ -1,0 +1,44 @@
+{
+ "name": "Napper",
+ "identifier": "dev.perapp.com-napper",
+ "subtitle": "Napper",
+ "description": "Single-app source for Napper (com.napper). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.napper.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.napper",
+   "name": "Napper",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.napper.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.65.0",
+     "date": "2026-08-15T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2155",
+     "size": 59588342
+    },
+    {
+     "version": "6.28.0",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Napper_6.28.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 31221344
+    },
+    {
+     "version": "6.8.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Napper: Baby Sleep Tracker\n\nTweak: Premium Unlocked\n\nVersion: 6.8.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/2ce6a7c0-6e6f-449b-a0bb-7319769fbb8c/Napper__Baby_Sleep_Tracker-v6.8.1-riftysipas.ipa",
+     "size": 30756949
+    }
+   ]
+  }
+ ]
+}

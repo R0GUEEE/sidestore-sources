@@ -1,0 +1,37 @@
+{
+ "name": "Custom Crosshair",
+ "identifier": "dev.perapp.com-ipaomtk-custom-crosshair-159534",
+ "subtitle": "ipaomtk.com | What is Custom Crosshair IPA? Custom Crosshair IPA is the iOS installable version of a utility app designe",
+ "description": "Single-app source for Custom Crosshair (com.ipaomtk.custom.crosshair.159534). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Custom-Crosshair-IPA-v1.7-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.custom.crosshair.159534",
+   "name": "Custom Crosshair",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Custom Crosshair IPA? Custom Crosshair IPA is the iOS installable version of a utility app designed to create and overlay custom",
+   "localizedDescription": "ipaomtk.com | What is Custom Crosshair IPA? Custom Crosshair IPA is the iOS installable version of a utility app designed to create and overlay custom",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Custom-Crosshair-IPA-v1.7-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Custom Crosshair IPA? Custom Crosshair IPA is the iOS installable version of a utility app designed to create and overlay custom",
+     "downloadURL": "https://file.ipaomtk.com/custom-crosshair/Custom-Crosshair-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.2",
+     "date": "2026-05-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Custom Crosshair IPA? Custom Crosshair IPA is the iOS installable version of a utility app designed to create and overlay custom",
+     "downloadURL": "https://file.ipaomtk.com/custom-crosshair/Custom-Crosshair-IPAOMTK.COM.ipa",
+     "size": 13968165
+    }
+   ]
+  }
+ ]
+}

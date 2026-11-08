@@ -1,0 +1,44 @@
+{
+ "name": "Minecraft Preview",
+ "identifier": "dev.perapp.com-mojang-minecraftpreview",
+ "subtitle": "Minecraft Preview",
+ "description": "Single-app source for Minecraft Preview (com.mojang.minecraftpreview). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mojang.minecraftpreview",
+   "name": "Minecraft Preview",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nMinecraft Preview v1.21.110.22\n\n🇷🇺 Бета версия Minecraft Bedrock Edition\n— Приложение из TestFlight  \n© Создано: MCPreview Decrypted\n\n🇺🇸 The beta version of Minecraft Bedrock Edition\n— App from TestFlight  \n© Created: MCPreview Decrypted",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.21.110",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nMinecraft Preview v1.21.110.22\n\n🇷🇺 Бета версия Minecraft Bedrock Edition\n— Приложение из TestFlight  \n© Создано: MCPreview Decrypted\n\n🇺🇸 The beta version of Minecraft Bedrock Edition\n— App from TestFlight  \n© Created: MCPreview Decrypted",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/e8b909fd-08e4-4697-9d2d-a9df4855e438/Minecraft_Preview_v1.21.110_tg_glesign_.ipa",
+     "size": 600530133
+    },
+    {
+     "version": "1.21.100",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nMinecraft Preview v1.21.100.23\n\n🇷🇺 Бета версия Minecraft Bedrock Edition\n— Приложение из TestFlight  \n© Создано: MCPreview Decrypted\n\n🇺🇸 The beta version of Minecraft Bedrock Edition\n— App from TestFlight  \n© Created: MCPreview Decrypted",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/6e8ec4ce-47bc-4d42-9ca9-e3b0cb02b7db/Minecraft_Preview_v1.21.100_tg_glesign_.ipa",
+     "size": 606862931
+    },
+    {
+     "version": "1.21.90",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nMinecraft Preview v1.21.90.27\n\n🇷🇺 Бета версия Minecraft Bedrock Edition\n— Приложение из TestFlight  \n© Создано: MCPreview Decrypted\n\n🇺🇸 The beta version of Minecraft Bedrock Edition\n— App from TestFlight  \n© Created: MCPreview Decrypted",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/425ff22e-3b58-43e2-aad2-628ee35acced/Minecraft_Preview_v1.21.90_tg_glesign_.ipa",
+     "size": 593793962
+    }
+   ]
+  }
+ ]
+}

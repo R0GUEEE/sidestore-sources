@@ -1,0 +1,30 @@
+{
+ "name": "Breeze",
+ "identifier": "dev.perapp.com-basenji-mood",
+ "subtitle": "Breeze",
+ "description": "Single-app source for Breeze (com.basenji.mood). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.basenji.mood.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.basenji.mood",
+   "name": "Breeze",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.basenji.mood.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.2",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Breeze_3.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 238940095
+    }
+   ]
+  }
+ ]
+}

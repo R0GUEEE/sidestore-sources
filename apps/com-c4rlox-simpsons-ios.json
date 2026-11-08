@@ -1,0 +1,34 @@
+{
+ "name": "Simpsons Hit & Run",
+ "identifier": "dev.perapp.com-c4rlox-simpsons-ios",
+ "subtitle": "Unofficial iOS port of The Simpsons: Hit & Run, adapted from the community Android port",
+ "description": "Single-app source for Simpsons Hit & Run (com.c4rlox.simpsons.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#388127",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.c4rlox.simpsons.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.c4rlox.simpsons.ios",
+   "name": "Simpsons Hit & Run",
+   "developerName": "creeper4004",
+   "subtitle": "Unofficial iOS port of The Simpsons: Hit & Run, adapted from the community Android port",
+   "localizedDescription": "The Simpsons: Hit & Run — iOS Port:\n\nAn unofficial community port of The Simpsons: Hit & Run for iPhone and iPad, adapted from the Android port. Bring your own files from an owned retail PC copy of the game. Game data is not included in normal iOS builds.\n\nStart here: Installation and game files.\n\nRequirements:\n\n• An arm64 iPhone or iPad running iOS/iPadOS 15 or later (the current build target).\n• An iOS build installed and signed for your device. An Android APK will not work on iOS.\n• The retail PC game's data files and enough free storage for them. The data is roughly 2 GB; leave additional room for transfers and saves.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.c4rlox.simpsons.ios.png",
+   "tintColor": "#388127",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2",
+     "date": "2026-10-12T01:46:25Z",
+     "localizedDescription": "Version 0.2 adds a native setup launcher and the first settings pass, plus the controller and New Game renderer fixes.\n\nWhat's new:\n\n• Import your retail PC game folder through Files; check startup files and select Play.\n• Touch-button and pressed-button opacity sliders.\n• Controller visibility: Automatic, Always show or Always hide. Hidden controls also stop accepting touch input.\n• Horizontal/vertical touch-camera sensitivity and invert-Y preference.\n• Optional compact FPS and average frame-interval display.\n• Basic logging by default; opt into Detailed for performance samples and bounded traces.\n• Export a diagnostic report or clear logs with confirmation.\n• Back up and export existing save slots without replacing the originals.\n• Settings reset preserves saves, game data and custom button layouts.\n• App icon for iPhone/iPad.\n• Includes IndecentDad's physical-controller visibility fix and the MGL texture-deletion fix for the New Game/front-end crash.\n\nDownloads and installation:\n\nSimpsons-Hit-and-Run-iOS-0.2.ipa is an unsigned arm64 iPhone/iPad build, version 0.2 (build 2), targeting iOS 15.0 or later. Sign it with your own Apple account using a compatible sideloading tool. This is not an App Store or universally signed IPA.\n\nInstall over the existing app using the same signing identity/bundle identifier to retain its data. Back up your saves first. Deleting the app also deletes its local game data and backups.\n\nThe inspected IPA contains the executable, dependencies, touch-control artwork, app icon and release documentation. It contains no game_assets folder, retail game archives, save slots or embedded signing profile.\n\n• Source code (zip / tar.gz): GitHub's archives for this tag, below.\n\n• ffmpeg-6.0.tar.xz: unmodified source for the statically linked FFmpeg dependency. Build options are in ios-project/build-ffmpeg.sh.\n• SHA256SUMS.txt: checksums for the uploaded packages.\n\nValidation and limitations:\n\nDevice and simulator Release builds passed. Automated checks cover settings policies, value clamping, frame-rate measurement, diagnostic filtering/clearing, persistent-log concurrency/rotation, startup-file validation and the texture-deletion regression. Simulator UI checks covered settings persistence, diagnostic export, and byte-for-byte save-backup copying with the original retained.\n\nThe user confirmed FPS display and controller visibility on iPhone 17 Pro Max / iOS 27.2 beta. Prior user retests confirmed game-folder import and that the New Game crash no longer occurred. Broader devices/data editions, longer sessions and full-story completion remain unverified.\n\nThe FPS display measures game frame submissions and average frame interval, not GPU execution time. Basic versus Detailed logging has not been performance-benchmarked. Save restoration is manual through Files; there is no automatic restore button in this release.\n\nThis unofficial iOS adaptation builds on Carlox33's Android port and ZenoArrows' earlier platform ports. See the included credits and third-party notices.",
+     "downloadURL": "https://github.com/creeper4004/The-Simpsons-Hit-and-Run-iOS/releases/download/v0.2/Simpsons-Hit-and-Run-iOS-0.2.ipa",
+     "size": 12454045
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

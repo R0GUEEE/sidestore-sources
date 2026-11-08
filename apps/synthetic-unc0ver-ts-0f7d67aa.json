@@ -1,0 +1,30 @@
+{
+ "name": "Unc0ver_TS",
+ "identifier": "dev.perapp.synthetic-unc0ver-ts-0f7d67aa",
+ "subtitle": "unc0ver 8.0.2 for TrollStore. Use with u0Launcher to launch this patched version and jailbreak successfully.",
+ "description": "Single-app source for Unc0ver_TS (synthetic.unc0ver-ts.0f7d67aa). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Unc0ver_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.unc0ver-ts.0f7d67aa",
+   "name": "Unc0ver_TS",
+   "developerName": "Unc0ver_TS x CyPwn",
+   "subtitle": "unc0ver 8.0.2 for TrollStore. Use with u0Launcher to launch this patched version and jailbreak successfully.",
+   "localizedDescription": "unc0ver 8.0.2 for TrollStore. Use with u0Launcher to launch this patched version and jailbreak successfully.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Unc0ver_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "unc0ver 8.0.2 for TrollStore. Use with u0Launcher to launch this patched version and jailbreak successfully.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Unc0ver_TS.ipa",
+     "size": 54494494
+    }
+   ]
+  }
+ ]
+}

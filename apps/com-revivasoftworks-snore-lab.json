@@ -1,0 +1,30 @@
+{
+ "name": "SnoreLab",
+ "identifier": "dev.perapp.com-revivasoftworks-snore-lab",
+ "subtitle": "SnoreLab",
+ "description": "Single-app source for SnoreLab (com.revivasoftworks.Snore-Lab). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+   "name": "SnoreLab",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.5.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/SnoreLab_6.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 174628498
+    }
+   ]
+  }
+ ]
+}

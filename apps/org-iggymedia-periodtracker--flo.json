@@ -1,0 +1,44 @@
+{
+ "name": "Flo",
+ "identifier": "dev.perapp.org-iggymedia-periodtracker",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Flo (org.iggymedia.periodtracker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.iggymedia.periodtracker",
+   "name": "Flo",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.iggymedia.periodtracker.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.90.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-10-2025/Flo_9.90.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 123167818
+    },
+    {
+     "version": "9.87.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/12-09-2025/Flo_9.87.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 122707193
+    },
+    {
+     "version": "9.91.2",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-11-2025/Flo_9.91.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 123048494
+    }
+   ]
+  }
+ ]
+}

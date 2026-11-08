@@ -1,0 +1,30 @@
+{
+ "name": "Fortnite",
+ "identifier": "dev.perapp.com-chairentertainment-fortnite",
+ "subtitle": "Fortnite",
+ "description": "Single-app source for Fortnite (com.chairentertainment.Fortnite). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chairentertainment.Fortnite",
+   "name": "Fortnite",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nProjectEra v5.40.0\n\n🇷🇺 Приватный сервер игры Fortnite.\n— Сезон игры 5\n© Создано: ProjectEra\n\n🇺🇸 A private Fortnite game server.\n— Game Season 5\n© Created: ProjectEra",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.40.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nProjectEra v5.40.0\n\n🇷🇺 Приватный сервер игры Fortnite.\n— Сезон игры 5\n© Создано: ProjectEra\n\n🇺🇸 A private Fortnite game server.\n— Game Season 5\n© Created: ProjectEra",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4119fdfb-6419-4c65-a897-196c732a4003/ProjectEra_v5.40.0_tg_glesign_.ipa",
+     "size": 101048447
+    }
+   ]
+  }
+ ]
+}

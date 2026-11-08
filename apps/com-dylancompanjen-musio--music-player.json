@@ -1,0 +1,30 @@
+{
+ "name": "Music Player",
+ "identifier": "dev.perapp.com-dylancompanjen-musio",
+ "subtitle": "Music Player",
+ "description": "Single-app source for Music Player (com.dylancompanjen.musio). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/81baa0fc-e5bb-4f3a-8611-b57dfaacf9c8/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dylancompanjen.musio",
+   "name": "Music Player",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Music Player ‣\n\nTweak: Premium Unlocked\n\nVersion: 1.19\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/81baa0fc-e5bb-4f3a-8611-b57dfaacf9c8/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.19",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Music Player ‣\n\nTweak: Premium Unlocked\n\nVersion: 1.19\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/5abff67f-6106-4094-b6e4-536c99815ef4/Music_Player__-v1.19-riftysipas.ipa",
+     "size": 11712749
+    }
+   ]
+  }
+ ]
+}

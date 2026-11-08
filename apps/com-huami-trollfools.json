@@ -1,0 +1,30 @@
+{
+ "name": "TrollFools_2.11-28_huamidev",
+ "identifier": "dev.perapp.com-huami-trollfools",
+ "subtitle": "Inject tweaks into apps",
+ "description": "Single-app source for TrollFools_2.11-28_huamidev (com.huami.TrollFools). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.11-28_huamidev.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.huami.TrollFools",
+   "name": "TrollFools_2.11-28_huamidev",
+   "developerName": "TrollFools_2.11-28_huamidev x CyPwn",
+   "subtitle": "Inject tweaks into apps",
+   "localizedDescription": "Inject tweaks into apps",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_2.11-28_huamidev.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.11",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Inject tweaks into apps",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_2.11-28_huamidev.ipa",
+     "size": 8829009
+    }
+   ]
+  }
+ ]
+}

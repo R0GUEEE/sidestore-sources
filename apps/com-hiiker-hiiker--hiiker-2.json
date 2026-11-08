@@ -1,0 +1,44 @@
+{
+ "name": "HiiKER",
+ "identifier": "dev.perapp.com-hiiker-hiiker",
+ "subtitle": "HiiKER",
+ "description": "Single-app source for HiiKER (com.hiiker.hiiker). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hiiker.hiiker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hiiker.hiiker",
+   "name": "HiiKER",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hiiker.hiiker.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.75",
+     "date": "2026-08-06T00:00:00Z",
+     "localizedDescription": "The Most Powerful Hiking Planner & Navigation App for Confident Adventures. Plan, Map and Tracker with HiiKER.\r\n\r\nHiiKER is the best digital toolkit for serious hikers and multi-day trekkers. Our biggest update yet, HiiKER 26, brings a new era of powerful planning and superior mapping to your fingertips.\r\n\r\n• Get inspired by over 130,000 hiking trails\r\n• View the world's best topographic maps.\r\n• Plan detailed hiking routes with ease\r\n• Discover millions of hiking focused POIs, places to rest, eat and see.\r\n• Used by Mountain Rescue Teams across the world.\r\n\r\n--------------\r\n\r\nNavigate with Confidence\r\n\r\nQuality Maps on Offer\r\n\r\nHigh-Quality Topographic Maps: HiiKER features high-quality topographic maps from national and independent m",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2191",
+     "size": 122286812
+    },
+    {
+     "version": "26.1.16",
+     "date": "2025-12-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/HiiKER_26.1.16_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 113909564
+    },
+    {
+     "version": "26.1.13",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/HiiKER_26.1.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 115482057
+    }
+   ]
+  }
+ ]
+}

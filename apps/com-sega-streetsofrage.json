@@ -1,0 +1,30 @@
+{
+ "name": "Streets of Rage",
+ "identifier": "dev.perapp.com-sega-streetsofrage",
+ "subtitle": "ipaomtk.com | Introduction to Streets of Rage Streets of Rage is one of the most iconic beat-’em-up games ever created, ",
+ "description": "Single-app source for Streets of Rage (com.sega.StreetsOfRage). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Streets-of-Rage-IPA-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sega.StreetsOfRage",
+   "name": "Streets of Rage",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction to Streets of Rage Streets of Rage is one of the most iconic beat-’em-up games ever created, and its arrival on iOS makes i",
+   "localizedDescription": "ipaomtk.com | Introduction to Streets of Rage Streets of Rage is one of the most iconic beat-’em-up games ever created, and its arrival on iOS makes i",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Streets-of-Rage-IPA-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.0",
+     "date": "2025-12-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to Streets of Rage Streets of Rage is one of the most iconic beat-’em-up games ever created, and its arrival on iOS makes i",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Streets-of-Rage-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

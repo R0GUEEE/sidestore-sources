@@ -1,0 +1,37 @@
+{
+ "name": "AdCap!",
+ "identifier": "dev.perapp.com-kongregate-mobile-adventurecapitalist",
+ "subtitle": "ipaomtk.com | AdVenture Capitalist IPA is an Unlimited Gold iOS mobile application that offers an innovative way to inve",
+ "description": "Single-app source for AdCap! (com.kongregate.mobile.adventurecapitalist). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/AdVenture-Capitalist-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kongregate.mobile.adventurecapitalist",
+   "name": "AdCap!",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | AdVenture Capitalist IPA is an Unlimited Gold iOS mobile application that offers an innovative way to invest. Originally developed as a ",
+   "localizedDescription": "ipaomtk.com | AdVenture Capitalist IPA is an Unlimited Gold iOS mobile application that offers an innovative way to invest. Originally developed as a ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/AdVenture-Capitalist-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.19.0",
+     "date": "2023-06-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AdVenture Capitalist IPA is an Unlimited Gold iOS mobile application that offers an innovative way to invest. Originally developed as a ",
+     "downloadURL": "https://file.ipaomtk.com/adventure-capitalist/AdVenture-Capitalist-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "9.28.0",
+     "date": "2023-06-05T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | AdVenture Capitalist IPA is an Unlimited Gold iOS mobile application that offers an innovative way to invest. Originally developed as a ",
+     "downloadURL": "https://file.ipaomtk.com/adventure-capitalist/AdVenture-Capitalist-IPAOMTK.COM.ipa",
+     "size": 149642202
+    }
+   ]
+  }
+ ]
+}

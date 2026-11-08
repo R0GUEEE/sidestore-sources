@@ -1,0 +1,30 @@
+{
+ "name": "Snow",
+ "identifier": "dev.perapp.com-campmobile-snow",
+ "subtitle": "Snow",
+ "description": "Single-app source for Snow (com.campmobile.snow). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.campmobile.snow",
+   "name": "Snow",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with VIP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.0.20",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with VIP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Snow_14.0.20_VIP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 123700975
+    }
+   ]
+  }
+ ]
+}

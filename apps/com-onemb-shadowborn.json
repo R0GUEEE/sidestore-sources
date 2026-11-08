@@ -1,0 +1,37 @@
+{
+ "name": "Shadowborn",
+ "identifier": "dev.perapp.com-onemb-shadowborn",
+ "subtitle": "ipaomtk.com | Shadowborn IPA is an immersive and visually captivating game available​ on‍ iOS devices. combining strateg",
+ "description": "Single-app source for Shadowborn (com.onemb.shadowborn). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Shadowborn-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.onemb.shadowborn",
+   "name": "Shadowborn",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Shadowborn IPA is an immersive and visually captivating game available​ on‍ iOS devices. combining strategic gameplay with dark ⁤fantasy",
+   "localizedDescription": "ipaomtk.com | Shadowborn IPA is an immersive and visually captivating game available​ on‍ iOS devices. combining strategic gameplay with dark ⁤fantasy",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Shadowborn-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-09-14T00:00:00Z",
+     "localizedDescription": "@kamohacks | Shadowborn 🆕  🔩Hack Features🔩  ✅Debug Menu → access advanced game controls and settings  ✅Never Die → survive any encounter without defea",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16566-Shadowborn%20-%20KamoHacks%20%5B1.0.2%5D.ipa",
+     "size": 1108443674
+    },
+    {
+     "version": "0.6.1",
+     "date": "2025-07-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Shadowborn IPA is an immersive and visually captivating game available​ on‍ iOS devices. combining strategic gameplay with dark ⁤fantasy",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Shadowborn_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

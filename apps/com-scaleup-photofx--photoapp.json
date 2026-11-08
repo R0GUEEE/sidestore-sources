@@ -1,0 +1,37 @@
+{
+ "name": "PhotoApp",
+ "identifier": "dev.perapp.com-scaleup-photofx",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for PhotoApp (com.scaleup.photofx). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scaleup.photofx",
+   "name": "PhotoApp",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.9",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-08-2025/PhotoApp_2.7.9_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 491971766
+    },
+    {
+     "version": "2.7.7",
+     "date": "2024-07-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | PhotoApp AI Photo Enhancer IPA MOD is a cutting-edge application that leverages advanced machine learning algorithms to analyze and enha",
+     "downloadURL": "https://file.ipaomtk.com/ipa/photoapp-ai-photo-enhancer.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

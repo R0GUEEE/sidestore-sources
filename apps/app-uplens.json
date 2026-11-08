@@ -1,0 +1,44 @@
+{
+ "name": "Uplens",
+ "identifier": "dev.perapp.app-uplens",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Uplens (app.uplens). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.uplens",
+   "name": "Uplens",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@blatants | Uplens: Photo & Video Editor  • Bundle ID: app.uplens • Updated to: 4.4.0 • Minimum iOS: 15.0 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Uplens_4.4.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 178715846
+    },
+    {
+     "version": "4.3.2",
+     "date": "2026-10-10T00:00:00Z",
+     "localizedDescription": "@blatants | Uplens: Photo & Video Editor  • Bundle ID: app.uplens • Updated to: 4.3.2 • Minimum iOS: 15.0 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12720-Uplens_Photo_&_Video_Editor_v4_3_2_Subscription_Unlocked_blatant.ipa",
+     "size": 177563121
+    },
+    {
+     "version": "4.3.1",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "@blatants | Uplens: Photo & Video Editor  • Bundle ID: app.uplens • Updated to: 4.3.1 • Minimum iOS: 15.0 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12531-Uplens_Photo_&_Video_Editor_v4_3_1_Subscription_Unlocked_blatant.ipa",
+     "size": 178022338
+    }
+   ]
+  }
+ ]
+}

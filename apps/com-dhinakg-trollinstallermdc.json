@@ -1,0 +1,37 @@
+{
+ "name": "TrollInstallerMDC",
+ "identifier": "dev.perapp.com-dhinakg-trollinstallermdc",
+ "subtitle": "Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refe",
+ "description": "Single-app source for TrollInstallerMDC (com.dhinakg.trollinstallermdc). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dhinakg.trollinstallermdc.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dhinakg.trollinstallermdc",
+   "name": "TrollInstallerMDC",
+   "developerName": "ramblings",
+   "subtitle": "Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refer to the Installing TrollStore",
+   "localizedDescription": "Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refer to the Installing TrollStore",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dhinakg.trollinstallermdc.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refer to the Installing TrollStore",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollInstallerMDC/TrollInstallerMDC-1.0.5.ipa",
+     "size": 224603
+    },
+    {
+     "version": "1.0.4",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Install TrollStore 2 on your device using MacDirtyCow, compatible with iOS versions iOS 15 - iOS 15.7.1/iOS 16.1.2. Refer to the Installing TrollStore",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollInstallerMDC/TrollInstallerMDC-1.0.4.ipa",
+     "size": 228202
+    }
+   ]
+  }
+ ]
+}

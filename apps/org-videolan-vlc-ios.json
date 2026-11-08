@@ -1,0 +1,30 @@
+{
+ "name": "VLC",
+ "identifier": "dev.perapp.org-videolan-vlc-ios",
+ "subtitle": "Official release build",
+ "description": "Single-app source for VLC (org.videolan.vlc-ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.videolan.vlc-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.videolan.vlc-ios",
+   "name": "VLC",
+   "developerName": "videolan",
+   "subtitle": "Official release build",
+   "localizedDescription": "Official release build\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.videolan.vlc-ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6.4",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Official release build",
+     "downloadURL": "https://download.videolan.org/pub/videolan/vlc-iOS/3.6.4/VLC-iOS.ipa",
+     "size": 91516398
+    }
+   ]
+  }
+ ]
+}

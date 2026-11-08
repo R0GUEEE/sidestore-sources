@@ -1,0 +1,37 @@
+{
+ "name": "Mangu",
+ "identifier": "dev.perapp.com-matlubapps-mangutranslate",
+ "subtitle": "ipaomtk.com | What is Manga Translator AI: Mangu IPA? Manga Translator AI: Mangu IPA is an iOS utility app that allows i",
+ "description": "Single-app source for Mangu (com.matlubapps.mangutranslate). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Manga-Translator-AI-Mangu-IPA-v2.4-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.matlubapps.mangutranslate",
+   "name": "Mangu",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Manga Translator AI: Mangu IPA? Manga Translator AI: Mangu IPA is an iOS utility app that allows iPhone users to translate manga",
+   "localizedDescription": "ipaomtk.com | What is Manga Translator AI: Mangu IPA? Manga Translator AI: Mangu IPA is an iOS utility app that allows iPhone users to translate manga",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Manga-Translator-AI-Mangu-IPA-v2.4-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3",
+     "date": "2026-04-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Manga Translator AI: Mangu IPA? Manga Translator AI: Mangu IPA is an iOS utility app that allows iPhone users to translate manga",
+     "downloadURL": "https://file.ipaomtk.com/manga-translator-ai-mangu/Mangu-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "5.3",
+     "date": "2026-04-05T00:00:00Z",
+     "localizedDescription": "Tweaks: 26Pro\n\nipaomtk.com | What is Manga Translator AI: Mangu IPA? Manga Translator AI: Mangu IPA is an iOS utility app that allows iPhone users to translate manga",
+     "downloadURL": "https://file.ipaomtk.com/manga-translator-ai-mangu/Mangu-IPAOMTK.COM.ipa",
+     "size": 63327401
+    }
+   ]
+  }
+ ]
+}

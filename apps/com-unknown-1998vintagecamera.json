@@ -1,0 +1,30 @@
+{
+ "name": "1998 Vintage Camera",
+ "identifier": "dev.perapp.com-unknown-1998vintagecamera",
+ "subtitle": "چرکاندنی وێنەی جوان و کۆن هەر وەک ساڵی شەستەکان",
+ "description": "Single-app source for 1998 Vintage Camera (com.unknown.1998vintagecamera). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/1998.Cam.-.Vintage.Camera.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.1998vintagecamera",
+   "name": "1998 Vintage Camera",
+   "developerName": "Karbin-Store",
+   "subtitle": "چرکاندنی وێنەی جوان و کۆن هەر وەک ساڵی شەستەکان",
+   "localizedDescription": "چرکاندنی وێنەی جوان و کۆن هەر وەک ساڵی شەستەکان",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/1998.Cam.-.Vintage.Camera.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.2",
+     "date": "2026-03-13T00:00:00Z",
+     "localizedDescription": "چرکاندنی وێنەی جوان و کۆن هەر وەک ساڵی شەستەکان",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/1998Cam2.0.2.ipa",
+     "size": 85660000
+    }
+   ]
+  }
+ ]
+}

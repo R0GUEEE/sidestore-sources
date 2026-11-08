@@ -1,0 +1,30 @@
+{
+ "name": "Unzip",
+ "identifier": "dev.perapp.com-cuilingshi-fileextract",
+ "subtitle": "Unzip",
+ "description": "Single-app source for Unzip (com.cuilingshi.fileextract). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cuilingshi.fileextract",
+   "name": "Unzip",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Unzip_6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 54832963
+    }
+   ]
+  }
+ ]
+}

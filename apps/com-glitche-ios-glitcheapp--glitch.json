@@ -1,0 +1,44 @@
+{
+ "name": "Glitché",
+ "identifier": "dev.perapp.com-glitche-ios-glitcheapp",
+ "subtitle": "@ipa_dark | 🔄 Glitche: редактор фото и видео - appstore  🇷🇺 Редактор фото и видео с художественными эффектами, фильтрами",
+ "description": "Single-app source for Glitché (com.glitche.ios.glitcheapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1608.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.glitche.ios.glitcheapp",
+   "name": "Glitché",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Glitche: редактор фото и видео - appstore  🇷🇺 Редактор фото и видео с художественными эффектами, фильтрами и инструментами для создания ",
+   "localizedDescription": "@ipa_dark | 🔄 Glitche: редактор фото и видео - appstore  🇷🇺 Редактор фото и видео с художественными эффектами, фильтрами и инструментами для создания ",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1608.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.04",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Glitché: AI Photo Video Editor 🧸 Min.iOS: [13.6+] 🧀 App version: [3.04] !upd  🪼 App Store: https://apps.apple.com/app/id634467171 📮 Notes",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/12204-Glitche%CC%81_3.04.ipa",
+     "size": 209762517
+    },
+    {
+     "version": "3.02",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Glitche: редактор фото и видео - appstore  🇷🇺 Редактор фото и видео с художественными эффектами, фильтрами и инструментами для создания ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1608-Glitche%20PRO%20%5Bv3.02%5D%28tg@ipa_dark%29.ipa",
+     "size": 166015316
+    },
+    {
+     "version": "2.75",
+     "date": "2025-09-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | A Next-Level Creative Tool Glitché AI Photo Video Editor IPA is more than just a standard editing app — it’s a creative platform that tr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Glitch%C3%A9_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

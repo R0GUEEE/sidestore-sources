@@ -1,0 +1,37 @@
+{
+ "name": "BRIM",
+ "identifier": "dev.perapp.com-sybogames-brim",
+ "subtitle": "ipaomtk.com | Blades of Brim IPA iOS is an exciting and action-packed game that has taken the gaming world by storm. Wit",
+ "description": "Single-app source for BRIM (com.sybogames.brim). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/blades-of-brim-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sybogames.brim",
+   "name": "BRIM",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Blades of Brim IPA iOS is an exciting and action-packed game that has taken the gaming world by storm. With its stunning graphics, immer",
+   "localizedDescription": "ipaomtk.com | Blades of Brim IPA iOS is an exciting and action-packed game that has taken the gaming world by storm. With its stunning graphics, immer",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/blades-of-brim-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.22.36",
+     "date": "2023-03-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Blades of Brim IPA iOS is an exciting and action-packed game that has taken the gaming world by storm. With its stunning graphics, immer",
+     "downloadURL": "https://file.ipaomtk.com/blades-of-brim-ipa/Blades-of-Brim-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.22.44",
+     "date": "2023-03-05T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Blades of Brim IPA iOS is an exciting and action-packed game that has taken the gaming world by storm. With its stunning graphics, immer",
+     "downloadURL": "https://file.ipaomtk.com/blades-of-brim-ipa/Blades-of-Brim-IPAOMTK.COM.ipa",
+     "size": 185691652
+    }
+   ]
+  }
+ ]
+}

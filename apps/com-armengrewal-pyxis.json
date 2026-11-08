@@ -1,0 +1,30 @@
+{
+ "name": "Pyxis",
+ "identifier": "dev.perapp.com-armengrewal-pyxis",
+ "subtitle": "Pyxis",
+ "description": "Single-app source for Pyxis (com.armengrewal.Pyxis). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.armengrewal.Pyxis",
+   "name": "Pyxis",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.armengrewal.Pyxis.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1",
+     "date": "2025-11-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Pyxis_3.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 49278519
+    }
+   ]
+  }
+ ]
+}

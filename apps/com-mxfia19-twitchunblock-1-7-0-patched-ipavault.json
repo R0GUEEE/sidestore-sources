@@ -1,0 +1,30 @@
+{
+ "name": "iOS ONLY!! TwitchUnblock (v1.7.0 - Patched) - IPAVault",
+ "identifier": "dev.perapp.com-mxfia19-twitchunblock-1-7-0-patched-ipavault",
+ "subtitle": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full ",
+ "description": "Single-app source for iOS ONLY!! TwitchUnblock (v1.7.0 - Patched) - IPAVault (com.mxfia19.twitchunblock.1.7.0.patched.ipavault). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/TwitchUnblock-Icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mxfia19.twitchunblock.1.7.0.patched.ipavault",
+   "name": "iOS ONLY!! TwitchUnblock (v1.7.0 - Patched) - IPAVault",
+   "developerName": "MXFia19",
+   "subtitle": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this m",
+   "localizedDescription": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this m\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/TwitchUnblock-Icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this m",
+     "downloadURL": "https://repo.ballermc.com/tubevault/TwitchUnblock%201.7.0.ipa",
+     "size": 4735400
+    }
+   ]
+  }
+ ]
+}

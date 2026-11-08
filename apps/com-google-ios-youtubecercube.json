@@ -1,0 +1,50 @@
+{
+ "name": "CercubePlus (Cercube+)",
+ "identifier": "dev.perapp.com-google-ios-youtubecercube",
+ "subtitle": "Cercube with extra features! Requires iOS 14.0 and later.",
+ "description": "Single-app source for CercubePlus (Cercube+) (com.google.ios.youtubecercube). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "e22a41",
+ "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtubecercube",
+   "name": "CercubePlus (Cercube+)",
+   "developerName": "Alfhaily & Qn_",
+   "subtitle": "Cercube with extra features! Requires iOS 14.0 and later.",
+   "localizedDescription": "Unfortunately, AltStore can not handle two applications that have the same bundle ID (uYou+ and Cercube+). I have no other choice except to modify CercubePlus's bundle ID. As a result, you won't be able to install CercubePlus directly through AltStore. You still can download the IPA like normal though.\n\nCredits: Please keep the Credits if you re-up CercubePlus! \n- https://github.com/qnblackcat/CercubePlus#credits\n\nFull infomation about CercubePlus (Cercube+) is available on my Github: https://github.com/qnblackcat/CercubePlus/\n\n",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/youtube-512.png",
+   "tintColor": "e22a41",
+   "screenshots": [
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1521.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1522.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2394.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_1523.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/My-AltStore-repo/main/ScreenShot/IMG_2395.PNG"
+   ],
+   "versions": [
+    {
+     "version": "17.43.1",
+     "date": "2022-11-06T16:00:00-01:00Z",
+     "localizedDescription": "v17.43.1 (5.3.11): The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases/latest",
+     "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.43.1-5.3.11/CercubePlus_17.43.1_5.3.11.ipa",
+     "size": 101187584
+    },
+    {
+     "version": "17.42.7",
+     "date": "2022-10-28T16:00:00-01:00Z",
+     "localizedDescription": "v17.42.7 (5.3.11): The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases/latest",
+     "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.42.7-5.3.11/CercubePlus_17.42.7_5.3.11.ipa",
+     "size": 101187584
+    },
+    {
+     "version": "17.41.2",
+     "date": "2022-10-18T16:00:00-01:00Z",
+     "localizedDescription": "v17.41.2 (5.3.11): The changelog can be found at\nhttps://github.com/qnblackcat/CercubePlus/releases/latest",
+     "downloadURL": "https://github.com/qnblackcat/CercubePlus/releases/download/v17.41.2-5.3.11/CercubePlus_17.41.2_5.3.11.ipa",
+     "size": 101187584
+    }
+   ]
+  }
+ ]
+}

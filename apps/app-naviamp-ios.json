@@ -1,0 +1,40 @@
+{
+ "name": "Naviamp",
+ "identifier": "dev.perapp.app-naviamp-ios",
+ "subtitle": "Windows, Mac, Linux, Android and Android TV player for Navidrome",
+ "description": "Single-app source for Naviamp (app.naviamp.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#037ecf",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.naviamp.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.naviamp.ios",
+   "name": "Naviamp",
+   "developerName": "goosepod",
+   "subtitle": "Windows, Mac, Linux, Android and Android TV player for Navidrome",
+   "localizedDescription": "Naviamp:\n\nYour music stays with the server you choose. Naviamp brings the player.\n\nNaviamp is an independent third-party client and is not affiliated with or endorsed by the Navidrome project.\n\nGet Naviamp:\n\nDownload for macOS from the Mac App Store or for Windows from the Microsoft Store.\n\nBeta builds are available through TestFlight for macOS and iOS.\n\nand share feedback.\n\nNaviamp is available through a closed Android Alpha on Google Play. To join:\n\n• Join the Naviamp testers Google Group.\n• Open the Android Alpha opt-in page and select Become a tester.\n• Install Naviamp from Google Play.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.naviamp.ios.png",
+   "tintColor": "#037ecf",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/goosepod/naviamp@main/readme-assets/screenshots/compact-now-playing.png",
+    "https://cdn.jsdelivr.net/gh/goosepod/naviamp@main/readme-assets/screenshots/mobile-queue.png",
+    "https://cdn.jsdelivr.net/gh/goosepod/naviamp@main/readme-assets/screenshots/playlists.png",
+    "https://cdn.jsdelivr.net/gh/goosepod/naviamp@main/readme-assets/screenshots/library-artists.png",
+    "https://cdn.jsdelivr.net/gh/goosepod/naviamp@main/readme-assets/screenshots/search.png"
+   ],
+   "versions": [
+    {
+     "version": "2.10.0",
+     "date": "2026-11-02T17:39:01Z",
+     "localizedDescription": "Naviamp v2.10.0:\n\nNaviamp 2.10.0 adds dedicated Aurral connections with native music discovery, sample playback and library requests, and completes certificate-protected server connections across Android, iOS, Windows, macOS and Linux. Artist pages, smart playlists, Library search and playback recovery receive improvements throughout the shared application.\n\nHighlights:\n\n• Discover recommended and trending artists on Aurral, listen to samples, and request tracks or albums with your account's permissions.\n• Import client certificates and private server authorities, then browse and play uncached music through the authenticated connection on every platform.\n\nUpgrade notes:\n\n• Upgrade other devices to v2.10.0 or later before syncing settings that select one of the newly available interface languages.",
+     "downloadURL": "https://github.com/goosepod/naviamp/releases/download/v2.10.0/Naviamp-v2.10.0-ios-unsigned.ipa",
+     "size": 20000625
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

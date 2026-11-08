@@ -1,0 +1,30 @@
+{
+ "name": "Village Tales",
+ "identifier": "dev.perapp.com-city-urbi",
+ "subtitle": "ipaomtk.com | Village Tales is v0.2.2 a vibrant farming and village-building simulation game that lets players create th",
+ "description": "Single-app source for Village Tales (com.city.urbi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/Village-Tales-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.city.urbi",
+   "name": "Village Tales",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Village Tales is v0.2.2 a vibrant farming and village-building simulation game that lets players create their own thriving community fro",
+   "localizedDescription": "ipaomtk.com | Village Tales is v0.2.2 a vibrant farming and village-building simulation game that lets players create their own thriving community fro",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/Village-Tales-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.3",
+     "date": "2025-08-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Village Tales is v0.2.2 a vibrant farming and village-building simulation game that lets players create their own thriving community fro",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Village_Tales_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

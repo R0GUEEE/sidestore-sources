@@ -1,0 +1,36 @@
+{
+ "name": "MeleePad",
+ "identifier": "dev.perapp.com-meleepad-meleepad",
+ "subtitle": "Super Smash Bros Melee, native on iOS and iPadOS",
+ "description": "Single-app source for MeleePad (com.meleepad.MeleePad). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6567bf",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.meleepad.MeleePad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.meleepad.MeleePad",
+   "name": "MeleePad",
+   "developerName": "chrissotraidis",
+   "subtitle": "Super Smash Bros Melee, native on iOS and iPadOS",
+   "localizedDescription": "MeleePad:\n\nSuper Smash Bros. Melee on iPhone, iPad, and Apple Silicon Mac.\n\nBuild a native Apple app from your own supported copy of Melee, with touch controls, physical-controller support, Metal rendering, and Slippi online play on iPhone and iPad. Game code is compiled ahead of time, so no JIT is required on iOS or iPadOS.\n\nBuilt with ModernGekko, DolRecomp, and the RecompCore / Dolphin runtime, with Apple integration based on SunPad. See credits and maintained sources.\n\n**Build and setup · Slippi profile setup ·.\n\nmakes the game part on your Mac from your own disc and adds it. See Get MeleePad.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.meleepad.MeleePad.png",
+   "tintColor": "#6567bf",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.0",
+     "date": "2026-11-01T03:50:45Z",
+     "localizedDescription": "On Windows 11 (x64 or ARM64), with PadMint 0.5.27 or newer: install Visual Studio 2022 Build Tools with Desktop development with C++, then choose MeleePad in PadMint. PadMint downloads MeleePad-v0.3.0-ios-unsigned.ipa from this release. That app contains none of the game's code; PadMint builds the game module from your file on your PC and adds it, and nothing of yours is uploaded. Then install the IPA with Sideloadly as usual.\n\nOn a Mac nothing changes: the recipe keeps the existing Mac build.\n\nNot tested yet: a copy built on Windows has not been installed and played on an iPhone or iPad. Treat the Windows route as experimental until it has.\n\nRelease checks: MeleePad-v0.3.0-ios-unsigned.ipa and the recipe pass PadMint's content audit and the private release gate, and PadMint's player check, which uses Apple's Python and an empty PadMint folder, built the Mac route from the release checkout.\n\nAfter publishing: on Windows 11 ARM64, PadMint 0.5.27's own make meleepad ios built this release from the disc image in 3,863 seconds, downloading the recipe and shell and adding the module. PadMint's player check also built the Mac route again from the published release.",
+     "downloadURL": "https://github.com/chrissotraidis/meleepad/releases/download/v0.3.0/MeleePad-v0.3.0-ios-unsigned.ipa",
+     "size": 15740589
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "MeleePad uses your local network to host or join a game with friends."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "ScannerProPlus",
+ "identifier": "dev.perapp.com-readdle-scanner",
+ "subtitle": "ScannerProPlus by Manpreet Singh @thisismanpreets",
+ "description": "Single-app source for ScannerProPlus (com.readdle.Scanner). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.Scanner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.readdle.Scanner",
+   "name": "ScannerProPlus",
+   "developerName": "Manpreet Singh @thisismanpreets",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.Scanner.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.20.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ScannerProPlus/ScannerProPlus-8.20.0.ipa",
+     "size": 121382722
+    },
+    {
+     "version": "8.22.1",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Injected with Plus. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ScannerProPlus/ScannerProPlus-8.22.1.ipa",
+     "size": 181076109
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Guru Maps Pro-IPAOMTK.COM",
+ "identifier": "dev.perapp.com-bodunov-galileopro",
+ "subtitle": "ipaomtk.com | Guru Maps IPA v5.7.0 is a powerful and easy-to-use GPS route planner and navigation app for iOS devices. I",
+ "description": "Single-app source for Guru Maps Pro-IPAOMTK.COM (com.bodunov.GalileoPro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/Guru-Maps-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bodunov.GalileoPro",
+   "name": "Guru Maps Pro-IPAOMTK.COM",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Guru Maps IPA v5.7.0 is a powerful and easy-to-use GPS route planner and navigation app for iOS devices. Its features make it one of the",
+   "localizedDescription": "ipaomtk.com | Guru Maps IPA v5.7.0 is a powerful and easy-to-use GPS route planner and navigation app for iOS devices. Its features make it one of the",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/Guru-Maps-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.7.0",
+     "date": "2023-05-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Guru Maps IPA v5.7.0 is a powerful and easy-to-use GPS route planner and navigation app for iOS devices. Its features make it one of the",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Guru-Maps.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

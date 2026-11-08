@@ -1,0 +1,44 @@
+{
+ "name": "Nyxian",
+ "identifier": "dev.perapp.org-emexlabs-nyxian",
+ "subtitle": "scholars lounge | Nyxian version: 0.11.1 (Beta) Bundle ID: org.emexlabs.nyxian App by emexLabs  IDE to develop native co",
+ "description": "Single-app source for Nyxian (org.emexlabs.nyxian). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/70200.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.emexlabs.nyxian",
+   "name": "Nyxian",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | Nyxian version: 0.11.1 (Beta) Bundle ID: org.emexlabs.nyxian App by emexLabs  IDE to develop native code iOS apps on unjailbroken iO",
+   "localizedDescription": "scholars lounge | Nyxian version: 0.11.1 (Beta) Bundle ID: org.emexlabs.nyxian App by emexLabs  IDE to develop native code iOS apps on unjailbroken iO",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/70200.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.4",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "scholars lounge | Nyxian version: 0.11.4 (Beta) Bundle ID: org.emexlabs.nyxian App by emexlab  IDE to develop native code iOS apps on unjailbroken iOS",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/73977-Nyxian.ipa",
+     "size": 111250101
+    },
+    {
+     "version": "0.11.3.1",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "scholars lounge | Nyxian version: 0.11.3​.1 (Beta) Bundle ID: org.emexlabs.nyxian App by emexLabs  IDE to develop native code iOS apps on unjailbroken",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/72021-Nyxian.ipa",
+     "size": 105810643
+    },
+    {
+     "version": "0.11.3",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "scholars lounge | Nyxian version: 0.11.3 (Beta) Bundle ID: org.emexlabs.nyxian App by emexLabs  IDE to develop native code iOS apps on unjailbroken iO",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/72014-Nyxian.ipa",
+     "size": 105809283
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "BusEscapeTrafficJam",
+ "identifier": "dev.perapp.com-abi-busjam-sortpuzzle",
+ "subtitle": "Tweaks: riftysbusescape",
+ "description": "Single-app source for BusEscapeTrafficJam (com.abi.busjam.sortpuzzle). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abi.busjam.sortpuzzle.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.abi.busjam.sortpuzzle",
+   "name": "BusEscapeTrafficJam",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: riftysbusescape",
+   "localizedDescription": "Tweaks: riftysbusescape\n\nChức năng đã thêm: noads - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abi.busjam.sortpuzzle.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.53",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: riftysbusescape\n\nChức năng đã thêm: noads - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/BusEscapeTrafficJam_1.9.53_noads_@thisismanpreets_apptesters.org.ipa",
+     "size": 144365699
+    }
+   ]
+  }
+ ]
+}

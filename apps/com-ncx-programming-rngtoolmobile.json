@@ -1,0 +1,30 @@
+{
+ "name": "RNGTool",
+ "identifier": "dev.perapp.com-ncx-programming-rngtoolmobile",
+ "subtitle": "RNGTool is the best and easiest way to generate random numbers, roll some dice, draw some cards, and select random lette",
+ "description": "Single-app source for RNGTool (com.NCX-Programming.RNGToolMobile). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.NCX-Programming.RNGToolMobile",
+   "name": "RNGTool",
+   "developerName": "NCX Programming",
+   "subtitle": "RNGTool is the best and easiest way to generate random numbers, roll some dice, draw some cards, and select random letters, right from your iPhone (or",
+   "localizedDescription": "RNGTool is the best and easiest way to generate random numbers, roll some dice, draw some cards, and select random letters, right from your iPhone (or",
+   "iconURL": "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.0",
+     "date": "2026-04-01T00:00:00Z",
+     "localizedDescription": "RNGTool is the best and easiest way to generate random numbers, roll some dice, draw some cards, and select random letters, right from your iPhone (or",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.NCX-Programming.RNGToolMobile/app.ipa",
+     "size": 3563495
+    }
+   ]
+  }
+ ]
+}

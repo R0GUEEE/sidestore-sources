@@ -1,0 +1,30 @@
+{
+ "name": "Blurrr",
+ "identifier": "dev.perapp.com-pinguo-msgaries",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Blurrr (com.pinguo.msgAries). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pinguo.msgAries.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pinguo.msgAries",
+   "name": "Blurrr",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pinguo.msgAries.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.56",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/Blurrr_2.3.56_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 294925390
+    }
+   ]
+  }
+ ]
+}

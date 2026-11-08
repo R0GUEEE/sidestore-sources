@@ -1,0 +1,30 @@
+{
+ "name": "RenovateAi",
+ "identifier": "dev.perapp.app-renovateai",
+ "subtitle": "RenovateAi",
+ "description": "Single-app source for RenovateAi (app.renovateai). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.renovateai",
+   "name": "RenovateAi",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.38",
+     "date": "2025-02-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/RenovateAi_4.4.38_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 52872130
+    }
+   ]
+  }
+ ]
+}

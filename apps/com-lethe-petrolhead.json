@@ -1,0 +1,30 @@
+{
+ "name": "PetrolHead",
+ "identifier": "dev.perapp.com-lethe-petrolhead",
+ "subtitle": "ipaomtk.com | Today we are reviewing the petrolHead Street Racing IPA, a unique and innovative racing game, available fo",
+ "description": "Single-app source for PetrolHead (com.lethe.petrolhead). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/PetrolHead-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lethe.petrolhead",
+   "name": "PetrolHead",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Today we are reviewing the petrolHead Street Racing IPA, a unique and innovative racing game, available for iPhone and iPad.This game pr",
+   "localizedDescription": "ipaomtk.com | Today we are reviewing the petrolHead Street Racing IPA, a unique and innovative racing game, available for iPhone and iPad.This game pr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/PetrolHead-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.5.0",
+     "date": "2023-06-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Today we are reviewing the petrolHead Street Racing IPA, a unique and innovative racing game, available for iPhone and iPad.This game pr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PetrolHead_6.5.0-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

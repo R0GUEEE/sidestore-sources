@@ -1,0 +1,30 @@
+{
+ "name": "Block Blast+",
+ "identifier": "dev.perapp.com-arcade-block-blast",
+ "subtitle": "@ipa_dark | 🔄 Block Blast!+ - appstore  🇷🇺 Казуальная головоломка, в которой нужно размещать блоки на игровом поле, запо",
+ "description": "Single-app source for Block Blast+ (com.arcade.block.blast). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1712.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.arcade.block.blast",
+   "name": "Block Blast+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Block Blast!+ - appstore  🇷🇺 Казуальная головоломка, в которой нужно размещать блоки на игровом поле, заполнять линии и набирать очки, п",
+   "localizedDescription": "@ipa_dark | 🔄 Block Blast!+ - appstore  🇷🇺 Казуальная головоломка, в которой нужно размещать блоки на игровом поле, заполнять линии и набирать очки, п\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1712.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-09-13T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Block Blast!+ - appstore  🇷🇺 Казуальная головоломка, в которой нужно размещать блоки на игровом поле, заполнять линии и набирать очки, п",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1712-Block%20Blast%21+%20%5Bv1.0.2%5D%28tg@ipa_dark%29.ipa",
+     "size": 232933320
+    }
+   ]
+  }
+ ]
+}

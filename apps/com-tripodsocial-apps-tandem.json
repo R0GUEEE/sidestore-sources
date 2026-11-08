@@ -1,0 +1,44 @@
+{
+ "name": "Tandem",
+ "identifier": "dev.perapp.com-tripodsocial-apps-tandem",
+ "subtitle": "@ipa_dark | 🔄 Tandem: языковая практика - appstore  🇷🇺 Платформа для изучения иностранных языков через общение с носител",
+ "description": "Single-app source for Tandem (com.tripodsocial.apps.tandem). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1656.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tripodsocial.apps.tandem",
+   "name": "Tandem",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Tandem: языковая практика - appstore  🇷🇺 Платформа для изучения иностранных языков через общение с носителями и другими учащимися. Подде",
+   "localizedDescription": "@ipa_dark | 🔄 Tandem: языковая практика - appstore  🇷🇺 Платформа для изучения иностранных языков через общение с носителями и другими учащимися. Подде",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1656.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.27.0",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Tandem: языковая практика - appstore  🇷🇺 Платформа для изучения иностранных языков через общение с носителями и другими учащимися. Подде",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1839-Tandem%20PRO%20%5Bv7.27.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 188451494
+    },
+    {
+     "version": "7.25.0",
+     "date": "2026-09-22T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Tandem: языковая практика - appstore  🇷🇺 Платформа для изучения иностранных языков через общение с носителями и другими учащимися. Подде",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1734-Tandem%20PRO%20%5Bv7.25.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 189418725
+    },
+    {
+     "version": "7.23.1",
+     "date": "2026-08-19T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Tandem: языковая практика - appstore  🇷🇺 Платформа для изучения иностранных языков через общение с носителями и другими учащимися. Подде",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1656-Tandem%20PRO%20%5Bv7.23.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 208448419
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Fitia",
+ "identifier": "dev.perapp.com-ulisesolave-fitia",
+ "subtitle": "Fitia",
+ "description": "Single-app source for Fitia (com.ulisesolave.Fitia). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ulisesolave.Fitia",
+   "name": "Fitia",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.2.6",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Fitia_25.2.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 122881213
+    }
+   ]
+  }
+ ]
+}

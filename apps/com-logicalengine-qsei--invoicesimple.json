@@ -1,0 +1,44 @@
+{
+ "name": "InvoiceSimple",
+ "identifier": "dev.perapp.com-logicalengine-qsei",
+ "subtitle": "InvoiceSimple",
+ "description": "Single-app source for InvoiceSimple (com.logicalengine.qsei). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.logicalengine.qsei.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.logicalengine.qsei",
+   "name": "InvoiceSimple",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.logicalengine.qsei.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.10.0",
+     "date": "2026-08-13T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2162",
+     "size": 100347074
+    },
+    {
+     "version": "5.9.4",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/InvoiceSimple_5.9.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 68578740
+    },
+    {
+     "version": "5.4.1",
+     "date": "2025-10-22T00:00:00Z",
+     "localizedDescription": "https://t.me/JacksonThinkingProApps",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/324",
+     "size": 64053900
+    }
+   ]
+  }
+ ]
+}

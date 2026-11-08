@@ -1,0 +1,44 @@
+{
+ "name": "NoteAI",
+ "identifier": "dev.perapp.com-hubx-noteai",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for NoteAI (com.hubx.noteai). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.noteai.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hubx.noteai",
+   "name": "NoteAI",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.noteai.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2026/NoteAI_1.2.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 43377955
+    },
+    {
+     "version": "1.0.37",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-01-2026/NoteAI_1.0.37_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 43340792
+    },
+    {
+     "version": "1.0.36",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-01-2026/NoteAI_1.0.36_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 43334426
+    }
+   ]
+  }
+ ]
+}

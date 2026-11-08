@@ -1,0 +1,30 @@
+{
+ "name": "nds4ios",
+ "identifier": "dev.perapp.org-infinidev-nds4ios",
+ "subtitle": "ipaomtk.com | NDS4iOS IPA is an emulator that has long since granted users the ability to play Nintendo DS games on vari",
+ "description": "Single-app source for nds4ios (org.infinidev.nds4ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/icon-2-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.infinidev.nds4ios",
+   "name": "nds4ios",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | NDS4iOS IPA is an emulator that has long since granted users the ability to play Nintendo DS games on various Apple devices, including i",
+   "localizedDescription": "ipaomtk.com | NDS4iOS IPA is an emulator that has long since granted users the ability to play Nintendo DS games on various Apple devices, including i",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/icon-2-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2023-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | NDS4iOS IPA is an emulator that has long since granted users the ability to play Nintendo DS games on various Apple devices, including i",
+     "downloadURL": "https://file.ipaomtk.com/ipa/NDS4iOS.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

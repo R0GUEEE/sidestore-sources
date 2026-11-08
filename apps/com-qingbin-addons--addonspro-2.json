@@ -1,0 +1,37 @@
+{
+ "name": "AddonsPro",
+ "identifier": "dev.perapp.com-qingbin-addons",
+ "subtitle": "AddonsPro by Paisseon",
+ "description": "Single-app source for AddonsPro (com.qingbin.Addons). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.qingbin.Addons.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.qingbin.Addons",
+   "name": "AddonsPro",
+   "developerName": "Paisseon",
+   "subtitle": "",
+   "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.qingbin.Addons.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.6.ipa",
+     "size": 29020552
+    },
+    {
+     "version": "3.8",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and much more. A user requested it so here it is. Note: Install the TrollStore version, activate the Pro version and then re-install the app from the App Store over it. + app seems to gathers a lot of data.. Consider this before deciding to use it.\nLast updated: 07-11-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.8.ipa",
+     "size": 29133138
+    }
+   ]
+  }
+ ]
+}

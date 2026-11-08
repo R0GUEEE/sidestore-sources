@@ -1,0 +1,37 @@
+{
+ "name": "AllMyBatteries",
+ "identifier": "dev.perapp.com-lagagggggg-mybatteries",
+ "subtitle": "AllMyBatteries",
+ "description": "Single-app source for AllMyBatteries (com.lagagggggg.MyBatteries). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/cfb312f1-f78d-4e6c-809c-38263598d842/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lagagggggg.MyBatteries",
+   "name": "AllMyBatteries",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAllMyBatteries - Track Battery\n\nSatella was added to buy Ultimate.\n\nPress buy Ultimate then cancel if you get the popup to buy it\n\n⚠️ only works with Trollstore\n\nMinimum OS version 14.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/cfb312f1-f78d-4e6c-809c-38263598d842/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAllMyBatteries - Track Battery\n\nSatella was added to buy Ultimate.\n\nPress buy Ultimate then cancel if you get the popup to buy it\n\n⚠️ only works with Trollstore\n\nMinimum OS version 14.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/3af60409-9b3c-4967-9911-dd1980d7c58b/AllMyBatteries_IAP_2.3.3.ipa",
+     "size": 22133698
+    },
+    {
+     "version": "2.3.2",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAllMyBatteries - Track Battery\n\nSatella was added to buy Ultimate.\n\nPress buy Ultimate then cancel if you get the popup to buy it\n\n⚠️ only works with Trollstore\n\nminimum OS version 14.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c1ba6e8c-6d93-438b-ba0b-fb34c24794ac/AllMyBatteries_IAP_2.3.2.ipa",
+     "size": 34245814
+    }
+   ]
+  }
+ ]
+}

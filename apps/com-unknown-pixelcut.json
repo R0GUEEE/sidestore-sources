@@ -1,0 +1,30 @@
+{
+ "name": "Pixelcut",
+ "identifier": "dev.perapp.com-unknown-pixelcut",
+ "subtitle": "مۆنتاژکەری وێنە و گرافیک دیزاینەری Pixelcut یارمەتیت دەدات لە دروستکردنی وێنەی سەرسوڕهێنەر لە چەند چرکەیەکدا. دەستکاریکە",
+ "description": "Single-app source for Pixelcut (com.unknown.pixelcut). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Pixelcut.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.pixelcut",
+   "name": "Pixelcut",
+   "developerName": "Karbin-Store",
+   "subtitle": "مۆنتاژکەری وێنە و گرافیک دیزاینەری Pixelcut یارمەتیت دەدات لە دروستکردنی وێنەی سەرسوڕهێنەر لە چەند چرکەیەکدا. دەستکاریکەرێکی گشتگیر کە زیرەکی دەستکرد ",
+   "localizedDescription": "مۆنتاژکەری وێنە و گرافیک دیزاینەری Pixelcut یارمەتیت دەدات لە دروستکردنی وێنەی سەرسوڕهێنەر لە چەند چرکەیەکدا. دەستکاریکەرێکی گشتگیر کە زیرەکی دەستکرد ",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Pixelcut.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.36.6",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "مۆنتاژکەری وێنە و گرافیک دیزاینەری Pixelcut یارمەتیت دەدات لە دروستکردنی وێنەی سەرسوڕهێنەر لە چەند چرکەیەکدا. دەستکاریکەرێکی گشتگیر کە زیرەکی دەستکرد ",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/Pixelcut_0.36.6_DEV.ipa",
+     "size": 51110000
+    }
+   ]
+  }
+ ]
+}

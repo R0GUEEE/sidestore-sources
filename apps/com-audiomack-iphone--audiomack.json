@@ -1,0 +1,44 @@
+{
+ "name": "audiomack",
+ "identifier": "dev.perapp.com-audiomack-iphone",
+ "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for audiomack (com.audiomack.iphone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.audiomack.iphone",
+   "name": "audiomack",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.15.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-08-2025/audiomack_7.15.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 243958959
+    },
+    {
+     "version": "7.3.0",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Audiomack is a worldwide music streaming and discovery application that enables you to download and access the latest songs, albums, mixtapes, and pla",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AudiomackPremium/AudiomackPremium-7.3.0.ipa",
+     "size": 149492689
+    },
+    {
+     "version": "7.1.4",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Audiomack is a worldwide music streaming and discovery application that enables you to download and access the latest songs, albums, mixtapes, and pla",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AudiomackPremium/AudiomackPremium-7.1.4.ipa",
+     "size": 141530067
+    }
+   ]
+  }
+ ]
+}

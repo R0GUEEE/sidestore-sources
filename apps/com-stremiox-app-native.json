@@ -1,0 +1,42 @@
+{
+ "name": "VortX",
+ "identifier": "dev.perapp.com-stremiox-app-native",
+ "subtitle": "Everything. VortXed",
+ "description": "Single-app source for VortX (com.stremiox.app.native). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#9f6013",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stremiox.app.native.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stremiox.app.native",
+   "name": "VortX",
+   "developerName": "VortXTV",
+   "subtitle": "Everything. VortXed",
+   "localizedDescription": "VortX:\n\nVortX is a native media app for Apple TV, iPhone, iPad and Mac, with an Android phone, tablet and TV app alongside them. Browse your add-ons and personal media, pick a source and keep your profiles and progress together with a VortX account. Apple uses SwiftUI with native playback engines, not a web wrapper.\n\nCurrent release:\n\nRemoving the old comparison engine and Node runtime does not remove Stremio-compatible add-ons, optional Stremio account/library import or Cinemeta. Android remains a technical preview. The full Swift 6 migration, wider performance work, all dependency upgrades and remaining reported bugs are not finished. See the changelog for changes and the roadmap for what remains.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stremiox.app.native.png",
+   "tintColor": "#9f6013",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/home.png",
+    "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/detail.png",
+    "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/streams.png",
+    "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/player.png",
+    "https://cdn.jsdelivr.net/gh/VortXTV/VortX@main/docs/screenshots/library.png"
+   ],
+   "versions": [
+    {
+     "version": "0.5.6",
+     "date": "2026-11-04T12:19:29Z",
+     "localizedDescription": "Build 283 for Apple TV, iPhone, iPad, Mac, and Android. This beta adds recovery tools where you need them most, on the profile picker, and improves how AetherEngine resumes playback and handles subtitles.\n\nRecover an account before opening a profile:\n\n• Repair saves a separate encrypted file. It checks a supported legacy backup for the signed-in account and prepares a new copy for you to review and save. Keep the original file as a fallback.\n• Restore asks before replacing the account’s cloud backup. If the response is uncertain, use the verification action to check the earlier attempt. The app keeps track of that attempt so you can return to it.\n• On Apple TV, choose a backup action in Tools, then scan its QR code with a phone on the same trusted local network to move a backup file. Review and confirm any restore on the TV. On Android, file actions use the system file picker where available. To start a restore on an eligible Android 14 or later device, choose Sign in for backup recovery in Tools.\n• Tools and account controls stay available during profile loading. The Android TV picker keeps Tools and the account button available while profiles are loading or unavailable. Existing profile PIN and diagnostic-sharing rules still apply.\n\nPlayback and sources:\n\n• AetherEngine on Apple can be selected from the player settings. It carries your resume point when opening or switching players, and its subtitle selection and rendering now use the current playback session.\n• Subtitle add-ons on Apple can be retried when a request fails. Available results from successful add-ons stay visible while a failed one retries.\n\nDownloads:\n\nApple TV comes in Full and Lite. Apple IPAs need compatible sideload signing. The Mac build is for Apple silicon and ships with an ad hoc signature, without notarization. Android comes in Full with mpv and Play with Media3. Update with the same platform and variant to keep the app identity.",
+     "downloadURL": "https://github.com/VortXTV/VortX/releases/download/v0.5.6-beta.12/VortX-iOS-v0.5.6-beta.12-ci.ipa",
+     "size": 69414677
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "VortX discovers Google Cast devices on your Wi-Fi and connects to the streaming server you choose. When you cast a phone-hosted torrent, VortX shares only that video with the receiver while the app remains open."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "name": "Delta",
+ "identifier": "dev.perapp.com-rileytestut-delta-beta",
+ "subtitle": "Classic games in your pocket.",
+ "description": "Single-app source for Delta (com.rileytestut.Delta.Beta). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "8A28F7",
+ "iconURL": "https://cdn.altstore.io/file/altstore/images/delta/Delta4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.Delta.Beta",
+   "name": "Delta",
+   "developerName": "Riley Testut",
+   "subtitle": "Classic games in your pocket.",
+   "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
+   "iconURL": "https://cdn.altstore.io/file/altstore/images/delta/Delta4.png",
+   "tintColor": "8A28F7",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.7",
+     "date": "2026-10-16T12:00:00-04:00Z",
+     "localizedDescription": "NEW\n\nDLC\n• Custom in-game experiences for Pokémon games, built by our team\n• Unlock event items, receive rare Pokémon, and more\n• Start an event from the Pause Menu while playing\n• First event available now for Pokémon Emerald!\n\nCustom Filters\n• New Experimental Feature for using custom game screen filters\n• Includes two presets for every system, such as CRT and original Game Boy\n• Import your own filters from the Files app\n\nIMPROVED\n• Dynamically updates “Audio” settings icon to reflect current volume level\n• Open files browser directly upon tapping \"+\" button\n• Change fast forward speed via per-game settings\n• Restored the “Choose” button when no Nintendo WFC server is selected\n• Updated larger devices to show three games on game selection screen\n• Renamed “Minor Settings” to “Lil’ Settings”\n• Updated the previous sync status screen for iOS 26\n• Removed the redundant RetroAchievements heading from per-game settings\n• Limited the number of games shown in Recents\n• Updated the RetroAchievements description in per-game settings\n\nFIXED\n• Fixed fast forward and load state buttons disappearing when RetroAchievements are enabled\n• Fixed settings icons showing incorrect colors in light and dark mode\n• Fixed controller input picker appearing blue instead of purple on iOS 26\n• Fixed animated controller skins missing buttons in skin selection screen\n• Fixed importing .md files for Sega Genesis games\n• Fixed screenshot notifications appearing behind the pause menu\n• Fixed online multiplayer help text appearing when a Nintendo WFC server is already selected\n• Fixed RetroAchievements achievement notifications sometimes not appearing\n• Fixed crash when resizing Pause Menu to very small sizes\n• Fixed not disabling hardcore mode for games\n• Fixed app hanging indefinitely when showing cheats",
+     "downloadURL": "https://www.patreon.com/file?h=105173733&m=765526235",
+     "size": 207427358
+    },
+    {
+     "version": "2.0.4",
+     "date": "2026-07-28T13:00:00-04:00Z",
+     "localizedDescription": "NEW\n\nCustom Fast Forward\n• Change the preferred Fast Forward speed per-system and per-game\n• Long-press the Fast Forward button from the Pause Menu to adjust speed\n\nAnimated Controller Skins\n• Adds support for controller skins with animated buttons\n• New, official animated GBA skin by Caroline Moore\n\nAudio Settings\n• New audio settings to determine how Delta handles other apps' audio\n• \"Mix with Other Audio\" keeps your music or podcasts playing during games\n• \"Pause Other Audio\" silences everything else when a game starts\n\nAdjustable Screen Position\n• Long-press the game screen to adjust its position when a controller is connected\n\nIMPROVED\n• Graduated RetroAchievements from Experimental Features\n• Moved Online Multiplayer from Nintendo DS Core settings to top-level settings\n• Added option to move Home and Resume buttons to top of Pause Menu\n• Redesigned controller input mapping screen for game controllers and keyboards\n• Added the ability to delete save states in bulk\n• Automatically sync favorites between devices\n\nFIXED\n• Fixed error when loading RetroAchievements account information",
+     "downloadURL": "https://www.patreon.com/file?h=105173733&m=707106638",
+     "size": 198680846
+    },
+    {
+     "version": "2.0.3",
+     "date": "2026-06-03T14:00:00-04:00Z",
+     "localizedDescription": "NEW\n\nRedesigned Settings\n• Reorganizes settings into more easily navigable hierarchy\n• Icons help differentiate top-level settings\n• Access all settings options more quickly and intuitively\n\nEpilogue GB/SN Operator Support (thanks Epilogue!)\n• Connect game cartridges directly to your iPhone/iPad and play them natively\n• Reads and writes save files to cartridge\n• Supports GBC/GBA and SNES games (respectively)\n• Blowing into cartridges optional\n\nCheats\n• Fully redesigned cheats screen for Liquid Glass\n• Choose icons from a wide selection for added personalization\n\nIMPROVED\n• Removed “Import from iTunes” game import option\n• Changed “Open Games in New Window” setting to be off by default\n\nFIXED\n• Fixed SNES audio crackling\n• Fixed NES games occasionally opening to a black screen",
+     "downloadURL": "https://www.patreon.com/file?h=105173733&m=675009727",
+     "size": 198892266
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     {
+      "name": "get-task-allow"
+     }
+    ],
+    "privacy": [
+     {
+      "name": "Microphone",
+      "usageDescription": "Delta uses your microphone to emulate the Nintendo DS microphone."
+     },
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "Delta uses the local network to communicate with AltServer and enable JIT."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+     }
+    ]
+   }
+  }
+ ]
+}

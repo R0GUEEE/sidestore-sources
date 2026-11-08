@@ -1,0 +1,44 @@
+{
+ "name": "DuolingoMax",
+ "identifier": "dev.perapp.com-duolingo-duolingomobile",
+ "subtitle": "DuolingoMax by ArianaMinajj / iOS宝藏",
+ "description": "Single-app source for DuolingoMax (com.duolingo.DuolingoMobile). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.duolingo.DuolingoMobile",
+   "name": "DuolingoMax",
+   "developerName": "ArianaMinajj / iOS宝藏",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.23.0",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DuolingoMax/DuolingoMax-7.23.0.ipa",
+     "size": 113443307
+    },
+    {
+     "version": "7.26.1",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DuolingoMax/DuolingoMax-7.26.1.ipa",
+     "size": 111328210
+    },
+    {
+     "version": "7.37.1",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "The most popular education app globally, offers a fun and free way to learn over 40 languages through short, interactive lessons. Improve your vocabulary and grammar skills by practicing speaking, reading, listening, and writing. Note: I recompiled this IPA on my own from a decrypted version due to concerns about the original source. Extensive testing has shown that it is working flawlessly, including the widgets. However, additional testing will be needed. (Support will not be provided for this so please refrain from submitting any issues)\nLast updated: 06-16-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DuolingoMax/DuolingoMax-7.37.1.ipa",
+     "size": 135865053
+    }
+   ]
+  }
+ ]
+}

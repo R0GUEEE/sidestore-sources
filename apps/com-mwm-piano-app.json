@@ -1,0 +1,44 @@
+{
+ "name": "Piano",
+ "identifier": "dev.perapp.com-mwm-piano-app",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Piano (com.mwm.piano-app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mwm.piano-app",
+   "name": "Piano",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.piano-app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.64.00",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Piano: Keyboard Lessons & Game  • Bundle ID: com.mwm.piano-app • Updated to: 3.64.00 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Piano_3.64.00_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 167201589
+    },
+    {
+     "version": "3.63.00",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "@blatants | Piano: Keyboard Lessons & Game  • Bundle ID: com.mwm.piano-app • Updated to: 3.63.00 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12938-Piano_Keyboard_Lessons_&_Game_v3_63_00_Subscription_Unlocked_blatant.ipa",
+     "size": 163716889
+    },
+    {
+     "version": "3.62.00",
+     "date": "2026-10-09T00:00:00Z",
+     "localizedDescription": "@blatants | Piano: Keyboard Lessons & Game  • Bundle ID: com.mwm.piano-app • Updated to: 3.62.00 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12700-Piano_Keyboard_Lessons_&_Game_v3_62_00_Subscription_Unlocked_blatant.ipa",
+     "size": 159711486
+    }
+   ]
+  }
+ ]
+}

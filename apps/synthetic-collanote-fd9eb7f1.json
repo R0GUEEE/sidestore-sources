@@ -1,0 +1,30 @@
+{
+ "name": "CollaNote",
+ "identifier": "dev.perapp.synthetic-collanote-fd9eb7f1",
+ "subtitle": "CollaNote by Karbin-Store",
+ "description": "Single-app source for CollaNote (synthetic.collanote.fd9eb7f1). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/CollaNote.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.collanote.fd9eb7f1",
+   "name": "CollaNote",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "مفتوح الاشتراك الكامل ✅",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/CollaNote.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.5",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "مفتوح الاشتراك الكامل ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/CollaNote.3.0.5.ipa",
+     "size": 115610000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "TheBattleCats",
+ "identifier": "dev.perapp.jp-co-ponos-battlecatsen",
+ "subtitle": "TheBattleCats",
+ "description": "Single-app source for TheBattleCats (jp.co.ponos.battlecatsen). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.ponos.battlecatsen.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.co.ponos.battlecatsen",
+   "name": "TheBattleCats",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.ponos.battlecatsen.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.5.1",
+     "date": "2025-08-25T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/TheBattleCats_14.5.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+     "size": 174870604
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Dofu Player",
+ "identifier": "dev.perapp.com-unknown-dofuplayer",
+ "subtitle": "بەرنامەیەک بۆ سێرکردنی کەناڵە وەرزشیەکان گەر بەرنامەکە ئیشی نەکرد وە کەناڵەکان دەر نەکەوت ،، ئەوا VPN بەکاربێنە    ڕیکلا",
+ "description": "Single-app source for Dofu Player (com.unknown.dofuplayer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Dofu.Playar.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.dofuplayer",
+   "name": "Dofu Player",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک بۆ سێرکردنی کەناڵە وەرزشیەکان گەر بەرنامەکە ئیشی نەکرد وە کەناڵەکان دەر نەکەوت ،، ئەوا VPN بەکاربێنە    ڕیکلامەکان بەتەوایی لادراون ✅",
+   "localizedDescription": "بەرنامەیەک بۆ سێرکردنی کەناڵە وەرزشیەکان گەر بەرنامەکە ئیشی نەکرد وە کەناڵەکان دەر نەکەوت ،، ئەوا VPN بەکاربێنە    ڕیکلامەکان بەتەوایی لادراون ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Dofu.Playar.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ سێرکردنی کەناڵە وەرزشیەکان گەر بەرنامەکە ئیشی نەکرد وە کەناڵەکان دەر نەکەوت ،، ئەوا VPN بەکاربێنە    ڕیکلامەکان بەتەوایی لادراون ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Dofu.Player._1.0.0_1737134771.ipa",
+     "size": 22440000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Huckleberry",
+ "identifier": "dev.perapp.com-huckleberry-labs-app",
+ "subtitle": "Huckleberry",
+ "description": "Single-app source for Huckleberry (com.huckleberry-labs.app). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.huckleberry-labs.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.huckleberry-labs.app",
+   "name": "Huckleberry",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.huckleberry-labs.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.283",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Huckleberry_0.9.283_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 58388496
+    }
+   ]
+  }
+ ]
+}

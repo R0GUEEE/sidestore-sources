@@ -1,0 +1,30 @@
+{
+ "name": "Flycast",
+ "identifier": "dev.perapp.com-chachirie-flycastios",
+ "subtitle": "Flycast:  Flycast is a multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast.",
+ "description": "Single-app source for Flycast (com.chachirie.FlycastiOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chachirie.FlycastiOS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chachirie.FlycastiOS",
+   "name": "Flycast",
+   "developerName": "chachillie",
+   "subtitle": "Flycast:  Flycast is a multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast.",
+   "localizedDescription": "Flycast:  Flycast is a multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chachirie.FlycastiOS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Flycast:  Flycast is a multi-platform Sega Dreamcast, Naomi, Naomi 2, and Atomiswave emulator derived from reicast.",
+     "downloadURL": "https://github.com/chachillie/Flycast-iOS/releases/download/v1.0/Flycast-iOS.ipa",
+     "size": 8292812
+    }
+   ]
+  }
+ ]
+}

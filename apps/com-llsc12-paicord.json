@@ -1,0 +1,30 @@
+{
+ "name": "Paicord",
+ "identifier": "dev.perapp.com-llsc12-paicord",
+ "subtitle": "Paicord:  A native Discord client written in Swift using SwiftUI, with a goal of feature parity with customisation and Q",
+ "description": "Single-app source for Paicord (com.llsc12.Paicord). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.llsc12.Paicord.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.llsc12.Paicord",
+   "name": "Paicord",
+   "developerName": "llsc12",
+   "subtitle": "Paicord:  A native Discord client written in Swift using SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions!  Pai",
+   "localizedDescription": "Paicord:  A native Discord client written in Swift using SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions!  Pai\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.llsc12.Paicord.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Paicord:  A native Discord client written in Swift using SwiftUI, with a goal of feature parity with customisation and Quality-of-Life additions!  Pai",
+     "downloadURL": "https://github.com/llsc12/Paicord/releases/download/paicord-nightly-36318765922/Paicord-iOS-5c76f36.ipa",
+     "size": 32994164
+    }
+   ]
+  }
+ ]
+}

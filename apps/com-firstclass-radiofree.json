@@ -1,0 +1,30 @@
+{
+ "name": "RadioAppPremium",
+ "identifier": "dev.perapp.com-firstclass-radiofree",
+ "subtitle": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here ",
+ "description": "Single-app source for RadioAppPremium (com.firstclass.radiofree). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.firstclass.radiofree",
+   "name": "RadioAppPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is Last updated…",
+   "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is\nLast updated: 07-21-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.firstclass.radiofree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.19",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "App to access local and international radio stations with a distinctive analog-style tuner. A user requested it so here it is Last updated…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RadioAppPremium/RadioAppPremium-2.0.19.ipa",
+     "size": 35329967
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "FS 23",
+ "identifier": "dev.perapp.com-giants-software-fs23",
+ "subtitle": "@ipa_dark | 🔄 Farming Simulator 23 - appstore  🇷🇺 Реалистичный симулятор фермерского хозяйства, где можно выращивать сел",
+ "description": "Single-app source for FS 23 (com.giants-software.fs23). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1605.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.giants-software.fs23",
+   "name": "FS 23",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Farming Simulator 23 - appstore  🇷🇺 Реалистичный симулятор фермерского хозяйства, где можно выращивать сельскохозяйственные культуры, ра",
+   "localizedDescription": "@ipa_dark | 🔄 Farming Simulator 23 - appstore  🇷🇺 Реалистичный симулятор фермерского хозяйства, где можно выращивать сельскохозяйственные культуры, ра",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1605.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Farming Simulator 23 - appstore  🇷🇺 Реалистичный симулятор фермерского хозяйства, где можно выращивать сельскохозяйственные культуры, ра",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1605-Farming%20Simulator%2023%20%5Bv1.7%5D%28tg@ipa_dark%29.ipa",
+     "size": 1093273699
+    }
+   ]
+  }
+ ]
+}

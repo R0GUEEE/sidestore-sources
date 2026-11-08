@@ -1,0 +1,30 @@
+{
+ "name": "JESSI",
+ "identifier": "dev.perapp.com-baconmania-jessi",
+ "subtitle": "JESSI  Java Edition Servers Suck on iOS                Basic Information •   LiveContainer •   Features •   Build / Misc",
+ "description": "Single-app source for JESSI (com.baconmania.jessi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.baconmania.jessi.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.baconmania.jessi",
+   "name": "JESSI",
+   "developerName": "Baconium",
+   "subtitle": "JESSI  Java Edition Servers Suck on iOS                Basic Information •   LiveContainer •   Features •   Build / Misc    (you should like totally j",
+   "localizedDescription": "JESSI  Java Edition Servers Suck on iOS                Basic Information •   LiveContainer •   Features •   Build / Misc    (you should like totally j\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.baconmania.jessi.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "JESSI  Java Edition Servers Suck on iOS                Basic Information •   LiveContainer •   Features •   Build / Misc    (you should like totally j",
+     "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1.2/JESSI.ipa",
+     "size": 12168815
+    }
+   ]
+  }
+ ]
+}

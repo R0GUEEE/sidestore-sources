@@ -1,0 +1,30 @@
+{
+ "name": "WatanFlix",
+ "identifier": "dev.perapp.com-wneet-watanflix",
+ "subtitle": "ipaomtk.com | WatanFlix Pro IPA is an iOS-compatible media streaming app that allows you to access the latest entertainm",
+ "description": "Single-app source for WatanFlix (com.wneet.Watanflix). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-watanflix-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wneet.Watanflix",
+   "name": "WatanFlix",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | WatanFlix Pro IPA is an iOS-compatible media streaming app that allows you to access the latest entertainment content and the biggest mo",
+   "localizedDescription": "ipaomtk.com | WatanFlix Pro IPA is an iOS-compatible media streaming app that allows you to access the latest entertainment content and the biggest mo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-watanflix-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.5",
+     "date": "2023-12-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | WatanFlix Pro IPA is an iOS-compatible media streaming app that allows you to access the latest entertainment content and the biggest mo",
+     "downloadURL": "https://file.ipaomtk.com/ipa/WatanFlix.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

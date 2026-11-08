@@ -1,0 +1,30 @@
+{
+ "name": "DarkCloud_6.16.1",
+ "identifier": "dev.perapp.synthetic-darkcloud-6-16-1-be57bf48",
+ "subtitle": "SoundCloud w/ DarkCloud by CodeyMoore",
+ "description": "Single-app source for DarkCloud_6.16.1 (synthetic.darkcloud-6-16-1.be57bf48). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/DarkCloud_6.16.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.darkcloud-6-16-1.be57bf48",
+   "name": "DarkCloud_6.16.1",
+   "developerName": "DarkCloud_6.16.1 x CyPwn",
+   "subtitle": "SoundCloud w/ DarkCloud by CodeyMoore",
+   "localizedDescription": "SoundCloud w/ DarkCloud by CodeyMoore",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/DarkCloud_6.16.1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.16.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "SoundCloud w/ DarkCloud by CodeyMoore",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/DarkCloud_6.16.1.ipa",
+     "size": 56025415
+    }
+   ]
+  }
+ ]
+}

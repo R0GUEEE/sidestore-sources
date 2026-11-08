@@ -1,0 +1,44 @@
+{
+ "name": "VideoStar",
+ "identifier": "dev.perapp.com-frontierdesign-videostar",
+ "subtitle": "VideoStar",
+ "description": "Single-app source for VideoStar (com.frontierdesign.videostar). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontierdesign.videostar.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.frontierdesign.videostar",
+   "name": "VideoStar",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontierdesign.videostar.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.2.3",
+     "date": "2026-07-15T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/819",
+     "size": 414722649
+    },
+    {
+     "version": "15.1.4",
+     "date": "2026-05-19T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/VideoStar_15.1.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 544173346
+    },
+    {
+     "version": "15.1.3",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-05-2026/VideoStar_15.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 551315071
+    }
+   ]
+  }
+ ]
+}

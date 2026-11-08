@@ -1,0 +1,30 @@
+{
+ "name": "Meowlody",
+ "identifier": "dev.perapp.com-idle-luxury-factory",
+ "subtitle": "@ipa_dark | 🔄 Meowlody - appstore  🇷🇺 Музыкальная ритм-игра, где нужно попадать в такт музыке, проходить уровни с различ",
+ "description": "Single-app source for Meowlody (com.idle.luxury.factory). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1622.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.idle.luxury.factory",
+   "name": "Meowlody",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Meowlody - appstore  🇷🇺 Музыкальная ритм-игра, где нужно попадать в такт музыке, проходить уровни с различными композициями, открывать н",
+   "localizedDescription": "@ipa_dark | 🔄 Meowlody - appstore  🇷🇺 Музыкальная ритм-игра, где нужно попадать в такт музыке, проходить уровни с различными композициями, открывать н",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1622.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.7",
+     "date": "2026-07-28T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Meowlody - appstore  🇷🇺 Музыкальная ритм-игра, где нужно попадать в такт музыке, проходить уровни с различными композициями, открывать н",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1622-Meowlody%20%5Bv1.0.7%5D%28tg@ipa_dark%29.ipa",
+     "size": 75941558
+    }
+   ]
+  }
+ ]
+}

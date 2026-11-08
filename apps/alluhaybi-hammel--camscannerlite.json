@@ -1,0 +1,30 @@
+{
+ "name": "CamScannerLite",
+ "identifier": "dev.perapp.alluhaybi-hammel",
+ "subtitle": "Tweaks: CasperStore",
+ "description": "Single-app source for CamScannerLite (Alluhaybi.Hammel). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Alluhaybi.Hammel.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Alluhaybi.Hammel",
+   "name": "CamScannerLite",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Tweaks: CasperStore",
+   "localizedDescription": "Tweaks: CasperStore\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Alluhaybi.Hammel.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.5",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: CasperStore\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-08-2025/_9.5_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 385964934
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "XML",
+ "identifier": "dev.perapp.in-umango-xml",
+ "subtitle": "XML",
+ "description": "Single-app source for XML (in.umango.xml). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.umango.xml.png",
+ "apps": [
+  {
+   "bundleIdentifier": "in.umango.xml",
+   "name": "XML",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.umango.xml.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2025-10-29T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/XML_1.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 29581473
+    }
+   ]
+  }
+ ]
+}

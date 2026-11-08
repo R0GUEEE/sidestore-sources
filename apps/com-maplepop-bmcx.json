@@ -1,0 +1,30 @@
+{
+ "name": "MapleReadCX",
+ "identifier": "dev.perapp.com-maplepop-bmcx",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for MapleReadCX (com.maplepop.bmcx). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.maplepop.bmcx",
+   "name": "MapleReadCX",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1.1",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/MapleReadCX_7.1.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 22748617
+    }
+   ]
+  }
+ ]
+}

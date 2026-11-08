@@ -1,0 +1,44 @@
+{
+ "name": "inflow",
+ "identifier": "dev.perapp.com-inflow-app",
+ "subtitle": "inflow",
+ "description": "Single-app source for inflow (com.inflow.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/1b9871e0-ae22-42ca-8da7-56681f9a58ff/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inflow.app",
+   "name": "inflow",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Inflow - Manage your ADHD\n\nTweak: Subscription Unlocked\n\nVersion: 3.0.6\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/1b9871e0-ae22-42ca-8da7-56681f9a58ff/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.0",
+     "date": "2026-08-05T00:00:00Z",
+     "localizedDescription": "A science-based ADHD app for focus, productivity, and daily life. Manage your ADHD in just 5 minutes a day!\r\n\r\nInflow is designed by people with ADHD, for people with ADHD. We are not a glorified timer or calendar. Inflow is a science-based program designed to help you manage focus, procrastination, and follow-through in a way that works with your brain, not against it. Developed with clinical psychologists and featured in peer-reviewed research.\r\n\r\nDOES THIS SOUND LIKE YOU? \r\n\r\nDo you struggle with focus, organization, or procrastination? Does \"task paralysis\" stop you from starting simple chores? Have you abandoned planners and trackers in the past? ADHD doesn’t have to hold you back. Inflow can help.\r\n\r\nWHY INFLOW? \r\n\r\nInflow is based on ",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2170",
+     "size": 54166078
+    },
+    {
+     "version": "3.0.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Inflow - Manage your ADHD\n\nTweak: Subscription Unlocked\n\nVersion: 3.0.6\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/ffd7cf48-2454-4c11-baf9-642b7ac9298d/Inflow_-_Manage_your_ADHD-v3.0.6-riftysipas.ipa",
+     "size": 29902965
+    },
+    {
+     "version": "3.0.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Inflow - Manage your ADHD\n\nTweak: Subscription Unlocked\n\nVersion: 3.0.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/65a96a5f-e700-4a16-acce-313a244cc591/Inflow_-_Manage_your_ADHD-v3.0.1-riftysipas.ipa",
+     "size": 19674482
+    }
+   ]
+  }
+ ]
+}

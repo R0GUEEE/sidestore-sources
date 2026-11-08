@@ -1,0 +1,32 @@
+{
+ "name": "NeoFreeBird",
+ "identifier": "dev.perapp.timi2506-actuallyaridan-neofreebird-new",
+ "subtitle": "A modified Twitter app, with branding reverts, BHTwitter and similar.",
+ "description": "Single-app source for NeoFreeBird (timi2506.actuallyaridan.NeoFreeBird-New). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "1DA1F2",
+ "iconURL": "https://github.com/actuallyaridan/NeoFreeBird/blob/main/Branding/Icon.jpg?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "timi2506.actuallyaridan.NeoFreeBird-New",
+   "name": "NeoFreeBird",
+   "developerName": "actuallyaridan and timi2506",
+   "subtitle": "A modified Twitter app, with branding reverts, BHTwitter and similar.",
+   "localizedDescription": "NeoFreeBird is a modified Twitter app, with branding reverts, BHTwitter and similar Tweaks.",
+   "iconURL": "https://github.com/actuallyaridan/NeoFreeBird/blob/main/Branding/Icon.jpg?raw=true",
+   "tintColor": "1DA1F2",
+   "screenshots": [
+    "https://github.com/actuallyaridan/NeoFreeBird/blob/main/Branding/new-Screenshots/1.png?raw=true"
+   ],
+   "versions": [
+    {
+     "version": "10.76b1",
+     "date": "2025-01-12T00:00:00Z",
+     "localizedDescription": "NeoFreeBird is a modified Twitter app, with branding reverts, BHTwitter and similar Tweaks.",
+     "downloadURL": "https://github.com/actuallyaridan/NeoFreeBird/releases/download/testbuild-1/NeoFreeBird-10.76-new.ipa",
+     "size": 142606336
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "gase",
+ "identifier": "dev.perapp.io-github-bthuner-gase",
+ "subtitle": "Sega Mega Drive / Genesis emulator, rust flavour",
+ "description": "Single-app source for gase (io.github.bthuner.gase). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d08155",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.bthuner.gase.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.bthuner.gase",
+   "name": "gase",
+   "developerName": "bthuner",
+   "subtitle": "Sega Mega Drive / Genesis emulator, rust flavour",
+   "localizedDescription": "gase:\n\nSega Mega Drive / Genesis emulator, rust flavour.\n\ngase aims to be an emulator you can learn from: every chip lives in its own small crate with documentation that explains how the hardware works, and the whole emulator core has no external dependencies. It is also meant to be fast, compatible and pleasant to use.\n\nThe making of gase tells how it was built, chip by chip, with pictures made by the emulator itself (the site's.\n\npublished, gase runs in your browser too.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.bthuner.gase.png",
+   "tintColor": "#d08155",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.1",
+     "date": "2026-10-11T22:35:33Z",
+     "localizedDescription": "Changed:\n\n• The Android project brings its own Gradle: a Gradle wrapper (mobile/android/gradlew) pinned to Gradle 8.10.2, with its SHA-256. Build with ./gradlew instead of gradle: the installed Gradle, any version or none, no longer matters (Gradle 9 cannot run the Android Gradle plugin 8.7). CI builds with the wrapper too.\n\nDownloads:\n\nThe source code is attached by GitHub below. Desktop builds include SDL2 (zlib licence).",
+     "downloadURL": "https://github.com/bthuner/gase/releases/download/v0.3.1/gase-0.3.1-ios-unsigned.ipa",
+     "size": 850975
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

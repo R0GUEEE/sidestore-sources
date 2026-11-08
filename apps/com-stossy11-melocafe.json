@@ -1,0 +1,43 @@
+{
+ "name": "MeloCafe",
+ "identifier": "dev.perapp.com-stossy11-melocafe",
+ "subtitle": "MeloCafe - iOS Cemu based Wii U emulator",
+ "description": "Single-app source for MeloCafe (com.stossy11.MeloCafe). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e08bc0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.MeloCafe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stossy11.MeloCafe",
+   "name": "MeloCafe",
+   "developerName": "stossy11",
+   "subtitle": "MeloCafe - iOS Cemu based Wii U emulator",
+   "localizedDescription": "MeloCafe - Wii U emulator:\n\nThis is the code repository of MeloCafe, a Cemu based Wii U emulator that is able to run most Wii U games and homebrew in a playable state.\n\nMeloCafe is currently only available for iOS/iPadOS platforms.\n\nOther relevant repositories::\n\n• Cemu's Community Graphic Packs.\n\nDownload & Install:\n\nJust like MeloNX, the Increased Memory Limit Entitlement is needed for the best experience.\n\nWithout Increased Memory Limit crashes may occur (especially when using JIT).\n\nRecommended Guide (Plumeimpactor):\n\nSideStore is recommended (optional) for an on-device Sideloader, and should be installed prior performing this install.\n\n• Sideload Application:.\n\n• Open PlumeImpactor > Click Settings > Click Login.\n• Login with the same Apple ID you are using for SideStore (or AltStore).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.MeloCafe.png",
+   "tintColor": "#e08bc0",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-10-31T14:23:56Z",
+     "localizedDescription": "• Updated Threaded Interpreter.\n• Pre-decode Interpreter Cache.\n• Single Core CPU Mode options.\n• Guest RAM NSExtension offloading.\n\n• Move Virtual Controller to Safe Area.\n• Add No ROMs View.\n• Direct Jumping support for the JIT Recompiler.\n• Fix Page Fault with older GPUs.\n• Make Statistics Overlay Asynchronous.\n• Improved Cube map support (#3).\n• Fix Controllers with analogue triggers triggering incorrectly.\n• UI bug fixes.\n\nMake sure to assign the Universal Script in StikDebug.",
+     "downloadURL": "https://github.com/stossy11/MeloCafe/releases/download/1.1/MeloCafe.ipa",
+     "size": 23558287
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.kernel.increased-memory-limit",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "MeloCafe uses the camera when Wii U software requests the GamePad camera.",
+     "NSMicrophoneUsageDescription": "MeloCafe uses the microphone when Wii U software requests GamePad microphone input."
+    }
+   }
+  }
+ ]
+}

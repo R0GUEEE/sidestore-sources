@@ -1,0 +1,37 @@
+{
+ "name": "nea",
+ "identifier": "dev.perapp.com-keinois-nea-app",
+ "subtitle": "nea",
+ "description": "Single-app source for nea (com.keinois.nea.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/84606d98-ff11-4458-abed-105ac192c6b9/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.keinois.nea.app",
+   "name": "nea",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Apnea Trainer: Nea\n\nTweak: Subscription Unlocked\n\nVersion: 1.3.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/84606d98-ff11-4458-abed-105ac192c6b9/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Apnea Trainer: Nea\n\nTweak: Subscription Unlocked\n\nVersion: 1.3.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/99425af3-81bf-487b-a2c7-78e8c596b443/Apnea_Trainer__Nea-v1.3.3-riftysipas.ipa",
+     "size": 47859783
+    },
+    {
+     "version": "1.3.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Apnea Trainer: Nea\n\nTweak: Subscription Unlocked\n\nVersion: 1.3.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/bfb1b07f-0e3c-471d-92a0-3adee93640c6/Apnea_Trainer__Nea-v1.3.1-riftysipas.ipa",
+     "size": 47584087
+    }
+   ]
+  }
+ ]
+}

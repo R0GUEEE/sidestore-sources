@@ -1,0 +1,30 @@
+{
+ "name": "Photo Translation",
+ "identifier": "dev.perapp.com-unknown-phototranslation",
+ "subtitle": "✅All features are unlocked  ✅Translate texts from pictures",
+ "description": "Single-app source for Photo Translation (com.unknown.phototranslation). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Photo.Translation.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.phototranslation",
+   "name": "Photo Translation",
+   "developerName": "Karbin-Store",
+   "subtitle": "✅All features are unlocked  ✅Translate texts from pictures",
+   "localizedDescription": "✅All features are unlocked  ✅Translate texts from pictures",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Photo.Translation.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.7",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "✅All features are unlocked  ✅Translate texts from pictures",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Photo.Translator.4.0.7.ipa",
+     "size": 58520000
+    }
+   ]
+  }
+ ]
+}

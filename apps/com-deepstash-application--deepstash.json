@@ -1,0 +1,30 @@
+{
+ "name": "Deepstash",
+ "identifier": "dev.perapp.com-deepstash-application",
+ "subtitle": "Deepstash",
+ "description": "Single-app source for Deepstash (com.deepstash.application). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/43/a5/7643a52d-078e-04c3-fa17-458015668bf2/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.deepstash.application",
+   "name": "Deepstash",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/76/43/a5/7643a52d-078e-04c3-fa17-458015668bf2/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "19.0.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c5ce6f12-8a1c-4cd0-9ff1-4c218b7d6243/Deepstash_19.0.4_1753805805.ipa",
+     "size": 163282276
+    }
+   ]
+  }
+ ]
+}

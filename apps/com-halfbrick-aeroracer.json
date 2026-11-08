@@ -1,0 +1,37 @@
+{
+ "name": "JJ Racing",
+ "identifier": "dev.perapp.com-halfbrick-aeroracer",
+ "subtitle": "ipaomtk.com | What is Jetpack Joyride Racing IPA? Jetpack Joyride Racing IPA is the iOS installation file of the arcade-",
+ "description": "Single-app source for JJ Racing (com.halfbrick.aeroracer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Jetpack-Joyride-Racing-IPA-v1.0.4-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.halfbrick.aeroracer",
+   "name": "JJ Racing",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Jetpack Joyride Racing IPA? Jetpack Joyride Racing IPA is the iOS installation file of the arcade-style multiplayer racing game ",
+   "localizedDescription": "ipaomtk.com | What is Jetpack Joyride Racing IPA? Jetpack Joyride Racing IPA is the iOS installation file of the arcade-style multiplayer racing game ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Jetpack-Joyride-Racing-IPA-v1.0.4-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.4",
+     "date": "2026-04-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Jetpack Joyride Racing IPA? Jetpack Joyride Racing IPA is the iOS installation file of the arcade-style multiplayer racing game ",
+     "downloadURL": "https://file.ipaomtk.com/jetpack-joyride-racing/Jetpack-Joyride-Racing-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.3.1",
+     "date": "2026-04-14T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Jetpack Joyride Racing IPA? Jetpack Joyride Racing IPA is the iOS installation file of the arcade-style multiplayer racing game ",
+     "downloadURL": "https://file.ipaomtk.com/jetpack-joyride-racing/Jetpack-Joyride-Racing-IPAOMTK.COM.ipa",
+     "size": 388855509
+    }
+   ]
+  }
+ ]
+}

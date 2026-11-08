@@ -1,0 +1,30 @@
+{
+ "name": "HauntedDorm - IFS",
+ "identifier": "dev.perapp.com-mihuan-haunteddorm",
+ "subtitle": "ipaomtk.com | Welcome to the Haunted Dorm IPA, a mysterious and often misunderstood phenomenon that has captivated the i",
+ "description": "Single-app source for HauntedDorm - IFS (com.mihuan.haunteddorm). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/haunted-dorm-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mihuan.haunteddorm",
+   "name": "HauntedDorm - IFS",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Welcome to the Haunted Dorm IPA, a mysterious and often misunderstood phenomenon that has captivated the imagination of many. Located in",
+   "localizedDescription": "ipaomtk.com | Welcome to the Haunted Dorm IPA, a mysterious and often misunderstood phenomenon that has captivated the imagination of many. Located in",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/haunted-dorm-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.0",
+     "date": "2023-07-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Welcome to the Haunted Dorm IPA, a mysterious and often misunderstood phenomenon that has captivated the imagination of many. Located in",
+     "downloadURL": "https://file.ipaomtk.com/ipa/HauntedDorm.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

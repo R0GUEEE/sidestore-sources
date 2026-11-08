@@ -1,0 +1,44 @@
+{
+ "name": "smpro",
+ "identifier": "dev.perapp.com-plusblog-smpro",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for smpro (com.plusblog.smpro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.plusblog.smpro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.plusblog.smpro",
+   "name": "smpro",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.plusblog.smpro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Promở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/SMPro.5.5_TTJB.ipa",
+     "size": 299931953
+    },
+    {
+     "version": "5.7",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-10-2025/smpro_5.7_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 283063871
+    },
+    {
+     "version": "5.6",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Promở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/smpro_5.6_TTJB.ipa",
+     "size": 299931953
+    }
+   ]
+  }
+ ]
+}

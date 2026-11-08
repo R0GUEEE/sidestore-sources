@@ -1,0 +1,37 @@
+{
+ "name": "オバマス",
+ "identifier": "dev.perapp.com-exys2008-over",
+ "subtitle": "ipaomtk.com | MASS FOR THE DEAD IPA iOS game, This thrilling role-playing game (RPG) has taken the iOS gaming community ",
+ "description": "Single-app source for オバマス (com.exys2008.over). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/MASS-FOR-THE-DEAD-IPA3-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.exys2008.over",
+   "name": "オバマス",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MASS FOR THE DEAD IPA iOS game, This thrilling role-playing game (RPG) has taken the iOS gaming community by storm, captivating players ",
+   "localizedDescription": "ipaomtk.com | MASS FOR THE DEAD IPA iOS game, This thrilling role-playing game (RPG) has taken the iOS gaming community by storm, captivating players ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/MASS-FOR-THE-DEAD-IPA3-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.80.0",
+     "date": "2023-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MASS FOR THE DEAD IPA iOS game, This thrilling role-playing game (RPG) has taken the iOS gaming community by storm, captivating players ",
+     "downloadURL": "https://file.ipaomtk.com/mass-for-the-dead/MASS-FOR-THE-DEAD-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.86.0",
+     "date": "2023-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | MASS FOR THE DEAD IPA iOS game, This thrilling role-playing game (RPG) has taken the iOS gaming community by storm, captivating players ",
+     "downloadURL": "https://file.ipaomtk.com/mass-for-the-dead/MASS-FOR-THE-DEAD-IPAOMTK.COM.ipa",
+     "size": 257492475
+    }
+   ]
+  }
+ ]
+}

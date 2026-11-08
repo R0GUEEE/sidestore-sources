@@ -1,0 +1,30 @@
+{
+ "name": "Sunrise VPN",
+ "identifier": "dev.perapp.com-vpn-sunrise",
+ "subtitle": "ipaomtk.com | What is VPN Sunrise IPA? VPN Sunrise IPA is the iOS installation file of a virtual private network applica",
+ "description": "Single-app source for Sunrise VPN (com.vpn.sunrise). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/VPN-Sunrise-IPA-v2.9.3-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vpn.sunrise",
+   "name": "Sunrise VPN",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is VPN Sunrise IPA? VPN Sunrise IPA is the iOS installation file of a virtual private network application designed to secure intern",
+   "localizedDescription": "ipaomtk.com | What is VPN Sunrise IPA? VPN Sunrise IPA is the iOS installation file of a virtual private network application designed to secure intern",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/VPN-Sunrise-IPA-v2.9.3-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.2",
+     "date": "2026-04-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is VPN Sunrise IPA? VPN Sunrise IPA is the iOS installation file of a virtual private network application designed to secure intern",
+     "downloadURL": "https://file.ipaomtk.com/vpn-sunrise/Sunrise-VPN-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

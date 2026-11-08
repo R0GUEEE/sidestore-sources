@@ -1,0 +1,30 @@
+{
+ "name": "Aurora",
+ "identifier": "dev.perapp.ai-devl-aurora",
+ "subtitle": "Aurora:  Play RPG Maker games on your iPhone and iPad — XP, VX, VX Ace, MV, and MZ, with multiplayer, overlays, upscalin",
+ "description": "Single-app source for Aurora (ai.devl.aurora). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ai.devl.aurora.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.devl.aurora",
+   "name": "Aurora",
+   "developerName": "RipeStore",
+   "subtitle": "Aurora:  Play RPG Maker games on your iPhone and iPad — XP, VX, VX Ace, MV, and MZ, with multiplayer, overlays, upscaling, and full save management.  ",
+   "localizedDescription": "Aurora:  Play RPG Maker games on your iPhone and iPad — XP, VX, VX Ace, MV, and MZ, with multiplayer, overlays, upscaling, and full save management.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ai.devl.aurora.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Aurora:  Play RPG Maker games on your iPhone and iPad — XP, VX, VX Ace, MV, and MZ, with multiplayer, overlays, upscaling, and full save management.  ",
+     "downloadURL": "https://github.com/RipeStore/aurora/releases/download/1.0.0/ai.devl.aurora_1.0.ipa",
+     "size": 77523728
+    }
+   ]
+  }
+ ]
+}

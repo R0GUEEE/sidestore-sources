@@ -1,0 +1,37 @@
+{
+ "name": "Idle Iktah",
+ "identifier": "dev.perapp.games-grounded-idleiktah",
+ "subtitle": "ipaomtk.com | What is Idle Iktah IPA? Idle Iktah IPA is the iOS installation package of the Idle Iktah game that allows ",
+ "description": "Single-app source for Idle Iktah (games.grounded.idleiktah). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Idle-Iktah-IPA-v1.0.39-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "games.grounded.idleiktah",
+   "name": "Idle Iktah",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Idle Iktah IPA? Idle Iktah IPA is the iOS installation package of the Idle Iktah game that allows iPhone and iPad users to insta",
+   "localizedDescription": "ipaomtk.com | What is Idle Iktah IPA? Idle Iktah IPA is the iOS installation package of the Idle Iktah game that allows iPhone and iPad users to insta",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Idle-Iktah-IPA-v1.0.39-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.39",
+     "date": "2026-03-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Idle Iktah IPA? Idle Iktah IPA is the iOS installation package of the Idle Iktah game that allows iPhone and iPad users to insta",
+     "downloadURL": "https://file.ipaomtk.com/idle-iktah/Idle-Iktah-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.45",
+     "date": "2026-03-15T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Idle Iktah IPA? Idle Iktah IPA is the iOS installation package of the Idle Iktah game that allows iPhone and iPad users to insta",
+     "downloadURL": "https://file.ipaomtk.com/idle-iktah/Idle-Iktah-IPAOMTK.COM.ipa",
+     "size": 59700314
+    }
+   ]
+  }
+ ]
+}

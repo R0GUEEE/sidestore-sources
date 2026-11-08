@@ -1,0 +1,30 @@
+{
+ "name": "Calm",
+ "identifier": "dev.perapp.com-calm-calmapp",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Calm (com.calm.calmapp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.calm.calmapp",
+   "name": "Calm",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.2",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/Calm_7.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 118926577
+    }
+   ]
+  }
+ ]
+}

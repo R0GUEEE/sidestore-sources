@@ -1,0 +1,30 @@
+{
+ "name": "Text Capture",
+ "identifier": "dev.perapp.com-unknown-textcapture",
+ "subtitle": "لەڕێ ئەم بەرنامەوە هەرنوسینێک لەسەر وەرەقە هەیە کۆپی بکە بە چەند چرکەیەک",
+ "description": "Single-app source for Text Capture (com.unknown.textcapture). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Text.Capture.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.textcapture",
+   "name": "Text Capture",
+   "developerName": "Karbin-Store",
+   "subtitle": "لەڕێ ئەم بەرنامەوە هەرنوسینێک لەسەر وەرەقە هەیە کۆپی بکە بە چەند چرکەیەک",
+   "localizedDescription": "لەڕێ ئەم بەرنامەوە هەرنوسینێک لەسەر وەرەقە هەیە کۆپی بکە بە چەند چرکەیەک",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Text.Capture.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.181",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "لەڕێ ئەم بەرنامەوە هەرنوسینێک لەسەر وەرەقە هەیە کۆپی بکە بە چەند چرکەیەک",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/Text.Capture_2.5.181_3BodSy.ipa",
+     "size": 34720000
+    }
+   ]
+  }
+ ]
+}

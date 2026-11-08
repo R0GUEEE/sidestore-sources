@@ -1,0 +1,44 @@
+{
+ "name": "Douyin",
+ "identifier": "dev.perapp.com-ss-iphone-ugc-aweme",
+ "subtitle": "Injected with DYYY 2.2-7",
+ "description": "Single-app source for Douyin (com.ss.iphone.ugc.Aweme). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.ss.iphone.ugc.Aweme.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ss.iphone.ugc.Aweme",
+   "name": "Douyin",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with DYYY 2.2-7",
+   "localizedDescription": "Injected with DYYY 2.2-7",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.ss.iphone.ugc.Aweme.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "32.5.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: 抖音图层, AwemeDisableBar\n\nChức năng đã thêm: AwemeDisableBar,... chỉnh sửa các tuỳ chỉnh bằng cách chạm 2 ngón tay 2 lần trong ứng dụng - IPA đã được kiểm tra và tổng hợp bởi T",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Douyin_Mod_32.5.0_TTJB.ipa",
+     "size": 491066646
+    },
+    {
+     "version": "32.6.0",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: AwemeDisableBar,... chỉnh sửa các tuỳ chỉnh bằng cách chạm 2 ngón tay 2 lần trong ứng dụng - IPA đã được kiểm tra và tổng hợp bởi T",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Douyin_Mod_32.5.0_TTJB.ipa",
+     "size": 491066646
+    },
+    {
+     "version": "27.1.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Aweme 2.3.4",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2023-10-06/DouYin_27.1.0_Aweme_2.3.4_@repo.owo.network.ipa",
+     "size": 310668539
+    }
+   ]
+  }
+ ]
+}

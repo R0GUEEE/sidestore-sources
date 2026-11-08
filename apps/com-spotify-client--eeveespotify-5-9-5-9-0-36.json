@@ -1,0 +1,46 @@
+{
+ "name": "EeveeSpotify-5.9.5-9.0.36",
+ "identifier": "dev.perapp.com-spotify-client",
+ "subtitle": "EeveeSpotify-5.9.5-9.0.36 by EeveeSpotify-5.9.5-9.0.36 x CyPwn",
+ "description": "Single-app source for EeveeSpotify-5.9.5-9.0.36 (com.spotify.client). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.9.5-9.0.36.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client",
+   "name": "EeveeSpotify-5.9.5-9.0.36",
+   "developerName": "EeveeSpotify-5.9.5-9.0.36 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "EeveeSpotify-5.9.5-9.0.36",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/EeveeSpotify-5.9.5-9.0.36.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/EeveeSpotify-5.9.5-9.0.36/EeveeSpotify-5.9.5-9.0.36-0.png"
+   ],
+   "versions": [
+    {
+     "version": "9.0.36",
+     "date": "2025-04-30T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/EeveeSpotify-5.9.5-9.0.36.ipa",
+     "size": 84190167
+    },
+    {
+     "version": "9.0.26",
+     "date": "2025-03-13T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/EeveeSpotify-5.8.8-9.0.26.ipa",
+     "size": 84211138
+    },
+    {
+     "version": "9.0.14",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/EeveeSpotify-5.8.6-9.0.14.ipa",
+     "size": 82281758
+    }
+   ]
+  }
+ ]
+}

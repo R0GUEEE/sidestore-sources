@@ -1,0 +1,34 @@
+{
+ "name": "NFSU2",
+ "identifier": "dev.perapp.com-devz-nfsu2",
+ "subtitle": "Need For Speed Underground 2 Xbox Original port for iPhone, iPad and macOS. Native Metal renderer, touch, controller and",
+ "description": "Single-app source for NFSU2 (com.devz.nfsu2). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#86a040",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.nfsu2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.nfsu2",
+   "name": "NFSU2",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "Need For Speed Underground 2 Xbox Original port for iPhone, iPad and macOS. Native Metal renderer, touch, controller and keyboard controls",
+   "localizedDescription": "NFSU2 for iPhone and iPad:\n\nUnofficial native port of the original Xbox Need for Speed: Underground 2, based on myUdav4iik/nfsu2-ios and antoxa2584x/nfsu2-sw. Uses static recompilation and a native Metal renderer; no JIT is required.\n\nThis repository contains source and build tools. Game discs, extracted game files, translated game-code output, signing credentials and music are not included. Supply your own disc. The icon artwork is the supplied game cover; game names/artwork belong to their respective owners. This project is not affiliated with EA or Microsoft.\n\nDisplay and frame pacing:\n\n• Fullscreen landscape presentation on iPhone and iPad, with an optional aspect-fit mode. The macOS host also supports fullscreen and the F11 shortcut.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.nfsu2.png",
+   "tintColor": "#86a040",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3",
+     "date": "2026-10-15T18:19:52Z",
+     "localizedDescription": "Unsigned PAL build for iPhone and iPad. Sign the IPA with your preferred sideloading tool before installing. Supply your own matching European PAL Xbox disc; game files and music are not included. Other executable regions/revisions require matching translations.\n\nBundle ID: com.devz.nfsu2 · Version: 0.3, build 2.\n\nMobile experience:\n\n• Fullscreen landscape play with optional aspect-fit presentation.\n• Uncapped presentation by default; optional FPS ceiling through NFSU2_FPS_LIMIT.\n• 4× internal width and height by default on iOS; adjustable render scale.\n• Racing-style touch controls and a separate simple menu layout. Both layouts support independent positioning, size, opacity, visibility and button mappings, with Save, Cancel and Reset.\n• Automatic PAL Menu/Drive switching, including pause/options/frontend detection. A manual toggle remains available.\n• Physical controllers take over from the touch pad; disconnecting restores neutral touch input.\n• MP3 import from Files, persistent playlist, playback switch, volume and Next Track. Lower the original soundtrack's Music volume in-game to hear only your playlist with game effects.\n• Background suspension for the game, GPU work and audio.\n\nImport and distribution:\n\n• Streaming Xbox ISO extraction with path/bounds checks, executable preflight, staged replacement and save preservation.\n• PAL Europe and NTSC-U executable profiles. Each build contains one matching executable translation; region-neutral ISO extraction does not provide universal regional playback.\n• Active extracted directory and compiled profile shown under Edit → Game files. Default directory: Files → On My iPhone/iPad → NFSU2 → game.\n• New game-cover icon, display name NFSU2, bundle ID com.devz.nfsu2, version 0.3, build 2.\n• Public unsigned PAL IPA and SHA-256 checksum in dist/; sign for your own device before installation.\n• Public source cleaned of local developer notes and compiled test binaries. Game files, generated game code, music and signing material remain excluded from source.\n\nPerformance:\n\n• Cache Metal uniform, constant-buffer, texture and sampler bindings within their valid encoder lifetime.\n• Reuse unchanged transform-constant uploads within a command buffer; keep fresh allocations for changed constants and instanced draws.\n• Combine matching feedback-stage snapshots into one copy per draw.\n• Use render-pass clears for complete surface clears while preserving partial and active-pass behavior.\n• Native PAL CRT/video conversion fast paths and Apple generated-code optimization.\n• Add asynchronous GPU timing diagnostics without waiting for GPU completion.\n\nValidation and limitations:\n\n• Seven input/pacing tests passed, alongside UIKit layout/customization/lifecycle/import tests, MP3 playback tests, XISO checks and Metal GPU regression checks at native and 4× scale.\n• Installed and launched on an iPhone 16 Pro Max. All 191 transferred disc files matched source sizes and SHA-1 checksums on-device.\n• Synthetic constant-upload benchmarks reduced CPU submission time by about 7–9% for that workload; this is not a measured gameplay FPS gain.\n• Real race/pause automatic transitions and sustained gameplay performance still need device validation. Arbitrary regions and executable revisions require their own verified translation.",
+     "downloadURL": "https://github.com/DevZer0D4Y/nfsu2-ios/releases/download/v0.3/NFSU2-0.3-unsigned.ipa",
+     "size": 15883081
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

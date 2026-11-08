@@ -1,0 +1,33 @@
+{
+ "name": "iTorrent",
+ "identifier": "dev.perapp.com-xitrix-itorrent2",
+ "subtitle": "iTorrent by iTorrent x CyPwn",
+ "description": "Single-app source for iTorrent (com.xitrix.iTorrent2). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/iTorrent.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.xitrix.iTorrent2",
+   "name": "iTorrent",
+   "developerName": "iTorrent x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "iTorrent v2.1.1-1 by XITRIX iOS 16+",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/iTorrent.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/iTorrent/iTorrent-0.png",
+    "https://ipa.cypwn.xyz/serve/screenshots/iTorrent/iTorrent-1.png"
+   ],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2025-12-18T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/iTorrent.ipa",
+     "size": 8357150
+    }
+   ]
+  }
+ ]
+}

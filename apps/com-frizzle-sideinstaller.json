@@ -1,0 +1,37 @@
+{
+ "name": "SideInstaller",
+ "identifier": "dev.perapp.com-frizzle-sideinstaller",
+ "subtitle": "An app that installs SideStore and LiveContainer directly on your iPhone on iOS 27, fully on-device. No PC required.",
+ "description": "Single-app source for SideInstaller (com.frizzle.sideinstaller). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/SideInstaller.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.frizzle.sideinstaller",
+   "name": "SideInstaller",
+   "developerName": "FrizzleM",
+   "subtitle": "An app that installs SideStore and LiveContainer directly on your iPhone on iOS 27, fully on-device. No PC required.",
+   "localizedDescription": "An app that installs SideStore and LiveContainer directly on your iPhone on iOS 27, fully on-device. No PC required.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/SideInstaller.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.1",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "An app that installs SideStore and LiveContainer directly on your iPhone on iOS 27, fully on-device. No PC required.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/SideInstaller.ipa",
+     "size": 10201016
+    },
+    {
+     "version": "0.9.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "An app that installs SideStore and LiveContainer directly on your iPhone on iOS 27, fully on-device. No PC required.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/SideInstaller.ipa",
+     "size": 7908297
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "name": "Winston",
+ "identifier": "dev.perapp.lo-cafe-winston",
+ "subtitle": "A beautiful and native Reddit client for iOS",
+ "description": "Single-app source for Winston (lo.cafe.winston). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#c6973d",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/lo.cafe.winston.png",
+ "apps": [
+  {
+   "bundleIdentifier": "lo.cafe.winston",
+   "name": "Winston",
+   "developerName": "lo-cafe",
+   "subtitle": "A beautiful and native Reddit client for iOS",
+   "localizedDescription": "Step into Winston's embracing world! Winston is an elegant, open-source, native crafted Reddit client for iOS that pushes user experience to the next level.\n\n⚠️ We're hard at work! Both Winston and this README are works in progress. Watch this space for updates!\n\n🛠️ How to Install:\n\nAt the moment, Winston hasn't made its grand appearance on the App Store. But worry not! Here's how you can get your hands on Winston: Please note, Winston's minimum version is now iOS 17.\n\n• TestFlight: Take part in Winston's journey by joining our TestFlight here. Be aware that this could be full or unavailable due to TestFlight's occasional downtimes.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/lo.cafe.winston.png",
+   "tintColor": "#c6973d",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.5",
+     "date": "2024-06-24T08:53:08Z",
+     "localizedDescription": "• Fixed placeholder message alignment.\n\n• Added localization support.\n• Cleaned unused code and replaced glitchy book Lottie.\n• Removed old, unused TipJar component.\n• Added back GlobalLoaderProvider.\n• Fixed broken build.\n\n• Fixed many UI bugs and stutters; added new NukeUI Opt components.\n• Removed redundant code calling setAudioToMixWithOthers three times.\n\n• Fixed blur flash on app open.\n• Fixed cache clear button not working.\n• Added support for inline image within comments.\n• Improved spoiler handling in selftext.\n• Corrected tab bar hit detection in Split View on iPad.",
+     "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.5/winston.ipa",
+     "size": 50003343
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSDocumentsFolderUsageDescription": "Winston needs access to your documents to save/import themes.",
+     "NSFaceIDUsageDescription": "Uses FaceID to lock and unlock Winston",
+     "NSPhotoLibraryUsageDescription": "Winston needs access to your library to be able to download images."
+    }
+   }
+  }
+ ]
+}

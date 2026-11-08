@@ -1,0 +1,30 @@
+{
+ "name": "ShadowFight3",
+ "identifier": "dev.perapp.com-nekki-shadowfight3",
+ "subtitle": "ShadowFight3",
+ "description": "Single-app source for ShadowFight3 (com.nekki.shadowfight3). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nekki.shadowfight3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nekki.shadowfight3",
+   "name": "ShadowFight3",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with FreezeCurrency",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nekki.shadowfight3.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.40.0",
+     "date": "2024-12-08T00:00:00Z",
+     "localizedDescription": "Injected with FreezeCurrency",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/ShadowFight3_1.40.0_FreezeCurrency_%40thisismanpreets_apptesters.org.ipa",
+     "size": 191589199
+    }
+   ]
+  }
+ ]
+}

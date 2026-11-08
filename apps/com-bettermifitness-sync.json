@@ -1,0 +1,37 @@
+{
+ "name": "Better Mi Fitness Sync",
+ "identifier": "dev.perapp.com-bettermifitness-sync",
+ "subtitle": "Better Mi Fitness Sync",
+ "description": "Single-app source for Better Mi Fitness Sync (com.bettermifitness.sync). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#9956af",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.bettermifitness.sync.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bettermifitness.sync",
+   "name": "Better Mi Fitness Sync",
+   "developerName": "ilyasaftr",
+   "subtitle": "Better Mi Fitness Sync",
+   "localizedDescription": "Better Mi Fitness Sync:\n\nSync your Mi Fitness data to Health Connect (Android) or Apple Health (iOS): steps, heart rate, sleep, workouts, and more.\n\nWhat it does:\n\n• Signs in to your Mi Fitness account.\n• Syncs steps, heart rate, sleep, SpO₂, weight, workouts (including GPS routes when available), and other metrics.\n• Writes data to Health Connect or Apple Health.\n• Optional auto-sync on a schedule.\n• Keeps login and health data on your device only.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.bettermifitness.sync.png",
+   "tintColor": "#9956af",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.6",
+     "date": "2026-10-12T06:00:19Z",
+     "localizedDescription": "Changes since v1.0.5:\n\n• fix(ci): compile composeApp against SDK 37 for coil3 metadata (f1ce260).\n\n• fix: keep Mi session alive across weeks without sync (ddd3061).\n• chore(detekt): exclude test sources from LargeClass (67fe511).\n• fix(sync): parse sleep segment_details envelopes (f82dd6f).\n• fix(sync): stop double-counting workout steps, distance, calories (e7f4507).\n• chore: apply copilot locale fixes for captcha strings (3912aa4).\n• chore: add captcha strings to remaining locales (546e5b6).\n• Updated Hungarian translation (6724271).",
+     "downloadURL": "https://github.com/ilyasaftr/better-mi-fitness-sync/releases/download/v1.0.6/BetterMiFitnessSync-1.0.6.ipa",
+     "size": 12795063
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSHealthShareUsageDescription": "Better Mi Fitness Sync needs access to read your health data for sync verification.",
+     "NSHealthUpdateUsageDescription": "Better Mi Fitness Sync writes your Mi Fitness health data (heart rate, sleep, workouts, GPS workout routes, steps, SpO2, blood pressure, temperature, VO2 max) to Apple Health."
+    }
+   }
+  }
+ ]
+}

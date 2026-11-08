@@ -1,0 +1,36 @@
+{
+ "name": "Stratagus",
+ "identifier": "dev.perapp.com-rebelancap-stratagus",
+ "subtitle": "Warcraft II (Wargus) on iOS, running the Stratagus",
+ "description": "Single-app source for Stratagus (com.rebelancap.stratagus). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#a9643e",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.stratagus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.stratagus",
+   "name": "Stratagus",
+   "developerName": "rebelancap",
+   "subtitle": "Warcraft II (Wargus) on iOS, running the Stratagus",
+   "localizedDescription": "Stratagus for iOS:\n\nWarcraft II (Wargus) on iOS, running the Stratagus engine. Single-player and local-network multiplayer are playable: touch + gesture controls, on-screen keyboard, and saves visible in the Files app.\n\nBring your own Warcraft II: Battle.net Edition files — the app ships no game data. On first launch you get an import screen: put the files somewhere the Files app can reach (iCloud Drive, On My iPhone, or a USB drive), tap Import, and pick a folder containing either:\n\n• Already-extracted data — a folder holding Install.mpq and the Support/ folder (e.g. extracted earlier on a PC). This skips the unpack step.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.stratagus.png",
+   "tintColor": "#a9643e",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-07-04T05:35:18Z",
+     "localizedDescription": "Warcraft II (Wargus) on iOS — single-player and local-network multiplayer.\n\nInstall: sideload the .ipa with SideStore, AltStore, Sideloadly, or TrollStore. Bring your own Warcraft II data (GOG/CD) — import it on first launch. See more, including touch controls and multiplayer details in the README.\n\nNote: LAN auto-discovery requires signing with a PAID Apple Developer account (the multicast entitlement). Free account sideloads can still play multiplayer — use \"Add server\" in Join Local Game to enter the host's IP manually.",
+     "downloadURL": "https://github.com/rebelancap/stratagus-ios/releases/download/v0.1.0/Stratagus.ipa",
+     "size": 11469980
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Wargus uses your local network to host and find nearby multiplayer games."
+    }
+   }
+  }
+ ]
+}

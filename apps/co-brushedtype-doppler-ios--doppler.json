@@ -1,0 +1,37 @@
+{
+ "name": "Doppler",
+ "identifier": "dev.perapp.co-brushedtype-doppler-ios",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Doppler (co.brushedtype.doppler-ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.brushedtype.doppler-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.brushedtype.doppler-ios",
+   "name": "Doppler",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.brushedtype.doppler-ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-10-2025/Doppler_3.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 16102015
+    },
+    {
+     "version": "3.1.5",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "A stunningly FLAC and MP3 player that supports a wide range of file formats. Easily import music and playlists for offline listening and edit song and",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Doppler3/Doppler3-3.1.5.ipa",
+     "size": 14617674
+    }
+   ]
+  }
+ ]
+}

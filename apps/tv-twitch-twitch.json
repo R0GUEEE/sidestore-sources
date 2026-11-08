@@ -1,0 +1,46 @@
+{
+ "name": "Twitch",
+ "identifier": "dev.perapp.tv-twitch-twitch",
+ "subtitle": "A better Twitch experience for iOS",
+ "description": "Single-app source for Twitch (tv.twitch.twitch). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8e44f8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/tv.twitch.twitch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.twitch.twitch",
+   "name": "Twitch",
+   "developerName": "Knoks1111",
+   "subtitle": "A better Twitch experience for iOS",
+   "localizedDescription": "TwitchPlusK is a tweak for the official Twitch iOS app. It keeps the native app and adds a fully customizable chat, 7TV/BTTV/FFZ emotes, adblock, Channel Points Auto Claim, OLED mode and more.\n\nAvailable in ENGLISH and FRENCH from the Settings menu.\n\nChat and emotes:\n\n• Reply to messages, view threads, and customize deleted-message display.\n• Use 7TV, BTTV, and FFZ emotes, including animated and Zero-Width emotes.\n• Search emotes, manage favorites, and import favorites from PC.\n• Choose picker providers, animations, and the opening tab.\n\nAd blocking:\n\n• Proxy — block stream ads through a default or custom proxy.\n• Local (VAFT) — block stream ads without a video proxy.\n• Proxy + Local (VAFT) — combine a stream relay with local ad blocking.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/tv.twitch.twitch.png",
+   "tintColor": "#8e44f8",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Knoks1111/TwitchPlusK@main/Assets/01-live-chat-and-subscriptions.png",
+    "https://cdn.jsdelivr.net/gh/Knoks1111/TwitchPlusK@main/Assets/02-chat-and-emote-picker.png",
+    "https://cdn.jsdelivr.net/gh/Knoks1111/TwitchPlusK@main/Assets/03-chat-and-picker-customization.png",
+    "https://cdn.jsdelivr.net/gh/Knoks1111/TwitchPlusK@main/Assets/04-settings-overview.png",
+    "https://cdn.jsdelivr.net/gh/Knoks1111/TwitchPlusK@main/Assets/05-player-and-playback-settings.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0.3",
+     "date": "2026-11-08T00:23:52Z",
+     "localizedDescription": "TwitchPlusK release info:\n\n• Twitch app version: 31.9.\n• Full changelog: CHANGELOG.md.\n\nFixes:\n\n• Fixed the emote picker button missing when Twitch’s Bits button is unavailable: it now appears directly to the left of the native emote button.",
+     "downloadURL": "https://github.com/Knoks1111/TwitchPlusK/releases/download/twitchplusk-v2.0.3-twitch-31.9/tpK-2.0.3-Twitch-31.9.ipa",
+     "size": 196182590
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Twitch needs permission to access the camera on this device to stream live video and change your profile image.",
+     "NSLocalNetworkUsageDescription": "Twitch uses the local network to discover Cast-enabled devices on your WiFi network.",
+     "NSMicrophoneUsageDescription": "Twitch needs permission to access the microphone on this device to stream live video.",
+     "NSPhotoLibraryAddUsageDescription": "Twitch needs permission to write to your photo library in order to save images.",
+     "NSUserTrackingUsageDescription": "Your iOS advertising ID and device data will be used to support creators and provide a personal ad experience."
+    }
+   }
+  }
+ ]
+}

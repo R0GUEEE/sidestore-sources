@@ -1,0 +1,44 @@
+{
+ "name": "Aidoku",
+ "identifier": "dev.perapp.xyz-skitty-aidoku",
+ "subtitle": "Webtoon/manga browser Last updated: 05-13-2024 Status: ✅",
+ "description": "Single-app source for Aidoku (xyz.skitty.Aidoku). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.skitty.Aidoku",
+   "name": "Aidoku",
+   "developerName": "Aidoku",
+   "subtitle": "Webtoon/manga browser Last updated: 05-13-2024 Status: ✅",
+   "localizedDescription": "Webtoon/manga browser Last updated: 05-13-2024 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/xyz.skitty.Aidoku.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.6.4-10b1121",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Webtoon/manga browser Last updated: 08-18-2024 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-17-2023/Aidoku-0.6.4-10b1121.ipa",
+     "size": 5568713
+    },
+    {
+     "version": "0.6.4-0c1c109",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Webtoon/manga browser Last updated: 08-18-2024 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2023/Aidoku-0.6.4-0c1c109.ipa",
+     "size": 5568175
+    },
+    {
+     "version": "0.6.4-0069c4d",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Webtoon/manga browser Last updated: 08-18-2024 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Aidoku-0.6.4-0069c4d.ipa",
+     "size": 5568127
+    }
+   ]
+  }
+ ]
+}

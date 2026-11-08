@@ -1,0 +1,30 @@
+{
+ "name": "Streets of Rage 2",
+ "identifier": "dev.perapp.com-sega-streetsofrage2",
+ "subtitle": "ipaomtk.com | Introduction to Streets of Rage 2 Streets of Rage 2 is widely considered one of the greatest beat-’em-up g",
+ "description": "Single-app source for Streets of Rage 2 (com.sega.streetsofrage2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Streets-of-Rage-2-LOGO-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sega.streetsofrage2",
+   "name": "Streets of Rage 2",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction to Streets of Rage 2 Streets of Rage 2 is widely considered one of the greatest beat-’em-up games of all time, and its arri",
+   "localizedDescription": "ipaomtk.com | Introduction to Streets of Rage 2 Streets of Rage 2 is widely considered one of the greatest beat-’em-up games of all time, and its arri",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Streets-of-Rage-2-LOGO-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.0",
+     "date": "2025-12-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to Streets of Rage 2 Streets of Rage 2 is widely considered one of the greatest beat-’em-up games of all time, and its arri",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Streets-of-Rage-2-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

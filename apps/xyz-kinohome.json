@@ -1,0 +1,30 @@
+{
+ "name": "KinoHome",
+ "identifier": "dev.perapp.xyz-kinohome",
+ "subtitle": "KinoHome",
+ "description": "Single-app source for KinoHome (xyz.kinohome). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.kinohome",
+   "name": "KinoHome",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nKinoHome v5.9.6  \n\n🇷🇺 Удобное приложение для просмотра фильмов и сериалов.\n— В приложение существует платная подписка\n© Создано: KinoHome  \n\n🇺🇸 A convenient application for watching movies and TV series. \n— There is a paid subscription to the app\n© Created: KinoHome",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.9.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nKinoHome v5.9.6  \n\n🇷🇺 Удобное приложение для просмотра фильмов и сериалов.\n— В приложение существует платная подписка\n© Создано: KinoHome  \n\n🇺🇸 A convenient application for watching movies and TV series. \n— There is a paid subscription to the app\n© Created: KinoHome",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/19bee9a8-a309-4941-9a97-940932742cad/KinoHome_v5.9.6_tg_glesign_.ipa",
+     "size": 19041227
+    }
+   ]
+  }
+ ]
+}

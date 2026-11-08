@@ -1,0 +1,30 @@
+{
+ "name": "YTKACE (1.1.4 - iOS 16+ Support)",
+ "identifier": "dev.perapp.com-google-ios-youtube-ytkace-1-1-4-ios16",
+ "subtitle": "This is a modded version of YouTube. This version of YTKACE works on iOS16+ devices! Source Code: https://github.com/itz",
+ "description": "Single-app source for YTKACE (1.1.4 - iOS 16+ Support) (com.google.ios.youtube.ytkace.1.1.4.ios16). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.ytkace.1.1.4.ios16",
+   "name": "YTKACE (1.1.4 - iOS 16+ Support)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. This version of YTKACE works on iOS16+ devices! Source Code: https://github.com/itzzace/YTKACE",
+   "localizedDescription": "This is a modded version of YouTube. This version of YTKACE works on iOS16+ devices! Source Code: https://github.com/itzzace/YTKACE\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.33.6",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This version of YTKACE works on iOS16+ devices! Source Code: https://github.com/itzzace/YTKACE",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_1.1.4_YouTube_iOS16_21.33.6.ipa",
+     "size": 134053659
+    }
+   ]
+  }
+ ]
+}

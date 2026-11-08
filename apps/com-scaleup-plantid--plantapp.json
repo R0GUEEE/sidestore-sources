@@ -1,0 +1,44 @@
+{
+ "name": "PlantApp",
+ "identifier": "dev.perapp.com-scaleup-plantid",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for PlantApp (com.scaleup.plantid). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scaleup.plantid",
+   "name": "PlantApp",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.8",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-08-2025/PlantApp_3.1.8_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 86242828
+    },
+    {
+     "version": "3.2.3",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-10-2025/PlantApp_3.2.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 90247141
+    },
+    {
+     "version": "3.1.5",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-08-2025/PlantApp_3.1.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 83424783
+    }
+   ]
+  }
+ ]
+}

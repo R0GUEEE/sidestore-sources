@@ -1,0 +1,30 @@
+{
+ "name": "Speedtest",
+ "identifier": "dev.perapp.synthetic-speedtest-2f739f1c",
+ "subtitle": "Speedtest by Karbin-Store",
+ "description": "Single-app source for Speedtest (synthetic.speedtest.2f739f1c). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Speedtest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.speedtest.2f739f1c",
+   "name": "Speedtest",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "کردنەوەی تایبەتمەندیە بە پارەکان بە خۆڕایی",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Speedtest.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "کردنەوەی تایبەتمەندیە بە پارەکان بە خۆڕایی",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Speedtest5.5.0.ipa",
+     "size": 64070000
+    }
+   ]
+  }
+ ]
+}

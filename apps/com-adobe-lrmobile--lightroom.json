@@ -1,0 +1,37 @@
+{
+ "name": "Lightroom",
+ "identifier": "dev.perapp.com-adobe-lrmobile",
+ "subtitle": "Lightroom",
+ "description": "Single-app source for Lightroom (com.adobe.lrmobile). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/bbb3c154-c915-4707-9ae5-03c7f995f46d/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.lrmobile",
+   "name": "Lightroom",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAdobe Lightroom for iPad\n\nTap on buy premium then cancel\n\nMinimum OS version 17.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/bbb3c154-c915-4707-9ae5-03c7f995f46d/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.5.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAdobe Lightroom for iPad\n\nTap on buy premium then cancel\n\nMinimum OS version 17.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/76ce2e97-1446-4575-a11a-7262e364796c/Adobe_Lightroom_iPad_Premium10.5.1.ipa",
+     "size": 177271223
+    },
+    {
+     "version": "10.3.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAdobe Lightroom for iPad\n\nTap on buy premium then cancel\n\nminimum OS version 17.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/757989c5-ed46-436b-afb2-6f393be0d347/Adobe_Lightroom_iPad_Premium10.3.1.ipa",
+     "size": 179383395
+    }
+   ]
+  }
+ ]
+}

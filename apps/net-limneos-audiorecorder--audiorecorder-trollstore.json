@@ -1,0 +1,30 @@
+{
+ "name": "AudioRecorder - TrollStore",
+ "identifier": "dev.perapp.net-limneos-audiorecorder",
+ "subtitle": "Tweaks: Active_Limneos_TTJB",
+ "description": "Single-app source for AudioRecorder - TrollStore (net.limneos.AudioRecorder). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/AudioRecorder.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "net.limneos.AudioRecorder",
+   "name": "AudioRecorder - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Tweaks: Active_Limneos_TTJB",
+   "localizedDescription": "Tweaks: Active_Limneos_TTJB\n\nChức năng đã thêm: kích hoạt sẵn. Ứng dụng ghi âm cuộc gọi phiên bản TrollStore. Yêu cầu cài với TrollStore để sử dụng - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/AudioRecorder.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: Active_Limneos_TTJB\n\nChức năng đã thêm: kích hoạt sẵn. Ứng dụng ghi âm cuộc gọi phiên bản TrollStore. Yêu cầu cài với TrollStore để sử dụng - IPA đã được kiểm tra và…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AudioRecorderTS_6.0.3_TTJB.tipa",
+     "size": 4747361
+    }
+   ]
+  }
+ ]
+}

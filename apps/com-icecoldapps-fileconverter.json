@@ -1,0 +1,30 @@
+{
+ "name": "FileConverter",
+ "identifier": "dev.perapp.com-icecoldapps-fileconverter",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for FileConverter (com.icecoldapps.fileconverter). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icecoldapps.fileconverter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.icecoldapps.fileconverter",
+   "name": "FileConverter",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icecoldapps.fileconverter.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.2.4",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ) - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-12-2025/FileConverter_24.2.4_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 36255806
+    }
+   ]
+  }
+ ]
+}

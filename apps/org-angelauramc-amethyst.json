@@ -1,0 +1,32 @@
+{
+ "name": "Amethyst_1.0",
+ "identifier": "dev.perapp.org-angelauramc-amethyst",
+ "subtitle": "Amethyst_1.0 by Amethyst_1.0 x CyPwn",
+ "description": "Single-app source for Amethyst_1.0 (org.angelauramc.amethyst). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Amethyst_1.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.angelauramc.amethyst",
+   "name": "Amethyst_1.0",
+   "developerName": "Amethyst_1.0 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Minecraft: Java Edition Launcher",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Amethyst_1.0.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Amethyst_1.0/Amethyst_1.0-0.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2025-07-14T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Amethyst_1.0.ipa",
+     "size": 30125588
+    }
+   ]
+  }
+ ]
+}

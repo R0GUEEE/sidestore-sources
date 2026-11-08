@@ -1,0 +1,44 @@
+{
+ "name": "Impulse",
+ "identifier": "dev.perapp.gen-tech-impulse",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for Impulse (gen.tech.impulse). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
+ "apps": [
+  {
+   "bundleIdentifier": "gen.tech.impulse",
+   "name": "Impulse",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.34",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Impulse_1.34_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 86601400
+    },
+    {
+     "version": "1.40",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-12-2025/Impulse_1.40_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 86624771
+    },
+    {
+     "version": "1.38",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Impulse_1.38_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 87193233
+    }
+   ]
+  }
+ ]
+}

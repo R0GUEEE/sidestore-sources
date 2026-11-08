@@ -1,0 +1,44 @@
+{
+ "name": "Twitter (NF)",
+ "identifier": "dev.perapp.com-atebits-tweetie2",
+ "subtitle": "iOSDecrypted",
+ "description": "Single-app source for Twitter (NF) (com.atebits.Tweetie2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/191740.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.atebits.Tweetie2",
+   "name": "Twitter (NF)",
+   "developerName": "iOSDecrypted",
+   "subtitle": "iOSDecrypted",
+   "localizedDescription": "iOSDecrypted",
+   "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/191740.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.41",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\nFeatures:  • Download Videos (even if account private). • Replay later feature. • Video zoom feature. • No history feature. • Hide topics tweet featur",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.41.+.NFB.v7.3.1.ipa",
+     "size": 275510462
+    },
+    {
+     "version": "12.40.1",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of X/Twitter 12.40.1  ▪Liquid Glass toggle built in! Builds: ▪X NFB 7.3.1 ▪X NFB+TWI ▪Twitter Branded NFB 7.3.1 ▪Twitter Branded NF",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1188-X%2012.40.1%20NFB+TWI%207.3.1%20%5B@ipavault%5D.ipa",
+     "size": 274341579
+    },
+    {
+     "version": "12.40",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Features:  • Download Videos (even if account private). • Replay later feature. • Video zoom feature. • No history feature. • Hide topics tweet featur",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.+.NFB.v7.3.1.ipa",
+     "size": 270815817
+    }
+   ]
+  }
+ ]
+}

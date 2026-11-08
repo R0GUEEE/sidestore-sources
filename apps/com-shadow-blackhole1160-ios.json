@@ -1,0 +1,44 @@
+{
+ "name": "BlackHole",
+ "identifier": "dev.perapp.com-shadow-blackhole1160-ios",
+ "subtitle": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist impo",
+ "description": "Single-app source for BlackHole (com.shadow.blackhole1160.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shadow.blackhole1160.ios",
+   "name": "BlackHole",
+   "developerName": "Sangwan5688",
+   "subtitle": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc. Last up",
+   "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc. Last up",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.shadow.blackhole1160.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15.11",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc. Last up",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BlackHole/BlackHole-1.15.11.ipa",
+     "size": 18475866
+    },
+    {
+     "version": "1.15.8",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc. Last up",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BlackHole/BlackHole-1.15.8.ipa",
+     "size": 28702109
+    },
+    {
+     "version": "1.15.6",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Music player with a very nice UI that streams from YouTube Music. Supports downloading, playlist creation, playlist imports, app backups, etc. Last up",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BlackHole/BlackHole-1.15.6.ipa",
+     "size": 26410422
+    }
+   ]
+  }
+ ]
+}

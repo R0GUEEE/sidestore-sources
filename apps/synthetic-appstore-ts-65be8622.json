@@ -1,0 +1,30 @@
+{
+ "name": "AppStore++_TS",
+ "identifier": "dev.perapp.synthetic-appstore-ts-65be8622",
+ "subtitle": "v1.0.3-2 - Downgrade apps with ease.",
+ "description": "Single-app source for AppStore++_TS (synthetic.appstore-ts.65be8622). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppStore++_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.appstore-ts.65be8622",
+   "name": "AppStore++_TS",
+   "developerName": "AppStore++_TS x CyPwn",
+   "subtitle": "v1.0.3-2 - Downgrade apps with ease.",
+   "localizedDescription": "v1.0.3-2 - Downgrade apps with ease.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppStore++_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "v1.0.3-2 - Downgrade apps with ease.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/AppStore++_TS.ipa",
+     "size": 17584619
+    }
+   ]
+  }
+ ]
+}

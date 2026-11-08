@@ -1,0 +1,30 @@
+{
+ "name": "Infinity Blade I",
+ "identifier": "dev.perapp.com-chairentertainment-birthright",
+ "subtitle": "Fortnite Predecessor",
+ "description": "Single-app source for Infinity Blade I (com.chairentertainment.birthright). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/IMG_2127-68.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chairentertainment.birthright",
+   "name": "Infinity Blade I",
+   "developerName": "Epic Games",
+   "subtitle": "Fortnite Predecessor",
+   "localizedDescription": "Infinity Blade is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/IMG_2127-68.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.3",
+     "date": "2024-10-26T00:00:00Z",
+     "localizedDescription": "Infinity Blade is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/Infinity_Blade_I_Community_Patch_v2_0-dt.ipa",
+     "size": 636863119
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SongInfos",
+ "identifier": "dev.perapp.de-firatcan-song-infos",
+ "subtitle": "SongInfos",
+ "description": "Single-app source for SongInfos (de.firatcan.Song-Infos). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.firatcan.Song-Infos.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.firatcan.Song-Infos",
+   "name": "SongInfos",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.firatcan.Song-Infos.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.35.1",
+     "date": "2025-10-31T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/SongInfos_1.35.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 21849104
+    }
+   ]
+  }
+ ]
+}

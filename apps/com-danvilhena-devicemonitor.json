@@ -1,0 +1,44 @@
+{
+ "name": "Monitor",
+ "identifier": "dev.perapp.com-danvilhena-devicemonitor",
+ "subtitle": "@Sa1y0miii | Device Status & System Monitor 🧸 Min.iOS: [16.0+] 🧀 App version: [1.1.6]⠀new! 🪼 App Store: https://apps.app",
+ "description": "Single-app source for Monitor (com.danvilhena.DeviceMonitor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11547.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.danvilhena.DeviceMonitor",
+   "name": "Monitor",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | Device Status & System Monitor 🧸 Min.iOS: [16.0+] 🧀 App version: [1.1.6]⠀new! 🪼 App Store: https://apps.apple.com/app/id6760554255 📮 Note",
+   "localizedDescription": "@Sa1y0miii | Device Status & System Monitor 🧸 Min.iOS: [16.0+] 🧀 App version: [1.1.6]⠀new! 🪼 App Store: https://apps.apple.com/app/id6760554255 📮 Note",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11547.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.1",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Device Status & System Monitor 🧸 Min.iOS: [16.0+] 🧀 App version: [1.2.1] !upd  🪼 App Store: https://apps.apple.com/app/id6760554255 📮 Not",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/12251-%E2%80%8EStatus%20Monitor_v1.2.1_tg@Sa1y0miii.ipa",
+     "size": 11108752
+    },
+    {
+     "version": "1.2.0",
+     "date": "2026-08-29T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Device Status & System Monitor 🧸 Min.iOS: [16.0+] 🧀 App version: [1.2.0] !upd  🪼 App Store: https://apps.apple.com/app/id6760554255 📮 Not",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/12012-%E2%80%8EDevice%20Monitor%20&%E2%80%A6_v1.2.0_tg@Sa1y0miii.ipa",
+     "size": 16703320
+    },
+    {
+     "version": "1.1.7",
+     "date": "2026-08-21T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Device Status & System Monitor 🧸 Min.iOS: [16.0+] 🧀 App version: [1.1.7] !upd  🪼 App Store: https://apps.apple.com/app/id6760554255 📮 Not",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/11670-%E2%80%8EDevice%20Status%20&%20S%E2%80%A6_v1.1.7_tg@Sa1y0miii.ipa",
+     "size": 10851629
+    }
+   ]
+  }
+ ]
+}

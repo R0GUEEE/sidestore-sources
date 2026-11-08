@@ -1,0 +1,30 @@
+{
+ "name": "osu!",
+ "identifier": "dev.perapp.sh-ppy-osulazer",
+ "subtitle": "osu!:  A free-to-win rhythm game. Rhythm is just a click away!  Status:  This project is under constant development, but",
+ "description": "Single-app source for osu! (sh.ppy.osulazer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/sh.ppy.osulazer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "sh.ppy.osulazer",
+   "name": "osu!",
+   "developerName": "ppy",
+   "subtitle": "osu!:  A free-to-win rhythm game. Rhythm is just a click away!  Status:  This project is under constant development, but we do our best to keep things",
+   "localizedDescription": "osu!:  A free-to-win rhythm game. Rhythm is just a click away!  Status:  This project is under constant development, but we do our best to keep things\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/sh.ppy.osulazer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "osu!:  A free-to-win rhythm game. Rhythm is just a click away!  Status:  This project is under constant development, but we do our best to keep things",
+     "downloadURL": "https://github.com/ppy/osu/releases/download/2026.921.0-lazer/osu.iOS.ipa",
+     "size": 221244419
+    }
+   ]
+  }
+ ]
+}

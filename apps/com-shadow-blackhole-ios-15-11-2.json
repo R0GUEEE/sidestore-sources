@@ -1,0 +1,30 @@
+{
+ "name": "Blackhole",
+ "identifier": "dev.perapp.com-shadow-blackhole-ios-15-11-2",
+ "subtitle": "SUDDEN DEATH",
+ "description": "Single-app source for Blackhole (com.shadow.blackhole.ios.15.11.2). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/IMG_5355-sq.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shadow.blackhole.ios.15.11.2",
+   "name": "Blackhole",
+   "developerName": "Blackhole Development Team",
+   "subtitle": "SUDDEN DEATH",
+   "localizedDescription": "Music Player with Downloads.\n\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/IMG_5355-sq.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.1",
+     "date": "2024-10-25T00:00:00Z",
+     "localizedDescription": "Music Player with Downloads.\n\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Black_Hole_v1_15_11_ios-7c.ipa",
+     "size": 16043212
+    }
+   ]
+  }
+ ]
+}

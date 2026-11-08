@@ -1,0 +1,37 @@
+{
+ "name": "Madeira",
+ "identifier": "dev.perapp.com-willfaust-madeora",
+ "subtitle": "Madeira runs Windows PC games on an iPhone, with no jailbreak. Games run as they are, unmodified, inside a single iOS ap",
+ "description": "Single-app source for Madeira (com.willfaust.madeora). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.willfaust.madeora.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.willfaust.madeora",
+   "name": "Madeira",
+   "developerName": "willfaust",
+   "subtitle": "Madeira runs Windows PC games on an iPhone, with no jailbreak. Games run as they are, unmodified, inside a single iOS app.  Madeira is an active resea",
+   "localizedDescription": "Madeira runs Windows PC games on an iPhone, with no jailbreak. Games run as they are, unmodified, inside a single iOS app.  Madeira is an active resea\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.willfaust.madeora.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Madeira runs unmodified x86-64 Windows PC games inside a single jailed iOS app: FEX-Emu translates the game's x86 code to ARM64 as it runs, Wine 11.4 ",
+     "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.2.0/Madeira-0.2.0.ipa",
+     "size": 186400561
+    },
+    {
+     "version": "0.1.3",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Madeira runs Windows PC games on an iPhone, with no jailbreak. Games run as they are, unmodified, inside a single iOS app.  Madeira is an active resea",
+     "downloadURL": "https://github.com/willfaust/Madeira/releases/download/v0.1.3/Madeira-0.1.3.ipa",
+     "size": 145554426
+    }
+   ]
+  }
+ ]
+}

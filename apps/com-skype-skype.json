@@ -1,0 +1,30 @@
+{
+ "name": "Skype",
+ "identifier": "dev.perapp.com-skype-skype",
+ "subtitle": "ipaomtk.com | Skype IPA v8.131 is a versatile communication app that has revolutionized the way people connect across th",
+ "description": "Single-app source for Skype (com.skype.skype). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Skype.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skype.skype",
+   "name": "Skype",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Skype IPA v8.131 is a versatile communication app that has revolutionized the way people connect across the globe. Developed by Microsof",
+   "localizedDescription": "ipaomtk.com | Skype IPA v8.131 is a versatile communication app that has revolutionized the way people connect across the globe. Developed by Microsof",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Skype.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.93.406",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Skype IPA v8.131 is a versatile communication app that has revolutionized the way people connect across the globe. Developed by Microsof",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Skype-v8.131-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

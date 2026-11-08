@@ -1,0 +1,44 @@
+{
+ "name": "ForzaFootball",
+ "identifier": "dev.perapp.com-footballaddicts-livescoreaddicts",
+ "subtitle": "ForzaFootball",
+ "description": "Single-app source for ForzaFootball (com.footballaddicts.livescoreaddicts). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
+   "name": "ForzaFootball",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.10",
+     "date": "2026-08-10T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- legend unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2128",
+     "size": 132103457
+    },
+    {
+     "version": "6.16.6",
+     "date": "2026-01-20T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/ForzaFootball_6.16.6_Mods_%40thisismanpreets_apptesters.org.ipa",
+     "size": 115772208
+    },
+    {
+     "version": "6.15",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Forza Football - Live Scores\n\nTweak: Legend Unlocked\n\nVersion: 6.15\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/f9d1f51d-f064-4537-8510-061a19a35a62/Forza_Football_-_Live_Scores-v6.15-riftysipas.ipa",
+     "size": 82373221
+    }
+   ]
+  }
+ ]
+}

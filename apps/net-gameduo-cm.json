@@ -1,0 +1,30 @@
+{
+ "name": "Cat Mine",
+ "identifier": "dev.perapp.net-gameduo-cm",
+ "subtitle": "ipaomtk.com | Cat Mine IPA v2.7.3 iOS is a captivating mobile game that takes you on an adventure through a whimsical wo",
+ "description": "Single-app source for Cat Mine (net.gameduo.cm). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Cat-Mine-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "net.gameduo.cm",
+   "name": "Cat Mine",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Cat Mine IPA v2.7.3 iOS is a captivating mobile game that takes you on an adventure through a whimsical world filled with mischievous ca",
+   "localizedDescription": "ipaomtk.com | Cat Mine IPA v2.7.3 iOS is a captivating mobile game that takes you on an adventure through a whimsical world filled with mischievous ca",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Cat-Mine-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.4",
+     "date": "2024-05-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Cat Mine IPA v2.7.3 iOS is a captivating mobile game that takes you on an adventure through a whimsical world filled with mischievous ca",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Cat-Mine.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

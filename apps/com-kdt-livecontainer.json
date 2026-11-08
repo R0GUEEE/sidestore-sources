@@ -1,0 +1,39 @@
+{
+ "name": "LiveContainer_2.0",
+ "identifier": "dev.perapp.com-kdt-livecontainer",
+ "subtitle": "LiveContainer_2.0 by LiveContainer_2.0 x CyPwn",
+ "description": "Single-app source for LiveContainer_2.0 (com.kdt.livecontainer). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/LiveContainer_2.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kdt.livecontainer",
+   "name": "LiveContainer_2.0",
+   "developerName": "LiveContainer_2.0 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Run apps without installing them!",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/LiveContainer_2.0.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/LiveContainer_2.0/LiveContainer_2.0-0.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2024-04-20T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/LiveContainer_2.0.ipa",
+     "size": 103362
+    },
+    {
+     "version": "1.0",
+     "date": "2024-03-13T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/LiveContainer_1.0.ipa",
+     "size": 86743
+    }
+   ]
+  }
+ ]
+}

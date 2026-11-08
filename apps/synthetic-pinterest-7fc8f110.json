@@ -1,0 +1,30 @@
+{
+ "name": "Pinterest",
+ "identifier": "dev.perapp.synthetic-pinterest-7fc8f110",
+ "subtitle": "Pinterest",
+ "description": "Single-app source for Pinterest (synthetic.pinterest.7fc8f110). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.pinterest.7fc8f110",
+   "name": "Pinterest",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.20",
+     "date": "2026-05-30T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2026/Pinterest_14.20_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 126605999
+    }
+   ]
+  }
+ ]
+}

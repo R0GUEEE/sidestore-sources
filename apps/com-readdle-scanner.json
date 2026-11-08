@@ -1,0 +1,30 @@
+{
+ "name": "ScannerPro",
+ "identifier": "dev.perapp.com-readdle-scanner",
+ "subtitle": "ScannerPro",
+ "description": "Single-app source for ScannerPro (com.readdle.Scanner). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.readdle.Scanner",
+   "name": "ScannerPro",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.4",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/ScannerPro_9.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 203385209
+    }
+   ]
+  }
+ ]
+}

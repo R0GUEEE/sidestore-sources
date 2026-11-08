@@ -1,0 +1,44 @@
+{
+ "name": "SnappierIPTV",
+ "identifier": "dev.perapp.uk-co-snappy-code-snappieriptv",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for SnappierIPTV (uk.co.snappy-code.snappierIPTV). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.co.snappy-code.snappierIPTV",
+   "name": "SnappierIPTV",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.snappy-code.snappierIPTV.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.5",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-10-2025/SnappierIPTV_5.0.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 63981954
+    },
+    {
+     "version": "5.3.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/26-01-2026/SnappierIPTV_5.3.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 77663736
+    },
+    {
+     "version": "5.3.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-01-2026/SnappierIPTV_5.3.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 77677068
+    }
+   ]
+  }
+ ]
+}

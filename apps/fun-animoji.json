@@ -1,0 +1,30 @@
+{
+ "name": "AnimojiStudio",
+ "identifier": "dev.perapp.fun-animoji",
+ "subtitle": "ipaomtk.com | Animoji Studio IPA is powered by the same Framework employed by Apple’s iMessage app. By utilizing ReplayK",
+ "description": "Single-app source for AnimojiStudio (fun.Animoji). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/animoji-1-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fun.Animoji",
+   "name": "AnimojiStudio",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Animoji Studio IPA is powered by the same Framework employed by Apple’s iMessage app. By utilizing ReplayKit’s screen recording capabili",
+   "localizedDescription": "ipaomtk.com | Animoji Studio IPA is powered by the same Framework employed by Apple’s iMessage app. By utilizing ReplayKit’s screen recording capabili",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/animoji-1-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.2",
+     "date": "2023-02-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Animoji Studio IPA is powered by the same Framework employed by Apple’s iMessage app. By utilizing ReplayKit’s screen recording capabili",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AnimojiStudio.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

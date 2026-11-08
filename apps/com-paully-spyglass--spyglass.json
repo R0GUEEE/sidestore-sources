@@ -1,0 +1,37 @@
+{
+ "name": "Spyglass",
+ "identifier": "dev.perapp.com-paully-spyglass",
+ "subtitle": "Spyglass",
+ "description": "Single-app source for Spyglass (com.paully.spyglass). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/702dd342-96a9-46e4-8f28-c1effad1faf7/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.paully.spyglass",
+   "name": "Spyglass",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Spyglass\n\nTweak: Pro Unlocked\n\nVersion: 3.31.5\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/702dd342-96a9-46e4-8f28-c1effad1faf7/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.31.5",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Spyglass\n\nTweak: Pro Unlocked\n\nVersion: 3.31.5\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/47025d7c-69fc-4160-b6c5-c5e198a71814/Spyglass-v3.31.5-riftysipas.ipa",
+     "size": 33600854
+    },
+    {
+     "version": "3.31.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Spyglass\n\nTweak: Pro Unlocked\n\nVersion: 3.31.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/995d6129-d1cc-4238-986c-740af8549948/Spyglass-v3.31.3-riftysipas.ipa",
+     "size": 31155337
+    }
+   ]
+  }
+ ]
+}

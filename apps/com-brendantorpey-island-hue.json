@@ -1,0 +1,30 @@
+{
+ "name": "DarkHue",
+ "identifier": "dev.perapp.com-brendantorpey-island-hue",
+ "subtitle": "ipaomtk.com | Dark Hue IPA is revolutionizing the art of photography with its combination of technological innovation an",
+ "description": "Single-app source for DarkHue (com.brendantorpey.Island-Hue). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/512x512bb-10-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.brendantorpey.Island-Hue",
+   "name": "DarkHue",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Dark Hue IPA is revolutionizing the art of photography with its combination of technological innovation and user-friendly mobile design.",
+   "localizedDescription": "ipaomtk.com | Dark Hue IPA is revolutionizing the art of photography with its combination of technological innovation and user-friendly mobile design.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/512x512bb-10-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Dark Hue IPA is revolutionizing the art of photography with its combination of technological innovation and user-friendly mobile design.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/DarkHue.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

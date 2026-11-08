@@ -1,0 +1,30 @@
+{
+ "name": "Magiceraser",
+ "identifier": "dev.perapp.com-hhp-magiceraser",
+ "subtitle": "Magiceraser",
+ "description": "Single-app source for Magiceraser (com.hhp.magicEraser). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hhp.magicEraser",
+   "name": "Magiceraser",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6.0",
+     "date": "2024-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2024/Magiceraser_3.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 244039647
+    }
+   ]
+  }
+ ]
+}

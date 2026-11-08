@@ -1,0 +1,30 @@
+{
+ "name": "Pvz",
+ "identifier": "dev.perapp.com-ea-pvzfree-bv",
+ "subtitle": "Pvz",
+ "description": "Single-app source for Pvz (com.ea.pvzfree.bv). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.pvzfree.bv.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ea.pvzfree.bv",
+   "name": "Pvz",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ea.pvzfree.bv.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.0",
+     "date": "2024-12-10T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2024/Pvz_3.8.0_Mods_%40thisismanpreets_apptesters.org.ipa",
+     "size": 122819600
+    }
+   ]
+  }
+ ]
+}

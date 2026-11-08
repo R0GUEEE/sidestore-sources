@@ -1,0 +1,30 @@
+{
+ "name": "Onside TV",
+ "identifier": "dev.perapp.tv-onside-app",
+ "subtitle": "Onside TV:  A clean IPTV app for iPhone with a sports score center built in. It used to be called Nebulo, same app with ",
+ "description": "Single-app source for Onside TV (tv.onside.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/tv.onside.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.onside.app",
+   "name": "Onside TV",
+   "developerName": "mongoosemonke504",
+   "subtitle": "Onside TV:  A clean IPTV app for iPhone with a sports score center built in. It used to be called Nebulo, same app with a new name.  Check the scores,",
+   "localizedDescription": "Onside TV:  A clean IPTV app for iPhone with a sports score center built in. It used to be called Nebulo, same app with a new name.  Check the scores,\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/tv.onside.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Onside TV:  A clean IPTV app for iPhone with a sports score center built in. It used to be called Nebulo, same app with a new name.  Check the scores,",
+     "downloadURL": "https://github.com/mongoosemonke504/OnsideTV/releases/download/V3.0.0/OnsideTV_V3.0.0.ipa",
+     "size": 51168260
+    }
+   ]
+  }
+ ]
+}

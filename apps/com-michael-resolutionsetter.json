@@ -1,0 +1,30 @@
+{
+ "name": "ResolutionSetterTS",
+ "identifier": "dev.perapp.com-michael-resolutionsetter",
+ "subtitle": "ResolutionSetterTS by Neoncat-OG IPA Library",
+ "description": "Single-app source for ResolutionSetterTS (com.michael.resolutionsetter). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michael.resolutionsetter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.michael.resolutionsetter",
+   "name": "ResolutionSetterTS",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michael.resolutionsetter.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ResolutionSetterTS/ResolutionSetterTS-1.3.0.ipa",
+     "size": 30408
+    }
+   ]
+  }
+ ]
+}

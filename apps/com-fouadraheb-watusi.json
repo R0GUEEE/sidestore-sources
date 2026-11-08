@@ -1,0 +1,44 @@
+{
+ "name": "WhatsApp",
+ "identifier": "dev.perapp.com-fouadraheb-watusi",
+ "subtitle": "ipaomtk.com | hatsApp IPA is a widely popular messaging iOS app that has revolutionized the way we communicate with each",
+ "description": "Single-app source for WhatsApp (com.fouadraheb.watusi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/WhatsApp-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fouadraheb.watusi",
+   "name": "WhatsApp",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | hatsApp IPA is a widely popular messaging iOS app that has revolutionized the way we communicate with each other. Download With its user",
+   "localizedDescription": "ipaomtk.com | hatsApp IPA is a widely popular messaging iOS app that has revolutionized the way we communicate with each other. Download With its user",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/WhatsApp-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.42.77",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.  This is a duplicated app, it can be installed alongside original WhatsApp (Bundle ID com.foua",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+     "size": 180526473
+    },
+    {
+     "version": "26.41.75",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.  This is a duplicated app, it can be installed alongside original WhatsApp (Bundle ID com.foua",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-z1lbl/com.fouadraheb.watusi_26.41.75_watusi3_1.3.28_sl.ipa",
+     "size": 177339052
+    },
+    {
+     "version": "26.41.74",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.  This is a duplicated app, it can be installed alongside original WhatsApp (Bundle ID com.foua",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-mwf9q/com.fouadraheb.watusi_26.41.74_watusi3_1.3.27_sl.ipa",
+     "size": 177140855
+    }
+   ]
+  }
+ ]
+}

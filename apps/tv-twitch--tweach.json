@@ -1,0 +1,30 @@
+{
+ "name": "Tweach",
+ "identifier": "dev.perapp.tv-twitch",
+ "subtitle": "Tweaks: Tweach",
+ "description": "Single-app source for Tweach (tv.twitch). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.twitch",
+   "name": "Tweach",
+   "developerName": "dvntm",
+   "subtitle": "Tweaks: Tweach",
+   "localizedDescription": "Tweaks: Tweach\n\nFeatures:\n- Download VODs, Live Streams and Clips in selected quality, including audio only\n- Player customization: hide unwanted controls, live stats overlay, gestures, system player support and more\n- Profile info including HQ profile picture, banner and offline banner downloading\n- Tab bar customization: reorder and hide tabs, set startup tab\n- Import, export and reset preferences, clear cache manually or automatically on startup\n\n*Tweach preferences are available in the Twitch settings or by swiping up on the tab bar*\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/dayanch96/Tweach/refs/heads/main/sileo/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "30.4.2",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "Tweaks: Tweach\n\nFeatures: - Download VODs, Live Streams and Clips in selected quality, including audio only - Player customization: hide unwanted controls, live…",
+     "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/tweach_2.4.1+30.4.2.ipa",
+     "size": 133731546
+    }
+   ]
+  }
+ ]
+}

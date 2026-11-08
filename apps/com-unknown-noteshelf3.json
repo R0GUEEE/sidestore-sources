@@ -1,0 +1,30 @@
+{
+ "name": "Noteshelf3",
+ "identifier": "dev.perapp.com-unknown-noteshelf3",
+ "subtitle": "Injected with Satella",
+ "description": "Single-app source for Noteshelf3 (com.unknown.noteshelf3). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Noteshelf3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.noteshelf3",
+   "name": "Noteshelf3",
+   "developerName": "Karbin-Store",
+   "subtitle": "Injected with Satella",
+   "localizedDescription": "Injected with Satella",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Noteshelf3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Satella",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Noteshelf3-v1.7.4.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

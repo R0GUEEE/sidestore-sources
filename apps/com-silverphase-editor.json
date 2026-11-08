@@ -1,0 +1,30 @@
+{
+ "name": "Silverphase",
+ "identifier": "dev.perapp.com-silverphase-editor",
+ "subtitle": "Take a photograph through camera input, film, development, print and scan. Choose film and paper, then shape the image w",
+ "description": "Single-app source for Silverphase (com.silverphase.editor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.silverphase.editor",
+   "name": "Silverphase",
+   "developerName": "akinal5765-byte",
+   "subtitle": "Take a photograph through camera input, film, development, print and scan. Choose film and paper, then shape the image with exposure, development cont",
+   "localizedDescription": "Take a photograph through camera input, film, development, print and scan. Choose film and paper, then shape the image with exposure, development cont\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Silverphase/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Take a photograph through camera input, film, development, print and scan. Choose film and paper, then shape the image with exposure, development cont",
+     "downloadURL": "https://github.com/akinal5765-byte/Silverphase/releases/download/v1.1.1/Silverphase-1.1.1-iOS-unsigned.ipa",
+     "size": 92284015
+    }
+   ]
+  }
+ ]
+}

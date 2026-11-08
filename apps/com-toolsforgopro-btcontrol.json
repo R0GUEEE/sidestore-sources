@@ -1,0 +1,30 @@
+{
+ "name": "BT-Remote",
+ "identifier": "dev.perapp.com-toolsforgopro-btcontrol",
+ "subtitle": "ipaomtk.com | Bluetooth Remote for GoPro IPA v1.3.3 Unlocked iOS is a game-changing tool for GoPro camera enthusiasts. T",
+ "description": "Single-app source for BT-Remote (com.toolsforgopro.btcontrol). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Bluetooth-Remote-for-GoPro%C2%AE.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.toolsforgopro.btcontrol",
+   "name": "BT-Remote",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Bluetooth Remote for GoPro IPA v1.3.3 Unlocked iOS is a game-changing tool for GoPro camera enthusiasts. This innovative application tra",
+   "localizedDescription": "ipaomtk.com | Bluetooth Remote for GoPro IPA v1.3.3 Unlocked iOS is a game-changing tool for GoPro camera enthusiasts. This innovative application tra",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Bluetooth-Remote-for-GoPro%C2%AE.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.3",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Bluetooth Remote for GoPro IPA v1.3.3 Unlocked iOS is a game-changing tool for GoPro camera enthusiasts. This innovative application tra",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Bluetooth_Remote_for_GoPro-v1.3.3-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

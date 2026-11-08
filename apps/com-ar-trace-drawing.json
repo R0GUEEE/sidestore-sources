@@ -1,0 +1,30 @@
+{
+ "name": "AR Drawing",
+ "identifier": "dev.perapp.com-ar-trace-drawing",
+ "subtitle": "بەرنامەیەک تایبەت بە دروسکردنی وێنە، لەڕێ ئەم بەرنامە خۆت بەرەو پێش بەرە",
+ "description": "Single-app source for AR Drawing (com.ar.trace.drawing). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/AR.Drawing.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ar.trace.drawing",
+   "name": "AR Drawing",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک تایبەت بە دروسکردنی وێنە، لەڕێ ئەم بەرنامە خۆت بەرەو پێش بەرە",
+   "localizedDescription": "بەرنامەیەک تایبەت بە دروسکردنی وێنە، لەڕێ ئەم بەرنامە خۆت بەرەو پێش بەرە",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/AR.Drawing.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.6",
+     "date": "2025-01-02T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک تایبەت بە دروسکردنی وێنە، لەڕێ ئەم بەرنامە خۆت بەرەو پێش بەرە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/karbin-ipa-four/AR.Drawing_1.0.6_3.ipa",
+     "size": 11680000
+    }
+   ]
+  }
+ ]
+}

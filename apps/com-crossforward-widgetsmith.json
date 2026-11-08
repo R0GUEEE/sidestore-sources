@@ -1,0 +1,30 @@
+{
+ "name": "Widgetsmith",
+ "identifier": "dev.perapp.com-crossforward-widgetsmith",
+ "subtitle": "Widgetsmith",
+ "description": "Single-app source for Widgetsmith (com.crossforward.WidgetSmith). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crossforward.WidgetSmith",
+   "name": "Widgetsmith",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.1",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Widgetsmith_9.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 163508298
+    }
+   ]
+  }
+ ]
+}

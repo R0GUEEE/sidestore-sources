@@ -1,0 +1,51 @@
+{
+ "name": "Session",
+ "identifier": "dev.perapp.com-loki-project-loki-messenger",
+ "subtitle": "Session iOS - A Decentralized, Onion Routed, Private Messenger",
+ "description": "Single-app source for Session (com.loki-project.loki-messenger). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#06d070",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.loki-project.loki-messenger.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.loki-project.loki-messenger",
+   "name": "Session",
+   "developerName": "session-foundation",
+   "subtitle": "Session iOS - A Decentralized, Onion Routed, Private Messenger",
+   "localizedDescription": "Session iOS:\n\nDownload Session on the App Store.\n\nStep 2:\n\nGet the signed hashes for this release. SESSION_VERSION needs to be updated for the release you want to verify.\n\nStep 3:\n\nVerify the signature of the hashes of the files.\n\nThe command above should print \"Good signature from \"Jason Rhinelander.\". If it does, the hashes are valid but we still have to make the sure the signed hashes match the downloaded files.\n\nStep 4:\n\nMake sure the two commands below return the same hash for the file you are checking. If they do, file is valid.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.loki-project.loki-messenger.png",
+   "tintColor": "#06d070",
+   "screenshots": [
+    "https://i.imgur.com/Ioub5bx.png"
+   ],
+   "versions": [
+    {
+     "version": "2.15.6",
+     "date": "2026-11-06T19:43:21Z",
+     "localizedDescription": "• Defer root view controller setup until a scene is in the foreground.\n• Background fetch: report the background on a launch straight into it.\n• [Automated] Update translations from Crowdin[bot].\n• [Automated] Update fallback static snode list[bot].\n• Notification extension: replace isMainAppActive with a lease and log every push.\n• Calls: fix busy responses for the caller's own call and the end-call lost after a background hang-up.\n• Conversations: only run the media loading animation while it can be seen.\n• Image picker: don't reselect a photo that no longer exists.\n• Notifications: stop the badge count reading every dedupe record on every push.\n• Backgrounding: suspend the database before the background time runs out.\n• Image picker: build the album list off the main thread.\n• Typing indicators: stop concurrent timeout refreshes over-releasing a Task.\n• Startup: stop \"Clear Device and Restore\" crashing on the landing screen.\n• QR codes: generate off the main thread, and only once.\n• Keep QUIC connections on BBR congestion control.\n• Update libSession to 1.9.5.\n• Startup: finish startup after backgrounding mid-migration instead of hanging.\n\n• Onboarding: keep the extension's key, recover a lost identity, export logs.\n• Startup: drop Clear Device and Restore, stop advising reinstall, harden key and config loading.\n• Bump version to 2.15.6 (build 727).",
+     "downloadURL": "https://github.com/session-foundation/session-ios/releases/download/2.15.6/session-2.15.6.ipa",
+     "size": 57848193
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSAppleMusicUsageDescription": "Session needs to use Apple Music to play media attachments.",
+     "NSCameraUsageDescription": "Session needs camera access to take pictures and scan QR codes.",
+     "NSFaceIDUsageDescription": "Session's Screen Lock feature uses Face ID.",
+     "NSLocalNetworkUsageDescription": "Session needs access to local network to make voice and video calls.",
+     "NSMicrophoneUsageDescription": "Session needs access to your microphone for calls and to send to audio messages.",
+     "NSPhotoLibraryAddUsageDescription": "Session needs access to your library to save photos.",
+     "NSPhotoLibraryUsageDescription": "Session needs access to your library to update your avatar and send photos."
+    }
+   }
+  }
+ ]
+}

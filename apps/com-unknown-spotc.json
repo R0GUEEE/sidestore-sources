@@ -1,0 +1,37 @@
+{
+ "name": "SpotC++",
+ "identifier": "dev.perapp.com-unknown-spotc",
+ "subtitle": "Unlock Features",
+ "description": "Single-app source for SpotC++ (com.unknown.spotc). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Spotify.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.spotc",
+   "name": "SpotC++",
+   "developerName": "Karbin-Store",
+   "subtitle": "Unlock Features",
+   "localizedDescription": "Unlock Features",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Spotify.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.2",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "Unlock Features",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/SpotC++-9.0.2.ipa",
+     "size": 75320000
+    },
+    {
+     "version": "2.3.8",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "Tweaks: Sposify, EeveeSpotify\n\nUnlock Features",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/SpotC++-9.0.2.ipa",
+     "size": 78994570
+    }
+   ]
+  }
+ ]
+}

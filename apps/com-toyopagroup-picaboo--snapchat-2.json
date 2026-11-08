@@ -1,0 +1,50 @@
+{
+ "name": "Snapchat++",
+ "identifier": "dev.perapp.com-toyopagroup-picaboo",
+ "subtitle": "Snapchat Tweaked with extra features!",
+ "description": "Single-app source for Snapchat++ (com.toyopagroup.picaboo). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b0b004",
+ "iconURL": "https://img.ipa4fun.com/5f/b5/79/447188370-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.toyopagroup.picaboo",
+   "name": "Snapchat++",
+   "developerName": "Kanji",
+   "subtitle": "Snapchat Tweaked with extra features!",
+   "localizedDescription": "Note: Notifications may not work for some devices\n\nFeatures:\n\n•Screenshot Supression - Screenshotting will no longer send a notification.\n\n• Keep Snaps In Chat - Delivered and open snaps will temporarily be saved in chat.\n\n• Story Ghost - View stories anonymously.\n\n• Snap Ghost - Snaps and messages will appear unviewed/unopened.\n\n• Spoof Story Views\n\n• Spoof Story Screenshots\n\n• Save To Camera Roll - Tap and hold while viewing a snap to bring up the UI press \"Save Snap\"\n\n• Hide Subtitle - Hide the subtitle containing an MOTD or something from the devs\n\n• Upload From Camera Roll - Press the upload button to select an image and then press the button to take a picture.\n\n• Hide Call Buttons - Hide the call buttons on recent Ul versions.\n\n• Video Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Audio Call Confirm - Presents a popup to verify that the action was intentional.\n\n• Hide New Chat Button - Hide the blue button on the bottom on recent Ul versions.\n\n• Remove Highlights (Not Working) - Remove the stupid TikTok knock-off tab (requires app restart).\n\n• Hide Friendmoji - Hide the \"Friendmojis\" next to people's names (requires pull-refresh).\n\n• Randomize Best Friends - Randomly change the order off the best friends list.\n\n• Keep Normal Title - Enable this to hide the \"Shadow X\" label\n\n• Cool RGB Animation - Makes the shadow header RBG (think chromahomebarx).",
+   "iconURL": "https://img.ipa4fun.com/5f/b5/79/447188370-logo.jpg",
+   "tintColor": "#b0b004",
+   "screenshots": [
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-1.jpg",
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-2.jpg",
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-3.jpg",
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-4.jpg",
+    "https://img.ipa4fun.com/5f/b5/79/447188370-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "12.52",
+     "date": "2024-10-14T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SnapchatWicked/SnapchatWicked-12.52.ipa",
+     "size": 106067994
+    },
+    {
+     "version": "12.60-4.4.1",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Snapchatiota/Snapchatiota-12.60-4.4.1.ipa",
+     "size": 105706025
+    },
+    {
+     "version": "12.62-4.4.1",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 06-02-2024\nStatus: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Snapchatiota/Snapchatiota-12.62-4.4.1.ipa",
+     "size": 117345838
+    }
+   ]
+  }
+ ]
+}

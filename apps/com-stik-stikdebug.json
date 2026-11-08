@@ -1,0 +1,44 @@
+{
+ "name": "StikDebug",
+ "identifier": "dev.perapp.com-stik-stikdebug",
+ "subtitle": "ipaomtk.com | Running emulators and advanced sideloaded apps on iPhone has always been limited by one major restriction:",
+ "description": "Single-app source for StikDebug (com.stik.stikdebug). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/StikDebug-IPA-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stik.stikdebug",
+   "name": "StikDebug",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Running emulators and advanced sideloaded apps on iPhone has always been limited by one major restriction: JIT (Just-In-Time) compilatio",
+   "localizedDescription": "ipaomtk.com | Running emulators and advanced sideloaded apps on iPhone has always been limited by one major restriction: JIT (Just-In-Time) compilatio",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/StikDebug-IPA-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.1",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice. Note: Requires LocalDevVPN, cannot be natively used inside…",
+     "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.1/StikDebug-3.2.1.ipa",
+     "size": 16924629
+    },
+    {
+     "version": "3.2.0",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside Liv",
+     "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.0/StikDebug-3.2.0.ipa",
+     "size": 11996559
+    },
+    {
+     "version": "3.1.15",
+     "date": "2026-10-16T00:00:00Z",
+     "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside Liv",
+     "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa",
+     "size": 11996559
+    }
+   ]
+  }
+ ]
+}

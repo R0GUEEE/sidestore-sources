@@ -1,0 +1,30 @@
+{
+ "name": "ASJTube (1.3.0 - iOS 16+ Support)",
+ "identifier": "dev.perapp.com-google-ios-youtube-asjtube-1-3-0-ios16",
+ "subtitle": "This is a modded version of YouTube. This mod was created by asjrx. iOS 16+ is Supported!! You can read more about it he",
+ "description": "Single-app source for ASJTube (1.3.0 - iOS 16+ Support) (com.google.ios.youtube.asjtube.1.3.0.ios16). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.asjtube.1.3.0.ios16",
+   "name": "ASJTube (1.3.0 - iOS 16+ Support)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. This mod was created by asjrx. iOS 16+ is Supported!! You can read more about it here: https://github.com/asjrx/A",
+   "localizedDescription": "This is a modded version of YouTube. This mod was created by asjrx. iOS 16+ is Supported!! You can read more about it here: https://github.com/asjrx/A\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.33.6",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This mod was created by asjrx. iOS 16+ is Supported!! You can read more about it here: https://github.com/asjrx/A",
+     "downloadURL": "https://repo.ballermc.com/tubevault/ASJTube-1.3_21.33.6.ipa",
+     "size": 137521102
+    }
+   ]
+  }
+ ]
+}

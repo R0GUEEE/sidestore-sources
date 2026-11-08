@@ -1,0 +1,30 @@
+{
+ "name": "Supershift",
+ "identifier": "dev.perapp.io-erna",
+ "subtitle": "Supershift",
+ "description": "Single-app source for Supershift (io.erna). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.erna",
+   "name": "Supershift",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.erna.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.2",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Supershift_2025.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 35583903
+    }
+   ]
+  }
+ ]
+}

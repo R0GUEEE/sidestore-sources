@@ -1,0 +1,30 @@
+{
+ "name": "Plague Inc.",
+ "identifier": "dev.perapp.com-ndemiccreations-plagueinc",
+ "subtitle": "@ipa_dark | 🔄 Plague Inc - appstore  🇷🇺 Стратегическая симуляция, в которой нужно создать и развивать инфекцию, адаптиро",
+ "description": "Single-app source for Plague Inc. (com.ndemiccreations.plagueinc). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1753.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ndemiccreations.plagueinc",
+   "name": "Plague Inc.",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Plague Inc - appstore  🇷🇺 Стратегическая симуляция, в которой нужно создать и развивать инфекцию, адаптировать её свойства, распространя",
+   "localizedDescription": "@ipa_dark | 🔄 Plague Inc - appstore  🇷🇺 Стратегическая симуляция, в которой нужно создать и развивать инфекцию, адаптировать её свойства, распространя\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1753.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.25.3",
+     "date": "2026-09-26T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Plague Inc - appstore  🇷🇺 Стратегическая симуляция, в которой нужно создать и развивать инфекцию, адаптировать её свойства, распространя",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1753-Plague%20Inc%20%5Bv1.25.3%5D%28tg@ipa_dark%29.ipa",
+     "size": 73917490
+    }
+   ]
+  }
+ ]
+}

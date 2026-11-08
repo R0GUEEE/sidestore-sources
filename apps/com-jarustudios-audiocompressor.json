@@ -1,0 +1,30 @@
+{
+ "name": "Audio Compressor",
+ "identifier": "dev.perapp.com-jarustudios-audiocompressor",
+ "subtitle": "ipaomtk.com | An audio compressor IPA is a powerful digital signal processing (DSP) tool used in audio engineering and p",
+ "description": "Single-app source for Audio Compressor (com.jarustudios.AudioCompressor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Audio-Compressor-MP3-Shrink-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jarustudios.AudioCompressor",
+   "name": "Audio Compressor",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | An audio compressor IPA is a powerful digital signal processing (DSP) tool used in audio engineering and production. It helps control th",
+   "localizedDescription": "ipaomtk.com | An audio compressor IPA is a powerful digital signal processing (DSP) tool used in audio engineering and production. It helps control th",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Audio-Compressor-MP3-Shrink-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.101",
+     "date": "2024-09-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | An audio compressor IPA is a powerful digital signal processing (DSP) tool used in audio engineering and production. It helps control th",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AudioCompressor-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

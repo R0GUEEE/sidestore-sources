@@ -1,0 +1,44 @@
+{
+ "name": "Persona",
+ "identifier": "dev.perapp.com-tickettothemoon-video-persona",
+ "subtitle": "Persona",
+ "description": "Single-app source for Persona (com.tickettothemoon.video.persona). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tickettothemoon.video.persona",
+   "name": "Persona",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with VIP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.16.6",
+     "date": "2026-08-09T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2216",
+     "size": 218384408
+    },
+    {
+     "version": "1.15.42",
+     "date": "2026-07-02T00:00:00Z",
+     "localizedDescription": "Injected with VIP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/Persona_1.15.42_VIP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 201825343
+    },
+    {
+     "version": "1.15.38",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Injected with VIP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/Persona_1.15.38_VIP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 171353327
+    }
+   ]
+  }
+ ]
+}

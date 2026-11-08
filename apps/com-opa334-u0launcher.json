@@ -1,0 +1,37 @@
+{
+ "name": "u0Launcher",
+ "identifier": "dev.perapp.com-opa334-u0launcher",
+ "subtitle": "ipaomtk.com | The u0Launcher iOS is an innovative mobile application that provides users with a simple, easy-to-use plat",
+ "description": "Single-app source for u0Launcher (com.opa334.u0launcher). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/omtkv-1-192x192-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.opa334.u0launcher",
+   "name": "u0Launcher",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The u0Launcher iOS is an innovative mobile application that provides users with a simple, easy-to-use platform for creating and managing",
+   "localizedDescription": "ipaomtk.com | The u0Launcher iOS is an innovative mobile application that provides users with a simple, easy-to-use platform for creating and managing",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/omtkv-1-192x192-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "After thinking this over for a couple months, I have elected to include a copy of u0Launcher, but NOT unc0ver itself. Download the latest unc0ver IPA ",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-24-2023/u0Launcher-1.0.1.ipa",
+     "size": 217136
+    },
+    {
+     "version": "1.0",
+     "date": "2023-02-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The u0Launcher iOS is an innovative mobile application that provides users with a simple, easy-to-use platform for creating and managing",
+     "downloadURL": "https://file.ipaomtk.com/Trollstore/u0Launcher.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

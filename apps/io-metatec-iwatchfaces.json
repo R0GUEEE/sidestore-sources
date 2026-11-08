@@ -1,0 +1,30 @@
+{
+ "name": "Watch Faces",
+ "identifier": "dev.perapp.io-metatec-iwatchfaces",
+ "subtitle": "ipaomtk.com | Introduction to Watch Faces Gallery® on iOS Watch Faces Gallery® is a dedicated iOS app that allows iPhone",
+ "description": "Single-app source for Watch Faces (io.metatec.iwatchfaces). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Watch-Faces-Gallery-%C2%AE-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "io.metatec.iwatchfaces",
+   "name": "Watch Faces",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction to Watch Faces Gallery® on iOS Watch Faces Gallery® is a dedicated iOS app that allows iPhone users to browse, customize, a",
+   "localizedDescription": "ipaomtk.com | Introduction to Watch Faces Gallery® on iOS Watch Faces Gallery® is a dedicated iOS app that allows iPhone users to browse, customize, a",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Watch-Faces-Gallery-%C2%AE-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.8",
+     "date": "2026-01-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to Watch Faces Gallery® on iOS Watch Faces Gallery® is a dedicated iOS app that allows iPhone users to browse, customize, a",
+     "downloadURL": "https://file.ipaomtk.com/Watch%20Faces%20Gallery/Watch-Faces-v1.2.8-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

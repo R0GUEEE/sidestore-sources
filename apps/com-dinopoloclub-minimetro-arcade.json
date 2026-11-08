@@ -1,0 +1,37 @@
+{
+ "name": "MiniMetro",
+ "identifier": "dev.perapp.com-dinopoloclub-minimetro-arcade",
+ "subtitle": "ipaomtk.com | Mini Metro IPA where you become the ultimate city planner. Mini Metro IPA This unique and addictive simula",
+ "description": "Single-app source for MiniMetro (com.dinopoloclub.minimetro.arcade). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Mini-Metro-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dinopoloclub.minimetro.arcade",
+   "name": "MiniMetro",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Mini Metro IPA where you become the ultimate city planner. Mini Metro IPA This unique and addictive simulation game allows you to design",
+   "localizedDescription": "ipaomtk.com | Mini Metro IPA where you become the ultimate city planner. Mini Metro IPA This unique and addictive simulation game allows you to design",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Mini-Metro-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Mini Metro+ - appstore    🇷🇺 Минималистичная стратегическая головоломка, где нужно проектировать линии метро, соединять станции, распред",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1845-Mini%20Metro+%20%5Bv1.10.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 110900307
+    },
+    {
+     "version": "1.8.0",
+     "date": "2024-01-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Mini Metro IPA where you become the ultimate city planner. Mini Metro IPA This unique and addictive simulation game allows you to design",
+     "downloadURL": "https://file.ipaomtk.com/Mini-Metro/Mini-Metro_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

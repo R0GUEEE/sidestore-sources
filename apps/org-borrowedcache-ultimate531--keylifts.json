@@ -1,0 +1,44 @@
+{
+ "name": "KeyLifts",
+ "identifier": "dev.perapp.org-borrowedcache-ultimate531",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for KeyLifts (org.borrowedcache.ultimate531). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.borrowedcache.ultimate531",
+   "name": "KeyLifts",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.borrowedcache.ultimate531.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.16.13",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-10-2025/KeyLifts_5.16.13_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 27395823
+    },
+    {
+     "version": "5.17.5",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/KeyLifts_5.17.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 30714665
+    },
+    {
+     "version": "5.17.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-11-2025/KeyLifts_5.17.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 27593035
+    }
+   ]
+  }
+ ]
+}

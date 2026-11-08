@@ -1,0 +1,30 @@
+{
+ "name": "SpaceQuest",
+ "identifier": "dev.perapp.com-tryagaingamestudio-spacelanders",
+ "subtitle": "Mods",
+ "description": "Single-app source for SpaceQuest (com.tryagaingamestudio.spacelanders). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tryagaingamestudio.spacelanders.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tryagaingamestudio.spacelanders",
+   "name": "SpaceQuest",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Mods",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tryagaingamestudio.spacelanders.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.9",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/SpaceQuest_2.4.9_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 347957655
+    }
+   ]
+  }
+ ]
+}

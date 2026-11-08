@@ -1,0 +1,30 @@
+{
+ "name": "Phocus",
+ "identifier": "dev.perapp.com-ahmetserdarkaradeniz-phocus",
+ "subtitle": "Phocus",
+ "description": "Single-app source for Phocus (com.ahmetserdarkaradeniz.Phocus). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
+   "name": "Phocus",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.5.1",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/Phocus_3.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 252547382
+    }
+   ]
+  }
+ ]
+}

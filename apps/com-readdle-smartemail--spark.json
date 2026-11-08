@@ -1,0 +1,44 @@
+{
+ "name": "Spark",
+ "identifier": "dev.perapp.com-readdle-smartemail",
+ "subtitle": "Spark by Holloway",
+ "description": "Single-app source for Spark (com.readdle.smartemail). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380964.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.readdle.smartemail",
+   "name": "Spark",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Enhanced version of Spark with premium features unlocked.",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380964.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.10.8",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Enhanced version of Spark with premium features unlocked.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1739",
+     "size": 188567583
+    },
+    {
+     "version": "3.6.2",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 07-07-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SparkPremium/SparkPremium-3.6.2.ipa",
+     "size": 184885684
+    },
+    {
+     "version": "3.9.10",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Spark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 07-07-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SparkPremium/SparkPremium-3.9.10.ipa",
+     "size": 189076792
+    }
+   ]
+  }
+ ]
+}

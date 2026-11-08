@@ -1,0 +1,30 @@
+{
+ "name": "INSIDE",
+ "identifier": "dev.perapp.com-unknown-inside",
+ "subtitle": "بۆ کردنەوەی تایبەتمەندیەکان دەست بدە لە کڕین دواتر Cancel هەڵبژێرە",
+ "description": "Single-app source for INSIDE (com.unknown.inside). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/inside.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.inside",
+   "name": "INSIDE",
+   "developerName": "Karbin-Store",
+   "subtitle": "بۆ کردنەوەی تایبەتمەندیەکان دەست بدە لە کڕین دواتر Cancel هەڵبژێرە",
+   "localizedDescription": "بۆ کردنەوەی تایبەتمەندیەکان دەست بدە لە کڕین دواتر Cancel هەڵبژێرە",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/inside.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.10",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "بۆ کردنەوەی تایبەتمەندیەکان دەست بدە لە کڕین دواتر Cancel هەڵبژێرە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/INSIDE.1.1.10.ipa",
+     "size": 627710000
+    }
+   ]
+  }
+ ]
+}

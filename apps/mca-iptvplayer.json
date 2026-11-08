@@ -1,0 +1,30 @@
+{
+ "name": "Xtreme IPTV -ipaomtk.com",
+ "identifier": "dev.perapp.mca-iptvplayer",
+ "subtitle": "ipaomtk.com | IPTV Smarters Xtream IPTV IPA is a powerful and versatile application designed to provide you with seamles",
+ "description": "Single-app source for Xtreme IPTV -ipaomtk.com (mca.iptvplayer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/IPTV-Smarters-Xtream-IPTV-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "mca.iptvplayer",
+   "name": "Xtreme IPTV -ipaomtk.com",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | IPTV Smarters Xtream IPTV IPA is a powerful and versatile application designed to provide you with seamless access to a vast array of li",
+   "localizedDescription": "ipaomtk.com | IPTV Smarters Xtream IPTV IPA is a powerful and versatile application designed to provide you with seamless access to a vast array of li",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/IPTV-Smarters-Xtream-IPTV-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.2",
+     "date": "2024-09-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | IPTV Smarters Xtream IPTV IPA is a powerful and versatile application designed to provide you with seamless access to a vast array of li",
+     "downloadURL": "https://file.ipaomtk.com/ipa/XtremeIPTV-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

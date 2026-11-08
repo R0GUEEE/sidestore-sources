@@ -1,0 +1,30 @@
+{
+ "name": "Taurus (v0.60.2 - Patched) IPAVault",
+ "identifier": "dev.perapp.com-spotify-client-ios-taurus-0-60-2-patched-9-1-90",
+ "subtitle": "This is a modded version of Spotify. This does not work with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek",
+ "description": "Single-app source for Taurus (v0.60.2 - Patched) IPAVault (com.spotify.client.ios.taurus.0.60.2.patched.9.1.90). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.taurus.0.60.2.patched.9.1.90",
+   "name": "Taurus (v0.60.2 - Patched) IPAVault",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify. This does not work with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c7",
+   "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c7\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.90",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!! Vitrine is a fork of spoti.pw by Vojtěch Škopek, taken from 0.21.1 (commit c7",
+     "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Taurus%200.60.2%29%20%5B@ipavault%5D.ipa",
+     "size": 138585335
+    }
+   ]
+  }
+ ]
+}

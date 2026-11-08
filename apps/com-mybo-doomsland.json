@@ -1,0 +1,30 @@
+{
+ "name": "Doomsland",
+ "identifier": "dev.perapp.com-mybo-doomsland",
+ "subtitle": "ipaomtk.com | The Doomsland Survivors IPA, also known as the Doomslanders, are a unique group of people who have managed",
+ "description": "Single-app source for Doomsland (com.mybo.doomsland). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/The-Doomsland-Survivors-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mybo.doomsland",
+   "name": "Doomsland",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Doomsland Survivors IPA, also known as the Doomslanders, are a unique group of people who have managed to survive some of the most d",
+   "localizedDescription": "ipaomtk.com | The Doomsland Survivors IPA, also known as the Doomslanders, are a unique group of people who have managed to survive some of the most d",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/The-Doomsland-Survivors-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.2",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Doomsland Survivors IPA, also known as the Doomslanders, are a unique group of people who have managed to survive some of the most d",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Doomsland.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

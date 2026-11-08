@@ -1,0 +1,30 @@
+{
+ "name": "Bazaart",
+ "identifier": "dev.perapp.co-bazaart-app",
+ "subtitle": "Bazaart",
+ "description": "Single-app source for Bazaart (co.bazaart.app). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.bazaart.app",
+   "name": "Bazaart",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bazaart.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "27.0.7",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Bazaart_27.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 115736839
+    }
+   ]
+  }
+ ]
+}

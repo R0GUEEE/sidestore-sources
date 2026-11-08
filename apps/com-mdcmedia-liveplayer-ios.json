@@ -1,0 +1,30 @@
+{
+ "name": "Live Player",
+ "identifier": "dev.perapp.com-mdcmedia-liveplayer-ios",
+ "subtitle": "ipaomtk.com | Live player IPA media streaming is an innovative way to watch and listen to media content in real time fro",
+ "description": "Single-app source for Live Player (com.mdcmedia.liveplayer.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/LivePlayer-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mdcmedia.liveplayer.ios",
+   "name": "Live Player",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Live player IPA media streaming is an innovative way to watch and listen to media content in real time from wherever you are located. Li",
+   "localizedDescription": "ipaomtk.com | Live player IPA media streaming is an innovative way to watch and listen to media content in real time from wherever you are located. Li",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/LivePlayer-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.68",
+     "date": "2023-03-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Live player IPA media streaming is an innovative way to watch and listen to media content in real time from wherever you are located. Li",
+     "downloadURL": "https://file.ipaomtk.com/ipa/LivePlayer.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

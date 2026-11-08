@@ -1,0 +1,30 @@
+{
+ "name": "Grammarly",
+ "identifier": "dev.perapp.com-grammarly-keyboard",
+ "subtitle": "Removed from the repo: Tweak useless (simply removes the \"upgrade\" icon). Last updated: 12-15-2023 Status: ❌",
+ "description": "Single-app source for Grammarly (com.grammarly.keyboard). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.grammarly.keyboard.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.grammarly.keyboard",
+   "name": "Grammarly",
+   "developerName": "N/A",
+   "subtitle": "Removed from the repo: Tweak useless (simply removes the \"upgrade\" icon). Last updated: 12-15-2023 Status: ❌",
+   "localizedDescription": "Removed from the repo: Tweak useless (simply removes the \"upgrade\" icon).\nLast updated: 12-15-2023\nStatus: ❌\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.grammarly.keyboard.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Removed from the repo: Tweak useless (simply removes the \"upgrade\" icon). Last updated: 12-15-2023 Status: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Grammarly/Grammarly-4.0.0.ipa",
+     "size": 156360115
+    }
+   ]
+  }
+ ]
+}

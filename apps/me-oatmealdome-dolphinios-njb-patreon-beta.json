@@ -1,0 +1,39 @@
+{
+ "name": "DolphiniOS",
+ "identifier": "dev.perapp.me-oatmealdome-dolphinios-njb-patreon-beta",
+ "subtitle": "Dolphin for iOS, reborn",
+ "description": "Single-app source for DolphiniOS (me.oatmealdome.DolphiniOS-njb-patreon-beta). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d09b12",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.oatmealdome.DolphiniOS-njb-patreon-beta.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+   "name": "DolphiniOS",
+   "developerName": "OatmealDome",
+   "subtitle": "Dolphin for iOS, reborn",
+   "localizedDescription": "DolphiniOS:\n\nDolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.\n\nThis is the repository for the new DolphiniOS codebase.\n\nDolphin - A GameCube and Wii Emulator:\n\nDolphin is an emulator for running GameCube and Wii games on Windows, Linux, macOS, and recent Android devices. It's licensed under the terms of the GNU General Public License, version 2 or later (GPLv2+).\n\nDesktop:\n\n• Windows (10 1903 or higher).\n• macOS (11.0 Big Sur or higher).\n• Unix-like systems other than Linux are not officially supported but might work.\n\n• A CPU with SSE2 support.\n• A modern CPU (3 GHz and Dual Core, not older than 2008) is highly recommended.\n\n• A reasonably modern graphics card (Direct3D 11.1 / OpenGL 3.3).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.oatmealdome.DolphiniOS-njb-patreon-beta.png",
+   "tintColor": "#d09b12",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.0",
+     "date": "2026-06-20T07:01:54Z",
+     "localizedDescription": "• Fixed JIT support on A13/A14/M1 devices running iOS 27 beta. (@CelloSerenity).\n• Fixed wrong app version number introduced in 5.0.0b5. (@CelloSerenity).\n\nThe next update will be sometime after the next official Dolphin release. It will include a core update.",
+     "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+     "size": 17963367
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.developer.kernel.increased-memory-limit",
+     "get-task-allow"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "DolphiniOS uses the local network to find and communicate with AltServer."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "AniClient",
+ "identifier": "dev.perapp.com-picspacehd-anilistclient",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for AniClient (com.picspacehd.anilistclient). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.picspacehd.anilistclient",
+   "name": "AniClient",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.1",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-10-2025/AniClient_1.9.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 16974611
+    },
+    {
+     "version": "1.9.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-10-2025/AniClient_1.9.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 17046099
+    },
+    {
+     "version": "1.9.5",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-03-2026/AniClient_1.9.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 16477358
+    }
+   ]
+  }
+ ]
+}

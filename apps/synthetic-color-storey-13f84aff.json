@@ -1,0 +1,30 @@
+{
+ "name": "Color Storey",
+ "identifier": "dev.perapp.synthetic-color-storey-13f84aff",
+ "subtitle": "Color Storey by Karbin-Store",
+ "description": "Single-app source for Color Storey (synthetic.color-storey.13f84aff). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Color.Storey.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.color-storey.13f84aff",
+   "name": "Color Storey",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Activate Premium",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Color.Storey.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.5",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Activate Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/ColorStory.Genius3.1.5.ipa",
+     "size": 41920000
+    }
+   ]
+  }
+ ]
+}

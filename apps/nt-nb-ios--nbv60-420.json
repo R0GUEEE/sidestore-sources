@@ -1,0 +1,30 @@
+{
+ "name": "NbV60.420",
+ "identifier": "dev.perapp.nt-nb-ios",
+ "subtitle": "NbV60.420",
+ "description": "Single-app source for NbV60.420 (nt.nb.ios). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nt.nb.ios",
+   "name": "NbV60.420",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "60.420",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/NbV60.420_60.420_%40thisismanpreets_apptesters.org.ipa",
+     "size": 676171338
+    }
+   ]
+  }
+ ]
+}

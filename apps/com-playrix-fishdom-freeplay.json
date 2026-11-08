@@ -1,0 +1,37 @@
+{
+ "name": "Fishdom",
+ "identifier": "dev.perapp.com-playrix-fishdom-freeplay",
+ "subtitle": "ipaomtk.com | Fishdom IPA is a popular game that combines the classic tile-based match-3 puzzle game with aquarium manag",
+ "description": "Single-app source for Fishdom (com.playrix.fishdom-freeplay). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Fishdom-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playrix.fishdom-freeplay",
+   "name": "Fishdom",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Fishdom IPA is a popular game that combines the classic tile-based match-3 puzzle game with aquarium management. Fishdom IPA Players are",
+   "localizedDescription": "ipaomtk.com | Fishdom IPA is a popular game that combines the classic tile-based match-3 puzzle game with aquarium management. Fishdom IPA Players are",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Fishdom-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.6.2",
+     "date": "2023-03-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Fishdom IPA is a popular game that combines the classic tile-based match-3 puzzle game with aquarium management. Fishdom IPA Players are",
+     "downloadURL": "https://file.ipaomtk.com/fishdom/Fishdom-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "10.1.6",
+     "date": "2023-03-21T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Fishdom IPA is a popular game that combines the classic tile-based match-3 puzzle game with aquarium management. Fishdom IPA Players are",
+     "downloadURL": "https://file.ipaomtk.com/fishdom/Fishdom-IPAOMTK.COM.ipa",
+     "size": 202700862
+    }
+   ]
+  }
+ ]
+}

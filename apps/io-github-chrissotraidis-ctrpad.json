@@ -1,0 +1,30 @@
+{
+ "name": "CTRPad",
+ "identifier": "dev.perapp.io-github-chrissotraidis-ctrpad",
+ "subtitle": "@ciesIPAs | CTRPad v0.1.0 - CTRPad (Crash Team Racing) ps1 port  just install and play, no setup needed.",
+ "description": "Single-app source for CTRPad (io.github.chrissotraidis.ctrpad). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ciesipas/222.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.chrissotraidis.ctrpad",
+   "name": "CTRPad",
+   "developerName": "@ciesIPAs",
+   "subtitle": "@ciesIPAs | CTRPad v0.1.0 - CTRPad (Crash Team Racing) ps1 port  just install and play, no setup needed.",
+   "localizedDescription": "@ciesIPAs | CTRPad v0.1.0 - CTRPad (Crash Team Racing) ps1 port  just install and play, no setup needed.",
+   "iconURL": "https://fastsign.dev/tg-icon/ciesipas/222.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-08-15T00:00:00Z",
+     "localizedDescription": "@ciesIPAs | CTRPad v0.1.0 - CTRPad (Crash Team Racing) ps1 port  just install and play, no setup needed.",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ciesipas/222-CRTPad-0.1.0.ipa",
+     "size": 358887419
+    }
+   ]
+  }
+ ]
+}

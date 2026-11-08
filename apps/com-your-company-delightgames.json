@@ -1,0 +1,42 @@
+{
+ "name": "Delight Games Premium Library",
+ "identifier": "dev.perapp.com-your-company-delightgames",
+ "subtitle": "80+ interactive novels where your choices actually matter",
+ "description": "Single-app source for Delight Games Premium Library (com.your-company.DelightGames). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b14f2e",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.your-company.DelightGames.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.your-company.DelightGames",
+   "name": "Delight Games Premium Library",
+   "developerName": "RipeStore",
+   "subtitle": "80+ interactive novels where your choices actually matter",
+   "localizedDescription": "12 YEARS. 80+ STORIES. 100% HUMAN-AUTHORED. NOW ON YOUR WRIST.\n\nDive into 80+ interactive novels where your choices actually matter. No \"pay-to-win\" decisions. No algorithms. Just deep, hand-crafted storytelling from a lifelong D&D nerd. now on iPhone AND Apple Watch, because apparently your phone wasn't close enough to your face.\n\nFor over a decade, Delight Games has been building a universe. This is a massive collection of 1 million+ words across 80+ volumes. Every branching path, every stat-check, and every secret ending was written and balanced by a human hand to ensure a rewarding RPG experience.\n\n• THE DELIGHT GAMES DIFFERENCE:.\n• 80+ Interactive Volumes: High Fantasy, Noir Mystery, Gritty Horror, Sci-Fi, and more.\n• 100% Human-Authored: Every twist and every dungeon crawl was written and balanced by a human hand. No AI-generated filler.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.your-company.DelightGames.png",
+   "tintColor": "#b14f2e",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/RipeStore/delightgames@main/screenshots/screenshot_01.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/delightgames@main/screenshots/screenshot_02.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/delightgames@main/screenshots/screenshot_03.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/delightgames@main/screenshots/screenshot_04.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/delightgames@main/screenshots/screenshot_05.webp"
+   ],
+   "versions": [
+    {
+     "version": "4.8",
+     "date": "2026-10-22T05:58:14Z",
+     "localizedDescription": "Ranger’s Choice chapter 12 is here! Continue the hunt in the newest volume, plus smoother performance on older iPads and fixes.",
+     "downloadURL": "https://github.com/RipeStore/delightgames/releases/download/4.8/com.your-company.DelightGames_4.8.ipa",
+     "size": 184479371
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSUserTrackingUsageDescription": "Tapping Allow will help us to serve relevant ads that are tailored to you."
+    }
+   }
+  }
+ ]
+}

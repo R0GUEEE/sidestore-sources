@@ -1,0 +1,30 @@
+{
+ "name": "MergeLion",
+ "identifier": "dev.perapp.com-gomble-ios-mergelion",
+ "subtitle": "ipaomtk.com | Merge Lion IPA is a popular mobile game that combines elements of puzzle-solving and strategy. In this gam",
+ "description": "Single-app source for MergeLion (com.gomble.ios.mergelion). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/Merge-Lion-watermelon-game-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gomble.ios.mergelion",
+   "name": "MergeLion",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Merge Lion IPA is a popular mobile game that combines elements of puzzle-solving and strategy. In this game, you are tasked with merging",
+   "localizedDescription": "ipaomtk.com | Merge Lion IPA is a popular mobile game that combines elements of puzzle-solving and strategy. In this game, you are tasked with merging",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/Merge-Lion-watermelon-game-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.0",
+     "date": "2024-04-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Merge Lion IPA is a popular mobile game that combines elements of puzzle-solving and strategy. In this game, you are tasked with merging",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Merge-Lion.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

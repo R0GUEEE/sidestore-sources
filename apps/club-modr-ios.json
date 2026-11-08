@@ -1,0 +1,37 @@
+{
+ "name": "modr.",
+ "identifier": "dev.perapp.club-modr-ios",
+ "subtitle": "@ipa_dark | 🔄 Modr  (клуб романтики)   🇷🇺 Мод для Клуба Романтики - Modr  ℹ️ Особенности:  ▎Модифицированная версия игры",
+ "description": "Single-app source for modr. (club.modr.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1651.png",
+ "apps": [
+  {
+   "bundleIdentifier": "club.modr.ios",
+   "name": "modr.",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Modr  (клуб романтики)   🇷🇺 Мод для Клуба Романтики - Modr  ℹ️ Особенности:  ▎Модифицированная версия игры, платная (69₽/месяц) ▎Бесконе",
+   "localizedDescription": "@ipa_dark | 🔄 Modr  (клуб романтики)   🇷🇺 Мод для Клуба Романтики - Modr  ℹ️ Особенности:  ▎Модифицированная версия игры, платная (69₽/месяц) ▎Бесконе",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1651.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.59500",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Modr  (клуб романтики)   🇷🇺 Мод для Клуба Романтики - Modr  💡 Вам нравятся новеллы? посмотрите наш проект по накрутке: @novellaplus_bot ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1795-modr%20%5Bv1.0.59500%5D%28tg@ipa_dark%29.ipa",
+     "size": 74958316
+    },
+    {
+     "version": "1.0.57500",
+     "date": "2026-08-18T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Modr  (клуб романтики)   🇷🇺 Мод для Клуба Романтики - Modr  ℹ️ Особенности:  ▎Модифицированная версия игры, платная (69₽/месяц) ▎Бесконе",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1651-Modr%20%5Bv57500%5D%28tg@ipa_dark%29.ipa",
+     "size": 70880797
+    }
+   ]
+  }
+ ]
+}

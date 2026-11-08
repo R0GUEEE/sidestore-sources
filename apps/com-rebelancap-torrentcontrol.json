@@ -1,0 +1,39 @@
+{
+ "name": "Torrent Control",
+ "identifier": "dev.perapp.com-rebelancap-torrentcontrol",
+ "subtitle": "Safari extension to add torrent and magnet links to your torrent server",
+ "description": "Single-app source for Torrent Control (com.rebelancap.TorrentControl). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.TorrentControl.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.TorrentControl",
+   "name": "Torrent Control",
+   "developerName": "rebelancap",
+   "subtitle": "Safari extension to add torrent and magnet links to your torrent server",
+   "localizedDescription": "Torrent Control for Safari:\n\nA Safari Web Extension port of Mika-/torrent-control for macOS and iOS/iPadOS. Send magnet links and .torrent files to a remote BitTorrent client (qBittorrent, Transmission, Deluge, and others) right from Safari.\n\nBased on torrent-control 0.2.48. See Updating from upstream.\n\nFeatures:\n\n• Add magnets and .torrent files to your torrent client without leaving Safari.\n• macOS: right-click a link → Torrent Control → add (with label / server / paused / advanced options), or auto-add on click via Catch torrent URLs.\n• iOS/iPadOS: tap a magnet or .torrent link → a native bottom-sheet picker (choose label, server, paused).\n\nOption A — Sideload the iOS .ipa:\n\nSideStore or Sideloadly using your own Apple ID (they re-sign it for you). Then enable the extension in Safari as above.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.TorrentControl.png",
+   "tintColor": "#6058e8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-06-20T06:26:01Z",
+     "localizedDescription": "Safari/iOS port of torrent-control 0.2.48. Sideload the .ipa with AltStore or Sideloadly using your own Apple ID. Based on Mika-/torrent-control (MIT).",
+     "downloadURL": "https://github.com/rebelancap/torrent-control-safari/releases/download/v1.0.0/Torrent.Control.ipa",
+     "size": 565900
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

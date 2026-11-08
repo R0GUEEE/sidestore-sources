@@ -1,0 +1,30 @@
+{
+ "name": "Pop! Blitz-OMTK",
+ "identifier": "dev.perapp.com-n3twork-funkopopblitz",
+ "subtitle": "ipaomtk.com | Funko Pop Blitz iOS is a captivating mobile game that brings the beloved world of Funko Pop collectibles t",
+ "description": "Single-app source for Pop! Blitz-OMTK (com.n3twork.funkopopblitz). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/Funko-Pop-Blitz-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.n3twork.funkopopblitz",
+   "name": "Pop! Blitz-OMTK",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Funko Pop Blitz iOS is a captivating mobile game that brings the beloved world of Funko Pop collectibles to life on your iOS device. Dev",
+   "localizedDescription": "ipaomtk.com | Funko Pop Blitz iOS is a captivating mobile game that brings the beloved world of Funko Pop collectibles to life on your iOS device. Dev",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/Funko-Pop-Blitz-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.18.23",
+     "date": "2024-07-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Funko Pop Blitz iOS is a captivating mobile game that brings the beloved world of Funko Pop collectibles to life on your iOS device. Dev",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Funko-Pop-Blitz.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

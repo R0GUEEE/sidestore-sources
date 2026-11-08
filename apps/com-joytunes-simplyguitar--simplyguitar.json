@@ -1,0 +1,44 @@
+{
+ "name": "SimplyGuitar",
+ "identifier": "dev.perapp.com-joytunes-simplyguitar",
+ "subtitle": "@blatants | Simply Guitar - Learn Guitar  • Bundle ID: com.joytunes.SimplyGuitar • Updated to: 10.27 • Minimum iOS: 15.0",
+ "description": "Single-app source for SimplyGuitar (com.joytunes.SimplyGuitar). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11491.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.joytunes.SimplyGuitar",
+   "name": "SimplyGuitar",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | Simply Guitar - Learn Guitar  • Bundle ID: com.joytunes.SimplyGuitar • Updated to: 10.27 • Minimum iOS: 15.0 • Patched • Modifier: Subscri",
+   "localizedDescription": "@blatants | Simply Guitar - Learn Guitar  • Bundle ID: com.joytunes.SimplyGuitar • Updated to: 10.27 • Minimum iOS: 15.0 • Patched • Modifier: Subscri",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11491.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.31",
+     "date": "2026-10-19T00:00:00Z",
+     "localizedDescription": "@blatants | Simply Guitar - Learn Guitar  • Bundle ID: com.joytunes.SimplyGuitar • Updated to: 10.31 • Minimum iOS: 15.0 • Patched • Modifier: Subscri",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12880-Simply_Guitar_Learn_Guitar_v10_31_Subscription_Unlocked_blatant.ipa",
+     "size": 167888218
+    },
+    {
+     "version": "10.30",
+     "date": "2026-09-28T00:00:00Z",
+     "localizedDescription": "@blatants | Simply Guitar - Learn Guitar  • Bundle ID: com.joytunes.SimplyGuitar • Updated to: 10.30 • Minimum iOS: 15.0 • Patched • Modifier: Subscri",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12481-Simply_Guitar_Learn_Guitar_v10_30_Subscription_Unlocked_blatant.ipa",
+     "size": 171814106
+    },
+    {
+     "version": "10.29.1",
+     "date": "2026-09-04T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SimplyGuitar_10.29.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 144428865
+    }
+   ]
+  }
+ ]
+}

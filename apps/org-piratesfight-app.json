@@ -1,0 +1,38 @@
+{
+ "name": "Pirates Fight",
+ "identifier": "dev.perapp.org-piratesfight-app",
+ "subtitle": "Сайт: https://piratesfight.org",
+ "description": "Single-app source for Pirates Fight (org.piratesfight.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6995b7",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.piratesfight.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.piratesfight.app",
+   "name": "Pirates Fight",
+   "developerName": "piratesfight",
+   "subtitle": "Сайт: https://piratesfight.org",
+   "localizedDescription": "Pirates Fight:\n\nСайт: https://piratesfight.org",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.piratesfight.app.png",
+   "tintColor": "#6995b7",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/piratesfight/pirates-fight-app@main/img/battle.jpg",
+    "https://cdn.jsdelivr.net/gh/piratesfight/pirates-fight-app@main/img/hangar.jpg",
+    "https://cdn.jsdelivr.net/gh/piratesfight/pirates-fight-app@main/img/shipyard.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-11T06:20:43Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/piratesfight/pirates-fight-app/releases/download/build-20261011-0920/PiratesFight.ipa",
+     "size": 53220997
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

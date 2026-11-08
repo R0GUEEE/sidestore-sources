@@ -1,0 +1,44 @@
+{
+ "name": "Clarity",
+ "identifier": "dev.perapp.com-moodtools-thoughtdiary",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Clarity (com.moodtools.thoughtdiary). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.moodtools.thoughtdiary",
+   "name": "Clarity",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moodtools.thoughtdiary.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.28",
+     "date": "2026-10-17T00:00:00Z",
+     "localizedDescription": "@blatants | Clarity: CBT Self Help Journal  • Bundle ID: com.moodtools.thoughtdiary • Updated to: 5.5.28 • Minimum iOS: 17.0 • Patched • Modifier: Pro",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12846-Clarity_CBT_Self_Help_Journal_v5_5_28_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 177689003
+    },
+    {
+     "version": "5.5.27",
+     "date": "2026-10-11T00:00:00Z",
+     "localizedDescription": "@blatants | Clarity: CBT Self Help Journal  • Bundle ID: com.moodtools.thoughtdiary • Updated to: 5.5.27 • Minimum iOS: 16.0 • Patched • Modifier: Pro",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12738-Clarity_CBT_Self_Help_Journal_v5_5_27_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 165245331
+    },
+    {
+     "version": "5.5.26",
+     "date": "2026-09-14T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/Clarity_5.5.26_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 161355384
+    }
+   ]
+  }
+ ]
+}

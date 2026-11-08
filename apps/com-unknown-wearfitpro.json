@@ -1,0 +1,30 @@
+{
+ "name": "Wearfit Pro",
+ "identifier": "dev.perapp.com-unknown-wearfitpro",
+ "subtitle": "تایبەتمەندیەکان بە شێوەیەکی ئۆتۆماتیکی چالاک دەکرێن",
+ "description": "Single-app source for Wearfit Pro (com.unknown.wearfitpro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Wearfit.Pro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.wearfitpro",
+   "name": "Wearfit Pro",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندیەکان بە شێوەیەکی ئۆتۆماتیکی چالاک دەکرێن",
+   "localizedDescription": "تایبەتمەندیەکان بە شێوەیەکی ئۆتۆماتیکی چالاک دەکرێن",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Wearfit.Pro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.12.09",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "تایبەتمەندیەکان بە شێوەیەکی ئۆتۆماتیکی چالاک دەکرێن",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/karbin-ipa-six/Wearfit.Pro_5.12.09_3BodSy.ipa",
+     "size": 206680000
+    }
+   ]
+  }
+ ]
+}

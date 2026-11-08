@@ -1,0 +1,30 @@
+{
+ "name": "Hook 2",
+ "identifier": "dev.perapp.com-rt-hook2",
+ "subtitle": "ipaomtk.com | Hook 2 IPA is a minimalist puzzle game in which your objective is to clear the board of all hooks. As you ",
+ "description": "Single-app source for Hook 2 (com.rt.hook2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/hook-2-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rt.hook2",
+   "name": "Hook 2",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Hook 2 IPA is a minimalist puzzle game in which your objective is to clear the board of all hooks. As you progress in the game, you will",
+   "localizedDescription": "ipaomtk.com | Hook 2 IPA is a minimalist puzzle game in which your objective is to clear the board of all hooks. As you progress in the game, you will",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/hook-2-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2023-03-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Hook 2 IPA is a minimalist puzzle game in which your objective is to clear the board of all hooks. As you progress in the game, you will",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Hook-2.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

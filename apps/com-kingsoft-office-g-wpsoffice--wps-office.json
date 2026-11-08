@@ -1,0 +1,30 @@
+{
+ "name": "WPS Office",
+ "identifier": "dev.perapp.com-kingsoft-office-g-wpsoffice",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for WPS Office (com.kingsoft.office.g.wpsoffice). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/b7/50/ccb75045-db1b-4cad-ffd4-7507d6575c6b/AppIcon-0-1x_U007epad-0-10-0-sRGB-0-0-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+   "name": "WPS Office",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/cc/b7/50/ccb75045-db1b-4cad-ffd4-7507d6575c6b/AppIcon-0-1x_U007epad-0-10-0-sRGB-0-0-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.33.82",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/wpsoffice_11.33.82_TTJB.ipa",
+     "size": 235292309
+    }
+   ]
+  }
+ ]
+}

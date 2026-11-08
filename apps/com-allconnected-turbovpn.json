@@ -1,0 +1,30 @@
+{
+ "name": "TurboVPN",
+ "identifier": "dev.perapp.com-allconnected-turbovpn",
+ "subtitle": "Removed from the repo: Deprecated. Last updated: 03-24-2023 Status: ❌",
+ "description": "Single-app source for TurboVPN (com.allconnected.turbovpn). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.allconnected.turbovpn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.allconnected.turbovpn",
+   "name": "TurboVPN",
+   "developerName": "KAMO HACkS",
+   "subtitle": "Removed from the repo: Deprecated. Last updated: 03-24-2023 Status: ❌",
+   "localizedDescription": "Removed from the repo: Deprecated. Last updated: 03-24-2023 Status: ❌",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.allconnected.turbovpn.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.16",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Removed from the repo: Deprecated. Last updated: 03-24-2023 Status: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TurboVPN/TurboVPN-2.9.16.ipa",
+     "size": 58002559
+    }
+   ]
+  }
+ ]
+}

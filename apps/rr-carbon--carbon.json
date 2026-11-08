@@ -1,0 +1,30 @@
+{
+ "name": "Carbon",
+ "identifier": "dev.perapp.rr-carbon",
+ "subtitle": "Carbon by Holloway",
+ "description": "Single-app source for Carbon (rr.carbon). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761378327.png",
+ "apps": [
+  {
+   "bundleIdentifier": "rr.carbon",
+   "name": "Carbon",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://appstore.sidelix.vip/images/1761378327.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.71.4131",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1403",
+     "size": 67403264
+    }
+   ]
+  }
+ ]
+}

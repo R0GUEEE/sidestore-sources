@@ -1,0 +1,30 @@
+{
+ "name": "ChatbotAI",
+ "identifier": "dev.perapp.com-talgat-aichat",
+ "subtitle": "ChatbotAI",
+ "description": "Single-app source for ChatbotAI (com.talgat.AIChat). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.talgat.AIChat.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.talgat.AIChat",
+   "name": "ChatbotAI",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.talgat.AIChat.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.23",
+     "date": "2025-10-02T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2025/ChatbotAI_3.23_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 122152078
+    }
+   ]
+  }
+ ]
+}

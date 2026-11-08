@@ -1,0 +1,44 @@
+{
+ "name": "Astra",
+ "identifier": "dev.perapp.com-vertventures-stella",
+ "subtitle": "@riftysIPAlibrary | Astra - Life Advice  Tweak: Subscription Unlocked  Version: 3.12.45  Notes: press restore if subscri",
+ "description": "Single-app source for Astra (com.vertventures.stella). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7352.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vertventures.stella",
+   "name": "Astra",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Astra - Life Advice  Tweak: Subscription Unlocked  Version: 3.12.45  Notes: press restore if subscription isn't unlocked  Patched ",
+   "localizedDescription": "@riftysIPAlibrary | Astra - Life Advice  Tweak: Subscription Unlocked  Version: 3.12.45  Notes: press restore if subscription isn't unlocked  Patched ",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7352.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.12.78",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Astra - Life Advice  Tweak: Subscription Unlocked  Version: 3.12.78  Notes: press restore if subscription isn't unlocked  Patched ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8847-Astra%20-%20Life%20Advice-v3.12.78-riftysipas.ipa",
+     "size": 96909720
+    },
+    {
+     "version": "3.12.77",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Astra - Life Advice  Tweak: Subscription Unlocked  Version: 3.12.77  Notes: press restore if subscription isn't unlocked  Patched ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8836-Astra%20-%20Life%20Advice-v3.12.77-riftysipas.ipa",
+     "size": 96851159
+    },
+    {
+     "version": "3.12.76",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Astra - Life Advice  Tweak: Subscription Unlocked  Version: 3.12.76  Notes: press restore if subscription isn't unlocked  Patched ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8768-Astra%20-%20Life%20Advice-v3.12.76-riftysipas.ipa",
+     "size": 96900950
+    }
+   ]
+  }
+ ]
+}

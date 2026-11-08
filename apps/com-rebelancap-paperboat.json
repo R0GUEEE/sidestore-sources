@@ -1,0 +1,41 @@
+{
+ "name": "PaperBoat",
+ "identifier": "dev.perapp.com-rebelancap-paperboat",
+ "subtitle": "Paper Mario on your iPhone — an iOS port of Harbour Masters' PaperBoat, rendering natively on Metal",
+ "description": "Single-app source for PaperBoat (com.rebelancap.paperboat). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#89b0e0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.paperboat.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.paperboat",
+   "name": "PaperBoat",
+   "developerName": "rebelancap",
+   "subtitle": "Paper Mario on your iPhone — an iOS port of Harbour Masters' PaperBoat, rendering natively on Metal",
+   "localizedDescription": "PaperBoat for iPhone:\n\nPlay Paper Mario on your iPhone — the whole adventure, with saves, music and cutscenes, the PaperBoat enhancements menu, widescreen, game controllers, and a touch layout you can drag into whatever shape your thumbs like. Bring your own ROM: the app extracts it on the device itself, with no PC tools and no companion app.\n\nBuilt on PaperBoat (Harbour Masters' native Paper Mario 64 port) and libultraship, rendering natively on Metal — no translation layer. 100% vibe coded with lots of passion and attention to detail.\n\nThe touch layout the port ships by default — C-buttons, L/R, Z and Start, with the analog stick appearing under your left thumb wherever you put it. Every button can be dragged, scaled, faded or hidden in the in-game layout editor.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.paperboat.png",
+   "tintColor": "#89b0e0",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rebelancap/PaperBoat-ios@main/docs/screenshots/title-touch-layout.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2026-10-12T08:00:24Z",
+     "localizedDescription": "Sixth public release of PaperBoat for iPhone — an iOS port of PaperBoat 1.0.3, Harbour Masters' native Paper Mario 64 port, rendering natively on Metal.\n\nThis release brings the port up to upstream PaperBoat 1.0.3 (\"Mulberry Delta\"). New from upstream:\n\n• Blueprint Editor — edit enemy and partner stats.\n• Status bar customization — choose which elements show, plus scale, box size, colours, always-show and a flat bottom.\n• Free QoL Badges enhancement — Speedy Spin, Peekaboo and I Spy.\n• Disable Mipmaps enhancement.\n• Walking partners now keep up with a sprinting Mario.\n• HD texture packs: only the art about to draw is prefetched, sprite palette effects and tints stay in HD, and an HD pack bug is fixed.\n• Save Editor: better letters inventory; HP/FP edits no longer reset.\n• Fixes: camera freezing on in-between frames above 30 fps, a HUD crash, lava bud animations, the Sushie/Kolorado wavy effect, Star/Peach beam, Piranha music and demo resets, Merluvlee/Post Office flags, and HP bars after a soft reset.\n\nYour extracted game data, saves and settings carry over; there is no need to re-extract the ROM.\n\nAdd a SideStore source and the app auto-updates as new versions ship:\n\nOr install the IPA below manually through SideStore/AltStore (Sideloadly works too). SideStore itself is installed with iloader.\n\nThis release is iPhone/iPad only — there is no Vision Pro build.\n\nRequirements:\n\n• iPhone or iPad on iOS 16.3 or newer.\n• Your own US Paper Mario ROM (.z64) — the app checks its hash before extracting it on the device.\n• SideStore, installed with iloader.\n\nTexture packs:\n\nMasterKillua's official \"Paper Mario 64 R\" pack (HD and 4K, on his Patreon) works with this port. Drop the .o2r into On My iPhone → PaperBoat → mods in Files, relaunch, and turn Use Alternate Assets on in the Mod Menu (Settings → Mod Menu). That toggle is off by default. On a phone, prefer the HD flavour.",
+     "downloadURL": "https://github.com/rebelancap/PaperBoat-ios/releases/download/v1.0.5/paperboat-1.0.5-iOS.ipa",
+     "size": 6850576
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

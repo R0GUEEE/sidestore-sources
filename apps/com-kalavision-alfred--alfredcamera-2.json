@@ -1,0 +1,30 @@
+{
+ "name": "Alfredcamera",
+ "identifier": "dev.perapp.com-kalavision-alfred",
+ "subtitle": "Alfredcamera",
+ "description": "Single-app source for Alfredcamera (com.kalavision.alfred). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kalavision.alfred",
+   "name": "Alfredcamera",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kalavision.alfred.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.3.0",
+     "date": "2025-02-12T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/Alfredcamera_2025.3.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 125911245
+    }
+   ]
+  }
+ ]
+}

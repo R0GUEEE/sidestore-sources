@@ -1,0 +1,37 @@
+{
+ "name": "Zomigle - TrollStore",
+ "identifier": "dev.perapp.xyz-hhls-zomigle",
+ "subtitle": "Cho phép ghép nối watchOS với phiên bản iOS thấp. Yêu cầu cài qua TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB",
+ "description": "Single-app source for Zomigle - TrollStore (xyz.hhls.Zomigle). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.hhls.Zomigle",
+   "name": "Zomigle - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Cho phép ghép nối watchOS với phiên bản iOS thấp. Yêu cầu cài qua TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Cho phép ghép nối watchOS với phiên bản iOS thấp. Yêu cầu cài qua TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Cho phép ghép nối watchOS với phiên bản iOS thấp. Yêu cầu cài qua TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=HAHALOSAH/Zomigle/releases/download/0.1.0-beta1/xyz.hhls.zomigle_0.1.0-beta1.tipa",
+     "size": 22900
+    },
+    {
+     "version": "0.1.0-beta1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Cho phép ghép nối watchOS với phiên bản iOS thấp. Yêu cầu cài qua TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=HAHALOSAH/Zomigle/releases/download/0.1.0-beta1/xyz.hhls.zomigle_0.1.0-beta1.tipa",
+     "size": 22900
+    }
+   ]
+  }
+ ]
+}

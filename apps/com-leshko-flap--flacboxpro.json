@@ -1,0 +1,30 @@
+{
+ "name": "FlacboxPro",
+ "identifier": "dev.perapp.com-leshko-flap",
+ "subtitle": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to p",
+ "description": "Single-app source for FlacboxPro (com.leshko.flap). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leshko.flap.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leshko.flap",
+   "name": "FlacboxPro",
+   "developerName": "iApps / Paisseon",
+   "subtitle": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio…",
+   "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio file on your iPhone/iPad, enabling you to enjoy music in its lossless format. A user requested it so here it is.\nLast updated: 07-12-2024\nStatus: ⚠️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leshko.flap.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.7",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Flacbox serves as a high-resolution music player featuring an audio equalizer and bass booster. This app allows you to play nearly any type of audio…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlacboxPro/FlacboxPro-5.7.ipa",
+     "size": 46470517
+    }
+   ]
+  }
+ ]
+}

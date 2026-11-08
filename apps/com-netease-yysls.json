@@ -1,0 +1,37 @@
+{
+ "name": "Where Winds Meet",
+ "identifier": "dev.perapp.com-netease-yysls",
+ "subtitle": "ipaomtk.com | Where Winds Meet IPA Overview Where Winds Meet is an ambitious open-world action RPG inspired by classic C",
+ "description": "Single-app source for Where Winds Meet (com.netease.yysls). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Where-Winds-Meet-IPA-v1.0.6-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netease.yysls",
+   "name": "Where Winds Meet",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Where Winds Meet IPA Overview Where Winds Meet is an ambitious open-world action RPG inspired by classic Chinese wuxia culture, blending",
+   "localizedDescription": "ipaomtk.com | Where Winds Meet IPA Overview Where Winds Meet is an ambitious open-world action RPG inspired by classic Chinese wuxia culture, blending",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Where-Winds-Meet-IPA-v1.0.6-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.0.2",
+     "date": "2026-01-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Where Winds Meet IPA Overview Where Winds Meet is an ambitious open-world action RPG inspired by classic Chinese wuxia culture, blending",
+     "downloadURL": "https://file.ipaomtk.com/Where-Winds-Meet/Where-Winds-Meet-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "15.1.6",
+     "date": "2026-01-28T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Where Winds Meet IPA Overview Where Winds Meet is an ambitious open-world action RPG inspired by classic Chinese wuxia culture, blending",
+     "downloadURL": "https://file.ipaomtk.com/Where-Winds-Meet/Where-Winds-Meet-IPAOMTK.COM.ipa",
+     "size": 2147483647
+    }
+   ]
+  }
+ ]
+}

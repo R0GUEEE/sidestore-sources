@@ -1,0 +1,37 @@
+{
+ "name": "WeatherSuper",
+ "identifier": "dev.perapp.com-andyworks-weather",
+ "subtitle": "WeatherSuper by Lãng Khách🇻🇳 / Crack Hub",
+ "description": "Single-app source for WeatherSuper (com.andyworks.weather). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.andyworks.weather.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.andyworks.weather",
+   "name": "WeatherSuper",
+   "developerName": "Lãng Khách🇻🇳 / Crack Hub",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.andyworks.weather.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.23",
+     "date": "2024-10-16T00:00:00Z",
+     "localizedDescription": "Another (unique design) local forecast and live weather app. A user requested it so here it is.\nLast updated: 07-23-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WeatherSuper/WeatherSuper-3.23.ipa",
+     "size": 120244159
+    },
+    {
+     "version": "3.28",
+     "date": "2024-10-16T00:00:00Z",
+     "localizedDescription": "Another (unique design) local forecast and live weather app. A user requested it so here it is.\nLast updated: 07-23-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WeatherSuper/WeatherSuper-3.28.ipa",
+     "size": 99578038
+    }
+   ]
+  }
+ ]
+}

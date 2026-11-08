@@ -1,0 +1,30 @@
+{
+ "name": "Truecaller",
+ "identifier": "dev.perapp.com-truesoftware-truecaller0ther",
+ "subtitle": "Truecaller by True Software",
+ "description": "Single-app source for Truecaller (com.truesoftware.TrueCaller0ther). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/09/6c/ac096c56-0358-5b17-e2eb-59e3983213b5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.truesoftware.TrueCaller0ther",
+   "name": "Truecaller",
+   "developerName": "True Software",
+   "subtitle": "",
+   "localizedDescription": "Tweak made by @notblatant.",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/09/6c/ac096c56-0358-5b17-e2eb-59e3983213b5/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.27.5",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Tweak made by @notblatant.",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67819990d58cf3a2c101ff49",
+     "size": 106983168
+    }
+   ]
+  }
+ ]
+}

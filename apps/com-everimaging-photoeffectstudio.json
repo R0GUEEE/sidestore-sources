@@ -1,0 +1,30 @@
+{
+ "name": "FotorPro",
+ "identifier": "dev.perapp.com-everimaging-photoeffectstudio",
+ "subtitle": "all-in-one AI photo editing app. A user requested it so here it is. Last updated: 08-07-2024 Status: ✅",
+ "description": "Single-app source for FotorPro (com.everimaging.photoeffectstudio). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.everimaging.photoeffectstudio.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.everimaging.photoeffectstudio",
+   "name": "FotorPro",
+   "developerName": "iApps",
+   "subtitle": "all-in-one AI photo editing app. A user requested it so here it is. Last updated: 08-07-2024 Status: ✅",
+   "localizedDescription": "all-in-one AI photo editing app. A user requested it so here it is.\nLast updated: 08-07-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.everimaging.photoeffectstudio.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.6.6",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "all-in-one AI photo editing app. A user requested it so here it is. Last updated: 08-07-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FotorPro/FotorPro-10.6.6.ipa",
+     "size": 363010182
+    }
+   ]
+  }
+ ]
+}

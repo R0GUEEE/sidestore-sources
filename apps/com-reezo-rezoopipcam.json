@@ -1,0 +1,30 @@
+{
+ "name": "PhotoCollagePublic",
+ "identifier": "dev.perapp.com-reezo-rezoopipcam",
+ "subtitle": "Free in-app purchases (tap buy, then cancel)",
+ "description": "Single-app source for PhotoCollagePublic (com.reezo.RezooPipCam). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.reezo.RezooPipCam.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.reezo.RezooPipCam",
+   "name": "PhotoCollagePublic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Free in-app purchases (tap buy, then cancel)",
+   "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.reezo.RezooPipCam.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ) - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-10-2025/PhotoCollagePublic_2.2_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 107702762
+    }
+   ]
+  }
+ ]
+}

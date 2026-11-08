@@ -1,0 +1,30 @@
+{
+ "name": "Yatzy Ultimate",
+ "identifier": "dev.perapp.com-seavus-gaming-yatzy",
+ "subtitle": "ipaomtk.com | Yatzy Ultimate is a digital adaptation of the classic dice game, bringing the beloved pastime to mobile de",
+ "description": "Single-app source for Yatzy Ultimate (com.seavus.gaming.Yatzy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/256x256bb-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.seavus.gaming.Yatzy",
+   "name": "Yatzy Ultimate",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Yatzy Ultimate is a digital adaptation of the classic dice game, bringing the beloved pastime to mobile devices with enhanced features a",
+   "localizedDescription": "ipaomtk.com | Yatzy Ultimate is a digital adaptation of the classic dice game, bringing the beloved pastime to mobile devices with enhanced features a",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/256x256bb-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.9.13",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Yatzy Ultimate is a digital adaptation of the classic dice game, bringing the beloved pastime to mobile devices with enhanced features a",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Yatzy_Ultimate-v12.9.6-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

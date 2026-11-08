@@ -1,0 +1,30 @@
+{
+ "name": "PhotoGridPro",
+ "identifier": "dev.perapp.com-yunfang-photogrid",
+ "subtitle": "Collage App specifically made for social media. A user requested it so here it is. Last updated: 07-14-2024 Status: ✅",
+ "description": "Single-app source for PhotoGridPro (com.YunFang.PhotoGrid). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.YunFang.PhotoGrid",
+   "name": "PhotoGridPro",
+   "developerName": "iApps",
+   "subtitle": "Collage App specifically made for social media. A user requested it so here it is. Last updated: 07-14-2024 Status: ✅",
+   "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.YunFang.PhotoGrid.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.8.80",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Collage App specifically made for social media. A user requested it so here it is. Last updated: 07-14-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoGridPro/PhotoGridPro-8.8.80.ipa",
+     "size": 180880817
+    }
+   ]
+  }
+ ]
+}

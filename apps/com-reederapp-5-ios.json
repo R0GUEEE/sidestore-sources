@@ -1,0 +1,30 @@
+{
+ "name": "Reeder",
+ "identifier": "dev.perapp.com-reederapp-5-ios",
+ "subtitle": "ipaomtk.com | Reeder Classic IPA (Free Paid) iOS is a popular and highly-regarded RSS reader app that offers a sleek, mi",
+ "description": "Single-app source for Reeder (com.reederapp.5.iOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Reeder-Classic.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.reederapp.5.iOS",
+   "name": "Reeder",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Reeder Classic IPA (Free Paid) iOS is a popular and highly-regarded RSS reader app that offers a sleek, minimalist interface for consumi",
+   "localizedDescription": "ipaomtk.com | Reeder Classic IPA (Free Paid) iOS is a popular and highly-regarded RSS reader app that offers a sleek, minimalist interface for consumi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Reeder-Classic.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.4",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Reeder Classic IPA (Free Paid) iOS is a popular and highly-regarded RSS reader app that offers a sleek, minimalist interface for consumi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Reeder_Classic-v5.4.4_2024-10-20_19-12-10-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

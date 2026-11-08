@@ -1,0 +1,30 @@
+{
+ "name": "Locket",
+ "identifier": "dev.perapp.com-locket-locket",
+ "subtitle": "Locket",
+ "description": "Single-app source for Locket (com.locket.Locket). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.locket.Locket",
+   "name": "Locket",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Gold",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.72.1",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Injected with Gold",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Locket_2.72.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+     "size": 97016533
+    }
+   ]
+  }
+ ]
+}

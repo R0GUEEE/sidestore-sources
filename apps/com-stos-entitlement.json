@@ -1,0 +1,37 @@
+{
+ "name": "Get More Ram",
+ "identifier": "dev.perapp.com-stos-entitlement",
+ "subtitle": "Get More Ram A simple StosSign wrapper app that allows you to enable \"Increased Memory Limit\" for your sideloaded apps w",
+ "description": "Single-app source for Get More Ram (com.stos.Entitlement). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/empty.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stos.Entitlement",
+   "name": "Get More Ram",
+   "developerName": "hugeBlack",
+   "subtitle": "Get More Ram A simple StosSign wrapper app that allows you to enable \"Increased Memory Limit\" for your sideloaded apps without using Xcode. How to use",
+   "localizedDescription": "Get More Ram A simple StosSign wrapper app that allows you to enable \"Increased Memory Limit\" for your sideloaded apps without using Xcode. How to use\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/empty.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "nightly",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Get More Ram A simple StosSign wrapper app that allows you to enable \"Increased Memory Limit\" for your sideloaded apps without using Xcode. How to use",
+     "downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+     "size": 2305445
+    },
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Get More Ram A simple StosSign wrapper app that allows you to enable \"Increased Memory Limit\" for your sideloaded apps without using Xcode. How to use",
+     "downloadURL": "https://github.com/hugeBlack/GetMoreRam/releases/download/nightly/GetMoreRam.ipa",
+     "size": 2305445
+    }
+   ]
+  }
+ ]
+}

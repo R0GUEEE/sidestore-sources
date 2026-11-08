@@ -1,0 +1,37 @@
+{
+ "name": "Upflix",
+ "identifier": "dev.perapp.com-douglas-upflix",
+ "subtitle": "ipaomtk.com | flix Upflix IPA is a revolutionary movie and TV show streaming platform that has taken the entertainment w",
+ "description": "Single-app source for Upflix (com.douglas.upflix). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/Upflix-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.douglas.upflix",
+   "name": "Upflix",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | flix Upflix IPA is a revolutionary movie and TV show streaming platform that has taken the entertainment world by storm. As a movie and ",
+   "localizedDescription": "ipaomtk.com | flix Upflix IPA is a revolutionary movie and TV show streaming platform that has taken the entertainment world by storm. As a movie and ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/Upflix-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.14.20",
+     "date": "2024-07-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | flix Upflix IPA is a revolutionary movie and TV show streaming platform that has taken the entertainment world by storm. As a movie and ",
+     "downloadURL": "https://file.ipaomtk.com/upflix/Upflix-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.15.31",
+     "date": "2024-07-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | flix Upflix IPA is a revolutionary movie and TV show streaming platform that has taken the entertainment world by storm. As a movie and ",
+     "downloadURL": "https://file.ipaomtk.com/upflix/Upflix-IPAOMTK.COM.ipa",
+     "size": 63370357
+    }
+   ]
+  }
+ ]
+}

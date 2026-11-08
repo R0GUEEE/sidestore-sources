@@ -1,0 +1,30 @@
+{
+ "name": "Kingland",
+ "identifier": "dev.perapp.com-tornadobear-kingland",
+ "subtitle": "ipaomtk.com | Embark on a thrilling journey through the enchanting realm of Kingland Castle Adventure IPA, a captivating",
+ "description": "Single-app source for Kingland (com.TornadoBear.KingLand). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Kingland-Castle-Adventure-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TornadoBear.KingLand",
+   "name": "Kingland",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Embark on a thrilling journey through the enchanting realm of Kingland Castle Adventure IPA, a captivating mobile game that promises to ",
+   "localizedDescription": "ipaomtk.com | Embark on a thrilling journey through the enchanting realm of Kingland Castle Adventure IPA, a captivating mobile game that promises to ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Kingland-Castle-Adventure-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.7.1",
+     "date": "2024-09-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Embark on a thrilling journey through the enchanting realm of Kingland Castle Adventure IPA, a captivating mobile game that promises to ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Kingland-ipaomtk.com_0.3.6.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

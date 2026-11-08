@@ -1,0 +1,30 @@
+{
+ "name": "Card Crawl",
+ "identifier": "dev.perapp.com-tinytouchtales-cardcrawl",
+ "subtitle": "ipaomtk.com | Card Crawl is an innovative solitaire-style dungeon crawler card game developed by Arnold Rauers. Combinin",
+ "description": "Single-app source for Card Crawl (com.tinytouchtales.cardcrawl). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Card-Crawl.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tinytouchtales.cardcrawl",
+   "name": "Card Crawl",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Card Crawl is an innovative solitaire-style dungeon crawler card game developed by Arnold Rauers. Combining elements of RPG and solitair",
+   "localizedDescription": "ipaomtk.com | Card Crawl is an innovative solitaire-style dungeon crawler card game developed by Arnold Rauers. Combining elements of RPG and solitair",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Card-Crawl.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.8",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Card Crawl is an innovative solitaire-style dungeon crawler card game developed by Arnold Rauers. Combining elements of RPG and solitair",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Card_Crawl-v2.4.8-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

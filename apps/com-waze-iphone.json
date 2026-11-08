@@ -1,0 +1,32 @@
+{
+ "name": "WazePlus_4.100.0",
+ "identifier": "dev.perapp.com-waze-iphone",
+ "subtitle": "WazePlus_4.100.0 by WazePlus_4.100.0 x CyPwn",
+ "description": "Single-app source for WazePlus_4.100.0 (com.waze.iphone). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/WazePlus_4.100.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.waze.iphone",
+   "name": "WazePlus_4.100.0",
+   "developerName": "WazePlus_4.100.0 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "A better way to Waze",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/WazePlus_4.100.0.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/WazePlus_4.100.0/WazePlus_4.100.0-0.png"
+   ],
+   "versions": [
+    {
+     "version": "4.100.0",
+     "date": "2023-12-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/WazePlus_4.100.0.ipa",
+     "size": 58290339
+    }
+   ]
+  }
+ ]
+}

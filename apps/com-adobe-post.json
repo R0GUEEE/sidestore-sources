@@ -1,0 +1,30 @@
+{
+ "name": "AdobeExpress",
+ "identifier": "dev.perapp.com-adobe-post",
+ "subtitle": "AdobeExpress",
+ "description": "Single-app source for AdobeExpress (com.adobe.post). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.post",
+   "name": "AdobeExpress",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.post.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "31.2.0",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/AdobeExpress_31.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 155298571
+    }
+   ]
+  }
+ ]
+}

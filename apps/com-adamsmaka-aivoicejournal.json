@@ -1,0 +1,44 @@
+{
+ "name": "The Architect",
+ "identifier": "dev.perapp.com-adamsmaka-aivoicejournal",
+ "subtitle": "@riftysIPAlibrary | The Architect - Voice Memo  Tweak: Pro Unlocked  Version: 1.0.15  Notes: restart app to activate sub",
+ "description": "Single-app source for The Architect (com.adamsmaka.aivoicejournal). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7370.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adamsmaka.aivoicejournal",
+   "name": "The Architect",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | The Architect - Voice Memo  Tweak: Pro Unlocked  Version: 1.0.15  Notes: restart app to activate subscription  Patched ✓  @riftysI",
+   "localizedDescription": "@riftysIPAlibrary | The Architect - Voice Memo  Tweak: Pro Unlocked  Version: 1.0.15  Notes: restart app to activate subscription  Patched ✓  @riftysI",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7370.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.50",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | The Architect - Voice Memo Tweak: Pro Unlocked Version: 1.0.50 Notes: restart app to activate subscription Patched ✓…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8872-The%20Architect%20-%20Voice%20Memo-v1.0.50-riftysipas.ipa",
+     "size": 58668694
+    },
+    {
+     "version": "1.0.27",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | The Architect - Voice Memo  Tweak: Pro Unlocked  Version: 1.0.27  Notes: restart app to activate subscription  Patched ✓  @riftysI",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8279-The%20Architect%20-%20Voice%20Memo-v1.0.27-riftysipas.ipa",
+     "size": 56401896
+    },
+    {
+     "version": "1.0.15",
+     "date": "2026-08-08T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | The Architect - Voice Memo  Tweak: Pro Unlocked  Version: 1.0.15  Notes: restart app to activate subscription  Patched ✓  @riftysI",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7370-The%20Architect%20-%20Voice%20Memo-v1.0.15-riftysipas.ipa",
+     "size": 48418244
+    }
+   ]
+  }
+ ]
+}

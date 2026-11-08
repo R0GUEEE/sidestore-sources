@@ -1,0 +1,30 @@
+{
+ "name": "Magus",
+ "identifier": "dev.perapp.com-photo-magus",
+ "subtitle": "ipaomtk.com | AI Photo Enhancer・Magus IPA, In⁣ an⁢ age ⁣where ‍images are ⁤pivotal in⁢ storytelling and communication, h",
+ "description": "Single-app source for Magus (com.photo.magus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/AI-Photo-Enhancer%E3%83%BBMagus-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.photo.magus",
+   "name": "Magus",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | AI Photo Enhancer・Magus IPA, In⁣ an⁢ age ⁣where ‍images are ⁤pivotal in⁢ storytelling and communication, having tools that enhance visua",
+   "localizedDescription": "ipaomtk.com | AI Photo Enhancer・Magus IPA, In⁣ an⁢ age ⁣where ‍images are ⁤pivotal in⁢ storytelling and communication, having tools that enhance visua",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/AI-Photo-Enhancer%E3%83%BBMagus-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6",
+     "date": "2025-03-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AI Photo Enhancer・Magus IPA, In⁣ an⁢ age ⁣where ‍images are ⁤pivotal in⁢ storytelling and communication, having tools that enhance visua",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Magus_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Outdated - Fortnite - 120FPS",
+ "identifier": "dev.perapp.com-epicgames-fortnitegame-120fps",
+ "subtitle": "REQUIRED - Paid Developer Certificate",
+ "description": "Single-app source for Outdated - Fortnite - 120FPS (com.epicgames.FortniteGame.120fps). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "848ef9",
+ "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277815911663009884/83710856-94A3-4E83-B15A-17E138DA5813.jpg?ex=66ce8a4e&is=66cd38ce&hm=86bdd99bb85f7299c6bcf5d381f2571305bb03a85b42cb21fac0f02688945881&",
+ "apps": [
+  {
+   "bundleIdentifier": "com.epicgames.FortniteGame.120fps",
+   "name": "Outdated - Fortnite - 120FPS",
+   "developerName": "Epic Games & Celestial Devs",
+   "subtitle": "REQUIRED - Paid Developer Certificate",
+   "localizedDescription": "It’s Fortnite for iOS. There is no more to say.",
+   "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277815911663009884/83710856-94A3-4E83-B15A-17E138DA5813.jpg?ex=66ce8a4e&is=66cd38ce&hm=86bdd99bb85f7299c6bcf5d381f2571305bb03a85b42cb21fac0f02688945881&",
+   "tintColor": "848ef9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "v31.30.1",
+     "date": "2024-08-24T18:34:10Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ilovecelesital.b-cdn.net/3290458902589732withmods921841.ipa",
+     "size": 242640000
+    }
+   ],
+   "appPermissions": {}
+  }
+ ]
+}

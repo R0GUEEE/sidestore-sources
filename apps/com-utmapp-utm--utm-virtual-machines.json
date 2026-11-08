@@ -1,0 +1,45 @@
+{
+ "name": "UTM Virtual Machines",
+ "identifier": "dev.perapp.com-utmapp-utm",
+ "subtitle": "Virtual machines for iOS",
+ "description": "Single-app source for UTM Virtual Machines (com.utmapp.UTM). Converted from sidestore-connect.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "1a2cc2",
+ "iconURL": "https://connect.sidestore.io/public/apps/com.utmapp.UTM/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.utmapp.UTM",
+   "name": "UTM Virtual Machines",
+   "developerName": "osy",
+   "subtitle": "Virtual machines for iOS",
+   "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.\nThis version requires using AltJIT. Install UTM SE for slower emulation without JIT.\n\nMore information at [https://getutm.app/](https://getutm.app/)\n\nFeatures:\n\n• Emulate any Processor\n30+ processors supported by qemu including x86_64, ARM64, and RISC-V\n• Run any Operating System\nWindows, Linux, and more natively and securely on iOS within an App\n• Fast Emulation\nPara-virtualization with SPICE and JIT compilation with TCG\n• High Compatibility\niOS 14+ supported. Works on iPhone and iPad. No jailbreak needed\n• Free and Open Source\nUTM and its dependencies are all free and open source\n• Easy to Use\nConfigure and customize your VM in a native UI",
+   "iconURL": "https://connect.sidestore.io/public/apps/com.utmapp.UTM/icon.png",
+   "tintColor": "1a2cc2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.4",
+     "date": "2024-11-10T01:40:00.408717+00:00",
+     "localizedDescription": "- Fixed an issue causing \"The file ... couldn't be opened\" immediately after creating a new VM (#6398)\n- The timestamp of the .utm package will always update to the last time it runs, this should make managing backups easier (#6474)\n- Fixed the error \"Failed to lock byte 100: Operation not supported\" when trying to attach an ISO which the OS has mounted or from a network drive that does not support locking (#6564)\n- Fixed an issue where release notes loading can be delayed by a lack of internet connection (it should just fail silently)\n- Localization: Added Arabic (thanks @muhammadbahaa2001)\n- Localization: Updated Chinese (Simplified + Hong Kong) (thanks @changanmoon)\n- Localization: Updated Japanese (thanks @MMP0)\n- Updated DEB to support rootless\n- Terminal lines no longer get hidden by the top curved edge or by the keyboard (#6482)\n- Fixed an issue where importing a drive shows up as a removable drive (#6485)\n- Fixed an issue where creating a new drive sometimes automatically closes the popup\n- External displays can now view serial output terminals (#6594)\n- Added new tips overlay for new users",
+     "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.5.4/UTM.ipa",
+     "size": 122064838
+    },
+    {
+     "version": "4.3.5",
+     "date": "2023-10-08T04:28:35.080873+00:00",
+     "localizedDescription": "## Highlights\n* **Rewrite of QEMU support internals.** Much of the code to support QEMU has been refactored into a new project, [QEMUKit](https://github.com/utmapp/QEMUKit), which will make it easier to support QEMU changes as well as support for new platforms.\n* **TPM 2.0 and Secure Boot** This is required for Windows 11 updates to 22H2. To enable TPM on an existing virtual machine (only x86_64, i386, and ARM64 architectures are supported), open the VM settings, go to the QEMU page and select \"UEFI Boot\", \"TPM 2.0 Device\", and \"Reset UEFI Variables.\" Any new VM created through the wizard will have TPM 2.0 and Secure Boot enabled by default if Windows 10+ support is checked.\n* **Download Windows installer with a new utility.** We know that creating a Windows installer can be a hassle which is why we are releasing a new free tool called CrystalFetch which can be found on [GitHub](https://github.com/TuringSoftware/CrystalFetch) as well as free on the [Mac App Store](https://apps.apple.com/app/crystalfetch-iso-downloader/id6454431289). This companion to UTM will allow you to generate a Windows 11 ISO with a few clicks (no Terminal, Homebrew, or scripts required). Note that just like before, you still need a valid license from Microsoft to use Windows.\n\n## Notes\n* On i386 and x86_64 machines, HPET is now disabled by default. This improves performance (slightly) on some guests and also addresses boot issues with OpenIndiana. This change means that suspended VM state from previous versions are not compatible, so please shut down those VMs before updating. If you require HPET to be enabled for any reason, go into the VM's settings and under QEMU → QEMU Machine Properties, add the text `hpet=on`.\n* In v4.3.5, we rolled back backend updates to QEMU and EDK2 due to a critical issue that prevented VMs from booting. While the issue is investigated, the last stable version will be used and once the issue is resolved, a new update will be released.\n* If you suspended an Apple Virtualization VM in v4.4 and then downgrade to v4.3, you will not be able to resume the VM or start it at all. Please make sure you shut down any such VMs before downgrading or you may suffer data loss.\n\n## Changes (v4.3.5)\n* Rollback QEMU version to 7.2.0\n* Rollback EDK2 firmware to edk2-stable202102\n* Reduced amount of logging when Debug Log is not checked\n* (macOS) Wizard: Fixed boot ISO not saving for AVF (#5517)\n\n## Changes (v4.3.4)\n* Localization: Updated Japanese (thanks @MMP0)\n* Fixed WebDAV shared directory not setup on start (#5506)\n* (macOS) Improved debug logging by showing more verbose logging for SPICE. If \"Enable Debug Log\" is selected, more verbose logging will be activated.\n* (macOS) Fixed an issue where the VM freezes or shows \"port not connected\" when the computer is under memory pressure (#5489)\n* (macOS 11) Disabled options in the context menu which had broken UI leading to freezes or crashes (#5147)\n* (macOS 12) Wizard: Fixed a crash when selecting a file with VoiceOver (#5250)\n* (macOS 12+) Settings: new table view for QEMU custom arguments\n\n## Changes (v4.3.3)\n* Fixed a crash when selecting a VM (#5481)\n* Fixed a crash when starting a VM and an error occurred when creating display/serial devices (#5472)\n* Fixed boot issues when trying to load OpenIndiana by disabling HPET timers by default (#2394)\n* Fixed an issue where selected removable drive image and shared directory are not syncing correctly\n* QEMUKit: Fixed race condition when multiple RPC commands are sent (#5477)\n* EDK2: Fixed an issue preventing some versions of Windows 11 from booting (#5495)\n* utmctl: Add a more verbose error message when utmctl fails because it is launched from an SSH session or before logging in (#5499)\n* Wizard: Fixed selected boot ISO not saving (#5471)\n* Wizard: Link to CrystalFetch when Windows is selected\n* (macOS) AVF: Automatically un-capture system keys when VM terminates\n\n## Changes (v4.3.2)\n* The last update introduced two units per bus for IDE devices. H",
+     "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.3.5/UTM.ipa",
+     "size": 123210353
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM also uses the local network to communicate with AltServer.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+     "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
+    }
+   }
+  }
+ ]
+}

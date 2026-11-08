@@ -1,0 +1,30 @@
+{
+ "name": "Gear Browser",
+ "identifier": "dev.perapp.com-unknown-gearbrowser",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەتمەندی پشکنەری توخمەکان ✅  دۆخی تاریکی پیشەیی ✅  دروستکردن و تاقیکردنەوەی سکریپتی",
+ "description": "Single-app source for Gear Browser (com.unknown.gearbrowser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Gear.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.gearbrowser",
+   "name": "Gear Browser",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەتمەندی پشکنەری توخمەکان ✅  دۆخی تاریکی پیشەیی ✅  دروستکردن و تاقیکردنەوەی سکریپتی بەکارهێنەر بێ سنوور ✅  پشکنین",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەتمەندی پشکنەری توخمەکان ✅  دۆخی تاریکی پیشەیی ✅  دروستکردن و تاقیکردنەوەی سکریپتی بەکارهێنەر بێ سنوور ✅  پشکنین",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Gear.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.15.2",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەتمەندی پشکنەری توخمەکان ✅  دۆخی تاریکی پیشەیی ✅  دروستکردن و تاقیکردنەوەی سکریپتی بەکارهێنەر بێ سنوور ✅  پشکنین",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Gear._6.15.2_1737319473.ipa",
+     "size": 19080000
+    }
+   ]
+  }
+ ]
+}

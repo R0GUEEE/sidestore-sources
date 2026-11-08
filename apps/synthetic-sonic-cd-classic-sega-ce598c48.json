@@ -1,0 +1,30 @@
+{
+ "name": "Sonic CD Classic - SEGA",
+ "identifier": "dev.perapp.synthetic-sonic-cd-classic-sega-ce598c48",
+ "subtitle": "Sonic CD Classic - SEGA by sidelix",
+ "description": "Single-app source for Sonic CD Classic - SEGA (synthetic.sonic-cd-classic-sega.ce598c48). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761856551.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.sonic-cd-classic-sega.ce598c48",
+   "name": "Sonic CD Classic - SEGA",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Sonic CD Classic is a great platformer where you control Sonic and rescue Amy Rose. In this game, you will travel through the past, present and future and try to find all seven time stones in order to defeat the evil Dr. Eggman and his henchman metal Sonic. Run, jump and ride through a variety of pixel levels and collect power-ups and power-ups, as well as use super tricks to defeat enemies. Collect all seven time stones and rescue Amy Rose from Eggmand’s captivity. Play this game and enjoy the dynamic and addictive gameplay.",
+   "iconURL": "https://appstore.sidelix.vip/images/1761856551.webp",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.0.4",
+     "date": "2025-10-30T00:00:00Z",
+     "localizedDescription": "Sonic CD Classic is a great platformer where you control Sonic and rescue Amy Rose. In this game, you will travel through the past, present and future and try to find all seven time stones in order to defeat the evil Dr. Eggman and his henchman metal Sonic. Run, jump and ride through a variety of pixel levels and collect power-ups and power-ups, as well as use super tricks to defeat enemies. Collect all seven time stones and rescue Amy Rose from Eggmand’s captivity. Play this game and enjoy the dynamic and addictive gameplay.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1904",
+     "size": 198195271
+    }
+   ]
+  }
+ ]
+}

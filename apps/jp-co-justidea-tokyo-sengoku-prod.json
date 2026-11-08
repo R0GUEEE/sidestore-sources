@@ -1,0 +1,30 @@
+{
+ "name": "SenGoku",
+ "identifier": "dev.perapp.jp-co-justidea-tokyo-sengoku-prod",
+ "subtitle": "ipaomtk.com | Tokyo Sengoku Dungeon IPA MOD, a captivating iOS game that transports you back in time to the Sengoku peri",
+ "description": "Single-app source for SenGoku (jp.co.justIdea.tokyo.sengoku.prod). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Idle-RPG-Tokyo-Sengoku-Dungeon-thumbnail-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.co.justIdea.tokyo.sengoku.prod",
+   "name": "SenGoku",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tokyo Sengoku Dungeon IPA MOD, a captivating iOS game that transports you back in time to the Sengoku period of Japan. Immerse yourself ",
+   "localizedDescription": "ipaomtk.com | Tokyo Sengoku Dungeon IPA MOD, a captivating iOS game that transports you back in time to the Sengoku period of Japan. Immerse yourself ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Idle-RPG-Tokyo-Sengoku-Dungeon-thumbnail-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.4",
+     "date": "2024-05-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tokyo Sengoku Dungeon IPA MOD, a captivating iOS game that transports you back in time to the Sengoku period of Japan. Immerse yourself ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Tokyo-Sengoku-Dungeon.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

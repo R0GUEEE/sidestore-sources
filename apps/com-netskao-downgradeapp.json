@@ -1,0 +1,32 @@
+{
+ "name": "DowngradeApp_1.1-9",
+ "identifier": "dev.perapp.com-netskao-downgradeapp",
+ "subtitle": "DowngradeApp_1.1-9 by DowngradeApp_1.1-9 x CyPwn",
+ "description": "Single-app source for DowngradeApp_1.1-9 (com.netskao.downgradeapp). Converted from cypwn-trollstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/DowngradeApp_1.1-9.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netskao.downgradeapp",
+   "name": "DowngradeApp_1.1-9",
+   "developerName": "DowngradeApp_1.1-9 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Downgrade apps! TrollStore required",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/DowngradeApp_1.1-9.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/DowngradeApp_1.1-9/DowngradeApp_1.1-9-0.png"
+   ],
+   "versions": [
+    {
+     "version": "1.1-9",
+     "date": "2024-07-09T00:00:00Z",
+     "localizedDescription": "Downgrade apps! TrollStore required",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/DowngradeApp_1.1-9.ipa",
+     "size": 543621
+    }
+   ]
+  }
+ ]
+}

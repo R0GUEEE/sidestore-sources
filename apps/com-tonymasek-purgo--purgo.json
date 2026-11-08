@@ -1,0 +1,37 @@
+{
+ "name": "Purgo",
+ "identifier": "dev.perapp.com-tonymasek-purgo",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Purgo (com.tonymasek.Purgo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tonymasek.Purgo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tonymasek.Purgo",
+   "name": "Purgo",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tonymasek.Purgo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.4",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-08-2025/Purgo_1.3.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 9482937
+    },
+    {
+     "version": "1.4.0",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-12-2025/Purgo_1.4.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 9507813
+    }
+   ]
+  }
+ ]
+}

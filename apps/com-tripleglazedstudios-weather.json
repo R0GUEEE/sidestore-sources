@@ -1,0 +1,30 @@
+{
+ "name": "Mercury",
+ "identifier": "dev.perapp.com-tripleglazedstudios-weather",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Mercury (com.tripleglazedstudios.Weather). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tripleglazedstudios.Weather",
+   "name": "Mercury",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.1",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Mercury_3.8.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 79986643
+    }
+   ]
+  }
+ ]
+}

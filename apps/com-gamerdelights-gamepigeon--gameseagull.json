@@ -1,0 +1,44 @@
+{
+ "name": "GameSeagull",
+ "identifier": "dev.perapp.com-gamerdelights-gamepigeon",
+ "subtitle": "ipaomtk.com | GamePigeon IPA MOD v2.2.6 is a wildly popular collection of multiplayer mini-games integrated seamlessly i",
+ "description": "Single-app source for GameSeagull (com.gamerdelights.gamepigeon). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/GamePigeon.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gamerdelights.gamepigeon",
+   "name": "GameSeagull",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | GamePigeon IPA MOD v2.2.6 is a wildly popular collection of multiplayer mini-games integrated seamlessly into Apple’s iMessage platform.",
+   "localizedDescription": "ipaomtk.com | GamePigeon IPA MOD v2.2.6 is a wildly popular collection of multiplayer mini-games integrated seamlessly into Apple’s iMessage platform.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/GamePigeon.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull shoul",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GameSeagullTS/GameSeagullTS.ipa",
+     "size": 90271704
+    },
+    {
+     "version": "2.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull shoul",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GameSeagullTS/GameSeagullTS-2.1.ipa",
+     "size": 90278934
+    },
+    {
+     "version": "2.0.12",
+     "date": "2024-11-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | GamePigeon IPA MOD v2.2.6 is a wildly popular collection of multiplayer mini-games integrated seamlessly into Apple’s iMessage platform.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/GamePigeon-v2.0.12-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

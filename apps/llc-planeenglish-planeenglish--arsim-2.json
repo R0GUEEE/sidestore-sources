@@ -1,0 +1,44 @@
+{
+ "name": "ARSim",
+ "identifier": "dev.perapp.llc-planeenglish-planeenglish",
+ "subtitle": "ARSim",
+ "description": "Single-app source for ARSim (llc.planeenglish.PlaneEnglish). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png",
+ "apps": [
+  {
+   "bundleIdentifier": "llc.planeenglish.PlaneEnglish",
+   "name": "ARSim",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.14",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2369",
+     "size": 304033700
+    },
+    {
+     "version": "1.5.13",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/ARSim_1.5.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 287598826
+    },
+    {
+     "version": "1.5.10",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: PlaneEnglish: ARSim\n\nTweak: Premium Unlocked\n\nVersion: 1.5.10\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/fe67630a-b19c-4c9a-90c1-cff1609cff05/PlaneEnglish__ARSim-v1.5.10-riftysipas.ipa",
+     "size": 285519405
+    }
+   ]
+  }
+ ]
+}

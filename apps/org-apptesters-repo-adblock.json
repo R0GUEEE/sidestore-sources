@@ -1,0 +1,30 @@
+{
+ "name": "Adblock",
+ "identifier": "dev.perapp.org-apptesters-repo-adblock",
+ "subtitle": "Adblock",
+ "description": "Single-app source for Adblock (org.apptesters.repo.adblock). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "org.apptesters.repo.adblock",
+   "name": "Adblock",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Adblock",
+   "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-12-06T00:00:00Z",
+     "localizedDescription": "Adblock",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/Adblock_1.0_%40thisismanpreets_apptesters.org.dylib",
+     "size": 199536
+    }
+   ]
+  }
+ ]
+}

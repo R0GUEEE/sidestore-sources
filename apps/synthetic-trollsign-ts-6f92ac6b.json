@@ -1,0 +1,30 @@
+{
+ "name": "TrollSign_TS",
+ "identifier": "dev.perapp.synthetic-trollsign-ts-6f92ac6b",
+ "subtitle": "v1.0 - Modify app entitlements.",
+ "description": "Single-app source for TrollSign_TS (synthetic.trollsign-ts.6f92ac6b). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollSign_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.trollsign-ts.6f92ac6b",
+   "name": "TrollSign_TS",
+   "developerName": "TrollSign_TS x CyPwn",
+   "subtitle": "v1.0 - Modify app entitlements.",
+   "localizedDescription": "v1.0 - Modify app entitlements.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollSign_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "v1.0 - Modify app entitlements.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollSign_TS.ipa",
+     "size": 2485125
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "ZenColor",
+ "identifier": "dev.perapp.happy-paint-color-coloring-number",
+ "subtitle": "ZenColor",
+ "description": "Single-app source for ZenColor (happy.paint.color.coloring.number). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png",
+ "apps": [
+  {
+   "bundleIdentifier": "happy.paint.color.coloring.number",
+   "name": "ZenColor",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/happy.paint.color.coloring.number.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.6",
+     "date": "2026-08-14T00:00:00Z",
+     "localizedDescription": "No Ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2323",
+     "size": 145168294
+    },
+    {
+     "version": "1.84.3",
+     "date": "2025-12-20T00:00:00Z",
+     "localizedDescription": "Injected with noads",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/ZenColor_1.84.3_noads_%40thisismanpreets_apptesters.org.ipa",
+     "size": 135032470
+    },
+    {
+     "version": "1.63.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Zen Color - Color by Number\n\nTweak: No Ads\n\nVersion: 1.63.0\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/a5aa97b2-5a81-4b75-8f4c-e7f0ad210935/Zen_Color_-_Color_By_Number-v1.63.0-riftysipas.ipa",
+     "size": 96698396
+    }
+   ]
+  }
+ ]
+}

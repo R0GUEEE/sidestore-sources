@@ -1,0 +1,30 @@
+{
+ "name": "Bloons TD 5",
+ "identifier": "dev.perapp.com-ninjakiwi-bloonstd5",
+ "subtitle": "ipaomtk.com | Bloons TD 5 HD IPA v4.5 is an engaging tower defense game that brings the beloved Bloons franchise to life",
+ "description": "Single-app source for Bloons TD 5 (com.ninjakiwi.bloonstd5). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Bloons-TD-5-HD.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ninjakiwi.bloonstd5",
+   "name": "Bloons TD 5",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Bloons TD 5 HD IPA v4.5 is an engaging tower defense game that brings the beloved Bloons franchise to life with vibrant, high-definition",
+   "localizedDescription": "ipaomtk.com | Bloons TD 5 HD IPA v4.5 is an engaging tower defense game that brings the beloved Bloons franchise to life with vibrant, high-definition",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Bloons-TD-5-HD.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Bloons TD 5 HD IPA v4.5 is an engaging tower defense game that brings the beloved Bloons franchise to life with vibrant, high-definition",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Bloons_TD_5-v4.5-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

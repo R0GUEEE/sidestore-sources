@@ -1,0 +1,30 @@
+{
+ "name": "Popcorn Time",
+ "identifier": "dev.perapp.com-wdfff-popcorntime",
+ "subtitle": "ipaomtk.com | Popcorn IPA is one of the most beloved and popular snacks around the world.⁢ Whether it’s at the ‌movie th",
+ "description": "Single-app source for Popcorn Time (com.wdfff.PopcornTime). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Popcorn_Time_logo-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wdfff.PopcornTime",
+   "name": "Popcorn Time",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Popcorn IPA is one of the most beloved and popular snacks around the world.⁢ Whether it’s at the ‌movie theater, Popcorn APK at home whi",
+   "localizedDescription": "ipaomtk.com | Popcorn IPA is one of the most beloved and popular snacks around the world.⁢ Whether it’s at the ‌movie theater, Popcorn APK at home whi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Popcorn_Time_logo-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2023-03-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Popcorn IPA is one of the most beloved and popular snacks around the world.⁢ Whether it’s at the ‌movie theater, Popcorn APK at home whi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PopcornTime.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

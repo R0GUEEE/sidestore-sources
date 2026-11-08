@@ -1,0 +1,30 @@
+{
+ "name": "Tv Remote+",
+ "identifier": "dev.perapp.synthetic-tv-remote-6a9d68e9",
+ "subtitle": "Tv Remote+ by Karbin-Store",
+ "description": "Single-app source for Tv Remote+ (synthetic.tv-remote.6a9d68e9). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Tv.Remote.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.tv-remote.6a9d68e9",
+   "name": "Tv Remote+",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "ئەپلیکەیشنەکە بە تایبەتمەندی تەواوەوە بۆ بەشداربووان بارکراوە",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Tv.Remote.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.55",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشنەکە بە تایبەتمەندی تەواوەوە بۆ بەشداربووان بارکراوە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/Remote+_2024.55_3BodSy.ipa",
+     "size": 40020000
+    }
+   ]
+  }
+ ]
+}

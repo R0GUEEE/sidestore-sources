@@ -1,0 +1,45 @@
+{
+ "name": "Perfect Dark",
+ "identifier": "dev.perapp.com-rebelancap-perfectdark",
+ "subtitle": "Perfect Dark (Dab's Mod, with the Xbox 360 XBLA art) for iPhone & Apple Vision Pro",
+ "description": "Single-app source for Perfect Dark (com.rebelancap.perfectdark). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2e76b5",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.perfectdark.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.perfectdark",
+   "name": "Perfect Dark",
+   "developerName": "rebelancap",
+   "subtitle": "Perfect Dark (Dab's Mod, with the Xbox 360 XBLA art) for iPhone & Apple Vision Pro",
+   "localizedDescription": "Perfect Dark for iPhone & Apple Vision Pro:\n\nPerfect Dark — Rare's N64 shooter — running natively on iPhone, iPad and Apple Vision Pro. Not an emulator: this is the Perfect Dark decompilation compiled for Apple silicon, through the Perfect Dark PC port and Dab's Mod, rendering on Metal.\n\nDab's Mod is what makes this the version worth porting: jump, a combat roll, melee combos and a third-person camera the N64 game never had, the Combat Simulator's simulant cap raised from 8 to 80, bodies that stay where they fell — and XBLA support, which draws the 2010 Xbox 360 release's high-resolution textures, meshes, rooms, font and explosions in place of the N64 art, from your own copy of that release.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.perfectdark.png",
+   "tintColor": "#2e76b5",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rebelancap/perfect-dark-ios@main/docs/screenshots/vision-pro-airbase-xbla.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.0.7",
+     "date": "2026-11-07T19:58:25Z",
+     "localizedDescription": "Perfect Dark 1.0.7 for iPhone and Apple Vision Pro is a point release on Dab's Mod v3.15.1, the same base as 1.0.6.\n\nNew:\n\n• Drag Fire to look (#4). Hold the FIRE button (or the left FIRE button in aim mode) and drag the same finger to turn the view, the way the AIM button already works, so you can shoot and steer with one thumb. It is on by default. Turn it off with the new \"Drag Fire to look\" switch under Controls in Settings. Tapping FIRE while another finger is aiming with AIM no longer interrupts that aim.\n\n1.0.6's thermal cool-down and XBLA checkbox fixes are included.\n\nGame data:\n\nThis app ships with no game content. You supply your own Perfect Dark (USA) (Rev 1) ROM (pd.ntsc-final.z64, md5 e03b088b6ac9e0080440efed07c1e40f) by dropping it into the app's Documents folder in the Files app. PAL, JPN and US 1.0 ROMs are not supported. The XBLA art, GoldenEye 007, Goldfinger 64 and Tomorrow Never Dies 64 are optional and likewise yours to supply: drop your own files into added-content/. We cannot help you obtain any of them.\n\niPhone / iPad: https://raw.githubusercontent.com/rebelancap/all-ports/main/apps-ios.json Apple Vision Pro: https://raw.githubusercontent.com/rebelancap/all-ports/main/apps-visionos.json\n\nOn Apple Vision Pro, first install SideStore onto the headset with.\n\nthen add the source in SideStore.\n\nCredits:\n\nDab's Mod by DabDavis (this release is built on its v3.15.1), the Perfect Dark PC port, and the Perfect Dark decompilation. MIT.",
+     "downloadURL": "https://github.com/rebelancap/perfect-dark-ios/releases/download/v1.0.7/perfectdark-1.0.7-iOS.ipa",
+     "size": 9416776
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "Perfect Dark can connect to Bluetooth game controllers.",
+     "NSBluetoothPeripheralUsageDescription": "Perfect Dark can connect to Bluetooth game controllers.",
+     "NSLocalNetworkUsageDescription": "Perfect Dark uses the local network to find and join multiplayer games."
+    }
+   }
+  }
+ ]
+}

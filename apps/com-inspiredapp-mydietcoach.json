@@ -1,0 +1,30 @@
+{
+ "name": "Mydietcoach",
+ "identifier": "dev.perapp.com-inspiredapp-mydietcoach",
+ "subtitle": "Mydietcoach by Holloway",
+ "description": "Single-app source for Mydietcoach (com.inspiredapp.mydietcoach). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380899.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inspiredapp.mydietcoach",
+   "name": "Mydietcoach",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380899.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.2.1",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1731",
+     "size": 83194604
+    }
+   ]
+  }
+ ]
+}

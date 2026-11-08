@@ -1,0 +1,30 @@
+{
+ "name": "Shadow Fight 4",
+ "identifier": "dev.perapp.com-nekki-shadowfightarena",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for Shadow Fight 4 (com.nekki.shadowfightarena). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Shadow-Fight-4-Arena-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nekki.shadowfightarena",
+   "name": "Shadow Fight 4",
+   "developerName": "ipaomtk.com",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Shadow Fight 4: Arena IPA is the latest installment in the popular Shadow Fight series, developed by Nekki. This action-packed game takes the intense martial arts combat of the previous titles and elevates it to new heights, offering an immersive and thrilling experience for both casual and hardcore gamers. As you delve into the world […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Shadow-Fight-4-Arena-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.85",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Shadow Fight 4: Arena IPA is the latest installment in the popular Shadow Fight series, developed by Nekki. This action-packed game…",
+     "downloadURL": "https://file.ipaomtk.com/shadow-fight-4-arena/Shadow-Fight-4-IPAOMTK.COM.ipa",
+     "size": 186219287
+    }
+   ]
+  }
+ ]
+}

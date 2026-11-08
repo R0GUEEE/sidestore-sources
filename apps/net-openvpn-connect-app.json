@@ -1,0 +1,30 @@
+{
+ "name": "OpenVPN -OMTK",
+ "identifier": "dev.perapp.net-openvpn-connect-app",
+ "subtitle": "ipaomtk.com | OpenVPN IPA MOD is a powerful open-source virtual private network (VPN) solution that has gained widesprea",
+ "description": "Single-app source for OpenVPN -OMTK (net.openvpn.connect.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/OpenVPN-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "net.openvpn.connect.app",
+   "name": "OpenVPN -OMTK",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | OpenVPN IPA MOD is a powerful open-source virtual private network (VPN) solution that has gained widespread popularity for its ability t",
+   "localizedDescription": "ipaomtk.com | OpenVPN IPA MOD is a powerful open-source virtual private network (VPN) solution that has gained widespread popularity for its ability t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/OpenVPN-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.2",
+     "date": "2024-07-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | OpenVPN IPA MOD is a powerful open-source virtual private network (VPN) solution that has gained widespread popularity for its ability t",
+     "downloadURL": "https://file.ipaomtk.com/ipa/openvpn.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

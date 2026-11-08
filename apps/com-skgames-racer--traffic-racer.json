@@ -1,0 +1,30 @@
+{
+ "name": "Traffic Racer",
+ "identifier": "dev.perapp.com-skgames-racer",
+ "subtitle": "Traffic Racer",
+ "description": "Single-app source for Traffic Racer (com.skgames.racer). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/73/b0/9a73b0cb-31cf-099e-531c-0a3493629c95/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skgames.racer",
+   "name": "Traffic Racer",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Traffic Racer\n⁣\nTweak: Free iAP\n\nVersion: 3.6\n\nMade by riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/73/b0/9a73b0cb-31cf-099e-531c-0a3493629c95/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Traffic Racer\n⁣\nTweak: Free iAP\n\nVersion: 3.6\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/fca905c4-eb6e-4b7e-9adc-2cf45422d0c4/TrafficRacer_v3.6-riftysipas.ipa",
+     "size": 78361793
+    }
+   ]
+  }
+ ]
+}

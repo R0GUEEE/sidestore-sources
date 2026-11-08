@@ -1,0 +1,30 @@
+{
+ "name": "Firsty",
+ "identifier": "dev.perapp.com-firsty-app",
+ "subtitle": "ipaomtk.com | Firsty Travel eSIM – Free Data IPA, Traveling the world has never been more exciting, but navigating the c",
+ "description": "Single-app source for Firsty (com.firsty.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Firsty-Travel-eSIM-Free-Data-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.firsty.app",
+   "name": "Firsty",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Firsty Travel eSIM – Free Data IPA, Traveling the world has never been more exciting, but navigating the complexities of international d",
+   "localizedDescription": "ipaomtk.com | Firsty Travel eSIM – Free Data IPA, Traveling the world has never been more exciting, but navigating the complexities of international d",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Firsty-Travel-eSIM-Free-Data-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.21",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Firsty Travel eSIM – Free Data IPA, Traveling the world has never been more exciting, but navigating the complexities of international d",
+     "downloadURL": "https://file.ipaomtk.com/Firsty%20Travel%20eSIM/Firsty-Travel-eSIM-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

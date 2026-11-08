@@ -1,0 +1,30 @@
+{
+ "name": "LikeeLRD",
+ "identifier": "dev.perapp.video-like",
+ "subtitle": "Full app description here. Basically a TikTok clone injected with the equivalent of TikTokLRD Last updated: 02-09-2023 S",
+ "description": "Single-app source for LikeeLRD (video.like). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/video.like.png",
+ "apps": [
+  {
+   "bundleIdentifier": "video.like",
+   "name": "LikeeLRD",
+   "developerName": "AppDB",
+   "subtitle": "Full app description here. Basically a TikTok clone injected with the equivalent of TikTokLRD Last updated: 02-09-2023 Status: ⚠️",
+   "localizedDescription": "Full app description here. Basically a TikTok clone injected with the equivalent of TikTokLRD\nLast updated: 02-09-2023\nStatus: ⚠️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/video.like.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.85.3",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Full app description here. Basically a TikTok clone injected with the equivalent of TikTokLRD Last updated: 02-09-2023 Status: ⚠️",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-09-2023/LikeeLRD-1.4-3.85.3.ipa",
+     "size": 82647067
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PancakeStore",
+ "identifier": "dev.perapp.com-jbdotparty-pancakestore",
+ "subtitle": "Logging in may break at random due to Apple's constant server-side changes. If login fails, make sure that you're on the",
+ "description": "Single-app source for PancakeStore (com.jbdotparty.PancakeStore). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jbdotparty.PancakeStore.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jbdotparty.PancakeStore",
+   "name": "PancakeStore",
+   "developerName": "jailbreakdotparty",
+   "subtitle": "Logging in may break at random due to Apple's constant server-side changes. If login fails, make sure that you're on the latest version of PancakeStor",
+   "localizedDescription": "Logging in may break at random due to Apple's constant server-side changes. If login fails, make sure that you're on the latest version of PancakeStor\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jbdotparty.PancakeStore.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Logging in may break at random due to Apple's constant server-side changes. If login fails, make sure that you're on the latest version of PancakeStor",
+     "downloadURL": "https://github.com/jailbreakdotparty/PancakeStore/releases/download/1.3.1/PancakeStore_v1.3.1.ipa",
+     "size": 3130839
+    }
+   ]
+  }
+ ]
+}

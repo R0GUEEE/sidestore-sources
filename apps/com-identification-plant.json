@@ -1,0 +1,30 @@
+{
+ "name": "LeafSnap",
+ "identifier": "dev.perapp.com-identification-plant",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for LeafSnap (com.identification.plant). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.identification.plant.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.identification.plant",
+   "name": "LeafSnap",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.identification.plant.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.73",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/LeafSnap_2.73_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 68232509
+    }
+   ]
+  }
+ ]
+}

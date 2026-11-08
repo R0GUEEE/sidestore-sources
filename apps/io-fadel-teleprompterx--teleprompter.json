@@ -1,0 +1,44 @@
+{
+ "name": "Teleprompter",
+ "identifier": "dev.perapp.io-fadel-teleprompterx",
+ "subtitle": "Teleprompter",
+ "description": "Single-app source for Teleprompter (io.fadel.TeleprompterX). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/07ad26f4-ec1e-4cfe-a96a-cec0671e0b6b/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "io.fadel.TeleprompterX",
+   "name": "Teleprompter",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Teleprompter for Video Pro\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.114\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/07ad26f4-ec1e-4cfe-a96a-cec0671e0b6b/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.133",
+     "date": "2026-09-13T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1521",
+     "size": 40017907
+    },
+    {
+     "version": "1.0.132",
+     "date": "2026-09-10T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1521",
+     "size": 37752365
+    },
+    {
+     "version": "1.0.131",
+     "date": "2026-08-05T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1521",
+     "size": 38449455
+    }
+   ]
+  }
+ ]
+}

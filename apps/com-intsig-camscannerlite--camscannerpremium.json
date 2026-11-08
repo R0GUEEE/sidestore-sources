@@ -1,0 +1,44 @@
+{
+ "name": "CamScannerPremium",
+ "identifier": "dev.perapp.com-intsig-camscannerlite",
+ "subtitle": "CamScannerPremium by Manpreet Singh @thisismanpreeets",
+ "description": "Single-app source for CamScannerPremium (com.intsig.CamScannerLite). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.intsig.CamScannerLite.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.intsig.CamScannerLite",
+   "name": "CamScannerPremium",
+   "developerName": "Manpreet Singh @thisismanpreeets",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.intsig.CamScannerLite.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.59.0",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "Injected with Premium. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CamScannerPremium/CamScannerPremium-6.59.0.ipa",
+     "size": 125089710
+    },
+    {
+     "version": "6.61.5",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "Injected with Premium. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CamScannerPremium/CamScannerPremium-6.61.5.ipa",
+     "size": 127216998
+    },
+    {
+     "version": "6.67.1",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "Injected with Premium. Another app that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CamScannerPremium/CamScannerPremium-6.67.1.ipa",
+     "size": 131842601
+    }
+   ]
+  }
+ ]
+}

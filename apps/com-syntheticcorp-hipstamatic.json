@@ -1,0 +1,30 @@
+{
+ "name": "Hipstamatic",
+ "identifier": "dev.perapp.com-syntheticcorp-hipstamatic",
+ "subtitle": "ipaomtk.com | Capturing the essence of vintage photography has never been easier than with the Classic Camera by Hipstam",
+ "description": "Single-app source for Hipstamatic (com.syntheticcorp.hipstamatic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/app-icon_classic-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.syntheticcorp.hipstamatic",
+   "name": "Hipstamatic",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Capturing the essence of vintage photography has never been easier than with the Classic Camera by Hipstamatic IPA app. This powerful mo",
+   "localizedDescription": "ipaomtk.com | Capturing the essence of vintage photography has never been easier than with the Classic Camera by Hipstamatic IPA app. This powerful mo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/app-icon_classic-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "373",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Capturing the essence of vintage photography has never been easier than with the Classic Camera by Hipstamatic IPA app. This powerful mo",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Classic-Camera-by-Hipstamatic-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "EeveeSpotifyReincarnated (v6.8.8)",
+ "identifier": "dev.perapp.com-spotify-client-ios-eeveespotifyreincarnated-6-8-8-9-1-76",
+ "subtitle": "This is a modded version of Spotify.",
+ "description": "Single-app source for EeveeSpotifyReincarnated (v6.8.8) (com.spotify.client.ios.eeveespotifyreincarnated.6.8.8.9.1.76). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.6.8.8.9.1.76",
+   "name": "EeveeSpotifyReincarnated (v6.8.8)",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify.",
+   "localizedDescription": "This is a modded version of Spotify.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.76",
+     "date": "2026-10-01T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8-9.1.76.ipa",
+     "size": 129276854
+    }
+   ]
+  }
+ ]
+}

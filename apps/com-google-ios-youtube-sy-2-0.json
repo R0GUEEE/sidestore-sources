@@ -1,0 +1,30 @@
+{
+ "name": "SY (2.0)",
+ "identifier": "dev.perapp.com-google-ios-youtube-sy-2-0",
+ "subtitle": "This is contains the SY tweak for YouTube.",
+ "description": "Single-app source for SY (2.0) (com.google.ios.youtube.sy.2.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.sy.2.0",
+   "name": "SY (2.0)",
+   "developerName": "YouTube",
+   "subtitle": "This is contains the SY tweak for YouTube.",
+   "localizedDescription": "This is contains the SY tweak for YouTube.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.33.5",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is contains the SY tweak for YouTube.",
+     "downloadURL": "https://www.dropbox.com/scl/fi/4dv69jahlpamynxah32gy/_YouTube21.33.5Moe-SY2.0Patched.ipa?rlkey=mw2fb3t7tmw362p6detyyjm55&st=yv6yby4d&dl=1",
+     "size": 153349538
+    }
+   ]
+  }
+ ]
+}

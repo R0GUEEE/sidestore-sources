@@ -1,0 +1,43 @@
+{
+ "name": "MeloNX",
+ "identifier": "dev.perapp.com-stossy11-melonx",
+ "subtitle": "A Nintendo Switch Emulator based on Ryujinx for iOS",
+ "description": "Single-app source for MeloNX (com.stossy11.MeloNX). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b442bc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.MeloNX.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stossy11.MeloNX",
+   "name": "MeloNX",
+   "developerName": "Layla S",
+   "subtitle": "A Nintendo Switch Emulator based on Ryujinx for iOS",
+   "localizedDescription": "We do not support piracy, It is forbidden to request copyrighted content.\n\nDo I need a Switch to use this emulator?:\n\nMeloNX emulator is capable of running many homebrew applications, and can be a crucial tool in the development and debugging of homebrew applications and games. To play commercial games, you will need access to a Switch compatible with custom firmware (CFW), which will enable you to dump your system firmware, keys and legally purchased games.\n\nHow can I dump my firmware/games/keys?:\n\nFirst, you need to hack your Nintendo Switch, which you can learn how to do here: https://nh-server.github.io/switch-guide/.\n\nInfo:\n\n• A Paid Developer account or TrollStore may be needed for specific devices (Read about Entitlements below).\n• MeloNX REQUIRES JIT and CANNOT run without it.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.MeloNX.png",
+   "tintColor": "#b442bc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7",
+     "date": "2026-10-11T05:14:40Z",
+     "localizedDescription": "Highlights:\n\n• Ram Limit Workaround using NSExtensions and xpc_shmem.\n\n• This does NOT contribute to the in-app \"Memory limit tester \".\n\n• In-App Controller Remapping.\n• Controller Navigation.\n• (experimental) Steam Controller Support via CoreBluetooth.\n• iOS 27 AirPlay Support.\n• Add MetalFX Upscaling.\n\nCore & Graphics:\n\n• Improved Async Shader Compilation.\n• NSExtensions and xpc_shmem for offloading Guest RAM to NSExtensions, shared mem does not contribute to the main app's phys_footprint.\n• Fix fragment ClipDistance SPIR-V lookup.\n• Add BCn > ETC2 Texture Recompression for GPUs that do not support BCn.\n• Memory Pressure GPU Buffer Eviction.\n• Add MetalFX Spatial Upscaling.\n\nUI & Controllers:\n\n• Game List Controller Navigation.\n• Full Controller Remapping.\n• Fix Opacity with Virtual Controls.\n• Move Firmware Importing off the Main Thread and Improve Error Reporting.\n• (experimental) Steam Controller Support via CoreBluetooth.\n• Anti-Aliasing option added to Settings.\n• Fix Virtual Controller not disabling when option is enabled.\n• Improve Per-Game Settings.\n• Open Save Folder option.",
+     "downloadURL": "https://starforgejo.dev/projects/MeloNX/releases/download/2.7/MeloNX.ipa",
+     "size": 49196463
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.kernel.increased-memory-limit",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "MeloNX uses Bluetooth to connect to Steam Controllers and receive game input.",
+     "NSLocalNetworkUsageDescription": "MeloNX needs local network access for LAN / Local Multiplaer"
+    }
+   }
+  }
+ ]
+}

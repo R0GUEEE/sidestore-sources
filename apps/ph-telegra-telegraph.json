@@ -1,0 +1,44 @@
+{
+ "name": "Telegram (LD)",
+ "identifier": "dev.perapp.ph-telegra-telegraph",
+ "subtitle": "iOSDecrypted",
+ "description": "Single-app source for Telegram (LD) (ph.telegra.Telegraph). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/183715.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ph.telegra.Telegraph",
+   "name": "Telegram (LD)",
+   "developerName": "iOSDecrypted",
+   "subtitle": "iOSDecrypted",
+   "localizedDescription": "iOSDecrypted",
+   "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/183715.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.2",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "Tweaks: iqKeepDeleted, iQTele\n\n@ipavault | Builds of Telegram 13.2  Builds: ▪iQTele 1.5 ▪Lead 2.0 ▪TGExtra 1.7.10 To enable iQTele: 1.) Go to Telegram Settings 2.) Tap the iQ logo a",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1214-Telegram%2013.2%20%28iQTele%29%20%5B@ipavault%5D.ipa",
+     "size": 86683799
+    },
+    {
+     "version": "13.1.2",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Telegram 13.1.2  ▪Updated to Telegram 13.1.2 Builds: ▪iQTele 1.5 ▪MxGram 1.0.0 ▪TGExtra 1.7.10 To enable iQTele: 1.) Go to Teleg",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1130-Telegram%2013.1.2%20%28iQTele%29%20%5B@ipavault%5D.ipa",
+     "size": 80979402
+    },
+    {
+     "version": "13.1.1",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Telegram 13.1.1  ▪Updated to Telegram 13.1.1 Builds: ▪iQTele 1.4 ▪MxGram 1.0.0 To enable iQTele/MxGram: 1.) Go to Telegram Setti",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/998-Telegram%2013.1.1%20%28MxGram%29%20%5B@ipavault%5D.ipa",
+     "size": 88831869
+    }
+   ]
+  }
+ ]
+}

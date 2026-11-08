@@ -1,0 +1,38 @@
+{
+ "name": "Gotchi Galaxy",
+ "identifier": "dev.perapp.vn-qifi-gotchigalaxy",
+ "subtitle": "Gotchi Galaxy downloads and update channel",
+ "description": "Single-app source for Gotchi Galaxy (vn.qifi.gotchigalaxy). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#97a4cd",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/vn.qifi.gotchigalaxy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "vn.qifi.gotchigalaxy",
+   "name": "Gotchi Galaxy",
+   "developerName": "cuongpnh",
+   "subtitle": "Gotchi Galaxy downloads and update channel",
+   "localizedDescription": "Gotchi Galaxy:\n\nA pixel-art pocket pet you raise, breed and take to far-away planets. Free, no account, no ads.\n\nChoose your way to play:\n\n• Mac (the full game, plays with friends on the same Wi-Fi).\n\n• Unzip it and drag Gotchi Galaxy to Applications.\n\nAndroid (the full game, plays with friends on the same Wi-Fi).\n\n• Android asks to allow installs from this source: say yes once.\n• New versions are offered inside the game, in Settings.\n\niPhone app through TestFlight (the full game, plays with friends on the same Wi-Fi).\n\n• Install Apple's TestFlight app from the App Store.\n• On your iPhone, open the Gotchi Galaxy invite, tap Accept, then Install.\n• New versions arrive in TestFlight; it offers each one.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/vn.qifi.gotchigalaxy.png",
+   "tintColor": "#97a4cd",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.8.36",
+     "date": "2026-10-19T08:21:36Z",
+     "localizedDescription": "• The garden grows to two screens, with an orchard of fruit trees to plant, water and pick.\n• Sell fruit to Sesame, or tie a Fruit Basket to give.\n• A new garden set: the Orchard Picnic.\n• Five thinking games for young players: Constellations, Pattern Train, Fuel Line, Pet Cafe and Market Day.",
+     "downloadURL": "https://github.com/cuongpnh/gotchi-galaxy-releases/releases/download/v0.8.36/gotchi-galaxy-0.8.36-ios.ipa",
+     "size": 3418643
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Gotchi Galaxy joins and hosts islands on your Wi-Fi so your pet can visit, trade and breed with friends nearby.",
+     "NSMotionUsageDescription": "Gotchi Galaxy counts your steps today when you turn on Walk with me, so your pet's next trip comes home sooner. The count stays on your phone.",
+     "NSPhotoLibraryAddUsageDescription": "Gotchi Galaxy can save a picture of your pet's diary to your photos when you choose Save Image."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Math Trainer",
+ "identifier": "dev.perapp.com-robsammons-mathtrainer",
+ "subtitle": "ipaomtk.com | Math Trainer – Quick Questions IPA v8.1 is a dynamic mobile application designed to enhance mathematical s",
+ "description": "Single-app source for Math Trainer (com.robsammons.mathtrainer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Math-Trainer-8211-Quick-Questions.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.robsammons.mathtrainer",
+   "name": "Math Trainer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Math Trainer – Quick Questions IPA v8.1 is a dynamic mobile application designed to enhance mathematical skills through rapid-fire exerc",
+   "localizedDescription": "ipaomtk.com | Math Trainer – Quick Questions IPA v8.1 is a dynamic mobile application designed to enhance mathematical skills through rapid-fire exerc",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Math-Trainer-8211-Quick-Questions.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Math Trainer – Quick Questions IPA v8.1 is a dynamic mobile application designed to enhance mathematical skills through rapid-fire exerc",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Math_Trainer_-_Quick_Questions-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

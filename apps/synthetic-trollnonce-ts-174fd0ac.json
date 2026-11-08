@@ -1,0 +1,30 @@
+{
+ "name": "TrollNonce_TS",
+ "identifier": "dev.perapp.synthetic-trollnonce-ts-174fd0ac",
+ "subtitle": "v1.1.2 - Nonce Setter for 15.0 - 15.1.1 (A10-A15) and 15.2-15.5b4 (A12+, not all device / version combinations supported",
+ "description": "Single-app source for TrollNonce_TS (synthetic.trollnonce-ts.174fd0ac). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollNonce_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.trollnonce-ts.174fd0ac",
+   "name": "TrollNonce_TS",
+   "developerName": "TrollNonce_TS x CyPwn",
+   "subtitle": "v1.1.2 - Nonce Setter for 15.0 - 15.1.1 (A10-A15) and 15.2-15.5b4 (A12+, not all device / version combinations supported atm), only works when install",
+   "localizedDescription": "v1.1.2 - Nonce Setter for 15.0 - 15.1.1 (A10-A15) and 15.2-15.5b4 (A12+, not all device / version combinations supported atm), only works when install",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollNonce_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "v1.1.2 - Nonce Setter for 15.0 - 15.1.1 (A10-A15) and 15.2-15.5b4 (A12+, not all device / version combinations supported atm), only works when install",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollNonce_TS.ipa",
+     "size": 253163
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Teledark",
+ "identifier": "dev.perapp.app-teledark",
+ "subtitle": "@ipa_dark | 🔄 Teledark - мод Telegram  🇷🇺 Телеграмм клиент с расширенным функционалом  ℹ️ Особенности:  ▎Скрыть статус о",
+ "description": "Single-app source for Teledark (app.teledark). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1836.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.teledark",
+   "name": "Teledark",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Teledark - мод Telegram  🇷🇺 Телеграмм клиент с расширенным функционалом  ℹ️ Особенности:  ▎Скрыть статус онлайн ▎Режим призрака (сообщен",
+   "localizedDescription": "@ipa_dark | 🔄 Teledark - мод Telegram  🇷🇺 Телеграмм клиент с расширенным функционалом  ℹ️ Особенности:  ▎Скрыть статус онлайн ▎Режим призрака (сообщен\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1836.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.0",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Teledark - мод Telegram  🇷🇺 Телеграмм клиент с расширенным функционалом  ℹ️ Особенности:  ▎Скрыть статус онлайн ▎Режим призрака (сообщен",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1836-Teledark%20%5Bv13.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 88146874
+    }
+   ]
+  }
+ ]
+}

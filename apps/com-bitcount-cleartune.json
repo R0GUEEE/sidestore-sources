@@ -1,0 +1,30 @@
+{
+ "name": "Cleartune-ipaomtk",
+ "identifier": "dev.perapp.com-bitcount-cleartune",
+ "subtitle": "ipaomtk.com | Cleartune IPA, you know the importance of accurate tuning to achieve the desired sound and performance qua",
+ "description": "Single-app source for Cleartune-ipaomtk (com.bitcount.cleartune). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Cleartune-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bitcount.cleartune",
+   "name": "Cleartune-ipaomtk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Cleartune IPA, you know the importance of accurate tuning to achieve the desired sound and performance quality. Cleartune IPA is a power",
+   "localizedDescription": "ipaomtk.com | Cleartune IPA, you know the importance of accurate tuning to achieve the desired sound and performance quality. Cleartune IPA is a power",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Cleartune-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3",
+     "date": "2024-09-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Cleartune IPA, you know the importance of accurate tuning to achieve the desired sound and performance quality. Cleartune IPA is a power",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Cleartune-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

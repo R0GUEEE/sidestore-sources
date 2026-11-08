@@ -1,0 +1,30 @@
+{
+ "name": "ParkingJam3D",
+ "identifier": "dev.perapp.com-uqxuwtxbbu-parkingjam",
+ "subtitle": "ParkingJam3D",
+ "description": "Single-app source for ParkingJam3D (com.uqxuwtxbbu.parkingjam). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.uqxuwtxbbu.parkingjam.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
+   "name": "ParkingJam3D",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.uqxuwtxbbu.parkingjam.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "229.0.6",
+     "date": "2025-12-13T00:00:00Z",
+     "localizedDescription": "Injected with noads",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/ParkingJam3D_229.0.6_noads_%40thisismanpreets_apptesters.org.ipa",
+     "size": 221075988
+    }
+   ]
+  }
+ ]
+}

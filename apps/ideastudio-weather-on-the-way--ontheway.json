@@ -1,0 +1,44 @@
+{
+ "name": "OnTheWay",
+ "identifier": "dev.perapp.ideastudio-weather-on-the-way",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for OnTheWay (ideastudio.Weather-on-the-Way). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ideastudio.Weather-on-the-Way",
+   "name": "OnTheWay",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.14",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Weather on the Way  Tweak: Pro Unlocked  Version: 2.5.14  Notes: restart app if subscription isn't unlocked  Patched ✓  @riftysIPA",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8845-Weather%20on%20the%20Way-v2.5.14-riftysipas.ipa",
+     "size": 45279389
+    },
+    {
+     "version": "2.5.13",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Weather on the Way  Tweak: Pro Unlocked  Version: 2.5.13  Notes: restart app if subscription isn't unlocked  Patched ✓  @riftysIPA",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8720-Weather%20on%20the%20Way-v2.5.13-riftysipas.ipa",
+     "size": 45247376
+    },
+    {
+     "version": "2.5.12",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Weather on the Way  Tweak: Pro Unlocked  Version: 2.5.12  Notes: restart app if subscription isn't unlocked  Patched ✓  @riftysIPA",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8582-Weather%20on%20the%20Way-v2.5.12-riftysipas.ipa",
+     "size": 45231818
+    }
+   ]
+  }
+ ]
+}

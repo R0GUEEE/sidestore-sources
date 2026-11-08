@@ -1,0 +1,30 @@
+{
+ "name": "SlotsAndDaggers",
+ "identifier": "dev.perapp.com-friedemann-slotsanddaggers",
+ "subtitle": "@ipa_dark | 🔄 Slots & Daggers - appstore  🇷🇺 Рогалик с механикой игровых автоматов, где нужно сражаться с врагами, собир",
+ "description": "Single-app source for SlotsAndDaggers (com.Friedemann.SlotsAndDaggers). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1728.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Friedemann.SlotsAndDaggers",
+   "name": "SlotsAndDaggers",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Slots & Daggers - appstore  🇷🇺 Рогалик с механикой игровых автоматов, где нужно сражаться с врагами, собирать комбинации символов, получ",
+   "localizedDescription": "@ipa_dark | 🔄 Slots & Daggers - appstore  🇷🇺 Рогалик с механикой игровых автоматов, где нужно сражаться с врагами, собирать комбинации символов, получ\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1728.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.24",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Slots & Daggers - appstore  🇷🇺 Рогалик с механикой игровых автоматов, где нужно сражаться с врагами, собирать комбинации символов, получ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1728-Slots%20%20%20Daggers%20%5Bv1.0.24%5D%28tg@ipa_dark%29.ipa",
+     "size": 101714341
+    }
+   ]
+  }
+ ]
+}

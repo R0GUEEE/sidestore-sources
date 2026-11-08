@@ -1,0 +1,30 @@
+{
+ "name": "AIFengYue",
+ "identifier": "dev.perapp.com-aiporn-aichat",
+ "subtitle": "Injected with Nothing",
+ "description": "Single-app source for AIFengYue (com.aiporn.aichat). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.aiporn.aichat.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aiporn.aichat",
+   "name": "AIFengYue",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing",
+   "localizedDescription": "Injected with Nothing\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.aiporn.aichat.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.8",
+     "date": "2026-09-09T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/AIFengYue_1.2.8/AIFengYue_1.2.8_Nothing_@repo.owo.network.ipa",
+     "size": 71675169
+    }
+   ]
+  }
+ ]
+}

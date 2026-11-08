@@ -1,0 +1,30 @@
+{
+ "name": "IPSW",
+ "identifier": "dev.perapp.com-hyperixa-ipsw",
+ "subtitle": "The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI Last upd",
+ "description": "Single-app source for IPSW (com.hyperixa.IPSW). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hyperixa.IPSW.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hyperixa.IPSW",
+   "name": "IPSW",
+   "developerName": "N/A",
+   "subtitle": "The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI Last updated: 10-17-2022 Status: ⚠️ ❔",
+   "localizedDescription": "The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI\nLast updated: 10-17-2022\nStatus: ⚠️ ❔\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hyperixa.IPSW.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "The app that Hyperixa/TitanD3v tried to bury. Basically just an iOS firmware sign status checker with a nice UI Last updated: 10-17-2022 Status: ⚠️ ❔",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/IPSW.ipa",
+     "size": 5580043
+    }
+   ]
+  }
+ ]
+}

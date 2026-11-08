@@ -1,0 +1,30 @@
+{
+ "name": "CarTube",
+ "identifier": "dev.perapp.com-unknown-cartube",
+ "subtitle": "ئەپی CarTube بۆ کارپێکردنی یوتیوب لە ئۆتۆمبێلەکانی پشتگیریکراوی CarPlay",
+ "description": "Single-app source for CarTube (com.unknown.cartube). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/CarTube.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.cartube",
+   "name": "CarTube",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپی CarTube بۆ کارپێکردنی یوتیوب لە ئۆتۆمبێلەکانی پشتگیریکراوی CarPlay",
+   "localizedDescription": "ئەپی CarTube بۆ کارپێکردنی یوتیوب لە ئۆتۆمبێلەکانی پشتگیریکراوی CarPlay",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/CarTube.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "ئەپی CarTube بۆ کارپێکردنی یوتیوب لە ئۆتۆمبێلەکانی پشتگیریکراوی CarPlay",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/CarTube-1.3.ipa",
+     "size": 8120000
+    }
+   ]
+  }
+ ]
+}

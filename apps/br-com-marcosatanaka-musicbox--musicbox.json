@@ -1,0 +1,44 @@
+{
+ "name": "MusicBox",
+ "identifier": "dev.perapp.br-com-marcosatanaka-musicbox",
+ "subtitle": "MusicBox",
+ "description": "Single-app source for MusicBox (br.com.marcosatanaka.musicbox). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/c8520f48-165e-4b5c-8b31-eaae22e5552c/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "br.com.marcosatanaka.musicbox",
+   "name": "MusicBox",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: MusicBox: Save Music for Later\n\nTweak: Subscription Unlocked\n\nVersion: 1.5.6\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/c8520f48-165e-4b5c-8b31-eaae22e5552c/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.1",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2290",
+     "size": 38042994
+    },
+    {
+     "version": "1.5.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: MusicBox: Save Music for Later\n\nTweak: Subscription Unlocked\n\nVersion: 1.5.6\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c26c4232-1920-4488-a399-97d47bfd1be4/MusicBox__Save_Music_for_Later-v1.5.6-riftysipas.ipa",
+     "size": 25174673
+    },
+    {
+     "version": "1.5.5",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: MusicBox: Save Music for Later\n\nTweak: Subscription Unlocked\n\nVersion: 1.5.5\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/9cdf8548-3324-49f8-9a70-14f47dced4b5/MusicBox__Save_Music_for_Later-v1.5.5-riftysipas.ipa",
+     "size": 23740511
+    }
+   ]
+  }
+ ]
+}

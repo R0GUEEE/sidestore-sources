@@ -1,0 +1,30 @@
+{
+ "name": "Rosiecord",
+ "identifier": "dev.perapp.synthetic-rosiecord-8873394c",
+ "subtitle": "Rosiecord by Karbin-Store",
+ "description": "Single-app source for Rosiecord (synthetic.rosiecord.8873394c). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Rosiecord.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.rosiecord.8873394c",
+   "name": "Rosiecord",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Modification of the Discord application",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Rosiecord.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "262.2",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "Modification of the Discord application",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Rosiecord-262.ipa",
+     "size": 96660000
+    }
+   ]
+  }
+ ]
+}

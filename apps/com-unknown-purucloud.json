@@ -1,0 +1,30 @@
+{
+ "name": "Puru Cloud",
+ "identifier": "dev.perapp.com-unknown-purucloud",
+ "subtitle": "ئەپلیکەیشنەکە هاوشێوەی TeleBox و TeraBox بۆ هەڵگرتنی زانیاریەکانت",
+ "description": "Single-app source for Puru Cloud (com.unknown.purucloud). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Puru.Cloud.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.purucloud",
+   "name": "Puru Cloud",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپلیکەیشنەکە هاوشێوەی TeleBox و TeraBox بۆ هەڵگرتنی زانیاریەکانت",
+   "localizedDescription": "ئەپلیکەیشنەکە هاوشێوەی TeleBox و TeraBox بۆ هەڵگرتنی زانیاریەکانت",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Puru.Cloud.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشنەکە هاوشێوەی TeleBox و TeraBox بۆ هەڵگرتنی زانیاریەکانت",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/Pure.Cloud_1.2.0_3BodSy.ipa",
+     "size": 39660000
+    }
+   ]
+  }
+ ]
+}

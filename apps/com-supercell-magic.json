@@ -1,0 +1,30 @@
+{
+ "name": "Atrasis",
+ "identifier": "dev.perapp.com-supercell-magic",
+ "subtitle": "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat",
+ "description": "Single-app source for Atrasis (com.supercell.magic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/WfWpKOF.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.supercell.magic",
+   "name": "Atrasis",
+   "developerName": "Atrasis Team",
+   "subtitle": "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.  NOTE: IF THE AP",
+   "localizedDescription": "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.  NOTE: IF THE AP",
+   "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/WfWpKOF.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "latest",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.  NOTE: IF THE AP",
+     "downloadURL": "https://atrasisclash.net/server-original-ios-download-ipa.php",
+     "size": 277000000
+    }
+   ]
+  }
+ ]
+}

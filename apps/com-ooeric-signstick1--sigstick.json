@@ -1,0 +1,37 @@
+{
+ "name": "SigStick",
+ "identifier": "dev.perapp.com-ooeric-signstick1",
+ "subtitle": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for SigStick (com.ooeric.SignStick1). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ooeric.SignStick1",
+   "name": "SigStick",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ooeric.SignStick1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.32.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/09-10-2025/SigStick_5.32.2_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 59252398
+    },
+    {
+     "version": "5.32.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/02-10-2025/SigStick_5.32.0_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 56960124
+    }
+   ]
+  }
+ ]
+}

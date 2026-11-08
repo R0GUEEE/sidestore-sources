@@ -1,0 +1,30 @@
+{
+ "name": "iPGMail",
+ "identifier": "dev.perapp.com-unknown-ipgmail",
+ "subtitle": "iPGMail by Karbin-Store",
+ "description": "Single-app source for iPGMail (com.unknown.ipgmail). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/iPGMail.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.ipgmail",
+   "name": "iPGMail",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/iPGMail.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.02.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/iPGMail_2025.02.1_3BodSy.ipa",
+     "size": 6130000
+    }
+   ]
+  }
+ ]
+}

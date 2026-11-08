@@ -1,0 +1,30 @@
+{
+ "name": "Dicey Dungeons",
+ "identifier": "dev.perapp.com-terrycavanaghgames-diceydungeonsarcade",
+ "subtitle": "ipaomtk.com | Dicey Dungeons+ is a captivating roguelike deckbuilding game that has recently made its way to the iOS pla",
+ "description": "Single-app source for Dicey Dungeons (com.terrycavanaghgames.diceydungeonsarcade). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Dicey-Dungeons-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.terrycavanaghgames.diceydungeonsarcade",
+   "name": "Dicey Dungeons",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Dicey Dungeons+ is a captivating roguelike deckbuilding game that has recently made its way to the iOS platform, offering mobile gamers ",
+   "localizedDescription": "ipaomtk.com | Dicey Dungeons+ is a captivating roguelike deckbuilding game that has recently made its way to the iOS platform, offering mobile gamers ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Dicey-Dungeons-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.2",
+     "date": "2024-05-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Dicey Dungeons+ is a captivating roguelike deckbuilding game that has recently made its way to the iOS platform, offering mobile gamers ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Dicey-Dungeons-PLUS.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

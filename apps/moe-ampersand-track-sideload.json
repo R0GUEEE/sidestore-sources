@@ -1,0 +1,36 @@
+{
+ "name": "Ampersand",
+ "identifier": "dev.perapp.moe-ampersand-track-sideload",
+ "subtitle": "Ampersand is not a medical product, and as such it does not constitute medical advice",
+ "description": "Single-app source for Ampersand (moe.ampersand.track.sideload). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/moe.ampersand.track.sideload.png",
+ "apps": [
+  {
+   "bundleIdentifier": "moe.ampersand.track.sideload",
+   "name": "Ampersand",
+   "developerName": "NyaomiDEV",
+   "subtitle": "Ampersand is not a medical product, and as such it does not constitute medical advice",
+   "localizedDescription": "Ampersand:\n\nAmpersand is not a medical product, and as such it does not constitute medical advice.\n\nWhat is Ampersand?:\n\nAmpersand is a research project, and also an app. It wants to do one thing and do it reasonably well: tracking and journaling for people with complex dissociative symptoms such as DID and OSDD.\n\nWhere can I get Ampersand?:\n\nWe'd kindly advise you to install Ampersand outside of Google Play, given the nature of some legislations across the world that could take us the right to publishing there away.\n\nAmpersand is available through Obtainium: https://apps.obtainium.imranr.dev/\n\nFor iOS users, Ampersand can be installed via AltStore or SideStore by adding the following source URL:\n\nFinally, and again please try to not be lazy about this, you can download it through Google Play Store: https://play.google.com/store/apps/details?id=moe.ampersand.app",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/moe.ampersand.track.sideload.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.0",
+     "date": "2026-07-14T10:37:50Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/NyaomiDEV/Ampersand/releases/download/0.3.0/Ampersand-0.3.0.ipa",
+     "size": 35258183
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "Unlock the application using Face and Touch ID"
+    }
+   }
+  }
+ ]
+}

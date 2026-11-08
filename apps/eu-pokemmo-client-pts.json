@@ -1,0 +1,54 @@
+{
+ "name": "PokeMMO PTS",
+ "identifier": "dev.perapp.eu-pokemmo-client-pts",
+ "subtitle": "PokeMMO PTS by PokeMMO",
+ "description": "Single-app source for PokeMMO PTS (eu.pokemmo.client.pts). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "73ACE2",
+ "iconURL": "https://pokemmo.com/build/images/altstore.ba9b8a4e.png",
+ "apps": [
+  {
+   "bundleIdentifier": "eu.pokemmo.client.pts",
+   "name": "PokeMMO PTS",
+   "developerName": "PokeMMO",
+   "subtitle": "",
+   "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+   "iconURL": "https://pokemmo.com/build/images/altstore.ba9b8a4e.png",
+   "tintColor": "73ACE2",
+   "screenshots": [
+    "https://pokemmo.com/build/images/screenshot/c.f3968293.png",
+    "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
+    "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png",
+    "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
+    "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
+   ],
+   "versions": [
+    {
+     "version": "30557",
+     "date": "2025-10-26T22:21:03+00:00",
+     "localizedDescription": "",
+     "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client-PTS.ipa?r=29764",
+     "size": 134626479
+    },
+    {
+     "version": "23662",
+     "date": "2023-06-10T18:49:07+00:00",
+     "localizedDescription": "",
+     "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client-PTS.ipa?r=22920",
+     "size": 92882405
+    },
+    {
+     "version": "22920",
+     "date": "2023-06-10T18:49:07+00:00",
+     "localizedDescription": "",
+     "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client-PTS.ipa?r=22920",
+     "size": 92882405
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": []
+   }
+  }
+ ]
+}

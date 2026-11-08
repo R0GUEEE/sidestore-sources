@@ -1,0 +1,37 @@
+{
+ "name": "Driving Zone",
+ "identifier": "dev.perapp.com-unknown-drivingzone",
+ "subtitle": "Driving Zone by Karbin-Store",
+ "description": "Single-app source for Driving Zone (com.unknown.drivingzone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Draving.Zone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.drivingzone",
+   "name": "Driving Zone",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Draving.Zone.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "40.1",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Driving.Zone.Germany._40.1.ipa",
+     "size": 182110000
+    },
+    {
+     "version": "40",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "Tweaks: FileChekingCore\n\n",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Driving.Zone.Germany._40.1.ipa",
+     "size": 190393677
+    }
+   ]
+  }
+ ]
+}

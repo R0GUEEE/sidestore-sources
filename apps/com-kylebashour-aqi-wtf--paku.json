@@ -1,0 +1,44 @@
+{
+ "name": "Paku",
+ "identifier": "dev.perapp.com-kylebashour-aqi-wtf",
+ "subtitle": "Paku",
+ "description": "Single-app source for Paku (com.kylebashour.aqi-wtf). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/6739705c-5921-463f-92eb-4f978bf7d905/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kylebashour.aqi-wtf",
+   "name": "Paku",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Paku for PurpleAir\n\nTweak: Premium Unlocked\n\nVersion: 6.0.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/6739705c-5921-463f-92eb-4f978bf7d905/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.3.1",
+     "date": "2026-09-15T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1525",
+     "size": 81654776
+    },
+    {
+     "version": "7.2.0",
+     "date": "2026-09-12T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1525",
+     "size": 81238963
+    },
+    {
+     "version": "6.0.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Paku for PurpleAir\n\nTweak: Premium Unlocked\n\nVersion: 6.0.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4a7524d9-0cd0-49ad-8c07-879b3a952337/Paku_for_PurpleAir-v6.0.0-riftysipas.ipa",
+     "size": 38781754
+    }
+   ]
+  }
+ ]
+}

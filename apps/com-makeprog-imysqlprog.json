@@ -1,0 +1,30 @@
+{
+ "name": "iMySqlProg",
+ "identifier": "dev.perapp.com-makeprog-imysqlprog",
+ "subtitle": "ipaomtk.com | IMySqlProg IPA v1.7.4 is an innovative application designed for database enthusiasts and professionals who",
+ "description": "Single-app source for iMySqlProg (com.makeprog.iMySqlProg). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iMySqlProg-8211-MySql-Client.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.makeprog.iMySqlProg",
+   "name": "iMySqlProg",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | IMySqlProg IPA v1.7.4 is an innovative application designed for database enthusiasts and professionals who need to manage MySQL database",
+   "localizedDescription": "ipaomtk.com | IMySqlProg IPA v1.7.4 is an innovative application designed for database enthusiasts and professionals who need to manage MySQL database",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iMySqlProg-8211-MySql-Client.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | IMySqlProg IPA v1.7.4 is an innovative application designed for database enthusiasts and professionals who need to manage MySQL database",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iMySqlProg_-_MySql_Client-v1.7.4-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "QuicheBrowser",
+ "identifier": "dev.perapp.org-quiche-browser",
+ "subtitle": "Plus unlocked",
+ "description": "Single-app source for QuicheBrowser (org.quiche.Browser). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.quiche.Browser",
+   "name": "QuicheBrowser",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Plus unlocked",
+   "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.68.3",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/QuicheBrowser_1.68.3_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 86624203
+    }
+   ]
+  }
+ ]
+}

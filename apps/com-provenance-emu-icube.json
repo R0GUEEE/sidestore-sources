@@ -1,0 +1,30 @@
+{
+ "name": "iCube",
+ "identifier": "dev.perapp.com-provenance-emu-icube",
+ "subtitle": "iCube is a GameCube and Wii emulator for iOS based on Dolphin, with native controller support, save states, and hardware",
+ "description": "Single-app source for iCube (com.provenance-emu.icube). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://icube-emu.com/icon-1024.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.provenance-emu.icube",
+   "name": "iCube",
+   "developerName": "Provenance-EMU",
+   "subtitle": "iCube is a GameCube and Wii emulator for iOS based on Dolphin, with native controller support, save states, and hardware-accelerated rendering.",
+   "localizedDescription": "iCube is a GameCube and Wii emulator for iOS based on Dolphin, with native controller support, save states, and hardware-accelerated rendering.",
+   "iconURL": "https://icube-emu.com/icon-1024.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.0beta5",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "iCube is a GameCube and Wii emulator for iOS based on Dolphin, with native controller support, save states, and hardware-accelerated rendering.",
+     "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/4.1.0beta5/DolphiniOS-JoeMattiello-4.1.0-Beta5-iOS.ipa",
+     "size": 80718792
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "ScummVM",
+ "identifier": "dev.perapp.org-scummvm-scummvm",
+ "subtitle": "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games and role-playing ",
+ "description": "Single-app source for ScummVM (org.scummvm.scummvm). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/sSQhbwJ.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.scummvm.scummvm",
+   "name": "ScummVM",
+   "developerName": "ScummVM Team",
+   "subtitle": "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already ha",
+   "localizedDescription": "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already ha",
+   "iconURL": "https://i.imgur.com/sSQhbwJ.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.0",
+     "date": "2022-07-25T00:00:00Z",
+     "localizedDescription": "ScummVM is a program which allows you to run certain classic graphical point-and-click adventure games and role-playing games, provided you already ha",
+     "downloadURL": "https://downloads.scummvm.org/frs/scummvm/2.6.0/scummvm-2.6.0-ios.ipa",
+     "size": 92033520
+    }
+   ]
+  }
+ ]
+}

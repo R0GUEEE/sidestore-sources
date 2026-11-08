@@ -1,0 +1,30 @@
+{
+ "name": "Hitman GO",
+ "identifier": "dev.perapp.com-squareenixmontreal-hitmango",
+ "subtitle": "ipaomtk.com | Hitman GO on iOS reimagines classic stealth action as a turn-based puzzle experience that feels naturally ",
+ "description": "Single-app source for Hitman GO (com.squareenixmontreal.hitmango). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Hitman-GO-IPA-v1.17-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.squareenixmontreal.hitmango",
+   "name": "Hitman GO",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Hitman GO on iOS reimagines classic stealth action as a turn-based puzzle experience that feels naturally suited to the iPhone. From the",
+   "localizedDescription": "ipaomtk.com | Hitman GO on iOS reimagines classic stealth action as a turn-based puzzle experience that feels naturally suited to the iPhone. From the",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Hitman-GO-IPA-v1.17-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.16.7",
+     "date": "2026-02-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Hitman GO on iOS reimagines classic stealth action as a turn-based puzzle experience that feels naturally suited to the iPhone. From the",
+     "downloadURL": "https://file.ipaomtk.com/Hitman-GO/HitmanGO-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

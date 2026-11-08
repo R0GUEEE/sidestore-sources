@@ -1,0 +1,30 @@
+{
+ "name": "Easy Spend",
+ "identifier": "dev.perapp.com-tektontek-finadv",
+ "subtitle": "ipaomtk.com | Easy Spending Budget IPA (Paid Free) iOS is a powerful financial tool designed to simplify your money mana",
+ "description": "Single-app source for Easy Spend (com.tektontek.finadv). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Easy-Spending-Budget.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tektontek.finadv",
+   "name": "Easy Spend",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Easy Spending Budget IPA (Paid Free) iOS is a powerful financial tool designed to simplify your money management. This intuitive applica",
+   "localizedDescription": "ipaomtk.com | Easy Spending Budget IPA (Paid Free) iOS is a powerful financial tool designed to simplify your money management. This intuitive applica",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Easy-Spending-Budget.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.7",
+     "date": "2024-10-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Easy Spending Budget IPA (Paid Free) iOS is a powerful financial tool designed to simplify your money management. This intuitive applica",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Easy_Spending_Budget-v5.0.7-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

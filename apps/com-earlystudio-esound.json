@@ -1,0 +1,30 @@
+{
+ "name": "eSound",
+ "identifier": "dev.perapp.com-earlystudio-esound",
+ "subtitle": "ipaomtk.com | eSound IPA In the era of digital music, having a reliable and user-friendly music player app is essential ",
+ "description": "Single-app source for eSound (com.earlystudio.esound). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/esound-mp3-music-player-app-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.earlystudio.esound",
+   "name": "eSound",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | eSound IPA In the era of digital music, having a reliable and user-friendly music player app is essential for any music lover. If you’re",
+   "localizedDescription": "ipaomtk.com | eSound IPA In the era of digital music, having a reliable and user-friendly music player app is essential for any music lover. If you’re",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/esound-mp3-music-player-app-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.13.11",
+     "date": "2023-05-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | eSound IPA In the era of digital music, having a reliable and user-friendly music player app is essential for any music lover. If you’re",
+     "downloadURL": "https://file.ipaomtk.com/ipa/eSound.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

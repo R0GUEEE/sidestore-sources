@@ -1,0 +1,44 @@
+{
+ "name": "LiveContainer - BETA NOT MEANT FOR USE YET",
+ "identifier": "dev.perapp.com-kdt-livecontainer",
+ "subtitle": "I need to clean this up, please do not use this | Join https://t.me/+rvcObIvOpctiMDI9 for more. made by khanhduytran0, f",
+ "description": "Single-app source for LiveContainer - BETA NOT MEANT FOR USE YET (com.kdt.livecontainer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn-icons-png.flaticon.com/512/9402/9402265.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kdt.livecontainer",
+   "name": "LiveContainer - BETA NOT MEANT FOR USE YET",
+   "developerName": "khanhduytran0",
+   "subtitle": "I need to clean this up, please do not use this | Join https://t.me/+rvcObIvOpctiMDI9 for more. made by khanhduytran0, forked by me for building with ",
+   "localizedDescription": "I need to clean this up, please do not use this | Join https://t.me/+rvcObIvOpctiMDI9 for more. made by khanhduytran0, forked by me for building with ",
+   "iconURL": "https://cdn-icons-png.flaticon.com/512/9402/9402265.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.12",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "An app launcher that runs iOS apps without actually installing them. This build of LiveContainer comes with a built-in SideStore for refreshing your…",
+     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
+     "size": 23733566
+    },
+    {
+     "version": "3.8.11",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "An app launcher that runs iOS apps without actually installing them. This build of LiveContainer comes with a built-in SideStore for refreshing your a",
+     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
+     "size": 24155286
+    },
+    {
+     "version": "nightly",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "An app launcher that runs iOS apps without actually installing them. This build of LiveContainer comes with a built-in SideStore for refreshing your a",
+     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
+     "size": 24155286
+    }
+   ]
+  }
+ ]
+}

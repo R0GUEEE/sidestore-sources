@@ -1,0 +1,30 @@
+{
+ "name": "Drops",
+ "identifier": "dev.perapp.com-planblabs-drops-italian",
+ "subtitle": "Drops",
+ "description": "Single-app source for Drops (com.planblabs.drops.italian). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.planblabs.drops.italian.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.planblabs.drops.italian",
+   "name": "Drops",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.planblabs.drops.italian.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "39.9",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-04-2026/Drops_39.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 107579624
+    }
+   ]
+  }
+ ]
+}

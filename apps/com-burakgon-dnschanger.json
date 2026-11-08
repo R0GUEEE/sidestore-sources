@@ -1,0 +1,30 @@
+{
+ "name": "DNS Changer-ipaomtk.com",
+ "identifier": "dev.perapp.com-burakgon-dnschanger",
+ "subtitle": "ipaomtk.com | DNS & IP Changer – Secure VPN is a powerful and versatile tool that allows you to change your device’s DNS",
+ "description": "Single-app source for DNS Changer-ipaomtk.com (com.burakgon.dnschanger). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/DNS-IP-Changer-Secure-VPN-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.burakgon.dnschanger",
+   "name": "DNS Changer-ipaomtk.com",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | DNS & IP Changer – Secure VPN is a powerful and versatile tool that allows you to change your device’s DNS (Domain Name System) and IP a",
+   "localizedDescription": "ipaomtk.com | DNS & IP Changer – Secure VPN is a powerful and versatile tool that allows you to change your device’s DNS (Domain Name System) and IP a",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/DNS-IP-Changer-Secure-VPN-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1054",
+     "date": "2024-09-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | DNS & IP Changer – Secure VPN is a powerful and versatile tool that allows you to change your device’s DNS (Domain Name System) and IP a",
+     "downloadURL": "https://file.ipaomtk.com/ipa/DNSChanger-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

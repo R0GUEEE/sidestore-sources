@@ -1,0 +1,30 @@
+{
+ "name": "TikTok",
+ "identifier": "dev.perapp.com-zhiliaoapp-musically",
+ "subtitle": "Tweaks: ASJTikTok",
+ "description": "Single-app source for TikTok (com.zhiliaoapp.musically). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84219.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zhiliaoapp.musically",
+   "name": "TikTok",
+   "developerName": "scholars lounge",
+   "subtitle": "Tweaks: ASJTikTok",
+   "localizedDescription": "Tweaks: ASJTikTok\n\nscholars lounge | ASJTikTok 47.6.0\n\nTikTok 47.6.0\n- ASJTikTok https://github.com/asjrx/ASJTikTok\n- Patch included\n\nMade by @Jacks_Apps\nApp decrypted by @eeveedecrypterbot\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84219.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "47.6.0",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: ASJTikTok\n\nscholars lounge | ASJTikTok 47.6.0 TikTok 47.6.0 - ASJTikTok https://github.com/asjrx/ASJTikTok - Patch included Made by @Jacks_Apps App decrypted…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84219-ASJTikTok_47.6.0_Jacks_Apps.ipa",
+     "size": 499252431
+    }
+   ]
+  }
+ ]
+}

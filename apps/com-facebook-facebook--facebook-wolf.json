@@ -1,0 +1,43 @@
+{
+ "name": "Facebook Wolf",
+ "identifier": "dev.perapp.com-facebook-facebook",
+ "subtitle": "A tweaked version of \"Wolf\" (made by Michael Lema). Requires iOS 12.4 and later.",
+ "description": "Single-app source for Facebook Wolf (com.facebook.Facebook). Converted from quantumsource.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "478EE2",
+ "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.facebook.Facebook",
+   "name": "Facebook Wolf",
+   "developerName": "Michael Lema & Qn_",
+   "subtitle": "A tweaked version of \"Wolf\" (made by Michael Lema). Requires iOS 12.4 and later.",
+   "localizedDescription": "Wolf is an updated Facebook tweak with powerful features! You can access the tweak settings in Facebook's settings page.\n\nLearn how to make your own IPA of Facebook Wolf here: https://github.com/qnblackcat/FBSideloadfix\n\nFEATURES:\n• No feed ads\n• No story ads\n• Disable marking messages as seen\n• Disable typing status in messages\n• Disable marking stories\n• Disable auto-advance in stories\n• Save Story images and videos\n• Save Feed videos by long-pressing the video\n\nNOTES:\n• I'm not the developer of Wolf. This is not an official version of Wolf.\n• Michael Lema, the developer of Wolf,  hasn't updated Wolf for a while. Expect some features may not work correctly.",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/Facebook-icon.png",
+   "tintColor": "478EE2",
+   "screenshots": [
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/wolf2.jpg",
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2698.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2699.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2700.PNG",
+    "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/IMG_2701.PNG"
+   ],
+   "versions": [
+    {
+     "version": "402.0",
+     "date": "2023-02-22T14:00:00-00:30Z",
+     "localizedDescription": "v402.0 (2.1): Updated to the latest version of Facebook app",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/Efkyz3QAKyFNouUBvVdZbi0ByCqJToLW78ctOkSB5ayBUw?download=1",
+     "size": 152672665
+    },
+    {
+     "version": "372.0",
+     "date": "2022-06-24T14:00:00-00:30Z",
+     "localizedDescription": "v372.0 (2.1): Updated to the latest version of Facebook app",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EWEdhH_a8T5FmeQ7104KY70Bm--b0Vg_e9r71yWVdru-aA?download=1",
+     "size": 152672665
+    }
+   ]
+  }
+ ]
+}

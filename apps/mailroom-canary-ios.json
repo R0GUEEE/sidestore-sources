@@ -1,0 +1,37 @@
+{
+ "name": "Canary",
+ "identifier": "dev.perapp.mailroom-canary-ios",
+ "subtitle": "ipaomtk.com | Canary Mail IPA v5.13.0 is an iOS application that provides a secure and private email experience for user",
+ "description": "Single-app source for Canary (Mailroom.Canary-iOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/2024-09-03-12.47.31%E2%80%AFAM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "Mailroom.Canary-iOS",
+   "name": "Canary",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Canary Mail IPA v5.13.0 is an iOS application that provides a secure and private email experience for users. It is a modified version of",
+   "localizedDescription": "ipaomtk.com | Canary Mail IPA v5.13.0 is an iOS application that provides a secure and private email experience for users. It is a modified version of",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/2024-09-03-12.47.31%E2%80%AFAM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.18.0",
+     "date": "2023-08-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Canary Mail IPA v5.13.0 is an iOS application that provides a secure and private email experience for users. It is a modified version of",
+     "downloadURL": "https://file.ipaomtk.com/Canary%20Mail/Canary-Mail-Pro-IPAOMTK.com.ipa",
+     "size": 0
+    },
+    {
+     "version": "5.26.0",
+     "date": "2023-08-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Canary Mail IPA v5.13.0 is an iOS application that provides a secure and private email experience for users. It is a modified version of",
+     "downloadURL": "https://file.ipaomtk.com/Canary%20Mail/Canary-Mail-Pro-IPAOMTK.com.ipa",
+     "size": 88320608
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Stack (Hacked)",
+ "identifier": "dev.perapp.com-ketchapp-stack",
+ "subtitle": "Stack (Hacked) by sidelix",
+ "description": "Single-app source for Stack (Hacked) (com.ketchapp.stack). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a73bd039bc91.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.stack",
+   "name": "Stack (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "No Ads",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a73bd039bc91.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.5",
+     "date": "2026-08-08T00:00:00Z",
+     "localizedDescription": "No Ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2317",
+     "size": 90755309
+    },
+    {
+     "version": "4.0.4",
+     "date": "2026-08-05T00:00:00Z",
+     "localizedDescription": "No Ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2317",
+     "size": 89372601
+    },
+    {
+     "version": "3.57",
+     "date": "2025-02-09T00:00:00Z",
+     "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b2be46bfb5ad65523e2f3d",
+     "size": 67965051
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Pirates",
+ "identifier": "dev.perapp.com-ubisoft-assassin-pirates",
+ "subtitle": "ipaomtk.com | Assassin’s Creed Pirates IPA is an action-adventure game developed and published by Ubisoft Entertainment.",
+ "description": "Single-app source for Pirates (com.ubisoft.assassin.pirates). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-2-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ubisoft.assassin.pirates",
+   "name": "Pirates",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Assassin’s Creed Pirates IPA is an action-adventure game developed and published by Ubisoft Entertainment. Set in the Caribbean during t",
+   "localizedDescription": "ipaomtk.com | Assassin’s Creed Pirates IPA is an action-adventure game developed and published by Ubisoft Entertainment. Set in the Caribbean during t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-2-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.1",
+     "date": "2023-05-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Assassin’s Creed Pirates IPA is an action-adventure game developed and published by Ubisoft Entertainment. Set in the Caribbean during t",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AC-Pirates.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

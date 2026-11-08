@@ -1,0 +1,30 @@
+{
+ "name": "iPassSafe-ipaomtk",
+ "identifier": "dev.perapp.com-geniusoft-99",
+ "subtitle": "ipaomtk.com | A password safe, also known as a password manager is a secure digital vault that stores your login credent",
+ "description": "Single-app source for iPassSafe-ipaomtk (com.GeniuSoft.99). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/iPassSafe-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.GeniuSoft.99",
+   "name": "iPassSafe-ipaomtk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | A password safe, also known as a password manager is a secure digital vault that stores your login credentials, including usernames and ",
+   "localizedDescription": "ipaomtk.com | A password safe, also known as a password manager is a secure digital vault that stores your login credentials, including usernames and ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/iPassSafe-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "16.12",
+     "date": "2024-08-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | A password safe, also known as a password manager is a secure digital vault that stores your login credentials, including usernames and ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/password-safe-ipasssafe.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

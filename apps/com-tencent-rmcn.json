@@ -1,0 +1,30 @@
+{
+ "name": "Rust Mobile",
+ "identifier": "dev.perapp.com-tencent-rmcn",
+ "subtitle": "Rust Mobile",
+ "description": "Single-app source for Rust Mobile (com.tencent.rmcn). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tencent.rmcn",
+   "name": "Rust Mobile",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nRust Mobile v0.1.3 Beta\n\n🇷🇺 Легендарный шутер от Facepunch теперь на iOS и находится в  закрытом тестирование\n— Приложение из TestFlight\n— Требуется iOS 12+\n— Для игры после начала тестирования вам нужен будет WeChat/QQ с доступом к ЗБТ\n© Создано: GLESign\n\n🇺🇸 The legendary shooter from Facepunch is now on iOS and is in closed testing\n— The app from TestFlight\n— Requires iOS 12+\n— To play after the start of testing, you will need WeChat/QQ with access to the CBT\n© Created: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nRust Mobile v0.1.3 Beta\n\n🇷🇺 Легендарный шутер от Facepunch теперь на iOS и находится в  закрытом тестирование\n— Приложение из TestFlight\n— Требуется iOS 12+\n— Для игры после начала тестирования вам нужен будет WeChat/QQ с доступом к ЗБТ\n© Создано: GLESign\n\n🇺🇸 The legendary shooter from Facepunch is now on iOS and is in closed testing\n— The app from TestFlight\n— Requires iOS 12+\n— To play after the start of testing, you will need WeChat/QQ with access to the CBT\n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/33f8708c-15eb-4f8f-a146-b45e312d5ff4/Rust_Mobile_v0.1.3_tg_glesign_.ipa",
+     "size": 612409520
+    }
+   ]
+  }
+ ]
+}

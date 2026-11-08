@@ -1,0 +1,30 @@
+{
+ "name": "PocketLove+",
+ "identifier": "dev.perapp.com-hyperbeard-pocketloveplus",
+ "subtitle": "@ipa_dark | 🔄 Любовь в миниатюре+ - appstore  🇷🇺 Уютный симулятор жизни, где можно создавать персонажей, обустраивать со",
+ "description": "Single-app source for PocketLove+ (com.hyperbeard.pocketloveplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1672.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hyperbeard.pocketloveplus",
+   "name": "PocketLove+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Любовь в миниатюре+ - appstore  🇷🇺 Уютный симулятор жизни, где можно создавать персонажей, обустраивать собственный дом, выбирать мебель",
+   "localizedDescription": "@ipa_dark | 🔄 Любовь в миниатюре+ - appstore  🇷🇺 Уютный симулятор жизни, где можно создавать персонажей, обустраивать собственный дом, выбирать мебель",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1672.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.1",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Любовь в миниатюре+ - appstore  🇷🇺 Уютный симулятор жизни, где можно создавать персонажей, обустраивать собственный дом, выбирать мебель",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1672-PocketLove%20%5Bv1.3.1.%5D%28tg@ipa_dark%29.ipa",
+     "size": 304587934
+    }
+   ]
+  }
+ ]
+}

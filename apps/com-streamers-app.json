@@ -1,0 +1,30 @@
+{
+ "name": "Streamer",
+ "identifier": "dev.perapp.com-streamers-app",
+ "subtitle": "Streamer by sidelix",
+ "description": "Single-app source for Streamer (com.streamers.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1762058431.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.streamers.app",
+   "name": "Streamer",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Streamer iOS App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies",
+   "iconURL": "https://appstore.sidelix.vip/images/1762058431.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2025-11-02T00:00:00Z",
+     "localizedDescription": "Streamer iOS App for Streaming Movies and TV shows on iOS and tvOS\r\n\r\nStream all TV shows and Movies from multiple websites\r\nSupports Chromecast to stream to FireTV and Chromecasts\r\nSupports multi-language subtitles for iOS and tvOS\r\nFavorite functionality to quickly access your favorite shows and movies",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1936",
+     "size": 45926638
+    }
+   ]
+  }
+ ]
+}

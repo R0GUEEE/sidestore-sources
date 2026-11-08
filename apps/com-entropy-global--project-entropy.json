@@ -1,0 +1,30 @@
+{
+ "name": "Project Entropy",
+ "identifier": "dev.perapp.com-entropy-global",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for Project Entropy (com.entropy.global). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/512x512bb-69-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.entropy.global",
+   "name": "Project Entropy",
+   "developerName": "ipaomtk.com",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Project Entropy IPA.0 is a next-level tactical shooter that has captured the attention of mobile gamers worldwide. Unlike traditional shooters, this game combines strategic gameplay with fast-paced action, offering a unique experience on iOS devices. The MOD version amplifies the experience by unlocking premium features, giving players unlimited resources, weapons, and enhanced capabilities. For fans […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/512x512bb-69-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.49.0",
+     "date": "2025-08-25T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Project Entropy IPA.0 is a next-level tactical shooter that has captured the attention of mobile gamers worldwide. Unlike traditional…",
+     "downloadURL": "https://file.ipaomtk.com/Project-Entropy/Project-Entropy-IPAOMTK.COM.ipa",
+     "size": 2147483647
+    }
+   ]
+  }
+ ]
+}

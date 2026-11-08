@@ -1,0 +1,30 @@
+{
+ "name": "Simplypiano",
+ "identifier": "dev.perapp.com-joytunes-asla",
+ "subtitle": "Simplypiano",
+ "description": "Single-app source for Simplypiano (com.joytunes.asla). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.joytunes.asla",
+   "name": "Simplypiano",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.8.4",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Simplypiano_9.8.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 198855472
+    }
+   ]
+  }
+ ]
+}

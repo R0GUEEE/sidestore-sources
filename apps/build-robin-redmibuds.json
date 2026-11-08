@@ -1,0 +1,36 @@
+{
+ "name": "Redmi Buds",
+ "identifier": "dev.perapp.build-robin-redmibuds",
+ "subtitle": "Native macOS menu bar controls for REDMI Buds 8 Pro. ANC, transparency, battery, and automatic updates",
+ "description": "Single-app source for Redmi Buds (build.robin.RedmiBuds). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1f7eef",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/build.robin.RedmiBuds.png",
+ "apps": [
+  {
+   "bundleIdentifier": "build.robin.RedmiBuds",
+   "name": "Redmi Buds",
+   "developerName": "robin-liquidium",
+   "subtitle": "Native macOS menu bar controls for REDMI Buds 8 Pro. ANC, transparency, battery, and automatic updates",
+   "localizedDescription": "Redmi Buds Bar:\n\nA small native macOS menu bar app for REDMI Buds 8 Pro. Verified with a Chinese-market pair, product ID 0x50E3, on firmware 1.2.3.6 and 1.2.3.7.\n\nDownload:\n\nRequires macOS 14 or later. Public releases contain a universal app for Apple silicon and Intel. Install it in Applications, pair your earbuds, and open the app.\n\nWorking features:\n\n• Now Playing card with artwork, track, artist, and source app, plus previous, play/pause, next, and a seek bar.\n• Click the source app name to open it. Press Space while the popover is open to play or pause.\n• Playback updates arrive as events; the media helper stops when the app's controls close.\n• Noise cancelling, transparency, and off.\n• ANC strength slider below the mode controls, with 20 manual positions.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/build.robin.RedmiBuds.png",
+   "tintColor": "#1f7eef",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5.0",
+     "date": "2026-10-09T16:07:17Z",
+     "localizedDescription": "• Keep pending Mac control connections after a timeout to prevent duplicate attempts, with clear recovery instructions.\n• Configure earbud gestures, noise-mode cycling, EQ and supported feature settings on Mac and iPhone, with independent readback after changes.\n• Add ear tip fit testing and find-earbud sound controls.\n• Provide an unsigned iPhone IPA with Control Center controls and instructions for signing it yourself.\n\nRequires macOS 14 or later. Universal Apple silicon and Intel app.\n\niPhone: iOS 26 or later. The unsigned IPA includes Control Center controls and requires your own compatible signing before installation; see iOS-Sideloading.md and SHA256SUMS.",
+     "downloadURL": "https://github.com/robin-liquidium/redmi-buds-bar/releases/download/v0.5.0/RedmiBuds-0.5.0-unsigned.ipa",
+     "size": 1085249
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "Connect to your REDMI Buds to control noise cancelling and transparency and show battery levels."
+    }
+   }
+  }
+ ]
+}

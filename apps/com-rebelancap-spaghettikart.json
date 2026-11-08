@@ -1,0 +1,30 @@
+{
+ "name": "Spaghetti Kart",
+ "identifier": "dev.perapp.com-rebelancap-spaghettikart",
+ "subtitle": "SpaghettiKart for iPhone & Apple Vision Pro:  Play Mario Kart 64 on your iPhone and Apple Vision Pro — all the cups and ",
+ "description": "Single-app source for Spaghetti Kart (com.rebelancap.spaghettikart). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.spaghettikart.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.spaghettikart",
+   "name": "Spaghetti Kart",
+   "developerName": "rebelancap",
+   "subtitle": "SpaghettiKart for iPhone & Apple Vision Pro:  Play Mario Kart 64 on your iPhone and Apple Vision Pro — all the cups and battle courses with the Spaghe",
+   "localizedDescription": "SpaghettiKart for iPhone & Apple Vision Pro:  Play Mario Kart 64 on your iPhone and Apple Vision Pro — all the cups and battle courses with the Spaghe\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.spaghettikart.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "SpaghettiKart for iPhone & Apple Vision Pro:  Play Mario Kart 64 on your iPhone and Apple Vision Pro — all the cups and battle courses with the Spaghe",
+     "downloadURL": "https://github.com/rebelancap/SpaghettiKart-ios/releases/download/v1.1.0/spaghettikart-1.1.0-iOS.ipa",
+     "size": 8088280
+    }
+   ]
+  }
+ ]
+}

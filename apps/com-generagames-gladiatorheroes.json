@@ -1,0 +1,37 @@
+{
+ "name": "GladiatorHeroes",
+ "identifier": "dev.perapp.com-generagames-gladiatorheroes",
+ "subtitle": "ipaomtk.com | Gladiator Heroes IPA is a popular mobile strategy game developed by IGG.COM. The game allows players to bu",
+ "description": "Single-app source for GladiatorHeroes (com.generagames.gladiatorheroes). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/Gladiator-Heroes-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.generagames.gladiatorheroes",
+   "name": "GladiatorHeroes",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Gladiator Heroes IPA is a popular mobile strategy game developed by IGG.COM. The game allows players to build and manage their own kingd",
+   "localizedDescription": "ipaomtk.com | Gladiator Heroes IPA is a popular mobile strategy game developed by IGG.COM. The game allows players to build and manage their own kingd",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/Gladiator-Heroes-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.10.10",
+     "date": "2023-07-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Gladiator Heroes IPA is a popular mobile strategy game developed by IGG.COM. The game allows players to build and manage their own kingd",
+     "downloadURL": "https://file.ipaomtk.com/gladiator-heroes-ipa/Gladiator-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.14.11",
+     "date": "2023-07-30T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Gladiator Heroes IPA is a popular mobile strategy game developed by IGG.COM. The game allows players to build and manage their own kingd",
+     "downloadURL": "https://file.ipaomtk.com/gladiator-heroes-ipa/Gladiator-IPAOMTK.COM.ipa",
+     "size": 603206162
+    }
+   ]
+  }
+ ]
+}

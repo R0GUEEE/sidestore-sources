@@ -1,0 +1,44 @@
+{
+ "name": "Helium",
+ "identifier": "dev.perapp.com-leemin-helium",
+ "subtitle": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enabl",
+ "description": "Single-app source for Helium (com.leemin.helium). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.helium.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leemin.helium",
+   "name": "Helium",
+   "developerName": "leminlimez",
+   "subtitle": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode. Last updated",
+   "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode. Last updated",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leemin.helium.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode. Last updated",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.2.ipa",
+     "size": 3896129
+    },
+    {
+     "version": "2.1.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode. Last updated",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.1.ipa",
+     "size": 3874054
+    },
+    {
+     "version": "2.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Status Bar Widgets for TrollStore, compatible with iOS >=14 and Jailbroken devices as well. Users on iOS >=16 must enable developer mode. Last updated",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Helium/Helium-2.0.1.ipa",
+     "size": 3827002
+    }
+   ]
+  }
+ ]
+}

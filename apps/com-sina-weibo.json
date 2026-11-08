@@ -1,0 +1,30 @@
+{
+ "name": "Weibo",
+ "identifier": "dev.perapp.com-sina-weibo",
+ "subtitle": "Injected with NoAds",
+ "description": "Single-app source for Weibo (com.sina.weibo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.sina.weibo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sina.weibo",
+   "name": "Weibo",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with NoAds",
+   "localizedDescription": "Injected with NoAds",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.sina.weibo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.1.2",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with NoAds",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-01-26/Weibo_15.1.2_NoAds_@repo.owo.network.ipa",
+     "size": 176153497
+    }
+   ]
+  }
+ ]
+}

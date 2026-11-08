@@ -1,0 +1,37 @@
+{
+ "name": "gen1recomp",
+ "identifier": "dev.perapp.com-underdecodedhd-gen2recomped",
+ "subtitle": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified",
+ "description": "Single-app source for gen1recomp (com.underdecodedhd.gen2recomped). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6263c4",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.underdecodedhd.gen2recomped.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.underdecodedhd.gen2recomped",
+   "name": "gen1recomp",
+   "developerName": "UNDERdecoded",
+   "subtitle": "Generation 2 Pokemon Recomp forked from Gen1Recomp and modified",
+   "localizedDescription": "gen2recomp:\n\nA native LÖVE2D recreation of Poke Gold, Silver and Crystal, built on Gen1Recomp's Red/Blue/Yellow engine. The engine, script VM, and map behavior are hand-written Lua; game data and graphics are decoded from a ROM supplied by the player.\n\ngen2recomp keeps everything the upstream project does for Generation I and adds the Generation II half: the Gen2 script VM and its command table, the Johto and Kanto world, day/night, breeding and the Day-Care, the Pokegear, shinies, held items, and the Gold/Silver title sequence.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.underdecodedhd.gen2recomped.png",
+   "tintColor": "#6263c4",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.8.56",
+     "date": "2026-11-08T05:25:47Z",
+     "localizedDescription": "Download the correct version for your computer below.",
+     "downloadURL": "https://github.com/UNDERdecoded/Gen2Recomped/releases/download/v0.8.56/Gen2Recomped-0.8.56-ios.ipa",
+     "size": 34502408
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSHealthShareUsageDescription": "The Pokéwalker mod reads your step count to give your Pokémon party experience points for real-world walking.",
+     "NSLocalNetworkUsageDescription": "Link trades, battles and worlds connect to friends' games on your network, and ask your router to open a port for players elsewhere."
+    }
+   }
+  }
+ ]
+}

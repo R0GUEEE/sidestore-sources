@@ -1,0 +1,44 @@
+{
+ "name": "ipogo",
+ "identifier": "dev.perapp.com-nianticlabs-pokemongo",
+ "subtitle": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE ",
+ "description": "Single-app source for ipogo (com.nianticlabs.pokemongo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nianticlabs.pokemongo",
+   "name": "ipogo",
+   "developerName": "ipogo",
+   "subtitle": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET Y",
+   "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET Y",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.433.1",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@spyg_vault | Some features are serversided and will not work 💚 Support my work",
+     "downloadURL": "https://fastsign.dev/tg-ipa/spyg-vault/153-SpooferPro-0.433.1-0.739.RLS.CRACKED.ipa",
+     "size": 159429382
+    },
+    {
+     "version": "3.3.9",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET Y",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iPoGo/iPoGo-3.3.9.ipa",
+     "size": 143359914
+    },
+    {
+     "version": "3.3.8",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET Y",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iPoGo/iPoGo-3.3.8.ipa",
+     "size": 140126813
+    }
+   ]
+  }
+ ]
+}

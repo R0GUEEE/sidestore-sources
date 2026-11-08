@@ -1,0 +1,30 @@
+{
+ "name": "Cowabunga10",
+ "identifier": "dev.perapp.cypwn-cowabunga10-10-0-0",
+ "subtitle": "OS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox  **Latest release as of 3/23**",
+ "description": "Single-app source for Cowabunga10 (cypwn.Cowabunga10.10.0.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Cowabunga10.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.Cowabunga10.10.0.0",
+   "name": "Cowabunga10",
+   "developerName": "Cowabunga10 x CyPwn",
+   "subtitle": "OS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox  **Latest release as of 3/23**",
+   "localizedDescription": "OS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox  **Latest release as of 3/23**",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Cowabunga10.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.0.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "OS 14.0-15.7.1 & 16.0-16.1.2 MacDirtyCow ToolBox  **Latest release as of 3/23**",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Cowabunga10.ipa",
+     "size": 21558722
+    }
+   ]
+  }
+ ]
+}

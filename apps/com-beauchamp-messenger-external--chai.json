@@ -1,0 +1,44 @@
+{
+ "name": "Chai",
+ "identifier": "dev.perapp.com-beauchamp-messenger-external",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Chai (com.beauchamp.Messenger.external). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beauchamp.Messenger.external.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.beauchamp.Messenger.external",
+   "name": "Chai",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beauchamp.Messenger.external.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.1",
+     "date": "2026-10-04T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 CHAI: Social AI Platform- Chat - appstore  🇷🇺 Платформа для общения с ИИ-персонажами, позволяющая вести текстовые диалоги на различные т",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1790-Chai%20%5Bv20260911.0.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 70537783
+    },
+    {
+     "version": "20260911.0.0",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 CHAI: Social AI Platform- Chat - appstore  🇷🇺 Платформа для общения с ИИ-персонажами, позволяющая вести текстовые диалоги на различные т",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1727-Chai%20%5Bv20260911.0.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 76353005
+    },
+    {
+     "version": "20260422.0.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-04-2026/Chai_20260422.0.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 65376018
+    }
+   ]
+  }
+ ]
+}

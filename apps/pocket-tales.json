@@ -1,0 +1,37 @@
+{
+ "name": "Pocket Tales",
+ "identifier": "dev.perapp.pocket-tales",
+ "subtitle": "ipaomtk.com | Pocket Tales a captivating survival game available on iOS, invites players to embark​ on an immersive jour",
+ "description": "Single-app source for Pocket Tales (pocket.tales). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Pocket-Tales-Survival-Game-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "pocket.tales",
+   "name": "Pocket Tales",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Pocket Tales a captivating survival game available on iOS, invites players to embark​ on an immersive journey‍ through lush landscapes, ",
+   "localizedDescription": "ipaomtk.com | Pocket Tales a captivating survival game available on iOS, invites players to embark​ on an immersive journey‍ through lush landscapes, ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Pocket-Tales-Survival-Game-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2025-03-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pocket Tales a captivating survival game available on iOS, invites players to embark​ on an immersive journey‍ through lush landscapes, ",
+     "downloadURL": "https://file.ipaomtk.com/Pocket%20Tales/Pocket-Tales-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.7",
+     "date": "2025-03-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pocket Tales a captivating survival game available on iOS, invites players to embark​ on an immersive journey‍ through lush landscapes, ",
+     "downloadURL": "https://file.ipaomtk.com/Pocket%20Tales/Pocket-Tales-IPAOMTK.COM.ipa",
+     "size": 404796297
+    }
+   ]
+  }
+ ]
+}

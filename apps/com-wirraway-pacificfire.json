@@ -1,0 +1,30 @@
+{
+ "name": "Pacific Fire",
+ "identifier": "dev.perapp.com-wirraway-pacificfire",
+ "subtitle": "ipaomtk.com | Pacific Fire IPA v1.700 is an innovative mobile application that serves as a crucial tool for wildfire awa",
+ "description": "Single-app source for Pacific Fire (com.Wirraway.PacificFire). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Pacific-Fire.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Wirraway.PacificFire",
+   "name": "Pacific Fire",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Pacific Fire IPA v1.700 is an innovative mobile application that serves as a crucial tool for wildfire awareness and safety in the Pacif",
+   "localizedDescription": "ipaomtk.com | Pacific Fire IPA v1.700 is an innovative mobile application that serves as a crucial tool for wildfire awareness and safety in the Pacif",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Pacific-Fire.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.700",
+     "date": "2024-11-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pacific Fire IPA v1.700 is an innovative mobile application that serves as a crucial tool for wildfire awareness and safety in the Pacif",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Pacific_Fire-v1.700-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

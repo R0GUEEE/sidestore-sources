@@ -1,0 +1,30 @@
+{
+ "name": "Tabi Calc",
+ "identifier": "dev.perapp.com-tsuyoshiniwa-timecalc",
+ "subtitle": "ipaomtk.com | Tabi Calc IPA v2.3.4 is an innovative iOS calculator app that combines functionality with a sleek, user-fr",
+ "description": "Single-app source for Tabi Calc (com.tsuyoshiniwa.timecalc). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Tabi-Calc.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tsuyoshiniwa.timecalc",
+   "name": "Tabi Calc",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tabi Calc IPA v2.3.4 is an innovative iOS calculator app that combines functionality with a sleek, user-friendly interface. Designed for",
+   "localizedDescription": "ipaomtk.com | Tabi Calc IPA v2.3.4 is an innovative iOS calculator app that combines functionality with a sleek, user-friendly interface. Designed for",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Tabi-Calc.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tabi Calc IPA v2.3.4 is an innovative iOS calculator app that combines functionality with a sleek, user-friendly interface. Designed for",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Tabi_Calc-v2.3.4-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

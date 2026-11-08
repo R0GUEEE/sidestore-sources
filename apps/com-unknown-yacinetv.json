@@ -1,0 +1,37 @@
+{
+ "name": "Yacine TV",
+ "identifier": "dev.perapp.com-unknown-yacinetv",
+ "subtitle": "Yasin TV is a program to know the results of football",
+ "description": "Single-app source for Yacine TV (com.unknown.yacinetv). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Yacine.TV.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.yacinetv",
+   "name": "Yacine TV",
+   "developerName": "Karbin-Store",
+   "subtitle": "Yasin TV is a program to know the results of football",
+   "localizedDescription": "Yasin TV is a program to know the results of football",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Yacine.TV.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Yasin TV is a program to know the results of football",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Yacine.TV--ipastorage_official.ipa",
+     "size": 24290000
+    },
+    {
+     "version": "1.0.1",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Tweaks: abood_syr, ADsBlocker, AntPremium\n\nYasin TV is a program to know the results of football",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Yacine.TV--ipastorage_official.ipa",
+     "size": 25471553
+    }
+   ]
+  }
+ ]
+}

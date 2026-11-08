@@ -1,0 +1,30 @@
+{
+ "name": "Pixly",
+ "identifier": "dev.perapp.co-comapps-live-photo",
+ "subtitle": "Pixly by Holloway",
+ "description": "Single-app source for Pixly (co.comapps.live.photo). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761377736.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.comapps.live.photo",
+   "name": "Pixly",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://appstore.sidelix.vip/images/1761377736.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.24",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1341",
+     "size": 103139507
+    }
+   ]
+  }
+ ]
+}

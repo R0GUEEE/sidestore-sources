@@ -1,0 +1,30 @@
+{
+ "name": "mPlayer",
+ "identifier": "dev.perapp.com-mdc-mplayer-ios",
+ "subtitle": "ipaomtk.com | MPlayer IPA Media players have become a staple in our daily lives – enabling us to watch our favorite movi",
+ "description": "Single-app source for mPlayer (com.mdc.mplayer.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/mPlayer-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mdc.mplayer.ios",
+   "name": "mPlayer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MPlayer IPA Media players have become a staple in our daily lives – enabling us to watch our favorite movies, TV shows and music videos.",
+   "localizedDescription": "ipaomtk.com | MPlayer IPA Media players have become a staple in our daily lives – enabling us to watch our favorite movies, TV shows and music videos.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/mPlayer-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.75",
+     "date": "2023-03-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MPlayer IPA Media players have become a staple in our daily lives – enabling us to watch our favorite movies, TV shows and music videos.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/mplayer.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "ModMyIPA",
+ "identifier": "dev.perapp.com-powen-modmyipa",
+ "subtitle": "App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app Last updated: 10-28-2022 St",
+ "description": "Single-app source for ModMyIPA (com.powen.ModMyIPA). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.powen.ModMyIPA.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.powen.ModMyIPA",
+   "name": "ModMyIPA",
+   "developerName": "powenn",
+   "subtitle": "App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app Last updated: 10-28-2022 Status: ✅",
+   "localizedDescription": "App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app\nLast updated: 10-28-2022\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.powen.ModMyIPA.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "App info (name, bundleID, etc) editor, usually used if installing duplicates of the same app Last updated: 10-28-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ModMyIPA.ipa",
+     "size": 2447058
+    }
+   ]
+  }
+ ]
+}

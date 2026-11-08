@@ -1,0 +1,30 @@
+{
+ "name": "Cat Force",
+ "identifier": "dev.perapp.com-jellybtn-catforce",
+ "subtitle": "ipaomtk.com | Cat Force: A‍ Dive into the PvP ‌Match 3 ‌Adventure In a world brimming with digital distractions, few ‌ge",
+ "description": "Single-app source for Cat Force (com.jellybtn.catforce). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Cat-Force-%E2%80%93-PvP-Match-3-Game-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jellybtn.catforce",
+   "name": "Cat Force",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Cat Force: A‍ Dive into the PvP ‌Match 3 ‌Adventure In a world brimming with digital distractions, few ‌genres manage to blend the thril",
+   "localizedDescription": "ipaomtk.com | Cat Force: A‍ Dive into the PvP ‌Match 3 ‌Adventure In a world brimming with digital distractions, few ‌genres manage to blend the thril",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Cat-Force-%E2%80%93-PvP-Match-3-Game-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.0",
+     "date": "2025-04-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Cat Force: A‍ Dive into the PvP ‌Match 3 ‌Adventure In a world brimming with digital distractions, few ‌genres manage to blend the thril",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Cat-Force-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

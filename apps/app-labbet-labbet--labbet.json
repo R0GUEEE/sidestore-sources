@@ -1,0 +1,44 @@
+{
+ "name": "Labbet",
+ "identifier": "dev.perapp.app-labbet-labbet",
+ "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Labbet (app.labbet.labbet). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.labbet.labbet",
+   "name": "Labbet",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.69",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "@blatants | Labbet: Photo & Video Editing  • Bundle ID: app.labbet.labbet • Updated to: 2.69 • Minimum iOS: 17.6 • Patched • Modifier: Subscription Un",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12390-Labbet_Photo_&_Video_Editing_v2_69_Subscription_Unlocked_blatant.ipa",
+     "size": 82936911
+    },
+    {
+     "version": "2.68",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/Labbet_2.68_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 146717156
+    },
+    {
+     "version": "2.67",
+     "date": "2026-08-30T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Labbet_2.67_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 166588655
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "HillClimb",
+ "identifier": "dev.perapp.com-fingersoft-hillclimbracing",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for HillClimb (com.fingersoft.hillclimbracing). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fingersoft.hillclimbracing",
+   "name": "HillClimb",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.73.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Hill Climb Racing  Tweak: Free iAP  Version: 1.73.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8706-Hill%20Climb%20Racing-v1.73.1-riftysipas.ipa",
+     "size": 131078364
+    },
+    {
+     "version": "1.73.0",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Hill Climb Racing  Tweak: Free iAP  Version: 1.73.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8640-Hill%20Climb%20Racing-v1.73.0-riftysipas.ipa",
+     "size": 131077728
+    },
+    {
+     "version": "1.72.0",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Hill Climb Racing  Tweak: Free iAP  Version: 1.72.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8228-Hill%20Climb%20Racing-v1.72.0-riftysipas.ipa",
+     "size": 130394665
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PostBox-Pocket",
+ "identifier": "dev.perapp.cypwn-postbox-pocket-0-8-1",
+ "subtitle": "v0.8.1-7. AppStore release! Search cydia repos and download deb files. Extract themes for jailed device theming. Not use",
+ "description": "Single-app source for PostBox-Pocket (cypwn.PostBox-Pocket.0.8.1). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/PostBox-Pocket.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.PostBox-Pocket.0.8.1",
+   "name": "PostBox-Pocket",
+   "developerName": "PostBox-Pocket x CyPwn",
+   "subtitle": "v0.8.1-7. AppStore release! Search cydia repos and download deb files. Extract themes for jailed device theming. Not used for installing debs.",
+   "localizedDescription": "v0.8.1-7. AppStore release! Search cydia repos and download deb files. Extract themes for jailed device theming. Not used for installing debs.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/PostBox-Pocket.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.8.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "v0.8.1-7. AppStore release! Search cydia repos and download deb files. Extract themes for jailed device theming. Not used for installing debs.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/PostBox-Pocket.ipa",
+     "size": 6113198
+    }
+   ]
+  }
+ ]
+}

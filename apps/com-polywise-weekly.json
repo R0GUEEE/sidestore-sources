@@ -1,0 +1,30 @@
+{
+ "name": "Imprint",
+ "identifier": "dev.perapp.com-polywise-weekly",
+ "subtitle": "Imprint",
+ "description": "Single-app source for Imprint (com.polywise.weekly). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polywise.weekly.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.polywise.weekly",
+   "name": "Imprint",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.polywise.weekly.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.7",
+     "date": "2026-01-01T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/Imprint_5.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 106642415
+    }
+   ]
+  }
+ ]
+}

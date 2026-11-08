@@ -1,0 +1,30 @@
+{
+ "name": "Aidoku",
+ "identifier": "dev.perapp.app-aidoku-aidoku",
+ "subtitle": "A free and open source manga reading application for iOS and iPadOS.",
+ "description": "Single-app source for Aidoku (app.aidoku.Aidoku). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.aidoku.Aidoku",
+   "name": "Aidoku",
+   "developerName": "Skitty",
+   "subtitle": "A free and open source manga reading application for iOS and iPadOS.",
+   "localizedDescription": "A free and open source manga reading application for iOS and iPadOS.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Aidoku/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "A free and open source manga reading application for iOS and iPadOS.",
+     "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
+     "size": 14753154
+    }
+   ]
+  }
+ ]
+}

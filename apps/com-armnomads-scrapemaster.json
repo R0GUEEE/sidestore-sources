@@ -1,0 +1,30 @@
+{
+ "name": "Scrape Master",
+ "identifier": "dev.perapp.com-armnomads-scrapemaster",
+ "subtitle": "ipaomtk.com | Scrape Master IPA mobile gaming has become an integral part of our lives. With a vast array of games avail",
+ "description": "Single-app source for Scrape Master (com.armnomads.scrapemaster). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/scrape-master-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.armnomads.scrapemaster",
+   "name": "Scrape Master",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Scrape Master IPA mobile gaming has become an integral part of our lives. With a vast array of games available, it can be overwhelming t",
+   "localizedDescription": "ipaomtk.com | Scrape Master IPA mobile gaming has become an integral part of our lives. With a vast array of games available, it can be overwhelming t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/scrape-master-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2023-05-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Scrape Master IPA mobile gaming has become an integral part of our lives. With a vast array of games available, it can be overwhelming t",
+     "downloadURL": "https://file.ipaomtk.com/ipa/ScrapeMaster.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

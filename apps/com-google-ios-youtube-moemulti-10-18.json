@@ -1,0 +1,30 @@
+{
+ "name": "MoeMulti (10.18)",
+ "identifier": "dev.perapp.com-google-ios-youtube-moemulti-10-18",
+ "subtitle": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks:",
+ "description": "Single-app source for MoeMulti (10.18) (com.google.ios.youtube.moemulti.10.18). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.moemulti.10.18",
+   "name": "MoeMulti (10.18)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD",
+   "localizedDescription": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.33.5",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD",
+     "downloadURL": "https://repo.ballermc.com/tubevault/_YouTube21.33.5Moe-Multi10.18Patched.ipa",
+     "size": 190530956
+    }
+   ]
+  }
+ ]
+}

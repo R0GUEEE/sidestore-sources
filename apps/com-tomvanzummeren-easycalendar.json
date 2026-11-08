@@ -1,0 +1,30 @@
+{
+ "name": "Easy Calendar",
+ "identifier": "dev.perapp.com-tomvanzummeren-easycalendar",
+ "subtitle": "ipaomtk.com | Easy Calendar IPA v4.9.4 is a user-friendly mobile application designed to simplify the process of managin",
+ "description": "Single-app source for Easy Calendar (com.tomvanzummeren.EasyCalendar). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Easy-Calendar.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tomvanzummeren.EasyCalendar",
+   "name": "Easy Calendar",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Easy Calendar IPA v4.9.4 is a user-friendly mobile application designed to simplify the process of managing schedules and events. This i",
+   "localizedDescription": "ipaomtk.com | Easy Calendar IPA v4.9.4 is a user-friendly mobile application designed to simplify the process of managing schedules and events. This i",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Easy-Calendar.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.8.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Easy Calendar IPA v4.9.4 is a user-friendly mobile application designed to simplify the process of managing schedules and events. This i",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Easy_Calendar-v4.9.4-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

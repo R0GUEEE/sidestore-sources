@@ -1,0 +1,36 @@
+{
+ "name": "KidPad",
+ "identifier": "dev.perapp.com-chrissotraidis-kidpad",
+ "subtitle": "Kid Pix, native on iPad. An unofficial Swift recreation for Apple Pencil and touch",
+ "description": "Single-app source for KidPad (com.chrissotraidis.kidpad). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2875cf",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.kidpad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chrissotraidis.kidpad",
+   "name": "KidPad",
+   "developerName": "chrissotraidis",
+   "subtitle": "Kid Pix, native on iPad. An unofficial Swift recreation for Apple Pencil and touch",
+   "localizedDescription": "KidPad:\n\nKidPad is a native recreation of the classic Kid Pix experience for iPhone, iPad, and Mac. It aims to look, sound, and behave like Kid Pix, using the familiar artwork, sounds, tools, menus, stamps, brushes, and playful interactions available through the pinned JSKidPix project.\n\nThe experience is deliberately recognizable. This is not a loosely inspired drawing app with a retro skin. KidPad's purpose is to make Kid Pix feel at home on modern Apple devices.\n\nIn one sentence: KidPad is Kid Pix for iPhone and iPad, recreated natively and released as an independent, unofficial project.\n\nWhat KidPad is:\n\n• A new native Swift implementation of the Kid Pix drawing experience.\n• A Core Graphics canvas with SwiftUI and UIKit controls, not a browser canvas.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.kidpad.png",
+   "tintColor": "#2875cf",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/kidpad@main/docs/readme/kidpad-ipad-v1.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0.0",
+     "date": "2026-08-23T21:23:11Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/chrissotraidis/kidpad/releases/download/v2.0.0/KidPad-v2.0.0-unsigned.ipa",
+     "size": 2811712
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

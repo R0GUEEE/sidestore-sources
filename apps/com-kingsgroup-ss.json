@@ -1,0 +1,37 @@
+{
+ "name": "State of Survival",
+ "identifier": "dev.perapp.com-kingsgroup-ss",
+ "subtitle": "ipaomtk.com | State of Survival Zombie War IPA a captivating mobile game that immerses you in a post-apocalyptic landsca",
+ "description": "Single-app source for State of Survival (com.kingsgroup.ss). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/state-of-survival-zombie-war-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kingsgroup.ss",
+   "name": "State of Survival",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | State of Survival Zombie War IPA a captivating mobile game that immerses you in a post-apocalyptic landscape overrun by the undead. As a",
+   "localizedDescription": "ipaomtk.com | State of Survival Zombie War IPA a captivating mobile game that immerses you in a post-apocalyptic landscape overrun by the undead. As a",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/state-of-survival-zombie-war-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.25.400",
+     "date": "2024-07-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | State of Survival Zombie War IPA a captivating mobile game that immerses you in a post-apocalyptic landscape overrun by the undead. As a",
+     "downloadURL": "https://file.ipaomtk.com/State%20of%20Survival%20Zombie%20War/State-of-Survival-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.27.100",
+     "date": "2024-07-24T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | State of Survival Zombie War IPA a captivating mobile game that immerses you in a post-apocalyptic landscape overrun by the undead. As a",
+     "downloadURL": "https://file.ipaomtk.com/State%20of%20Survival%20Zombie%20War/State-of-Survival-IPAOMTK.COM.ipa",
+     "size": 734284284
+    }
+   ]
+  }
+ ]
+}

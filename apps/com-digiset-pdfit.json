@@ -1,0 +1,30 @@
+{
+ "name": "PDFitAllPlus",
+ "identifier": "dev.perapp.com-digiset-pdfit",
+ "subtitle": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is. Last updated: 06-19-2024 Status: ✅",
+ "description": "Single-app source for PDFitAllPlus (com.digiset.pdfit). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.digiset.pdfit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.digiset.pdfit",
+   "name": "PDFitAllPlus",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is. Last updated: 06-19-2024 Status: ✅",
+   "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is.\nLast updated: 06-19-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.digiset.pdfit.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.2",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Another one-in-all converter tool app for PDF(s). A user requested it so here it is. Last updated: 06-19-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PDFitAllPlus/PDFitAllPlus-5.2.2.ipa",
+     "size": 15226786
+    }
+   ]
+  }
+ ]
+}

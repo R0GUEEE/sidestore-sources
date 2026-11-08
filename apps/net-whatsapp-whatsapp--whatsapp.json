@@ -1,0 +1,44 @@
+{
+ "name": "WhatsApp",
+ "identifier": "dev.perapp.net-whatsapp-whatsapp",
+ "subtitle": "@compiledipas | WGoldPlus WhatsApp v26.30.78   Included tweaks: WGold 2.3 (by @alibusut) WATranslator 2.1 (by @n9ipa) WA",
+ "description": "Single-app source for WhatsApp (net.whatsapp.WhatsApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1314.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsApp",
+   "name": "WhatsApp",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | WGoldPlus WhatsApp v26.30.78   Included tweaks: WGold 2.3 (by @alibusut) WATranslator 2.1 (by @n9ipa) WAFonts v2.0.0 (by @n9ipa) WALoc",
+   "localizedDescription": "@compiledipas | WGoldPlus WhatsApp v26.30.78   Included tweaks: WGold 2.3 (by @alibusut) WATranslator 2.1 (by @n9ipa) WAFonts v2.0.0 (by @n9ipa) WALoc",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1314.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.43.75",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@compiledipas | WGoldPlus (WGold 3.7) WhatsAppSMB and WhatsApp v26.43.75   Included tweaks: WGold 3.7 (by @alibusut) WATranslator 2.1 (by @n9ipa) WAFo",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1698-%E2%80%8EWhatsApp_26.43.75_WGoldPlus.ipa",
+     "size": 176675173
+    },
+    {
+     "version": "26.42.77",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@compiledipas | WGoldPlus(WGold 3.7) #WhatsApp v26.42.77   Included tweaks: WGold 3.7 (by @alibusut) WATranslator 2.1 (by @n9ipa) WAFonts v2.0.0 (by @",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1692-%E2%80%8EWhatsApp_26.42.77_WGoldPlus%283.7%29.ipa",
+     "size": 177102973
+    },
+    {
+     "version": "26.41.75",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.  This is an original version, it has original WhatsApp bundle ID, you need to delete original ",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-as7xg/net.whatsapp.WhatsApp_26.41.75_watusi3_1.3.28_sl.ipa",
+     "size": 180005083
+    }
+   ]
+  }
+ ]
+}

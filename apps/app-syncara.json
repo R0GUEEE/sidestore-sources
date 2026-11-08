@@ -1,0 +1,30 @@
+{
+ "name": "Syncara",
+ "identifier": "dev.perapp.app-syncara",
+ "subtitle": "Syncara:  Sync YouTube playlists offline. Because YT Music \\<insert reason here\\>.  Features:  • Background playback. • ",
+ "description": "Single-app source for Syncara (app.syncara). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.syncara.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.syncara",
+   "name": "Syncara",
+   "developerName": "khaled-0",
+   "subtitle": "Syncara:  Sync YouTube playlists offline. Because YT Music \\<insert reason here\\>.  Features:  • Background playback. • Fluid gesture navigations. • L",
+   "localizedDescription": "Syncara:  Sync YouTube playlists offline. Because YT Music \\<insert reason here\\>.  Features:  • Background playback. • Fluid gesture navigations. • L\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.syncara.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.9",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Syncara:  Sync YouTube playlists offline. Because YT Music \\<insert reason here\\>.  Features:  • Background playback. • Fluid gesture navigations. • L",
+     "downloadURL": "https://github.com/khaled-0/Syncara/releases/download/0.1.9/syncara_ios_unsigned.ipa",
+     "size": 17724700
+    }
+   ]
+  }
+ ]
+}

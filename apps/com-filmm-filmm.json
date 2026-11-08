@@ -1,0 +1,30 @@
+{
+ "name": "Filmm-ipaomtk",
+ "identifier": "dev.perapp.com-filmm-filmm",
+ "subtitle": "ipaomtk.com | FTP Sprite IPA is a powerful and user-friendly file transfer protocol (FTP) client designed specifically f",
+ "description": "Single-app source for Filmm-ipaomtk (com.filmm.filmm). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/FTP-Sprite-ios-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.filmm.filmm",
+   "name": "Filmm-ipaomtk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FTP Sprite IPA is a powerful and user-friendly file transfer protocol (FTP) client designed specifically for iOS devices. This innovativ",
+   "localizedDescription": "ipaomtk.com | FTP Sprite IPA is a powerful and user-friendly file transfer protocol (FTP) client designed specifically for iOS devices. This innovativ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/FTP-Sprite-ios-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.15.0",
+     "date": "2024-08-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FTP Sprite IPA is a powerful and user-friendly file transfer protocol (FTP) client designed specifically for iOS devices. This innovativ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Filmm-ipaomtk.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

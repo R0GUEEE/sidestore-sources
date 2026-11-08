@@ -1,0 +1,30 @@
+{
+ "name": "myTuner Radio",
+ "identifier": "dev.perapp.mobi-digitalminds-itunerfree-watchkitapp",
+ "subtitle": "myTuner Radio",
+ "description": "Single-app source for myTuner Radio (mobi.digitalminds.itunerfree.watchkitapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "mobi.digitalminds.itunerfree.watchkitapp",
+   "name": "myTuner Radio",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: myTuner Radio - Live Stations\n\nTweak: Subscription Unlocked\n\nVersion: 9.5.7\n\nNotes: restart app if subscription isnt active\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.5.7",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: myTuner Radio - Live Stations\n\nTweak: Subscription Unlocked\n\nVersion: 9.5.7\n\nNotes: restart app if subscription isnt active\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4c3a4856-8f92-4aa9-b350-bc2cf6585bd2/myTuner_Radio_-_Live_Stations-v9.5.7-riftysipas.ipa",
+     "size": 79592337
+    }
+   ]
+  }
+ ]
+}

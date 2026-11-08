@@ -1,0 +1,44 @@
+{
+ "name": "ByePhotos",
+ "identifier": "dev.perapp.com-panicbyte-byephotos",
+ "subtitle": "@Sa1y0miii | ByePhotos - Free Up Storage 🧸 Min.iOS: [17.0+] 🧀 App version: [2.9.3] !upd  🪼 App Store: https://apps.apple",
+ "description": "Single-app source for ByePhotos (com.panicbyte.byephotos). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10196.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.panicbyte.byephotos",
+   "name": "ByePhotos",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | ByePhotos - Free Up Storage 🧸 Min.iOS: [17.0+] 🧀 App version: [2.9.3] !upd  🪼 App Store: https://apps.apple.com/app/id6737446757 📮 Notes:",
+   "localizedDescription": "@Sa1y0miii | ByePhotos - Free Up Storage 🧸 Min.iOS: [17.0+] 🧀 App version: [2.9.3] !upd  🪼 App Store: https://apps.apple.com/app/id6737446757 📮 Notes:",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10196.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.12.1",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | ByePhotos - Free Up Storage 🧸 Min.iOS: [17.0+] 🧀 App version: [2.12.1] !upd  🪼 App Store: https://apps.apple.com/app/id6737446757 📮 Notes",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14208-%E2%80%8EByePhotos_v2.12.1_tg@Sa1y0miii.ipa",
+     "size": 42160726
+    },
+    {
+     "version": "2.12.0",
+     "date": "2026-10-11T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | ByePhotos - Free Up Storage 🧸 Min.iOS: [17.0+] 🧀 App version: [2.12.0] !upd  🪼 App Store: https://apps.apple.com/app/id6737446757 📮 Notes",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14091-%E2%80%8EByePhotos_v2.12.0_tg@Sa1y0miii.ipa",
+     "size": 42101392
+    },
+    {
+     "version": "2.11.0",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | ByePhotos - Free Up Storage 🧸 Min.iOS: [17.0+] 🧀 App version: [2.11.0] !upd  🪼 App Store: https://apps.apple.com/app/id6737446757 📮 Notes",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/11902-%E2%80%8EByePhotos_v2.11.0_tg@Sa1y0miii.ipa",
+     "size": 41720679
+    }
+   ]
+  }
+ ]
+}

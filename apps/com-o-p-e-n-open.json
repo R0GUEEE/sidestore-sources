@@ -1,0 +1,30 @@
+{
+ "name": "Open",
+ "identifier": "dev.perapp.com-o-p-e-n-open",
+ "subtitle": "Open",
+ "description": "Single-app source for Open (com.o-p-e-n.open). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.o-p-e-n.open.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.o-p-e-n.open",
+   "name": "Open",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.o-p-e-n.open.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.51",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Open_25.51_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 103384090
+    }
+   ]
+  }
+ ]
+}

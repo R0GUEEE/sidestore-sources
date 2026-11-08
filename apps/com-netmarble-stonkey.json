@@ -1,0 +1,37 @@
+{
+ "name": "StoneAge",
+ "identifier": "dev.perapp.com-netmarble-stonkey",
+ "subtitle": "ipaomtk.com | StoneAge: Idle Adventure – A Prehistoric Idle RPG Journey on iOS StoneAge: Idle Adventure transports playe",
+ "description": "Single-app source for StoneAge (com.netmarble.stonkey). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/StoneAge-Idle-Adventure-IPA-v1.00.01-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netmarble.stonkey",
+   "name": "StoneAge",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | StoneAge: Idle Adventure – A Prehistoric Idle RPG Journey on iOS StoneAge: Idle Adventure transports players to an imaginative prehistor",
+   "localizedDescription": "ipaomtk.com | StoneAge: Idle Adventure – A Prehistoric Idle RPG Journey on iOS StoneAge: Idle Adventure transports players to an imaginative prehistor",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/StoneAge-Idle-Adventure-IPA-v1.00.01-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.09.01",
+     "date": "2026-02-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | StoneAge: Idle Adventure – A Prehistoric Idle RPG Journey on iOS StoneAge: Idle Adventure transports players to an imaginative prehistor",
+     "downloadURL": "https://file.ipaomtk.com/stoneage-idle-adventure/StoneAge-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.07.00",
+     "date": "2026-02-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | StoneAge: Idle Adventure – A Prehistoric Idle RPG Journey on iOS StoneAge: Idle Adventure transports players to an imaginative prehistor",
+     "downloadURL": "https://file.ipaomtk.com/stoneage-idle-adventure/StoneAge-IPAOMTK.COM.ipa",
+     "size": 812189591
+    }
+   ]
+  }
+ ]
+}

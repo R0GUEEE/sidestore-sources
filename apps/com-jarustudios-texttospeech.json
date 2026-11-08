@@ -1,0 +1,37 @@
+{
+ "name": "Speechy",
+ "identifier": "dev.perapp.com-jarustudios-texttospeech",
+ "subtitle": "ipaomtk.com | Speechy text to speech reader on iOS Speechy text to speech reader on iOS is built to help users convert w",
+ "description": "Single-app source for Speechy (com.jarustudios.TextToSpeech). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Speechy-text-to-speech-reader-IPA-v1.0.271-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jarustudios.TextToSpeech",
+   "name": "Speechy",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Speechy text to speech reader on iOS Speechy text to speech reader on iOS is built to help users convert written content into spoken aud",
+   "localizedDescription": "ipaomtk.com | Speechy text to speech reader on iOS Speechy text to speech reader on iOS is built to help users convert written content into spoken aud",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Speechy-text-to-speech-reader-IPA-v1.0.271-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.271",
+     "date": "2026-01-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Speechy text to speech reader on iOS Speechy text to speech reader on iOS is built to help users convert written content into spoken aud",
+     "downloadURL": "https://file.ipaomtk.com/speechy-text-to-speech-reader/Speechy-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.311",
+     "date": "2026-01-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Speechy text to speech reader on iOS Speechy text to speech reader on iOS is built to help users convert written content into spoken aud",
+     "downloadURL": "https://file.ipaomtk.com/speechy-text-to-speech-reader/Speechy-IPAOMTK.COM.ipa",
+     "size": 25273516
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Universe",
+ "identifier": "dev.perapp.org-kurzgesagt-app-universe",
+ "subtitle": "ipaomtk.com | The Universe in a Nutshell IPA is an innovative and engaging app exclusively designed for iOS users. This ",
+ "description": "Single-app source for Universe (org.kurzgesagt.app.universe). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/artworks-RsXF5czoq6hh7Ery-GK8nOQ-t500x500-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "org.kurzgesagt.app.universe",
+   "name": "Universe",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Universe in a Nutshell IPA is an innovative and engaging app exclusively designed for iOS users. This app allows users to ⁤explore t",
+   "localizedDescription": "ipaomtk.com | The Universe in a Nutshell IPA is an innovative and engaging app exclusively designed for iOS users. This app allows users to ⁤explore t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/artworks-RsXF5czoq6hh7Ery-GK8nOQ-t500x500-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2023-10-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Universe in a Nutshell IPA is an innovative and engaging app exclusively designed for iOS users. This app allows users to ⁤explore t",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Universe-in-a-Nutshell.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Paid: Minecraft",
+ "identifier": "dev.perapp.com-unknown-paidminecraft",
+ "subtitle": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles.",
+ "description": "Single-app source for Paid: Minecraft (com.unknown.paidminecraft). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/32/f8/e6/32f8e65f-4979-da2a-1f27-0e51ab444ed4/source/100x100bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.paidminecraft",
+   "name": "Paid: Minecraft",
+   "developerName": "SamHub",
+   "subtitle": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles.",
+   "localizedDescription": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/32/f8/e6/32f8e65f-4979-da2a-1f27-0e51ab444ed4/source/100x100bb.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "auto-updates",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles.",
+     "downloadURL": "https://files.ipaspot.app/minecraft.ipa",
+     "size": 72351744
+    }
+   ]
+  }
+ ]
+}

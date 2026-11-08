@@ -1,0 +1,30 @@
+{
+ "name": "Myfitnesspal",
+ "identifier": "dev.perapp.com-myfitnesspal-mfp",
+ "subtitle": "Myfitnesspal",
+ "description": "Single-app source for Myfitnesspal (com.myfitnesspal.mfp). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.myfitnesspal.mfp",
+   "name": "Myfitnesspal",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.9.0",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Myfitnesspal_25.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 111927856
+    }
+   ]
+  }
+ ]
+}

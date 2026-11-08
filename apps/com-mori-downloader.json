@@ -1,0 +1,44 @@
+{
+ "name": "Mori",
+ "identifier": "dev.perapp.com-mori-downloader",
+ "subtitle": "Client-side media downloader App and CLI built with Capacitor and Node.js",
+ "description": "Single-app source for Mori (com.mori.downloader). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mori.downloader.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mori.downloader",
+   "name": "Mori",
+   "developerName": "coflyn",
+   "subtitle": "Client-side media downloader App and CLI built with Capacitor and Node.js",
+   "localizedDescription": "Save and download videos, photos, and music from 16 platforms. No watermarks. No accounts. No tracking. Everything stays on your device.\n\n📋 Table of Contents:\n\n• How to Use.\n\n• Mori CLI (Terminal).\n\n• Supported Platforms & Scraper Engines.\n• For Developers & Building from Source.\n• Scraper Architecture.\n\nSaving media with Mori takes only three simple steps:\n\n• Copy Link: Copy any video, photo, or music link from your favorite app (TikTok, Instagram, YouTube, Spotify, etc.).\n\n📥 Download & Installation:\n\n📖 Need help installing or troubleshooting? Read the complete Installation, Sideloading & User Guide (GUIDE.md).\n\n💡 Why Desktop GUI Deleted? Desktop GUI builds (.dmg, .exe, .msi) previously built with Tauri have been retired and consolidated into the standalone Mori CLI (@coflyn/mori).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mori.downloader.png",
+   "tintColor": "#6058e8",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/coflyn/Mori@main/assets/1.webp",
+    "https://cdn.jsdelivr.net/gh/coflyn/Mori@main/assets/2.webp",
+    "https://cdn.jsdelivr.net/gh/coflyn/Mori@main/assets/3.webp",
+    "https://cdn.jsdelivr.net/gh/coflyn/Mori@main/assets/4.webp",
+    "https://cdn.jsdelivr.net/gh/coflyn/Mori@main/assets/5.webp"
+   ],
+   "versions": [
+    {
+     "version": "4.5.2",
+     "date": "2026-11-05T22:19:00Z",
+     "localizedDescription": "New Features & Enhancements:\n\n• Silent Shorts Normalization: Automatic canonicalization in batch analyzer (analyzeUrlSilent) ensuring queued YouTube Shorts links resolve reliably without manual URL editing.\n\nBug Fixes & Scraper Repairs:\n\n• Instagram FastDL Backend: Migrated backend to FastDL with automated token and expiry extraction (k_exp, k_token), direct embed fallback (/embed/captioned/), and InDown token caching.\n• Spotify Track & Cookie Persistence: Fixed session cookie loss across Spotimate endpoints, replaced fragile regex matching with DOMParser, and enabled instant direct MP3 link extraction.\n• Bilibili Shortlinks & Anime OGV: Added shortlink redirect resolver for b23.tv / bili.im, supported international bilibili.tv aid and OGV anime play/episode endpoints with OpenGraph fallback.\n\n• Pixiv Login-Wall Bypass: Added meta-preload-data fallback for age-restricted/login-walled posts, Ugoira MP4 conversion, and pixiv.re reverse-proxy thumbnail support.\n• Threads Extraction Fix: Fixed empty Cookie: \"\" header wiping request cookies during media extraction, added guarded shortlink redirect resolver, and expanded media selectors.\n\n• Pixiv Thumbnail Preview Header: Added Pixiv referer header in preview generator to eliminate 403 Forbidden errors when loading artwork thumbnails.\n\nPerformance & Reliability:\n\n• Desktop Tauri Retirement: Retired legacy desktop GUI builds (.dmg, .exe, .msi) and removed all residual src-tauri/ Rust backend files and build dependencies.",
+     "downloadURL": "https://github.com/coflyn/Mori/releases/download/v4.5.2/Mori-v4.5.2-iOS-Unsigned.ipa",
+     "size": 2099534
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "Unlock Mori to access your download history",
+     "NSPhotoLibraryAddUsageDescription": "Save downloaded videos and photos to your library",
+     "NSPhotoLibraryUsageDescription": "Save downloaded videos and photos to your library"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Hole it!",
+ "identifier": "dev.perapp.com-rocket-holeit",
+ "subtitle": "@ipa_dark | 🔄 Hole It 3D - appstore  🇷🇺 Казуальная аркада, где нужно управлять движущейся лункой, поглощать объекты, реш",
+ "description": "Single-app source for Hole it! (com.rocket.holeit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1607.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rocket.holeit",
+   "name": "Hole it!",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Hole It 3D - appstore  🇷🇺 Казуальная аркада, где нужно управлять движущейся лункой, поглощать объекты, решать простые задачи и проходить",
+   "localizedDescription": "@ipa_dark | 🔄 Hole It 3D - appstore  🇷🇺 Казуальная аркада, где нужно управлять движущейся лункой, поглощать объекты, решать простые задачи и проходить",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1607.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.27.18",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Hole It 3D - appstore  🇷🇺 Казуальная аркада, где нужно управлять движущейся лункой, поглощать объекты, решать простые задачи и проходить",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1607-Hole%20it%21%20%5Bv1.27.18%5D%28tg@ipa_dark%29.ipa",
+     "size": 272602252
+    }
+   ]
+  }
+ ]
+}

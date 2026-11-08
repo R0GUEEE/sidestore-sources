@@ -1,0 +1,44 @@
+{
+ "name": "Stay",
+ "identifier": "dev.perapp.com-dajiu-stay-pro",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Stay (com.dajiu.stay.pro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dajiu.stay.pro",
+   "name": "Stay",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dajiu.stay.pro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.24",
+     "date": "2026-09-01T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Stay_2.9.24_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 40138437
+    },
+    {
+     "version": "2.9.22",
+     "date": "2026-08-17T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/Stay_2.9.22_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 40138309
+    },
+    {
+     "version": "2.9.16",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Stay_2.9.16_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 38300786
+    }
+   ]
+  }
+ ]
+}

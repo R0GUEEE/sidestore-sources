@@ -1,0 +1,30 @@
+{
+ "name": "Chimera",
+ "identifier": "dev.perapp.com-electrateam-chimera",
+ "subtitle": "Jailbreak iOS 12.2 - 12.5.7 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Chimera (com.electrateam.chimera). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/Chimera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.electrateam.chimera",
+   "name": "Chimera",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Jailbreak iOS 12.2 - 12.5.7 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Jailbreak iOS 12.2 - 12.5.7 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/Chimera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.5",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Jailbreak iOS 12.2 - 12.5.7 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://raw.githubusercontent.com/coolstar/electra-ipas/master/chimera/1.6.5-12.2-12.5.ipa",
+     "size": 34432344
+    }
+   ]
+  }
+ ]
+}

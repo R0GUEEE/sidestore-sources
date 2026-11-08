@@ -1,0 +1,37 @@
+{
+ "name": "UberEats",
+ "identifier": "dev.perapp.com-ubercab-ubereats",
+ "subtitle": "Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Sto",
+ "description": "Single-app source for UberEats (com.ubercab.UberEats). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ubercab.UberEats.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ubercab.UberEats",
+   "name": "UberEats",
+   "developerName": "N/A",
+   "subtitle": "Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Store Last updated: 10-26-2022 St",
+   "localizedDescription": "Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Store Last updated: 10-26-2022 St",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ubercab.UberEats.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Store Last updated: 10-26-2022 St",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/UberEats.ipa",
+     "size": 86639490
+    },
+    {
+     "version": "6.114.10001",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Uber Eats for iOS 14.x. Personally decrypted for anyone who runs into the \"Minimum iOS x required\" banner in the App Store Last updated: 10-26-2022 St",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/UberEats.ipa",
+     "size": 86639490
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "TheMarker_Heb_Unlocked",
+ "identifier": "dev.perapp.com-haaretz-themarker",
+ "subtitle": "Hebrew-language daily business news",
+ "description": "Single-app source for TheMarker_Heb_Unlocked (com.haaretz.TheMarker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TheMarker_Heb_Unlocked.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.haaretz.TheMarker",
+   "name": "TheMarker_Heb_Unlocked",
+   "developerName": "TheMarker_Heb_Unlocked x CyPwn",
+   "subtitle": "Hebrew-language daily business news",
+   "localizedDescription": "Hebrew-language daily business news",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TheMarker_Heb_Unlocked.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.52",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Hebrew-language daily business news",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TheMarker_Heb_Unlocked.ipa",
+     "size": 17490247
+    }
+   ]
+  }
+ ]
+}

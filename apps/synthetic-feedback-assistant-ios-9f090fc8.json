@@ -1,0 +1,30 @@
+{
+ "name": "Feedback Assistant iOS",
+ "identifier": "dev.perapp.synthetic-feedback-assistant-ios-9f090fc8",
+ "subtitle": "Feedback Assistant iOS by Apple",
+ "description": "Single-app source for Feedback Assistant iOS (synthetic.feedback-assistant-ios.9f090fc8). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://media.discordapp.net/attachments/1279964710522982440/1281808018744541224/IMG_6407.png?ex=66dd103e&is=66dbbebe&hm=c9f1cee30b742ee50d94e9db7eae5e1cf85c21d80c67fe19e192981fed6936f4&=&format=webp&quality=lossless",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.feedback-assistant-ios.9f090fc8",
+   "name": "Feedback Assistant iOS",
+   "developerName": "Apple",
+   "subtitle": "",
+   "localizedDescription": "Feedback Assistant iOS is an iOS app for reporting bugs and feedback to Apple.",
+   "iconURL": "https://media.discordapp.net/attachments/1279964710522982440/1281808018744541224/IMG_6407.png?ex=66dd103e&is=66dbbebe&hm=c9f1cee30b742ee50d94e9db7eae5e1cf85c21d80c67fe19e192981fed6936f4&=&format=webp&quality=lossless",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-09-06T00:00:00Z",
+     "localizedDescription": "Feedback Assistant iOS is an iOS app for reporting bugs and feedback to Apple.",
+     "downloadURL": "https://raw.githubusercontent.com/YourName028/System-Apps/main/Feedback%20Assistant%20iOS.ipa",
+     "size": 1540130
+    }
+   ]
+  }
+ ]
+}

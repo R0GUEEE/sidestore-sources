@@ -1,0 +1,30 @@
+{
+ "name": "GTA Vice City VH",
+ "identifier": "dev.perapp.com-rockstargames-gta3vc",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for GTA Vice City VH (com.rockstargames.gta3vc). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVC.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.gta3vc",
+   "name": "GTA Vice City VH",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: Việt Hóa - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVC.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.6",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: Việt Hóa - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/GTA.Vice.City_1.5.6_VH_TTJB.ipa",
+     "size": 924589971
+    }
+   ]
+  }
+ ]
+}

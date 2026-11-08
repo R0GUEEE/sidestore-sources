@@ -1,0 +1,30 @@
+{
+ "name": "Townscaper (paid app)",
+ "identifier": "dev.perapp.com-rawfury-townscaper",
+ "subtitle": "Townscaper (paid app) by sidelix",
+ "description": "Single-app source for Townscaper (paid app) (com.rawfury.townscaper). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a5e178158aae.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rawfury.townscaper",
+   "name": "Townscaper (paid app)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Build quaint island towns with curvy streets. Build small hamlets, soaring cathedrals, canal networks, or sky cities on stilts. Block by block.\r\n\r\nNo goal. No real gameplay. Just plenty of building and plenty of beauty. That's it.\r\n\r\nTownscaper is an experimental passion project. More of a toy than a game. Pick colors from the palette, plop down colored blocks of house on the irregular grid, and watch Townscaper's underlying algorithm automatically turn those blocks into cute little houses, arches, stairways, bridges and lush backyards, depending on their configuration.",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a5e178158aae.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.04",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Build quaint island towns with curvy streets. Build small hamlets, soaring cathedrals, canal networks, or sky cities on stilts. Block by block.\r\n\r\nNo goal. No real gameplay. Just plenty of building and plenty of beauty. That's it.\r\n\r\nTownscaper is an experimental passion project. More of a toy than a game. Pick colors from the palette, plop down colored blocks of house on the irregular grid, and watch Townscaper's underlying algorithm automatically turn those blocks into cute little houses, arches, stairways, bridges and lush backyards, depending on their configuration.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2099",
+     "size": 31699904
+    }
+   ]
+  }
+ ]
+}

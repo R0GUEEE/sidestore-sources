@@ -1,0 +1,30 @@
+{
+ "name": "Spiik",
+ "identifier": "dev.perapp.io-fadel-spiik",
+ "subtitle": "Spiik",
+ "description": "Single-app source for Spiik (io.fadel.Spiik). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.Spiik.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.fadel.Spiik",
+   "name": "Spiik",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.Spiik.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.111",
+     "date": "2025-12-31T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-12-2025/Spiik_1.0.111_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 20621121
+    }
+   ]
+  }
+ ]
+}

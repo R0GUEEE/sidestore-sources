@@ -1,0 +1,30 @@
+{
+ "name": "YPT",
+ "identifier": "dev.perapp.com-pallo-passiontimerscoped",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for YPT (com.pallo.passionTimerScoped). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pallo.passionTimerScoped",
+   "name": "YPT",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "800.0.40",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2025/YPT_800.0.40_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 177245046
+    }
+   ]
+  }
+ ]
+}

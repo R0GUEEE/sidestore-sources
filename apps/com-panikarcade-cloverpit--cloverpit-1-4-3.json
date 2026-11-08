@@ -1,0 +1,37 @@
+{
+ "name": "CloverPit-1.4.3",
+ "identifier": "dev.perapp.com-panikarcade-cloverpit",
+ "subtitle": "A rogue-lite slot machine nightmare",
+ "description": "Single-app source for CloverPit-1.4.3 (com.PanikArcade.CloverPit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/CloverPit-1.4.3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.PanikArcade.CloverPit",
+   "name": "CloverPit-1.4.3",
+   "developerName": "CloverPit-1.4.3 x CyPwn",
+   "subtitle": "A rogue-lite slot machine nightmare",
+   "localizedDescription": "A rogue-lite slot machine nightmare",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/CloverPit-1.4.3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.8",
+     "date": "2026-09-17T00:00:00Z",
+     "localizedDescription": "A rogue-lite slot machine nightmare",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
+     "size": 146328780
+    },
+    {
+     "version": "1.4.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "A rogue-lite slot machine nightmare",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.3.ipa",
+     "size": 145888378
+    }
+   ]
+  }
+ ]
+}

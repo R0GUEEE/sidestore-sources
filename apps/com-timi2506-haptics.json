@@ -1,0 +1,37 @@
+{
+ "name": "Haptics",
+ "identifier": "dev.perapp.com-timi2506-haptics",
+ "subtitle": "Haptics is a simple little App to Test Haptics available with the Swift Package \"HapticEase\" and create + copy code for ",
+ "description": "Single-app source for Haptics (com.timi2506.Haptics). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/Haptics.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.timi2506.Haptics",
+   "name": "Haptics",
+   "developerName": "timi2506",
+   "subtitle": "Haptics is a simple little App to Test Haptics available with the Swift Package \"HapticEase\" and create + copy code for it with ease, it also has a qu",
+   "localizedDescription": "Haptics is a simple little App to Test Haptics available with the Swift Package \"HapticEase\" and create + copy code for it with ease, it also has a qu",
+   "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/Haptics.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "Haptics is a simple little App to Test Haptics available with the Swift Package \"HapticEase\" and create + copy code for it with ease, it also has a qu",
+     "downloadURL": "https://github.com/timi2506/swiftui-haptics-helper/releases/download/1.0.0/haptics-1.0.0.ipa",
+     "size": 3770000
+    },
+    {
+     "version": "1.0",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "Haptics is a simple little App to Test Haptics available with the Swift Package \"HapticEase\" and create + copy code for it with ease, it also has a qu",
+     "downloadURL": "https://github.com/timi2506/swiftui-haptics-helper/releases/download/1.0.0/haptics-1.0.0.ipa",
+     "size": 3957713
+    }
+   ]
+  }
+ ]
+}

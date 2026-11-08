@@ -1,0 +1,30 @@
+{
+ "name": "Vood Cinema",
+ "identifier": "dev.perapp.com-sinosig-ybapp",
+ "subtitle": "ipaomtk.com | Vood Cinema IPA is a fantastic application designed for iOS users seeking unlimited access to a wide range",
+ "description": "Single-app source for Vood Cinema (com.sinosig.ybapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/09/download-vood-cinema-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sinosig.ybapp",
+   "name": "Vood Cinema",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Vood Cinema IPA is a fantastic application designed for iOS users seeking unlimited access to a wide range of movies and TV shows. With ",
+   "localizedDescription": "ipaomtk.com | Vood Cinema IPA is a fantastic application designed for iOS users seeking unlimited access to a wide range of movies and TV shows. With ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/09/download-vood-cinema-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.6",
+     "date": "2023-09-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Vood Cinema IPA is a fantastic application designed for iOS users seeking unlimited access to a wide range of movies and TV shows. With ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Vood-Cinema.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

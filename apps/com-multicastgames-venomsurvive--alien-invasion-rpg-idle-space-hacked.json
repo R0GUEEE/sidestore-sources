@@ -1,0 +1,30 @@
+{
+ "name": "Alien Invasion: RPG Idle Space (hacked)",
+ "identifier": "dev.perapp.com-multicastgames-venomsurvive",
+ "subtitle": "Alien Invasion: RPG Idle Space (hacked) by sidelix",
+ "description": "Single-app source for Alien Invasion: RPG Idle Space (hacked) (com.multicastgames.venomSurvive). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a2ee57492c9b.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.multicastgames.venomSurvive",
+   "name": "Alien Invasion: RPG Idle Space (hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Features:\r\n\r\n- in app purchase\r\n- Sideloading bypass\r\n\r\nWarning: can buy everything but the subscription also after every purchase make sure to restart the app",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a2ee57492c9b.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.41.00",
+     "date": "2026-06-14T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- in app purchase\r\n- Sideloading bypass\r\n\r\nWarning: can buy everything but the subscription also after every purchase make sure to restart the app",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2058",
+     "size": 169791600
+    }
+   ]
+  }
+ ]
+}

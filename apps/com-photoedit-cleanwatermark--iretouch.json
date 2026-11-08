@@ -1,0 +1,44 @@
+{
+ "name": "iRetouch",
+ "identifier": "dev.perapp.com-photoedit-cleanwatermark",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for iRetouch (com.photoedit.cleanwatermark). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoedit.cleanwatermark.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.photoedit.cleanwatermark",
+   "name": "iRetouch",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoedit.cleanwatermark.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.14",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-12-2025/iRetouch_2.14_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 43213959
+    },
+    {
+     "version": "2.15",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-05-2026/iRetouch_2.15_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 239998884
+    },
+    {
+     "version": "1.9",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Photo Retouch IPA MOD v1.9 is a powerful mobile application that offers advanced photo editing features for users to enhance their perso",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PhotoRetouch.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

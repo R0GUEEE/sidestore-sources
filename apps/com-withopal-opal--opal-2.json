@@ -1,0 +1,44 @@
+{
+ "name": "Opal",
+ "identifier": "dev.perapp.com-withopal-opal",
+ "subtitle": "Opal",
+ "description": "Single-app source for Opal (com.withopal.opal). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.withopal.opal.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.withopal.opal",
+   "name": "Opal",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.withopal.opal.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.2",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1545",
+     "size": 172540940
+    },
+    {
+     "version": "3.145",
+     "date": "2026-01-20T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Opal_3.145_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 165908893
+    },
+    {
+     "version": "3.142",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Opal_3.142_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 159317797
+    }
+   ]
+  }
+ ]
+}

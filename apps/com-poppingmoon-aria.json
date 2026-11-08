@@ -1,0 +1,40 @@
+{
+ "name": "Aria",
+ "identifier": "dev.perapp.com-poppingmoon-aria",
+ "subtitle": "A cross-platform Misskey client built with Flutter",
+ "description": "Single-app source for Aria (com.poppingmoon.aria). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6a90bf",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.poppingmoon.aria.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.poppingmoon.aria",
+   "name": "Aria",
+   "developerName": "poppingmoon",
+   "subtitle": "A cross-platform Misskey client built with Flutter",
+   "localizedDescription": "Aria:\n\nA Misskey client app forked from Miria.\n\nIcon:\n\nThe icon of Aria was created@voskey.icalo.net and.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.poppingmoon.aria.png",
+   "tintColor": "#6a90bf",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.16",
+     "date": "2026-11-03T23:29:07Z",
+     "localizedDescription": "• ci: add GitHub Actions workflow lockfile.\n• fix: validate Bluesky embed.\n• fix: disable scrolling fields section of profile page.\n• refactor: load font list when needed.\n• refactor: remove excludeRemoveNullPredicate.\n• chore: set User-Agent header.\n• fix: reject non-finite numbers in safeParseDouble.\n• fix: use yes/no labels for cancel follow request confirmation.\n• fix: use startDecode to get GIF info.\n• fix: correct withReplies parameter in timeline stream.",
+     "downloadURL": "https://github.com/poppingmoon/aria/releases/download/v1.5.16/aria-v1.5.16.ipa",
+     "size": 53394087
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "To take photos or videos, please allow access to your camera.",
+     "NSMicrophoneUsageDescription": "To record audio files, please allow access to your microphone.",
+     "NSMotionUsageDescription": "To detect orientation of the device, please allow access to your sensor.",
+     "NSPhotoLibraryAddUsageDescription": "To download files, please allow access to your photo library.",
+     "NSPhotoLibraryUsageDescription": "To upload files, please allow access to your photo library."
+    }
+   }
+  }
+ ]
+}

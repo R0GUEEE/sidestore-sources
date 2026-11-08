@@ -1,0 +1,30 @@
+{
+ "name": "Carrion (hacked)",
+ "identifier": "dev.perapp.com-devolverdigital-carrion",
+ "subtitle": "Carrion (hacked) by sidelix",
+ "description": "Single-app source for Carrion (hacked) (com.devolverdigital.carrion). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a2efeda11347.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devolverdigital.carrion",
+   "name": "Carrion (hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Features:\r\n\r\n- in app purchase\r\n- Sideloading bypass\r\n\r\nWarning: can buy everything but the subscription also after every purchase make sure to restart the app",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a2efeda11347.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5",
+     "date": "2026-06-14T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- in app purchase\r\n- Sideloading bypass\r\n\r\nWarning: can buy everything but the subscription also after every purchase make sure to restart the app",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2061",
+     "size": 123460892
+    }
+   ]
+  }
+ ]
+}

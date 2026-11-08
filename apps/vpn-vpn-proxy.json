@@ -1,0 +1,30 @@
+{
+ "name": "VPNPremium",
+ "identifier": "dev.perapp.vpn-vpn-proxy",
+ "subtitle": "Removed from the repo: Deprecated. Last updated: 12-19-2023 Status: ❌",
+ "description": "Single-app source for VPNPremium (vpn.vpn.proxy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/vpn.vpn.proxy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "vpn.vpn.proxy",
+   "name": "VPNPremium",
+   "developerName": "HertzSign iPA Library",
+   "subtitle": "Removed from the repo: Deprecated. Last updated: 12-19-2023 Status: ❌",
+   "localizedDescription": "Removed from the repo: Deprecated. Last updated: 12-19-2023 Status: ❌",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/vpn.vpn.proxy.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.17",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Removed from the repo: Deprecated. Last updated: 12-19-2023 Status: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/VPNPremium/VPNPremium-3.17.ipa",
+     "size": 53032655
+    }
+   ]
+  }
+ ]
+}

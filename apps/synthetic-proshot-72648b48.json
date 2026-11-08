@@ -1,0 +1,30 @@
+{
+ "name": "ProShot",
+ "identifier": "dev.perapp.synthetic-proshot-72648b48",
+ "subtitle": "ProShot by Karbin-Store",
+ "description": "Single-app source for ProShot (synthetic.proshot.72648b48). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ProShot.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.proshot.72648b48",
+   "name": "ProShot",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دای بەزێنە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ProShot.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.4.3",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دای بەزێنە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/ProShot_9.4.3_DEV.ipa",
+     "size": 14010000
+    }
+   ]
+  }
+ ]
+}

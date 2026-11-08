@@ -1,0 +1,30 @@
+{
+ "name": "MDScan",
+ "identifier": "dev.perapp.com-mixaimaging-mdscan",
+ "subtitle": "ipaomtk.com | MDScan IPA v3.8.35 is a powerful OCR (Optical Character Recognition) app designed for iOS devices, transfo",
+ "description": "Single-app source for MDScan (com.mixaimaging.MDScan). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/MDScan-OCR-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mixaimaging.MDScan",
+   "name": "MDScan",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MDScan IPA v3.8.35 is a powerful OCR (Optical Character Recognition) app designed for iOS devices, transforming the way users capture an",
+   "localizedDescription": "ipaomtk.com | MDScan IPA v3.8.35 is a powerful OCR (Optical Character Recognition) app designed for iOS devices, transforming the way users capture an",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/MDScan-OCR-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.35",
+     "date": "2024-12-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MDScan IPA v3.8.35 is a powerful OCR (Optical Character Recognition) app designed for iOS devices, transforming the way users capture an",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MDScan-OCR-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

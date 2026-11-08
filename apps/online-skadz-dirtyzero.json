@@ -1,0 +1,30 @@
+{
+ "name": "dirtyZero",
+ "identifier": "dev.perapp.online-skadz-dirtyzero",
+ "subtitle": "dirtyZero by Holloway",
+ "description": "Single-app source for dirtyZero (online.skadz.dirtyZero). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://i.imgur.com/KSSr4ML.png",
+ "apps": [
+  {
+   "bundleIdentifier": "online.skadz.dirtyZero",
+   "name": "dirtyZero",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Enhanced version of dirtyZero with premium features unlocked.",
+   "iconURL": "https://i.imgur.com/KSSr4ML.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.5",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Enhanced version of dirtyZero with premium features unlocked.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1631",
+     "size": 549020
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Guns Up",
+ "identifier": "dev.perapp.com-unknown-gunsup",
+ "subtitle": "Hack Features",
+ "description": "Single-app source for Guns Up (com.unknown.gunsup). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Guns.Up.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.gunsup",
+   "name": "Guns Up",
+   "developerName": "Karbin-Store",
+   "subtitle": "Hack Features",
+   "localizedDescription": "Hack Features",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Guns.Up.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.13.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Hack Features",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Guns.Up.1.13.0.ipa",
+     "size": 300210000
+    },
+    {
+     "version": "1.31.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Hack Features",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Guns.Up.1.13.0.ipa",
+     "size": 314819428
+    }
+   ]
+  }
+ ]
+}

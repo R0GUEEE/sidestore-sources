@@ -1,0 +1,30 @@
+{
+ "name": "DolphiniOS Non-JIT",
+ "identifier": "dev.perapp.com-brand175-dolphinios-njb",
+ "subtitle": "use this if you want to play laggy wii sports",
+ "description": "Single-app source for DolphiniOS Non-JIT (com.brand175.DolphiniOS-njb). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.brand175.DolphiniOS-njb",
+   "name": "DolphiniOS Non-JIT",
+   "developerName": "OatmealDome",
+   "subtitle": "use this if you want to play laggy wii sports",
+   "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.1",
+     "date": "2024-10-25T00:00:00Z",
+     "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version does not need JIT but its 'abit' laggy).\n\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/Dolphini_OS_No_JIT-xI.ipa",
+     "size": 16043212
+    }
+   ]
+  }
+ ]
+}

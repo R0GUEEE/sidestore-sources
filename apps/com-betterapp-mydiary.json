@@ -1,0 +1,30 @@
+{
+ "name": "mydiary-ipaomtk.com",
+ "identifier": "dev.perapp.com-betterapp-mydiary",
+ "subtitle": "ipaomtk.com | the risk of losing or misplacing your private thoughts is a constant concern. Introducing the My Diary Jou",
+ "description": "Single-app source for mydiary-ipaomtk.com (com.betterapp.mydiary). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-23-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.betterapp.mydiary",
+   "name": "mydiary-ipaomtk.com",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | the risk of losing or misplacing your private thoughts is a constant concern. Introducing the My Diary Journal with Lock IPA App – a rev",
+   "localizedDescription": "ipaomtk.com | the risk of losing or misplacing your private thoughts is a constant concern. Introducing the My Diary Journal with Lock IPA App – a rev",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-23-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.7",
+     "date": "2024-09-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | the risk of losing or misplacing your private thoughts is a constant concern. Introducing the My Diary Journal with Lock IPA App – a rev",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Mydiary-ipaomtk.com_2.6.7.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

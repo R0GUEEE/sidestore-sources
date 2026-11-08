@@ -1,0 +1,45 @@
+{
+ "name": "StikNES",
+ "identifier": "dev.perapp.com-stik-stiknes",
+ "subtitle": "SwiftUI NES Emulator for iOS",
+ "description": "Single-app source for StikNES (com.stik.StikNES). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "293B45",
+ "iconURL": "https://github.com/StikEMU/StikNES-Site/blob/main/Website/logo.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stik.StikNES",
+   "name": "StikNES",
+   "developerName": "StikNES Team",
+   "subtitle": "SwiftUI NES Emulator for iOS",
+   "localizedDescription": "StikNES is a SwiftUI-based NES emulator designed for iOS devices. It leverages the power of SwiftUI to deliver a clean, modern interface while emulating the classic NES gaming experience using the nes-rust library.",
+   "iconURL": "https://github.com/StikEMU/StikNES-Site/blob/main/Website/logo.png?raw=true",
+   "tintColor": "293B45",
+   "screenshots": [
+    "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot1.png?raw=true",
+    "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot2.png?raw=true",
+    "https://github.com/StikEMU/StikNES-Site/blob/main/Website/screenshot3.png?raw=true"
+   ],
+   "versions": [
+    {
+     "version": "5.2",
+     "date": "2025-02-22T21:37:29-05:00Z",
+     "localizedDescription": "StikNES Comes to Sidestore!",
+     "downloadURL": "https://github.com/StikEMU/StikNES-2.0/releases/download/v2.0.2/StikNES.ipa",
+     "size": 490000
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.developer.sustained-execution",
+     "com.apple.developer.kernel.extended-virtual-addressing",
+     "com.apple.developer.kernel.increased-memory-limit"
+    ],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "The guest app is requesting for this permission.",
+     "NSPhotoLibraryUsageDescription": "The guest app is requesting for this permission."
+    }
+   }
+  }
+ ]
+}

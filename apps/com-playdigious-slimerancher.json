@@ -1,0 +1,30 @@
+{
+ "name": "Slime Rancher",
+ "identifier": "dev.perapp.com-playdigious-slimerancher",
+ "subtitle": "@ipa_dark | 🔄 Slime Rancher - appstore  🇷🇺 Приключенческий симулятор с элементами фермерства, где нужно исследовать иноп",
+ "description": "Single-app source for Slime Rancher (com.playdigious.slimerancher). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1664.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playdigious.slimerancher",
+   "name": "Slime Rancher",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Slime Rancher - appstore  🇷🇺 Приключенческий симулятор с элементами фермерства, где нужно исследовать инопланетный мир, ловить и разводи",
+   "localizedDescription": "@ipa_dark | 🔄 Slime Rancher - appstore  🇷🇺 Приключенческий симулятор с элементами фермерства, где нужно исследовать инопланетный мир, ловить и разводи",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1664.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2026-08-22T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Slime Rancher - appstore  🇷🇺 Приключенческий симулятор с элементами фермерства, где нужно исследовать инопланетный мир, ловить и разводи",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1664-Slime%20Rancher%20%5Bv1.0.5%5D%28tg@ipa_dark%29.ipa",
+     "size": 509499786
+    }
+   ]
+  }
+ ]
+}

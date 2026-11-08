@@ -1,0 +1,37 @@
+{
+ "name": "GPTalk",
+ "identifier": "dev.perapp.labs-mehmet-gptalk",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for GPTalk (labs.mehmet.gptalk). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/labs.mehmet.gptalk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "labs.mehmet.gptalk",
+   "name": "GPTalk",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/labs.mehmet.gptalk.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.3",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-12-2025/GPTalk_1.9.3_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 96129956
+    },
+    {
+     "version": "1.9.9",
+     "date": "2025-08-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction — Meet Aido, Your Mobile AI Assistant Aido IPA, marketed as Ask AI Anything, is an AI assistant app on iOS that aims to mak",
+     "downloadURL": "https://file.ipaomtk.com/ask-ai-anything-aido/Ask-AI-Anything-Aido-IPAOMTK.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

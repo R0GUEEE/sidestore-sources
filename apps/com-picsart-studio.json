@@ -1,0 +1,30 @@
+{
+ "name": "Picsart",
+ "identifier": "dev.perapp.com-picsart-studio",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for Picsart (com.picsart.studio). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.picsart.studio",
+   "name": "Picsart",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "30.7.2",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Picsart_30.7.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 118301946
+    }
+   ]
+  }
+ ]
+}

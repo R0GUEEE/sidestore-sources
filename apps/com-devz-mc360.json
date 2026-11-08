@@ -1,0 +1,30 @@
+{
+ "name": "MCX360 Edition",
+ "identifier": "dev.perapp.com-devz-mc360",
+ "subtitle": "MCX360 Edition: Minecraft: Xbox 360 Edition for iPhone:  A native iOS port of Minecraft: Xbox 360 Edition (Title Update ",
+ "description": "Single-app source for MCX360 Edition (com.devz.mc360). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.mc360.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.mc360",
+   "name": "MCX360 Edition",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "MCX360 Edition: Minecraft: Xbox 360 Edition for iPhone:  A native iOS port of Minecraft: Xbox 360 Edition (Title Update 9), built with the ReXGlue sta",
+   "localizedDescription": "MCX360 Edition: Minecraft: Xbox 360 Edition for iPhone:  A native iOS port of Minecraft: Xbox 360 Edition (Title Update 9), built with the ReXGlue sta\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.mc360.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "MCX360 Edition: Minecraft: Xbox 360 Edition for iPhone:  A native iOS port of Minecraft: Xbox 360 Edition (Title Update 9), built with the ReXGlue sta",
+     "downloadURL": "https://github.com/DevZer0D4Y/MCX360-EDITION/releases/download/R2/MCX360Edition.ipa",
+     "size": 27602175
+    }
+   ]
+  }
+ ]
+}

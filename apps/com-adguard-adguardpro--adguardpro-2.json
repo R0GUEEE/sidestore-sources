@@ -1,0 +1,30 @@
+{
+ "name": "AdguardPro",
+ "identifier": "dev.perapp.com-adguard-adguardpro",
+ "subtitle": "AdguardPro",
+ "description": "Single-app source for AdguardPro (com.adguard.AdguardPro). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardPro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adguard.AdguardPro",
+   "name": "AdguardPro",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardPro.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.8",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-01-2025/AdguardPro_4.5.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 32315466
+    }
+   ]
+  }
+ ]
+}

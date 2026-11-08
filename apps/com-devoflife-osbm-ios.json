@@ -1,0 +1,30 @@
+{
+ "name": "OpenStarbound",
+ "identifier": "dev.perapp.com-devoflife-osbm-ios",
+ "subtitle": "You must own a copy of Starbound. Base game assets are not provided for very obvious reasons.  The code is worked on whe",
+ "description": "Single-app source for OpenStarbound (com.devoflife.osbm.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devoflife.osbm.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devoflife.osbm.ios",
+   "name": "OpenStarbound",
+   "developerName": "RohanBhattacharyya",
+   "subtitle": "You must own a copy of Starbound. Base game assets are not provided for very obvious reasons.  The code is worked on whenever I have the spare time. C",
+   "localizedDescription": "You must own a copy of Starbound. Base game assets are not provided for very obvious reasons.  The code is worked on whenever I have the spare time. C\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devoflife.osbm.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "You must own a copy of Starbound. Base game assets are not provided for very obvious reasons.  The code is worked on whenever I have the spare time. C",
+     "downloadURL": "https://github.com/RohanBhattacharyya/oSBM/releases/download/v1.1/oSBM-1.1-ios.ipa",
+     "size": 22772894
+    }
+   ]
+  }
+ ]
+}

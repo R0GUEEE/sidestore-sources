@@ -1,0 +1,30 @@
+{
+ "name": "Photoroom",
+ "identifier": "dev.perapp.com-dr1ven-eraser",
+ "subtitle": "Photoroom",
+ "description": "Single-app source for Photoroom (com.dr1ven.eraser). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dr1ven.eraser",
+   "name": "Photoroom",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.28.01",
+     "date": "2026-07-07T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/Photoroom_2026.28.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 182084521
+    }
+   ]
+  }
+ ]
+}

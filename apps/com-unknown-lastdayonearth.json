@@ -1,0 +1,30 @@
+{
+ "name": "Last Day On Earth",
+ "identifier": "dev.perapp.com-unknown-lastdayonearth",
+ "subtitle": "یاریەکی پڕ لە چێژ و خۆشی دەتوانی تاقی بکەیتەوە، زۆرترین مۆدی تێدایە یاریەکە",
+ "description": "Single-app source for Last Day On Earth (com.unknown.lastdayonearth). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Last.Day.On.Earth.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.lastdayonearth",
+   "name": "Last Day On Earth",
+   "developerName": "Karbin-Store",
+   "subtitle": "یاریەکی پڕ لە چێژ و خۆشی دەتوانی تاقی بکەیتەوە، زۆرترین مۆدی تێدایە یاریەکە",
+   "localizedDescription": "یاریەکی پڕ لە چێژ و خۆشی دەتوانی تاقی بکەیتەوە، زۆرترین مۆدی تێدایە یاریەکە",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Last.Day.On.Earth.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.31.0",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "یاریەکی پڕ لە چێژ و خۆشی دەتوانی تاقی بکەیتەوە، زۆرترین مۆدی تێدایە یاریەکە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/karbin-ipa/Last.Day.On.Earth_.Survival.-.v1.31.0.ipa",
+     "size": 817880000
+    }
+   ]
+  }
+ ]
+}

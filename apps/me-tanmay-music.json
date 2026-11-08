@@ -1,0 +1,37 @@
+{
+ "name": "Soor",
+ "identifier": "dev.perapp.me-tanmay-music",
+ "subtitle": "Best way for scrobbling apple music streams to last.fm. Last updated: 03-07-2024 Status: ✅ ⭐",
+ "description": "Single-app source for Soor (me.tanmay.Music). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.tanmay.Music",
+   "name": "Soor",
+   "developerName": "Starfiles / AppDB",
+   "subtitle": "Best way for scrobbling apple music streams to last.fm. Last updated: 03-07-2024 Status: ✅ ⭐",
+   "localizedDescription": "Best way for scrobbling apple music streams to last.fm. Last updated: 03-07-2024 Status: ✅ ⭐",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.tanmay.Music.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.2",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Best way for scrobbling apple music streams to last.fm. Last updated: 03-07-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-03-2023/Soor-3.0.2.ipa",
+     "size": 39246200
+    },
+    {
+     "version": "3.0.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Best way for scrobbling apple music streams to last.fm. Last updated: 03-07-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-12-2022/Soor-3.0.1.ipa",
+     "size": 41540016
+    }
+   ]
+  }
+ ]
+}

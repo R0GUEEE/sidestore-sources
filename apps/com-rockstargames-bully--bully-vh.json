@@ -1,0 +1,30 @@
+{
+ "name": "Bully VH",
+ "identifier": "dev.perapp.com-rockstargames-bully",
+ "subtitle": "Việt Hóa. Vào cài đặt bấm liên tục vào phần ngôn ngữ cho đến khi hiển thị Tiếng Việt",
+ "description": "Single-app source for Bully VH (com.rockstargames.bully). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/Bully.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.bully",
+   "name": "Bully VH",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Việt Hóa. Vào cài đặt bấm liên tục vào phần ngôn ngữ cho đến khi hiển thị Tiếng Việt",
+   "localizedDescription": "Chức năng đã thêm: Việt Hóa. Vào cài đặt bấm liên tục vào phần ngôn ngữ cho đến khi hiển thị Tiếng Việt - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/Bully.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.03.6",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Việt Hóa. Vào cài đặt bấm liên tục vào phần ngôn ngữ cho đến khi hiển thị Tiếng Việt - IPA đã được kiểm tra và…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Bully_1.03.6_VH_TTJB.ipa",
+     "size": 1842826113
+    }
+   ]
+  }
+ ]
+}

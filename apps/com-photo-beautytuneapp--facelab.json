@@ -1,0 +1,30 @@
+{
+ "name": "Facelab",
+ "identifier": "dev.perapp.com-photo-beautytuneapp",
+ "subtitle": "Facelab",
+ "description": "Single-app source for Facelab (com.photo.beautytuneapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/ad/96/9fad96c1-cb0e-a445-5250-169f09b45320/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.photo.beautytuneapp",
+   "name": "Facelab",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nFacelab - Face & Body Editor\n\nTap on buy pro then cancel\n\nminimum OS version 17.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/ad/96/9fad96c1-cb0e-a445-5250-169f09b45320/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.77",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nFacelab - Face & Body Editor\n\nTap on buy pro then cancel\n\nminimum OS version 17.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c2f4c3c4-edaf-4444-8d3c-fe112105afff/Facelab_IAP_2.77.ipa",
+     "size": 332429934
+    }
+   ]
+  }
+ ]
+}

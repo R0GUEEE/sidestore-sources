@@ -1,0 +1,44 @@
+{
+ "name": "CoinID",
+ "identifier": "dev.perapp.com-aiby-wtcoin",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for CoinID (com.aiby.wtcoin). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aiby.wtcoin",
+   "name": "CoinID",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.wtcoin.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.29",
+     "date": "2026-08-29T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/CoinID_1.29_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 57891616
+    },
+    {
+     "version": "1.28",
+     "date": "2026-08-21T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/CoinID_1.28_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 48504107
+    },
+    {
+     "version": "1.27",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/CoinID_1.27_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 53235358
+    }
+   ]
+  }
+ ]
+}

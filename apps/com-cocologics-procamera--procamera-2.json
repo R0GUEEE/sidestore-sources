@@ -1,0 +1,44 @@
+{
+ "name": "ProCamera",
+ "identifier": "dev.perapp.com-cocologics-procamera",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for ProCamera (com.cocologics.ProCamera). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cocologics.ProCamera",
+   "name": "ProCamera",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.1.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-01-2026/ProCamera_26.1.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 136069671
+    },
+    {
+     "version": "16.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "ProCamera… fo free!",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/ProCamera.ipa",
+     "size": 72582430
+    },
+    {
+     "version": "26.2",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-03-2026/ProCamera_26.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 137204384
+    }
+   ]
+  }
+ ]
+}

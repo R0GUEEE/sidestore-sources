@@ -1,0 +1,37 @@
+{
+ "name": "Pipes",
+ "identifier": "dev.perapp.com-nazcarbon-music-ios",
+ "subtitle": "Pipes Music Android releases",
+ "description": "Single-app source for Pipes (com.nazcarbon.music.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nazcarbon.music.ios",
+   "name": "Pipes",
+   "developerName": "brimzy",
+   "subtitle": "Pipes Music Android releases",
+   "localizedDescription": "Build from source ·.\n\nGet started:\n\n• Open the APK and allow installation from your browser or file manager if Android asks.\n• Open Pipes and choose Start tutorial for seven short lessons with silent practice controls. You can choose Later, pause at any lesson, or resume from Settings → Learn Pipes.\n• Search for a song or artist, paste a YouTube or Spotify link into Search, or use the top-bar folder button to play a local file. Tap a song to open the full player.\n\nUpgrading from 4.x: download the first 5.0 APK directly from Releases. The 4.x updater does not recognize 5.x release tags. Install over the existing official app to preserve your library; 5.0 recognizes future 5.x updates.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/brimzy/pipes@main/docs/assets/tutorial-find.png",
+    "https://cdn.jsdelivr.net/gh/brimzy/pipes@main/docs/assets/tutorial-player.png"
+   ],
+   "versions": [
+    {
+     "version": "5.1.55",
+     "date": "2026-11-04T09:34:17Z",
+     "localizedDescription": "Pipes for iPhone & iPad 5.1.55:\n\nUpdated from the original 5.0 preview to the current 5.1 app experience. Requires iOS 17 or later.\n\n• Four destinations: personalized Home, Search, mood/genre Explore with session caching and refresh, and Library.\n• Persistent likes and upcoming queue, Play next without duplicates, queue editing and song radio that preserves the playing song's position.\n• Editable playlists and custom albums, bulk selection, independent collection copies, and custom image/animated GIF covers copied into app storage.\n• Seven resumable Learn Pipes lessons, silent navigation/player practice, and shortcuts into the actual app.\n• YouTube video/public-playlist search links, Spotify song metadata matching, recent searches and recommendation regions.\n\n• Existing iOS 5.0 likes and imported file records are retained when installed with the same app identity.\n\nDownload Pipes-iOS.ipa and sign/install it using your sideloading tool, or build with Xcode. The IPA is unsigned and cannot install directly from Safari. Your signing account/tool determines device limits and expiration.\n\nReal-car CarPlay requires Apple's audio entitlement and a matching provisioning profile; ordinary sideload signing does not grant that entitlement.\n\nThe release workflow builds simulator and device targets, runs domain regressions plus a simulator tutorial/collection/persistence smoke test, and publishes an IPA with its SHA-256 checksum. Device/vehicle playback testing remains separate.\n\nBuilt from ebeffa5ced032802151952dfc9d01770a9048f09.",
+     "downloadURL": "https://github.com/brimzy/pipes/releases/download/ios-v5.1.55-build7/Pipes-iOS.ipa",
+     "size": 461642
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

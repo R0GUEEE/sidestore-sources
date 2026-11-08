@@ -1,0 +1,44 @@
+{
+ "name": "12min",
+ "identifier": "dev.perapp.com-br-12min-mobile",
+ "subtitle": "12min",
+ "description": "Single-app source for 12min (com.br.12min.mobile). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.br.12min.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.br.12min.mobile",
+   "name": "12min",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.br.12min.mobile.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.12.1",
+     "date": "2026-08-16T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2288",
+     "size": 56138045
+    },
+    {
+     "version": "2.11.1",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2288",
+     "size": 53789725
+    },
+    {
+     "version": "2.8.16",
+     "date": "2026-01-20T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/12min_2.8.16_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 48546786
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "FitnessCoach",
+ "identifier": "dev.perapp.fitnessworkout-app",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for FitnessCoach (fitnessworkout.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fitnessworkout.app",
+   "name": "FitnessCoach",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.13.1",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/FitnessCoach_2.13.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 162545823
+    },
+    {
+     "version": "2.13.0",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-01-2026/FitnessCoach_2.13.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 162510740
+    },
+    {
+     "version": "2.13.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Fitness Coach – Workout Plan IPA v2.12.25 is a comprehensive mobile application designed to be your personal trainer in your pocket. Thi",
+     "downloadURL": "https://file.ipaomtk.com/Fitness%20Coach/Fitness_Coach_Workout_Plan_IPAOMTK.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

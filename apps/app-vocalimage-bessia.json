@@ -1,0 +1,30 @@
+{
+ "name": "VocalImage",
+ "identifier": "dev.perapp.app-vocalimage-bessia",
+ "subtitle": "Tweaks: riftysvocalimage",
+ "description": "Single-app source for VocalImage (app.vocalimage.bessia). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.vocalimage.bessia.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.vocalimage.bessia",
+   "name": "VocalImage",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: riftysvocalimage",
+   "localizedDescription": "Tweaks: riftysvocalimage\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.vocalimage.bessia.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.35.6",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: riftysvocalimage\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/VocalImage_8.35.6_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 155323874
+    }
+   ]
+  }
+ ]
+}

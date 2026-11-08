@@ -1,0 +1,30 @@
+{
+ "name": "RewindBox",
+ "identifier": "dev.perapp.com-neogamelab-neostation",
+ "subtitle": "An independently maintained iOS/iPadOS fork of NeoStation with a gamepad-friendly, console-style game library and embedd",
+ "description": "Single-app source for RewindBox (com.neogamelab.neostation). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.neogamelab.neostation",
+   "name": "RewindBox",
+   "developerName": "TarbleFR",
+   "subtitle": "An independently maintained iOS/iPadOS fork of NeoStation with a gamepad-friendly, console-style game library and embedded Libretro cores, MeloNX…",
+   "localizedDescription": "An independently maintained iOS/iPadOS fork of NeoStation with a gamepad-friendly, console-style game library and embedded Libretro cores, MeloNX, Dolphin, ARMSX2 and RPCS3 runtimes, JIT workflows and support for user-supplied firmware, keys and BIOS.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/RewindBox/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.8",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "An independently maintained iOS/iPadOS fork of NeoStation with a gamepad-friendly, console-style game library and embedded Libretro cores, MeloNX…",
+     "downloadURL": "https://github.com/TarbleFR/RewindBox/releases/download/0.0.10/RewindBox-.0.0.10.ipa",
+     "size": 188063063
+    }
+   ]
+  }
+ ]
+}

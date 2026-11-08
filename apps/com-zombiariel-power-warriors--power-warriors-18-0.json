@@ -1,0 +1,30 @@
+{
+ "name": "Power Warriors 18.0",
+ "identifier": "dev.perapp.com-zombiariel-power-warriors",
+ "subtitle": "Power Warriors iOS port by mancha",
+ "description": "Single-app source for Power Warriors 18.0 (com.ZombiAriel.Power-Warriors). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Power%20Warriors%2018.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ZombiAriel.Power-Warriors",
+   "name": "Power Warriors 18.0",
+   "developerName": "Power Warriors 18.0 x CyPwn",
+   "subtitle": "Power Warriors iOS port by mancha",
+   "localizedDescription": "Power Warriors iOS port by mancha",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Power%20Warriors%2018.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18",
+     "date": "2026-06-27T00:00:00Z",
+     "localizedDescription": "Power Warriors iOS port by mancha",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Power%20Warriors%2018.0.ipa",
+     "size": 174126530
+    }
+   ]
+  }
+ ]
+}

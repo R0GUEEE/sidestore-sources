@@ -1,0 +1,44 @@
+{
+ "name": "CrossyRoad",
+ "identifier": "dev.perapp.com-hipsterwhale-crossy",
+ "subtitle": "CrossyRoad",
+ "description": "Single-app source for CrossyRoad (com.hipsterwhale.crossy). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hipsterwhale.crossy",
+   "name": "CrossyRoad",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.12",
+     "date": "2026-06-19T00:00:00Z",
+     "localizedDescription": "Features:\r\n- Unlimited Coins\r\n- No Ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2089",
+     "size": 134846993
+    },
+    {
+     "version": "7.9.1",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with noads",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/CrossyRoad_7.9.1_noads_%40thisismanpreets_apptesters.org.ipa",
+     "size": 131853529
+    },
+    {
+     "version": "7.5.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Crossy Road\n\nTweak:\n\n- Unlimited Coins\n- No Ads \n\nVersion: 7.5\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/dfec1e0f-bce4-4b85-b481-b6b09d9e0a3c/Crossy_Road-v7.5-riftysipas.ipa",
+     "size": 148393831
+    }
+   ]
+  }
+ ]
+}

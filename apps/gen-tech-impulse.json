@@ -1,0 +1,30 @@
+{
+ "name": "Impulse",
+ "identifier": "dev.perapp.gen-tech-impulse",
+ "subtitle": "Impulse",
+ "description": "Single-app source for Impulse (gen.tech.impulse). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
+ "apps": [
+  {
+   "bundleIdentifier": "gen.tech.impulse",
+   "name": "Impulse",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gen.tech.impulse.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.48.2",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/Impulse_1.48.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 122568280
+    }
+   ]
+  }
+ ]
+}

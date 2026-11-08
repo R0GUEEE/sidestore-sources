@@ -1,0 +1,30 @@
+{
+ "name": "ibisPaintPrime",
+ "identifier": "dev.perapp.jp-ne-ibis-ibispaintx",
+ "subtitle": "Popular drawing app. A user requested it so here it is. Last updated: 06-28-2024 Status: ✅",
+ "description": "Single-app source for ibisPaintPrime (jp.ne.ibis.ibisPaintX). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jp.ne.ibis.ibisPaintX.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.ne.ibis.ibisPaintX",
+   "name": "ibisPaintPrime",
+   "developerName": "zxcvbn’s tweaked IPAs",
+   "subtitle": "Popular drawing app. A user requested it so here it is. Last updated: 06-28-2024 Status: ✅",
+   "localizedDescription": "Popular drawing app. A user requested it so here it is.\nLast updated: 06-28-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jp.ne.ibis.ibisPaintX.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.1.2",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Popular drawing app. A user requested it so here it is. Last updated: 06-28-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ibisPaintPrime/ibisPaintPrime-12.1.2.ipa",
+     "size": 41099193
+    }
+   ]
+  }
+ ]
+}

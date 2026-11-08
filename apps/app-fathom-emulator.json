@@ -1,0 +1,30 @@
+{
+ "name": "Fathom",
+ "identifier": "dev.perapp.app-fathom-emulator",
+ "subtitle": "An x86-64 PC emulator for iOS. Fathom runs x86-64 Linux programs on an iPhone or iPad by translating them to ARM64 as th",
+ "description": "Single-app source for Fathom (app.fathom.emulator). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.fathom.emulator",
+   "name": "Fathom",
+   "developerName": "Leviidev",
+   "subtitle": "An x86-64 PC emulator for iOS. Fathom runs x86-64 Linux programs on an iPhone or iPad by translating them to ARM64 as they execute, using FEXCore - th",
+   "localizedDescription": "An x86-64 PC emulator for iOS. Fathom runs x86-64 Linux programs on an iPhone or iPad by translating them to ARM64 as they execute, using FEXCore - th\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Fathom/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "An x86-64 PC emulator for iOS. Fathom runs x86-64 Linux programs on an iPhone or iPad by translating them to ARM64 as they execute, using FEXCore - th",
+     "downloadURL": "https://github.com/Leviidev/Fathom/releases/download/v1.0.0/Fathom.ipa",
+     "size": 1175175
+    }
+   ]
+  }
+ ]
+}

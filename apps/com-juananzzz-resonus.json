@@ -1,0 +1,45 @@
+{
+ "name": "Resonus",
+ "identifier": "dev.perapp.com-juananzzz-resonus",
+ "subtitle": "A clean Android music player for your self-hosted server, and your local files",
+ "description": "Single-app source for Resonus (com.juananzzz.resonus). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2cc043",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.juananzzz.resonus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.juananzzz.resonus",
+   "name": "Resonus",
+   "developerName": "juananzzz",
+   "subtitle": "A clean Android music player for your self-hosted server, and your local files",
+   "localizedDescription": "Download:\n\nYou need a Navidrome, OpenSubsonic, Jellyfin or Ampache server, or just music files on your device.\n\nAndroid:\n\nAlso available on Obtainium for automatic updates.\n\nRequires Android 7.0 or newer. Not on F-Droid yet.\n\niOS (experimental):\n\npage and sideload it with AltStore, Sideloadly or similar, or add Resonus as an AltSource to get updates. The build is unsigned, so it is not on the App Store or TestFlight.\n\nNot available on iOS yet: CarPlay, casting, the equalizer and gapless playback.\n\nServers and local music:\n\n• Navidrome / OpenSubsonic / Jellyfin / Ampache: multi-profile login, multi-library support, plus several server addresses with automatic switching.\n• Local mode: play music straight from your device or a folder, no server needed.\n• Queue sync across devices.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.juananzzz.resonus.png",
+   "tintColor": "#2cc043",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/juananzzz/resonus@main/assets/screenshots/dark-home.jpg",
+    "https://cdn.jsdelivr.net/gh/juananzzz/resonus@main/assets/screenshots/dark-player.jpg",
+    "https://cdn.jsdelivr.net/gh/juananzzz/resonus@main/assets/screenshots/dark-album.jpg",
+    "https://cdn.jsdelivr.net/gh/juananzzz/resonus@main/assets/screenshots/dark-library.jpg",
+    "https://cdn.jsdelivr.net/gh/juananzzz/resonus@main/assets/screenshots/artist.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.8.7",
+     "date": "2026-11-01T19:09:17Z",
+     "localizedDescription": "Added:\n\n• Holding an artist opens a menu with Play, radio and favorite.\n\n• Your library: the empty Podcasts list has a button to find one.\n\nChanged:\n\n• Moving a song in a playlist saves the new order right away, and the selection bar has Add to playlist and Remove again (#279).\n• Holding a song to start a selection marks that song again (#279).\n• Lyrics settings are back in the Settings > Player page.\n• Explore > Podcasts lists only the shows you added, and its + finds a show or takes a feed address.\n• Your library: a new playlist opens as soon as it is created.\n• Your library: the search stays when you open a result and come back.\n• Your library: podcasts sort by when you favorited or last listened to them.\n\nFixed:\n\n• Your library: Favorites no longer shows up in search results or under the playlist filters.\n• Your library: a failed refresh no longer replaces the list with an error.\n• Your library: podcast search ignores accents and forgives typos, like the rest.\n• Your library: artists sort by their sort name, and \"+\" playlists stay on top in the mixed list.\n• Your library: every row and card responds to a press, and albums keep the explicit badge in the mixed list.\n• Casting: more cases where the queue stayed on a song after it ended are handled (#285).",
+     "downloadURL": "https://github.com/juananzzz/resonus/releases/download/v0.8.7/resonus-v0.8.7.ipa",
+     "size": 20781344
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Allow Resonus to access your camera",
+     "NSFaceIDUsageDescription": "Allow Resonus to access your Face ID biometric data.",
+     "NSPhotoLibraryAddUsageDescription": "Allow Resonus to save photos",
+     "NSPhotoLibraryUsageDescription": "Allow Resonus to access your photos"
+    }
+   }
+  }
+ ]
+}

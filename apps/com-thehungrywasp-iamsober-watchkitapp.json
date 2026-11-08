@@ -1,0 +1,44 @@
+{
+ "name": "I Am Sober",
+ "identifier": "dev.perapp.com-thehungrywasp-iamsober-watchkitapp",
+ "subtitle": "I Am Sober",
+ "description": "Single-app source for I Am Sober (com.thehungrywasp.iamsober.watchkitapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/175fd4cd-2592-4359-8ee4-f9323179b405/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thehungrywasp.iamsober.watchkitapp",
+   "name": "I Am Sober",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: I Am Sober\nTweak: Premium Unlocked\nVersion: 8.3.4\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/175fd4cd-2592-4359-8ee4-f9323179b405/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.3.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: I Am Sober\nTweak: Premium Unlocked\nVersion: 8.3.4\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c3d3d169-fe2c-43d0-83d1-635ff814d3fc/I_Am_Sober-v8.3.4-riftysipas.ipa",
+     "size": 34820562
+    },
+    {
+     "version": "8.3.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: I Am Sober\n\nTweak: Premium Unlocked\n\nVersion: 8.3.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/a6c5c779-00a4-4823-8517-7ba9dae4209e/I_Am_Sober-v8.3.0-riftysipas.ipa",
+     "size": 36946913
+    },
+    {
+     "version": "8.2.9",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: I Am Sober\n\nTweak: Premium Unlocked\n\nVersion: 8.2.9\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/8be1d7e0-3573-42e2-9d29-712017cebdca/I_Am_Sober-v8.2.9-riftysipas.ipa",
+     "size": 37216978
+    }
+   ]
+  }
+ ]
+}

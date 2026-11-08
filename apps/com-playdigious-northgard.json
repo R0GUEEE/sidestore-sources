@@ -1,0 +1,30 @@
+{
+ "name": "Northgard-ipaomtk",
+ "identifier": "dev.perapp.com-playdigious-northgard",
+ "subtitle": "ipaomtk.com | Northgard IPA is a popular real-time strategy game that has captivated the hearts of many gamers worldwide",
+ "description": "Single-app source for Northgard-ipaomtk (com.playdigious.northgard). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/2024-09-18-3.03.48%E2%80%AFAM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playdigious.northgard",
+   "name": "Northgard-ipaomtk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Northgard IPA is a popular real-time strategy game that has captivated the hearts of many gamers worldwide. However, the developers have",
+   "localizedDescription": "ipaomtk.com | Northgard IPA is a popular real-time strategy game that has captivated the hearts of many gamers worldwide. However, the developers have",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/2024-09-18-3.03.48%E2%80%AFAM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.4",
+     "date": "2023-03-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Northgard IPA is a popular real-time strategy game that has captivated the hearts of many gamers worldwide. However, the developers have",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Northgard-ipaomtk_2.2.4.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "iVatar",
+ "identifier": "dev.perapp.com-mrauxsiuh-doodle",
+ "subtitle": "iVatar by Karbin-Store",
+ "description": "Single-app source for iVatar (com.mrauxsiuh.doodle). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/iVatar.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mrauxsiuh.doodle",
+   "name": "iVatar",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/iVatar.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.9",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/iVatar.1.1.9.ipa",
+     "size": 72210000
+    }
+   ]
+  }
+ ]
+}

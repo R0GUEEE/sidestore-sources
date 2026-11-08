@@ -1,0 +1,30 @@
+{
+ "name": "Stremio",
+ "identifier": "dev.perapp.com-stremio-pal",
+ "subtitle": "@ipavault | Builds of Stremio 2.1.1 b25 Builds: ▪Stremio 2.1.1 b25 (iOS) ▪Stremio 2.1.1 b25 (tvOS) Stremio offers a secu",
+ "description": "Single-app source for Stremio (com.stremio.pal). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/1136.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stremio.pal",
+   "name": "Stremio",
+   "developerName": "@ipavault",
+   "subtitle": "@ipavault | Builds of Stremio 2.1.1 b25 Builds: ▪Stremio 2.1.1 b25 (iOS) ▪Stremio 2.1.1 b25 (tvOS) Stremio offers a secure, modern and seamless…",
+   "localizedDescription": "@ipavault | Builds of Stremio 2.1.1 b25\n\nBuilds:\n▪Stremio 2.1.1 b25 (iOS)\n▪Stremio 2.1.1 b25 (tvOS)\n\nStremio offers a secure, modern and seamless entertainment experience. With its easy-to-use interface and diverse content library, including 4K HDR support, users can enjoy their favorite movies and TV shows across all their devices. And with its commitment to security, Stremio is the ultimate choice for a worry-free, high-quality streaming experience.\n\nMore info\nStremio Addons\nStremio 2.1.1 b25 by Stremio\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/1136.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Stremio 2.1.1 b25 Builds: ▪Stremio 2.1.1 b25 (iOS) ▪Stremio 2.1.1 b25 (tvOS) Stremio offers a secure, modern and seamless…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1136-Stremio%202.1.1%20b25%20%28iOS%29.ipa",
+     "size": 84752072
+    }
+   ]
+  }
+ ]
+}

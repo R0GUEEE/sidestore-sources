@@ -1,0 +1,30 @@
+{
+ "name": "OK",
+ "identifier": "dev.perapp.ru-odnoklassniki-iphone",
+ "subtitle": "@ipa_dark | 🔄 OK - одноклассники  🇷🇺 Социальная сеть - одноклассники.  ℹ️ Особенности: ▎Удалено с AppStore  💌 Для устано",
+ "description": "Single-app source for OK (ru.odnoklassniki.iphone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1618.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.odnoklassniki.iphone",
+   "name": "OK",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 OK - одноклассники  🇷🇺 Социальная сеть - одноклассники.  ℹ️ Особенности: ▎Удалено с AppStore  💌 Для установки приложения требуется серти",
+   "localizedDescription": "@ipa_dark | 🔄 OK - одноклассники  🇷🇺 Социальная сеть - одноклассники.  ℹ️ Особенности: ▎Удалено с AppStore  💌 Для установки приложения требуется серти",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1618.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.63.1",
+     "date": "2026-07-24T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 OK - одноклассники  🇷🇺 Социальная сеть - одноклассники.  ℹ️ Особенности: ▎Удалено с AppStore  💌 Для установки приложения требуется серти",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1618-OK%20%5Bv11.63.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 179040719
+    }
+   ]
+  }
+ ]
+}

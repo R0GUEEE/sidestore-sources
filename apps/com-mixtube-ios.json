@@ -1,0 +1,30 @@
+{
+ "name": "Mixtube",
+ "identifier": "dev.perapp.com-mixtube-ios",
+ "subtitle": "ipaomtk.com | Mixtube Offline Music Player IPA For iOS Gone are the days when you had to rely on an internet connection ",
+ "description": "Single-app source for Mixtube (com.mixtube.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/offline-music-player-mixtube-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mixtube.ios",
+   "name": "Mixtube",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Mixtube Offline Music Player IPA For iOS Gone are the days when you had to rely on an internet connection or waste precious mobile data ",
+   "localizedDescription": "ipaomtk.com | Mixtube Offline Music Player IPA For iOS Gone are the days when you had to rely on an internet connection or waste precious mobile data ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/offline-music-player-mixtube-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.2",
+     "date": "2023-05-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Mixtube Offline Music Player IPA For iOS Gone are the days when you had to rely on an internet connection or waste precious mobile data ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MixTube.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

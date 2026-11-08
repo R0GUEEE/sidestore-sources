@@ -1,0 +1,30 @@
+{
+ "name": "Disney+",
+ "identifier": "dev.perapp.com-disney-disneyplus",
+ "subtitle": "ipaomtk.com | Disney+ IPA is a⁣ subscription-based streaming service offering a vast collection of movies, TV shows, and",
+ "description": "Single-app source for Disney+ (com.disney.disneyplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-disney-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.disney.disneyplus",
+   "name": "Disney+",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Disney+ IPA is a⁣ subscription-based streaming service offering a vast collection of movies, TV shows, and original content. Disney+ Lau",
+   "localizedDescription": "ipaomtk.com | Disney+ IPA is a⁣ subscription-based streaming service offering a vast collection of movies, TV shows, and original content. Disney+ Lau",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-disney-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7.0",
+     "date": "2023-10-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Disney+ IPA is a⁣ subscription-based streaming service offering a vast collection of movies, TV shows, and original content. Disney+ Lau",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Disney+.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

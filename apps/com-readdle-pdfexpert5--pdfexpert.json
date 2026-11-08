@@ -1,0 +1,30 @@
+{
+ "name": "PdfExpert",
+ "identifier": "dev.perapp.com-readdle-pdfexpert5",
+ "subtitle": "PdfExpert",
+ "description": "Single-app source for PdfExpert (com.readdle.PDFExpert5). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.readdle.PDFExpert5",
+   "name": "PdfExpert",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.22.16",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/PdfExpert_7.22.16_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 147324583
+    }
+   ]
+  }
+ ]
+}

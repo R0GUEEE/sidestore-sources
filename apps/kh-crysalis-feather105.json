@@ -1,0 +1,30 @@
+{
+ "name": "Feather v1.0.5",
+ "identifier": "dev.perapp.kh-crysalis-feather105",
+ "subtitle": "On-device signing application",
+ "description": "Single-app source for Feather v1.0.5 (kh.crysalis.feather105). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "848ef9",
+ "iconURL": "https://cdn.omnidev.org/feather-au.png",
+ "apps": [
+  {
+   "bundleIdentifier": "kh.crysalis.feather105",
+   "name": "Feather v1.0.5",
+   "developerName": "Samara",
+   "subtitle": "On-device signing application",
+   "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/feather-au.png",
+   "tintColor": "848ef9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2024-10-30T00:00:00Z",
+     "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/feather_v1_0_5-e6.ipa",
+     "size": 12375230
+    }
+   ]
+  }
+ ]
+}

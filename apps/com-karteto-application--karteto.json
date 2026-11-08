@@ -1,0 +1,44 @@
+{
+ "name": "Karteto",
+ "identifier": "dev.perapp.com-karteto-application",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Karteto (com.karteto.application). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.karteto.application.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.karteto.application",
+   "name": "Karteto",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.karteto.application.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.01",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Karteto: Vocab Builder 🧸 Min.iOS: [14.0+] 🧀 App version: [0.11.01] !upd  🪼 App Store: https://apps.apple.com/ua/app/karteto-vocab-builder",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15508-%E2%80%8E%20Karteto_v0.11.01_tg@Sa1y0miii.ipa",
+     "size": 41318406
+    },
+    {
+     "version": "0.10.25",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Karteto: Vocab Builder 🧸 Min.iOS: [14.0+] 🧀 App version: [0.10.25] !upd  🪼 App Store: https://apps.apple.com/ua/app/karteto-vocab-builder",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15208-%E2%80%8E%20Karteto_v0.10.25_tg@Sa1y0miii.ipa",
+     "size": 41482711
+    },
+    {
+     "version": "0.10.14",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Karteto: Vocab Builder 🧸 Min.iOS: [14.0+] 🧀 App version: [0.10.14] !upd  🪼 App Store: https://apps.apple.com/ua/app/karteto-vocab-builder",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15094-%E2%80%8E%20Karteto_v0.10.14_tg@Sa1y0miii.ipa",
+     "size": 41199627
+    }
+   ]
+  }
+ ]
+}

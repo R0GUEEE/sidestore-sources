@@ -1,0 +1,30 @@
+{
+ "name": "Omni",
+ "identifier": "dev.perapp.win-stkc-omni",
+ "subtitle": "@ipavault | Omni — Content Hub  Access all of your media on iPhone, iPad, and Apple TV with a single, streamlined experi",
+ "description": "Single-app source for Omni (win.stkc.omni). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/1033.png",
+ "apps": [
+  {
+   "bundleIdentifier": "win.stkc.omni",
+   "name": "Omni",
+   "developerName": "@ipavault",
+   "subtitle": "@ipavault | Omni — Content Hub  Access all of your media on iPhone, iPad, and Apple TV with a single, streamlined experience.  🚀 Regular Updates 👤 Use",
+   "localizedDescription": "@ipavault | Omni — Content Hub  Access all of your media on iPhone, iPad, and Apple TV with a single, streamlined experience.  🚀 Regular Updates 👤 Use\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/1033.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@ipavault | Omni — Content Hub  Access all of your media on iPhone, iPad, and Apple TV with a single, streamlined experience.  🚀 Regular Updates 👤 Use",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1033-Omni%201.7%20279%20iOS.ipa",
+     "size": 25610625
+    }
+   ]
+  }
+ ]
+}

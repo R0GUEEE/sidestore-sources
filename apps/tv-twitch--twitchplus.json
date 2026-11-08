@@ -1,0 +1,44 @@
+{
+ "name": "TwitchPlus",
+ "identifier": "dev.perapp.tv-twitch",
+ "subtitle": "TwitchPlus by AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa / ArianaMinajj",
+ "description": "Single-app source for TwitchPlus (tv.twitch). Converted from swaggy.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.twitch",
+   "name": "TwitchPlus",
+   "developerName": "AppDB / DPixel / zxcvbn's tweaked IPAs / level3tjg / Ed0.ipa / ArianaMinajj",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.6",
+     "date": "2023-07-16T00:00:00Z",
+     "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 09-04-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-16-2023/TwitchPlus-15.6.ipa",
+     "size": 62426621
+    },
+    {
+     "version": "15.5",
+     "date": "2023-06-29T00:00:00Z",
+     "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 09-04-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/TwitchPlus-15.5.ipa",
+     "size": 78060639
+    },
+    {
+     "version": "15.4",
+     "date": "2023-06-25T00:00:00Z",
+     "localizedDescription": "Alternative to Twitch Toolbox, Twitch with no ads.\nLast updated: 09-04-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/TwitchPlus-15.4.ipa",
+     "size": 58339050
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Adblock",
+ "identifier": "dev.perapp.com-realmzer-julioadblock",
+ "subtitle": "Add adblock to apps.",
+ "description": "Single-app source for Adblock (com.realmzer.julioadblock). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "690ff5",
+ "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.realmzer.julioadblock",
+   "name": "Adblock",
+   "developerName": "Julioverne",
+   "subtitle": "Add adblock to apps.",
+   "localizedDescription": "Adds an adblock to applications of your choice.\nStatus: ✅✨",
+   "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+   "tintColor": "690ff5",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2-beta-1",
+     "date": "2024-10-18T00:00:00Z",
+     "localizedDescription": "Adds an adblock to applications of your choice.\nStatus: ✅✨",
+     "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-Dylibs/com.julioverne.adblock_0.2.beta1_iphoneos-arm.deb",
+     "size": 12288
+    }
+   ]
+  }
+ ]
+}

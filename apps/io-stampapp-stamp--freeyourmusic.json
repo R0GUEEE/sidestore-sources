@@ -1,0 +1,30 @@
+{
+ "name": "Freeyourmusic",
+ "identifier": "dev.perapp.io-stampapp-stamp",
+ "subtitle": "Freeyourmusic",
+ "description": "Single-app source for Freeyourmusic (io.stampapp.Stamp). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.stampapp.Stamp",
+   "name": "Freeyourmusic",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with SubscriptionUnlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.6.0",
+     "date": "2024-12-05T00:00:00Z",
+     "localizedDescription": "Injected with SubscriptionUnlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Freeyourmusic_9.6.0_SubscriptionUnlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 23365800
+    }
+   ]
+  }
+ ]
+}

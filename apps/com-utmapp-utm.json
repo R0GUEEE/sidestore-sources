@@ -1,0 +1,44 @@
+{
+ "name": "UTM",
+ "identifier": "dev.perapp.com-utmapp-utm",
+ "subtitle": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your i",
+ "description": "Single-app source for UTM (com.utmapp.UTM). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://alt.getutm.app/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.utmapp.UTM",
+   "name": "UTM",
+   "developerName": "osy",
+   "subtitle": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. This version r",
+   "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. This version r",
+   "iconURL": "https://alt.getutm.app/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.8",
+     "date": "2026-10-18T00:00:00Z",
+     "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. This version r",
+     "downloadURL": "https://github.com/utmapp/UTM/releases/download/v5.0.8/UTM.ipa",
+     "size": 150556413
+    },
+    {
+     "version": "5.0.7",
+     "date": "2026-10-17T00:00:00Z",
+     "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. This version r",
+     "downloadURL": "https://github.com/utmapp/UTM/releases/download/v5.0.7/UTM.ipa",
+     "size": 150507204
+    },
+    {
+     "version": "HV-4.6.4",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/UTM-HV-4.6.4.ipa",
+     "size": 126284039
+    }
+   ]
+  }
+ ]
+}

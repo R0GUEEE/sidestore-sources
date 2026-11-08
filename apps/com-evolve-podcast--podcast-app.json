@@ -1,0 +1,44 @@
+{
+ "name": "Podcast App",
+ "identifier": "dev.perapp.com-evolve-podcast",
+ "subtitle": "@riftysIPAlibrary | Podcast App  Tweak: Premium Unlocked  Version: 7.14.0  Patched ✓  @riftysIPAlibrary  Additional Info",
+ "description": "Single-app source for Podcast App (com.evolve.podcast). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7338.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.evolve.podcast",
+   "name": "Podcast App",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Podcast App  Tweak: Premium Unlocked  Version: 7.14.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15",
+   "localizedDescription": "@riftysIPAlibrary | Podcast App  Tweak: Premium Unlocked  Version: 7.14.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7338.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.24.0",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Podcast App  Tweak: Premium Unlocked  Version: 7.24.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8817-Podcast%20App-v7.24.0-riftysipas.ipa",
+     "size": 51002773
+    },
+    {
+     "version": "7.23.0",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Podcast App  Tweak: Premium Unlocked  Version: 7.23.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8379-Podcast%20App-v7.23.0-riftysipas.ipa",
+     "size": 51068567
+    },
+    {
+     "version": "7.22.0",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Podcast App  Tweak: Premium Unlocked  Version: 7.22.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8271-Podcast%20App-v7.22.0-riftysipas.ipa",
+     "size": 51073436
+    }
+   ]
+  }
+ ]
+}

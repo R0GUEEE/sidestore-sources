@@ -1,0 +1,30 @@
+{
+ "name": "Little Nightmares",
+ "identifier": "dev.perapp.com-playdigious-littlenightmares",
+ "subtitle": "Play as Six, a lone child trapped in the Maw, a vast metal vessel filled with monstrous adults. Escape before it’s too l",
+ "description": "Single-app source for Little Nightmares (com.playdigious.littlenightmares). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/LittleNightmares_1.0.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playdigious.littlenightmares",
+   "name": "Little Nightmares",
+   "developerName": "Little Nightmares x CyPwn",
+   "subtitle": "Play as Six, a lone child trapped in the Maw, a vast metal vessel filled with monstrous adults. Escape before it’s too late.",
+   "localizedDescription": "Play as Six, a lone child trapped in the Maw, a vast metal vessel filled with monstrous adults. Escape before it’s too late.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/LittleNightmares_1.0.2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Play as Six, a lone child trapped in the Maw, a vast metal vessel filled with monstrous adults. Escape before it’s too late.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/LittleNightmares_1.0.2.ipa",
+     "size": 13371337
+    }
+   ]
+  }
+ ]
+}

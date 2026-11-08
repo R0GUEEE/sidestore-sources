@@ -1,0 +1,40 @@
+{
+ "name": "Penumbra",
+ "identifier": "dev.perapp.com-ivancvetanovic-penumbra",
+ "subtitle": "Penumbra and the Castle of Shadows (2010), enhanced for modern systems on the Supersonic Engine: widescreen, gamepads, t",
+ "description": "Single-app source for Penumbra (com.ivancvetanovic.penumbra). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#9151bb",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ivancvetanovic.penumbra.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ivancvetanovic.penumbra",
+   "name": "Penumbra",
+   "developerName": "IvanCvetanovic",
+   "subtitle": "Penumbra and the Castle of Shadows (2010), enhanced for modern systems on the Supersonic Engine: widescreen, gamepads, touch, eleven languages; Windows, Linux, Android, macOS, iOS",
+   "localizedDescription": "Penumbra and the Castle of Shadows — Enhanced:\n\nThe 2010 action platformer by André Santee, enhanced for modern systems.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ivancvetanovic.penumbra.png",
+   "tintColor": "#9151bb",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/IvanCvetanovic/Penumbra-and-the-Castle-of-Shadows-Enhanced@main/docs/images/menu.jpg",
+    "https://cdn.jsdelivr.net/gh/IvanCvetanovic/Penumbra-and-the-Castle-of-Shadows-Enhanced@main/docs/images/level2.jpg",
+    "https://cdn.jsdelivr.net/gh/IvanCvetanovic/Penumbra-and-the-Castle-of-Shadows-Enhanced@main/docs/images/arena-lava.jpg",
+    "https://cdn.jsdelivr.net/gh/IvanCvetanovic/Penumbra-and-the-Castle-of-Shadows-Enhanced@main/docs/images/touch-controls.jpg",
+    "https://cdn.jsdelivr.net/gh/IvanCvetanovic/Penumbra-and-the-Castle-of-Shadows-Enhanced@main/docs/images/options.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.0.11",
+     "date": "2026-10-30T21:06:34Z",
+     "localizedDescription": "Penumbra and the Castle of Shadows - Enhanced 1.0.11:\n\nThe 2010 action platformer by André Santee, enhanced for today's computers and phones. Be the wizard: grab your sword, throw fireballs, light up the dark and defeat the king who rules the castle. Play alone, with a friend, or against each other in Versus.\n\nNew in 1.0.11:\n\nThis update is about phones whose Android is 32-bit. Everything else plays as in 1.0.10, which stays available.\n\n• What was tried, and what was not. On an Android 11 emulator that can only run 32-bit apps (it translates ARM programs so that a PC can run them), 1.0.10 was refused as having no program that fits, and 1.0.11 installed, started and played level 1. No real 32-bit phone has run it: an emulator on a PC is not a phone's processor or graphics chip, so how fast it runs there is unknown. That the phone that reported the problem runs a 32-bit Android has not been confirmed by the player (we asked for the phone's details); it comes from other owners of the same model. If it is the Infinix Smart 9 (the Smart 9 HD has a different chip), its graphics chip is the same kind as the Galaxy A05's, so its picture may be soft, as described in 1.0.10; the \"Picture sharpness\" row on the Settings screen is there for that.\n\nHow far each download has been checked:\n\n• Mac: It was tested automatically on GitHub's Macs and its Intel half under Rosetta. Nobody has played it on a real Mac, and it is not notarised by Apple.\n• iPhone and iPad: experimental. It has never run on any iPhone or iPad, so it may not start.\n• Languages: eleven, switchable in the game. The translations were made with AI help and have not been checked by native speakers.\n• Free. No ads, no in-app purchases, no accounts. The game never connects to the internet.\n\nChecksums (SHA256SUMS.txt):\n\nEvery file is built from commit 5fef6d7568602cfd14db5eb9fea80c7fdff9dbab.\n\nCredits:\n\nOriginal game (2010): André Santee (programming, game design, Ethanon Engine), Arthur Santee (3D modelling, game design), Gabriel Duarte (soundtrack), Approaching Thunderstorm (music). Enhanced edition: Ivan Cvetanović, developed with Claude Code, on the Supersonic Engine. Touch buttons, the options screen's frames, buttons and icons, and the touch-controls editor's buttons: from Magic Rampage, by Asantee Games.\n\nFree; the source code is on GitHub. Provided as is, without any warranty; see LICENSE.md.\n\nPenumbra and the Castle of Shadows - Enhanced 1.0.11 (Português):\n\nO jogo de plataforma e ação de 2010 de André Santee, aprimorado para os computadores e celulares de hoje. Seja o mago: pegue a espada, lance bolas de fogo, ilumine a escuridão e derrote o rei que domina o castelo. Jogue sozinho, com um amigo, ou um contra o outro no modo Versus.\n\nNovidades da 1.0.11:\n\nEsta atualização trata de celulares cujo Android é de 32 bits. O resto joga como na 1.0.10, que continua disponível.\n\n• O que foi testado e o que não foi. Num emulador de Android 11 que só roda apps de 32 bits (ele traduz programas ARM para que um PC possa rodá-los), a 1.0.10 foi recusada por não ter nenhum programa compatível, e a 1.0.11 se instalou, abriu e rodou a fase 1. Nenhum celular de 32 bits de verdade rodou isto: um emulador num PC não é o processador nem o chip gráfico de um celular, então não sabemos qual é a velocidade num celular. Que o celular que relatou o problema rode um Android de 32 bits ainda não foi confirmado pelo jogador (pedimos os dados do celular); vem de outros donos do mesmo modelo. Se for o Infinix Smart 9 (o Smart 9 HD tem outro chip), o chip gráfico dele é do mesmo tipo que o do Galaxy A05, então a imagem pode ficar pouco nítida, como descrito na 1.0.10; a linha \"Nitidez da imagem\" na tela de configurações existe para isso.\n\nAté onde cada download foi verificado:\n\n• Android: o jogo foi jogado do começo ao fim num celular de verdade por quem o criou, inclusive a tela que ajusta os botões (uma versão anterior). O que é novo na 1.0.11 é o programa de 32 bits, testado só no emulador descrito ",
+     "downloadURL": "https://github.com/IvanCvetanovic/Penumbra-and-the-Castle-of-Shadows-Enhanced/releases/download/v1.0.11/Penumbra-iOS.ipa",
+     "size": 19619137
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

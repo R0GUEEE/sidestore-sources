@@ -1,0 +1,30 @@
+{
+ "name": "Undertale Yellow",
+ "identifier": "dev.perapp.com-atesquik-uty",
+ "subtitle": "Undertale Yellow - IOS Port",
+ "description": "Single-app source for Undertale Yellow (com.atesquik.uty). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ffff00",
+ "iconURL": "https://cdn.omnidev.org/undertaleyellow-Jx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.atesquik.uty",
+   "name": "Undertale Yellow",
+   "developerName": "Team Undertale Yellow",
+   "subtitle": "Undertale Yellow - IOS Port",
+   "localizedDescription": "Welcome to UNDERTALE YELLOW, a fan-made prequel to the hit RPG, 'UNDERTALE'.\nWhen a child named Clover sets out on a mission, they find themself deep within the Underground.\nIn this foreign land, monsters lurk around every corner, but are they friend or foe?\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/undertaleyellow-Jx.png",
+   "tintColor": "ffff00",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2024-10-14T00:00:00Z",
+     "localizedDescription": "Welcome to UNDERTALE YELLOW, a fan-made prequel to the hit RPG, 'UNDERTALE'.\nWhen a child named Clover sets out on a mission, they find themself deep within the Underground.\nIn this foreign land, monsters lurk around every corner, but are they friend or foe?\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/undertale_yellow_port_1_2-Fd.ipa",
+     "size": 247910400
+    }
+   ]
+  }
+ ]
+}

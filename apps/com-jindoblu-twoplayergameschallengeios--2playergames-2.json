@@ -1,0 +1,44 @@
+{
+ "name": "2PlayerGames",
+ "identifier": "dev.perapp.com-jindoblu-twoplayergameschallengeios",
+ "subtitle": "2PlayerGames",
+ "description": "Single-app source for 2PlayerGames (com.JindoBlu.TwoPlayerGamesChallengeIOS). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.TwoPlayerGamesChallengeIOS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.JindoBlu.TwoPlayerGamesChallengeIOS",
+   "name": "2PlayerGames",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.JindoBlu.TwoPlayerGamesChallengeIOS.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.18.5",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "No Ads, All Games Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2291",
+     "size": 96520103
+    },
+    {
+     "version": "7.12.5",
+     "date": "2025-12-13T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/2PlayerGames_7.12.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 78368156
+    },
+    {
+     "version": "7.8.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: 2 Player Games: The Challenge\n\nTweak:\n\n- No Ads\n- All Games Unlocked\n\nVersion: 7.8.6\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/5f4076c2-477b-41ba-9b0f-755a97f63fdf/2_Player_Games___the_Challenge-v7.8.6-riftysipas.ipa",
+     "size": 88628416
+    }
+   ]
+  }
+ ]
+}

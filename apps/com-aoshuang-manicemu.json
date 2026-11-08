@@ -1,0 +1,53 @@
+{
+ "name": "Manic EMU",
+ "identifier": "dev.perapp.com-aoshuang-manicemu",
+ "subtitle": "Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping a clean, sleek UI and d",
+ "description": "Single-app source for Manic EMU (com.aoshuang.manicemu). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#ff2543",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aoshuang.manicemu.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aoshuang.manicemu",
+   "name": "Manic EMU",
+   "developerName": "Manic-EMU",
+   "subtitle": "Manic EMU is an all-in-one retro game emulator for iOS. It packs powerful features while keeping a clean, sleek UI and delivering buttery-smooth gameplay",
+   "localizedDescription": "Manic EMU is an all-in-one retro game emulator for iOS. It brings console, arcade, computer, and mobile Java systems into one app while keeping a clean, sleek UI and smooth gameplay-focused controls.\n\nThe sections below keep the app details up front, then connect availability, features, development notes, related documentation, repository layout, and licensing in one place.\n\nManic EMU does not include ROMs, ISOs, BIOS files, or copyrighted game data. Use legally owned backups, homebrew, and public-domain software only. See the upstream anti-piracy policy for the full project position.\n\nAt a Glance:\n\n• App distribution: App Store, StikStore, and SideStore.\n• Source target: iOS app built with Xcode 16+, iOS SDK 15+, and Swift 5.9+.\n• Emulator model: multiple emulator cores, including Libretro-based frameworks and dedicated cores.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aoshuang.manicemu.png",
+   "tintColor": "#ff2543",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Manic-EMU/ManicEMU@main/images_manicemu_ver5_a01.jpg",
+    "https://cdn.jsdelivr.net/gh/Manic-EMU/ManicEMU@main/images_manicemu_ver5_a02.jpg",
+    "https://cdn.jsdelivr.net/gh/Manic-EMU/ManicEMU@main/images_manicemu_ver5_a03.jpg",
+    "https://cdn.jsdelivr.net/gh/Manic-EMU/ManicEMU@main/images_manicemu_ver5_a04.jpg",
+    "https://cdn.jsdelivr.net/gh/Manic-EMU/ManicEMU@main/images_manicemu_ver5_a05.jpg"
+   ],
+   "versions": [
+    {
+     "version": "2.0.2",
+     "date": "2026-11-02T08:03:58Z",
+     "localizedDescription": "• Improved 3DS performance.\n• Nimbus in Artic Base now supports the latest Pretendo.\n• Improved Home Menu performance on the Azahar core.\n• Fixed Wii pointer behavior for affected users.\n• Added MeloCafe Link support.\n• iPad now supports windowed apps.\n• Redesigned the SNES skin.\n• Added skin fallback: iPad can use iPhone skins.\n• Support for iPhone Duo.\n• Fixed AirPlay not working on iOS 27 or later.\n• Added BitBop, a new sister app to Manic EMU for retro game music.\n• Other bug fixes and improvements.",
+     "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.2/ManicEMU.v2.0.2.SideloadJIT.ipa",
+     "size": 293317769
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "Manic EMU requires the use of Bluetooth functionality to enable communication features for certain games.",
+     "NSCameraUsageDescription": "Camera access required to capture photos for custom game covers in Manic EMU",
+     "NSLocalNetworkUsageDescription": "Manic EMU needs access to your local network to find and connect with other devices for online gaming.",
+     "NSMicrophoneUsageDescription": "Microphone access required for full Nintendo DS game functionality in Manic EMU",
+     "NSPhotoLibraryAddUsageDescription": "Manic EMU requires photo library access to save game screenshots and create custom game covers",
+     "NSPhotoLibraryUsageDescription": "Manic EMU requires photo library access to save screenshots and select images for game covers"
+    }
+   }
+  }
+ ]
+}

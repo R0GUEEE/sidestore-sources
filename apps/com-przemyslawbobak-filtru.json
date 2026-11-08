@@ -1,0 +1,30 @@
+{
+ "name": "Filtru",
+ "identifier": "dev.perapp.com-przemyslawbobak-filtru",
+ "subtitle": "Filtru",
+ "description": "Single-app source for Filtru (com.przemyslawbobak.filtru). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.przemyslawbobak.filtru",
+   "name": "Filtru",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.1",
+     "date": "2025-09-28T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Filtru_4.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 81638637
+    }
+   ]
+  }
+ ]
+}

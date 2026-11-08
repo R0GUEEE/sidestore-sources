@@ -1,0 +1,37 @@
+{
+ "name": "Mirarr",
+ "identifier": "dev.perapp.com-example-mirarr",
+ "subtitle": "This is a movie app that aims to simplify the process of watching movies and TV shows.",
+ "description": "Single-app source for Mirarr (com.example.Mirarr). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/mirarr-app/mirarr/blob/main/assets/images/duckie.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.example.Mirarr",
+   "name": "Mirarr",
+   "developerName": "mirarr-app",
+   "subtitle": "This is a movie app that aims to simplify the process of watching movies and TV shows.",
+   "localizedDescription": "This is a movie app that aims to simplify the process of watching movies and TV shows.",
+   "iconURL": "https://github.com/mirarr-app/mirarr/blob/main/assets/images/duckie.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.3",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Website:  https://mirarr-app.github.io/mirarr/  Available on Android, Windows, Linux , IOS and Web.:  This is a movie app that aims to simplify the pr",
+     "downloadURL": "https://github.com/mirarr-app/mirarr/releases/download/3.3.3/mirarr.ipa",
+     "size": 11800313
+    },
+    {
+     "version": "1.7.0",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "This is a movie app that aims to simplify the process of watching movies and TV shows.",
+     "downloadURL": "https://github.com/mirarr-app/mirarr/releases/download/1.7.0/mirarr.ipa",
+     "size": 26019635
+    }
+   ]
+  }
+ ]
+}

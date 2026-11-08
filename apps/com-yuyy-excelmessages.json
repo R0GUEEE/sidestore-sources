@@ -1,0 +1,30 @@
+{
+ "name": "SA Group Text",
+ "identifier": "dev.perapp.com-yuyy-excelmessages",
+ "subtitle": "ipaomtk.com | SA Group Text IPA v3.3.10 is an innovative communication app designed to streamline group messaging for us",
+ "description": "Single-app source for SA Group Text (com.yuyy.ExcelMessages). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/SA-Group-Text.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yuyy.ExcelMessages",
+   "name": "SA Group Text",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | SA Group Text IPA v3.3.10 is an innovative communication app designed to streamline group messaging for users across various platforms. ",
+   "localizedDescription": "ipaomtk.com | SA Group Text IPA v3.3.10 is an innovative communication app designed to streamline group messaging for users across various platforms. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/SA-Group-Text.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.10",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | SA Group Text IPA v3.3.10 is an innovative communication app designed to streamline group messaging for users across various platforms. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/SA_Group_Text-v3.3.10-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

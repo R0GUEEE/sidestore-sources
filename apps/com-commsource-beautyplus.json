@@ -1,0 +1,30 @@
+{
+ "name": "BeautyPlus",
+ "identifier": "dev.perapp.com-commsource-beautyplus",
+ "subtitle": "Tweaks: rophim",
+ "description": "Single-app source for BeautyPlus (com.commsource.BeautyPlus). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.commsource.BeautyPlus",
+   "name": "BeautyPlus",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: rophim",
+   "localizedDescription": "Tweaks: rophim\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.26.0",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: rophim\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/BeautyPlus_7.26.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 354108504
+    }
+   ]
+  }
+ ]
+}

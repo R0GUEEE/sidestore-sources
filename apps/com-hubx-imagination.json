@@ -1,0 +1,44 @@
+{
+ "name": "DaVinci",
+ "identifier": "dev.perapp.com-hubx-imagination",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for DaVinci (com.hubx.imagination). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hubx.imagination",
+   "name": "DaVinci",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.11",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@blatants | DaVinci - Image Generator AI  • Bundle ID: com.hubx.imagination • Updated to: 5.0.11 • Minimum iOS: 16.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/DaVinci_5.0.11_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 105608513
+    },
+    {
+     "version": "5.0.10",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@blatants | DaVinci - Image Generator AI  • Bundle ID: com.hubx.imagination • Updated to: 5.0.10 • Minimum iOS: 16.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12787-DaVinci_Image_Generator_AI_v5_0_10_Subscription_Unlocked_blatant.ipa",
+     "size": 124541237
+    },
+    {
+     "version": "5.0.8",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "@blatants | DaVinci - Image Generator AI  • Bundle ID: com.hubx.imagination • Updated to: 5.0.8 • Minimum iOS: 16.0 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12322-DaVinci_Image_Generator_AI_v5_0_8_Subscription_Unlocked_blatant.ipa",
+     "size": 125047421
+    }
+   ]
+  }
+ ]
+}

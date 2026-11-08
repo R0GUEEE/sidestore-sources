@@ -1,0 +1,30 @@
+{
+ "name": "MeowMeowWarriors",
+ "identifier": "dev.perapp.co-imba-kawaii-mmw",
+ "subtitle": "MeowMeowWarriors",
+ "description": "Single-app source for MeowMeowWarriors (co.imba.kawaii.mmw). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.imba.kawaii.mmw.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.imba.kawaii.mmw",
+   "name": "MeowMeowWarriors",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Damage Multiplier",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.imba.kawaii.mmw.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.12.236",
+     "date": "2024-12-08T00:00:00Z",
+     "localizedDescription": "Injected with Damage Multiplier",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/MeowMeowWarriors_0.12.236_Damage_Multiplier_%40thisismanpreets_apptesters.org.ipa",
+     "size": 186490813
+    }
+   ]
+  }
+ ]
+}

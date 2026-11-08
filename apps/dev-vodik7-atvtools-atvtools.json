@@ -1,0 +1,30 @@
+{
+ "name": "atvTools_1.5.0",
+ "identifier": "dev.perapp.dev-vodik7-atvtools-atvtools",
+ "subtitle": "Must-have app for Android/Google TV",
+ "description": "Single-app source for atvTools_1.5.0 (dev.vodik7.atvtools.atvTools). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/atvTools_1.5.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.vodik7.atvtools.atvTools",
+   "name": "atvTools_1.5.0",
+   "developerName": "atvTools_1.5.0 x CyPwn",
+   "subtitle": "Must-have app for Android/Google TV",
+   "localizedDescription": "Must-have app for Android/Google TV",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/atvTools_1.5.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Must-have app for Android/Google TV",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/atvTools_1.5.0.ipa",
+     "size": 20908605
+    }
+   ]
+  }
+ ]
+}

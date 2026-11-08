@@ -1,0 +1,30 @@
+{
+ "name": "Rivengard",
+ "identifier": "dev.perapp.com-snowprintstudios-rivengard",
+ "subtitle": "ipaomtk.com | Rivengard IPA Look no further than Rivengard. This highly acclaimed game has taken the gaming world by sto",
+ "description": "Single-app source for Rivengard (com.snowprintstudios.rivengard). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/rivengard-clash-of-legends-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.snowprintstudios.rivengard",
+   "name": "Rivengard",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Rivengard IPA Look no further than Rivengard. This highly acclaimed game has taken the gaming world by storm, offering a unique and capt",
+   "localizedDescription": "ipaomtk.com | Rivengard IPA Look no further than Rivengard. This highly acclaimed game has taken the gaming world by storm, offering a unique and capt",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/rivengard-clash-of-legends-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.32.7",
+     "date": "2023-08-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Rivengard IPA Look no further than Rivengard. This highly acclaimed game has taken the gaming world by storm, offering a unique and capt",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Rivengard.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

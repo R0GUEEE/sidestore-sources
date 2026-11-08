@@ -1,0 +1,44 @@
+{
+ "name": "YouMod (2.0.0) + Bonus Tweaks (IPAVault)",
+ "identifier": "dev.perapp.com-google-ios-youtube-youmod-2-0-0-ipavault",
+ "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+ "description": "Single-app source for YouMod (2.0.0) + Bonus Tweaks (IPAVault) (com.google.ios.youtube.youmod.2.0.0.ipavault). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.ipavault",
+   "name": "YouMod (2.0.0) + Bonus Tweaks (IPAVault)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+   "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.43.5",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks,",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.43.5%20%28YouMod%202.0.0%29%20%5B@ipavault%5D.ipa",
+     "size": 138546576
+    },
+    {
+     "version": "21.44.4",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "Tweaks: YouGroupSettings, DontEatMyContent, LowContrastMode, UncappedAVPlayer, VolumeBoostYT, YouMod, YouPiP, YouQuality, YouSlider, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig +4\n\nThis is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks,",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.43.5%20%28YouMod%202.0.0%29%20%5B@ipavault%5D.ipa",
+     "size": 144006038
+    },
+    {
+     "version": "21.42.4",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks added by IPAVault. Bonus Tweaks include: YTABConfig, YTweaks,",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.42.4%20%28YouMod%202.0.0%29%20%5B@ipavault%5D.ipa",
+     "size": 138223275
+    }
+   ]
+  }
+ ]
+}

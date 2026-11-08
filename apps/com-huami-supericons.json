@@ -1,0 +1,32 @@
+{
+ "name": "SuperIcons_2.1.4_Huami",
+ "identifier": "dev.perapp.com-huami-supericons",
+ "subtitle": "SuperIcons_2.1.4_Huami by SuperIcons_2.1.4_Huami x CyPwn",
+ "description": "Single-app source for SuperIcons_2.1.4_Huami (com.huami.SuperIcons). Converted from cypwn-trollstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/SuperIcons_2.1.4_Huami.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.huami.SuperIcons",
+   "name": "SuperIcons_2.1.4_Huami",
+   "developerName": "SuperIcons_2.1.4_Huami x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Change app icons with TrollStore!",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/SuperIcons_2.1.4_Huami.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/SuperIcons_2.1.4_Huami/SuperIcons_2.1.4_Huami-0.png"
+   ],
+   "versions": [
+    {
+     "version": "2.1",
+     "date": "2024-08-05T00:00:00Z",
+     "localizedDescription": "Change app icons with TrollStore!",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/SuperIcons_2.1.4_Huami.ipa",
+     "size": 2359296
+    }
+   ]
+  }
+ ]
+}

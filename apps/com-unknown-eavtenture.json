@@ -1,0 +1,30 @@
+{
+ "name": "Eavtenture",
+ "identifier": "dev.perapp.com-unknown-eavtenture",
+ "subtitle": "پارە بێ سنورە، بۆ کڕین دەست بدە لە Buy دواتر Cancel هەڵبژێرە",
+ "description": "Single-app source for Eavtenture (com.unknown.eavtenture). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Eavtenture.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.eavtenture",
+   "name": "Eavtenture",
+   "developerName": "Karbin-Store",
+   "subtitle": "پارە بێ سنورە، بۆ کڕین دەست بدە لە Buy دواتر Cancel هەڵبژێرە",
+   "localizedDescription": "پارە بێ سنورە، بۆ کڕین دەست بدە لە Buy دواتر Cancel هەڵبژێرە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Eavtenture.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.26.1",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "پارە بێ سنورە، بۆ کڕین دەست بدە لە Buy دواتر Cancel هەڵبژێرە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Eatventure.-.RCS_1.26.1.ipa",
+     "size": 111320000
+    }
+   ]
+  }
+ ]
+}

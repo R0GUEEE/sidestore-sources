@@ -1,0 +1,30 @@
+{
+ "name": "Reporizator",
+ "identifier": "dev.perapp.org-haxi0-reporizator",
+ "subtitle": "App to add repos to your favorite package managers. Compatible with iOS 15+ Last updated: 11-12-2022 Status: ✅",
+ "description": "Single-app source for Reporizator (org.haxi0.Reporizator). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.Reporizator.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.haxi0.Reporizator",
+   "name": "Reporizator",
+   "developerName": "haxi0",
+   "subtitle": "App to add repos to your favorite package managers. Compatible with iOS 15+ Last updated: 11-12-2022 Status: ✅",
+   "localizedDescription": "App to add repos to your favorite package managers. Compatible with iOS 15+ Last updated: 11-12-2022 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.Reporizator.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "App to add repos to your favorite package managers. Compatible with iOS 15+ Last updated: 11-12-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2022/Reporizator-1.1.ipa",
+     "size": 661635
+    }
+   ]
+  }
+ ]
+}

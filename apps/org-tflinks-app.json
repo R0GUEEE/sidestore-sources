@@ -1,0 +1,30 @@
+{
+ "name": "TFLinks DVT",
+ "identifier": "dev.perapp.org-tflinks-app",
+ "subtitle": "TFLinks DVT",
+ "description": "Single-app source for TFLinks DVT (org.TFLinks.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "org.TFLinks.app",
+   "name": "TFLinks DVT",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/a91b126e-7f5a-4e1b-9965-3b70fd5cfe4e/TFLinks_1.2__tg_glesign_.ipa",
+     "size": 13420889
+    }
+   ]
+  }
+ ]
+}

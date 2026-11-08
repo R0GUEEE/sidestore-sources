@@ -1,0 +1,30 @@
+{
+ "name": "Vively",
+ "identifier": "dev.perapp.eu-r3pr3ss10n-r3vk",
+ "subtitle": "@ipa_dark | 🔄 Vively - Музыка ВКонтакте  🇷🇺 Клиент для прослушивания музыки VK, можно слушать и свою музыку и музыку дру",
+ "description": "Single-app source for Vively (eu.r3pr3ss10n.r3vk). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1658.png",
+ "apps": [
+  {
+   "bundleIdentifier": "eu.r3pr3ss10n.r3vk",
+   "name": "Vively",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Vively - Музыка ВКонтакте  🇷🇺 Клиент для прослушивания музыки VK, можно слушать и свою музыку и музыку друзей  ℹ️ Особенности:  ▎Нет рек",
+   "localizedDescription": "@ipa_dark | 🔄 Vively - Музыка ВКонтакте  🇷🇺 Клиент для прослушивания музыки VK, можно слушать и свою музыку и музыку друзей  ℹ️ Особенности:  ▎Нет рек",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1658.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4",
+     "date": "2026-08-20T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Vively - Музыка ВКонтакте  🇷🇺 Клиент для прослушивания музыки VK, можно слушать и свою музыку и музыку друзей  ℹ️ Особенности:  ▎Нет рек",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1658-Vively%20Music%20VK%20%5Bv1.4%5D%28tg@ipa_dark%29.ipa",
+     "size": 3000869
+    }
+   ]
+  }
+ ]
+}

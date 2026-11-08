@@ -1,0 +1,44 @@
+{
+ "name": "CleanMyPhone",
+ "identifier": "dev.perapp.com-macpaw-iosgemini",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for CleanMyPhone (com.macpaw.iosgemini). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.macpaw.iosgemini.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.macpaw.iosgemini",
+   "name": "CleanMyPhone",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.macpaw.iosgemini.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.6",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-08-2025/CleanMyPhone_2.8.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 96152446
+    },
+    {
+     "version": "2.11.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/CleanMyPhone_2.11.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 119563739
+    },
+    {
+     "version": "2.10.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/20-11-2025/CleanMyPhone_2.10.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 104893842
+    }
+   ]
+  }
+ ]
+}

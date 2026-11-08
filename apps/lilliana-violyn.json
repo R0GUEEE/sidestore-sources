@@ -1,0 +1,41 @@
+{
+ "name": "Violyn_1_4_4-2",
+ "identifier": "dev.perapp.lilliana-violyn",
+ "subtitle": "Violyn_1_4_4-2 by Violyn_1_4_4-2 x CyPwn",
+ "description": "Single-app source for Violyn_1_4_4-2 (Lilliana.Violyn). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Violyn_1_4_4-2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Lilliana.Violyn",
+   "name": "Violyn_1_4_4-2",
+   "developerName": "Violyn_1_4_4-2 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Search and download from CyDown",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Violyn_1_4_4-2.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Violyn_1_4_4-2/Violyn_1_4_4-2-0.png",
+    "https://ipa.cypwn.xyz/serve/screenshots/Violyn_1_4_4-2/Violyn_1_4_4-2-1.png",
+    "https://ipa.cypwn.xyz/serve/screenshots/Violyn_1_4_4-2/Violyn_1_4_4-2-2.png"
+   ],
+   "versions": [
+    {
+     "version": "1.4.4",
+     "date": "2026-01-12T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Violyn_1_4_4-2.ipa",
+     "size": 1279262
+    },
+    {
+     "version": "1.4.2",
+     "date": "2024-11-22T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Violyn_1.4.2.ipa",
+     "size": 1279262
+    }
+   ]
+  }
+ ]
+}

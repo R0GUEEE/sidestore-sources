@@ -1,0 +1,30 @@
+{
+ "name": "TuneinRadio",
+ "identifier": "dev.perapp.com-alexanderben-radioin",
+ "subtitle": "TuneinRadio",
+ "description": "Single-app source for TuneinRadio (com.alexanderben.RadioIn). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alexanderben.RadioIn",
+   "name": "TuneinRadio",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alexanderben.RadioIn.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "31.6.0",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/TuneinRadio_31.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 57633430
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "AiChatbot",
+ "identifier": "dev.perapp.com-aichatbot-assistant",
+ "subtitle": "AiChatbot",
+ "description": "Single-app source for AiChatbot (com.aichatbot.assistant). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aichatbot.assistant",
+   "name": "AiChatbot",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.22",
+     "date": "2025-02-07T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AiChatbot_2.22_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 94585940
+    }
+   ]
+  }
+ ]
+}

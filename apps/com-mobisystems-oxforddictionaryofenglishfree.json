@@ -1,0 +1,30 @@
+{
+ "name": "Dictionary",
+ "identifier": "dev.perapp.com-mobisystems-oxforddictionaryofenglishfree",
+ "subtitle": "Dictionary",
+ "description": "Single-app source for Dictionary (com.mobisystems.OxfordDictionaryOfEnglishFree). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobisystems.OxfordDictionaryOfEnglishFree",
+   "name": "Dictionary",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobisystems.OxfordDictionaryOfEnglishFree.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "16.8",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Dictionary_16.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 60294488
+    }
+   ]
+  }
+ ]
+}

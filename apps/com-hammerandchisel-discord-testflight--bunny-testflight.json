@@ -1,0 +1,45 @@
+{
+ "name": "Bunny (TestFlight)",
+ "identifier": "dev.perapp.com-hammerandchisel-discord-testflight",
+ "subtitle": "A client mod for Discord (TestFlight)",
+ "description": "Single-app source for Bunny (TestFlight) (com.hammerandchisel.discord.testflight). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "7289da",
+ "iconURL": "https://pyoncord.github.io/assets/icon-altstore.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hammerandchisel.discord.testflight",
+   "name": "Bunny (TestFlight)",
+   "developerName": "Pylix",
+   "subtitle": "A client mod for Discord (TestFlight)",
+   "localizedDescription": "A client mod for Discord (TestFlight builds)",
+   "iconURL": "https://pyoncord.github.io/assets/icon-altstore.png",
+   "tintColor": "7289da",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "233.0_59816",
+     "date": "2025-04-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v233.0_59816/Bunny.ipa",
+     "size": 94756624
+    },
+    {
+     "version": "274.0_74656",
+     "date": "2025-03-30T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v274.0_74656/Bunny.ipa",
+     "size": 89539057
+    },
+    {
+     "version": "273.0_74481",
+     "date": "2025-03-26T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/bunny-mod/BunnyTweak/releases/download/v273.0_74481/Bunny.ipa",
+     "size": 88071133
+    }
+   ],
+   "appPermissions": {}
+  }
+ ]
+}

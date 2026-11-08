@@ -1,0 +1,30 @@
+{
+ "name": "Artleap",
+ "identifier": "dev.perapp.com-lightricks-enlight-quickart",
+ "subtitle": "ipaomtk.com | Artleap IPA by Lightricks is a revolutionary new animation tool that brings art and animation to everyone.",
+ "description": "Single-app source for Artleap (com.lightricks.Enlight-Quickart). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/512x512bb-3-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lightricks.Enlight-Quickart",
+   "name": "Artleap",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Artleap IPA by Lightricks is a revolutionary new animation tool that brings art and animation to everyone. With its easy-to-use interfac",
+   "localizedDescription": "ipaomtk.com | Artleap IPA by Lightricks is a revolutionary new animation tool that brings art and animation to everyone. With its easy-to-use interfac",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/512x512bb-3-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.11",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Artleap IPA by Lightricks is a revolutionary new animation tool that brings art and animation to everyone. With its easy-to-use interfac",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Artleap.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

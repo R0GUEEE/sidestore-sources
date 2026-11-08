@@ -1,0 +1,30 @@
+{
+ "name": "Temperology",
+ "identifier": "dev.perapp.com-temperology-app",
+ "subtitle": "Temperology",
+ "description": "Single-app source for Temperology (com.temperology.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.temperology.app",
+   "name": "Temperology",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nTemperology v7.17.1\n\n🇷🇺 Приложение которое устанавливают сотрудники жёлтого банка\n— Удалённое приложение из AppStore\n— Работает только через TrollStore\n— Требует iOS 15.0\n© Создано: GLESign\n\n🇺🇸 The application that Yellow Bank employees install\n— Deleted app from the AppStore\n— Works only through the TrollStore\n— Requires iOS 15.0\n© Created by: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nTemperology v7.17.1\n\n🇷🇺 Приложение которое устанавливают сотрудники жёлтого банка\n— Удалённое приложение из AppStore\n— Работает только через TrollStore\n— Требует iOS 15.0\n© Создано: GLESign\n\n🇺🇸 The application that Yellow Bank employees install\n— Deleted app from the AppStore\n— Works only through the TrollStore\n— Requires iOS 15.0\n© Created by: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/7fce33ad-ceb8-41d0-a71c-962c99e3170e/Temperology_v7.17.1_tg_glesign_.ipa",
+     "size": 193038667
+    }
+   ]
+  }
+ ]
+}

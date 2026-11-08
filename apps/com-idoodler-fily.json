@@ -1,0 +1,30 @@
+{
+ "name": "Fily",
+ "identifier": "dev.perapp.com-idoodler-fily",
+ "subtitle": "ipaomtk.com | Fily IPA is an essential app that allows users to manage and organize their files efficiently on their iOS",
+ "description": "Single-app source for Fily (com.idoodler.Fily). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/fily-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.idoodler.Fily",
+   "name": "Fily",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Fily IPA is an essential app that allows users to manage and organize their files efficiently on their iOS‍ devices. With its user-frien",
+   "localizedDescription": "ipaomtk.com | Fily IPA is an essential app that allows users to manage and organize their files efficiently on their iOS‍ devices. With its user-frien",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/fily-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Fily IPA is an essential app that allows users to manage and organize their files efficiently on their iOS‍ devices. With its user-frien",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Fily.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

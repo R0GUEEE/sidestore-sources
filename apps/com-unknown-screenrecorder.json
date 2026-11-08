@@ -1,0 +1,30 @@
+{
+ "name": "Screen Recorder",
+ "identifier": "dev.perapp.com-unknown-screenrecorder",
+ "subtitle": "Screen Recorder by Karbin-Store",
+ "description": "Single-app source for Screen Recorder (com.unknown.screenrecorder). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Screen.Recorder.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.screenrecorder",
+   "name": "Screen Recorder",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Screen.Recorder.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.83",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/Screen.Recorder_1.0.83_3BodSy.ipa",
+     "size": 15660000
+    }
+   ]
+  }
+ ]
+}

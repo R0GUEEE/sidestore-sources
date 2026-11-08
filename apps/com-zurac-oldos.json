@@ -1,0 +1,44 @@
+{
+ "name": "OldOS",
+ "identifier": "dev.perapp.com-zurac-oldos",
+ "subtitle": "ipaomtk.com | OldOS​ IPA a digital time capsule that invites iOS users ⁤on a retro journey⁤ through the interface of pas",
+ "description": "Single-app source for OldOS (com.zurac.OldOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/OldOS-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zurac.OldOS",
+   "name": "OldOS",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | OldOS​ IPA a digital time capsule that invites iOS users ⁤on a retro journey⁤ through the interface of past operating‌ systems.⁤ With a ",
+   "localizedDescription": "ipaomtk.com | OldOS​ IPA a digital time capsule that invites iOS users ⁤on a retro journey⁤ through the interface of past operating‌ systems.⁤ With a ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/OldOS-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "An interesting project, emulating iOS 4 on new iPhones!  Status: ✅",
+     "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+     "size": 195238232
+    },
+    {
+     "version": "1.0",
+     "date": "2026-04-28T00:00:00Z",
+     "localizedDescription": "OldOS is a testament to the days of yesteryear, showcasing what iOS once was ten years ago. The ethos of the app is to merge the technologies of today",
+     "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/1.0_18/OldOS.ipa",
+     "size": 88173533
+    },
+    {
+     "version": "1.0.18",
+     "date": "2025-04-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | OldOS​ IPA a digital time capsule that invites iOS users ⁤on a retro journey⁤ through the interface of past operating‌ systems.⁤ With a ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/OldOS-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

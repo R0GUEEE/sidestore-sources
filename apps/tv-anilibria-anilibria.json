@@ -1,0 +1,30 @@
+{
+ "name": "Anilibria",
+ "identifier": "dev.perapp.tv-anilibria-anilibria",
+ "subtitle": "ipaomtk.com | AniLibria IPA is a popular online streaming platform for anime enthusiasts,⁤ offering a ⁣vast collection o",
+ "description": "Single-app source for Anilibria (tv.anilibria.anilibria). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/preview_148671_1584186549-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.anilibria.anilibria",
+   "name": "Anilibria",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | AniLibria IPA is a popular online streaming platform for anime enthusiasts,⁤ offering a ⁣vast collection of ​anime⁤ series and ‍movies. ",
+   "localizedDescription": "ipaomtk.com | AniLibria IPA is a popular online streaming platform for anime enthusiasts,⁤ offering a ⁣vast collection of ​anime⁤ series and ‍movies. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/preview_148671_1584186549-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.1",
+     "date": "2023-10-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AniLibria IPA is a popular online streaming platform for anime enthusiasts,⁤ offering a ⁣vast collection of ​anime⁤ series and ‍movies. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Anilibria.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

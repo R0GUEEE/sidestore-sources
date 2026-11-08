@@ -1,0 +1,30 @@
+{
+ "name": "Nightmare Farm",
+ "identifier": "dev.perapp.jp-co-hit-point-nightmarefarm",
+ "subtitle": "ipaomtk.com | Welcome to the eerie and captivating world of NIGHTMARE FARM IPA, an iOS game that combines the charm of f",
+ "description": "Single-app source for Nightmare Farm (jp.co.hit-point.nightmarefarm). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/NIGHTMARE-FARM-IPA-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.co.hit-point.nightmarefarm",
+   "name": "Nightmare Farm",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Welcome to the eerie and captivating world of NIGHTMARE FARM IPA, an iOS game that combines the charm of farming simulations with a uniq",
+   "localizedDescription": "ipaomtk.com | Welcome to the eerie and captivating world of NIGHTMARE FARM IPA, an iOS game that combines the charm of farming simulations with a uniq",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/NIGHTMARE-FARM-IPA-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.0",
+     "date": "2023-12-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Welcome to the eerie and captivating world of NIGHTMARE FARM IPA, an iOS game that combines the charm of farming simulations with a uniq",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Nightmare-Farm.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

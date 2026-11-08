@@ -1,0 +1,44 @@
+{
+ "name": "Moises Pro",
+ "identifier": "dev.perapp.ai-moises",
+ "subtitle": "جیاکردنەوەی مێلۆدی لە گۆرانی بە AI",
+ "description": "Single-app source for Moises Pro (ai.moises). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Moises.Pro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.moises",
+   "name": "Moises Pro",
+   "developerName": "Karbin-Store",
+   "subtitle": "جیاکردنەوەی مێلۆدی لە گۆرانی بە AI",
+   "localizedDescription": "جیاکردنەوەی مێلۆدی لە گۆرانی بە AI",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Moises.Pro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.47.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Removed from the repo: Patched. Last updated: 06-23-2024 Status: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.47.0.ipa",
+     "size": 61724090
+    },
+    {
+     "version": "2.40.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Removed from the repo: Patched. Last updated: 06-23-2024 Status: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.40.0.ipa",
+     "size": 60999285
+    },
+    {
+     "version": "2.65.0",
+     "date": "2026-03-07T00:00:00Z",
+     "localizedDescription": "جیاکردنەوەی مێلۆدی لە گۆرانی بە AI",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Moises2.65.0.ipa",
+     "size": 60235186
+    }
+   ]
+  }
+ ]
+}

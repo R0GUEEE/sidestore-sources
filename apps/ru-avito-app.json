@@ -1,0 +1,30 @@
+{
+ "name": "Авито",
+ "identifier": "dev.perapp.ru-avito-app",
+ "subtitle": "Авито",
+ "description": "Single-app source for Авито (ru.avito.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.avito.app",
+   "name": "Авито",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nАвито v199.5\n\n🇷🇺 Просто Avito\n— Удалённое приложение из AppStore\n© Создано: GLESign\n\n🇺🇸 Just Avito\n— Removed app from the AppStore\n© Created: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "199.5",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nАвито v199.5\n\n🇷🇺 Просто Avito\n— Удалённое приложение из AppStore\n© Создано: GLESign\n\n🇺🇸 Just Avito\n— Removed app from the AppStore\n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/a09b2df0-917c-44bf-b7aa-ccea748c1122/______v199.5_tg_glesign_.ipa",
+     "size": 222325966
+    }
+   ]
+  }
+ ]
+}

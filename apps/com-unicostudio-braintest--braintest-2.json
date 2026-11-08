@@ -1,0 +1,44 @@
+{
+ "name": "BrainTest",
+ "identifier": "dev.perapp.com-unicostudio-braintest",
+ "subtitle": "BrainTest",
+ "description": "Single-app source for BrainTest (com.unicostudio.braintest). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unicostudio.braintest",
+   "name": "BrainTest",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.770.0",
+     "date": "2026-08-17T00:00:00Z",
+     "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2144",
+     "size": 161481246
+    },
+    {
+     "version": "2.768.0",
+     "date": "2026-07-05T00:00:00Z",
+     "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2144",
+     "size": 152786574
+    },
+    {
+     "version": "2.767.0",
+     "date": "2026-06-05T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-06-2026/BrainTest_2.767.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 146736662
+    }
+   ]
+  }
+ ]
+}

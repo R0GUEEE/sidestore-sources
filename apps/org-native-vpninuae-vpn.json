@@ -1,0 +1,30 @@
+{
+ "name": "Mena VPN",
+ "identifier": "dev.perapp.org-native-vpninuae-vpn",
+ "subtitle": "ipaomtk.com | MenaVPN IPA is a powerful virtual private network (VPN) that allows users to safely and securely access th",
+ "description": "Single-app source for Mena VPN (org.native.vpninuae.vpn). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-menavpn-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.native.vpninuae.vpn",
+   "name": "Mena VPN",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MenaVPN IPA is a powerful virtual private network (VPN) that allows users to safely and securely access the internet. Mena APK It is an ",
+   "localizedDescription": "ipaomtk.com | MenaVPN IPA is a powerful virtual private network (VPN) that allows users to safely and securely access the internet. Mena APK It is an ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-menavpn-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.13.8",
+     "date": "2023-12-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MenaVPN IPA is a powerful virtual private network (VPN) that allows users to safely and securely access the internet. Mena APK It is an ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Mena-VPN-Pro.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

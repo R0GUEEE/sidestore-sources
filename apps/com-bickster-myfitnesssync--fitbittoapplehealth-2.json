@@ -1,0 +1,30 @@
+{
+ "name": "FitbitToAppleHealth",
+ "identifier": "dev.perapp.com-bickster-myfitnesssync",
+ "subtitle": "FitbitToAppleHealth by Karbin-Store",
+ "description": "Single-app source for FitbitToAppleHealth (com.bickster.myFitnessSync). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/FitbitToAppleHealth.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bickster.myFitnessSync",
+   "name": "FitbitToAppleHealth",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/FitbitToAppleHealth.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.3",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/FitbittoAppleHealth-v3.0.4-.ipa",
+     "size": 37710000
+    }
+   ]
+  }
+ ]
+}

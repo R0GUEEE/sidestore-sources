@@ -1,0 +1,44 @@
+{
+ "name": "MediaConvert",
+ "identifier": "dev.perapp.com-verycoolapp-mediaconvert",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for MediaConvert (com.verycoolapp.mediaconvert). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.verycoolapp.mediaconvert",
+   "name": "MediaConvert",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.17",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@blatants | Media Converter - video to mp3  • Bundle ID: com.verycoolapp.mediaconvert • Updated to: 4.17 • Minimum iOS: 15.0 • Patched • Modifier: Sub",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12921-Media_Converter_video_to_mp3_v4_17_Subscription_Unlocked_blatant.ipa",
+     "size": 65356195
+    },
+    {
+     "version": "4.16",
+     "date": "2026-09-18T00:00:00Z",
+     "localizedDescription": "@blatants | Media Converter - video to mp3  • Bundle ID: com.verycoolapp.mediaconvert • Updated to: 4.16 • Minimum iOS: 15.0 • Patched • Modifier: Sub",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12287-Media_Converter_video_to_mp3_v4_16_Subscription_Unlocked_blatant.ipa",
+     "size": 65354442
+    },
+    {
+     "version": "4.15",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/MediaConvert_4.15_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 64910527
+    }
+   ]
+  }
+ ]
+}

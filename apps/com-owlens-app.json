@@ -1,0 +1,43 @@
+{
+ "name": "OwLens",
+ "identifier": "dev.perapp.com-owlens-app",
+ "subtitle": "🦉 OwLens is a professional-grade iOS cinema camera app designed for filmmakers and creators who demand uncompromising im",
+ "description": "Single-app source for OwLens (com.owlens.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.owlens.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.owlens.app",
+   "name": "OwLens",
+   "developerName": "jeetdoesthings",
+   "subtitle": "🦉 OwLens is a professional-grade iOS cinema camera app designed for filmmakers and creators who demand uncompromising image fidelity and true control over video capture",
+   "localizedDescription": "OwLens:\n\n🦉 OwLens is a professional-grade iOS cinema camera app designed for filmmakers and creators who demand uncompromising image fidelity and true control over video capture. It bypasses Apple's standard image signal processor (ISP), capturing uncompressed 14-bit RAW Bayer sensor data at full sensor resolution ($4032 \\times 3024$, 12.2 MP) and encoding it directly into 10-bit HEVC Log in real time.\n\nKey Highlights & Architecture:\n\n• True 14-Bit Bayer RAW Capture: Bypasses Apple's ISP noise reduction, computational edge sharpening, and adaptive tone mapping. Preserves 100% of native sensor photons directly from camera hardware.\n• Zero Decimation / Full Megapixels: Full $4032 \\times 3024$ native Bayer data is maintained throughout capture and debayering without spatial pixel binning or CFA decimation for 4K video recording.\n• Ultra-Fast Metal Compute Pipeline:.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.owlens.app.png",
+   "tintColor": "#6058e8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.3",
+     "date": "2026-11-03T19:29:43Z",
+     "localizedDescription": "🎙️ Microsecond Lip-Sync & \"Audio Comes First\" Elimination:\n\n• Atomic Frame 0 Anchor: VideoWriter.appendFrame now atomically verifies VideoToolbox encoder readiness (patient spin-wait up to 150 ms) and commits Video Frame 0 at PTS = .zero before draining preroll audio buffers. This completely eliminates the startup gap where audio was previously written to the container before the video track had its first frame.\n• Microsecond Zero-PTS Audio Alignment: The first drained audio buffer is anchored strictly to PTS = .zero with subsequent packets chained monotonically via lastAudioEndPTS. Both audio and video tracks start at the exact same physical microsecond.\n• Tripled Preroll Buffer Capacity: Expanded maxPrerollAudioBuffers from 20 to 60 buffers (~1.25s), ensuring that hardware camera spin-up or configuration latency never causes preroll audio frames corresponding to Frame 0 to be discarded.\n\n🎞️ Dual-Stage Pipelining & Frame Skip Elimination:\n\n• Independent Sensor & ISP Semaphores: Replaced the single blocking inFlightCaptures counter with a dual-stage tracking system:.\n\n• sensorInFlight (limit: 2): Decremented immediately when photoOutput(_:didCapturePhotoFor:) signals sensor exposure and readout completion. The camera sensor is immediately freed to expose the next frame at the exact 24.000 FPS timer interval without waiting for background DNG packaging.\n• ispInFlight (limit: 5): Decremented in photoOutput(_:didFinishProcessingPhoto:error:) (with fallback in didFinishCaptureFor). Hard-caps total concurrent ISP jobs in mediaserverd to prevent surface pool exhaustion.\n\n• Eliminated Sensor Starvation: The sensor exposure loop is no longer throttled by 60–80ms ISP packaging latencies, sustaining true 24.000 CFR capture without missed ticks or hold-frame stuttering.\n• Resilient Video Backpressure: Increased video encoder spin-wait attempts to 15 (30 ms) to absorb transient VideoToolbox GOP boundary encoding spikes without dropping frames.\n\n📦 Build & Packaging:\n\n• App Version: 2.1.3 (Build 14).",
+     "downloadURL": "https://github.com/jeetdoesthings/OwLens/releases/download/2.1.3/OwLens.ipa",
+     "size": 575868
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "OwLens needs camera access to capture RAW sensor data for log-encoded video recording.",
+     "NSMicrophoneUsageDescription": "OwLens needs microphone access to record audio alongside video.",
+     "NSPhotoLibraryAddUsageDescription": "Save recorded log-encoded video to your photo library."
+    }
+   }
+  }
+ ]
+}

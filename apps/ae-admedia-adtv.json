@@ -1,0 +1,30 @@
+{
+ "name": "ADtv",
+ "identifier": "dev.perapp.ae-admedia-adtv",
+ "subtitle": "ipaomtk.com | ADtv Now is one of the latest technological advances in the world of television. This innovative service o",
+ "description": "Single-app source for ADtv (ae.admedia.adtv). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/adtv-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ae.admedia.adtv",
+   "name": "ADtv",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | ADtv Now is one of the latest technological advances in the world of television. This innovative service offers a streaming platform tha",
+   "localizedDescription": "ipaomtk.com | ADtv Now is one of the latest technological advances in the world of television. This innovative service offers a streaming platform tha",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/adtv-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.19",
+     "date": "2023-05-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | ADtv Now is one of the latest technological advances in the world of television. This innovative service offers a streaming platform tha",
+     "downloadURL": "https://file.ipaomtk.com/ipa/ADtv.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

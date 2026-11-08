@@ -1,0 +1,30 @@
+{
+ "name": "DramaFlix_1.1.0",
+ "identifier": "dev.perapp.synthetic-dramaflix-1-1-0-753c43e8",
+ "subtitle": "Movie app",
+ "description": "Single-app source for DramaFlix_1.1.0 (synthetic.dramaflix-1-1-0.753c43e8). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/DramaFlix_1.1.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.dramaflix-1-1-0.753c43e8",
+   "name": "DramaFlix_1.1.0",
+   "developerName": "DramaFlix_1.1.0 x CyPwn",
+   "subtitle": "Movie app",
+   "localizedDescription": "Movie app",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/DramaFlix_1.1.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Movie app",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/DramaFlix_1.1.0.ipa",
+     "size": 11817451
+    }
+   ]
+  }
+ ]
+}

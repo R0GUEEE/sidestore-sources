@@ -1,0 +1,37 @@
+{
+ "name": "Flappy Dunk",
+ "identifier": "dev.perapp.com-acidcousins-fdunk",
+ "subtitle": "ipaomtk.com | Flappy Dunk – The Addictive Basketball Arcade Game for iPhone Flappy Dunk is a fast-paced arcade basketbal",
+ "description": "Single-app source for Flappy Dunk (com.acidcousins.fdunk). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Flappy-Dunk-IPA-v2.14.1-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.acidcousins.fdunk",
+   "name": "Flappy Dunk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Flappy Dunk – The Addictive Basketball Arcade Game for iPhone Flappy Dunk is a fast-paced arcade basketball game that transforms simple ",
+   "localizedDescription": "ipaomtk.com | Flappy Dunk – The Addictive Basketball Arcade Game for iPhone Flappy Dunk is a fast-paced arcade basketball game that transforms simple ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Flappy-Dunk-IPA-v2.14.1-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.14.2",
+     "date": "2026-02-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Flappy Dunk – The Addictive Basketball Arcade Game for iPhone Flappy Dunk is a fast-paced arcade basketball game that transforms simple ",
+     "downloadURL": "https://file.ipaomtk.com/flappy-dunk/Flappy-Dunk-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.17.0",
+     "date": "2026-02-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Flappy Dunk – The Addictive Basketball Arcade Game for iPhone Flappy Dunk is a fast-paced arcade basketball game that transforms simple ",
+     "downloadURL": "https://file.ipaomtk.com/flappy-dunk/Flappy-Dunk-IPAOMTK.COM.ipa",
+     "size": 105111105
+    }
+   ]
+  }
+ ]
+}

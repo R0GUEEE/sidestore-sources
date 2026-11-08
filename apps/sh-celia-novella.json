@@ -1,0 +1,44 @@
+{
+ "name": "Novella",
+ "identifier": "dev.perapp.sh-celia-novella",
+ "subtitle": "使用 React Native 构建的轻书架第三方客户端，面向 iOS、iPadOS。",
+ "description": "Single-app source for Novella (sh.celia.novella). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Novella/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "sh.celia.novella",
+   "name": "Novella",
+   "developerName": "CELIA",
+   "subtitle": "使用 React Native 构建的轻书架第三方客户端，面向 iOS、iPadOS。",
+   "localizedDescription": "使用 React Native 构建的轻书架第三方客户端，面向 iOS、iPadOS。\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Novella/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "使用 React Native 构建的轻书架第三方客户端，面向 iOS、iPadOS。",
+     "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v2.7.0/Novella-2.7.0-release.ipa",
+     "size": 29786138
+    },
+    {
+     "version": "2.6.0",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "使用 React Native 构建的轻书架第三方客户端，面向 iOS、iPadOS。",
+     "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v2.6.0/Novella-2.6.0-release.ipa",
+     "size": 29979710
+    },
+    {
+     "version": "2.5.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "使用 React Native 构建的轻书架第三方客户端，面向 iOS、iPadOS。",
+     "downloadURL": "https://github.com/celia-sh/Novella/releases/download/v2.5.0/Novella-2.5.0-release.ipa",
+     "size": 26047504
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "Musonic",
+ "identifier": "dev.perapp.org-reactjs-native-example-musonic",
+ "subtitle": "A Spotify-like client for Navidrome, Subsonic & OctoFiesta — self-hosted music, done right. Built with React Native",
+ "description": "Single-app source for Musonic (org.reactjs.native.example.Musonic). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#eb6332",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.reactjs.native.example.Musonic.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.reactjs.native.example.Musonic",
+   "name": "Musonic",
+   "developerName": "DoodzDev",
+   "subtitle": "A Spotify-like client for Navidrome, Subsonic & OctoFiesta — self-hosted music, done right. Built with React Native",
+   "localizedDescription": "Musonic:\n\nYour music, your server, beautifully played.\n\nApps for Android, iOS and the browser, and Musonic Server to host your library yourself. Also works with Navidrome and any Subsonic-compatible server.\n\nMusonic for Android and iOS:\n\nA calm, fast music app: full-screen player with synced lyrics, a queue you can reorder, Shuffle Magic, Magic Mixes by genre, a home built from what you play, offline downloads (Wi-Fi first), separate streaming quality on Wi-Fi and mobile data, Android Auto (beta), English and French. → apps/mobile · changelog.\n\nMusonic Web:\n\nThe complete Musonic in a desktop browser: home, search, library, synced lyrics, full-screen player, floating mini player, keyboard and media keys. Import a Spotify or Deezer playlist from its address (with Musonic Server). Use it online, nothing to install, or host it yourself. → apps/web · changelog.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.reactjs.native.example.Musonic.png",
+   "tintColor": "#eb6332",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/DoodzDev/Musonic@main/docs/assets/img/screenshots/home.jpg",
+    "https://cdn.jsdelivr.net/gh/DoodzDev/Musonic@main/docs/assets/img/screenshots/player.jpg",
+    "https://cdn.jsdelivr.net/gh/DoodzDev/Musonic@main/docs/assets/img/screenshots/lyrics.jpg",
+    "https://cdn.jsdelivr.net/gh/DoodzDev/Musonic@main/docs/assets/img/screenshots/search_results.jpg",
+    "https://cdn.jsdelivr.net/gh/DoodzDev/Musonic@main/docs/assets/img/screenshots/library.jpg"
+   ],
+   "versions": [
+    {
+     "version": "2.3.0",
+     "date": "2026-10-29T21:23:20Z",
+     "localizedDescription": "Podcasts, on the phone and in the car. Search shows and the episodes where someone speaks, follow them, and pick up an episode where you left it, on any device. In Android Auto, your shows are in Library → Podcasts, with −15 s, +30 s and the speed on the playback screen.\n\nAdded:\n\n• Podcasts (needs Musonic Server 1.1.0) — search shows and the episodes where a person speaks (in All and in a Podcasts tab), a show page with Follow, a Podcasts tab in the Library.\n• Episodes resume where you stopped, on any device; speed (0.75× to 2×) and −15 s / +30 s jumps in the player; transcripts shown as lyrics.\n• Podcasts in Android Auto — Library → Podcasts: the shows you follow, then their episodes (date, time left); an episode resumes where you stopped. On the car's playback screen, an episode gets −15 s, +30 s and its speed (the number on the button) instead of shuffle, repeat and like; no queue nor lyrics.\n\nChanged:\n\n• The search loses its « My library » filter: the Library has its own search.\n• Previous and Next are a triangle and a bar, the same icons as Musonic Web and the console.\n\nFixed:\n\n• An episode whose feed gives no duration showed a progress bar stuck at 0:01 in the full player: the player's own duration is used.\n\nPodcasts need Musonic Server 1.1.0; everything else works as before with other servers.",
+     "downloadURL": "https://github.com/DoodzDev/Musonic/releases/download/mobile-v2.3.0/Musonic.ipa",
+     "size": 8775021
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

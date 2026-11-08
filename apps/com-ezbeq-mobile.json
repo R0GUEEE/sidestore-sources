@@ -1,0 +1,37 @@
+{
+ "name": "ezbeq",
+ "identifier": "dev.perapp.com-ezbeq-mobile",
+ "subtitle": "for local remote control of a minidsp, HTP-1, StormAudio processor or other supported DSP",
+ "description": "Single-app source for ezbeq (com.ezbeq.mobile). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8466af",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ezbeq.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ezbeq.mobile",
+   "name": "ezbeq",
+   "developerName": "3ll3d00d",
+   "subtitle": "for local remote control of a minidsp, HTP-1, StormAudio processor or other supported DSP",
+   "localizedDescription": "ezbeq:\n\nwith minidsp-rs for local remote control of a minidsp, HTP-1, StormAudio processor or other supported DSP.\n\nA companion mobile app (iOS/iPadOS + Android) is also available, covering the main BEQ workflow against an existing ezbeq server.\n\nFull documentation, including this README, is also published at.\n\nWindows / MacOS:\n\nPython is required so use an appropriate package manager to install it.\n\nchocolatey is a convenient choice for Windows.\n\nLinux:\n\nUse your distro package manager to install python.\n\nRunning in Docker:\n\nSet EZBEQ_ACCESS_LOG_STDOUT=1 in your container environment to echo every HTTP request to stdout so it appears in docker compose logs. This is independent of accessLogging: in ezbeq.yml (which controls the access log file).\n\nExample Config Files:\n\nSee examples.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ezbeq.mobile.png",
+   "tintColor": "#8466af",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.13.4",
+     "date": "2026-11-06T18:32:32Z",
+     "localizedDescription": "• 14f3a46 - Compare entries across film/TV when the TMDb id agrees (#180).\n• 247d65a - Bump astral-sh/setup-uv from 10.3.2 to 10.3.3 (#181).",
+     "downloadURL": "https://github.com/3ll3d00d/ezbeq/releases/download/2.13.4/ezbeq-mobile-ios-unsigned.ipa",
+     "size": 11177342
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Allow ezbeq to access your camera",
+     "NSMicrophoneUsageDescription": "Allow ezbeq to access your microphone"
+    }
+   }
+  }
+ ]
+}

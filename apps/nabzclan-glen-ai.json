@@ -1,0 +1,30 @@
+{
+ "name": "Glen AI",
+ "identifier": "dev.perapp.nabzclan-glen-ai",
+ "subtitle": "Glen AI by sidelix",
+ "description": "Single-app source for Glen AI (Nabzclan.Glen-AI). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761701141.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Nabzclan.Glen-AI",
+   "name": "Glen AI",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "glen ai by nabzclan",
+   "iconURL": "https://appstore.sidelix.vip/images/1761701141.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2025-10-28T00:00:00Z",
+     "localizedDescription": "glen ai by nabzclan",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1843",
+     "size": 7479490
+    }
+   ]
+  }
+ ]
+}

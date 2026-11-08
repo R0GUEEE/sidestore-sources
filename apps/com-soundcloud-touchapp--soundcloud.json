@@ -1,0 +1,30 @@
+{
+ "name": "soundcloud",
+ "identifier": "dev.perapp.com-soundcloud-touchapp",
+ "subtitle": "soundcloud",
+ "description": "Single-app source for soundcloud (com.soundcloud.TouchApp). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.soundcloud.TouchApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.soundcloud.TouchApp",
+   "name": "soundcloud",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.soundcloud.TouchApp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.22.0-scmusicplus-2.2.1",
+     "date": "2024-10-17T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/soundcloud/soundcloud-6.22.0-scmusicplus-2.2.1.ipa",
+     "size": 61258341
+    }
+   ]
+  }
+ ]
+}

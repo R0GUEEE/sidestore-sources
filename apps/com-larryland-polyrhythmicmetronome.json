@@ -1,0 +1,30 @@
+{
+ "name": "PolyNome",
+ "identifier": "dev.perapp.com-larryland-polyrhythmicmetronome",
+ "subtitle": "ipaomtk.com | PolyNome THE Metronome IPA v24.10.2 Paid THE Metronome App that’s revolutionising the way musicians practi",
+ "description": "Single-app source for PolyNome (com.larryland.polyrhythmicmetronome). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/PolyNome-THE-Metronome.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.larryland.polyrhythmicmetronome",
+   "name": "PolyNome",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | PolyNome THE Metronome IPA v24.10.2 Paid THE Metronome App that’s revolutionising the way musicians practice and perform. This powerful ",
+   "localizedDescription": "ipaomtk.com | PolyNome THE Metronome IPA v24.10.2 Paid THE Metronome App that’s revolutionising the way musicians practice and perform. This powerful ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/PolyNome-THE-Metronome.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.10.2",
+     "date": "2024-10-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | PolyNome THE Metronome IPA v24.10.2 Paid THE Metronome App that’s revolutionising the way musicians practice and perform. This powerful ",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/PolyNome_THE_Metronome-v24.10.2-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

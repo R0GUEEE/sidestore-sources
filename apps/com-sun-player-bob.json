@@ -1,0 +1,37 @@
+{
+ "name": "BOB PLAYER",
+ "identifier": "dev.perapp.com-sun-player-bob",
+ "subtitle": "ipaomtk.com | What is BOB PLAYER IPA? BOB PLAYER IPA is an iOS media player app package that allows iPhone users to stre",
+ "description": "Single-app source for BOB PLAYER (com.sun.player.bob). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/BOB-PLAYER-IPA-v1.4-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sun.player.bob",
+   "name": "BOB PLAYER",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is BOB PLAYER IPA? BOB PLAYER IPA is an iOS media player app package that allows iPhone users to stream and play video content thro",
+   "localizedDescription": "ipaomtk.com | What is BOB PLAYER IPA? BOB PLAYER IPA is an iOS media player app package that allows iPhone users to stream and play video content thro",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/BOB-PLAYER-IPA-v1.4-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4",
+     "date": "2026-04-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is BOB PLAYER IPA? BOB PLAYER IPA is an iOS media player app package that allows iPhone users to stream and play video content thro",
+     "downloadURL": "https://file.ipaomtk.com/bob-player/BOB-PLAYER-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.5",
+     "date": "2026-04-05T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nipaomtk.com | What is BOB PLAYER IPA? BOB PLAYER IPA is an iOS media player app package that allows iPhone users to stream and play video content thro",
+     "downloadURL": "https://file.ipaomtk.com/bob-player/BOB-PLAYER-IPAOMTK.COM.ipa",
+     "size": 44357148
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Factorio",
+ "identifier": "dev.perapp.pl-adrian-factoriopad",
+ "subtitle": "Play Factorio on iPhone and iPad with a gamepad or keyboard and mouse, using your own Mac installation",
+ "description": "Single-app source for Factorio (pl.adrian.FactorioPad). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#af5827",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/pl.adrian.FactorioPad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "pl.adrian.FactorioPad",
+   "name": "Factorio",
+   "developerName": "MyNameIsArko",
+   "subtitle": "Play Factorio on iPhone and iPad with a gamepad or keyboard and mouse, using your own Mac installation",
+   "localizedDescription": "FactorioPad:\n\nPlay Factorio on your iPhone or iPad. You need iOS 17 or iPadOS 17 or newer. Use touch controls, a gamepad, or a keyboard and mouse.\n\nYou need your own copy of Factorio. You do not need Xcode or a Mac. Tested on Factorio 2.0.77. Other versions are allowed but untested. The companion skips texture fixes when it cannot find their instruction patterns. The executable and game data must use the same version. The companion supports Windows x64, Macs with Apple silicon, and Linux x64.\n\nWhat changes on iPhone and iPad:\n\n• Standard supports touch controls, a keyboard and mouse, or a gamepad. Select Native gamepad for analog movement and Factorio's controller interface. Touch controls are unavailable in that mode.\n• Physical keyboards and mice support typing, clicks, dragging, and scrolling.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/pl.adrian.FactorioPad.png",
+   "tintColor": "#af5827",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.4",
+     "date": "2026-10-31T13:49:07Z",
+     "localizedDescription": "Fix Factorio 2.1.24 startup.",
+     "downloadURL": "https://github.com/MyNameIsArko/FactorioPad/releases/download/v2.2.4/FactorioPad-template.ipa",
+     "size": 2964937
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

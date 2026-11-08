@@ -1,0 +1,44 @@
+{
+ "name": "Pngo",
+ "identifier": "dev.perapp.com-bdor14026-aditor",
+ "subtitle": "ئەپیک تایبەت بە داونلۆد کردنی ڤیدۆ ئیش پیکردنی بەبی خەت",
+ "description": "Single-app source for Pngo (com.bdor14026.aditor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/pngo-logo.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bdor14026.aditor",
+   "name": "Pngo",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپیک تایبەت بە داونلۆد کردنی ڤیدۆ ئیش پیکردنی بەبی خەت",
+   "localizedDescription": "ئەپیک تایبەت بە داونلۆد کردنی ڤیدۆ ئیش پیکردنی بەبی خەت",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/pngo-logo.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "ئەپیک تایبەت بە داونلۆد کردنی ڤیدۆ ئیش پیکردنی بەبی خەت",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-spa-1/Pngo-v1.6-AppTesters.ipa",
+     "size": 71900000
+    },
+    {
+     "version": "1.8.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "ئەپیک تایبەت بە داونلۆد کردنی ڤیدۆ ئیش پیکردنی بەبی خەت",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-spa-1/Pngo-v1.6-AppTesters.ipa",
+     "size": 8285047
+    },
+    {
+     "version": "1.4",
+     "date": "2024-06-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pngo IPA MOD, the powerful and versatile iOS application that is revolutionizing the way you interact with your mobile device. As an exp",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Pngo.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

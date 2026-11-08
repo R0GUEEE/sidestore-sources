@@ -1,0 +1,46 @@
+{
+ "name": "OneXray",
+ "identifier": "dev.perapp.net-yuandev-onexray",
+ "subtitle": "Open-source Xray-core client for iOS, macOS, Android, Windows, and Linux. Smart routing, subscription management, and cu",
+ "description": "Single-app source for OneXray (net.yuandev.onexray). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1e89ff",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/net.yuandev.onexray.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.yuandev.onexray",
+   "name": "OneXray",
+   "developerName": "YuanDevTeam",
+   "subtitle": "Open-source Xray-core client for iOS, macOS, Android, Windows, and Linux. Smart routing, subscription management, and custom JSON configs. Available on the App Store, Google Play, and Microsoft Store",
+   "localizedDescription": "Bring your own servers or subscription. OneXray does not provide VPN access or proxy servers.\n\nWhy OneXray:\n\n• Across your devices. Use iPhone, iPad, Mac, Android, Windows or Linux, with light/dark themes and five interface languages.\n• Your servers, organized. Import share links, Xray JSON and subscriptions. Group manual nodes and reorder them by dragging.\n• Routing you control. Choose Smart or Custom Routing, or use complete Raw and provider configurations, including Remnawave subscriptions.\n\nGet started:\n\n• Install from the official store and complete setup and system permissions. Windows and Linux also need an outbound-interface selection.\n• Open Servers and add your subscription, share links or Xray JSON. Complete provider configurations are recognized during subscription import.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/net.yuandev.onexray.png",
+   "tintColor": "#1e89ff",
+   "screenshots": [
+    "https://onexray.com/images/screenshots/devices-en.png"
+   ],
+   "versions": [
+    {
+     "version": "26.11.2",
+     "date": "2026-11-05T12:47:59Z",
+     "localizedDescription": "Apple:\n\n• Use one Widget or Control Center switch to start or stop VPN in the background on supported iOS versions.\n• Fixed macOS system-extension authorization retries.\n• iOS now requires version 16 or later.\n\nLinux:\n\n• Fixed opening the tray menu.\n\nAll platforms:\n\n• Redesigned navigation and setup for phones, tablets and desktops.\n• JSON editors now fill the available space.\n• Connect without waiting for latency tests; logs clear before each new VPN session.\n• Updated Xray-core to v26.10.31.\n\nLinux:\n\n• 更新 Xray-core 至 v26.10.31。.",
+     "downloadURL": "https://github.com/YuanDevTeam/OneXray/releases/download/v26.11.2/OneXray-ios.ipa",
+     "size": 91357457
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "This app needs camera access to scan QR codes",
+     "NSPhotoLibraryUsageDescription": "This app needs photos access to get QR code from photo library"
+    }
+   }
+  }
+ ]
+}

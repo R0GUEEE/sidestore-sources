@@ -1,0 +1,30 @@
+{
+ "name": "NotePlan",
+ "identifier": "dev.perapp.co-noteplan-noteplan3",
+ "subtitle": "NotePlan",
+ "description": "Single-app source for NotePlan (co.noteplan.NotePlan3). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.noteplan.NotePlan3",
+   "name": "NotePlan",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.22",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/NotePlan_3.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 129952521
+    }
+   ]
+  }
+ ]
+}

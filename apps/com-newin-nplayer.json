@@ -1,0 +1,30 @@
+{
+ "name": "nPlayerPlus",
+ "identifier": "dev.perapp.com-newin-nplayer",
+ "subtitle": "Having received positive reviews about nPlayer, I'm posting it here as a potential alternative of Infuse! Last updated: ",
+ "description": "Single-app source for nPlayerPlus (com.newin.nplayer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.newin.nplayer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.newin.nplayer",
+   "name": "nPlayerPlus",
+   "developerName": "iOSGods!",
+   "subtitle": "Having received positive reviews about nPlayer, I'm posting it here as a potential alternative of Infuse! Last updated: 12-19-2023 Status: ✅",
+   "localizedDescription": "Having received positive reviews about nPlayer, I'm posting it here as a potential alternative of Infuse! Last updated: 12-19-2023 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.newin.nplayer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.12.17",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Having received positive reviews about nPlayer, I'm posting it here as a potential alternative of Infuse! Last updated: 12-19-2023 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/nPlayerPlus/nPlayerPlus-3.12.17.ipa",
+     "size": 42439541
+    }
+   ]
+  }
+ ]
+}

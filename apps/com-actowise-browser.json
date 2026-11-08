@@ -1,0 +1,30 @@
+{
+ "name": "Zoomable",
+ "identifier": "dev.perapp.com-actowise-browser",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for Zoomable (com.actowise.browser). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.actowise.browser",
+   "name": "Zoomable",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2025/Zoomable_3.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 5599581
+    }
+   ]
+  }
+ ]
+}

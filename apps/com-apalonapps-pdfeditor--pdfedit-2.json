@@ -1,0 +1,30 @@
+{
+ "name": "Pdfedit",
+ "identifier": "dev.perapp.com-apalonapps-pdfeditor",
+ "subtitle": "Pdfedit",
+ "description": "Single-app source for Pdfedit (com.apalonapps.pdfeditor). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.pdfeditor",
+   "name": "Pdfedit",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription.Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdfeditor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.14.17",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "Injected with Subscription.Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/Pdfedit_2.14.17_Subscription.Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 370508713
+    }
+   ]
+  }
+ ]
+}

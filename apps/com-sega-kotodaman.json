@@ -1,0 +1,37 @@
+{
+ "name": "コトダマン",
+ "identifier": "dev.perapp.com-sega-kotodaman",
+ "subtitle": "ipaomtk.com | Are you a fan of Japanese role-playing games? Do you enjoy challenging word puzzles? If so, then get ready",
+ "description": "Single-app source for コトダマン (com.sega.Kotodaman). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/%E3%82%B3%E3%83%88%E3%83%80%E3%83%9E%E3%83%B3-%E2%80%90-%E5%85%B1%E9%97%98%E3%81%93%E3%81%A8%E3%81%B0rpg-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sega.Kotodaman",
+   "name": "コトダマン",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Are you a fan of Japanese role-playing games? Do you enjoy challenging word puzzles? If so, then get ready to dive into the immersive wo",
+   "localizedDescription": "ipaomtk.com | Are you a fan of Japanese role-playing games? Do you enjoy challenging word puzzles? If so, then get ready to dive into the immersive wo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/%E3%82%B3%E3%83%88%E3%83%80%E3%83%9E%E3%83%B3-%E2%80%90-%E5%85%B1%E9%97%98%E3%81%93%E3%81%A8%E3%81%B0rpg-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.17.1",
+     "date": "2023-08-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Are you a fan of Japanese role-playing games? Do you enjoy challenging word puzzles? If so, then get ready to dive into the immersive wo",
+     "downloadURL": "https://file.ipaomtk.com/Kyoutou%20Kotoba%20RPG%20Kotodaman/Kyoutou-Kotoba-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "9.6.2",
+     "date": "2023-08-22T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Are you a fan of Japanese role-playing games? Do you enjoy challenging word puzzles? If so, then get ready to dive into the immersive wo",
+     "downloadURL": "https://file.ipaomtk.com/Kyoutou%20Kotoba%20RPG%20Kotodaman/Kyoutou-Kotoba-IPAOMTK.COM.ipa",
+     "size": 130908110
+    }
+   ]
+  }
+ ]
+}

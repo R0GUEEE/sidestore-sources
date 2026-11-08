@@ -1,0 +1,37 @@
+{
+ "name": "SymbOS",
+ "identifier": "dev.perapp.io-github-harkhowalia1-symbos",
+ "subtitle": "Symbian^3 and Belle apps on iPhone, iPad and Mac, from a home screen that looks and works like the iPhone's",
+ "description": "Single-app source for SymbOS (io.github.harkhowalia1.symbos). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4176b5",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.harkhowalia1.symbos.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.harkhowalia1.symbos",
+   "name": "SymbOS",
+   "developerName": "harkhowalia-1",
+   "subtitle": "Symbian^3 and Belle apps on iPhone, iPad and Mac, from a home screen that looks and works like the iPhone's",
+   "localizedDescription": "SymbOS:\n\nSymbian^3 and Belle apps on iPhone, iPad and Mac, from a home screen that looks and works like the iPhone's.\n\nTap + to install a .sis or .sisx file and it lands on the home screen next to your phone's own apps. Put any Symbian app on the real iPhone Home Screen or in the Mac's Applications folder and Dock; tapping it opens straight into that app, the way Parallels runs Windows apps on a Mac. SymbOS is built on the open-source EKA2L1 emulator and its iOS port.\n\nWebsite and downloads: https://harkhowalia-1.github.io/SymbOS (published by .github/workflows/pages.yml).\n\nEarly development. The first build happens in GitHub Actions on the first push, and nothing has run on a device yet. Expect the first CI runs to need fixes.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.harkhowalia1.symbos.png",
+   "tintColor": "#4176b5",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.0",
+     "date": "2026-10-15T01:30:23Z",
+     "localizedDescription": "iPhone and iPad: install SymbOS.ipa with SideStore, AltStore or Sideloadly, or add the source from the website. For JIT, launch it from StikDebug. Mac (Apple silicon): open SymbOS.dmg and drag SymbOS to Applications.\n\nYou need firmware dumped from your own Symbian phone. See the guide on the website.",
+     "downloadURL": "https://github.com/harkhowalia-1/SymbOS/releases/download/v0.3.0/SymbOS.ipa",
+     "size": 7297842
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Adding an app to your Home Screen briefly serves a profile to Safari from this device.",
+     "NSMotionUsageDescription": "Symbian games that use the tilt sensor read your device's motion."
+    }
+   }
+  }
+ ]
+}

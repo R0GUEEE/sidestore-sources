@@ -1,0 +1,44 @@
+{
+ "name": "SoundCloud",
+ "identifier": "dev.perapp.com-soundcloud-touchapp",
+ "subtitle": "scholars lounge | SoundCloud v8.7.0 - NexaSC Beta v3.0 - AppStore Link - Injected With NexaSC b3 - NexaSC Features: • So",
+ "description": "Single-app source for SoundCloud (com.soundcloud.TouchApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/67575.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.soundcloud.TouchApp",
+   "name": "SoundCloud",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | SoundCloud v8.7.0 - NexaSC Beta v3.0 - AppStore Link - Injected With NexaSC b3 - NexaSC Features: • SoundCloud Go+ unlock with ads r",
+   "localizedDescription": "scholars lounge | SoundCloud v8.7.0 - NexaSC Beta v3.0 - AppStore Link - Injected With NexaSC b3 - NexaSC Features: • SoundCloud Go+ unlock with ads r",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/67575.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.85.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@ipavault | SoundCloud 8.85.0 (NexaSC-b4)  Steps to unlock SoundCloud Go+ and Downloading Songs:  1.) Open SoundCloud 2.) Press and hold the Home butt",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.85.0.+.NexaSC.ipa",
+     "size": 356714248
+    },
+    {
+     "version": "8.84.0",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "Steps to unlock SoundCloud Go+ and Downloading Songs:  1.) Open SoundCloud 2.) Press and hold the Home button on the bottom-left corner of the tab bar",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.84.0.NexaSC.ipa",
+     "size": 227577628
+    },
+    {
+     "version": "8.83.1",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@ipavault | SoundCloud 8.83.1 (NexaSC-b4)  ▪Updated to SoundCloud 8.83.1 Steps to unlock SoundCloud Go+ and Downloading Songs:  1.) Open SoundCloud 2.",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.83.1.NexaSC.ipa",
+     "size": 227742189
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Outplayer",
+ "identifier": "dev.perapp.com-stps-outplayer",
+ "subtitle": "ipaomtk.com | Outplayer IPA is a revolutionary mobile gaming application that lets modern gamers enjoy the thrills of cl",
+ "description": "Single-app source for Outplayer (com.stps.outplayer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/512x512bb-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stps.outplayer",
+   "name": "Outplayer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Outplayer IPA is a revolutionary mobile gaming application that lets modern gamers enjoy the thrills of classic video gaming right on th",
+   "localizedDescription": "ipaomtk.com | Outplayer IPA is a revolutionary mobile gaming application that lets modern gamers enjoy the thrills of classic video gaming right on th",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/512x512bb-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2023.4",
+     "date": "2023-03-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Outplayer IPA is a revolutionary mobile gaming application that lets modern gamers enjoy the thrills of classic video gaming right on th",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Outplayer.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

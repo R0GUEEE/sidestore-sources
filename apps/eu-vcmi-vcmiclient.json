@@ -1,0 +1,37 @@
+{
+ "name": "VCMI",
+ "identifier": "dev.perapp.eu-vcmi-vcmiclient",
+ "subtitle": "VCMI is a open source cross-platform HoMM3 engine written from scratch.   You need data copied from original game to pla",
+ "description": "Single-app source for VCMI (eu.vcmi.vcmiclient). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/vcmi/vcmi/raw/develop/clientapp/icons/vcmiclient.512x512.png",
+ "apps": [
+  {
+   "bundleIdentifier": "eu.vcmi.vcmiclient",
+   "name": "VCMI",
+   "developerName": "VCMI Team",
+   "subtitle": "VCMI is a open source cross-platform HoMM3 engine written from scratch.   You need data copied from original game to play.  Follow instructions from h",
+   "localizedDescription": "VCMI is a open source cross-platform HoMM3 engine written from scratch.   You need data copied from original game to play.  Follow instructions from h",
+   "iconURL": "https://github.com/vcmi/vcmi/raw/develop/clientapp/icons/vcmiclient.512x512.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.5",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Open-source engine for Heroes of Might and Magic III.",
+     "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.7.5/VCMI-iOS.ipa",
+     "size": 28187923
+    },
+    {
+     "version": "1.6.7",
+     "date": "2025-02-28T00:00:00Z",
+     "localizedDescription": "VCMI is a open source cross-platform HoMM3 engine written from scratch.   You need data copied from original game to play.  Follow instructions from h",
+     "downloadURL": "https://github.com/vcmi/vcmi/releases/download/1.6.7/VCMI-iOS.ipa",
+     "size": 20863158
+    }
+   ]
+  }
+ ]
+}

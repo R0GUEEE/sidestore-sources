@@ -1,0 +1,39 @@
+{
+ "name": "Ito",
+ "identifier": "dev.perapp.moe-itoapp-ito",
+ "subtitle": "Open source manga, Anime and Novel viewer for iOS",
+ "description": "Single-app source for Ito (moe.itoapp.ito). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#64bd9e",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/moe.itoapp.ito.png",
+ "apps": [
+  {
+   "bundleIdentifier": "moe.itoapp.ito",
+   "name": "Ito",
+   "developerName": "AtiinLabs",
+   "subtitle": "Open source manga, Anime and Novel viewer for iOS",
+   "localizedDescription": "Features:\n\n• Native manga and novel readers, plus video playback.\n• One library with local history and backups.\n• AniList discovery and progress tracking with AniList, MyAnimeList or MangaBaka.\n• Extensible .ito source plugins with search and source settings.\n\nBuild from source:\n\nRequires Xcode 26.2 or later. Supports iOS and iPadOS 15.4+.\n\nLet Swift packages resolve, select your signing team and device, then run with ⌘R.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/moe.itoapp.ito.png",
+   "tintColor": "#64bd9e",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/AtiinLabs/Ito@main/assets/screenshots/library.png",
+    "https://cdn.jsdelivr.net/gh/AtiinLabs/Ito@main/assets/screenshots/details.png",
+    "https://cdn.jsdelivr.net/gh/AtiinLabs/Ito@main/assets/screenshots/reader.png",
+    "https://cdn.jsdelivr.net/gh/AtiinLabs/Ito@main/assets/screenshots/novel.png"
+   ],
+   "versions": [
+    {
+     "version": "1.4.1",
+     "date": "2026-11-02T20:55:13Z",
+     "localizedDescription": "Automated unsigned dev build from main at commit f4ddf88. This build is for testing and may be unstable.",
+     "downloadURL": "https://github.com/AtiinLabs/Ito/releases/download/dev-201/Ito-1.4.1-dev.201-unsigned.ipa",
+     "size": 13053717
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

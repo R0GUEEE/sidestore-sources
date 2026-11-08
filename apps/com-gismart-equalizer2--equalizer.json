@@ -1,0 +1,30 @@
+{
+ "name": "Equalizer",
+ "identifier": "dev.perapp.com-gismart-equalizer2",
+ "subtitle": "Equalizer",
+ "description": "Single-app source for Equalizer (com.gismart.equalizer2). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/509e7a9d-325c-47d3-ab01-fcd228268e7e/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gismart.equalizer2",
+   "name": "Equalizer",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Equalizer - Volume Booster EQ\n\nTweak: All Features Unlocked\n\nVersion: 1.9\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/509e7a9d-325c-47d3-ab01-fcd228268e7e/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Equalizer - Volume Booster EQ\n\nTweak: All Features Unlocked\n\nVersion: 1.9\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/47bfe36f-5efd-4fc7-bb7c-b9fa202f1728/Equalizer_-_Volume_Booster_EQ-v1.9-riftysipas.ipa",
+     "size": 128377933
+    }
+   ]
+  }
+ ]
+}

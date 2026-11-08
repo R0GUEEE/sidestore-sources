@@ -1,0 +1,30 @@
+{
+ "name": "RoboCop",
+ "identifier": "dev.perapp.com-glu-robocop",
+ "subtitle": "RoboCop",
+ "description": "Single-app source for RoboCop (com.glu.robocop). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.glu.robocop",
+   "name": "RoboCop",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nRoboCop v3.0.4  \n\n🇷🇺 Противостояние с преступностью в образе могущественного киберполицейского.  \n— Платное приложение из AppStore  \n© Создано: GLESign  \n\n🇺🇸 Fight crime as a powerful cybercop in this thrilling action game.  \n— Paid app from AppStore  \n© Created: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nRoboCop v3.0.4  \n\n🇷🇺 Противостояние с преступностью в образе могущественного киберполицейского.  \n— Платное приложение из AppStore  \n© Создано: GLESign  \n\n🇺🇸 Fight crime as a powerful cybercop in this thrilling action game.  \n— Paid app from AppStore  \n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/a2fa8a93-5d10-4b66-a9c7-341cd84a5ab0/RoboCop_v3.0.4_tg_glesign_.ipa",
+     "size": 85211584
+    }
+   ]
+  }
+ ]
+}

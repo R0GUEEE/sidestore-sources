@@ -1,0 +1,44 @@
+{
+ "name": "AdobeScanPremium",
+ "identifier": "dev.perapp.com-adobe-scan-ios",
+ "subtitle": "AdobeScanPremium by binnichtaktiv's iPA Library",
+ "description": "Single-app source for AdobeScanPremium (com.adobe.scan.ios). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.scan.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.scan.ios",
+   "name": "AdobeScanPremium",
+   "developerName": "binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.scan.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.02.06",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AdobeScanPremium/AdobeScanPremium-24.02.06.ipa",
+     "size": 131059969
+    },
+    {
+     "version": "24.02.22",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AdobeScanPremium/AdobeScanPremium-24.02.22.ipa",
+     "size": 131094490
+    },
+    {
+     "version": "24.03.05",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Injected with Satella. App that turns device into a portable scanner that recognizes text automatically. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AdobeScanPremium/AdobeScanPremium-24.03.05.ipa",
+     "size": 131093423
+    }
+   ]
+  }
+ ]
+}

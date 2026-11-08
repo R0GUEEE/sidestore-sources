@@ -1,0 +1,34 @@
+{
+ "name": "IKEMEN Go",
+ "identifier": "dev.perapp.com-ikemen-go",
+ "subtitle": "IKEMEN Go M.U.G.E.N. engine ported to iOS",
+ "description": "Single-app source for IKEMEN Go (com.ikemen.go). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#239aec",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ikemen.go.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ikemen.go",
+   "name": "IKEMEN Go",
+   "developerName": "usedoperative-sudo",
+   "subtitle": "IKEMEN Go M.U.G.E.N. engine ported to iOS",
+   "localizedDescription": "IKEMEN Go for iOS:\n\nPlay classic M.U.G.E.N characters, stages, and screenpacks on your iOS device with native on-screen touch controls.\n\nFeatures:\n\n• Pure upstream engine — ios/engine/ is a synced copy of upstream ikemen-engine/Ikemen-GO (with only a lightweight crash-path guard and the MoltenVK config override).\n\n• Vulkan rendering via MoltenVK — the engine's Vulkan renderer runs smoothly on Metal through MoltenVK, linked and resolved via dlsym.\n• Portrait and landscape play — in landscape the fight fills the screen beneath translucent controls; in portrait the engine renders the fight in the top band and controls sit below.\n• SDL2, FFmpeg, and libxmp support — robust multimedia handling for audio, background videos, and module music formats (MOD/XM/S3M/IT).\n• Game controller support — MFi and GameController framework controllers work out of the box.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ikemen.go.png",
+   "tintColor": "#239aec",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-10-13T03:05:18Z",
+     "localizedDescription": "IKEMEN Go for iOS v1.1_1.0.0:\n\nThis release bumps the port to v1.1 and updates the underlying engine to the official Ikemen GO v1.0.0 stable release.\n\n🚀 What's New:\n\n• Upstream Engine Update (v1.0.0): Updated ios/engine to match pure upstream Ikemen GO 1.0.0 stable.\n• Vulkan Rendering via MoltenVK: Adapted the rendering pipeline to Vulkan over Metal using MoltenVK (aligning with upstream's official iOS shift to Vulkan).\n• Portrait & Landscape Layouts: Added support for vertical (portrait) gameplay with a dedicated fight viewport on top and touch controls safely placed in the lower section.\n• Haptic Feedback: Added tactile vibration support for on-screen touch controls (firm tap on attack buttons, subtle feedback on Start/Menu, and ticks on D-pad navigation).\n• Native Crash Logs: Hard crashes (e.g. SIGSEGV/SIGABRT) now save a native backtrace directly to save/logs/native_crash.log for easier debugging.\n\n⚠️ Known Issues & Important Notes:\n\n• Screen Rotation in LiveContainer: Rotating the screen mid-game corrupts the Vulkan rendering viewport. If playing via LiveContainer, please enable the \"Lock Orientation\" option in LiveContainer's settings to force your preferred orientation before launching.\n• Memory / Jetsam Limits: iOS enforces strict memory limits per app process. Loading multiple heavy custom characters or high-res stages in Tag/Simul/Turns modes can trigger iOS's Jetsam watchdog to terminate the app.\n• Background problems: When the app gets to background the game dies, this is not a problem from the port, it comes from Vulkan, will look for a solution soon.\n\n• Recommendation: Limit the number of heavy fighters per match, or use GetMoreRAM by hugeBlack to expand available system RAM.\n\n📌 Versioning Scheme:\n\n• 1.1_1.0.0 → Version of this iOS port repository.\n• 1.1_1.0.0 → Upstream Ikemen GO engine version integrated into this build.",
+     "downloadURL": "https://github.com/usedoperative-sudo/ikemen-go-ios/releases/download/1.1_1.0.0/com.ikemen.go_0.0.1.ipa",
+     "size": 70288530
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

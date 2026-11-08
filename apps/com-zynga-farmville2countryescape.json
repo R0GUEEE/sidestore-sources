@@ -1,0 +1,30 @@
+{
+ "name": "FarmVille2",
+ "identifier": "dev.perapp.com-zynga-farmville2countryescape",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for FarmVille2 (com.zynga.FarmVille2CountryEscape). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
+   "name": "FarmVille2",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "28.5",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/FarmVille2_28.5_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 363533813
+    }
+   ]
+  }
+ ]
+}

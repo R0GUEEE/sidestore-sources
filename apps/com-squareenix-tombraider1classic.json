@@ -1,0 +1,30 @@
+{
+ "name": "TombRaider",
+ "identifier": "dev.perapp.com-squareenix-tombraider1classic",
+ "subtitle": "ipaomtk.com | Tomb Raider I on iOS introduces players to the original adventure that defined the action-exploration genr",
+ "description": "Single-app source for TombRaider (com.squareenix.tombraider1classic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Tomb-Raider-I-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.squareenix.tombraider1classic",
+   "name": "TombRaider",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tomb Raider I on iOS introduces players to the original adventure that defined the action-exploration genre, now adapted for iPhone game",
+   "localizedDescription": "ipaomtk.com | Tomb Raider I on iOS introduces players to the original adventure that defined the action-exploration genre, now adapted for iPhone game",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Tomb-Raider-I-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.4",
+     "date": "2026-02-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tomb Raider I on iOS introduces players to the original adventure that defined the action-exploration genre, now adapted for iPhone game",
+     "downloadURL": "https://file.ipaomtk.com/Tomb-Raider-I/Tomb-Raider-I-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Windyapp",
+ "identifier": "dev.perapp.co-windyapp-windy",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Windyapp (co.windyapp.Windy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.windyapp.Windy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.windyapp.Windy",
+   "name": "Windyapp",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.windyapp.Windy.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.3.8",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-10-2025/Windyapp_15.3.8_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 143750370
+    },
+    {
+     "version": "15.3.2",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-09-2025/Windyapp_15.3.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 142643676
+    },
+    {
+     "version": "15.4.1",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/20-11-2025/Windyapp_15.4.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 149188694
+    }
+   ]
+  }
+ ]
+}

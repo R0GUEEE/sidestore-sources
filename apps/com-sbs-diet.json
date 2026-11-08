@@ -1,0 +1,30 @@
+{
+ "name": "MacroFactor",
+ "identifier": "dev.perapp.com-sbs-diet",
+ "subtitle": "MacroFactor",
+ "description": "Single-app source for MacroFactor (com.sbs.diet). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sbs.diet",
+   "name": "MacroFactor",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sbs.diet.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.8.2",
+     "date": "2026-07-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2026/MacroFactor_5.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 78027706
+    }
+   ]
+  }
+ ]
+}

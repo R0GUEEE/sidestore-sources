@@ -1,0 +1,30 @@
+{
+ "name": "Canary",
+ "identifier": "dev.perapp.mailroom-canary-ios",
+ "subtitle": "Canary",
+ "description": "Single-app source for Canary (Mailroom.Canary-iOS). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Mailroom.Canary-iOS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Mailroom.Canary-iOS",
+   "name": "Canary",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Mailroom.Canary-iOS.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.70.1",
+     "date": "2024-12-04T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Canary_4.70.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 63292907
+    }
+   ]
+  }
+ ]
+}

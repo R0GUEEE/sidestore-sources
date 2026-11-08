@@ -1,0 +1,30 @@
+{
+ "name": "Nugget v1.0.1",
+ "identifier": "dev.perapp.com-leemin-nugget",
+ "subtitle": "Nugget - Mobile",
+ "description": "Single-app source for Nugget v1.0.1 (com.leemin.nugget). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "9a2bff",
+ "iconURL": "https://cdn.omnidev.org/nugget-N9.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leemin.nugget",
+   "name": "Nugget v1.0.1",
+   "developerName": "leminlimez",
+   "subtitle": "Nugget - Mobile",
+   "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/nugget-N9.png",
+   "tintColor": "9a2bff",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2024-10-14T00:00:00Z",
+     "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Nugget_1_0_1-Fq.ipa",
+     "size": 7745536
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "LiveTranscribe",
+ "identifier": "dev.perapp.com-robnorback-livetranscribe",
+ "subtitle": "LiveTranscribe",
+ "description": "Single-app source for LiveTranscribe (com.robnorback.LiveTranscribe). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.robnorback.LiveTranscribe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.robnorback.LiveTranscribe",
+   "name": "LiveTranscribe",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.robnorback.LiveTranscribe.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.85",
+     "date": "2026-09-25T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
+     "size": 64302694
+    },
+    {
+     "version": "2.78",
+     "date": "2026-08-22T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
+     "size": 52266906
+    },
+    {
+     "version": "2.72",
+     "date": "2026-08-07T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2123",
+     "size": 59353150
+    }
+   ]
+  }
+ ]
+}

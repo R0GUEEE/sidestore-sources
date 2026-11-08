@@ -1,0 +1,30 @@
+{
+ "name": "KiraTuno (3.1.0)",
+ "identifier": "dev.perapp.com-google-ios-youtube-kiratuno-3-1-0",
+ "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: FLEXHelperForYT, YTAnotherMiniplayer, YouGetC",
+ "description": "Single-app source for KiraTuno (3.1.0) (com.google.ios.youtube.kiratuno.3.1.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.kiratuno.3.1.0",
+   "name": "KiraTuno (3.1.0)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: FLEXHelperForYT, YTAnotherMiniplayer, YouGetCaption, YTweaks, YouShare, You",
+   "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: FLEXHelperForYT, YTAnotherMiniplayer, YouGetCaption, YTweaks, YouShare, You\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.24.3",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: FLEXHelperForYT, YTAnotherMiniplayer, YouGetCaption, YTweaks, YouShare, You",
+     "downloadURL": "https://repo.ballermc.com/tubevault/KiraTuno.ipa",
+     "size": 119818777
+    }
+   ]
+  }
+ ]
+}

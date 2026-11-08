@@ -1,0 +1,30 @@
+{
+ "name": "Linkwarden",
+ "identifier": "dev.perapp.app-linkwarden",
+ "subtitle": "Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, read, annotate, and fully preserve w",
+ "description": "Single-app source for Linkwarden (app.linkwarden). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.linkwarden.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.linkwarden",
+   "name": "Linkwarden",
+   "developerName": "RipeStore",
+   "subtitle": "Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.",
+   "localizedDescription": "Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.linkwarden.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Linkwarden is a self-hosted, open-source collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.",
+     "downloadURL": "https://github.com/RipeStore/linkwarden/releases/download/v2.16.3/Linkwarden-ios-v2.16.3-mobile1.4.2-unsigned.ipa",
+     "size": 18977804
+    }
+   ]
+  }
+ ]
+}

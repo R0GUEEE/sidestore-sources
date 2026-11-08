@@ -1,0 +1,37 @@
+{
+ "name": "Bid Master",
+ "identifier": "dev.perapp.com-bid-master-war-auction-battle",
+ "subtitle": "ipaomtk.com | Bid Master IPA is a popular mobile game that combines the thrill of bidding, village building, and strateg",
+ "description": "Single-app source for Bid Master (com.bid.master.war.auction.battle). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/512x512bb-62-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bid.master.war.auction.battle",
+   "name": "Bid Master",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Bid Master IPA is a popular mobile game that combines the thrill of bidding, village building, and strategic adventures into one addicti",
+   "localizedDescription": "ipaomtk.com | Bid Master IPA is a popular mobile game that combines the thrill of bidding, village building, and strategic adventures into one addicti",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/512x512bb-62-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.8.1",
+     "date": "2025-08-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Bid Master IPA is a popular mobile game that combines the thrill of bidding, village building, and strategic adventures into one addicti",
+     "downloadURL": "https://file.ipaomtk.com/bid-master/Bid-Master-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "0.9.0",
+     "date": "2025-08-24T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Bid Master IPA is a popular mobile game that combines the thrill of bidding, village building, and strategic adventures into one addicti",
+     "downloadURL": "https://file.ipaomtk.com/bid-master/Bid-Master-IPAOMTK.COM.ipa",
+     "size": 316939901
+    }
+   ]
+  }
+ ]
+}

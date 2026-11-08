@@ -1,0 +1,30 @@
+{
+ "name": "Rider",
+ "identifier": "dev.perapp.com-ketchapp-rider",
+ "subtitle": "Rider by Ketchapp",
+ "description": "Single-app source for Rider (com.ketchapp.rider). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/07/22/0407221a-ffe8-1e68-0c4b-e353e2d6cb52/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/100x100bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.rider",
+   "name": "Rider",
+   "developerName": "Ketchapp",
+   "subtitle": "",
+   "localizedDescription": "Rider - Free iAP",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/07/22/0407221a-ffe8-1e68-0c4b-e353e2d6cb52/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/100x100bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "17.1.01",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "Rider - Free iAP",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67848e1a27a00ba08d07333a",
+     "size": 98789792
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Castle",
+ "identifier": "dev.perapp.com-mobilityware-castlesolitaire",
+ "subtitle": "ipaomtk.com | Castle Solitaire IPA This is a card game with a twist that’s sure to keep you entertained for hours. In th",
+ "description": "Single-app source for Castle (com.mobilityware.CastleSolitaire). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/castle-solitaire-card-game-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobilityware.CastleSolitaire",
+   "name": "Castle",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Castle Solitaire IPA This is a card game with a twist that’s sure to keep you entertained for hours. In this game, Castle Solitaire apk ",
+   "localizedDescription": "ipaomtk.com | Castle Solitaire IPA This is a card game with a twist that’s sure to keep you entertained for hours. In this game, Castle Solitaire apk ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/castle-solitaire-card-game-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.9",
+     "date": "2023-04-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Castle Solitaire IPA This is a card game with a twist that’s sure to keep you entertained for hours. In this game, Castle Solitaire apk ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/CastleSolitaire.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

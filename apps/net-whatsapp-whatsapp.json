@@ -1,0 +1,30 @@
+{
+ "name": "WhatsApp",
+ "identifier": "dev.perapp.net-whatsapp-whatsapp",
+ "subtitle": "WhatsApp",
+ "description": "Single-app source for WhatsApp (net.whatsapp.WhatsApp). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsApp",
+   "name": "WhatsApp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.10.73",
+     "date": "2026-03-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WhatsApp_26.10.73_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 137057162
+    }
+   ]
+  }
+ ]
+}

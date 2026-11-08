@@ -1,0 +1,42 @@
+{
+ "name": "AirDash",
+ "identifier": "dev.perapp.com-airdash-ios",
+ "subtitle": "Unofficial native AirVPN dashboard for iPhone and iPad, built with SwiftUI",
+ "description": "Single-app source for AirDash (com.airdash.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3865df",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.airdash.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.airdash.ios",
+   "name": "AirDash",
+   "developerName": "zlimteck",
+   "subtitle": "Unofficial native AirVPN dashboard for iPhone and iPad, built with SwiftUI",
+   "localizedDescription": "AirDash:\n\nUnofficial native iOS dashboard and VPN client for AirVPN, built with SwiftUI and the iOS 26 Liquid Glass design.\n\n⭐ If you find this project useful, a star on GitHub is greatly appreciated!\n\nDisclaimer: this is an independent project with no affiliation to AirVPN. It uses the public AirVPN API with your personal API key.\n\nFeatures:\n\n• Network: full server list with load, users, health, ping latency, sort (load / name / ping), continent filter, search and favorites (scoped per account); a one-tap connect button on every row starts the native tunnel directly, no need to open the server detail screen (full build only).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.airdash.ios.png",
+   "tintColor": "#3865df",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/zlimteck/AirDash@main/assets/screenshot-login.png",
+    "https://cdn.jsdelivr.net/gh/zlimteck/AirDash@main/assets/screenshot-network.png",
+    "https://cdn.jsdelivr.net/gh/zlimteck/AirDash@main/assets/screenshot-dashboard.png",
+    "https://cdn.jsdelivr.net/gh/zlimteck/AirDash@main/assets/screenshot-server-detail.png",
+    "https://cdn.jsdelivr.net/gh/zlimteck/AirDash@main/assets/screenshot-connect.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.16",
+     "date": "2026-11-03T14:28:27Z",
+     "localizedDescription": "Added:\n\n• Siri and Shortcuts actions to connect the VPN to a server: Connect to Server asks which server each time, Connect to Saved Server always connects to the server you set once in the Shortcuts app. Both accept an optional device and WireGuard port.\n• Siri and Shortcuts action to disconnect the VPN.\n\nNotes:\n\n• AirDashLite-1.0.16.ipa: the Lite build. It doesn't include native VPN connect/disconnect, only profile generation and export. Sideloading tools re-sign the app with your own free Apple ID, which can't be granted the Personal VPN entitlement the native VPN feature needs, so this build stays installable for everyone.\n• AirDash-1.0.16.ipa: the full build (native VPN, Live Activity). It needs your own paid Apple Developer account to be re-signed with the VPN entitlements. It's also available through the AltStore source.\n\n• Alternate app icons, the widget, and native VPN are not supported via LiveContainer.\n• Building the full version from source requires a paid Apple Developer account, see the README's Full vs Lite build section.\n\nDownload the IPA below and install with AltStore or Sideloadly.",
+     "downloadURL": "https://github.com/zlimteck/AirDash/releases/download/v1.0.16/AirDash-1.0.16.ipa",
+     "size": 5673374
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "AirDash uses Face ID to protect access to your VPN profiles."
+    }
+   }
+  }
+ ]
+}

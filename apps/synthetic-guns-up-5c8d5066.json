@@ -1,0 +1,30 @@
+{
+ "name": "Guns Up",
+ "identifier": "dev.perapp.synthetic-guns-up-5c8d5066",
+ "subtitle": "Guns Up by Karbin-Store",
+ "description": "Single-app source for Guns Up (synthetic.guns-up.5c8d5066). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Guns.Up.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.guns-up.5c8d5066",
+   "name": "Guns Up",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Hack Features",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Guns.Up.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.13.0",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Hack Features",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Guns.Up.1.13.0.ipa",
+     "size": 300210000
+    }
+   ]
+  }
+ ]
+}

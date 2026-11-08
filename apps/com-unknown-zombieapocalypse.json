@@ -1,0 +1,37 @@
+{
+ "name": "Zombie Apocalypse",
+ "identifier": "dev.perapp.com-unknown-zombieapocalypse",
+ "subtitle": "Zombie Apocalypse by Karbin-Store",
+ "description": "Single-app source for Zombie Apocalypse (com.unknown.zombieapocalypse). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Zombie.Apocalypse.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.zombieapocalypse",
+   "name": "Zombie Apocalypse",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Zombie.Apocalypse.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.28",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Zombie_Apocalypse_._1_29_32_1735729288.ipa",
+     "size": 261440000
+    },
+    {
+     "version": "1.29.32",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Zombie_Apocalypse_._1_29_32_1735729288.ipa",
+     "size": 274188446
+    }
+   ]
+  }
+ ]
+}

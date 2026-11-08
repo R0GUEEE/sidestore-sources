@@ -1,0 +1,44 @@
+{
+ "name": "CallAssist",
+ "identifier": "dev.perapp.com-apple-mobilephone-call",
+ "subtitle": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's p",
+ "description": "Single-app source for CallAssist (com.apple.mobilephone-call). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.apple.mobilephone-call.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apple.mobilephone-call",
+   "name": "CallAssist",
+   "developerName": "xybp888",
+   "subtitle": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the versio",
+   "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the versio",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.apple.mobilephone-call.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "16-103",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the versio",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CallAssist/CallAssist-16-103.ipa",
+     "size": 2619054
+    },
+    {
+     "version": "36",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the versio",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CallAssist/CallAssist-16-103.ipa",
+     "size": 2619054
+    },
+    {
+     "version": "17-103",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the versio",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CallAssist/CallAssist-17-103.ipa",
+     "size": 2818260
+    }
+   ]
+  }
+ ]
+}

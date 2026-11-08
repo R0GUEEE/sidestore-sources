@@ -1,0 +1,30 @@
+{
+ "name": "MyDiaryPremium",
+ "identifier": "dev.perapp.com-simpleinnovation-diary",
+ "subtitle": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privac",
+ "description": "Single-app source for MyDiaryPremium (com.simpleinnovation.diary). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.simpleinnovation.diary",
+   "name": "MyDiaryPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security. Last…",
+   "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security.\nLast updated: 07-18-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simpleinnovation.diary.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.3",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "App with a mood tracker, designed for recording experiences, exploring emotions, and adding photos, ensuring your privacy and security. Last…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyDiaryPremium/MyDiaryPremium-1.9.3.ipa",
+     "size": 40528267
+    }
+   ]
+  }
+ ]
+}

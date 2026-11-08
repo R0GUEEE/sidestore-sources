@@ -1,0 +1,37 @@
+{
+ "name": "OmniPad",
+ "identifier": "dev.perapp.com-omnipad-iosclient",
+ "subtitle": "A Controller for all types of games with compatibility in some Operating System",
+ "description": "Single-app source for OmniPad (com.omnipad.iosclient). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#875ccb",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.omnipad.iosclient.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.omnipad.iosclient",
+   "name": "OmniPad",
+   "developerName": "WizardOfXerox",
+   "subtitle": "A Controller for all types of games with compatibility in some Operating System",
+   "localizedDescription": "OmniPad - Universal Ultra-Low Latency Phone Gamepad:\n\nOmniPad turns any smartphone or tablet (Android or iOS) into a tournament-grade, ultra-low latency virtual game controller for PC (Windows, Linux, and macOS).\n\nIt emulates a genuine Microsoft Xbox 360 controller (via kernel-level ViGEmBus on Windows, native /dev/uinput on Linux), Sony DualShock 4, and macOS CoreGraphics input simulation, alongside native DSU / Cemuhook motion gyro support and an automatic Keyboard & Mouse fallback for classic/strategy games.\n\nHost Operating Systems (PC Server):\n\n• Windows: Windows 10 & 11 (64-bit and 32-bit). Kernel-level virtual Xbox 360 and DualShock 4 controllers via ViGEmBus, low-latency WASAPI audio capture, and DXGI screen streaming.\n• Linux: Ubuntu, Debian, Fedora, Arch Linux, SteamOS (Steam Deck). Zero drivers required; uses native Linux /dev/uinput for hardware-level controller, mouse, and keyboard creation.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.omnipad.iosclient.png",
+   "tintColor": "#875ccb",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.1",
+     "date": "2026-10-13T04:45:28Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/WizardOfXerox/OmniPad/releases/download/v1.4.1/OmniPad.ipa",
+     "size": 786146
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "OmniPad uses your camera to scan the server QR code on your PC screen for instant pairing.",
+     "NSLocalNetworkUsageDescription": "OmniPad requires access to your local Wi-Fi network to discover and stream high-speed gamepad inputs (up to 250 Hz) and receive real-time haptic rumble feedback from your Windows PC."
+    }
+   }
+  }
+ ]
+}

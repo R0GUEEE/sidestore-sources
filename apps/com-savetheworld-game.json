@@ -1,0 +1,30 @@
+{
+ "name": "My Universe",
+ "identifier": "dev.perapp.com-savetheworld-game",
+ "subtitle": "ipaomtk.com | Welcome to the world of My Little Universe IPA v2.17.0 for iOS! My Little Universe IPA is a beautifully de",
+ "description": "Single-app source for My Universe (com.savetheworld.game). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-my-little-universe-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.savetheworld.game",
+   "name": "My Universe",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Welcome to the world of My Little Universe IPA v2.17.0 for iOS! My Little Universe IPA is a beautifully designed interactive game that t",
+   "localizedDescription": "ipaomtk.com | Welcome to the world of My Little Universe IPA v2.17.0 for iOS! My Little Universe IPA is a beautifully designed interactive game that t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-my-little-universe-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.17.2",
+     "date": "2023-11-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Welcome to the world of My Little Universe IPA v2.17.0 for iOS! My Little Universe IPA is a beautifully designed interactive game that t",
+     "downloadURL": "https://file.ipaomtk.com/ipa/My-Little-Universe.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

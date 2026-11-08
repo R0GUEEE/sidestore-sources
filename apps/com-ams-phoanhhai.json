@@ -1,0 +1,30 @@
+{
+ "name": "TiệmPhởCủaAnhHai",
+ "identifier": "dev.perapp.com-ams-phoanhhai",
+ "subtitle": "Port bởi AowVN - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for TiệmPhởCủaAnhHai (com.ams.phoanhhai). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/TiemPhoCuaAnhHai.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ams.phoanhhai",
+   "name": "TiệmPhởCủaAnhHai",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Port bởi AowVN - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Port bởi AowVN - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/TiemPhoCuaAnhHai.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Port bởi AowVN - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AowVN-TiemPhoCuaAnhHai-V1.0_TTJB.ipa",
+     "size": 1159753204
+    }
+   ]
+  }
+ ]
+}

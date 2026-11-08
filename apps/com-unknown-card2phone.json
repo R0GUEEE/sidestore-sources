@@ -1,0 +1,30 @@
+{
+ "name": "Card2Phone",
+ "identifier": "dev.perapp.com-unknown-card2phone",
+ "subtitle": "خۆت زەخم بکە لە ناو خزمەکانت بەم بەرنامە",
+ "description": "Single-app source for Card2Phone (com.unknown.card2phone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Card2Phone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.card2phone",
+   "name": "Card2Phone",
+   "developerName": "Karbin-Store",
+   "subtitle": "خۆت زەخم بکە لە ناو خزمەکانت بەم بەرنامە",
+   "localizedDescription": "خۆت زەخم بکە لە ناو خزمەکانت بەم بەرنامە",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Card2Phone.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.11.6",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "خۆت زەخم بکە لە ناو خزمەکانت بەم بەرنامە",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Card2Phonel.ipa",
+     "size": 85940000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "name": "Modu",
+ "identifier": "dev.perapp.com-modu-reader",
+ "subtitle": "An open-source, cross-platform ebook and PDF reader",
+ "description": "Single-app source for Modu (com.modu.reader). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#c7a55c",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.modu.reader.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.modu.reader",
+   "name": "Modu",
+   "developerName": "sobranie2406",
+   "subtitle": "An open-source, cross-platform ebook and PDF reader",
+   "localizedDescription": "Available for Android, iOS, macOS, Windows, Linux and native HarmonyOS. Local reading needs no AI account; online tools are optional.\n\nFeatures:\n\nA flexible library, comfortable typography, scan-to-text reading, AI, translation, listening and sync. Keep your everyday reading tools close to the page.\n\nPDFs and scanned books:\n\nKeep the original layout while removing empty margins. Panel reading, rotation, zoom and image enhancement help you see the details on smaller screens.\n\nOn-device OCR:\n\nTurn scanned pages into text you can reflow, select, translate and annotate. Lightweight OCR models run locally and work offline after download.\n\nOriginal and reflowed text:\n\nRead the original page alongside adjustable text. Stack them in portrait or place them side by side in landscape to check the source without losing your place.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.modu.reader.png",
+   "tintColor": "#c7a55c",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/sobranie2406/modureader@main/docs/images/showcase/v1.3.0/reading-en.webp",
+    "https://cdn.jsdelivr.net/gh/sobranie2406/modureader@main/docs/images/showcase/v1.3.0/scanned-pdf-en.webp",
+    "https://cdn.jsdelivr.net/gh/sobranie2406/modureader@main/docs/images/showcase/v1.3.0/ocr-en.webp",
+    "https://cdn.jsdelivr.net/gh/sobranie2406/modureader@main/docs/images/showcase/v1.3.0/reflow-compare-en.webp",
+    "https://cdn.jsdelivr.net/gh/sobranie2406/modureader@main/docs/images/showcase/v1.3.0/styles-en.webp"
+   ],
+   "versions": [
+    {
+     "version": "1.3.8",
+     "date": "2026-11-07T01:56:17Z",
+     "localizedDescription": "Modu 1.3.8:\n\nBuild / 构建：10175 · Stable / 正式版.\n\nEnglish:\n\n• Fix(tts): Apply local speed control to OpenAI-compatible speech; support independent pitch on Android and macOS.\n• Feat(notes): Search excerpts, comments and chapter names across all notes or within the current book.\n• Fix(bookshelf): Keep folder cover density consistent across phone layouts.\n• Feat(ocr): Add PP-OCRv6 Small as the default and Medium as a higher-accuracy option, retain v5, and provide Gitee model mirrors.\n• Feat(dictionary): Add a copy button beneath each dictionary result.\n• Fix(reader): Limit brightness adjustments to book content and content dialogs; keep menus and non-reading pages at system brightness in both themes.\n• Feat(reader): Set header and footer fonts, colours and opacity independently, with reset controls.\n• Feat(plugins): Preview plugin packages before installation and preserve registered dictionary, toolbar and reading actions. () Thanks @1Cookie2gavh.\n• Fix(appearance): Refresh linked reading colours after palette, system brightness and scheduled theme changes; fix the fine-tune dialog layout. () Thanks @1Cookie2gavh.\n\nDownloads:\n\nAndroid ARM64 · iOS ARM64 · macOS ARM64 / x64 · Windows ARM64 / x64 · Linux x64 / ARM64 · HarmonyOS ARM64.",
+     "downloadURL": "https://github.com/sobranie2406/modureader/releases/download/v1.3.8/Modu-1.3.8-ios-arm64.ipa",
+     "size": 53768928
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "We need access to your photo library to save images.",
+     "NSPhotoLibraryUsageDescription": "We need access to your photo library to save images."
+    }
+   }
+  }
+ ]
+}

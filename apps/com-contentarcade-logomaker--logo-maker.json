@@ -1,0 +1,37 @@
+{
+ "name": "Logo Maker",
+ "identifier": "dev.perapp.com-contentarcade-logomaker",
+ "subtitle": "Logo Maker",
+ "description": "Single-app source for Logo Maker (com.contentarcade.LogoMaker). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/cd/87/eacd87b9-2d07-8c50-2330-4c90e049243d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.contentarcade.LogoMaker",
+   "name": "Logo Maker",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nLogo Maker - Design Creator\n\nTap on buy lifetime access then on cancel\n\nminimum OS version 15.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ea/cd/87/eacd87b9-2d07-8c50-2330-4c90e049243d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.2.8",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1717",
+     "size": 254808339
+    },
+    {
+     "version": "11.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nLogo Maker - Design Creator\n\nTap on buy lifetime access then on cancel\n\nminimum OS version 15.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/322c5c54-cc3d-4755-940a-391ee72e7ced/Logo_Maker_Pro_11.3.ipa",
+     "size": 257078959
+    }
+   ]
+  }
+ ]
+}

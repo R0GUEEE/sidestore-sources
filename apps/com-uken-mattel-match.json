@@ -1,0 +1,37 @@
+{
+ "name": "Mattel Match",
+ "identifier": "dev.perapp.com-uken-mattel-match",
+ "subtitle": "ipaomtk.com | What is Mattel Match IPA? Mattel Match IPA is the iOS installation package of the vibrant match-style puzz",
+ "description": "Single-app source for Mattel Match (com.uken.mattel.match). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Mattel-Match-IPA-v10.1.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.uken.mattel.match",
+   "name": "Mattel Match",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Mattel Match IPA? Mattel Match IPA is the iOS installation package of the vibrant match-style puzzle game inspired by the creati",
+   "localizedDescription": "ipaomtk.com | What is Mattel Match IPA? Mattel Match IPA is the iOS installation package of the vibrant match-style puzzle game inspired by the creati",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Mattel-Match-IPA-v10.1.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.1.0",
+     "date": "2026-03-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Mattel Match IPA? Mattel Match IPA is the iOS installation package of the vibrant match-style puzzle game inspired by the creati",
+     "downloadURL": "https://file.ipaomtk.com/mattel-match/Mattel-Match-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "11.1.0",
+     "date": "2026-03-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Mattel Match IPA? Mattel Match IPA is the iOS installation package of the vibrant match-style puzzle game inspired by the creati",
+     "downloadURL": "https://file.ipaomtk.com/mattel-match/Mattel-Match-IPAOMTK.COM.ipa",
+     "size": 183804426
+    }
+   ]
+  }
+ ]
+}

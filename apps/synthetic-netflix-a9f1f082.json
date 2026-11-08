@@ -1,0 +1,30 @@
+{
+ "name": "Netflix",
+ "identifier": "dev.perapp.synthetic-netflix-a9f1f082",
+ "subtitle": "Netflix by Karbin-Store",
+ "description": "Single-app source for Netflix (synthetic.netflix.a9f1f082). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Netflixxxxx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.netflix.a9f1f082",
+   "name": "Netflix",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "هیچ ڕێکلامێک نیە ✅\n هەموو تایبەتمەندیەکانی قفڵ کراوەکان کراونەتۆ ✅\n وەرگێڕانی عەرەبی زیاد کراوە ✅",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Netflixxxxx.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0",
+     "date": "2025-01-17T00:00:00Z",
+     "localizedDescription": "هیچ ڕێکلامێک نیە ✅\n هەموو تایبەتمەندیەکانی قفڵ کراوەکان کراونەتۆ ✅\n وەرگێڕانی عەرەبی زیاد کراوە ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-4/Netflix_4.0_.ipa",
+     "size": 16680000
+    }
+   ]
+  }
+ ]
+}

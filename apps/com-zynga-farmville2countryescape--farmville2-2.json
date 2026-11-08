@@ -1,0 +1,30 @@
+{
+ "name": "Farmville2",
+ "identifier": "dev.perapp.com-zynga-farmville2countryescape",
+ "subtitle": "Farmville2",
+ "description": "Single-app source for Farmville2 (com.zynga.FarmVille2CountryEscape). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zynga.FarmVille2CountryEscape",
+   "name": "Farmville2",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IGG",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zynga.FarmVille2CountryEscape.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "27.2",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "Injected with IGG",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/Farmville2_27.2_IGG_%40thisismanpreets_apptesters.org.ipa",
+     "size": 229926580
+    }
+   ]
+  }
+ ]
+}

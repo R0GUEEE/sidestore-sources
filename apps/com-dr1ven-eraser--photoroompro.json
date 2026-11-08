@@ -1,0 +1,44 @@
+{
+ "name": "PhotoroomPro",
+ "identifier": "dev.perapp.com-dr1ven-eraser",
+ "subtitle": "PhotoroomPro by binnichtaktiv's iPA Library",
+ "description": "Single-app source for PhotoroomPro (com.dr1ven.eraser). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dr1ven.eraser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dr1ven.eraser",
+   "name": "PhotoroomPro",
+   "developerName": "binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dr1ven.eraser.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.9",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 08-07-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoroomPro/PhotoroomPro-6.0.9.ipa",
+     "size": 91761621
+    },
+    {
+     "version": "6.1.1",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 08-07-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoroomPro/PhotoroomPro-6.1.1.ipa",
+     "size": 75581897
+    },
+    {
+     "version": "6.1.3",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Another app that let you remove or edit anything from images using AI.\nLast updated: 08-07-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoroomPro/PhotoroomPro-6.1.3.ipa",
+     "size": 105062902
+    }
+   ]
+  }
+ ]
+}

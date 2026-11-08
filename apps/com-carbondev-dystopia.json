@@ -1,0 +1,30 @@
+{
+ "name": "Dystopia",
+ "identifier": "dev.perapp.com-carbondev-dystopia",
+ "subtitle": "Alternative to Apollo for Reddit",
+ "description": "Single-app source for Dystopia (com.CarbonDev.Dystopia). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Dystopia.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.CarbonDev.Dystopia",
+   "name": "Dystopia",
+   "developerName": "Dystopia x CyPwn",
+   "subtitle": "Alternative to Apollo for Reddit",
+   "localizedDescription": "Alternative to Apollo for Reddit",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Dystopia.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Alternative to Apollo for Reddit",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Dystopia.ipa",
+     "size": 14648606
+    }
+   ]
+  }
+ ]
+}

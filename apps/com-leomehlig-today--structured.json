@@ -1,0 +1,44 @@
+{
+ "name": "Structured",
+ "identifier": "dev.perapp.com-leomehlig-today",
+ "subtitle": "Structured",
+ "description": "Single-app source for Structured (com.leomehlig.today). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/01c09fb7-88bd-4d19-89ac-d3fb7c0b3d8a/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leomehlig.today",
+   "name": "Structured",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nStructured - Daily Planner\n\nPro features unlocked\n\n⚠️ only works with Trollstore or by signing with a custom entitlements file\n\nTweak made by binnichtaktiv\n\nMinimum OS version 16.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/01c09fb7-88bd-4d19-89ac-d3fb7c0b3d8a/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.3",
+     "date": "2026-08-04T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1411",
+     "size": 148415087
+    },
+    {
+     "version": "3.3.1",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 07-24-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StructuredPro/StructuredPro-3.3.1.ipa",
+     "size": 66861189
+    },
+    {
+     "version": "3.4.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Injected with Pro. A comprehensive day planner that integrates a calendar, to-do list, and habit tracker into a unified timeline. Note: Install through TrollStore then reinstall via the AppStore. This process not only keep the tweak working but also allows the use of widgets and live activities.\nLast updated: 07-24-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StructuredPro/StructuredPro-3.4.0.ipa",
+     "size": 96898251
+    }
+   ]
+  }
+ ]
+}

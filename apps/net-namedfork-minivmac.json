@@ -1,0 +1,41 @@
+{
+ "name": "Mini vMac",
+ "identifier": "dev.perapp.net-namedfork-minivmac",
+ "subtitle": "A miniature early Macintosh emulator.",
+ "description": "Single-app source for Mini vMac (net.namedfork.minivmac). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#dd2b03",
+ "iconURL": "https://i.imgur.com/MGxGvKR.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.namedfork.minivmac",
+   "name": "Mini vMac",
+   "developerName": "Gryphel Project & zydeco",
+   "subtitle": "A miniature early Macintosh emulator.",
+   "localizedDescription": "Features\n\n• Emulates Mac Plus, Mac II or Mac 128K\n• Full simulated keyboard (including all Mac keys)\n• Full sound output\n• Uses external keyboard if available\n• Regulable emulation speed\n• Easy(ish) to import/export disk images\n\nPlease check out the github README for usage instructions: https://github.com/zydeco/minivmac4ios",
+   "iconURL": "https://i.imgur.com/MGxGvKR.png",
+   "tintColor": "#dd2b03",
+   "screenshots": [
+    "https://user-images.githubusercontent.com/64176728/211237407-e79d6562-c6c2-4a69-b8ea-4414e6b97be0.png",
+    "https://user-images.githubusercontent.com/64176728/211237433-ca07c970-747e-4fd1-a206-be07384183cb.png",
+    "https://user-images.githubusercontent.com/64176728/211237435-27c3a84c-7213-4a55-b4d9-b7a9362ffb36.png"
+   ],
+   "versions": [
+    {
+     "version": "2.6",
+     "date": "2024-07-09T16:09:01Z",
+     "localizedDescription": "# Mini vMac for iOS v2.6\n\n* Added 512×384 variant of Mac II\r\n* Requires iOS 13.4\r\n    * Dropping 32-bit support (iOS 9) made the app smaller\r\n* Prefer pixel-perfect scaling when display scaling filter is set to nearest\r\n* Auto-hide iOS home indicator\r\n* Partially fix some command-key shortcuts going to iOS instead of the emulated Mac (#45)\r\n    * ⌘-w and most others will get passed to the emulated machine if it's running\r\n    * ⌘-q and ⌘-h don't seem interceptable, the app doesn't receive any key events for them, but ⌘-q doesn't do anything (or maybe it does in some other configuration?), and ⌘-h will take you to the home screen\r\n* visionOS support (only tested in simulator)\r\n\r\n**Full Changelog**: https://github.com/zydeco/minivmac4ios/compare/v2.5...v2.6",
+     "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.6/minivmac4ios-2.6.ipa",
+     "size": 668434
+    },
+    {
+     "version": "2.5",
+     "date": "2022-05-26T18:30:55Z",
+     "localizedDescription": "# Mini vMac for iOS 2.5\n\n* Update to Mini vMac 37.03 beta\r\n* Fixed crash when deleting disk images on iPad\r\n* Adds recently used disks to quick actions menu\r\n* Removed custom presentation modes for disk and settings screens\r\n* Doesn't show \"The developer of this app needs to update it to work with this version of iOS\" error when installing IPA on iOS 15",
+     "downloadURL": "https://github.com/zydeco/minivmac4ios/releases/download/v2.5/minivmac4ios-2.5.ipa",
+     "size": 1194371
+    }
+   ]
+  }
+ ]
+}

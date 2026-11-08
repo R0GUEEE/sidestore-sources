@@ -1,0 +1,30 @@
+{
+ "name": "MoneyManagerPremium",
+ "identifier": "dev.perapp.com-realbyteapps-moneymanager2",
+ "subtitle": "Personal account management app. A user requested it so here it is. Last updated: 08-14-2024 Status: ✅ ⭐",
+ "description": "Single-app source for MoneyManagerPremium (com.realbyteapps.MoneyManager2). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.realbyteapps.MoneyManager2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.realbyteapps.MoneyManager2",
+   "name": "MoneyManagerPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "Personal account management app. A user requested it so here it is. Last updated: 08-14-2024 Status: ✅ ⭐",
+   "localizedDescription": "Personal account management app. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.realbyteapps.MoneyManager2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.11.14",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Personal account management app. A user requested it so here it is. Last updated: 08-14-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoneyManagerPremium/MoneyManagerPremium-2.11.14.ipa",
+     "size": 21046084
+    }
+   ]
+  }
+ ]
+}

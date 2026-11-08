@@ -1,0 +1,30 @@
+{
+ "name": "Leap of Fate",
+ "identifier": "dev.perapp.com-unknown-leapoffate",
+ "subtitle": "یارییەکی خێرا و چەقۆکێش کە بریتییە لە زاڵبوون بەسەر ترسەکانت و بەدەستهێنانی چارەنووسی تۆ.  لە شاری نیویۆرک کە سیحر لێیە ",
+ "description": "Single-app source for Leap of Fate (com.unknown.leapoffate). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Leap.of.Fate.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.leapoffate",
+   "name": "Leap of Fate",
+   "developerName": "Karbin-Store",
+   "subtitle": "یارییەکی خێرا و چەقۆکێش کە بریتییە لە زاڵبوون بەسەر ترسەکانت و بەدەستهێنانی چارەنووسی تۆ.  لە شاری نیویۆرک کە سیحر لێیە ڕۆڵی تەکنۆماگ بگێڕن کە دەبێت..",
+   "localizedDescription": "یارییەکی خێرا و چەقۆکێش کە بریتییە لە زاڵبوون بەسەر ترسەکانت و بەدەستهێنانی چارەنووسی تۆ.  لە شاری نیویۆرک کە سیحر لێیە ڕۆڵی تەکنۆماگ بگێڕن کە دەبێت..",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Leap.of.Fate.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2",
+     "date": "2025-01-17T00:00:00Z",
+     "localizedDescription": "یارییەکی خێرا و چەقۆکێش کە بریتییە لە زاڵبوون بەسەر ترسەکانت و بەدەستهێنانی چارەنووسی تۆ.  لە شاری نیویۆرک کە سیحر لێیە ڕۆڵی تەکنۆماگ بگێڕن کە دەبێت..",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-4/Leap.of.Fate.2.2.ipa",
+     "size": 570020000
+    }
+   ]
+  }
+ ]
+}

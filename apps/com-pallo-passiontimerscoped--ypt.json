@@ -1,0 +1,44 @@
+{
+ "name": "YPT",
+ "identifier": "dev.perapp.com-pallo-passiontimerscoped",
+ "subtitle": "Chức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for YPT (com.pallo.passionTimerScoped). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pallo.passionTimerScoped",
+   "name": "YPT",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "800.0.30",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-08-2025/YPT_800.0.30_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 132485341
+    },
+    {
+     "version": "800.0.9",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/16-08-2025/YPT_800.0.9_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 132553171
+    },
+    {
+     "version": "800.0.3",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-08-2025/YPT_800.0.3_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 129679240
+    }
+   ]
+  }
+ ]
+}

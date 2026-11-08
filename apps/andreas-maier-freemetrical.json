@@ -1,0 +1,30 @@
+{
+ "name": "Umrechner AM",
+ "identifier": "dev.perapp.andreas-maier-freemetrical",
+ "subtitle": "ipaomtk.com | Converter AM IPA v1.0554 Free is a versatile digital tool designed to simplify the process of unit convers",
+ "description": "Single-app source for Umrechner AM (Andreas-Maier.FreeMetrical). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Converter-AM.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "Andreas-Maier.FreeMetrical",
+   "name": "Umrechner AM",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Converter AM IPA v1.0554 Free is a versatile digital tool designed to simplify the process of unit conversion across various domains. Th",
+   "localizedDescription": "ipaomtk.com | Converter AM IPA v1.0554 Free is a versatile digital tool designed to simplify the process of unit conversion across various domains. Th",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Converter-AM.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0554",
+     "date": "2024-10-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Converter AM IPA v1.0554 Free is a versatile digital tool designed to simplify the process of unit conversion across various domains. Th",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Converter_AM-v1.0554-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

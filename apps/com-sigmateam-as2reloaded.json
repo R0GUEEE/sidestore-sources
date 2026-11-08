@@ -1,0 +1,30 @@
+{
+ "name": "Alien Shooter 2 - Reloaded",
+ "identifier": "dev.perapp.com-sigmateam-as2reloaded",
+ "subtitle": "@ipa_dark | 🔄 Alien Shooter 2 - Reloaded - appstore  🇷🇺 Динамичный шутер с видом сверху, где предстоит сражаться с ордам",
+ "description": "Single-app source for Alien Shooter 2 - Reloaded (com.sigmateam.as2reloaded). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1738.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sigmateam.as2reloaded",
+   "name": "Alien Shooter 2 - Reloaded",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Alien Shooter 2 - Reloaded - appstore  🇷🇺 Динамичный шутер с видом сверху, где предстоит сражаться с ордами инопланетных существ, исслед",
+   "localizedDescription": "@ipa_dark | 🔄 Alien Shooter 2 - Reloaded - appstore  🇷🇺 Динамичный шутер с видом сверху, где предстоит сражаться с ордами инопланетных существ, исслед\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1738.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Alien Shooter 2 - Reloaded - appstore  🇷🇺 Динамичный шутер с видом сверху, где предстоит сражаться с ордами инопланетных существ, исслед",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1738-Alien%20Shooter%202%20Reloaded%20%5Bv1.1.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 269855430
+    }
+   ]
+  }
+ ]
+}

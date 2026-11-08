@@ -1,0 +1,30 @@
+{
+ "name": "Moment",
+ "identifier": "dev.perapp.com-momentinc-procamera",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for Moment (com.momentinc.procamera). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.momentinc.procamera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.momentinc.procamera",
+   "name": "Moment",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.momentinc.procamera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Moment_1.0.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 15960001
+    }
+   ]
+  }
+ ]
+}

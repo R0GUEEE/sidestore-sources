@@ -1,0 +1,30 @@
+{
+ "name": "Blend Editor",
+ "identifier": "dev.perapp.com-apps-doubleexposure",
+ "subtitle": "ipaomtk.com | Photo Blend Double Exposure IPA For iOS is an app designed to allow users to create stunning double exposu",
+ "description": "Single-app source for Blend Editor (com.apps.doubleexposure). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Photo-Blend-Double-Exposure-IPA-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apps.doubleexposure",
+   "name": "Blend Editor",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Photo Blend Double Exposure IPA For iOS is an app designed to allow users to create stunning double exposure photography on their iPhone",
+   "localizedDescription": "ipaomtk.com | Photo Blend Double Exposure IPA For iOS is an app designed to allow users to create stunning double exposure photography on their iPhone",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Photo-Blend-Double-Exposure-IPA-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.4",
+     "date": "2023-12-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Photo Blend Double Exposure IPA For iOS is an app designed to allow users to create stunning double exposure photography on their iPhone",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Photo-Blend-Double-Exposure.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "ImageSearch",
+ "identifier": "dev.perapp.com-unknown-imagesearch",
+ "subtitle": "ئەپلیکەیشنێک بۆ گەڕان بەدوای سەرچاوەی وێنە",
+ "description": "Single-app source for ImageSearch (com.unknown.imagesearch). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/ImageSearch.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.imagesearch",
+   "name": "ImageSearch",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپلیکەیشنێک بۆ گەڕان بەدوای سەرچاوەی وێنە",
+   "localizedDescription": "ئەپلیکەیشنێک بۆ گەڕان بەدوای سەرچاوەی وێنە",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/ImageSearch.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.2",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشنێک بۆ گەڕان بەدوای سەرچاوەی وێنە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/ImageSearch_8.2_3BodSy.ipa",
+     "size": 9510000
+    },
+    {
+     "version": "6.1",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک تایبەت بە گەڕان بە دوایی وێنە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/ImageSearch_6.1_DEV.ipa",
+     "size": 9210000
+    }
+   ]
+  }
+ ]
+}

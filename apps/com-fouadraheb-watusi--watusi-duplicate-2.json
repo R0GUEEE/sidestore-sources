@@ -1,0 +1,30 @@
+{
+ "name": "Watusi · Duplicate",
+ "identifier": "dev.perapp.com-fouadraheb-watusi",
+ "subtitle": "Watusi is your all-in-one tweak for WhatsApp Messenger. This is a duplicated app, it can be installed alongside original",
+ "description": "Single-app source for Watusi · Duplicate (com.fouadraheb.watusi). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fouadraheb.watusi",
+   "name": "Watusi · Duplicate",
+   "developerName": "Fouad Raheb",
+   "subtitle": "Watusi is your all-in-one tweak for WhatsApp Messenger. This is a duplicated app, it can be installed alongside original WhatsApp (Bundle ID…",
+   "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.\n\nThis is a duplicated app, it can be installed alongside original WhatsApp (Bundle ID com.fouadraheb.watusi).\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.42.77",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger. This is a duplicated app, it can be installed alongside original WhatsApp (Bundle ID…",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793703806341-fpp9i/com.fouadraheb.watusi_26.42.77_watusi3_1.3.30_sl.ipa",
+     "size": 180603533
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Yacine TV",
+ "identifier": "dev.perapp.synthetic-yacine-tv-80a92e7f",
+ "subtitle": "Yacine TV by Karbin-Store",
+ "description": "Single-app source for Yacine TV (synthetic.yacine-tv.80a92e7f). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Yacine.TV.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.yacine-tv.80a92e7f",
+   "name": "Yacine TV",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Yasin TV is a program to know the results of football",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Yacine.TV.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Yasin TV is a program to know the results of football",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Yacine.TV--ipastorage_official.ipa",
+     "size": 24290000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Twitch Beta",
+ "identifier": "dev.perapp.tv-twitch-beta",
+ "subtitle": "iOSDecrypted",
+ "description": "Single-app source for Twitch Beta (tv.twitch.beta). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/193327.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.twitch.beta",
+   "name": "Twitch Beta",
+   "developerName": "iOSDecrypted",
+   "subtitle": "iOSDecrypted",
+   "localizedDescription": "iOSDecrypted",
+   "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/193327.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "31.1",
+     "date": "2026-09-06T00:00:00Z",
+     "localizedDescription": "iOSDecrypted | Builds of Twitch 📀  🪧Build Version: 31.1 (262460105428802478) ⭐️CW: TwitchControl x Tweach Cracked ➡️Repost Policy: t.me/iosdecrypted/1",
+     "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/210679-%5BTG@i_osd%5DTW_31.1_CW.ipa",
+     "size": 152408558
+    },
+    {
+     "version": "30.8",
+     "date": "2026-08-13T00:00:00Z",
+     "localizedDescription": "iOSDecrypted | Builds of Twitch 📀  🪧Build Version: 30.8 (262240104519791553) ⭐️TC: TwitchControl ⭐️TW: Tweach Cracked ➡️Repost Policy: t.me/iosdecrypt",
+     "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/196174-%5BTG@i_osd%5DTW_30.8_TW.ipa",
+     "size": 150671880
+    },
+    {
+     "version": "30.7",
+     "date": "2026-08-09T00:00:00Z",
+     "localizedDescription": "iOSDecrypted",
+     "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/193327-%5BTG@i_osd%5DTW_30.7_TC.ipa",
+     "size": 136883334
+    }
+   ]
+  }
+ ]
+}

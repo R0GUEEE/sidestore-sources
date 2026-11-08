@@ -1,0 +1,30 @@
+{
+ "name": "Color Notes",
+ "identifier": "dev.perapp.com-domainname-notecolorate",
+ "subtitle": "ipaomtk.com | Colored Notes Pro is a versatile and visually appealing note-taking application designed for iOS devices. ",
+ "description": "Single-app source for Color Notes (com.domainname.NoteColorate). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Colored-Notes-Pro-notes-taking.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.domainname.NoteColorate",
+   "name": "Color Notes",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Colored Notes Pro is a versatile and visually appealing note-taking application designed for iOS devices. This intuitive app allows user",
+   "localizedDescription": "ipaomtk.com | Colored Notes Pro is a versatile and visually appealing note-taking application designed for iOS devices. This intuitive app allows user",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Colored-Notes-Pro-notes-taking.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Colored Notes Pro is a versatile and visually appealing note-taking application designed for iOS devices. This intuitive app allows user",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Colored_Notes_Pro_notes_taking-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

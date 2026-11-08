@@ -1,0 +1,37 @@
+{
+ "name": "Iroke",
+ "identifier": "dev.perapp.club-iroke-romance",
+ "subtitle": "@ipa_dark | 🔄 iroke (клуб романтики)   🇷🇺 Мод для Клуба Романтики - iroke  ℹ️ Особенности:  ▎Модифицированная версия игр",
+ "description": "Single-app source for Iroke (club.iroke.romance). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1652.png",
+ "apps": [
+  {
+   "bundleIdentifier": "club.iroke.romance",
+   "name": "Iroke",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 iroke (клуб романтики)   🇷🇺 Мод для Клуба Романтики - iroke  ℹ️ Особенности:  ▎Модифицированная версия игры, платная (69₽/месяц или 99₽,",
+   "localizedDescription": "@ipa_dark | 🔄 iroke (клуб романтики)   🇷🇺 Мод для Клуба Романтики - iroke  ℹ️ Особенности:  ▎Модифицированная версия игры, платная (69₽/месяц или 99₽,",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1652.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.59500",
+     "date": "2026-10-05T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 iroke (клуб романтики)   🇷🇺 Мод для Клуба Романтики - iroke  💡 Вам нравятся новеллы? посмотрите наш проект по накрутке: @novellaplus_bot",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1793-Iroke%20%5Bv1.0.59500%5D%28tg@ipa_dark%29.ipa",
+     "size": 74644350
+    },
+    {
+     "version": "1.0.57500",
+     "date": "2026-08-18T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 iroke (клуб романтики)   🇷🇺 Мод для Клуба Романтики - iroke  ℹ️ Особенности:  ▎Модифицированная версия игры, платная (69₽/месяц или 99₽,",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1652-iroke%20%5Bv57500%5D%28tg@ipa_dark%29.ipa",
+     "size": 71206496
+    }
+   ]
+  }
+ ]
+}

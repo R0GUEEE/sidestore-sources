@@ -1,0 +1,40 @@
+{
+ "name": "AetherX",
+ "identifier": "dev.perapp.com-leviidev-aetherx",
+ "subtitle": "All in 1 emulator for iOS and iPadOS",
+ "description": "Single-app source for AetherX (com.leviidev.aetherx). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6865be",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.leviidev.aetherx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leviidev.aetherx",
+   "name": "AetherX",
+   "developerName": "Leviidev",
+   "subtitle": "All in 1 emulator for iOS and iPadOS",
+   "localizedDescription": "AetherX:\n\nA multi-system emulator for iOS.\n\n⚠️ Legal Notice:\n\nWe cannot legally distribute the source code for our application on GitHub. We will be self-hosting the source code on one of my domains soon.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.leviidev.aetherx.png",
+   "tintColor": "#6865be",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.1",
+     "date": "2026-08-16T13:38:37Z",
+     "localizedDescription": "Quality of life:\n\n• Added Xbox 360 game image database.\n\nNote::\n\nThis app was made with artificial intelligence tools. If you have any questions dm me on reddit or open an issue.",
+     "downloadURL": "https://github.com/Leviidev/AetherX/releases/download/v1.3.1/AetherX.ipa",
+     "size": 142365215
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.kernel.increased-memory-limit",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

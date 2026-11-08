@@ -1,0 +1,30 @@
+{
+ "name": "Root",
+ "identifier": "dev.perapp.com-direwolfdigital-root",
+ "subtitle": "ipaomtk.com | Root Board IPA is a vibrant, captivating, and highly strategic board game that allows you to experience a ",
+ "description": "Single-app source for Root (com.direwolfdigital.root). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-root-board-game-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.direwolfdigital.root",
+   "name": "Root",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Root Board IPA is a vibrant, captivating, and highly strategic board game that allows you to experience a magical world of imagination a",
+   "localizedDescription": "ipaomtk.com | Root Board IPA is a vibrant, captivating, and highly strategic board game that allows you to experience a magical world of imagination a",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-root-board-game-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.31.5",
+     "date": "2023-11-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Root Board IPA is a vibrant, captivating, and highly strategic board game that allows you to experience a magical world of imagination a",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Root-Board.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

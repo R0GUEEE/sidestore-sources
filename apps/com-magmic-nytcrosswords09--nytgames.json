@@ -1,0 +1,30 @@
+{
+ "name": "NYTGames",
+ "identifier": "dev.perapp.com-magmic-nytcrosswords09",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for NYTGames (com.magmic.NYTCrosswords09). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.magmic.NYTCrosswords09",
+   "name": "NYTGames",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.magmic.NYTCrosswords09.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.10.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-01-2026/NYTGames_6.10.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 52682748
+    }
+   ]
+  }
+ ]
+}

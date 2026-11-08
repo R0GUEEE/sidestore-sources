@@ -1,0 +1,30 @@
+{
+ "name": "Violyn",
+ "identifier": "dev.perapp.lilliana-violyn",
+ "subtitle": "App that lets you browse CyPwn's database of tweaak debs, including old versions and removed tweaks Last updated: 12-17-",
+ "description": "Single-app source for Violyn (Lilliana.Violyn). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/Lilliana.Violyn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Lilliana.Violyn",
+   "name": "Violyn",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "App that lets you browse CyPwn's database of tweaak debs, including old versions and removed tweaks Last updated: 12-17-2022 Status: ✅",
+   "localizedDescription": "App that lets you browse CyPwn's database of tweaak debs, including old versions and removed tweaks\nLast updated: 12-17-2022\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/Lilliana.Violyn.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "App that lets you browse CyPwn's database of tweaak debs, including old versions and removed tweaks Last updated: 12-17-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-17-2022/Violyn-1.4.1.ipa",
+     "size": 1530145
+    }
+   ]
+  }
+ ]
+}

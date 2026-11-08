@@ -1,0 +1,30 @@
+{
+ "name": "iTerminal",
+ "identifier": "dev.perapp.com-comcsoft-iterminalpro",
+ "subtitle": "ipaomtk.com | Managing servers, networks, and remote systems from your iPhone or iPad has never been easier with iTermin",
+ "description": "Single-app source for iTerminal (com.comcsoft.iTerminalPro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/iTerminal-Pro-%E2%80%93-SSH-Telnet-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.comcsoft.iTerminalPro",
+   "name": "iTerminal",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Managing servers, networks, and remote systems from your iPhone or iPad has never been easier with iTerminal Pro – SSH Telnet IPA. This ",
+   "localizedDescription": "ipaomtk.com | Managing servers, networks, and remote systems from your iPhone or iPad has never been easier with iTerminal Pro – SSH Telnet IPA. This ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/iTerminal-Pro-%E2%80%93-SSH-Telnet-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.50",
+     "date": "2024-12-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Managing servers, networks, and remote systems from your iPhone or iPad has never been easier with iTerminal Pro – SSH Telnet IPA. This ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iTerminal_Pro-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

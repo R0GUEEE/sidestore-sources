@@ -1,0 +1,30 @@
+{
+ "name": "MediaCenter",
+ "identifier": "dev.perapp.synthetic-mediacenter-8f2d49cf",
+ "subtitle": "MediaCenter by Karbin-Store",
+ "description": "Single-app source for MediaCenter (synthetic.mediacenter.8f2d49cf). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/MediaCenter.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.mediacenter.8f2d49cf",
+   "name": "MediaCenter",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Active Premium",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/MediaCenter.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": " 1.7.15",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "Active Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/MediaCenter-iOS_1.7.15_3BodSy.ipa",
+     "size": 80920000
+    }
+   ]
+  }
+ ]
+}

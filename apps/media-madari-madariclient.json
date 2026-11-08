@@ -1,0 +1,37 @@
+{
+ "name": "Madari Media",
+ "identifier": "dev.perapp.media-madari-madariclient",
+ "subtitle": "Madari is a modular media center for all platforms with support for Stremio Addons.",
+ "description": "Single-app source for Madari Media (media.madari.madariClient). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://downloads.madari.media/icon_new.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "media.madari.madariClient",
+   "name": "Madari Media",
+   "developerName": "0HexE",
+   "subtitle": "Madari is a modular media center for all platforms with support for Stremio Addons.",
+   "localizedDescription": "Madari is a modular media center for all platforms with support for Stremio Addons.",
+   "iconURL": "https://downloads.madari.media/icon_new.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-02-27T00:00:00Z",
+     "localizedDescription": "Madari is a modular media center for all platforms with support for Stremio Addons.",
+     "downloadURL": "https://downloads.madari.media/nightly/12626708682/ios/app.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.2",
+     "date": "2026-02-27T00:00:00Z",
+     "localizedDescription": "Madari is a modular media center for all platforms with support for Stremio Addons.",
+     "downloadURL": "https://downloads.madari.media/nightly/12626708682/ios/app.ipa",
+     "size": 41721988
+    }
+   ]
+  }
+ ]
+}

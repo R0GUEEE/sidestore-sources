@@ -1,0 +1,44 @@
+{
+ "name": "AudioEditor",
+ "identifier": "dev.perapp.com-hemin-mp3editor",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for AudioEditor (com.hemin.mp3editor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hemin.mp3editor",
+   "name": "AudioEditor",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.70",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-10-2025/AudioEditor_5.70_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 107609847
+    },
+    {
+     "version": "5.72",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-03-2026/AudioEditor_5.72_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 106462904
+    },
+    {
+     "version": "5.71",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-11-2025/AudioEditor_5.71_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 107545856
+    }
+   ]
+  }
+ ]
+}

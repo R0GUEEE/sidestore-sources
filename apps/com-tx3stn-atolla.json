@@ -1,0 +1,40 @@
+{
+ "name": "atolla",
+ "identifier": "dev.perapp.com-tx3stn-atolla",
+ "subtitle": "a beautiful jellyfin music player for android & ios",
+ "description": "Single-app source for atolla (com.tx3stn.atolla). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6064c7",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tx3stn.atolla.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tx3stn.atolla",
+   "name": "atolla",
+   "developerName": "tx3stn",
+   "subtitle": "a beautiful jellyfin music player for android & ios",
+   "localizedDescription": "TOC:\n\n• home tab.\n• artist view.\n• search & settings.\n\n• How does atolla compare?\n• Feature Requests.\n• Bug Reports.\n\nFeatures:\n\n• Seamless offline experience, everything that works online also works offline (search, scrobbling, playlist creation and editing, mixes).\n• Gap-less playback.\n• Dynamic colour palettes generated from album artwork.\n• Local waveform generation for fancy progress bars.\n• Image focussed UI (featuring artist logos).\n• Playlist creation & editing.\n• Localised UI.\n\nplayer:\n\n• color palettes generated from album art.\n• track waveform progress bar.\n• artist logo front and center.\n\nhome tab:\n\n• recently added.\n• recently played.\n• various mixes.\n\nartist view:\n\n• artist most played tracks.\n• genre pills that link to the genre view (including offline).\n• artist bios in modal.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tx3stn.atolla.png",
+   "tintColor": "#6064c7",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.12.2",
+     "date": "2026-10-16T17:57:42Z",
+     "localizedDescription": "fix thumbnail images missing on downloads in a few views.\n\nfeatures:\n\n• cli: add ability to co-ordinate playback start with a specified clock delay.\n• cli: add clock endpoint to co-ordinate syncronisation.\n• cli: ensure gapless playback from daemon.\n• app: native callback events to js to keep sending remote player events when phone is locked.\n• app: long poll remote players to show state on players tab.\n• app: route actual audio and actions to remote player.\n• app: this device toggle on player handles silencing audio without stopping playback.\n• cli: add initial clock sync scaffolding.\n\nfixes:\n\n• app: a few components missing the thumnail image.\n• e2e: test stability fixes.\n\nother:\n\n• deps: bump the github-actions group with 6 updates (#43).\n• deps-dev: bump the bun-dependencies group with 17 updates (#41).\n• e2e: speed up full suite runs.",
+     "downloadURL": "https://github.com/tx3stn/atolla/releases/download/0.12.2/atolla-0.12.2.ipa",
+     "size": 21147458
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "atolla finds and controls players on your network."
+    }
+   }
+  }
+ ]
+}

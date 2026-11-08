@@ -1,0 +1,30 @@
+{
+ "name": "Instagram++",
+ "identifier": "dev.perapp.com-burbn-instagram",
+ "subtitle": "Tweaks: Regram",
+ "description": "Single-app source for Instagram++ (com.burbn.instagram). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/be/de/4cbedeca-02d7-e15c-9e14-b0ac165eeb5a/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.burbn.instagram",
+   "name": "Instagram++",
+   "developerName": "Fouad Raheb",
+   "subtitle": "Tweaks: Regram",
+   "localizedDescription": "Tweaks: Regram\n\nRegram for instagram!\n\nFeed Enhancements\n• Download posts (Videos and Photos)\n• Repost posts (Videos and Photos)\n• Long press on posts to zoom\n• Copy text captions from posts\n\nStories\n• Save stories to Camera Roll\n• View stories anonymously\n• Manually mark stories as seen\n• Mute and unmute video stories\n• Upload from Camera Roll (Swipe up)\n• Disable auto switch between stories\n• Hide stories bar from feed\n\nProfile\n• Show if other users follow you\n• Long press on profile image to zoom\n• Show exact value of numerical stats\n\nDirect Messages\n• Disable read receipts\n• Save messaged stories to Camera Roll\n• Disable screenshot detection in stories\n\nSpoofing (Local Only)\n• Verify your profile\n• Followers count\n• Following count\n• Uploads count\n\nAnd More!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4c/be/de/4cbedeca-02d7-e15c-9e14-b0ac165eeb5a/Prod-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "448.0.0",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Tweaks: Regram\n\nRegram for instagram! Feed Enhancements • Download posts (Videos and Photos) • Repost posts (Videos and Photos) • Long press on posts to zoom • Copy…",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Instagram.v448.0.0.+.regram.6.3.sl.patched.fixed.ipa",
+     "size": 290791743
+    }
+   ]
+  }
+ ]
+}

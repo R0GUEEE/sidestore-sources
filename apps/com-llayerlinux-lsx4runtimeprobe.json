@@ -1,0 +1,44 @@
+{
+ "name": "LSX4",
+ "identifier": "dev.perapp.com-llayerlinux-lsx4runtimeprobe",
+ "subtitle": "An open-source PlayStation 4/5 emulator for Android and iOS. The current iOS build supports PS4 gameplay and requires iO",
+ "description": "Single-app source for LSX4 (com.llayerlinux.LSX4RuntimeProbe). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.llayerlinux.LSX4RuntimeProbe",
+   "name": "LSX4",
+   "developerName": "lpfoj",
+   "subtitle": "An open-source PlayStation 4/5 emulator for Android and iOS. The current iOS build supports PS4 gameplay and requires iOS 26+ with JIT.",
+   "localizedDescription": "An open-source PlayStation 4/5 emulator for Android and iOS. The current iOS build supports PS4 gameplay and requires iOS 26+ with JIT.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/LSX4/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "128.9921",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "An open-source PlayStation 4/5 emulator for Android and iOS. The current iOS build supports PS4 gameplay and requires iOS 26+ with JIT.",
+     "downloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9921/LSX4-JIT-128.9921.ipa",
+     "size": 77015899
+    },
+    {
+     "version": "128.9775",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "An open-source PlayStation 4/5 emulator for Android and iOS. The current iOS build supports PS4 gameplay and requires iOS 26+ with JIT.",
+     "downloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9775/LSX4-JIT-128.9775.ipa",
+     "size": 76905447
+    },
+    {
+     "version": "128.9564",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "An open-source PlayStation 4/5 emulator for Android and iOS. The current iOS build supports PS4 gameplay and requires iOS 26+ with JIT.",
+     "downloadURL": "https://github.com/lpfoj/lsx4/releases/download/ios-jit-128.9564/LSX4-JIT-128.9564.ipa",
+     "size": 76739855
+    }
+   ]
+  }
+ ]
+}

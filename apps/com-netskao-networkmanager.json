@@ -1,0 +1,30 @@
+{
+ "name": "NetWorkManager",
+ "identifier": "dev.perapp.com-netskao-networkmanager",
+ "subtitle": "ipaomtk.com | Network Manager IPA is a powerful tool that allows organizations to effectively manage and monitor their n",
+ "description": "Single-app source for NetWorkManager (com.netskao.networkmanager). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/Network-Manager-IPA-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netskao.networkmanager",
+   "name": "NetWorkManager",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Network Manager IPA is a powerful tool that allows organizations to effectively manage and monitor their network infrastructure. By prov",
+   "localizedDescription": "ipaomtk.com | Network Manager IPA is a powerful tool that allows organizations to effectively manage and monitor their network infrastructure. By prov",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/Network-Manager-IPA-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1-2",
+     "date": "2024-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Network Manager IPA is a powerful tool that allows organizations to effectively manage and monitor their network infrastructure. By prov",
+     "downloadURL": "https://file.ipaomtk.com/Trollstore/NetWorkManager-troll.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

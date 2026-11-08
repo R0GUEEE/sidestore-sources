@@ -1,0 +1,44 @@
+{
+ "name": "Dehancer",
+ "identifier": "dev.perapp.com-dehancer-film-ios-app",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Dehancer (com.dehancer.film.ios-app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dehancer.film.ios-app",
+   "name": "Dehancer",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "@blatants | Dehancer Film Emulation  • Bundle ID: com.dehancer.film.ios-app • Updated to: 7.1 • Minimum iOS: 26.0 • Patched • Modifier: Subscription U",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12536-Dehancer_Film_Emulation_v7_1_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 198031719
+    },
+    {
+     "version": "7.0",
+     "date": "2026-09-01T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Dehancer_7.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 189919462
+    },
+    {
+     "version": "6.6",
+     "date": "2026-08-11T00:00:00Z",
+     "localizedDescription": "@blatants | Dehancer Film Emulation  • Bundle ID: com.dehancer.film.ios-app • Updated to: 6.6 • Minimum iOS: 26.0 • Patched • Modifier: Subscription U",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11538-Dehancer_Film_Emulation_v6_6_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 189630441
+    }
+   ]
+  }
+ ]
+}

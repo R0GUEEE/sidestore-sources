@@ -1,0 +1,30 @@
+{
+ "name": "CozyCaravan",
+ "identifier": "dev.perapp.com-5livesstudios-cozycaravan",
+ "subtitle": "@ipa_dark | 🔄 Cozy Caravan+ - appstore  🇷🇺 Уютное приключение с элементами симулятора, где нужно путешествовать на карав",
+ "description": "Single-app source for CozyCaravan (com.5livesstudios.cozycaravan). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1676.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.5livesstudios.cozycaravan",
+   "name": "CozyCaravan",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Cozy Caravan+ - appstore  🇷🇺 Уютное приключение с элементами симулятора, где нужно путешествовать на караване, исследовать красочный мир",
+   "localizedDescription": "@ipa_dark | 🔄 Cozy Caravan+ - appstore  🇷🇺 Уютное приключение с элементами симулятора, где нужно путешествовать на караване, исследовать красочный мир",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1676.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.23696",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Cozy Caravan+ - appstore  🇷🇺 Уютное приключение с элементами симулятора, где нужно путешествовать на караване, исследовать красочный мир",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1676-Cozy%20Caravan%20%5Bv1.5.23696%5D%28tg@ipa_dark%29.ipa",
+     "size": 792697960
+    }
+   ]
+  }
+ ]
+}

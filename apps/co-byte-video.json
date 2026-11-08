@@ -1,0 +1,30 @@
+{
+ "name": "byte",
+ "identifier": "dev.perapp.co-byte-video",
+ "subtitle": "ipaomtk.com | Byte IPA download for iOS is a convenient way for iPhone and iPad users to enjoy the popular video sharing",
+ "description": "Single-app source for byte (co.byte.video). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-95-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "co.byte.video",
+   "name": "byte",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Byte IPA download for iOS is a convenient way for iPhone and iPad users to enjoy the popular video sharing app. With Byte, users can rec",
+   "localizedDescription": "ipaomtk.com | Byte IPA download for iOS is a convenient way for iPhone and iPad users to enjoy the popular video sharing app. With Byte, users can rec",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-95-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.2",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Byte IPA download for iOS is a convenient way for iPhone and iPad users to enjoy the popular video sharing app. With Byte, users can rec",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Byte-plus.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

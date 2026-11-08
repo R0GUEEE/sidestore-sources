@@ -1,0 +1,44 @@
+{
+ "name": "Tetris",
+ "identifier": "dev.perapp.com-n3twork-tetris",
+ "subtitle": "Tetris",
+ "description": "Single-app source for Tetris (com.n3twork.tetris). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/8589fa5f-f380-4a20-b61f-75dc557e6eb2/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.n3twork.tetris",
+   "name": "Tetris",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Tetris®\n\nTweak: no ads\n\nVersion: 7.3.3\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/8589fa5f-f380-4a20-b61f-75dc557e6eb2/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.7.9",
+     "date": "2026-08-05T00:00:00Z",
+     "localizedDescription": "no ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2303",
+     "size": 152075403
+    },
+    {
+     "version": "7.3.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Tetris®\n\nTweak: no ads\n\nVersion: 7.3.3\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/13b51bbd-cf9a-495e-9a95-ce5735394a7e/Tetris_-v7.3.3-riftysipas.ipa",
+     "size": 156532492
+    },
+    {
+     "version": "7.3.2",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Tetris®\n\nTweak: no ads\n\nVersion: 7.3.2\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/99294fe9-ff7c-490d-8935-8b087290ba86/Tetris_-v7.3.2-riftysipas.ipa",
+     "size": 155878234
+    }
+   ]
+  }
+ ]
+}

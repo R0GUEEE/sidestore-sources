@@ -1,0 +1,30 @@
+{
+ "name": "StemzMax",
+ "identifier": "dev.perapp.com-mwm-stems",
+ "subtitle": "StemzMax by Blatant",
+ "description": "Single-app source for StemzMax (com.mwm.stems). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mwm.stems.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mwm.stems",
+   "name": "StemzMax",
+   "developerName": "Blatant",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mwm.stems.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.01.04",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "AI app for Musicians that could be used as an alternative to Moises. A user requested it so here it is.\nLast updated: 07-31-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StemzMax/StemzMax-4.01.04.ipa",
+     "size": 134569972
+    }
+   ]
+  }
+ ]
+}

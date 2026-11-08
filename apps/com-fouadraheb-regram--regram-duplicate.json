@@ -1,0 +1,30 @@
+{
+ "name": "Regram (Duplicate)",
+ "identifier": "dev.perapp.com-fouadraheb-regram",
+ "subtitle": "This is a duplicated app, it can be installed alongside original Instagram (Bundle ID com.fouadraheb.regram). Regram is ",
+ "description": "Single-app source for Regram (Duplicate) (com.fouadraheb.regram). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fouadraheb.regram",
+   "name": "Regram (Duplicate)",
+   "developerName": "Fouad Raheb",
+   "subtitle": "This is a duplicated app, it can be installed alongside original Instagram (Bundle ID com.fouadraheb.regram). Regram is your all-in-one tweak for…",
+   "localizedDescription": "This is a duplicated app, it can be installed alongside original Instagram (Bundle ID com.fouadraheb.regram).\n\nRegram is your all-in-one tweak for Instagram.\n\nCurrently available only to Patreon subscribers. Activate license by connecting your Patreon account from inside Regram Settings.\n\nAccess Regram settings by long-pressing on Home tab bar button or from Instagram settings.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/regram/ig.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "454.1.0",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "This is a duplicated app, it can be installed alongside original Instagram (Bundle ID com.fouadraheb.regram). Regram is your all-in-one tweak for…",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793904697141-g707t/com.fouadraheb.regram_454.1.0_regram_7.0_sl.ipa",
+     "size": 320353492
+    }
+   ]
+  }
+ ]
+}

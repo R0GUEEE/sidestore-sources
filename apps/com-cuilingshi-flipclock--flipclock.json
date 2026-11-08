@@ -1,0 +1,44 @@
+{
+ "name": "flipclock",
+ "identifier": "dev.perapp.com-cuilingshi-flipclock",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for flipclock (com.cuilingshi.flipclock). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cuilingshi.flipclock",
+   "name": "flipclock",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.15",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/flipclock_6.15_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 37213690
+    },
+    {
+     "version": "6.17",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2026/flipclock_6.17_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 37451861
+    },
+    {
+     "version": "6.16",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/flipclock_6.16_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 37214487
+    }
+   ]
+  }
+ ]
+}

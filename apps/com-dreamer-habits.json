@@ -1,0 +1,30 @@
+{
+ "name": "Habits",
+ "identifier": "dev.perapp.com-dreamer-habits",
+ "subtitle": "Habits",
+ "description": "Single-app source for Habits (com.dreamer.Habits). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dreamer.Habits",
+   "name": "Habits",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.38",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Habits_3.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 248826313
+    }
+   ]
+  }
+ ]
+}

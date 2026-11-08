@@ -1,0 +1,30 @@
+{
+ "name": "ism",
+ "identifier": "dev.perapp.com-ahaf-mshion",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for ism (com.ahaf.mshion). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ahaf.mshion",
+   "name": "ism",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.49.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/ism_7.49.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 165598677
+    }
+   ]
+  }
+ ]
+}

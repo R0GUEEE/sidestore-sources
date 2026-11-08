@@ -1,0 +1,30 @@
+{
+ "name": "Fishdom",
+ "identifier": "dev.perapp.com-unknown-fishdom",
+ "subtitle": "Fishdom by Karbin-Store",
+ "description": "Single-app source for Fishdom (com.unknown.fishdom). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Fishdom.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.fishdom",
+   "name": "Fishdom",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Fishdom.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.6.4",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Fishdom_8.6.4_.KaraStore.ipa",
+     "size": 154120000
+    }
+   ]
+  }
+ ]
+}

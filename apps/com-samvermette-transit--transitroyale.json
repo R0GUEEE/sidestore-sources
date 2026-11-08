@@ -1,0 +1,30 @@
+{
+ "name": "TransitRoyale",
+ "identifier": "dev.perapp.com-samvermette-transit",
+ "subtitle": "TransitRoyale by Lãng Khách🇻🇳",
+ "description": "Single-app source for TransitRoyale (com.samvermette.Transit). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.samvermette.Transit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.samvermette.Transit",
+   "name": "TransitRoyale",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "",
+   "localizedDescription": "App to accurately view next departure times, track the location of nearby buses and trains on a map, and access upcoming transit schedules.\nLast updated: 04-20-2024\nStatus: ✅ ⭐",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.samvermette.Transit.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.17.0",
+     "date": "2024-10-14T00:00:00Z",
+     "localizedDescription": "App to accurately view next departure times, track the location of nearby buses and trains on a map, and access upcoming transit schedules.\nLast updated: 04-20-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TransitRoyale/TransitRoyale-5.17.0.ipa",
+     "size": 95381069
+    }
+   ]
+  }
+ ]
+}

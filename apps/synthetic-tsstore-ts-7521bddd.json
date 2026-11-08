@@ -1,0 +1,30 @@
+{
+ "name": "TSstore_TS",
+ "identifier": "dev.perapp.synthetic-tsstore-ts-7521bddd",
+ "subtitle": "App Store for downloading TrollStore compatible apps.",
+ "description": "Single-app source for TSstore_TS (synthetic.tsstore-ts.7521bddd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TSstore_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.tsstore-ts.7521bddd",
+   "name": "TSstore_TS",
+   "developerName": "TSstore_TS x CyPwn",
+   "subtitle": "App Store for downloading TrollStore compatible apps.",
+   "localizedDescription": "App Store for downloading TrollStore compatible apps.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TSstore_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "App Store for downloading TrollStore compatible apps.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TSstore_TS.ipa",
+     "size": 8839495
+    }
+   ]
+  }
+ ]
+}

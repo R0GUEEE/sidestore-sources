@@ -1,0 +1,44 @@
+{
+ "name": "Procreate",
+ "identifier": "dev.perapp.au-com-savageinteractive-procreate",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Procreate (au.com.savageinteractive.procreate). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.savageinteractive.procreate.png",
+ "apps": [
+  {
+   "bundleIdentifier": "au.com.savageinteractive.procreate",
+   "name": "Procreate",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.savageinteractive.procreate.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.14",
+     "date": "2026-10-07T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Procreate - appstore  🇷🇺 Профессиональное приложение для цифрового рисования и иллюстраций, предлагающее широкий набор инструментов, вкл",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1797-Procreate%20%5Bv5.4.14%5D%28tg@ipa_dark%29.ipa",
+     "size": 1028398724
+    },
+    {
+     "version": "5.4.8",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Procreate_5.4.8_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 1014850025
+    },
+    {
+     "version": "5.3.14",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Removed from the repo: Grab futur updates here. Last updated: 07-03-2024 Status: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/12-05-2024/Procreate-5.3.14.ipa",
+     "size": 369296347
+    }
+   ]
+  }
+ ]
+}

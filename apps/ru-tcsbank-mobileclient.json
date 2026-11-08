@@ -1,0 +1,30 @@
+{
+ "name": "Тинькофф",
+ "identifier": "dev.perapp.ru-tcsbank-mobileclient",
+ "subtitle": "ipaomtk.com | Tinkoff IPA has recently been released for iOS users, and it offers them an exciting way to gain access to",
+ "description": "Single-app source for Тинькофф (ru.tcsbank.mobileclient). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/tinkoff-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.tcsbank.mobileclient",
+   "name": "Тинькофф",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tinkoff IPA has recently been released for iOS users, and it offers them an exciting way to gain access to banking services anytime and ",
+   "localizedDescription": "ipaomtk.com | Tinkoff IPA has recently been released for iOS users, and it offers them an exciting way to gain access to banking services anytime and ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/tinkoff-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.13.5",
+     "date": "2023-06-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tinkoff IPA has recently been released for iOS users, and it offers them an exciting way to gain access to banking services anytime and ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Tinkoff-Bank.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

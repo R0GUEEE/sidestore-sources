@@ -1,0 +1,30 @@
+{
+ "name": "OldOS",
+ "identifier": "dev.perapp.com-zurac-budgetbuddy",
+ "subtitle": "!",
+ "description": "Single-app source for OldOS (com.zurac.BudgetBuddy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.zurac.BudgetBuddy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zurac.BudgetBuddy",
+   "name": "OldOS",
+   "developerName": "zzanehip",
+   "subtitle": "!",
+   "localizedDescription": "!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.zurac.BudgetBuddy.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "!",
+     "downloadURL": "https://github.com/zzanehip/The-OldOS-Project/releases/download/2.0_8/OldOS.ipa",
+     "size": 85139997
+    }
+   ]
+  }
+ ]
+}

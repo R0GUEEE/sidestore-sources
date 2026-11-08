@@ -1,0 +1,44 @@
+{
+ "name": "CLIME",
+ "identifier": "dev.perapp.com-apalonapps-radarfree",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for CLIME (com.apalonapps.radarfree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.radarfree",
+   "name": "CLIME",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.radarfree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.13.72",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "@blatants | Clime: NOAA Weather Radar Live  • Bundle ID: com.apalonapps.radarfree • Updated to: 5.13.72 • Minimum iOS: 15.0 • Patched • Modifier: Subs",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12681-Clime_NOAA_Weather_Radar_Live_v5_13_72_Subscription_Unlocked_blatant.ipa",
+     "size": 182638351
+    },
+    {
+     "version": "5.13.71",
+     "date": "2026-10-03T00:00:00Z",
+     "localizedDescription": "@blatants | Clime: NOAA Weather Radar Live  • Bundle ID: com.apalonapps.radarfree • Updated to: 5.13.71 • Minimum iOS: 15.0 • Patched • Modifier: Subs",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/CLIME_5.13.71_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 182603216
+    },
+    {
+     "version": "5.13.70",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/CLIME_5.13.70_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 182585320
+    }
+   ]
+  }
+ ]
+}

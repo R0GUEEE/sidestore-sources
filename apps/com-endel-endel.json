@@ -1,0 +1,30 @@
+{
+ "name": "Endel",
+ "identifier": "dev.perapp.com-endel-endel",
+ "subtitle": "Endel",
+ "description": "Single-app source for Endel (com.endel.endel). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.endel.endel",
+   "name": "Endel",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.49.313",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Endel_4.49.313_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 182584268
+    }
+   ]
+  }
+ ]
+}

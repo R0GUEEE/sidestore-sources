@@ -1,0 +1,44 @@
+{
+ "name": "Livity",
+ "identifier": "dev.perapp.com-app-livity",
+ "subtitle": "@riftysIPAlibrary | Livity: Sleep & Health Tracker  Tweak: Subscription Unlocked  Version: 5.0.2  Patched ✓  @riftysIPAl",
+ "description": "Single-app source for Livity (com.app-livity). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7261.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.app-livity",
+   "name": "Livity",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Livity: Sleep & Health Tracker  Tweak: Subscription Unlocked  Version: 5.0.2  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "localizedDescription": "@riftysIPAlibrary | Livity: Sleep & Health Tracker  Tweak: Subscription Unlocked  Version: 5.0.2  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7261.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.0",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Livity: Sleep & Health Tracker  Tweak: Subscription Unlocked  Version: 5.1.0  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8456-Livity:%20Sleep%20&%20Health%20Tracker-v5.1.0-riftysipas.ipa",
+     "size": 123085871
+    },
+    {
+     "version": "5.0.6",
+     "date": "2026-09-12T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Livity: Sleep & Health Tracker  Tweak: Subscription Unlocked  Version: 5.0.6  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7820-Livity:%20Sleep%20&%20Health%20Tracker-v5.0.6-riftysipas.ipa",
+     "size": 114270600
+    },
+    {
+     "version": "5.0.5",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Livity: Sleep & Health Tracker  Tweak: Subscription Unlocked  Version: 5.0.5  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7648-Livity:%20Sleep%20&%20Health%20Tracker-v5.0.5-riftysipas.ipa",
+     "size": 114112995
+    }
+   ]
+  }
+ ]
+}

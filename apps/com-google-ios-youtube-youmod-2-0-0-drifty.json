@@ -1,0 +1,44 @@
+{
+ "name": "YouMod (2.0.0) + Bonus Tweaks (Drifty)",
+ "identifier": "dev.perapp.com-google-ios-youtube-youmod-2-0-0-drifty",
+ "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+ "description": "Single-app source for YouMod (2.0.0) + Bonus Tweaks (Drifty) (com.google.ios.youtube.youmod.2.0.0.drifty). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.drifty",
+   "name": "YouMod (2.0.0) + Bonus Tweaks (Drifty)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+   "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This mod was created by Tonwalter888. Bonus Tweaks include: DontEatMyContent, Gonerino, UncappedAVPlayer, VolumeB",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.44.4_v2.0.0%5Bdrifty%5D.ipa",
+     "size": 133376141
+    },
+    {
+     "version": "21.43.5",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This mod was created by Tonwalter888. Bonus Tweaks include: DontEatMyContent, Gonerino, UncappedAVPlayer, VolumeB",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.43.5_v2.0.0%5Bdrifty%5D.ipa",
+     "size": 132586619
+    },
+    {
+     "version": "21.42.4",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This mod was created by Tonwalter888. Bonus Tweaks include: DontEatMyContent, Gonerino, UncappedAVPlayer, VolumeB",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.42.4_v2.0.0%5Bdrifty%5D.ipa",
+     "size": 132159466
+    }
+   ]
+  }
+ ]
+}

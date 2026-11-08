@@ -1,0 +1,39 @@
+{
+ "name": "Mimo_6.48.0_Premium",
+ "identifier": "dev.perapp.com-getmimo-mimo",
+ "subtitle": "Mimo_6.48.0_Premium by Mimo_6.48.0_Premium x CyPwn",
+ "description": "Single-app source for Mimo_6.48.0_Premium (com.getmimo.mimo). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Mimo_6.48.0_Premium.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.getmimo.mimo",
+   "name": "Mimo_6.48.0_Premium",
+   "developerName": "Mimo_6.48.0_Premium x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Injected with premium!",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Mimo_6.48.0_Premium.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Mimo_6.48.0_Premium/Mimo_6.48.0_Premium-0.png"
+   ],
+   "versions": [
+    {
+     "version": "6.48.0",
+     "date": "2024-05-10T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Mimo_6.48.0_Premium.ipa",
+     "size": 35064381
+    },
+    {
+     "version": "6.43.0",
+     "date": "2024-04-02T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/MimoPro_6.43.ipa",
+     "size": 39982202
+    }
+   ]
+  }
+ ]
+}

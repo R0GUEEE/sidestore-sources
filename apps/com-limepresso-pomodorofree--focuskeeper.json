@@ -1,0 +1,30 @@
+{
+ "name": "FocusKeeper",
+ "identifier": "dev.perapp.com-limepresso-pomodorofree",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for FocusKeeper (com.limepresso.pomodorofree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.limepresso.pomodorofree",
+   "name": "FocusKeeper",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.limepresso.pomodorofree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.4",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-12-2025/FocusKeeper_4.1.4_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 392419915
+    }
+   ]
+  }
+ ]
+}

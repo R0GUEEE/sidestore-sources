@@ -1,0 +1,32 @@
+{
+ "name": "Retroarch",
+ "identifier": "dev.perapp.net-hollr-retroarchios11",
+ "subtitle": "A multi-platform emulator for iOS.",
+ "description": "Single-app source for Retroarch (net.hollr.retroarchios11). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "101216",
+ "iconURL": "https://operationidroid.com/assets/img/retroarch-icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "net.hollr.retroarchios11",
+   "name": "Retroarch",
+   "developerName": "Libretro",
+   "subtitle": "A multi-platform emulator for iOS.",
+   "localizedDescription": "Retroarch is a multi-platform emulator for iOS supporting Nintendo, Sega, Sony, Atari, NEC, SNK, and Bandai console systems. This all-in-one application allows you to play classic games on your iPhone, iPad or iPod Touch.",
+   "iconURL": "https://operationidroid.com/assets/img/retroarch-icon.jpg",
+   "tintColor": "101216",
+   "screenshots": [
+    "https://operationidroid.com/assets/img/retroarch_slide1.PNG"
+   ],
+   "versions": [
+    {
+     "version": "1.7",
+     "date": "2018-12-01T00:00:00Z",
+     "localizedDescription": "Retroarch is a multi-platform emulator for iOS supporting Nintendo, Sega, Sony, Atari, NEC, SNK, and Bandai console systems. This all-in-one application allows you to play classic games on your iPhone, iPad or iPod Touch.",
+     "downloadURL": "https://cdn.app-valley.vip/472.net.hollr.retroarchios11.ipa?1582958804",
+     "size": 219403209
+    }
+   ]
+  }
+ ]
+}

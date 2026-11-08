@@ -1,0 +1,30 @@
+{
+ "name": "Sileo Demo",
+ "identifier": "dev.perapp.org-coolstar-sileodemo",
+ "subtitle": "ipaomtk.com | The Sileo Package Manager is an advanced package manager specially designed for iOS 11 – 17.2 jailbreak. I",
+ "description": "Single-app source for Sileo Demo (org.coolstar.SileoDemo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/sileo-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "org.coolstar.SileoDemo",
+   "name": "Sileo Demo",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Sileo Package Manager is an advanced package manager specially designed for iOS 11 – 17.2 jailbreak. It is used to manage all the tw",
+   "localizedDescription": "ipaomtk.com | The Sileo Package Manager is an advanced package manager specially designed for iOS 11 – 17.2 jailbreak. It is used to manage all the tw",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/sileo-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.6b2",
+     "date": "2023-02-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Sileo Package Manager is an advanced package manager specially designed for iOS 11 – 17.2 jailbreak. It is used to manage all the tw",
+     "downloadURL": "https://file.ipaomtk.com/ipa/SileoDemo.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

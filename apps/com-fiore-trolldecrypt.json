@@ -1,0 +1,30 @@
+{
+ "name": "TrollDecrypt_1.2.3",
+ "identifier": "dev.perapp.com-fiore-trolldecrypt",
+ "subtitle": "iOS IPA Decrypter for TrollStore",
+ "description": "Single-app source for TrollDecrypt_1.2.3 (com.fiore.trolldecrypt). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollDecrypt_1.2.3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fiore.trolldecrypt",
+   "name": "TrollDecrypt_1.2.3",
+   "developerName": "TrollDecrypt_1.2.3 x CyPwn",
+   "subtitle": "iOS IPA Decrypter for TrollStore",
+   "localizedDescription": "iOS IPA Decrypter for TrollStore",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollDecrypt_1.2.3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "iOS IPA Decrypter for TrollStore",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollDecrypt_1.2.3.ipa",
+     "size": 3460300
+    }
+   ]
+  }
+ ]
+}

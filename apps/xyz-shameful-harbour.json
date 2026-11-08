@@ -1,0 +1,30 @@
+{
+ "name": "Harbour",
+ "identifier": "dev.perapp.xyz-shameful-harbour",
+ "subtitle": "Harbour:  Docker/Portainer management app for iOS, iPadOS and macOS.  Portainer is required to use Harbour.  Features:  ",
+ "description": "Single-app source for Harbour (xyz.shameful.Harbour). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/xyz.shameful.Harbour.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.shameful.Harbour",
+   "name": "Harbour",
+   "developerName": "rrroyal",
+   "subtitle": "Harbour:  Docker/Portainer management app for iOS, iPadOS and macOS.  Portainer is required to use Harbour.  Features:  • [x] Multiple Servers and End",
+   "localizedDescription": "Harbour:  Docker/Portainer management app for iOS, iPadOS and macOS.  Portainer is required to use Harbour.  Features:  • [x] Multiple Servers and End\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/xyz.shameful.Harbour.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.9",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Harbour:  Docker/Portainer management app for iOS, iPadOS and macOS.  Portainer is required to use Harbour.  Features:  • [x] Multiple Servers and End",
+     "downloadURL": "https://github.com/rrroyal/Harbour/releases/download/v4.2.9/Harbour-v4.2.9-63.ipa",
+     "size": 8552473
+    }
+   ]
+  }
+ ]
+}

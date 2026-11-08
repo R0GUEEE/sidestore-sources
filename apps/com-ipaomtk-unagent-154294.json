@@ -1,0 +1,37 @@
+{
+ "name": "Unagent",
+ "identifier": "dev.perapp.com-ipaomtk-unagent-154294",
+ "subtitle": "ipaomtk.com | What is Unagent IPA? Unagent IPA is a unique iOS utility application focused on improving user privacy, de",
+ "description": "Single-app source for Unagent (com.ipaomtk.unagent.154294). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Unagent-IPA-v1.10-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.unagent.154294",
+   "name": "Unagent",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Unagent IPA? Unagent IPA is a unique iOS utility application focused on improving user privacy, device control, and system-level",
+   "localizedDescription": "ipaomtk.com | What is Unagent IPA? Unagent IPA is a unique iOS utility application focused on improving user privacy, device control, and system-level",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Unagent-IPA-v1.10-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-04-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Unagent IPA? Unagent IPA is a unique iOS utility application focused on improving user privacy, device control, and system-level",
+     "downloadURL": "https://file.ipaomtk.com/Unagent/Unagent-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.10.0",
+     "date": "2026-04-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Unagent IPA? Unagent IPA is a unique iOS utility application focused on improving user privacy, device control, and system-level",
+     "downloadURL": "https://file.ipaomtk.com/Unagent/Unagent-IPAOMTK.COM.ipa",
+     "size": 4677282
+    }
+   ]
+  }
+ ]
+}

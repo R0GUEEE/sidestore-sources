@@ -1,0 +1,30 @@
+{
+ "name": "BrailleAcademy",
+ "identifier": "dev.perapp.digital-dong-braille",
+ "subtitle": "ipaomtk.com | What is Braille Academy: Play & Learn IPA? Braille Academy: Play & Learn IPA refers to the iOS installable",
+ "description": "Single-app source for BrailleAcademy (digital.dong.braille). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Braille-Academy-Play-038-Learn-IPA-v2.4.1-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "digital.dong.braille",
+   "name": "BrailleAcademy",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Braille Academy: Play & Learn IPA? Braille Academy: Play & Learn IPA refers to the iOS installable package version of the Braill",
+   "localizedDescription": "ipaomtk.com | What is Braille Academy: Play & Learn IPA? Braille Academy: Play & Learn IPA refers to the iOS installable package version of the Braill",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Braille-Academy-Play-038-Learn-IPA-v2.4.1-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.1",
+     "date": "2026-04-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Braille Academy: Play & Learn IPA? Braille Academy: Play & Learn IPA refers to the iOS installable package version of the Braill",
+     "downloadURL": "https://file.ipaomtk.com/braille-academy-play-learn/BrailleAcademy-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

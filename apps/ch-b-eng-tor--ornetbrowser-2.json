@@ -1,0 +1,30 @@
+{
+ "name": "OrnetBrowser",
+ "identifier": "dev.perapp.ch-b-eng-tor",
+ "subtitle": "OrnetBrowser",
+ "description": "Single-app source for OrnetBrowser (ch.b-eng.tor). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ch.b-eng.tor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ch.b-eng.tor",
+   "name": "OrnetBrowser",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ch.b-eng.tor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7.4",
+     "date": "2025-02-04T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/OrnetBrowser_3.7.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 82191178
+    }
+   ]
+  }
+ ]
+}

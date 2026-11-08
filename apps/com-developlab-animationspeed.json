@@ -1,0 +1,37 @@
+{
+ "name": "Animation_Speed_1.0.1",
+ "identifier": "dev.perapp.com-developlab-animationspeed",
+ "subtitle": "TS app to change animation speed",
+ "description": "Single-app source for Animation_Speed_1.0.1 (com.developlab.AnimationSpeed). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Animation_Speed_1.0.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.developlab.AnimationSpeed",
+   "name": "Animation_Speed_1.0.1",
+   "developerName": "Animation_Speed_1.0.1 x CyPwn",
+   "subtitle": "TS app to change animation speed",
+   "localizedDescription": "TS app to change animation speed",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Animation_Speed_1.0.1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "TS app to change animation speed",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Animation_Speed_1.0.1.ipa",
+     "size": 159477
+    },
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "TS app to change animation speed",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/AnimationSpeed_1.0.ipa",
+     "size": 96808
+    }
+   ]
+  }
+ ]
+}

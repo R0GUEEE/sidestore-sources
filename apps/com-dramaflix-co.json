@@ -1,0 +1,30 @@
+{
+ "name": "DramaFlix",
+ "identifier": "dev.perapp.com-dramaflix-co",
+ "subtitle": "Movie app, same as HDO Play but also slightly updated Last updated: 01-03-2023 Status: ⚠️ ❔",
+ "description": "Single-app source for DramaFlix (com.dramaflix.co). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dramaflix.co.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dramaflix.co",
+   "name": "DramaFlix",
+   "developerName": "N/A",
+   "subtitle": "Movie app, same as HDO Play but also slightly updated Last updated: 01-03-2023 Status: ⚠️ ❔",
+   "localizedDescription": "Movie app, same as HDO Play but also slightly updated Last updated: 01-03-2023 Status: ⚠️ ❔",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dramaflix.co.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Movie app, same as HDO Play but also slightly updated Last updated: 01-03-2023 Status: ⚠️ ❔",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DramaFlix/DramaFlix-1.1.0.ipa",
+     "size": 9164315
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Pomelo",
+ "identifier": "dev.perapp.com-stossy11-pomelo",
+ "subtitle": "A Nintendo Swicth Emulator for iOS",
+ "description": "Single-app source for Pomelo (com.stossy11.Pomelo). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/IMG_5317-nr.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stossy11.Pomelo",
+   "name": "Pomelo",
+   "developerName": "Stossy11, TechGuy",
+   "subtitle": "A Nintendo Swicth Emulator for iOS",
+   "localizedDescription": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
+   "iconURL": "https://cdn.omnidev.org/IMG_5317-nr.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2",
+     "date": "2024-09-20T00:00:00Z",
+     "localizedDescription": "MultiPlayer!\n\n and TrollStore.\n\nStatus: ✅🌟🔥",
+     "downloadURL": "https://github.com/Pomelo-Emu/pomelo-emu.github.io/releases/download/2.2/Pomelo.ipa",
+     "size": 103674391
+    }
+   ]
+  }
+ ]
+}

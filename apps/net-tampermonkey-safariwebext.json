@@ -1,0 +1,30 @@
+{
+ "name": "Tampermonkey",
+ "identifier": "dev.perapp.net-tampermonkey-safariwebext",
+ "subtitle": "Tampermonkey by sidelix",
+ "description": "Single-app source for Tampermonkey (net.tampermonkey.SafariWebExt). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_69c61a41a5631.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "net.tampermonkey.SafariWebExt",
+   "name": "Tampermonkey",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Tampermonkey is a widely popular browser extension compatible with all major browsers. \r\nIt lets you customize and enhance web pages using userscripts—small JavaScript programs that add or modify features. \r\nEasily create, manage, and run these scripts on any website with Tampermonkey.",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_69c61a41a5631.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.6229",
+     "date": "2026-03-27T00:00:00Z",
+     "localizedDescription": "Tampermonkey is a widely popular browser extension compatible with all major browsers. \r\nIt lets you customize and enhance web pages using userscripts—small JavaScript programs that add or modify features. \r\nEasily create, manage, and run these scripts on any website with Tampermonkey.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1981",
+     "size": 2416180
+    }
+   ]
+  }
+ ]
+}

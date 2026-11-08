@@ -1,0 +1,44 @@
+{
+ "name": "Level Devil",
+ "identifier": "dev.perapp.com-unept-leveldevil",
+ "subtitle": "Level Devil",
+ "description": "Single-app source for Level Devil (com.unept.leveldevil). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/ee127a78-fed4-4884-aada-189bb304aab4/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unept.leveldevil",
+   "name": "Level Devil",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Level Devil - NOT A Troll Game\n\nTweak: No Ads\n\nVersion: 1.33\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/ee127a78-fed4-4884-aada-189bb304aab4/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.40.6",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2306",
+     "size": 65679239
+    },
+    {
+     "version": "1.33.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Level Devil - NOT A Troll Game\n\nTweak: No Ads\n\nVersion: 1.33\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/5b0ddba0-ff6e-4ed7-915b-527ff2cfb735/Level_Devil_-_NOT_A_Troll_Game-v1.33-riftysipas.ipa",
+     "size": 22904818
+    },
+    {
+     "version": "1.32.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Level Devil - NOT A Troll Game\n\nTweak: No Ads\n\nVersion: 1.32\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4fd3eec4-4e41-4628-8a1f-78808db3d18a/Level_Devil_-_NOT_A_Troll_Game-v1.32-riftysipas.ipa",
+     "size": 22089164
+    }
+   ]
+  }
+ ]
+}

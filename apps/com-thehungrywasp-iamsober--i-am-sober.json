@@ -1,0 +1,44 @@
+{
+ "name": "I Am Sober",
+ "identifier": "dev.perapp.com-thehungrywasp-iamsober",
+ "subtitle": "I Am Sober",
+ "description": "Single-app source for I Am Sober (com.thehungrywasp.iamsober). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/8c3c6408-4fc6-43d9-8e34-59936022ee17/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thehungrywasp.iamsober",
+   "name": "I Am Sober",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: I Am Sober\n\nTweak: Premium Unlocked\n\nVersion: 8.4.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/8c3c6408-4fc6-43d9-8e34-59936022ee17/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.8.2",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
+     "size": 47538026
+    },
+    {
+     "version": "8.7.6",
+     "date": "2026-08-19T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
+     "size": 47918442
+    },
+    {
+     "version": "8.7.5",
+     "date": "2026-08-11T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2129",
+     "size": 46533591
+    }
+   ]
+  }
+ ]
+}

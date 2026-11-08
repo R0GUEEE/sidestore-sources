@@ -1,0 +1,30 @@
+{
+ "name": "TendieMaker",
+ "identifier": "dev.perapp.com-mikevillarroel-tendiemaker",
+ "subtitle": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Sh",
+ "description": "Single-app source for TendieMaker (com.mikevillarroel.tendiemaker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mikevillarroel.tendiemaker",
+   "name": "TendieMaker",
+   "developerName": "MikeBuilds",
+   "subtitle": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Ships as an unsigned IPA - sign ",
+   "localizedDescription": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Ships as an unsigned IPA - sign\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/tendiemaker.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.9",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "Turn your videos into .tendie live wallpapers right on your iPhone. Includes a built-in gallery of community tendies. Ships as an unsigned IPA - sign ",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TendieMaker.v1.0.9.ipa",
+     "size": 3697748
+    }
+   ]
+  }
+ ]
+}

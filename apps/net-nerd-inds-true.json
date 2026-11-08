@@ -1,0 +1,30 @@
+{
+ "name": "iNDS",
+ "identifier": "dev.perapp.net-nerd-inds-true",
+ "subtitle": "iNDS is a Nintendo DS emulator, based on nds4ios. With More features.",
+ "description": "Single-app source for iNDS (net.nerd.iNDS-true). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://bunduuk.github.io/altstore-source/img/iNDS/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.nerd.iNDS-true",
+   "name": "iNDS",
+   "developerName": "iNDS-Team",
+   "subtitle": "iNDS is a Nintendo DS emulator, based on nds4ios. With More features.",
+   "localizedDescription": "iNDS is a Nintendo DS emulator, based on nds4ios. With More features.",
+   "iconURL": "https://bunduuk.github.io/altstore-source/img/iNDS/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.7",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "iNDS is a Nintendo DS emulator, based on nds4ios. With More features.",
+     "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/iNDS/iNDS.ipa?raw=true",
+     "size": 8576690
+    }
+   ]
+  }
+ ]
+}

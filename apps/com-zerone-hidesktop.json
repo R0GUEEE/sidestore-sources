@@ -1,0 +1,30 @@
+{
+ "name": "iScreen",
+ "identifier": "dev.perapp.com-zerone-hidesktop",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for iScreen (com.zerone.hidesktop). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zerone.hidesktop",
+   "name": "iScreen",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "@blatants | iScreen - Widgets & Wallpaper\n\n• Bundle ID: com.zerone.hidesktop\n• Updated to: 5.1.25\n• Minimum iOS: 15.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.25",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@blatants | iScreen - Widgets & Wallpaper • Bundle ID: com.zerone.hidesktop • Updated to: 5.1.25 • Minimum iOS: 15.0 • Patched • Modifier…",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/iScreen_5.1.25_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 347842459
+    }
+   ]
+  }
+ ]
+}

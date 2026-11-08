@@ -1,0 +1,44 @@
+{
+ "name": "AppsManager",
+ "identifier": "dev.perapp.com-tigisoftware-admanager",
+ "subtitle": "AppsManager by TigiSoftware / CyPwn IPA Library",
+ "description": "Single-app source for AppsManager (com.tigisoftware.ADManager). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tigisoftware.ADManager",
+   "name": "AppsManager",
+   "developerName": "TigiSoftware / CyPwn IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tigisoftware.ADManager.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.4",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Not cracked. Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak.\nLast updated: 12-01-2023\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppsManager/AppsManager-1.8.4.ipa",
+     "size": 3073412
+    },
+    {
+     "version": "1.8.1",
+     "date": "2022-12-24T00:00:00Z",
+     "localizedDescription": "Not cracked. Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak.\nLast updated: 12-01-2023\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/AppsManager-1.8.1.ipa",
+     "size": 2052307
+    },
+    {
+     "version": "1.7.0k",
+     "date": "2022-11-16T00:00:00Z",
+     "localizedDescription": "Not cracked. Apps Manager, for TrollStore! Create/restore backups, wipe data, etc, without a jailbreak.\nLast updated: 12-01-2023\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-16-2022/AppsManager-1.7.0k.ipa",
+     "size": 3991719
+    }
+   ]
+  }
+ ]
+}

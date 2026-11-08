@@ -1,0 +1,37 @@
+{
+ "name": "Status",
+ "identifier": "dev.perapp.net-techet-sysstat",
+ "subtitle": "ipaomtk.com | System Status Pro: hw monitor App is a powerful tool designed to provide real-time monitoring and analysis",
+ "description": "Single-app source for Status (net.techet.sysstat). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/System-Status-Pro-hw-monitor.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "net.techet.sysstat",
+   "name": "Status",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | System Status Pro: hw monitor App is a powerful tool designed to provide real-time monitoring and analysis of your device’s hardware per",
+   "localizedDescription": "ipaomtk.com | System Status Pro: hw monitor App is a powerful tool designed to provide real-time monitoring and analysis of your device’s hardware per",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/System-Status-Pro-hw-monitor.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | System Status Pro: hw monitor App is a powerful tool designed to provide real-time monitoring and analysis of your device’s hardware per",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/System_Status_Pro_hw_monitor-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    },
+    {
+     "version": "5.8.3",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | System Status IPA Pro is an extraordinary app that provides‌ iOS‌ users with unparalleled insights into the inner workings of their ‌dev",
+     "downloadURL": "https://file.ipaomtk.com/ipa/SystemStatus.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

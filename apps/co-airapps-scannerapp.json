@@ -1,0 +1,44 @@
+{
+ "name": "ScannerAir",
+ "identifier": "dev.perapp.co-airapps-scannerapp",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for ScannerAir (co.airapps.scannerapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.airapps.scannerapp",
+   "name": "ScannerAir",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.11.1",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@blatants | Scanner Air - Scan Documents  • Bundle ID: co.airapps.scannerapp • Updated to: 2026.11.1 • Minimum iOS: 16.6 • Patched • Modifier: Subscri",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/ScannerAir_2026.11.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 145204221
+    },
+    {
+     "version": "2026.10.13",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@blatants | Scanner Air - Scan Documents  • Bundle ID: co.airapps.scannerapp • Updated to: 2026.10.13 • Minimum iOS: 16.6 • Patched • Modifier: Subscr",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/ScannerAir_2026.10.13_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 144901055
+    },
+    {
+     "version": "2026.10.11",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | Scanner Air - Scan Documents  • Bundle ID: co.airapps.scannerapp • Updated to: 2026.10.11 • Minimum iOS: 16.6 • Patched • Modifier: Subscr",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13038-Scanner_Air_Scan_Documents_v2026_10_11_Subscription_Unlocked_blatant.ipa",
+     "size": 145074456
+    }
+   ]
+  }
+ ]
+}

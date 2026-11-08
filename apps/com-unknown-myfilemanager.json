@@ -1,0 +1,30 @@
+{
+ "name": "My FileManager",
+ "identifier": "dev.perapp.com-unknown-myfilemanager",
+ "subtitle": "گواستنەوە و کۆپیکردن و گۆڕینی ناو و سڕینەوەی فایلەکان ✅  دابەزاندنی چەندین فایل لە یەک کاتدا ✅  زۆربەی فۆرماتەکانی فایلە",
+ "description": "Single-app source for My FileManager (com.unknown.myfilemanager). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/My.FileManager.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.myfilemanager",
+   "name": "My FileManager",
+   "developerName": "Karbin-Store",
+   "subtitle": "گواستنەوە و کۆپیکردن و گۆڕینی ناو و سڕینەوەی فایلەکان ✅  دابەزاندنی چەندین فایل لە یەک کاتدا ✅  زۆربەی فۆرماتەکانی فایلەکان دەبینێت ✅  دەستکاریکردن و ",
+   "localizedDescription": "گواستنەوە و کۆپیکردن و گۆڕینی ناو و سڕینەوەی فایلەکان ✅  دابەزاندنی چەندین فایل لە یەک کاتدا ✅  زۆربەی فۆرماتەکانی فایلەکان دەبینێت ✅  دەستکاریکردن و ",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/My.FileManager.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.3",
+     "date": "2025-01-16T00:00:00Z",
+     "localizedDescription": "گواستنەوە و کۆپیکردن و گۆڕینی ناو و سڕینەوەی فایلەکان ✅  دابەزاندنی چەندین فایل لە یەک کاتدا ✅  زۆربەی فۆرماتەکانی فایلەکان دەبینێت ✅  دەستکاریکردن و ",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-spa-1/My.FileManager_5.3_3BodSy.ipa",
+     "size": 21020000
+    }
+   ]
+  }
+ ]
+}

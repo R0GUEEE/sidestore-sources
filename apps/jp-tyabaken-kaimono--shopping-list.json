@@ -1,0 +1,44 @@
+{
+ "name": "Shopping List",
+ "identifier": "dev.perapp.jp-tyabaken-kaimono",
+ "subtitle": "Shopping List",
+ "description": "Single-app source for Shopping List (jp.tyabaken.kaimono). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/c8e410c3-f344-4a8d-b704-93bd81b4d893/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.tyabaken.kaimono",
+   "name": "Shopping List",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Shopii - Grocery List & To Do\n\nTweak: Pro Unlocked\n\nVersion: 4.1.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/c8e410c3-f344-4a8d-b704-93bd81b4d893/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.1",
+     "date": "2026-09-14T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1461",
+     "size": 13711308
+    },
+    {
+     "version": "4.5.0",
+     "date": "2026-09-08T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1461",
+     "size": 14806968
+    },
+    {
+     "version": "4.1.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Shopii - Grocery List & To Do\n\nTweak: Pro Unlocked\n\nVersion: 4.1.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4595486f-eb61-4fa3-b05d-ab5914f18c85/Shopii_-_Grocery_List___To_Do-v4.1.0-riftysipas.ipa",
+     "size": 13288227
+    }
+   ]
+  }
+ ]
+}

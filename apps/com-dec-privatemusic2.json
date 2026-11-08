@@ -1,0 +1,34 @@
+{
+ "name": "Private Music",
+ "identifier": "dev.perapp.com-dec-privatemusic2",
+ "subtitle": "Unofficial VK Music client for iPhone. SwiftUI, offline listening, synced lyrics, equalizer and Apple Watch controls",
+ "description": "Single-app source for Private Music (com.dec.privatemusic2). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4075c2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.dec.privatemusic2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dec.privatemusic2",
+   "name": "Private Music",
+   "developerName": "decoder-dev",
+   "subtitle": "Unofficial VK Music client for iPhone. SwiftUI, offline listening, synced lyrics, equalizer and Apple Watch controls",
+   "localizedDescription": "Unofficial VK Music client for iPhone. SwiftUI, offline listening, synced lyrics, equalizer and Apple Watch controls.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.dec.privatemusic2.png",
+   "tintColor": "#4075c2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.31.0",
+     "date": "2026-10-26T08:56:41Z",
+     "localizedDescription": "Private Music 3.31.0:\n\n• …-unsigned.ipa — iPhone, виджет и Watch.",
+     "downloadURL": "https://github.com/decoder-dev/PrivateMusic2/releases/download/v3.31.0/PrivateMusic-3.31.0-iphone-unsigned.ipa",
+     "size": 19151558
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

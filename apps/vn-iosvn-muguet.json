@@ -1,0 +1,36 @@
+{
+ "name": "Muguet",
+ "identifier": "dev.perapp.vn-iosvn-muguet",
+ "subtitle": "Precompiled release artifacts and CI orchestration for Muguet iOS. Open-source rebuild under GPLv3",
+ "description": "Single-app source for Muguet (vn.iosvn.muguet). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8eb82a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/vn.iosvn.muguet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "vn.iosvn.muguet",
+   "name": "Muguet",
+   "developerName": "iOSVNNews",
+   "subtitle": "Precompiled release artifacts and CI orchestration for Muguet iOS. Open-source rebuild under GPLv3",
+   "localizedDescription": "Muguet (iOSVN Rebuild):\n\nAn open-source native Mach-O ARM64 port of Grand Theft Auto V for iOS, iPadOS, and macOS. Powered by WebAssembly ahead-of-time (AOT) compilation and Apple Metal graphics.\n\n• Native ARM64 Execution (No JIT Required):.\n\n• Ahead-of-Time (AOT) Compiled: Game bytecode is precompiled into a native Mach-O ARM64 executable segment (__GAME).\n• No Debugger / Tethering Needed: Runs at full native machine speed without requiring JIT debugging entitlements, Xcode tethering, or external developer tools.\n• Compatible with iOS 15.0+: Supports 64-bit iOS devices running iOS/iPadOS 15.0 or newer.\n\n• Apple Metal Graphics & 120 FPS Activation:.\n\n• Direct Metal Pipeline: Graphics commands route directly through Apple Metal via wgpu.\n• Zero Web Overhead: Bypasses browser sandboxes, WebGPU layers, and WebKit compositor overhead, minimizing draw-call latency and memory consumption.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/vn.iosvn.muguet.png",
+   "tintColor": "#8eb82a",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.9",
+     "date": "2026-10-12T12:06:05Z",
+     "localizedDescription": "Muguet iOS Build 8.9 (Official Release):\n\nBản phát hành chính thức Build 8.9 mang toàn bộ các thiết lập đồ họa chi tiết của GTA V ra giao diện Launcher bên ngoài và Menu Pause bên trong game, đồng thời tinh gọn giao diện điều khiển cảm ứng, tối ưu kích thước nút bấm và nâng cao độ ổn định trên toàn bộ các dòng iPhone / iPad.\n\nCác điểm mới & cải tiến nổi bật trong Build 8.9:\n\n• Bảng Cài đặt Đồ họa GTA V Chi tiết (In-Game Graphics Settings Panel):.\n\n• Thêm khu vực \"🎮 Cài đặt Đồ họa GTA V Chi tiết\" trực quan ngay tại Launcher và Menu Pause:.\n\n• Chất lượng Đổ bóng (Shadows): Bình thường (Mượt nhất) / Cao / Rất cao.\n• Khoảng cách Đổ bóng (Shadow Distance): Ngắn (0.5× - Tiết kiệm RAM/Pin) / Tiêu chuẩn (1.0×) / Xa (1.5×).\n• Chất lượng Phản chiếu (Reflections): Bình thường / Cao / Rất cao.\n• Chất lượng Cỏ cây & Thảo mộc (Grass): Bình thường (Chống tụt FPS khi lái xe ra ngoại ô Los Santos/đồi núi) / Cao / Rất cao.\n• Chất lượng Mặt nước (Water): Bình thường / Cao / Rất cao.\n• Chất lượng Hạt & Hiệu ứng cháy nổ (Particles): Bình thường / Cao / Rất cao.\n• Hiệu ứng Hậu kỳ & Ánh sáng (Post FX): Bình thường (Tối ưu FPS) / Cao (Bloom & Tia nắng) / Rất cao.\n• Lọc vân bề mặt (Anisotropic Filtering): Tắt (x0) / x4 / x8 / x16 (Rõ nét mặt đường).\n• Khử răng cưa viền (FXAA): Bật / Tắt (Tối đa FPS).\n• Mật độ Giao thông trên đường (Traffic Density): Vắng vẻ (0% - Tăng vọt FPS) / Vừa phải (50%) / Đông đúc (100% - Như PC).\n• Mật độ & Đa dạng Người đi bộ (Pedestrians): Thấp (0% - Tiết kiệm RAM) / Vừa phải (50%) / Cao (100%).\n• Tầm nhìn xa & Chi tiết vật thể (LOD Scale): Tiết kiệm RAM (-0.5) / Tiêu chuẩn (0.0) / Tầm nhìn xa (+0.5).\n\n• Tự động đồng bộ và lưu trữ hai chiều vào settings.xml và config.json.\n• Có thể tinh chỉnh trước khi vào game hoặc mở Muguet Menu trong khi đang chơi để áp dụng ngay lập tức.\n\nTinh gọn & Làm đẹp Giao diện Người dùng (UI Ergonomics):\n\n• Giao diện Cấu hình Nhanh tinh gọn: 2 nút thiết lập nhanh (\"⚡ 120 FPS Siêu Mượt\" và \"🍃 Tiết Kiệm RAM\") được thiết kế lại dạng thanh ngang đôi (HStack) nhỏ gọn, thanh thoát, đúng chuẩn phong cách iOS.\n• Ẩn thanh trượt thủ công dư thừa: Dọn dẹp 6 thanh trượt tọa độ và kích thước nút ở mục Điều khiển cảm ứng ngoài Launcher, tập trung trải nghiệm vào trình chỉnh sửa trực quan HUD Editor (chạm kéo thả và đổi cỡ trực tiếp trên màn hình).\n\nKhóa an toàn các thiết lập gây lỗi & đen màn hình:\n\n• ShaderQuality: Khóa an toàn ở mức 1 (High) tương thích tuyệt đối với bộ shader WGSL trên Metal, loại bỏ hoàn toàn lỗi màn hình đen sau khi đổi cấu hình.\n• MSAA & TXAA: Cưỡng chế tắt để tránh quá tải bộ nhớ đồ họa (VRAM) trên Metal, chống văng ứng dụng (Out-Of-Memory).\n• DX_Version: Cưỡng chế 2 (DirectX 11) tương thích tối đa với Apple Metal.\n• Windowed: Cưỡng chế 2 (Borderless) để giữ nguyên swapchain buffer khi hiển thị.\n• Cơ chế tự động khôi phục Metal surface (gpu::OCCLUDED = false) khi người chơi vuốt Control Center hoặc chuyển đổi ứng dụng rồi quay lại.\n\nTích hợp toàn diện các tính năng đã được kiểm chứng:\n\n• Nút 1 chạm \"Khôi phục đồ họa gốc (Sửa lỗi màn hình đen)\".\n• Cấu hình 1 chạm \"⚡ 120 FPS Siêu Mượt\" cho màn hình ProMotion.\n• Cấu hình 1 chạm \"🍃 Siêu Tiết Kiệm RAM (~800MB - 1GB)\" cho máy RAM thấp.\n• Bộ ghi log chẩn đoán sự cố tự động (Crash Reporter).\n• Bộ mã gian lận (Cheat Menu) tích hợp đầy đủ.\n\nThông tin tệp tin phát hành::\n\n• Tập tin: Muguet-v8.9.ipa.\n• Dung lượng: ~70.4 MB (73,859,920 bytes).\n• SHA-256: b8a5f8763331501be3d85292ae131767d5f8b152b37c8b6a6f6393d7b28d503f.\n\nLưu ý khi cài đặt::\n\n• Cài qua TrollStore hoặc ký qua ESign (bật Keep Original Entitlements trong More Settings).\n• Dữ liệu game đặt tại: Muguet/game/data và Muguet/game/b.",
+     "downloadURL": "https://github.com/iOSVNNews/muguet-ios-build/releases/download/iosvn-runtime8.9-20261012/Muguet-v8.9.ipa",
+     "size": 73859920
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Multiplayer connects to a game server on your local network."
+    }
+   }
+  }
+ ]
+}

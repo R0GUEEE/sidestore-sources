@@ -1,0 +1,30 @@
+{
+ "name": "ARMCPUZ",
+ "identifier": "dev.perapp.com-benchu-armcpuz",
+ "subtitle": "Tweaks: CPUXPro",
+ "description": "Single-app source for ARMCPUZ (com.benchu.ARMCPUZ). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.benchu.ARMCPUZ",
+   "name": "ARMCPUZ",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: CPUXPro",
+   "localizedDescription": "Tweaks: CPUXPro\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: CPUXPro\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 8585073
+    }
+   ]
+  }
+ ]
+}

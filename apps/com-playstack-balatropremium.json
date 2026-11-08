@@ -1,0 +1,30 @@
+{
+ "name": "Balatro",
+ "identifier": "dev.perapp.com-playstack-balatropremium",
+ "subtitle": "ipaomtk.com | Balatro IPA is an innovative and captivating mobile game that has taken the gaming world by storm. Develop",
+ "description": "Single-app source for Balatro (com.playstack.balatropremium). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Balatro-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playstack.balatropremium",
+   "name": "Balatro",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Balatro IPA is an innovative and captivating mobile game that has taken the gaming world by storm. Developed by the renowned studio, Bal",
+   "localizedDescription": "ipaomtk.com | Balatro IPA is an innovative and captivating mobile game that has taken the gaming world by storm. Developed by the renowned studio, Bal",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Balatro-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.19",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Balatro IPA is an innovative and captivating mobile game that has taken the gaming world by storm. Developed by the renowned studio, Bal",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Balatro-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

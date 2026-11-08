@@ -1,0 +1,30 @@
+{
+ "name": "FaztaaDict",
+ "identifier": "dev.perapp.com-faztaa-dict",
+ "subtitle": "VIP, yêu cầu đăng nhập để kích hoạt VIP, sau khi đăng nhập thì đóng ứng dụng rồi mở lại",
+ "description": "Single-app source for FaztaaDict (com.faztaa.dict). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/54/1b/46541b62-1cae-ae18-4040-d609dfde7518/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.faztaa.dict",
+   "name": "FaztaaDict",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "VIP, yêu cầu đăng nhập để kích hoạt VIP, sau khi đăng nhập thì đóng ứng dụng rồi mở lại",
+   "localizedDescription": "Chức năng đã thêm: VIP, yêu cầu đăng nhập để kích hoạt VIP, sau khi đăng nhập thì đóng ứng dụng rồi mở lại - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/54/1b/46541b62-1cae-ae18-4040-d609dfde7518/AppIcon-1x_U007emarketing-0-10-0-0-85-220-0.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.9",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: VIP, yêu cầu đăng nhập để kích hoạt VIP, sau khi đăng nhập thì đóng ứng dụng rồi mở lại - IPA đã được kiểm tra và tổng hợp bởi…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Faztaa.Dict_1.3.9_TTJB.ipa",
+     "size": 64100116
+    }
+   ]
+  }
+ ]
+}

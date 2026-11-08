@@ -1,0 +1,30 @@
+{
+ "name": "Nugget v2.0",
+ "identifier": "dev.perapp.com-leemin-nugget2",
+ "subtitle": "Nugget - Mobile",
+ "description": "Single-app source for Nugget v2.0 (com.leemin.nugget2). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "9a2bff",
+ "iconURL": "https://cdn.omnidev.org/nugget-N9.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leemin.nugget2",
+   "name": "Nugget v2.0",
+   "developerName": "leminlimez",
+   "subtitle": "Nugget - Mobile",
+   "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ❌: Discontinued",
+   "iconURL": "https://cdn.omnidev.org/nugget-N9.png",
+   "tintColor": "9a2bff",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2024-10-18T00:00:00Z",
+     "localizedDescription": "Unlock your device's full potential! Should work on all versions iOS 16.0 - 18.1 beta 4. Partial support for iOS 18.1 beta 5 and 6.\nStatus: ❌: Discontinued",
+     "downloadURL": "https://cdn.omnidev.org/Nugget2_0-cM.ipa",
+     "size": 7675473
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Carly",
+ "identifier": "dev.perapp.com-ivini-bmwhatlite2",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Carly (com.iViNi.BMWhatLite2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iViNi.BMWhatLite2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iViNi.BMWhatLite2",
+   "name": "Carly",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iViNi.BMWhatLite2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "41.26.020913",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-02-2026/Carly_41.26.020913_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 307519154
+    },
+    {
+     "version": "41.26.020411",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/Carly_41.26.020411_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 307519363
+    },
+    {
+     "version": "41.26.012015",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-01-2026/Carly_41.26.012015_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 307476835
+    }
+   ]
+  }
+ ]
+}

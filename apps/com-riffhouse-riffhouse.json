@@ -1,0 +1,37 @@
+{
+ "name": "Riffhouse",
+ "identifier": "dev.perapp.com-riffhouse-riffhouse",
+ "subtitle": "Riffhouse is a lightweight, cross-platform music streaming client that connects to your self-hosted music server",
+ "description": "Single-app source for Riffhouse (com.riffhouse.Riffhouse). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.riffhouse.Riffhouse.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.riffhouse.Riffhouse",
+   "name": "Riffhouse",
+   "developerName": "Skeeter2600",
+   "subtitle": "Riffhouse is a lightweight, cross-platform music streaming client that connects to your self-hosted music server",
+   "localizedDescription": "Riffhouse:\n\nA native music streaming client for your self-hosted music server.\n\nWhat is Riffhouse?:\n\nRiffhouse is a lightweight, cross-platform music streaming client that connects to your self-hosted music server: Jellyfin, Emby, or anything that speaks the Subsonic API (Navidrome, Gonic, Airsonic and others). No subscriptions, no tracking, no ads—just your music library, your way. Stream your personal collection anywhere, offline-first caching, integrated podcasts, and built-in Android Auto support.\n\nPerfect for: Anyone running their own music server who wants a native, feature-rich music app that works offline and feels at home on their device.\n\nQuick Start:\n\n• Install using the instructions below.\n• Launch Riffhouse.\n• Choose your server type and enter its URL (e.g., https://music.yourdomain.com)\n• Log in with your account on that server.\n• Start streaming your library instantly.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.riffhouse.Riffhouse.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/218cccad-3a7b-49c4-ba74-fa7db068593e",
+    "https://github.com/user-attachments/assets/b98e078c-ae70-4064-8e35-34978036d64e"
+   ],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-10-13T03:08:20Z",
+     "localizedDescription": "New:\n\n• EXPERIMENTAL: Emby and Navidrome / Subsonic support. Choose your server type when you sign in. Works with Jellyfin, Emby, and Subsonic or OpenSubsonic servers such as Navidrome, Gonic and Airsonic. Emby and Subsonic support is new and has not yet been tested against live servers, so reports are welcome.\n• Liked Songs. Likes are saved to your server as favorites (stars on Subsonic) and collected in a Liked Songs playlist, in the app and in Android Auto.\n• Android Auto controls. Shuffle, repeat and like buttons on the now-playing screen, also shown in the notification and lock-screen player.\n• Crossfade length. Choose a fade from 1 to 12 seconds in Settings.\n• Plays reported to your server. Play counts and last-played dates now update on the server. Plays made offline are queued and sent later.\n• Offline browsing. Albums, artists and playlists you have opened stay available without a connection.\n\n• Backup and restore. Save play history, listening stats, mix settings and podcast subscriptions to a file, and restore them after a reinstall or on a new device.\n\nFixed:\n\n• Crossfade cut off the end of each song instead of fading. It now fades the outgoing song down while the next one fades up.\n• Opening the app with no connection signed you out.\n\n• A library refresh that failed part-way could remove tracks from the local library.\n\n• The app briefly showed the login screen on every start.\n• Android in-app updates always reported the app as out of date, because builds carried the wrong version number.\n\n• The macOS build could not reach the network.\n• Two people using different accounts on the same server could sign each other out.\n\n• A garbled character appeared on podcast cards on the home screen.\n\nChanged:\n\n• Sign-in errors now say whether the password was wrong, the server could not be reached, or the address is not the chosen kind of server.\n\n• Android no longer asks for storage permissions it did not use.\n• The file provider used for Android Auto artwork now serves only cached artwork.",
+     "downloadURL": "https://github.com/Skeeter2600/Riffhouse/releases/download/v1.1.1/Riffhouse.ipa",
+     "size": 10423101
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

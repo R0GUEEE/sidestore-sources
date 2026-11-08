@@ -1,0 +1,30 @@
+{
+ "name": "CensorText",
+ "identifier": "dev.perapp.com-censorblur-app",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for CensorText (com.censorblur.app). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.censorblur.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.censorblur.app",
+   "name": "CensorText",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.censorblur.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2025/CensorText_1.0.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 21847928
+    }
+   ]
+  }
+ ]
+}

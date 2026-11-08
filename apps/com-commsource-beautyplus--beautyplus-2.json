@@ -1,0 +1,30 @@
+{
+ "name": "Beautyplus",
+ "identifier": "dev.perapp.com-commsource-beautyplus",
+ "subtitle": "Beautyplus",
+ "description": "Single-app source for Beautyplus (com.commsource.BeautyPlus). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.commsource.BeautyPlus",
+   "name": "Beautyplus",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.8.010",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-01-2025/Beautyplus_7.8.010_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 301169817
+    }
+   ]
+  }
+ ]
+}

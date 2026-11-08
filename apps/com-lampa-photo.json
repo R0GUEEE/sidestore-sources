@@ -1,0 +1,30 @@
+{
+ "name": "Lampa",
+ "identifier": "dev.perapp.com-lampa-photo",
+ "subtitle": "Lampa",
+ "description": "Single-app source for Lampa (com.lampa.photo). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lampa.photo",
+   "name": "Lampa",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lampa.photo.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.1",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Lampa_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 84078740
+    }
+   ]
+  }
+ ]
+}

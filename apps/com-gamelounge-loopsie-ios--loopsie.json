@@ -1,0 +1,44 @@
+{
+ "name": "Loopsie",
+ "identifier": "dev.perapp.com-gamelounge-loopsie-ios",
+ "subtitle": "Loopsie",
+ "description": "Single-app source for Loopsie (com.gamelounge.loopsie.ios). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/55/c9/8155c924-836a-be81-e13f-58924ad8da98/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gamelounge.loopsie.ios",
+   "name": "Loopsie",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Loopsie: AI Image Effects\n\nTweak: Subscription Unlocked\n\nVersion: 8.20.2\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/55/c9/8155c924-836a-be81-e13f-58924ad8da98/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.20.4",
+     "date": "2026-09-09T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2399",
+     "size": 191204921
+    },
+    {
+     "version": "8.10.2",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
+     "size": 185592561
+    },
+    {
+     "version": "8.13.3",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Injected with Pro. App that allows you to easily animate parts of your photos. A user requested it so here it is.\nLast updated: 07-16-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.13.3.ipa",
+     "size": 193293799
+    }
+   ]
+  }
+ ]
+}

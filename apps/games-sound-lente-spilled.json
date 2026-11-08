@@ -1,0 +1,37 @@
+{
+ "name": "Spilled!",
+ "identifier": "dev.perapp.games-sound-lente-spilled",
+ "subtitle": "ipaomtk.com | What is Spilled! IPA? Spilled! IPA is the iOS installable version of a calming simulation game focused on ",
+ "description": "Single-app source for Spilled! (games.sound.lente.spilled). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Spilled-IPA-v1.0.10-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "games.sound.lente.spilled",
+   "name": "Spilled!",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Spilled! IPA? Spilled! IPA is the iOS installable version of a calming simulation game focused on environmental cleanup and rest",
+   "localizedDescription": "ipaomtk.com | What is Spilled! IPA? Spilled! IPA is the iOS installable version of a calming simulation game focused on environmental cleanup and rest",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Spilled-IPA-v1.0.10-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.10",
+     "date": "2026-04-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Spilled! IPA? Spilled! IPA is the iOS installable version of a calming simulation game focused on environmental cleanup and rest",
+     "downloadURL": "https://file.ipaomtk.com/spilled/Spilled-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.11",
+     "date": "2026-04-26T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Spilled! IPA? Spilled! IPA is the iOS installable version of a calming simulation game focused on environmental cleanup and rest",
+     "downloadURL": "https://file.ipaomtk.com/spilled/Spilled-IPAOMTK.COM.ipa",
+     "size": 324890094
+    }
+   ]
+  }
+ ]
+}

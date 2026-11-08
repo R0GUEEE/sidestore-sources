@@ -1,0 +1,44 @@
+{
+ "name": "Bendy Run",
+ "identifier": "dev.perapp.com-jds-bnr",
+ "subtitle": "@kamohacks | Bendy's Nightmare Run 🆕  🔩Hack Features🔩  ✅Damage Multiplier → amplify your attack power ✅Defence Multiplie",
+ "description": "Single-app source for Bendy Run (com.jds.bnr). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16436.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jds.bnr",
+   "name": "Bendy Run",
+   "developerName": "@kamohacks",
+   "subtitle": "@kamohacks | Bendy's Nightmare Run 🆕  🔩Hack Features🔩  ✅Damage Multiplier → amplify your attack power ✅Defence Multiplier → reduce incoming damage ✅Go",
+   "localizedDescription": "@kamohacks | Bendy's Nightmare Run 🆕  🔩Hack Features🔩  ✅Damage Multiplier → amplify your attack power ✅Defence Multiplier → reduce incoming damage ✅Go",
+   "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16436.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.3",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "@kamohacks | Bendy's Nightmare Run 🆕⬆️⬆️  🔩Hack Features🔩  ✅Damage Multiplier → amplify your attack power ✅Defence Multiplier → reduce incoming damage",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16538-Bendy%20Run%20-%20KamoHacks%20%5B2.0.3%5D.ipa",
+     "size": 267469643
+    },
+    {
+     "version": "2.0.2",
+     "date": "2026-08-24T00:00:00Z",
+     "localizedDescription": "@kamohacks | Bendy's Nightmare Run 🆕⬆️⬆️  🔩Hack Features🔩  ✅Damage Multiplier → amplify your attack power ✅Defence Multiplier → reduce incoming damage",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16443-Bendy%20Run%20-%20KamoHacks%20%5B2.0.2%5D.ipa",
+     "size": 267642869
+    },
+    {
+     "version": "2.0.1",
+     "date": "2026-08-22T00:00:00Z",
+     "localizedDescription": "@kamohacks | Bendy's Nightmare Run 🆕  🔩Hack Features🔩  ✅Damage Multiplier → amplify your attack power ✅Defence Multiplier → reduce incoming damage ✅Go",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16436-Bendy%20Run%20-%20KamoHacks%20%5B2.0.1%5D.ipa",
+     "size": 264600530
+    }
+   ]
+  }
+ ]
+}

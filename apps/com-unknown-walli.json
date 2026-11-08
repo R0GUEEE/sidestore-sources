@@ -1,0 +1,30 @@
+{
+ "name": "Walli",
+ "identifier": "dev.perapp.com-unknown-walli",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەت مەندیە پارەکان کراوەنتۆ ✅  ئەم بەرنامە تایبەتە بە وێنە بۆ سەرشاشەی موبایلەکەت ✅",
+ "description": "Single-app source for Walli (com.unknown.walli). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Walli.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.walli",
+   "name": "Walli",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەت مەندیە پارەکان کراوەنتۆ ✅  ئەم بەرنامە تایبەتە بە وێنە بۆ سەرشاشەی موبایلەکەت ✅",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەت مەندیە پارەکان کراوەنتۆ ✅  ئەم بەرنامە تایبەتە بە وێنە بۆ سەرشاشەی موبایلەکەت ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Walli.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.75.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەت مەندیە پارەکان کراوەنتۆ ✅  ئەم بەرنامە تایبەتە بە وێنە بۆ سەرشاشەی موبایلەکەت ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Walli.1.75.0.ipa",
+     "size": 70110000
+    }
+   ]
+  }
+ ]
+}

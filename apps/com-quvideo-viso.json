@@ -1,0 +1,44 @@
+{
+ "name": "TempoPro",
+ "identifier": "dev.perapp.com-quvideo-viso",
+ "subtitle": "Tempo, with pro features unlocked, not confirmed working on iOS 14.x. Last updated: 02-25-2024 Status: ✅",
+ "description": "Single-app source for TempoPro (com.quvideo.VISO). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quvideo.VISO.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.quvideo.VISO",
+   "name": "TempoPro",
+   "developerName": "DPixel / Manpreet Singh @thisismanpreets",
+   "subtitle": "Tempo, with pro features unlocked, not confirmed working on iOS 14.x. Last updated: 02-25-2024 Status: ✅",
+   "localizedDescription": "Tempo, with pro features unlocked, not confirmed working on iOS 14.x. Last updated: 02-25-2024 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quvideo.VISO.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.31.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Tempo, with pro features unlocked, not confirmed working on iOS 14.x. Last updated: 02-25-2024 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-12-2023/TempoPro-4.31.0.ipa",
+     "size": 87754278
+    },
+    {
+     "version": "4.34.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Tempo, with pro features unlocked, not confirmed working on iOS 14.x. Last updated: 02-25-2024 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/TempoPro-4.34.0.ipa",
+     "size": 94700497
+    },
+    {
+     "version": "4.33.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Tempo, with pro features unlocked, not confirmed working on iOS 14.x. Last updated: 02-25-2024 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2023/TempoPro-4.33.0.ipa",
+     "size": 90634685
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "p12Cracker App",
+ "identifier": "dev.perapp.nabzclan-vip-p12cracker-2026",
+ "subtitle": "p12Cracker App by sidelix",
+ "description": "Single-app source for p12Cracker App (nabzclan.vip.p12cracker.2026). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1774071111.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nabzclan.vip.p12cracker.2026",
+   "name": "p12Cracker App",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Crack, change, and check .p12 certificates",
+   "iconURL": "https://appstore.sidelix.vip/images/1774071111.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2026-03-21T00:00:00Z",
+     "localizedDescription": "Crack, change, and check .p12 certificates",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1977",
+     "size": 2126646
+    }
+   ]
+  }
+ ]
+}

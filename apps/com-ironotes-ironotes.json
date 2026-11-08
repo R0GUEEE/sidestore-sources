@@ -1,0 +1,30 @@
+{
+ "name": "Ironotes",
+ "identifier": "dev.perapp.com-ironotes-ironotes",
+ "subtitle": "Ironotes",
+ "description": "Single-app source for Ironotes (com.ironotes.Ironotes). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ironotes.Ironotes.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ironotes.Ironotes",
+   "name": "Ironotes",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ironotes.Ironotes.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.181",
+     "date": "2025-11-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Ironotes_1.181_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 64602957
+    }
+   ]
+  }
+ ]
+}

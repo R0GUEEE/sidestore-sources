@@ -1,0 +1,30 @@
+{
+ "name": "Musi",
+ "identifier": "dev.perapp.com-feelthemusi-musi",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for Musi (com.feelthemusi.musi). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.feelthemusi.musi",
+   "name": "Musi",
+   "developerName": "binnichtaktiv's iPA Library",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nInjected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.feelthemusi.musi.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.40",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nInjected with Satella. Simple music streaming app: sort your favorite music videos, create playlists, share them with friends, and beyond. A user…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Musi/Musi-6.2.40.ipa",
+     "size": 26299704
+    }
+   ]
+  }
+ ]
+}

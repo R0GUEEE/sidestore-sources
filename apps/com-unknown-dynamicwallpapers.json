@@ -1,0 +1,30 @@
+{
+ "name": "Dynamic Wallpapers",
+ "identifier": "dev.perapp.com-unknown-dynamicwallpapers",
+ "subtitle": "✅ Unlock Subscription in app  ✅ (Internal App features)  ✅ wallpapers and cool shortcuts  ✅ Add Dynamic Wallpapers",
+ "description": "Single-app source for Dynamic Wallpapers (com.unknown.dynamicwallpapers). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Dynamic.Wallpapers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.dynamicwallpapers",
+   "name": "Dynamic Wallpapers",
+   "developerName": "Karbin-Store",
+   "subtitle": "✅ Unlock Subscription in app  ✅ (Internal App features)  ✅ wallpapers and cool shortcuts  ✅ Add Dynamic Wallpapers",
+   "localizedDescription": "✅ Unlock Subscription in app  ✅ (Internal App features)  ✅ wallpapers and cool shortcuts  ✅ Add Dynamic Wallpapers",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Dynamic.Wallpapers.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "✅ Unlock Subscription in app  ✅ (Internal App features)  ✅ wallpapers and cool shortcuts  ✅ Add Dynamic Wallpapers",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Dynamic.Wallpapers.2.3.ipa",
+     "size": 9120000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "NCv184007",
+ "identifier": "dev.perapp.nt-nc-ios",
+ "subtitle": "NCv184007",
+ "description": "Single-app source for NCv184007 (nt.nc.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nt.nc.ios",
+   "name": "NCv184007",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18.400.7",
+     "date": "2026-07-01T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/NCv184007_18.400.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 461276778
+    }
+   ]
+  }
+ ]
+}

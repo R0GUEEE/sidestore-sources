@@ -1,0 +1,41 @@
+{
+ "name": "SymbiosSettings",
+ "identifier": "dev.perapp.in-kloster-symbiossettings",
+ "subtitle": "iOS app (SwiftUI + CoreBluetooth) to read and change Halcyon Symbios dive computer settings over BLE — reverse-engineere",
+ "description": "Single-app source for SymbiosSettings (in.kloster.SymbiosSettings). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2b72ba",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/in.kloster.SymbiosSettings.png",
+ "apps": [
+  {
+   "bundleIdentifier": "in.kloster.SymbiosSettings",
+   "name": "SymbiosSettings",
+   "developerName": "etlami",
+   "subtitle": "iOS app (SwiftUI + CoreBluetooth) to read and change Halcyon Symbios dive computer settings over BLE — reverse-engineered",
+   "localizedDescription": "Symbios Settings — iOS app:\n\nAn independent iOS app (SwiftUI + CoreBluetooth) to read and change the settings of the Halcyon Symbios dive computer, based on the reverse-engineered BLE protocol.\n\n⚠️ Reverse-engineered (no official spec). Most settings have been verified on-device, and every write is read back for confirmation. Still — this is a dive computer: always confirm changed settings on the device itself before diving.\n\nFeatures:\n\n• Connect over BLE, read device info (serial, firmware, battery, pressure).\n• Read and display all anchored settings, grouped (Dive profile · CCR/FSP · Timeouts & alarms · Displays · Computer settings).\n• Change settings via a safe read-modify-write (fetch fresh → patch one byte → SET_SETTINGS → verify with a re-read).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/in.kloster.SymbiosSettings.png",
+   "tintColor": "#2b72ba",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.22",
+     "date": "2026-10-11T16:25:14Z",
+     "localizedDescription": "Fixes dive numbering after merging: a session now counts as a single dive, so the dives after it renumber automatically instead of leaving a gap.",
+     "downloadURL": "https://github.com/etlami/SymbiosSettings/releases/download/v1.9.22/SymbiosSettings.ipa",
+     "size": 724847
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "Verbindung zum Halcyon Symbios Tauchcomputer zum Lesen und Ändern der Einstellungen."
+    }
+   }
+  }
+ ]
+}

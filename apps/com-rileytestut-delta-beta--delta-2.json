@@ -1,0 +1,30 @@
+{
+ "name": "Delta",
+ "identifier": "dev.perapp.com-rileytestut-delta-beta",
+ "subtitle": "Emulator for GBA, N64, and NDS Last updated: 09-23-2023 Status: ✅",
+ "description": "Single-app source for Delta (com.rileytestut.Delta.Beta). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.Delta.Beta",
+   "name": "Delta",
+   "developerName": "AltStore Official",
+   "subtitle": "Emulator for GBA, N64, and NDS Last updated: 09-23-2023 Status: ✅",
+   "localizedDescription": "Emulator for GBA, N64, and NDS\nLast updated: 09-23-2023\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.rileytestut.Delta.Beta.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4b4",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Emulator for GBA, N64, and NDS Last updated: 09-23-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Delta-1.4b4.ipa",
+     "size": 42958876
+    }
+   ]
+  }
+ ]
+}

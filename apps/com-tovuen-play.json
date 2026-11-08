@@ -1,0 +1,30 @@
+{
+ "name": "ShowBox",
+ "identifier": "dev.perapp.com-tovuen-play",
+ "subtitle": "Tweaks: Qamislo",
+ "description": "Single-app source for ShowBox (com.tovuen.play). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tovuen.play.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tovuen.play",
+   "name": "ShowBox",
+   "developerName": "Qamislo - Apps",
+   "subtitle": "Tweaks: Qamislo",
+   "localizedDescription": "Tweaks: Qamislo\n\nAnother HDO Play under a different name, UI is way better than the one above.\nLast updated: 12-03-2023\nStatus: ⚠️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tovuen.play.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: Qamislo\n\nAnother HDO Play under a different name, UI is way better than the one above. Last updated: 12-03-2023 Status: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ShowBox/ShowBox-3.0.ipa",
+     "size": 24663117
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Dopamine",
+ "identifier": "dev.perapp.com-opa334-dopamine",
+ "subtitle": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here so",
+ "description": "Single-app source for Dopamine (com.opa334.Dopamine). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.opa334.Dopamine",
+   "name": "Dopamine",
+   "developerName": "opa334",
+   "subtitle": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.",
+   "localizedDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.",
+   "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/67ffxsD.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.13",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.",
+     "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
+     "size": 55422988
+    },
+    {
+     "version": "3.0.12",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "Rootless arm64e jailbreak for iOS 15.0 - 16.5.1 (arm64e) and iOS 15.0 - 16.6.1 (arm64). More details will follow here soon.",
+     "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.12/Dopamine.ipa",
+     "size": 55420784
+    },
+    {
+     "version": "2.0.11",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "Phiên bản Rootful của nekoJB - Jailbreak cho các thiết bị A11 trở xuống ở iOS 15.0-15.8 - Xoá Dopamine trước khi cài - Nên cài bằng TrollStore - IPA đ",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/nekojb_rootful.tipa",
+     "size": 7667378
+    }
+   ]
+  }
+ ]
+}

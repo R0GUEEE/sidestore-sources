@@ -1,0 +1,44 @@
+{
+ "name": "Ksign",
+ "identifier": "dev.perapp.nya-asami-ksign",
+ "subtitle": "Yet another codesigning app, have you ever wondered what if Feather and Esign had a child? Welcome to Ksign!",
+ "description": "Single-app source for Ksign (nya.asami.ksign). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Nyasami/Ksign/blob/v1.5/Ksign/Resources/Assets.xcassets/AppIcon.appiconset/Ksign-default.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "nya.asami.ksign",
+   "name": "Ksign",
+   "developerName": "Nagata Asami",
+   "subtitle": "Yet another codesigning app, have you ever wondered what if Feather and Esign had a child? Welcome to Ksign!",
+   "localizedDescription": "Yet another codesigning app, have you ever wondered what if Feather and Esign had a child? Welcome to Ksign!",
+   "iconURL": "https://github.com/Nyasami/Ksign/blob/v1.5/Ksign/Resources/Assets.xcassets/AppIcon.appiconset/Ksign-default.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "beta",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Ksign   Yet another codesigning app, have you ever wondered what if Feather and Esign had a child? Why? Since Esign is end of service so people been m",
+     "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/beta/Ksign.ipa",
+     "size": 16231234
+    },
+    {
+     "version": "1.6.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Ksign   Yet another codesigning app, have you ever wondered what if Feather and Esign had a child? Why? Since Esign is end of service so people been m",
+     "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/beta/Ksign.ipa",
+     "size": 16229912
+    },
+    {
+     "version": "1.6",
+     "date": "2026-05-25T00:00:00Z",
+     "localizedDescription": "Yet another codesigning app, have you ever wondered what if Feather and Esign had a child? Welcome to Ksign!",
+     "downloadURL": "https://github.com/Nyasami/Ksign/releases/download/v1.6/Ksign.ipa",
+     "size": 14000000
+    }
+   ]
+  }
+ ]
+}

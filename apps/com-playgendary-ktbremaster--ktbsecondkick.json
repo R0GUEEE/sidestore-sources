@@ -1,0 +1,44 @@
+{
+ "name": "KTBSecondKick",
+ "identifier": "dev.perapp.com-playgendary-ktbremaster",
+ "subtitle": "Injected with IGG",
+ "description": "Single-app source for KTBSecondKick (com.playgendary.ktbremaster). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.ktbremaster.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playgendary.ktbremaster",
+   "name": "KTBSecondKick",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IGG",
+   "localizedDescription": "Injected with IGG",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.playgendary.ktbremaster.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.14.8",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-12-2025/KTBSecondKick_2.14.8_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 174759307
+    },
+    {
+     "version": "2.16.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-03-2026/KTBSecondKick_2.16.1_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 176235126
+    },
+    {
+     "version": "2.14.5",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-11-2025/KTBSecondKick_2.14.5_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 162024640
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Splice",
+ "identifier": "dev.perapp.com-path36-splicefree",
+ "subtitle": "Splice",
+ "description": "Single-app source for Splice (com.path36.SpliceFree). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.path36.SpliceFree",
+   "name": "Splice",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.28.75",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Splice_4.28.75_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 106606936
+    }
+   ]
+  }
+ ]
+}

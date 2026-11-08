@@ -1,0 +1,37 @@
+{
+ "name": "MuffinStoreJailed",
+ "identifier": "dev.perapp.dev-mineek-muffinstorejailed",
+ "subtitle": "MuffinStoreJailed by OwO Source",
+ "description": "Single-app source for MuffinStoreJailed (dev.mineek.MuffinStoreJailed). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/dev.mineek.MuffinStoreJailed.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.mineek.MuffinStoreJailed",
+   "name": "MuffinStoreJailed",
+   "developerName": "OwO Source",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/dev.mineek.MuffinStoreJailed.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20240103",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-01-03/MuffinStoreJailed_20240103_@repo.owo.network.ipa",
+     "size": 459185
+    },
+    {
+     "version": "1.0",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-01-03/MuffinStoreJailed_20240103_@repo.owo.network.ipa",
+     "size": 459185
+    }
+   ]
+  }
+ ]
+}

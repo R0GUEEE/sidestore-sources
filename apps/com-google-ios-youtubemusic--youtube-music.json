@@ -1,0 +1,44 @@
+{
+ "name": "YouTube Music",
+ "identifier": "dev.perapp.com-google-ios-youtubemusic",
+ "subtitle": "@compiledipas | YTMusicUltimate+ v2.4.1 YTM v9.31.4 YouMusicPiP is removed  Injected with: Return-YouTube-Music-Dislikes",
+ "description": "Single-app source for YouTube Music (com.google.ios.youtubemusic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1303.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtubemusic",
+   "name": "YouTube Music",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | YTMusicUltimate+ v2.4.1 YTM v9.31.4 YouMusicPiP is removed  Injected with: Return-YouTube-Music-Dislikes, YTMABConfig, and VolumeBoost",
+   "localizedDescription": "@compiledipas | YTMusicUltimate+ v2.4.1 YTM v9.31.4 YouMusicPiP is removed  Injected with: Return-YouTube-Music-Dislikes, YTMABConfig, and VolumeBoost",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1303.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.44.2",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of YouTube Music 9.44.2  ▪️New custom downloader (credits to Mark02-2012) Builds: ▪YTMUltimate+ ▪YTMUltimate+ No PIP Added Tweaks: ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1141-YTMUltimate+%209.44.2%20%5B@ipavault%5D.ipa",
+     "size": 112601953
+    },
+    {
+     "version": "9.43.2",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of YouTube Music 9.43.2  ▪️Updated to YouTube Music 9.43.2 ▪️Updated to new custom downloader (credits to Mark02-2012) Builds: ▪YTM",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1041-YTMUltimate+%209.43.2%20%5B@ipavault%5D.ipa",
+     "size": 111956751
+    },
+    {
+     "version": "9.42.2",
+     "date": "2026-10-19T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of YouTube Music 9.42.2  ▪️Updated to YouTube Music 9.42.2 Builds: ▪YTMUltimate+ ▪YTMUltimate+ No PIP Added Tweaks:   ▪️ReturnYouTu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/921-YTMUltimate+%209.42.2%20%5B@ipavault%5D.ipa",
+     "size": 108476393
+    }
+   ]
+  }
+ ]
+}

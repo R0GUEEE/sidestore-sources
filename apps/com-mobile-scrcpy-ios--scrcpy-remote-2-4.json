@@ -1,0 +1,30 @@
+{
+ "name": "Scrcpy_Remote_2.4",
+ "identifier": "dev.perapp.com-mobile-scrcpy-ios",
+ "subtitle": "scrcpy for iOS.",
+ "description": "Single-app source for Scrcpy_Remote_2.4 (com.mobile.scrcpy-ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Scrcpy_Remote_2.4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobile.scrcpy-ios",
+   "name": "Scrcpy_Remote_2.4",
+   "developerName": "Scrcpy_Remote_2.4 x CyPwn",
+   "subtitle": "scrcpy for iOS.",
+   "localizedDescription": "scrcpy for iOS.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Scrcpy_Remote_2.4.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "scrcpy for iOS.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Scrcpy_Remote_2.4.ipa",
+     "size": 9678356
+    }
+   ]
+  }
+ ]
+}

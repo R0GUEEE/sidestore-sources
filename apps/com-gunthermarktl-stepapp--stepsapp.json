@@ -1,0 +1,44 @@
+{
+ "name": "StepsApp",
+ "identifier": "dev.perapp.com-gunthermarktl-stepapp",
+ "subtitle": "@riftysIPAlibrary | StepsApp Pedometer  Tweak: Pro Unlocked  Version: 8.12.3  Patched ✓  @riftysIPAlibrary  Additional I",
+ "description": "Single-app source for StepsApp (com.gunthermarktl.stepapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7269.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gunthermarktl.stepapp",
+   "name": "StepsApp",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | StepsApp Pedometer  Tweak: Pro Unlocked  Version: 8.12.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version:",
+   "localizedDescription": "@riftysIPAlibrary | StepsApp Pedometer  Tweak: Pro Unlocked  Version: 8.12.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version:",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7269.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.15.7",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | StepsApp Pedometer  Tweak: Pro Unlocked  Version: 8.15.7  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version:",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8788-StepsApp%20Pedometer-v8.15.7-riftysipas.ipa",
+     "size": 236496677
+    },
+    {
+     "version": "8.15.6",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | StepsApp Pedometer  Tweak: Pro Unlocked  Version: 8.15.6  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version:",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8763-StepsApp%20Pedometer-v8.15.6-riftysipas.ipa",
+     "size": 236380856
+    },
+    {
+     "version": "8.15.5",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | StepsApp Pedometer  Tweak: Pro Unlocked  Version: 8.15.5  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version:",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8549-StepsApp%20Pedometer-v8.15.5-riftysipas.ipa",
+     "size": 241880862
+    }
+   ]
+  }
+ ]
+}

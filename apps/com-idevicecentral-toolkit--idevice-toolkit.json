@@ -1,0 +1,30 @@
+{
+ "name": "iDevice Toolkit",
+ "identifier": "dev.perapp.com-idevicecentral-toolkit",
+ "subtitle": "iDevice Toolkit",
+ "description": "Single-app source for iDevice Toolkit (com.idevicecentral.toolkit). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.idevicecentral.toolkit",
+   "name": "iDevice Toolkit",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/938e1cb4-3d13-42ee-b7ad-e89f4182b920/iDeviceToolKit-v2.0.1-idevicecentral.ipa",
+     "size": 2031389
+    }
+   ]
+  }
+ ]
+}

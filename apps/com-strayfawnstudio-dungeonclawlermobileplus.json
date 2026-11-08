@@ -1,0 +1,30 @@
+{
+ "name": "Dungeon Clawler",
+ "identifier": "dev.perapp.com-strayfawnstudio-dungeonclawlermobileplus",
+ "subtitle": "@ipa_dark | 🔄 Dungeon Clawler+ - appstore  🇷🇺 Рогалик с элементами карточной игры, где нужно исследовать подземелья, сра",
+ "description": "Single-app source for Dungeon Clawler (com.strayfawnstudio.dungeonclawlermobileplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1669.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.strayfawnstudio.dungeonclawlermobileplus",
+   "name": "Dungeon Clawler",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Dungeon Clawler+ - appstore  🇷🇺 Рогалик с элементами карточной игры, где нужно исследовать подземелья, сражаться с врагами и использоват",
+   "localizedDescription": "@ipa_dark | 🔄 Dungeon Clawler+ - appstore  🇷🇺 Рогалик с элементами карточной игры, где нужно исследовать подземелья, сражаться с врагами и использоват",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1669.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.606",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Dungeon Clawler+ - appstore  🇷🇺 Рогалик с элементами карточной игры, где нужно исследовать подземелья, сражаться с врагами и использоват",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1669-Dungeon%20Clawler%20%5Bv1.0.606%5D%28tg@ipa_dark%29.ipa",
+     "size": 345719788
+    }
+   ]
+  }
+ ]
+}

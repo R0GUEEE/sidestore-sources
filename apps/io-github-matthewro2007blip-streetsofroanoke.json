@@ -1,0 +1,34 @@
+{
+ "name": "Streets of Roanoke",
+ "identifier": "dev.perapp.io-github-matthewro2007blip-streetsofroanoke",
+ "subtitle": "Streets of Roanoke (formerly Star City Drift) is a finished 2D arcade beat 'em up set in Roanoke, Virginia, the Star Cit",
+ "description": "Single-app source for Streets of Roanoke (io.github.matthewro2007blip.streetsofroanoke). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#ab5d2f",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.matthewro2007blip.streetsofroanoke.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.matthewro2007blip.streetsofroanoke",
+   "name": "Streets of Roanoke",
+   "developerName": "matthewro2007-blip",
+   "subtitle": "Streets of Roanoke (formerly Star City Drift) is a finished 2D arcade beat 'em up set in Roanoke, Virginia, the Star City",
+   "localizedDescription": "Streets of Roanoke:\n\nStreets of Roanoke (formerly Star City Drift) is a finished 2D arcade beat 'em up set in Roanoke, Virginia, the Star City. You play as Matthew Rose, free-roaming the streets, clearing thug waves, and finishing the job. It is a static site of vanilla ES modules and canvas (no build step) and can be installed as an app on PC and phone.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.matthewro2007blip.streetsofroanoke.png",
+   "tintColor": "#ab5d2f",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2026-10-29T19:26:00Z",
+     "localizedDescription": "2.1.1 - Idle + walk fix:\n\n• Fixed: standing still showed the old Matthew sprite. No outfit had an 'idle' state, so the game drew the old sheet, and this also happened while the new art was still streaming in. Every outfit now has a real idle, there's a fallback chain (idle -> idle_signature -> idle_personality), and the idle and run strips load first.\n• Every character breathes: Matthew (all 15 outfits), William, the 2028 Matthew and all 30 cast members have looping idles. They're supersampled, so there's no shimmer, and the feet stay planted.\n• Joe's new walks: 53 strips for 47 characters (an arcade brawler strut for Matthew's 15 outfits, William and the 2028 Matthew, plus 6-pose walks for the 30 cast). Matthew struts when he moves slowly and runs at full speed.\n• Legs keep pace with movement: walk, run and sprint playback speed follows the actual move speed (player, William, enemies), and cutscene walkers advance their legs by distance walked, so feet don't slide.\n• Walking is smoother: steady anchors and a constant feet line between frames, the run's hip jump is gone, and the sprint's duplicate poses are trimmed.\n• Silas and enemies never switch back to old art: every Silas look and every enemy state now uses the new art (run, rush, taunt, hurt, KO and so on reuse his new poses). The C-14 and red-suit Silas combos are repainted from playable Silas.\n• The title screen shows the new Matthew and the new Silas.\n• William's talk frames match his idle height (no more size pop).",
+     "downloadURL": "https://github.com/matthewro2007-blip/Star-city-drift/releases/download/v2.1.1/Streets-of-Roanoke-2.1.1.ipa",
+     "size": 457011727
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

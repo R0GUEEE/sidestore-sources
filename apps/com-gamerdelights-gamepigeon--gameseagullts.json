@@ -1,0 +1,30 @@
+{
+ "name": "GameSeagullTS",
+ "identifier": "dev.perapp.com-gamerdelights-gamepigeon",
+ "subtitle": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside ",
+ "description": "Single-app source for GameSeagullTS (com.gamerdelights.gamepigeon). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamerdelights.gamepigeon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gamerdelights.gamepigeon",
+   "name": "GameSeagullTS",
+   "developerName": "donato-fiore",
+   "subtitle": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull…",
+   "localizedDescription": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull should work from there!\nLast updated: 02-03-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.gamerdelights.gamepigeon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.12",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "A updated Tweak for GamerDelights GamePigeon, now for TrollStore. Note: Install then go into gamepigeon settings inside iMessage and gameseagull…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GameSeagullTS/GameSeagullTS.ipa",
+     "size": 90271704
+    }
+   ]
+  }
+ ]
+}

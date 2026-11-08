@@ -1,0 +1,44 @@
+{
+ "name": "SHRED",
+ "identifier": "dev.perapp.com-shred-shredlabs",
+ "subtitle": "@blatants | SHRED: Gym & Home Workouts  • Bundle ID: com.shred.shredlabs • Updated to: 5.5.1 • Minimum iOS: 17.0 • Patch",
+ "description": "Single-app source for SHRED (com.shred.shredlabs). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11470.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shred.shredlabs",
+   "name": "SHRED",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | SHRED: Gym & Home Workouts  • Bundle ID: com.shred.shredlabs • Updated to: 5.5.1 • Minimum iOS: 17.0 • Patched • Modifier: Subscription Un",
+   "localizedDescription": "@blatants | SHRED: Gym & Home Workouts  • Bundle ID: com.shred.shredlabs • Updated to: 5.5.1 • Minimum iOS: 17.0 • Patched • Modifier: Subscription Un",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11470.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.6",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | SHRED: Gym & Home Workouts  • Bundle ID: com.shred.shredlabs • Updated to: 5.5.6 • Minimum iOS: 17.0 • Patched • Modifier: Subscription Un",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13052-SHRED_Gym_&_Home_Workouts_v5_5_6_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 104181146
+    },
+    {
+     "version": "5.5.5",
+     "date": "2026-10-09T00:00:00Z",
+     "localizedDescription": "@blatants | SHRED: Gym & Home Workouts  • Bundle ID: com.shred.shredlabs • Updated to: 5.5.5 • Minimum iOS: 17.0 • Patched • Modifier: Subscription Un",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12706-SHRED_Gym_&_Home_Workouts_v5_5_5_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 152152551
+    },
+    {
+     "version": "5.5.4",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/SHRED_5.5.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 152612795
+    }
+   ]
+  }
+ ]
+}

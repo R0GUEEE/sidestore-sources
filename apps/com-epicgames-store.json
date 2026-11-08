@@ -1,0 +1,31 @@
+{
+ "name": "Epic Games Store",
+ "identifier": "dev.perapp.com-epicgames-store",
+ "subtitle": "It’s useless, but cool.",
+ "description": "Single-app source for Epic Games Store (com.epicgames.store). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "848ef9",
+ "iconURL": "https://cdn2.unrealengine.com/egs-seo-asset-1200x1200-5678f8a3aee1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.epicgames.store",
+   "name": "Epic Games Store",
+   "developerName": "Epic Games & Celestial Devs",
+   "subtitle": "It’s useless, but cool.",
+   "localizedDescription": "Epic Games Store",
+   "iconURL": "https://cdn2.unrealengine.com/egs-seo-asset-1200x1200-5678f8a3aee1.png",
+   "tintColor": "848ef9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "v31.00.2",
+     "date": "2024-08-24T18:34:10Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/Fortnite.31.00.2+UPD.CaHighFPS+SUBSTRATE.ipa",
+     "size": 242640000
+    }
+   ],
+   "appPermissions": {}
+  }
+ ]
+}

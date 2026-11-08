@@ -1,0 +1,30 @@
+{
+ "name": "SantanderEscaped-0.3",
+ "identifier": "dev.perapp.cypwn-santanderescaped-0-3-1-0",
+ "subtitle": "A new, enhanced File Manager for iOS devices with the tccd exploit for full file access.",
+ "description": "Single-app source for SantanderEscaped-0.3 (cypwn.SantanderEscaped-0.3.1.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/SantanderEscaped-0.3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.SantanderEscaped-0.3.1.0",
+   "name": "SantanderEscaped-0.3",
+   "developerName": "SantanderEscaped-0.3 x CyPwn",
+   "subtitle": "A new, enhanced File Manager for iOS devices with the tccd exploit for full file access.",
+   "localizedDescription": "A new, enhanced File Manager for iOS devices with the tccd exploit for full file access.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/SantanderEscaped-0.3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "A new, enhanced File Manager for iOS devices with the tccd exploit for full file access.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/SantanderEscaped-0.3.ipa",
+     "size": 4791992
+    }
+   ]
+  }
+ ]
+}

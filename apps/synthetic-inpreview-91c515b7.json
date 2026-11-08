@@ -1,0 +1,30 @@
+{
+ "name": "Inpreview",
+ "identifier": "dev.perapp.synthetic-inpreview-91c515b7",
+ "subtitle": "Inpreview",
+ "description": "Single-app source for Inpreview (synthetic.inpreview.91c515b7). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/instapreview.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.inpreview.91c515b7",
+   "name": "Inpreview",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/instapreview.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.8.0",
+     "date": "2025-12-14T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/Inpreview_6.8.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 139788308
+    }
+   ]
+  }
+ ]
+}

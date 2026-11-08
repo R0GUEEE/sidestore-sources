@@ -1,0 +1,37 @@
+{
+ "name": "DramaBox",
+ "identifier": "dev.perapp.com-storymatrix-drama",
+ "subtitle": "DramaBox",
+ "description": "Single-app source for DramaBox (com.storymatrix.drama). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/24/bd/3324bd19-da41-19f7-172f-5679582ab818/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.storymatrix.drama",
+   "name": "DramaBox",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/33/24/bd/3324bd19-da41-19f7-172f-5679582ab818/AppIcon-0-0-1x_U007ephone-0-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.4",
+     "date": "2025-10-29T00:00:00Z",
+     "localizedDescription": "Drama box with zero ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1847",
+     "size": 39574699
+    },
+    {
+     "version": "3.1.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/5cf49c76-f18d-4a64-8923-c9741f6e1832/DramaBox-IPAOMTK.COM.ipa",
+     "size": 42421879
+    }
+   ]
+  }
+ ]
+}

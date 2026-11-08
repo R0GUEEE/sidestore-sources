@@ -1,0 +1,46 @@
+{
+ "name": "Reynard",
+ "identifier": "dev.perapp.com-minh-ton-reynard",
+ "subtitle": "An experimental Gecko-based web browser for iOS 13+",
+ "description": "Single-app source for Reynard (com.minh-ton.Reynard). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#fc6e5d",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.minh-ton.Reynard.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.minh-ton.Reynard",
+   "name": "Reynard",
+   "developerName": "minh-ton",
+   "subtitle": "An experimental Gecko-based web browser for iOS 13+",
+   "localizedDescription": "Reynard Browser:\n\nReynard is a Gecko-based web browser for iOS 13+.\n\nUnlike other browsers on iOS that are forced to use Apple's WebKit engine (including Safari and all third-party browsers), Reynard uses Gecko. This is the same engine that powers the Firefox browser on desktop and Android devices.\n\nBesides providing an alternative, up-to-date browser engine[^1], Reynard supports Firefox add-ons, including more capable ad-blocking extensions, along with privacy features such as Enhanced Tracking Protection and DNS over HTTPS.\n\niOS 14 (iPhone 6S Plus, 14.1):\n\nThese sites are known to break or render incorrectly on iOS 14. The screenshots below compare how they load in Safari versus Reynard.\n\niOS 26 (iPhone 13 mini, 26.1):\n\nReynard also works great on the latest version of iOS!",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.minh-ton.Reynard.png",
+   "tintColor": "#fc6e5d",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/d89f4385-c478-4aea-aa9d-6c9fca72252b",
+    "https://github.com/user-attachments/assets/279f8268-b196-415d-9199-66c06989ae7f",
+    "https://github.com/user-attachments/assets/1a68024e-83d4-489c-a576-26d5ea43011c",
+    "https://github.com/user-attachments/assets/eb8f0073-04c2-436d-b66c-9ba2af8e56c2",
+    "https://github.com/user-attachments/assets/0e52fbf1-af5d-4a83-9bba-50c5d1e15d57"
+   ],
+   "versions": [
+    {
+     "version": "0.20.1",
+     "date": "2026-11-05T23:17:58Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/minh-ton/reynard-browser/releases/download/0.20.1/Reynard.ipa",
+     "size": 111460493
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Camera access lets websites in this browser scan QR codes, capture photos, and start video calls.",
+     "NSLocationWhenInUseUsageDescription": "Location access lets websites in this browser provide location-based content such as maps, directions, and nearby places.",
+     "NSMicrophoneUsageDescription": "Microphone access lets websites in this browser capture your voice for calls and audio recordings.",
+     "NSPhotoLibraryAddUsageDescription": "Photo library access lets this browser save images and other media you download from websites to Photos.",
+     "NSPhotoLibraryUsageDescription": "Photo library access lets this browser upload photos and videos from your library and save images and other media you download from websites to Photos."
+    }
+   }
+  }
+ ]
+}

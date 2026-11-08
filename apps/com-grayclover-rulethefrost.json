@@ -1,0 +1,37 @@
+{
+ "name": "Frozia",
+ "identifier": "dev.perapp.com-grayclover-rulethefrost",
+ "subtitle": "ipaomtk.com | What is Frozia: Eternal Frontier IPA? Frozia: Eternal Frontier IPA is the iOS installation package of Froz",
+ "description": "Single-app source for Frozia (com.grayclover.rulethefrost). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Frozia-Eternal-Frontier-IPA-v1.2.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.grayclover.rulethefrost",
+   "name": "Frozia",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Frozia: Eternal Frontier IPA? Frozia: Eternal Frontier IPA is the iOS installation package of Frozia: Eternal Frontier that allo",
+   "localizedDescription": "ipaomtk.com | What is Frozia: Eternal Frontier IPA? Frozia: Eternal Frontier IPA is the iOS installation package of Frozia: Eternal Frontier that allo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Frozia-Eternal-Frontier-IPA-v1.2.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2026-03-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Frozia: Eternal Frontier IPA? Frozia: Eternal Frontier IPA is the iOS installation package of Frozia: Eternal Frontier that allo",
+     "downloadURL": "https://file.ipaomtk.com/frozia-eternal-frontier/Frozia-Eternal-Frontier-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "8.2.0",
+     "date": "2026-03-24T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Frozia: Eternal Frontier IPA? Frozia: Eternal Frontier IPA is the iOS installation package of Frozia: Eternal Frontier that allo",
+     "downloadURL": "https://file.ipaomtk.com/frozia-eternal-frontier/Frozia-Eternal-Frontier-IPAOMTK.COM.ipa",
+     "size": 179759967
+    }
+   ]
+  }
+ ]
+}

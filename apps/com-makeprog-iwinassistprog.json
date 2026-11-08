@@ -1,0 +1,30 @@
+{
+ "name": "iWinAssistProg",
+ "identifier": "dev.perapp.com-makeprog-iwinassistprog",
+ "subtitle": "ipaomtk.com | iWinAssistProg Windows Client IPA v1.7.4 is a specialized software application designed to enhance accessi",
+ "description": "Single-app source for iWinAssistProg (com.makeprog.iWinAssistProg). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iWinAssistProg-Windows-Client.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.makeprog.iWinAssistProg",
+   "name": "iWinAssistProg",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | iWinAssistProg Windows Client IPA v1.7.4 is a specialized software application designed to enhance accessibility and productivity for Wi",
+   "localizedDescription": "ipaomtk.com | iWinAssistProg Windows Client IPA v1.7.4 is a specialized software application designed to enhance accessibility and productivity for Wi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iWinAssistProg-Windows-Client.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | iWinAssistProg Windows Client IPA v1.7.4 is a specialized software application designed to enhance accessibility and productivity for Wi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iWinAssistProg_Windows_Client-v1.7.4-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

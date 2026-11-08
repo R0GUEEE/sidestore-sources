@@ -1,0 +1,30 @@
+{
+ "name": "Critical Ops",
+ "identifier": "dev.perapp.com-criticalforceentertainment-criticalops",
+ "subtitle": "ipaomtk.com | In recent years, Critical Ops has become one of the most popular and acclaimed multiplayer first-person sh",
+ "description": "Single-app source for Critical Ops (com.criticalforceentertainment.criticalops). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/critical-ops-multiplayer-fps-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.criticalforceentertainment.criticalops",
+   "name": "Critical Ops",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | In recent years, Critical Ops has become one of the most popular and acclaimed multiplayer first-person shooters in the gaming industry.",
+   "localizedDescription": "ipaomtk.com | In recent years, Critical Ops has become one of the most popular and acclaimed multiplayer first-person shooters in the gaming industry.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/critical-ops-multiplayer-fps-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.42.2",
+     "date": "2023-06-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | In recent years, Critical Ops has become one of the most popular and acclaimed multiplayer first-person shooters in the gaming industry.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Critical-Ops-Multiplayer-FPS.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

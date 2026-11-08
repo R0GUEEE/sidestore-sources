@@ -1,0 +1,30 @@
+{
+ "name": "TranslateNow",
+ "identifier": "dev.perapp.solutions-wzp-translator",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for TranslateNow (solutions.wzp.translator). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png",
+ "apps": [
+  {
+   "bundleIdentifier": "solutions.wzp.translator",
+   "name": "TranslateNow",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.9.25",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/TranslateNow_2026.9.25_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 222149727
+    }
+   ]
+  }
+ ]
+}

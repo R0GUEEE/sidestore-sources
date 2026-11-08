@@ -1,0 +1,30 @@
+{
+ "name": "Cash App (FAKE)",
+ "identifier": "dev.perapp.om-devjash-capp-app",
+ "subtitle": "Fake cash app prank",
+ "description": "Single-app source for Cash App (FAKE) (om.devjash-Capp-App). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "01d633",
+ "iconURL": "https://cdn.omnidev.org/Square_Cash_app_logopng-ab.png",
+ "apps": [
+  {
+   "bundleIdentifier": "om.devjash-Capp-App",
+   "name": "Cash App (FAKE)",
+   "developerName": "devjash",
+   "subtitle": "Fake cash app prank",
+   "localizedDescription": "Fake cash app prank\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/Square_Cash_app_logopng-ab.png",
+   "tintColor": "01d633",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4",
+     "date": "2024-11-17T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/Cash_App_V3_esign-HW.ipa",
+     "size": 16207872
+    }
+   ]
+  }
+ ]
+}

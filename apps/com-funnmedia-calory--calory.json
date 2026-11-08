@@ -1,0 +1,44 @@
+{
+ "name": "Calory",
+ "identifier": "dev.perapp.com-funnmedia-calory",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for Calory (com.funnmedia.calory). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.funnmedia.calory",
+   "name": "Calory",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funnmedia.calory.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.5",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Calory_4.4.5_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 260787741
+    },
+    {
+     "version": "4.4.3",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Calory_4.4.3_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 260317312
+    },
+    {
+     "version": "4.6",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/12-12-2025/Calory_4.6_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 300655680
+    }
+   ]
+  }
+ ]
+}

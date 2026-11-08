@@ -1,0 +1,30 @@
+{
+ "name": "Vikings Revenge",
+ "identifier": "dev.perapp.com-vikings-game",
+ "subtitle": "ipaomtk.com | Vikings ​Revenge IPA is an engaging action-adventure game now available on iOS, offering players an immers",
+ "description": "Single-app source for Vikings Revenge (com.vikings.game). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Vikings-Revenge-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vikings.game",
+   "name": "Vikings Revenge",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Vikings ​Revenge IPA is an engaging action-adventure game now available on iOS, offering players an immersive cultural journey filled wi",
+   "localizedDescription": "ipaomtk.com | Vikings ​Revenge IPA is an engaging action-adventure game now available on iOS, offering players an immersive cultural journey filled wi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Vikings-Revenge-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.11",
+     "date": "2025-06-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Vikings ​Revenge IPA is an engaging action-adventure game now available on iOS, offering players an immersive cultural journey filled wi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Vikings_Revenge_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

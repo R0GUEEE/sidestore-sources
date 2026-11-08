@@ -1,0 +1,30 @@
+{
+ "name": "SiegeCastle",
+ "identifier": "dev.perapp.com-fourward-siegecastle",
+ "subtitle": "ipaomtk.com | Siege Castle IPA ⁤for iOS brings the intense excitement of medieval castle sieges right to your fingertips",
+ "description": "Single-app source for SiegeCastle (com.fourward.siegecastle). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Siege-Castle-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fourward.siegecastle",
+   "name": "SiegeCastle",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Siege Castle IPA ⁤for iOS brings the intense excitement of medieval castle sieges right to your fingertips. In this dynamic mobile game,",
+   "localizedDescription": "ipaomtk.com | Siege Castle IPA ⁤for iOS brings the intense excitement of medieval castle sieges right to your fingertips. In this dynamic mobile game,",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Siege-Castle-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.12",
+     "date": "2025-05-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Siege Castle IPA ⁤for iOS brings the intense excitement of medieval castle sieges right to your fingertips. In this dynamic mobile game,",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Siege_Castle_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

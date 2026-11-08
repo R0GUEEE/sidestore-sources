@@ -1,0 +1,30 @@
+{
+ "name": "Pinterest",
+ "identifier": "dev.perapp.synthetic-pinterest-e9666ab6",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for Pinterest (synthetic.pinterest.e9666ab6). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.pinterest.e9666ab6",
+   "name": "Pinterest",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.20",
+     "date": "2026-05-29T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2026/Pinterest_14.20_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 126605999
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Chance",
+ "identifier": "dev.perapp.com-moffatman-chan",
+ "subtitle": "Chance:  Imageboard browser built using Flutter intended for use on iOS and Android.  Features:  • Multi-column layout f",
+ "description": "Single-app source for Chance (com.moffatman.chan). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.moffatman.chan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.moffatman.chan",
+   "name": "Chance",
+   "developerName": "moffatman",
+   "subtitle": "Chance:  Imageboard browser built using Flutter intended for use on iOS and Android.  Features:  • Multi-column layout for larger screens. • WEBM play",
+   "localizedDescription": "Chance:  Imageboard browser built using Flutter intended for use on iOS and Android.  Features:  • Multi-column layout for larger screens. • WEBM play\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.moffatman.chan.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.9",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Chance:  Imageboard browser built using Flutter intended for use on iOS and Android.  Features:  • Multi-column layout for larger screens. • WEBM play",
+     "downloadURL": "https://github.com/moffatman/chan/releases/download/v1.2.9+125-forked-engine/Chance.ipa",
+     "size": 32697918
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "XColor",
+ "identifier": "dev.perapp.com-sixiaobo-xcolor",
+ "subtitle": "ipaomtk.com | What is ColorMax – Aesthetic Palettes IPA App? ColorMax – Aesthetic Palettes IPA is the iOS installable ve",
+ "description": "Single-app source for XColor (com.sixiaobo.xcolor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/ColorMax-8211-Aesthetic-Palettes-IPA-v26.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sixiaobo.xcolor",
+   "name": "XColor",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is ColorMax – Aesthetic Palettes IPA App? ColorMax – Aesthetic Palettes IPA is the iOS installable version of a creative design app",
+   "localizedDescription": "ipaomtk.com | What is ColorMax – Aesthetic Palettes IPA App? ColorMax – Aesthetic Palettes IPA is the iOS installable version of a creative design app",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/ColorMax-8211-Aesthetic-Palettes-IPA-v26.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.7",
+     "date": "2026-04-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is ColorMax – Aesthetic Palettes IPA App? ColorMax – Aesthetic Palettes IPA is the iOS installable version of a creative design app",
+     "downloadURL": "https://file.ipaomtk.com/colormax-aesthetic-palettes/XColor-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

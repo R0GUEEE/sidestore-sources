@@ -1,0 +1,30 @@
+{
+ "name": "YouMod (2.0.0) - iOS 16+ Support",
+ "identifier": "dev.perapp.com-google-ios-youtube-youmod-2-0-0-ballermc-ios16",
+ "subtitle": "This is a modded version of YouTube. This mod was created by Tonwalter888. iOS 16+ is supported.",
+ "description": "Single-app source for YouMod (2.0.0) - iOS 16+ Support (com.google.ios.youtube.youmod.2.0.0.ballermc.ios16). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.ballermc.ios16",
+   "name": "YouMod (2.0.0) - iOS 16+ Support",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. This mod was created by Tonwalter888. iOS 16+ is supported.",
+   "localizedDescription": "This is a modded version of YouTube. This mod was created by Tonwalter888. iOS 16+ is supported.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.33.6",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This mod was created by Tonwalter888. iOS 16+ is supported.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.33.6_v2.0.0%5Btg@tubevault%5D.ipa",
+     "size": 126158537
+    }
+   ]
+  }
+ ]
+}

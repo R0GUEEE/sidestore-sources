@@ -1,0 +1,30 @@
+{
+ "name": "Novagram",
+ "identifier": "dev.perapp.uz-fenixuz-app",
+ "subtitle": "@ipa_dark | 🔄 Fenixuz - (Novagram) - Telegram с расширенными дополнительными функциями - AppStore  🇷🇺 Приложение NovaGra",
+ "description": "Single-app source for Novagram (uz.fenixuz.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1764.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uz.fenixuz.app",
+   "name": "Novagram",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Fenixuz - (Novagram) - Telegram с расширенными дополнительными функциями - AppStore  🇷🇺 Приложение NovaGram предлагает опыт использовани",
+   "localizedDescription": "@ipa_dark | 🔄 Fenixuz - (Novagram) - Telegram с расширенными дополнительными функциями - AppStore  🇷🇺 Приложение NovaGram предлагает опыт использовани\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1764.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.9.7",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Fenixuz - (Novagram) - Telegram с расширенными дополнительными функциями - AppStore  🇷🇺 Приложение NovaGram предлагает опыт использовани",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1764-Fenixuz%20-%20Novagram.ipa",
+     "size": 89046991
+    }
+   ]
+  }
+ ]
+}

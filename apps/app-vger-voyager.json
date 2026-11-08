@@ -1,0 +1,30 @@
+{
+ "name": "Voyager",
+ "identifier": "dev.perapp.app-vger-voyager",
+ "subtitle": "Voyager for Lemmy:  Voyager is an Apollo-like open source web client for Lemmy. It's a mobile-first app, but works great",
+ "description": "Single-app source for Voyager (app.vger.voyager). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.vger.voyager.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.vger.voyager",
+   "name": "Voyager",
+   "developerName": "aeharding",
+   "subtitle": "Voyager for Lemmy:  Voyager is an Apollo-like open source web client for Lemmy. It's a mobile-first app, but works great on desktop devices, too. Plea",
+   "localizedDescription": "Voyager for Lemmy:  Voyager is an Apollo-like open source web client for Lemmy. It's a mobile-first app, but works great on desktop devices, too. Plea\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.vger.voyager.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.49.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Voyager for Lemmy:  Voyager is an Apollo-like open source web client for Lemmy. It's a mobile-first app, but works great on desktop devices, too. Plea",
+     "downloadURL": "https://github.com/aeharding/voyager/releases/download/2.49.1/Voyager-iOS-2.49.1.ipa",
+     "size": 8232319
+    }
+   ]
+  }
+ ]
+}

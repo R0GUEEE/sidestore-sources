@@ -1,0 +1,30 @@
+{
+ "name": "Benkyō",
+ "identifier": "dev.perapp.app-benkyo-benkyo",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for Benkyō (app.benkyo.Benkyo). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/15631.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.benkyo.Benkyo",
+   "name": "Benkyō",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "@Sa1y0miii | Learn Japanese Kanji: Benkyō\n🧸 Min.iOS: [15.0+]\n🧀 App version: [2.7] !upd \n🪼 App Store: https://apps.apple.com/app/id1541592138\n📮 Notes: Subscription unlocked.⠀⠀\n🗯Tweaked by: @Sa1y0miii / Chat❕\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/15631.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Learn Japanese Kanji: Benkyō 🧸 Min.iOS: [15.0+] 🧀 App version: [2.7] !upd 🪼 App Store: https://apps.apple.com/app/id1541592138 📮 Notes…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15631-%E2%80%8E%20Benky%C5%8D_v2.7_tg@Sa1y0miii.ipa",
+     "size": 117021071
+    }
+   ]
+  }
+ ]
+}

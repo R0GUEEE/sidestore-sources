@@ -1,0 +1,30 @@
+{
+ "name": "TI-Nspire",
+ "identifier": "dev.perapp.com-ti-et-ti-nspire-se-noncas",
+ "subtitle": "ipaomtk.com | The TI-Nspire™ CAS IPA v6.2.1 is a powerful mobile application that brings the functionality of Texas Inst",
+ "description": "Single-app source for TI-Nspire (com.ti.et.TI-Nspire-SE-NonCAS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/TI-Nspire%E2%84%A2-CAS.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ti.et.TI-Nspire-SE-NonCAS",
+   "name": "TI-Nspire",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The TI-Nspire™ CAS IPA v6.2.1 is a powerful mobile application that brings the functionality of Texas Instruments’ advanced graphing cal",
+   "localizedDescription": "ipaomtk.com | The TI-Nspire™ CAS IPA v6.2.1 is a powerful mobile application that brings the functionality of Texas Instruments’ advanced graphing cal",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/TI-Nspire%E2%84%A2-CAS.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The TI-Nspire™ CAS IPA v6.2.1 is a powerful mobile application that brings the functionality of Texas Instruments’ advanced graphing cal",
+     "downloadURL": "https://file.ipaomtk.com/ipa/TI-Nspire-v6.2.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

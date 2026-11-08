@@ -1,0 +1,30 @@
+{
+ "name": "AllTrails Pro",
+ "identifier": "dev.perapp.synthetic-alltrails-pro-e84f5c00",
+ "subtitle": "AllTrails Pro by Karbin-Store",
+ "description": "Single-app source for AllTrails Pro (synthetic.alltrails-pro.e84f5c00). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Alltrails.Pro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.alltrails-pro.e84f5c00",
+   "name": "AllTrails Pro",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "✅ Pro Features Unlocked",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Alltrails.Pro.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "19.19.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "✅ Pro Features Unlocked",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/AllTrails19.19.0.ipa",
+     "size": 88910000
+    }
+   ]
+  }
+ ]
+}

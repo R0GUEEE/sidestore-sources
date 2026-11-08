@@ -1,0 +1,30 @@
+{
+ "name": "IPTVPro",
+ "identifier": "dev.perapp.com-courtois-perfectiptvn",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for IPTVPro (com.courtois.PerfectIPTVn). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.courtois.PerfectIPTVn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.courtois.PerfectIPTVn",
+   "name": "IPTVPro",
+   "developerName": "Paisseon",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nInjected with Satella. Another IPTV streamer app. A user requested it so here it is.\nLast updated: 06-20-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.courtois.PerfectIPTVn.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nInjected with Satella. Another IPTV streamer app. A user requested it so here it is. Last updated: 06-20-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/IPTVPro/IPTVPro-2.8.1.ipa",
+     "size": 20129071
+    }
+   ]
+  }
+ ]
+}

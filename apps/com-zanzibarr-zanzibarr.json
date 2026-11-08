@@ -1,0 +1,42 @@
+{
+ "name": "zanzibarr",
+ "identifier": "dev.perapp.com-zanzibarr-zanzibarr",
+ "subtitle": "Zanzibarr streams NZB content from Usenet without downloading — instant start, true seek, PAR2 repair, Dolby Vision. Win",
+ "description": "Single-app source for zanzibarr (com.zanzibarr.zanzibarr). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#a06442",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.zanzibarr.zanzibarr.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zanzibarr.zanzibarr",
+   "name": "zanzibarr",
+   "developerName": "envermeister",
+   "subtitle": "Zanzibarr streams NZB content from Usenet without downloading — instant start, true seek, PAR2 repair, Dolby Vision. Windows · macOS · iOS · Linux · Android · Google TV",
+   "localizedDescription": "Zanzibarr turns Usenet into your personal streaming library. Point it at any .nzb and the video starts playing in seconds — no download queue, no waiting for the full file, no disk space sacrificed. Scrub to the final scene of a 4K remux before the first act would have finished downloading. It feels like magic; it's really just a very disciplined engine.\n\nWhy Zanzibarr is different:\n\nPlay instantly, never download The Rust engine maps every seek position to the exact Usenet segments that hold it, fetches only those, decodes yEnc on the fly and serves the result through a lazy, range-aware local stream. Pause the player and the network goes quiet. Close the app and nothing is left behind on your disk.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.zanzibarr.zanzibarr.png",
+   "tintColor": "#a06442",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/envermeister/zanzibarr@main/docs/screenshots/home_dark.png",
+    "https://cdn.jsdelivr.net/gh/envermeister/zanzibarr@main/docs/screenshots/player_controls.png",
+    "https://cdn.jsdelivr.net/gh/envermeister/zanzibarr@main/docs/screenshots/search.png",
+    "https://cdn.jsdelivr.net/gh/envermeister/zanzibarr@main/docs/screenshots/advanced_settings.png",
+    "https://cdn.jsdelivr.net/gh/envermeister/zanzibarr@main/docs/screenshots/smart_canvas.png"
+   ],
+   "versions": [
+    {
+     "version": "1.9",
+     "date": "2026-10-13T10:03:35Z",
+     "localizedDescription": "zanzibarr v1.9 — season-pack picker polish:\n\nStream anything from Usenet. Own nothing. Wait for nothing. zanzibarr plays NZB content without downloading it — instant start, frame-accurate seek, and nothing left behind on your disk.\n\nWhat's new in v1.9:\n\n• Episode numbers are finally visible. Posts that write subjects as \"<directory>/<file>\" used to bury the episode number behind the long batch directory name. The picker now shows the actual file name and wraps long titles to two lines — the continue-watching cards and the player title got the same treatment.\n• Episodes in natural order. The picker no longer sorts by size, which scrambled equal-sized episodes; entries now follow natural name ordering — E9 before E10, with NCOP/NCED extras listed after the episodes.\n• No more ghost codec errors. A harmless mpv error event (an audio codec falling back from hardware to software decoding) used to pop an 8-second error banner during perfectly healthy playback. Post-startup errors are now shown only if playback actually stops progressing.\n\n(All three reported on GitHub issue #5 — thanks for the precise follow-up!).\n\nAlready inside:\n\n• Cast to your TV — Chromecast & AirPlay; the receiver pulls straight from zanzibarr's token-gated LAN endpoint.\n• Built-in indexer search — Newznab search with quality badges, tap-to-play inside the app.\n• Multi-file NZB picker — choose the episode inside season packs, fully D-pad navigable.\n• Obfuscated NZB sets — hash-named RAR volumes identified by content, reordered by embedded volume numbers.\n• Archive-aware — multi-volume RAR5/RAR4 (incl. -hp encrypted) and 7z (STORE, LZMA/LZMA2 solid, AES-256) reassembled in memory.\n• Compressed RAR, seekable — volumes that actually compress stream too: decode-ahead serves the player while unpacking continues.\n• PAR2 repair — missing/corrupt segments rebuilt with Reed-Solomon, byte-exact against par2cmdline.\n• Full picture pipeline — SDR / HDR / HDR10 / Dolby Vision selector with BT.2390 tone mapping; TrueHD/Atmos, DTS-HD MA, AV1.\n• Android TV, fully remote-driven — settings, indexer setup and search work end-to-end with a D-pad, with visible focus everywhere.\n• Continue watching — playback positions remembered per episode, with a resume row on the home screen.\n• Smart Canvas — draw your own crop with live aspect preview, applied on the GPU.\n• In-app updates — zanzibarr checks for new versions itself; Android installs them in place with one tap.\n• Player essentials — PiP, frame stepping, speed, audio sync, external audio/subtitle loading, double-click ±10 s seek, subtitle color & font pickers, fit ↔ fill toggle.\n• 14 languages — EN, TR, ES, DE, FR, PT, IT, RU, ZH, JA, KO, HI, AR, FA (RTL included), dark & light themes.\n• Private by design — NNTP credentials live only in the OS keychain; no accounts, no telemetry, no cloud.\n\nGetting started:\n\n• Install the build for your platform.\n• Open the settings gear and enter your Usenet provider's NNTP details.\n• Open any .nzb (or search with the built-in indexer) and press play.",
+     "downloadURL": "https://github.com/envermeister/Zanzibarr/releases/download/v1.9/zanzibarr-ios-unsigned.ipa",
+     "size": 22715530
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "zanzibarr discovers Chromecast and AirPlay devices on your local network to cast video to your TV."
+    }
+   }
+  }
+ ]
+}

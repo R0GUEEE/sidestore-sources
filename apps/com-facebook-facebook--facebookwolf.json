@@ -1,0 +1,44 @@
+{
+ "name": "FacebookWolf",
+ "identifier": "dev.perapp.com-facebook-facebook",
+ "subtitle": "FacebookWolf by CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Cl",
+ "description": "Single-app source for FacebookWolf (com.facebook.Facebook). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.facebook.Facebook",
+   "name": "FacebookWolf",
+   "developerName": "CyPwn IPA Library / Manpreet Singh @thisismanpreets / FayezUpdates / DPixel / CydiaAbdullah / iApps / Clement ",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.facebook.Facebook.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1-396.0",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacebookWolf/FacebookWolf-2.1-396.0.ipa",
+     "size": 137241305
+    },
+    {
+     "version": "2.1-398.0",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacebookWolf/FacebookWolf-2.1-398.0.ipa",
+     "size": 135094448
+    },
+    {
+     "version": "2.1-399.0",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Facebook, injected with Wolf for Facebook by Michael Lema.\nLast updated: 08-10-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacebookWolf/FacebookWolf-2.1-399.0.ipa",
+     "size": 149355244
+    }
+   ]
+  }
+ ]
+}

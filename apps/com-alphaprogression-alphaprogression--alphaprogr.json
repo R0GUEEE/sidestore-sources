@@ -1,0 +1,44 @@
+{
+ "name": "AlphaProgr",
+ "identifier": "dev.perapp.com-alphaprogression-alphaprogression",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for AlphaProgr (com.alphaprogression.alphaprogression). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alphaprogression.alphaprogression",
+   "name": "AlphaProgr",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alphaprogression.alphaprogression.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.1",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/13-09-2025/AlphaProgr_6.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 143243390
+    },
+    {
+     "version": "6.5.2",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/AlphaProgr_6.5.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 142981533
+    },
+    {
+     "version": "6.3",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-12-2025/AlphaProgr_6.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 142861759
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Castlevania",
+ "identifier": "dev.perapp.jp-konami-castlevania-ac",
+ "subtitle": "ipaomtk.com | Castlevania Grimoire of Souls is a thrilling addition to the legendary vampire-slaying franchise, reimagin",
+ "description": "Single-app source for Castlevania (jp.konami.castlevania.ac). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-13-2.52.26%E2%80%AFAM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.konami.castlevania.ac",
+   "name": "Castlevania",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Castlevania Grimoire of Souls is a thrilling addition to the legendary vampire-slaying franchise, reimagined for mobile devices. Release",
+   "localizedDescription": "ipaomtk.com | Castlevania Grimoire of Souls is a thrilling addition to the legendary vampire-slaying franchise, reimagined for mobile devices. Release",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-13-2.52.26%E2%80%AFAM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.2",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Castlevania Grimoire of Souls is a thrilling addition to the legendary vampire-slaying franchise, reimagined for mobile devices. Release",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Castlevania_Grimoire_of_Souls-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

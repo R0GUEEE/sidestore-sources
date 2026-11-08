@@ -1,0 +1,30 @@
+{
+ "name": "PixelMe",
+ "identifier": "dev.perapp.sato-tokyo-pixel-me",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for PixelMe (sato.tokyo.pixel-me). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sato.tokyo.pixel-me.png",
+ "apps": [
+  {
+   "bundleIdentifier": "sato.tokyo.pixel-me",
+   "name": "PixelMe",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sato.tokyo.pixel-me.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.15.15",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/PixelMe_4.15.15_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 34065807
+    }
+   ]
+  }
+ ]
+}

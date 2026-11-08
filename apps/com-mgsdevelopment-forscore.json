@@ -1,0 +1,30 @@
+{
+ "name": "forScore",
+ "identifier": "dev.perapp.com-mgsdevelopment-forscore",
+ "subtitle": "ipaomtk.com | ForScore IPA v14.3.2 is a comprehensive digital sheet music reader and management app designed for iOS dev",
+ "description": "Single-app source for forScore (com.mgsdevelopment.forscore). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/forScore.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mgsdevelopment.forscore",
+   "name": "forScore",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | ForScore IPA v14.3.2 is a comprehensive digital sheet music reader and management app designed for iOS devices. This powerful applicatio",
+   "localizedDescription": "ipaomtk.com | ForScore IPA v14.3.2 is a comprehensive digital sheet music reader and management app designed for iOS devices. This powerful applicatio",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/forScore.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.3.3",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | ForScore IPA v14.3.2 is a comprehensive digital sheet music reader and management app designed for iOS devices. This powerful applicatio",
+     "downloadURL": "https://file.ipaomtk.com/ipa/forScore-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

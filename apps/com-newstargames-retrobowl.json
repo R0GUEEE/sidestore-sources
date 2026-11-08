@@ -1,0 +1,30 @@
+{
+ "name": "Retro Bowl",
+ "identifier": "dev.perapp.com-newstargames-retrobowl",
+ "subtitle": "ipaomtk.com | Retro Goal is a breath of fresh air in the crowded world of soccer video games. By focusing on classic gam",
+ "description": "Single-app source for Retro Bowl (com.newstargames.retrobowl). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/retro-goal-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.newstargames.retrobowl",
+   "name": "Retro Bowl",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Retro Goal is a breath of fresh air in the crowded world of soccer video games. By focusing on classic gameplay, simplistic controls, an",
+   "localizedDescription": "ipaomtk.com | Retro Goal is a breath of fresh air in the crowded world of soccer video games. By focusing on classic gameplay, simplistic controls, an",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/retro-goal-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.91",
+     "date": "2023-08-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Retro Goal is a breath of fresh air in the crowded world of soccer video games. By focusing on classic gameplay, simplistic controls, an",
+     "downloadURL": "https://file.ipaomtk.com/ipa/RetroBowl.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

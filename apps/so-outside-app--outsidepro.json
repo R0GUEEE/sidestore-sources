@@ -1,0 +1,30 @@
+{
+ "name": "OutsidePro",
+ "identifier": "dev.perapp.so-outside-app",
+ "subtitle": "App that allows you to include unlimited plans and widgets. A user requested it so here it is. Last updated: 07-18-2024 ",
+ "description": "Single-app source for OutsidePro (so.outside.app). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/so.outside.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "so.outside.app",
+   "name": "OutsidePro",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "App that allows you to include unlimited plans and widgets. A user requested it so here it is. Last updated: 07-18-2024 Status: ✅ ⭐",
+   "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/so.outside.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.76.9",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "App that allows you to include unlimited plans and widgets. A user requested it so here it is. Last updated: 07-18-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OutsidePro/OutsidePro-0.76.9.ipa",
+     "size": 70439179
+    }
+   ]
+  }
+ ]
+}

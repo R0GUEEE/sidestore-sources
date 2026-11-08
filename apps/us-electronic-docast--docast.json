@@ -1,0 +1,44 @@
+{
+ "name": "DoCast",
+ "identifier": "dev.perapp.us-electronic-docast",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for DoCast (us.electronic.docast). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
+ "apps": [
+  {
+   "bundleIdentifier": "us.electronic.docast",
+   "name": "DoCast",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.electronic.docast.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-10-2025/DoCast_5.5_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 22842366
+    },
+    {
+     "version": "5.4",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/11-08-2025/DoCast_5.4_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 22456405
+    },
+    {
+     "version": "5.7",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/DoCast_5.7_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 21414511
+    }
+   ]
+  }
+ ]
+}

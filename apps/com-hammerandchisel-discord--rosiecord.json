@@ -1,0 +1,30 @@
+{
+ "name": "Rosiecord",
+ "identifier": "dev.perapp.com-hammerandchisel-discord",
+ "subtitle": "Tweaks: Enmity, DiscordScrollToTop, FlowerCord",
+ "description": "Single-app source for Rosiecord (com.hammerandchisel.discord). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hammerandchisel.discord",
+   "name": "Rosiecord",
+   "developerName": "acquitelol",
+   "subtitle": "Tweaks: Enmity, DiscordScrollToTop, FlowerCord",
+   "localizedDescription": "Tweaks: Enmity, DiscordScrollToTop, FlowerCord\n\nUpdate: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other customizations, you can get it from the dev's GitHub. Enmity for Discord, but with custom icons. More up-to-date version of Plumpycord with more features.\nLast updated: 04-06-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "223.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: Enmity, DiscordScrollToTop, FlowerCord\n\nUpdate: I will continue to update the original Rosiecord (Cabin Font + Plumpy + Flowercord) on this library. If you want one of the other…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Rosiecord/Rosiecord-223.0.ipa",
+     "size": 106773646
+    }
+   ]
+  }
+ ]
+}

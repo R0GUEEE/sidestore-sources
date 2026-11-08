@@ -1,0 +1,40 @@
+{
+ "name": "VidGrab",
+ "identifier": "dev.perapp.com-t4mag0-vidgrab",
+ "subtitle": "Download videos on iPhone by pasting a link or browsing",
+ "description": "Single-app source for VidGrab (com.t4mag0.vidgrab). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f23878",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.t4mag0.vidgrab.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.t4mag0.vidgrab",
+   "name": "VidGrab",
+   "developerName": "iamjhe08",
+   "subtitle": "Download videos on iPhone by pasting a link or browsing",
+   "localizedDescription": "VidGrab:\n\nA video downloader for iPhone. Paste a link, pick a quality, done. Or open the built-in browser, play a video, and tap the Download button that pops up on it.\n\nI made this because I wanted something simple that just works on my phone, without jailbreak tweaks or a pile of extra packages to install.\n\nMade by T4MAG0 · github.com/iamjhe08.\n\nWhat it can do:\n\n• Browse sites inside the app and grab whatever video is playing, and copy a video's direct link.\n• Ad blocker in the browser.\n\n• Saves videos as MP4 so they play right away and can go into Photos.\n• Save just the sound as MP3 or M4A.\n• Keeps YouTube videos in their original language instead of a dubbed track.\n• Favorites you can add, rename and rearrange.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.t4mag0.vidgrab.png",
+   "tintColor": "#f23878",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/iamjhe08/VidGrab@main/VidGrab-screenshot-1.jpg",
+    "https://cdn.jsdelivr.net/gh/iamjhe08/VidGrab@main/VidGrab-screenshot-2.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.3.6",
+     "date": "2026-10-13T12:06:00Z",
+     "localizedDescription": "New:\n\n• Theme Gallery: Built-in themes and your own themes now sit in one list. Tap the theme button, then tap a theme to use it. New themes: Midnight Blue, Emerald and Sunset.\n• Custom Themes: Make as many as you like. Pick an accent color or type a HEX code, then use a color, gradient, photo or texture as the background. Advanced Colors lets you change text, cards, buttons and more. You can rename, duplicate, delete, export and import your themes.\n• Backup and Restore: Settings > Backup and restore saves your settings, themes and saved playlists to one file, and brings them back later. It replaces Export and Import settings.\n• Clock and Temperature: In the landscape player, a small pill with the time and temperature slides in at the top right when the controls hide. It softens after a few seconds so it does not distract you. Turn it on or off in Settings > Gestures.\n\n• Spinning CD Cover: Tap the album art in the music player to turn it into a round CD that spins while the song plays. Tap again to go back. You can turn it off in Settings > Audio.\n• Copy Links: Settings > About now has your Jailbreak repo and Sideload source links with a copy button.\n• Arabic: VidGrab is now available in Arabic. Pick it from the globe button on Home.\n\nImproved:\n\n• The music player now remembers your Shuffle and Repeat choices.\n\nFixed:\n\n• VidGrab no longer closes when you open Settings on iOS 27.2 beta.",
+     "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.ipa",
+     "size": 31200926
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "VidGrab uses Face ID to unlock your Private Vault.",
+     "NSPhotoLibraryAddUsageDescription": "VidGrab saves the videos you download to your Photos."
+    }
+   }
+  }
+ ]
+}

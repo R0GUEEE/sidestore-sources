@@ -1,0 +1,37 @@
+{
+ "name": "WorldBox",
+ "identifier": "dev.perapp.com-mkarpenko-worldbox",
+ "subtitle": "WorldBox",
+ "description": "Single-app source for WorldBox (com.mkarpenko.worldbox). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/4b/ec/274becd6-374b-500e-aba2-7a15fb344020/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mkarpenko.worldbox",
+   "name": "WorldBox",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: WorldBox - God Sandbox\n\nTweak: Free iAP\n\nVersion: 0.22.21\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/27/4b/ec/274becd6-374b-500e-aba2-7a15fb344020/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.51.4",
+     "date": "2026-07-11T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- Free purchases: \r\nclick buy, then cancel",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2094",
+     "size": 146667247
+    },
+    {
+     "version": "0.22.21",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: WorldBox - God Sandbox\n\nTweak: Free iAP\n\nVersion: 0.22.21\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/00ebb19e-0e63-4c35-b33e-cfb5bdad2347/WorldBox_-_God_Sandbox-v0.22.21-riftysipas.ipa",
+     "size": 114885659
+    }
+   ]
+  }
+ ]
+}

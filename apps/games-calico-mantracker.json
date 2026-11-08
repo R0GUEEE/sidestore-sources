@@ -1,0 +1,30 @@
+{
+ "name": "KegelExercises",
+ "identifier": "dev.perapp.games-calico-mantracker",
+ "subtitle": "KegelExercises",
+ "description": "Single-app source for KegelExercises (games.calico.mantracker). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "games.calico.mantracker",
+   "name": "KegelExercises",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.13",
+     "date": "2026-07-01T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/KegelExercises_1.0.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 140410437
+    }
+   ]
+  }
+ ]
+}

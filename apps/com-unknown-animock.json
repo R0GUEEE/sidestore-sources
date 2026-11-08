@@ -1,0 +1,30 @@
+{
+ "name": "Animock",
+ "identifier": "dev.perapp.com-unknown-animock",
+ "subtitle": "Animock by Karbin-Store",
+ "description": "Single-app source for Animock (com.unknown.animock). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Animock.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.animock",
+   "name": "Animock",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Animock.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.10",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Animock.ipa",
+     "size": 44110000
+    }
+   ]
+  }
+ ]
+}

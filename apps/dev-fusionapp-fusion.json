@@ -1,0 +1,30 @@
+{
+ "name": "Fusion",
+ "identifier": "dev.perapp.dev-fusionapp-fusion",
+ "subtitle": "scholars lounge",
+ "description": "Single-app source for Fusion (dev.fusionapp.Fusion). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/70452.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.fusionapp.Fusion",
+   "name": "Fusion",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge",
+   "localizedDescription": "scholars lounge",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/70452.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2026.192",
+     "date": "2026-08-17T00:00:00Z",
+     "localizedDescription": "scholars lounge",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/70452-Fusion-unsigned-ios.ipa",
+     "size": 26747714
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "ToonTap",
+ "identifier": "dev.perapp.com-cartoon-toontap",
+ "subtitle": "ipaomtk.com | ToonTap IPA an AI-powered photo generator that promises to transform your ordinary images into extraordina",
+ "description": "Single-app source for ToonTap (com.cartoon.toontap). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/512x512bb-2-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cartoon.toontap",
+   "name": "ToonTap",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | ToonTap IPA an AI-powered photo generator that promises to transform your ordinary images into extraordinary works of art. Whether you’r",
+   "localizedDescription": "ipaomtk.com | ToonTap IPA an AI-powered photo generator that promises to transform your ordinary images into extraordinary works of art. Whether you’r",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/512x512bb-2-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.30",
+     "date": "2023-11-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | ToonTap IPA an AI-powered photo generator that promises to transform your ordinary images into extraordinary works of art. Whether you’r",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Toon-Tap.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

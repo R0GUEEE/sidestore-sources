@@ -1,0 +1,44 @@
+{
+ "name": "Remember",
+ "identifier": "dev.perapp.io-rmmbr-remember",
+ "subtitle": "Remember",
+ "description": "Single-app source for Remember (io.rmmbr.remember). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/6843e267-f73b-4e57-ac71-97c39e401ad9/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "io.rmmbr.remember",
+   "name": "Remember",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flashcards by Remember\n\nTweak: Premium Unlocked\n\nVersion: 5.19\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/6843e267-f73b-4e57-ac71-97c39e401ad9/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.21.2",
+     "date": "2026-08-10T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1389",
+     "size": 104811690
+    },
+    {
+     "version": "5.19",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flashcards by Remember\n\nTweak: Premium Unlocked\n\nVersion: 5.19\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/f0c5aa7d-a58f-4b05-b1d9-e16e772d1885/Remember_Vocabulary_Flashcards-v5.19-riftysipas.ipa",
+     "size": 71044510
+    },
+    {
+     "version": "5.18",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flashcards by Remember\n\nTweak: Premium Unlocked\n\nVersion: 5.18\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/a2e8db12-3d55-4c3a-842b-9a7531771af7/Remember_Vocabulary_Flashcards-v5.18-riftysipas.ipa",
+     "size": 72089614
+    }
+   ]
+  }
+ ]
+}

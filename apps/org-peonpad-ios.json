@@ -1,0 +1,38 @@
+{
+ "name": "PeonPad",
+ "identifier": "dev.perapp.org-peonpad-ios",
+ "subtitle": "Warcraft II on iPad. Native iPad port of the open-source Stratagus engine with support for user-supplied Warcraft II dat",
+ "description": "Single-app source for PeonPad (org.peonpad.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#707c28",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.peonpad.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.peonpad.ios",
+   "name": "PeonPad",
+   "developerName": "chrissotraidis",
+   "subtitle": "Warcraft II on iPad. Native iPad port of the open-source Stratagus engine with support for user-supplied Warcraft II data",
+   "localizedDescription": "PeonPad does not include Warcraft II. To play, you provide data extracted from your own legally owned copy on a Mac or PC. That game content stays local to your machine and is never part of the PeonPad download.\n\nAI disclosure: PeonPad uses substantial AI assistance for code, tests, documentation, debugging and maintenance. Some support replies and maintenance tasks are automated. There is no audited percentage of AI-generated code. Build, test and device records describe what was checked. This disclosure concerns PeonPad's workflow, not the authorship of its upstream projects.\n\nWhat is PeonPad?:\n\nPeonPad is an independent Apple-platform Warcraft II port built on the open-source Stratagus engine and Wargus game layer. It runs engine code directly on iPadOS; it does not run a Windows executable, emulate x86, or stream a game from another computer.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.peonpad.ios.png",
+   "tintColor": "#707c28",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/peonpad@main/docs/assets/screenshots/ipad-skirmish.png",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/peonpad@main/docs/assets/screenshots/ipad-battle.png",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/peonpad@main/docs/assets/screenshots/ipad-title.png"
+   ],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-08-18T17:13:19Z",
+     "localizedDescription": "PeonPad 0.1.0 Preview 1 is the first public unsigned IPA build.\n\nImportant:\n\n• The IPA is unsigned. It must be signed with your own Apple account or a sideloading service you trust before installation.\n• The IPA contains no Warcraft II data, Aleona data, installer, MPQ, save, provisioning profile, or signing credential.\n• You must own Warcraft II and separately extract a complete data.Wargus folder on a computer.\n• After installing, copy that folder to On My iPad > PeonPad > data.Wargus through Files or Finder, then relaunch PeonPad.\n• iPadOS 16 or later is required.\n\nWhat changed:\n\n• Added a data-free iOS distribution build, strict app audit, and deterministic IPA packager.\n\n• Kept embedded game data behind an explicit private-development build mode.\n\nValidation:\n\n• The app and IPA audits rejected prohibited game/private/signing content and local build paths.\n• Two independently packaged clean-clone IPAs were byte-identical.\n• A physical M2 iPad Pro passed in-place install, missing-data messaging, byte-verified user-data transfer, title/menu launch, and preference-value preservation.\n\nSHA-256:\n\n• PeonPad-0.1.0-preview.1-unsigned.ipa: 919f98a0e818790260733f7ea2903c74dc323a767ae804ba91b28b67f4b86163.\n• PeonPad-0.1.0-preview.1-source.tar.gz: 8a200e3e42ae66c19057c1b6094f9b5fbccbad69c76f8dc69aaee225b55406d7.",
+     "downloadURL": "https://github.com/chrissotraidis/peonpad/releases/download/v0.1.0-preview.1/PeonPad-0.1.0-preview.1-unsigned.ipa",
+     "size": 3446924
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

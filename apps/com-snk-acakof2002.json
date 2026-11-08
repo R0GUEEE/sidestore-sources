@@ -1,0 +1,30 @@
+{
+ "name": "KOF 2002 ACA NEOGEO",
+ "identifier": "dev.perapp.com-snk-acakof2002",
+ "subtitle": "ipaomtk.com | The classic KOF 2002 ACA NEOGEO IPA game is now part of the ACA NEOGEO lineup! This arcade classic returns",
+ "description": "Single-app source for KOF 2002 ACA NEOGEO (com.snk.acakof2002). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-kof-2002-aca-neogeo-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.snk.acakof2002",
+   "name": "KOF 2002 ACA NEOGEO",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The classic KOF 2002 ACA NEOGEO IPA game is now part of the ACA NEOGEO lineup! This arcade classic returns with ACA NEOGEO, KOF 2002 ACA",
+   "localizedDescription": "ipaomtk.com | The classic KOF 2002 ACA NEOGEO IPA game is now part of the ACA NEOGEO lineup! This arcade classic returns with ACA NEOGEO, KOF 2002 ACA",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-kof-2002-aca-neogeo-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2023-11-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The classic KOF 2002 ACA NEOGEO IPA game is now part of the ACA NEOGEO lineup! This arcade classic returns with ACA NEOGEO, KOF 2002 ACA",
+     "downloadURL": "https://file.ipaomtk.com/ipa/KOF-2002-ACA-NEOGEO.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

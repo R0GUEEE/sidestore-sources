@@ -1,0 +1,44 @@
+{
+ "name": "SnapEditPro",
+ "identifier": "dev.perapp.com-sfun-snapedit",
+ "subtitle": "SnapEditPro by IAppsBestLibrary",
+ "description": "Single-app source for SnapEditPro (com.sfun.snapedit). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sfun.snapedit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sfun.snapedit",
+   "name": "SnapEditPro",
+   "developerName": "IAppsBestLibrary",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sfun.snapedit.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.5",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SnapEditPro/SnapEditPro-5.1.5.ipa",
+     "size": 92623522
+    },
+    {
+     "version": "5.2.9",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SnapEditPro/SnapEditPro-5.2.9.ipa",
+     "size": 107827323
+    },
+    {
+     "version": "5.3.4",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Another objects removal app that use AI and comes also with more features than the \"Object Removal\" app in the repo. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SnapEditPro/SnapEditPro-5.3.4.ipa",
+     "size": 98671835
+    }
+   ]
+  }
+ ]
+}

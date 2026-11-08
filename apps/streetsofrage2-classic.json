@@ -1,0 +1,30 @@
+{
+ "name": "Streets of Rage 2 Classic",
+ "identifier": "dev.perapp.streetsofrage2-classic",
+ "subtitle": "Streets of Rage 2 Classic by sidelix",
+ "description": "Single-app source for Streets of Rage 2 Classic (Streetsofrage2.classic). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1774814857.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Streetsofrage2.classic",
+   "name": "Streets of Rage 2 Classic",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Dive into the legendary action of Streets of Rage 2 Classic — the iconic arcade game from SEGA that transports you to a world of street brawls and hardcore fights. Assemble a team of four fighters, each with their own unique moves, and set out to take down the criminal syndicate led by Mr. X. The game is filled with fast-paced action, atmospheric music, and nostalgic 90s graphics. Play through levels solo or with a friend, fending off waves of enemies and defeating bosses. Level up your skills and restore order to the streets!",
+   "iconURL": "https://appstore.sidelix.vip/images/1774814857.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.0",
+     "date": "2026-03-29T00:00:00Z",
+     "localizedDescription": "Dive into the legendary action of Streets of Rage 2 Classic — the iconic arcade game from SEGA that transports you to a world of street brawls and hardcore fights. Assemble a team of four fighters, each with their own unique moves, and set out to take down the criminal syndicate led by Mr. X. The game is filled with fast-paced action, atmospheric music, and nostalgic 90s graphics. Play through levels solo or with a friend, fending off waves of enemies and defeating bosses. Level up your skills and restore order to the streets!",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1987",
+     "size": 42973662
+    }
+   ]
+  }
+ ]
+}

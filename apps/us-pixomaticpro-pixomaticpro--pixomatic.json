@@ -1,0 +1,44 @@
+{
+ "name": "Pixomatic",
+ "identifier": "dev.perapp.us-pixomaticpro-pixomaticpro",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Pixomatic (us.pixomaticpro.PixomaticPro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "us.pixomaticpro.PixomaticPro",
+   "name": "Pixomatic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/us.pixomaticpro.PixomaticPro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.55.34",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/09-08-2025/Pixomatic_2.55.34_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 177294916
+    },
+    {
+     "version": "2.55.35",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-09-2025/Pixomatic_2.55.35_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 175613606
+    },
+    {
+     "version": "2.55.33",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Pixomatic_2.55.33_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 177290376
+    }
+   ]
+  }
+ ]
+}

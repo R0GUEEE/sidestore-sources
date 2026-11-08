@@ -1,0 +1,30 @@
+{
+ "name": "Threads",
+ "identifier": "dev.perapp.com-burbn-barcelona",
+ "subtitle": "Threads",
+ "description": "Single-app source for Threads (com.burbn.barcelona). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.burbn.barcelona",
+   "name": "Threads",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with ThreadSaver",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "454.0.0",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Injected with ThreadSaver",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Threads_454.0.0_ThreadSaver_%40thisismanpreets_apptesters.org.ipa",
+     "size": 115268602
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "MovieSpirit",
+ "identifier": "dev.perapp.com-verytools-videospirit",
+ "subtitle": "تایبەت بە ئیدتکردنی ڤیدۆ بەشێوەیەکی پڕۆفیشناڵ",
+ "description": "Single-app source for MovieSpirit (com.verytools.VideoSpirit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/kara-img-socil/Movie.Spirit.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.verytools.VideoSpirit",
+   "name": "MovieSpirit",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەت بە ئیدتکردنی ڤیدۆ بەشێوەیەکی پڕۆفیشناڵ",
+   "localizedDescription": "تایبەت بە ئیدتکردنی ڤیدۆ بەشێوەیەکی پڕۆفیشناڵ",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/kara-img-socil/Movie.Spirit.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.39",
+     "date": "2025-02-05T00:00:00Z",
+     "localizedDescription": "تایبەت بە ئیدتکردنی ڤیدۆ بەشێوەیەکی پڕۆفیشناڵ",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/karbin-ipa-socil2/MovieSpirit.-._9.39_1738739178.ipa",
+     "size": 145230000
+    }
+   ]
+  }
+ ]
+}

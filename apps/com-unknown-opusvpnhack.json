@@ -1,0 +1,30 @@
+{
+ "name": "OPUS VPN Hack",
+ "identifier": "dev.perapp.com-unknown-opusvpnhack",
+ "subtitle": "یەکێک لە باشترین VPN کان دەتوانی تاقی بکەیتە",
+ "description": "Single-app source for OPUS VPN Hack (com.unknown.opusvpnhack). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/OPUS.VPN.Hack.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.opusvpnhack",
+   "name": "OPUS VPN Hack",
+   "developerName": "Karbin-Store",
+   "subtitle": "یەکێک لە باشترین VPN کان دەتوانی تاقی بکەیتە",
+   "localizedDescription": "یەکێک لە باشترین VPN کان دەتوانی تاقی بکەیتە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/OPUS.VPN.Hack.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.8",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "یەکێک لە باشترین VPN کان دەتوانی تاقی بکەیتە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/opusvpn.-.v1.8.8.NewPatch.ipa",
+     "size": 15610000
+    }
+   ]
+  }
+ ]
+}

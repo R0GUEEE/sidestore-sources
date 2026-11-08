@@ -1,0 +1,44 @@
+{
+ "name": "WDBFontOverwrite",
+ "identifier": "dev.perapp.com-ginsu-wdbfontoverwrite",
+ "subtitle": "Font changer app. Supports iOS 14-16.1.2. Dev released the app as a POC, use at your own risk Last updated: 03-27-2023 S",
+ "description": "Single-app source for WDBFontOverwrite (com.ginsu.WDBFontOverwrite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ginsu.WDBFontOverwrite",
+   "name": "WDBFontOverwrite",
+   "developerName": "zhouwei / ginsudev",
+   "subtitle": "Font changer app. Supports iOS 14-16.1.2. Dev released the app as a POC, use at your own risk Last updated: 03-27-2023 Status: ✅",
+   "localizedDescription": "Font changer app. Supports iOS 14-16.1.2. Dev released the app as a POC, use at your own risk Last updated: 03-27-2023 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ginsu.WDBFontOverwrite.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.7",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Font changer app. Supports iOS 14-16.1.2. Dev released the app as a POC, use at your own risk Last updated: 03-27-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2023/WDBFontOverwrite-1.10.7.ipa",
+     "size": 5349096
+    },
+    {
+     "version": "1.10.7-1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Font changer app. Supports iOS 14-16.1.2. Dev released the app as a POC, use at your own risk Last updated: 03-27-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2023/WDBFontOverwrite-1.10.7.ipa",
+     "size": 5349096
+    },
+    {
+     "version": "1.10.8",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Font changer app. Supports iOS 14-16.1.2. Dev released the app as a POC, use at your own risk Last updated: 03-27-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/WDBFontOverwrite-1.10.8.ipa",
+     "size": 5348316
+    }
+   ]
+  }
+ ]
+}

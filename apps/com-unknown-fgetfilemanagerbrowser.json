@@ -1,0 +1,30 @@
+{
+ "name": "fGet - File Manager & Browser",
+ "identifier": "dev.perapp.com-unknown-fgetfilemanagerbrowser",
+ "subtitle": "بەرنامە بۆ دابەزاندنی فایلەکان لە ئینتەرنێتەوە بەبێ ڕیکلام",
+ "description": "Single-app source for fGet - File Manager & Browser (com.unknown.fgetfilemanagerbrowser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/fGet.-.File.Manager.Browser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.fgetfilemanagerbrowser",
+   "name": "fGet - File Manager & Browser",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامە بۆ دابەزاندنی فایلەکان لە ئینتەرنێتەوە بەبێ ڕیکلام",
+   "localizedDescription": "بەرنامە بۆ دابەزاندنی فایلەکان لە ئینتەرنێتەوە بەبێ ڕیکلام",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/fGet.-.File.Manager.Browser.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.19",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "بەرنامە بۆ دابەزاندنی فایلەکان لە ئینتەرنێتەوە بەبێ ڕیکلام",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/fGet_1.5.19_3BodSy.ipa",
+     "size": 11920000
+    }
+   ]
+  }
+ ]
+}

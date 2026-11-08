@@ -1,0 +1,37 @@
+{
+ "name": "MoneyCircle",
+ "identifier": "dev.perapp.com-genau-moneycircle",
+ "subtitle": "MoneyCircle",
+ "description": "Single-app source for MoneyCircle (com.genau.MoneyCircle). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MoneyCircle.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.genau.MoneyCircle",
+   "name": "MoneyCircle",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MoneyCircle.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.5",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Track your spending with clarity and control — meet MoneyCircle.\r\n\r\nMoneyCircle makes it easy to understand where your money goes.\r\nWith clean design, smart categorization, and intuitive insights,\r\nyou’ll gain control of your finances and uncover new opportunities to save.\r\n\r\nIf you've tried other expense tracking apps but found them cluttered or overwhelming,\r\nMoneyCircle offers a refreshing alternative — simple, beautiful, and focused on what matters: your spending habits.\r\n\r\nKey Features\r\nSmart Categorization\r\nMoneyCircle automatically organizes your expenses by category,\r\nbased on the total spent in each area.\r\n\r\nFast & Easy Entry\r\nJust type in a spending item — MoneyCircle suggests a category\r\nby learning from your past entries.\r\n\r\n",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2269",
+     "size": 21527050
+    },
+    {
+     "version": "2.8.6",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/MoneyCircle_2.8.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 13857800
+    }
+   ]
+  }
+ ]
+}

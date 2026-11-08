@@ -1,0 +1,44 @@
+{
+ "name": "SpyCamera",
+ "identifier": "dev.perapp.com-spycamera-app",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for SpyCamera (com.spycamera.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spycamera.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spycamera.app",
+   "name": "SpyCamera",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spycamera.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-09-2025/NetworkScanner_2.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 40521408
+    },
+    {
+     "version": "2.3",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-02-2026/SpyCamera_2.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 42418702
+    },
+    {
+     "version": "2.4",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-04-2026/SpyCamera_2.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 43207052
+    }
+   ]
+  }
+ ]
+}

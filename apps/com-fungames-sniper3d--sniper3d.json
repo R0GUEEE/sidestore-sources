@@ -1,0 +1,30 @@
+{
+ "name": "Sniper3d",
+ "identifier": "dev.perapp.com-fungames-sniper3d",
+ "subtitle": "Sniper3d",
+ "description": "Single-app source for Sniper3d (com.fungames.sniper3d). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.sniper3d.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fungames.sniper3d",
+   "name": "Sniper3d",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fungames.sniper3d.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.61.1",
+     "date": "2024-12-07T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/Sniper3d_4.61.1_Mods_%40thisismanpreets_apptesters.org.ipa",
+     "size": 170032866
+    }
+   ]
+  }
+ ]
+}

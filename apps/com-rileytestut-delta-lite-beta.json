@@ -1,0 +1,30 @@
+{
+ "name": "Delta Lite Beta",
+ "identifier": "dev.perapp.com-rileytestut-delta-lite-beta",
+ "subtitle": "Delta Lite brings NES and GBC games to iOS.",
+ "description": "Single-app source for Delta Lite Beta (com.rileytestut.Delta.Lite.Beta). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.Delta.Lite.Beta",
+   "name": "Delta Lite Beta",
+   "developerName": "Riley Testut",
+   "subtitle": "Delta Lite brings NES and GBC games to iOS.",
+   "localizedDescription": "Delta Lite brings NES and GBC games to iOS.",
+   "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0b",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "Delta Lite brings NES and GBC games to iOS.",
+     "downloadURL": "https://f000.backblazeb2.com/file/altstore/delta-lite-beta.ipa",
+     "size": 16509767
+    }
+   ]
+  }
+ ]
+}

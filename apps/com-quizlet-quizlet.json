@@ -1,0 +1,30 @@
+{
+ "name": "Quizlet",
+ "identifier": "dev.perapp.com-quizlet-quizlet",
+ "subtitle": "Quizlet",
+ "description": "Single-app source for Quizlet (com.quizlet.quizlet). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.quizlet.quizlet",
+   "name": "Quizlet",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.2",
+     "date": "2025-08-28T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+     "size": 62979035
+    }
+   ]
+  }
+ ]
+}

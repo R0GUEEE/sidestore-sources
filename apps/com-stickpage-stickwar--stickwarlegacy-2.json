@@ -1,0 +1,44 @@
+{
+ "name": "StickWarLegacy",
+ "identifier": "dev.perapp.com-stickpage-stickwar",
+ "subtitle": "StickWarLegacy",
+ "description": "Single-app source for StickWarLegacy (com.stickpage.stickwar). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stickpage.stickwar.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stickpage.stickwar",
+   "name": "StickWarLegacy",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stickpage.stickwar.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.1.787",
+     "date": "2026-06-18T00:00:00Z",
+     "localizedDescription": "Feature: \r\n\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2068",
+     "size": 107793006
+    },
+    {
+     "version": "2025.1.208",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/StickWarLegacy_2025.1.208_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 103403346
+    },
+    {
+     "version": "2023.5.1927",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Stick War: Legacy\n\nTweak: Free iAP\n\nVersion: 2023.5.1927\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/b8b8e5f3-84e3-43ef-967e-125d2f584a4c/Stick_War__Legacy-v2023.5.1927-riftysipas.ipa",
+     "size": 105522993
+    }
+   ]
+  }
+ ]
+}

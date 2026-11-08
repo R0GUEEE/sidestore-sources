@@ -1,0 +1,30 @@
+{
+ "name": "GRIS",
+ "identifier": "dev.perapp.com-devolver-gris",
+ "subtitle": "ipaomtk.com | Gris IPA for iOS is a revolutionary mobile application that lets users easily and securely store and acces",
+ "description": "Single-app source for GRIS (com.devolver.gris). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-gris-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devolver.gris",
+   "name": "GRIS",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Gris IPA for iOS is a revolutionary mobile application that lets users easily and securely store and access their IP address information",
+   "localizedDescription": "ipaomtk.com | Gris IPA for iOS is a revolutionary mobile application that lets users easily and securely store and access their IP address information",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-gris-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2023-12-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Gris IPA for iOS is a revolutionary mobile application that lets users easily and securely store and access their IP address information",
+     "downloadURL": "https://file.ipaomtk.com/ipa/GRIS.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

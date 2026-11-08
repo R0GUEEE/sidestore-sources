@@ -1,0 +1,30 @@
+{
+ "name": "iTorrent",
+ "identifier": "dev.perapp.com-unknown-itorrent",
+ "subtitle": "تایبەتمەندی پڕایم کراوەتۆ ✅  لابردنی ڕیکلام لە بەرنامەکە ✅",
+ "description": "Single-app source for iTorrent (com.unknown.itorrent). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/iTorrent.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.itorrent",
+   "name": "iTorrent",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی پڕایم کراوەتۆ ✅  لابردنی ڕیکلام لە بەرنامەکە ✅",
+   "localizedDescription": "تایبەتمەندی پڕایم کراوەتۆ ✅  لابردنی ڕیکلام لە بەرنامەکە ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/iTorrent.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.14",
+     "date": "2025-01-09T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی پڕایم کراوەتۆ ✅  لابردنی ڕیکلام لە بەرنامەکە ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/iTorrent-2.0.14-1.ipa",
+     "size": 6710000
+    }
+   ]
+  }
+ ]
+}

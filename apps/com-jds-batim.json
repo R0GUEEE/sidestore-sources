@@ -1,0 +1,30 @@
+{
+ "name": "Bendy",
+ "identifier": "dev.perapp.com-jds-batim",
+ "subtitle": "ipaomtk.com | Bendy and the Ink Machine IPA (abbreviated as BATIM) is a puzzle-action psychological horror video game cr",
+ "description": "Single-app source for Bendy (com.jds.batim). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-bendy-and-the-ink-machine-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jds.batim",
+   "name": "Bendy",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Bendy and the Ink Machine IPA (abbreviated as BATIM) is a puzzle-action psychological horror video game created and developed by Joey Dr",
+   "localizedDescription": "ipaomtk.com | Bendy and the Ink Machine IPA (abbreviated as BATIM) is a puzzle-action psychological horror video game created and developed by Joey Dr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-bendy-and-the-ink-machine-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "829",
+     "date": "2023-11-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Bendy and the Ink Machine IPA (abbreviated as BATIM) is a puzzle-action psychological horror video game created and developed by Joey Dr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Bendy-and-the-Ink-Machine.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

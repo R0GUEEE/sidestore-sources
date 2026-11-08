@@ -1,0 +1,45 @@
+{
+ "name": "Air",
+ "identifier": "dev.perapp.com-air-devs-air",
+ "subtitle": "一个强大的 iOS 端 Minecraft Java 版启动器，基于 Amethyst iOS 进行深度重制，为 iOS 用户提供良好的体验。",
+ "description": "Single-app source for Air (com.air-devs.air). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7da4fc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.air-devs.air.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.air-devs.air",
+   "name": "Air",
+   "developerName": "herbrine8403",
+   "subtitle": "一个强大的 iOS 端 Minecraft Java 版启动器，基于 Amethyst iOS 进行深度重制，为 iOS 用户提供良好的体验。",
+   "localizedDescription": "This is the one and only official Air repository: herbrine8403/Amethyst-iOS-MyRemastered. Beware of unofficial forks or mirror repositories using the \"Air\" name — always verify that the repository owner is @herbrine8403 and that the URL matches the link above.\n\nA premium Minecraft: Java Edition launcher for iOS and iPadOS, rebuilt from the ground up on the official Amethyst project. It delivers a refined mobile experience with comprehensive mod management, intelligent renderer selection, and deep platform integration.\n\nCore Features:\n\n• Modern UI Redesign -- The interface has been deeply refined for a contemporary, polished visual style.\n\n• Modpack Import -- Import ZIP-format modpacks directly from the launcher interface.\n\n• Complete Chinese Localization -- Fully translated interface with native-quality Chinese language support.\n\n• Multi-Account -- Seamlessly switch between Microsoft, local, and third-party authentication accounts.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.air-devs.air.png",
+   "tintColor": "#7da4fc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.0",
+     "date": "2026-10-01T01:38:02Z",
+     "localizedDescription": "Air 5.1.0:\n\n• 支持 Metal(metallum)渲染器,可用于 Minecraft 26.2 / 26.3 @yiyeshi0-hash.\n\n完整更新日志: https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/compare/5.0.0.5.1.0\n\nAir 5.1.0:\n\nThis update is mainly about Minecraft 26.3 support and fixes several issues including JIT startup crashes; it also adds an AI assistant and an automatic update check on launch. Both 26.2 and 26.3 work fine.\n\n• Added Minecraft 26.3 support (SDL3 window / input / presentation): fixed the black screen on entering a world, the picture stuck in a corner, having to change the resolution once to get a picture, wrong display in small windows, frame rate always showing 0 with Vulkan, resolution switching not working, the on-screen keyboard and control buttons not typing, the inventory not being clickable, and wrong hotbar keys @yitenchen123 @Gsjsjzhznsz @herbrine8403.\n• Fixed why the MobileGlues renderer crashed on 26.3: a render hook mistook itself for the real implementation and kept calling itself until it crashed @yiyeshi0-hash.\n• Added Metal (metallum) renderer support for Minecraft 26.2 / 26.3 @yiyeshi0-hash.\n• Added the MobileGL / MobileGL-gles renderers, and SimpleFPEWrapper (sfpew) to support 1.17 and below (enable sfpew in the settings and pick MobileGL-gles as the renderer); also fixed MobileGlues crashes and black screens on 26.3 @yitenchen123.\n• Upgraded the built-in MobileGlues sources to upstream 2.0.x; the shader conversion chain no longer interferes with itself @yitenchen123.\n• Added two sets of LWJGL runtime libraries (3.3.3 / 3.4.1), picked automatically by game version @yitenchen123.\n\n• Improved memory usage: larger memory limits are detected automatically, and crashes caused by background memory reclaim are reduced @herbrine8403 @yitenchen123.\n• Completed missing Simplified Chinese texts and synced official translations @herbrine8403.\n• Improved the build and packaging process: dual runtime libraries, reuse of already-built components, clearer build logs @yiyeshi0-hash @yitenchen123.\n• For additional changes, please visit the Commits page.\n\nNotes:\n\nTo use Vulkan on Minecraft 26.3, select Zink as the renderer and switch the rendering API to Vulkan.",
+     "downloadURL": "https://github.com/herbrine8403/Amethyst-iOS-MyRemastered/releases/download/5.1.0/Air-5.1.0.ipa",
+     "size": 244024897
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.kernel.extended-virtual-addressing",
+     "com.apple.developer.kernel.increased-memory-limit",
+     "com.apple.private.memorystatus",
+     "com.apple.private.security.container-required",
+     "get-task-allow",
+     "jb.pmap_cs.custom_trust"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Air uses the local network to find and communicate with AltServer and LAN servers, and to enable multiplayer connectivity via Terracotta (compatible with HMCL/FCL/ZL2).",
+     "NSMicrophoneUsageDescription": "Air uses the microphone to enable support for voice chat mods."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "MEGAMANXDiveOffline",
+ "identifier": "dev.perapp.jp-co-capcom-rxdoff",
+ "subtitle": "ipaomtk.com | MEGA MAN X DiVE Offline IPA is an exhilarating action game that takes players on an epic journey through t",
+ "description": "Single-app source for MEGAMANXDiveOffline (jp.co.capcom.rxdoff). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-mega-man-x-dive-offline-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.co.capcom.rxdoff",
+   "name": "MEGAMANXDiveOffline",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MEGA MAN X DiVE Offline IPA is an exhilarating action game that takes players on an epic journey through the futuristic world of Mega Ma",
+   "localizedDescription": "ipaomtk.com | MEGA MAN X DiVE Offline IPA is an exhilarating action game that takes players on an epic journey through the futuristic world of Mega Ma",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-mega-man-x-dive-offline-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2023-10-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MEGA MAN X DiVE Offline IPA is an exhilarating action game that takes players on an epic journey through the futuristic world of Mega Ma",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MEGAMANX.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Tubi",
+ "identifier": "dev.perapp.com-adrise-tubitv",
+ "subtitle": "ipaomtk.com | Tubi IPA Movies Live TV is a revolutionary streaming service that offers users access to an extensive libr",
+ "description": "Single-app source for Tubi (com.adrise.tubitv). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/tubi-movies-ampamp-tv-shows-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adrise.tubitv",
+   "name": "Tubi",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tubi IPA Movies Live TV is a revolutionary streaming service that offers users access to an extensive library of movies and other entert",
+   "localizedDescription": "ipaomtk.com | Tubi IPA Movies Live TV is a revolutionary streaming service that offers users access to an extensive library of movies and other entert",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/tubi-movies-ampamp-tv-shows-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.6.1",
+     "date": "2023-04-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tubi IPA Movies Live TV is a revolutionary streaming service that offers users access to an extensive library of movies and other entert",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Tubi.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

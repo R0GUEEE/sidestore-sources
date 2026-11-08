@@ -1,0 +1,44 @@
+{
+ "name": "PicsewPro",
+ "identifier": "dev.perapp.com-sugarmo-scrollclip",
+ "subtitle": "PicsewPro by iOS宝藏",
+ "description": "Single-app source for PicsewPro (com.sugarmo.ScrollClip). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sugarmo.ScrollClip.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sugarmo.ScrollClip",
+   "name": "PicsewPro",
+   "developerName": "iOS宝藏",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sugarmo.ScrollClip.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.10.2",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "App that can seamlessly combine several screenshots into one extended image. Note: Install the 3.9.7 version over the 3.9.4 to keep the tweak working.\nLast updated: 04-22-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicsewPro/PicsewPro-3.10.2.ipa",
+     "size": 28741008
+    },
+    {
+     "version": "3.9.4",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "App that can seamlessly combine several screenshots into one extended image. Note: Install the 3.9.7 version over the 3.9.4 to keep the tweak working.\nLast updated: 04-22-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicsewPro/PicsewPro-3.9.4.ipa",
+     "size": 27292111
+    },
+    {
+     "version": "3.9.7",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "App that can seamlessly combine several screenshots into one extended image. Note: Install the 3.9.7 version over the 3.9.4 to keep the tweak working.\nLast updated: 04-22-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PicsewPro/PicsewPro-3.9.7.ipa",
+     "size": 27760811
+    }
+   ]
+  }
+ ]
+}

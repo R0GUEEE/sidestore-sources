@@ -1,0 +1,30 @@
+{
+ "name": "Busuu",
+ "identifier": "dev.perapp.com-busuu-english-app",
+ "subtitle": "Busuu by Busuu Limited",
+ "description": "Single-app source for Busuu (com.busuu.english.app). Converted from riftys.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/7c/f4/197cf4f4-d557-cd57-cc16-dad4801ade77/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.busuu.english.app",
+   "name": "Busuu",
+   "developerName": "Busuu Limited",
+   "subtitle": "",
+   "localizedDescription": "A tweaked Busuu IPA created by @notblatant.",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/7c/f4/197cf4f4-d557-cd57-cc16-dad4801ade77/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "28.20.1",
+     "date": "2024-12-18T00:00:00Z",
+     "localizedDescription": "A tweaked Busuu IPA created by @notblatant.",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6780f70602ec246f4678d929",
+     "size": 157913907
+    }
+   ]
+  }
+ ]
+}

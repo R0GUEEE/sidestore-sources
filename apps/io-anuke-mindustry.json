@@ -1,0 +1,30 @@
+{
+ "name": "Mindustry",
+ "identifier": "dev.perapp.io-anuke-mindustry",
+ "subtitle": "Mindustry",
+ "description": "Single-app source for Mindustry (io.anuke.mindustry). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/58/ff/0658ff55-75eb-3e85-8c48-1cbe6a7484f0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "io.anuke.mindustry",
+   "name": "Mindustry",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nMindustry v7.146.0  \n\n🇷🇺 Стратегическая игра с элементами tower defense, где вам предстоит строить защитные сооружения и управлять ресурсами.  \n— Платное приложение из AppStore  \n© Создано: GLESign\n\n🇺🇸 A strategy game with tower defense elements where you build defensive structures and manage resources.  \n— Paid app from AppStore  \n© Created: GLESign",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/58/ff/0658ff55-75eb-3e85-8c48-1cbe6a7484f0/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.146.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nMindustry v7.146.0  \n\n🇷🇺 Стратегическая игра с элементами tower defense, где вам предстоит строить защитные сооружения и управлять ресурсами.  \n— Платное приложение из AppStore  \n© Создано: GLESign\n\n🇺🇸 A strategy game with tower defense elements where you build defensive structures and manage resources.  \n— Paid app from AppStore  \n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/71e97a59-1357-4cf5-9b99-e1d8bbb43945/Mindustry_v7.146.0_tg_glesign_.ipa",
+     "size": 80958361
+    }
+   ]
+  }
+ ]
+}

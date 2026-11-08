@@ -1,0 +1,30 @@
+{
+ "name": "Alook",
+ "identifier": "dev.perapp.com-unknown-alook",
+ "subtitle": "لە ئەپستۆر بە پارەیە لێرە بەخۆڕایی دابەزێنە ✅  ڕیکلامەکانی بە سەرکەوتوویی لابراون ✅",
+ "description": "Single-app source for Alook (com.unknown.alook). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Alook.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.alook",
+   "name": "Alook",
+   "developerName": "Karbin-Store",
+   "subtitle": "لە ئەپستۆر بە پارەیە لێرە بەخۆڕایی دابەزێنە ✅  ڕیکلامەکانی بە سەرکەوتوویی لابراون ✅",
+   "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بەخۆڕایی دابەزێنە ✅  ڕیکلامەکانی بە سەرکەوتوویی لابراون ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Alook.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20.8",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بەخۆڕایی دابەزێنە ✅  ڕیکلامەکانی بە سەرکەوتوویی لابراون ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/Alook_20.8_3BodSy.ipa",
+     "size": 15880000
+    }
+   ]
+  }
+ ]
+}

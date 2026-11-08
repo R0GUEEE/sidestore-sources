@@ -1,0 +1,37 @@
+{
+ "name": "FlexIPTV",
+ "identifier": "dev.perapp.com-funlabsoft-iptv",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for FlexIPTV (com.funlabsoft.iptv). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.funlabsoft.iptv",
+   "name": "FlexIPTV",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.13",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-12-2025/FlexIPTV_2.13_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 19997692
+    },
+    {
+     "version": "2.15",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-04-2026/FlexIPTV_2.15_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 20597516
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "ESign_5.0_noLogs_V1.1",
+ "identifier": "dev.perapp.nologs-xyz-yyyue-esign",
+ "subtitle": "IPA signer, tweak injector",
+ "description": "Single-app source for ESign_5.0_noLogs_V1.1 (nologs.xyz.yyyue.esign). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/ESign_5.0_noLogs_V1.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nologs.xyz.yyyue.esign",
+   "name": "ESign_5.0_noLogs_V1.1",
+   "developerName": "ESign_5.0_noLogs_V1.1 x CyPwn",
+   "subtitle": "IPA signer, tweak injector",
+   "localizedDescription": "IPA signer, tweak injector",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/ESign_5.0_noLogs_V1.1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "IPA signer, tweak injector",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/ESign_5.0_noLogs_V1.1.ipa",
+     "size": 8042577
+    }
+   ]
+  }
+ ]
+}

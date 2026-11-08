@@ -1,0 +1,30 @@
+{
+ "name": "Radio Record",
+ "identifier": "dev.perapp.com-cronos-recordplayer",
+ "subtitle": "ipaomtk.com | An innovative new piece of radio technology is making its mark in the radio industry, setting new standard",
+ "description": "Single-app source for Radio Record (com.cronos.recordplayer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/radio-record-dance-music-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cronos.recordplayer",
+   "name": "Radio Record",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | An innovative new piece of radio technology is making its mark in the radio industry, setting new standards for broadcasting. The Radio ",
+   "localizedDescription": "ipaomtk.com | An innovative new piece of radio technology is making its mark in the radio industry, setting new standards for broadcasting. The Radio ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/radio-record-dance-music-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.4",
+     "date": "2023-08-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | An innovative new piece of radio technology is making its mark in the radio industry, setting new standards for broadcasting. The Radio ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/RadioRecord.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

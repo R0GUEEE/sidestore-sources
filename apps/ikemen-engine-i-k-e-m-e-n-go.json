@@ -1,0 +1,36 @@
+{
+ "name": "I.K.E.M.E.N-Go",
+ "identifier": "dev.perapp.ikemen-engine-i-k-e-m-e-n-go",
+ "subtitle": "An open-source fighting game engine that supports MUGEN resources",
+ "description": "Single-app source for I.K.E.M.E.N-Go (ikemen-engine.I-K-E-M-E-N-Go). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2099ee",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ikemen-engine.I-K-E-M-E-N-Go.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ikemen-engine.I-K-E-M-E-N-Go",
+   "name": "I.K.E.M.E.N-Go",
+   "developerName": "ikemen-engine",
+   "subtitle": "An open-source fighting game engine that supports MUGEN resources",
+   "localizedDescription": "Features:\n\nIkemen GO aims for backwards-compatibility on par with M.U.G.E.N version 1.1 Beta, while simultaneously expanding on its features in a variety of ways.\n\nThis does not mean bug-for-bug emulation. Behavior may intentionally differ when matching M.U.G.E.N would mean preserving bugs, quirks, or unnecessarily limiting the engine.\n\nSystem requirements:\n\nA GPU supporting OpenGL 3.3, OpenGL ES 3.2 or Vulkan is required.\n\nyou need them. Intel macOS builds are not currently published.\n\nRunning:\n\nDownload the ZIP archive that matches your operating system and extract its contents to your preferred location.\n\nOn Windows, double-click Ikemen_GO.exe. On macOS or Linux, double-click Ikemen_GO.command. On Android, install ikemen-go.apk from the Android archive.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ikemen-engine.I-K-E-M-E-N-Go.png",
+   "tintColor": "#2099ee",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-11-07T13:28:29Z",
+     "localizedDescription": "The nightly release is generated after each commit to develop and contains the newest engine and screenpack files. It is intended for testing and may contain regressions or changes not yet covered by the stable documentation.",
+     "downloadURL": "https://github.com/ikemen-engine/Ikemen-GO/releases/download/nightly/Ikemen_GO-dev-ios.ipa",
+     "size": 56180404
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "This app requires Bluetooth access to connect game controllers."
+    }
+   }
+  }
+ ]
+}

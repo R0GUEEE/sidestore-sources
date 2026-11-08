@@ -1,0 +1,30 @@
+{
+ "name": "TeleBox",
+ "identifier": "dev.perapp.com-unknown-telebox",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامە⚙️   تایبەتمەندیە پارەکان کراونەتۆ ✅  ڕیکلامەکان لادراون لە بەرنامەکە ✅  ئاگاداربە: پێش دابەزا",
+ "description": "Single-app source for TeleBox (com.unknown.telebox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/TeleBox.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.telebox",
+   "name": "TeleBox",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامە⚙️   تایبەتمەندیە پارەکان کراونەتۆ ✅  ڕیکلامەکان لادراون لە بەرنامەکە ✅  ئاگاداربە: پێش دابەزاندن Remove Mobileprovision ئەک",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامە⚙️   تایبەتمەندیە پارەکان کراونەتۆ ✅  ڕیکلامەکان لادراون لە بەرنامەکە ✅  ئاگاداربە: پێش دابەزاندن Remove Mobileprovision ئەک",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/TeleBox.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.40.00",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامە⚙️   تایبەتمەندیە پارەکان کراونەتۆ ✅  ڕیکلامەکان لادراون لە بەرنامەکە ✅  ئاگاداربە: پێش دابەزاندن Remove Mobileprovision ئەک",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/TeleBox.1.40.00.ipa",
+     "size": 44170000
+    }
+   ]
+  }
+ ]
+}

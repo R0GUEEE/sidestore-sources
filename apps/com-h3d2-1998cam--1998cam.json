@@ -1,0 +1,30 @@
+{
+ "name": "1998Cam",
+ "identifier": "dev.perapp.com-h3d2-1998cam",
+ "subtitle": "1998Cam",
+ "description": "Single-app source for 1998Cam (com.h3d2.1998cam). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.h3d2.1998cam.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.h3d2.1998cam",
+   "name": "1998Cam",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.h3d2.1998cam.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.5",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-01-2025/1998Cam_2.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 87147436
+    }
+   ]
+  }
+ ]
+}

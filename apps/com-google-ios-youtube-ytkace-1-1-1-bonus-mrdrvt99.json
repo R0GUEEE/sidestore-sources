@@ -1,0 +1,30 @@
+{
+ "name": "YTKACE (1.1.1) - Bonus Tweaks (mrdrvt99)",
+ "identifier": "dev.perapp.com-google-ios-youtube-ytkace-1-1-1-bonus-mrdrvt99",
+ "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: YouPiP, YTABConfig, YouQuality, YouChooseQual",
+ "description": "Single-app source for YTKACE (1.1.1) - Bonus Tweaks (mrdrvt99) (com.google.ios.youtube.ytkace.1.1.1.bonus.mrdrvt99). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.ytkace.1.1.1.bonus.mrdrvt99",
+   "name": "YTKACE (1.1.1) - Bonus Tweaks (mrdrvt99)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: YouPiP, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForS",
+   "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: YouPiP, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.39.4",
+     "date": "2026-10-01T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: YouPiP, YTABConfig, YouQuality, YouChooseQuality, YouGetCaption, YTHoldForS",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_21.39.4_1.1.1.ipa",
+     "size": 132135944
+    }
+   ]
+  }
+ ]
+}

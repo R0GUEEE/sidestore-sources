@@ -1,0 +1,30 @@
+{
+ "name": "Infinity Blade III",
+ "identifier": "dev.perapp.com-chairentertainment-ib3",
+ "subtitle": "Fortnite Predecessor",
+ "description": "Single-app source for Infinity Blade III (com.chairentertainment.IB3). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/IMG_2129-lf.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chairentertainment.IB3",
+   "name": "Infinity Blade III",
+   "developerName": "Epic Games",
+   "subtitle": "Fortnite Predecessor",
+   "localizedDescription": "Infinity Blade III is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/IMG_2129-lf.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.4",
+     "date": "2024-10-26T00:00:00Z",
+     "localizedDescription": "Infinity Blade III is an action roleplay game developed by Chair Entertainment and Epic Games\n\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/Infinity_Blade_III_Community_Patch_v2_2-hU.ipa",
+     "size": 1884353986
+    }
+   ]
+  }
+ ]
+}

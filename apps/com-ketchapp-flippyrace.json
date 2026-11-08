@@ -1,0 +1,30 @@
+{
+ "name": "Flippy Race",
+ "identifier": "dev.perapp.com-ketchapp-flippyrace",
+ "subtitle": "ipaomtk.com | Flippy Race IPA, a thrilling and addictive iOS game that will keep you hooked for hours on end. With its s",
+ "description": "Single-app source for Flippy Race (com.ketchapp.flippyrace). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-flippy-race-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.flippyrace",
+   "name": "Flippy Race",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Flippy Race IPA, a thrilling and addictive iOS game that will keep you hooked for hours on end. With its simple yet challenging gameplay",
+   "localizedDescription": "ipaomtk.com | Flippy Race IPA, a thrilling and addictive iOS game that will keep you hooked for hours on end. With its simple yet challenging gameplay",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-flippy-race-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.20",
+     "date": "2023-11-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Flippy Race IPA, a thrilling and addictive iOS game that will keep you hooked for hours on end. With its simple yet challenging gameplay",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Flippy-Race.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

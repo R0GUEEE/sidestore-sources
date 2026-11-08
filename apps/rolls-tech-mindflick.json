@@ -1,0 +1,30 @@
+{
+ "name": "Rolls",
+ "identifier": "dev.perapp.rolls-tech-mindflick",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for Rolls (rolls.tech.mindflick). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rolls.tech.mindflick.png",
+ "apps": [
+  {
+   "bundleIdentifier": "rolls.tech.mindflick",
+   "name": "Rolls",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rolls.tech.mindflick.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2025/Rolls_2.0.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 88107360
+    }
+   ]
+  }
+ ]
+}

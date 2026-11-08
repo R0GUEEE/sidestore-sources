@@ -1,0 +1,42 @@
+{
+ "name": "Roam Control",
+ "identifier": "dev.perapp.com-roamcontrol",
+ "subtitle": "Choose, test and move an iPhone’s reported location",
+ "description": "Single-app source for Roam Control (com.roamcontrol). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1399f7",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.roamcontrol.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.roamcontrol",
+   "name": "Roam Control",
+   "developerName": "seanhowarthdev",
+   "subtitle": "Choose, test and move an iPhone’s reported location",
+   "localizedDescription": "About:\n\nRoam Control is an iPhone app for location-based development, quality assurance and responsible personal testing on a device you own and control.\n\nIt supports fixed reported locations, Walking, Driving and Cycling routes, Joystick movement, GPX import/export, favourites, history, on-device pairing and guided LocalDevVPN-compatible sessions.\n\nRoam Control is distributed as a prebuilt IPA. The application source code is not publicly distributed.\n\nFeatures:\n\n• Search for places, enter coordinates or select a position on the map.\n• Start and update a fixed reported location.\n• Simulate Apple Maps Walking, Driving and Cycling routes.\n• Build manual routes with point-by-point or freehand drawing.\n• Import and export GPX routes.\n• Move freely with the Joystick without creating a route.\n• Pause, resume, reverse or redirect active route sessions.\n• Choose Miles/Kilometres and mph/km/h route units.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.roamcontrol.png",
+   "tintColor": "#1399f7",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/seanhowarthdev/Roam-Control@main/Documentation/Images/README/roam-welcome.png",
+    "https://cdn.jsdelivr.net/gh/seanhowarthdev/Roam-Control@main/Documentation/Images/README/roam-fixed-location.png",
+    "https://cdn.jsdelivr.net/gh/seanhowarthdev/Roam-Control@main/Documentation/Images/README/roam-walking-preview.png",
+    "https://cdn.jsdelivr.net/gh/seanhowarthdev/Roam-Control@main/Documentation/Images/README/roam-connection-health.png"
+   ],
+   "versions": [
+    {
+     "version": "0.9.9",
+     "date": "2026-10-20T19:33:03Z",
+     "localizedDescription": "🌍 Roam Control in 10 Languages:\n\nChoose English, Hebrew, Arabic, Simplified Chinese, Traditional Chinese, Japanese, Vietnamese, French, German or Spanish, or use System Default to select from the supported languages based on your iPhone's language preferences. Switch languages immediately, with right-to-left layout support for Hebrew and Arabic.\n\n🗺️ Better Maps and Routes:\n\nRefined map controls, route handling and coordinate compatibility, with clearer handling when a route cannot be created.\n\n🔄 Smarter Connection Recovery:\n\nImproved connection and location-session recovery when the app is allowed to run. iOS may suspend background apps, so unattended recovery cannot be guaranteed.\n\n🚶 Your Speed, Your Route:\n\nCustom movement speeds for Walking, Cycling and Driving, refined driving targets and travel-time estimates, plus improvements to live walking-speed display.\n\n✨ UI Refinements:\n\nA clearer language picker with native-language subtitles, improved recovery presentation and better handling of translated text throughout the app.\n\nLocalisation:\n\n• Eight new languages bring the total to ten, plus System Default.\n• Language changes apply immediately without relaunching Roam Control.\n• Arabic/Hebrew right-to-left layouts and isolation of PINs, versions and place names.\n• Simplified/Traditional Chinese selection respects script and regional language preferences.\n• Improved plural forms, multi-argument messages, system permissions text and interface sizing.\n\nMaps and Movement:\n\n• Improvements to route handling and route-failure feedback.\n• Custom Walking, Cycling and Driving movement-speed preferences.\n• Better driving speed targets, route time estimates and walking-speed display.\n\nConnection Health and Recovery:\n\n• Improved reconnection and session-recovery behaviour while iOS allows background or foreground execution.\n• Refined recovery controls and user guidance.\n• Existing LocalDevVPN pairing, diagnostics and Stop & Restore remain available.\n\nBefore You Install:\n\n• iOS 27 or newer and Developer Mode are required.\n• LocalDevVPN is still required for local pairing connectivity.\n• The IPA is unsigned. Sign and install it using SideStore or another compatible method.\n• For LiveContainer, enable Fix Local Notifications before the first launch.\n\nDownload and Integrity:\n\nIPA: RoamControl-0.9.9-Build105.ipa.\n\nSHA-256: 211f1057c70292da468226b39808d8777549c02923c14afc504d9e1d2daba86e.\n\nThanks to everyone who's tested Roam Control and shared feedback. Please report any issues or language improvements through GitHub Issues or our community Discord.",
+     "downloadURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.9/RoamControl-0.9.9-Build105.ipa",
+     "size": 4627321
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Roam Control uses the local network to securely pair with and control this iPhone through LocalDevVPN.",
+     "NSLocationWhenInUseUsageDescription": "Roam Control uses location updates to keep fixed and walking sessions running in the background, and to recenter on your real position after a session stops."
+    }
+   }
+  }
+ ]
+}

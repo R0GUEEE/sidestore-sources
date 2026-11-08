@@ -1,0 +1,30 @@
+{
+ "name": "iDOS 3",
+ "identifier": "dev.perapp.com-litchie-idos3",
+ "subtitle": "ipaomtk.com | iDOS 3 IPA (Free Paid) iOS, the powerful DOS emulator for iOS devices. This innovative app brings the gold",
+ "description": "Single-app source for iDOS 3 (com.litchie.idos3). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iDOS-3-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.litchie.idos3",
+   "name": "iDOS 3",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | iDOS 3 IPA (Free Paid) iOS, the powerful DOS emulator for iOS devices. This innovative app brings the golden age of personal computing t",
+   "localizedDescription": "ipaomtk.com | iDOS 3 IPA (Free Paid) iOS, the powerful DOS emulator for iOS devices. This innovative app brings the golden age of personal computing t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iDOS-3-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2",
+     "date": "2024-11-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | iDOS 3 IPA (Free Paid) iOS, the powerful DOS emulator for iOS devices. This innovative app brings the golden age of personal computing t",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iDOS_3-v3.2_2024-10-22_08-01-49_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

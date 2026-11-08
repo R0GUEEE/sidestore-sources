@@ -1,0 +1,37 @@
+{
+ "name": "YT Downloader",
+ "identifier": "dev.perapp.com-nitro70-youtubedownloader",
+ "subtitle": "Windows GUI for yt-dlp. Download YouTube videos and audio with format selection, playlist support, and real-time progres",
+ "description": "Single-app source for YT Downloader (com.nitro70.youtubedownloader). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nitro70.youtubedownloader",
+   "name": "YT Downloader",
+   "developerName": "Nitro70",
+   "subtitle": "Windows GUI for yt-dlp. Download YouTube videos and audio with format selection, playlist support, and real-time progress tracking",
+   "localizedDescription": "YouTube Downloader:\n\nA cross-platform video downloader. On Windows and Linux it's a desktop GUI (and CLI) wrapping yt-dlp and FFmpeg. On Android and iPhone/iPad it's a native app that does YouTube extraction in pure C# (mobile OSes can't run yt-dlp/ffmpeg as subprocesses). Every version can search YouTube, so you don't need a link.\n\nFeatures:\n\n• YouTube-themed dark UI built with Avalonia.\n\n• Paste a URL and fetch video info (title, channel, duration, thumbnail), with Copy link and Copy player link buttons.\n• Player page: a web page that plays just the video in any browser, remembers your place and follows re-uploads.\n\n• Custom filename and save location.\n• Live progress bar showing size, speed, and ETA.\n• Auto-updates yt-dlp on startup.\n• Supports cookies.txt for age-restricted videos.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.0",
+     "date": "2026-10-16T03:43:26Z",
+     "localizedDescription": "Every app can now give you a player link for the video in the box:\n\n• iPhone and Android: the ▶ Copy player link button under the video info.\n\nThe player page:\n\n• Just the picture. YouTube's title, channel, logo, controls, captions and end screen are hidden, and the page's own link bar fades away while the video plays. Click or tap to pause, double-click for full screen; space, the arrow keys, f and m work too.\n• It remembers where you were. Open the same video again and it carries on from the second you left (saved in your browser only).\n• It follows re-uploads. If the video is deleted or made private, the page looks on the same channel for a video with the same title and length and switches to it at the same second, fading one into the other.\n\nLimits: videos whose uploader turned off embedding show a \"Watch on YouTube\" link instead. For a few seconds after you start or skip, YouTube still draws a small pause symbol in the middle of the picture, which a page can't hide. A player link opens paused because browsers block sound until you tap once.\n\nHow it was tested:\n\n• Player link: 20 unit tests cover every link form (watch, youtu.be, Shorts, live, embed, start times); the CLI was run for real, and the desktop and iPhone buttons were driven in headless UI tests (the Android button is the same code and was built).\n• Player page: unit tests for its link, timing and re-upload logic, then browser checks on the live page and locally: resume after a reload, a start time in the link, a re-upload switch (landing within 0.05 s of the old video), a removed video with a saved second, a link pasted while a search was running, the search failing, and phone width.\n\nPhone app limits:\n\n• Video up to 1080p (no 1440p/4K, which YouTube only offers as VP9/AV1).",
+     "downloadURL": "https://github.com/Nitro70/YoutubeDownloader/releases/download/v4.1.0/YouTubeDownloader-ios.ipa",
+     "size": 23795523
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "Saves the videos you download to your photo library.",
+     "NSPhotoLibraryUsageDescription": "Saves the videos you download to your photo library."
+    }
+   }
+  }
+ ]
+}

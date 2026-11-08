@@ -1,0 +1,34 @@
+{
+ "name": "OpenParsec",
+ "identifier": "dev.perapp.com-aigch-openparsec",
+ "subtitle": "OpenParsec is a simple, open-source Parsec client for iOS/iPadOS written in Swift using the SwiftUI framework and the Pa",
+ "description": "Single-app source for OpenParsec (com.aigch.OpenParsec). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#972cff",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aigch.OpenParsec.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aigch.OpenParsec",
+   "name": "OpenParsec",
+   "developerName": "hugeBlack",
+   "subtitle": "OpenParsec is a simple, open-source Parsec client for iOS/iPadOS written in Swift using the SwiftUI framework and the Parsec SDK",
+   "localizedDescription": "OpenParsec is a simple, open-source Parsec client for iOS/iPadOS written in Swift using the SwiftUI framework and the Parsec SDK.\n\nThis project is still a major WIP, so apologies for the currently lackluster documentation. I'm also very new to both Swift and SwiftUI so I'm sure there are many places for improvement.\n\nBefore building, make sure you have the Parsec SDK framework symlinked or copied to the Frameworks folder. Builds were tested on Xcode Version 12.5.\n\nTouch Control:\n\nYou can set the touch mode you want to use in settings. Touchpad mode and direct touch mode are supported.\n\nWhen streaming, you can tap with 3 fingers to bring up the on-screen keyboard.\n\nYou can toggle if you want to use 2 fingers to scroll or zoom in the overlay menu.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aigch.OpenParsec.png",
+   "tintColor": "#972cff",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.0",
+     "date": "2026-10-31T03:19:17Z",
+     "localizedDescription": "This is a nightly release created automatically with GitHub Actions workflow.",
+     "downloadURL": "https://github.com/hugeBlack/OpenParsec/releases/download/nightly/OpenParsec.ipa",
+     "size": 4433365
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

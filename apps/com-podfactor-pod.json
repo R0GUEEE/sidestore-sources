@@ -1,0 +1,44 @@
+{
+ "name": "MyCalendar",
+ "identifier": "dev.perapp.com-podfactor-pod",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for MyCalendar (com.podfactor.pod). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.podfactor.pod",
+   "name": "MyCalendar",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.106.9",
+     "date": "2026-09-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/MyCalendar_2.106.9_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 71220183
+    },
+    {
+     "version": "2.106.8",
+     "date": "2026-08-18T00:00:00Z",
+     "localizedDescription": "@blatants | Calendar · Planner & Reminders  • Bundle ID: com.podfactor.pod • Updated to: 2.106.8 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11653-Calendar_%C2%B7_Planner_&_Reminders_v2_106_8_Subscription_Unlocked_blatant.ipa",
+     "size": 74306856
+    },
+    {
+     "version": "2.106.7",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/MyCalendar_2.106.7_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 67853955
+    }
+   ]
+  }
+ ]
+}

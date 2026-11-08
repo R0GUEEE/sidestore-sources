@@ -1,0 +1,30 @@
+{
+ "name": "Paper",
+ "identifier": "dev.perapp.synthetic-paper-d0a38fb8",
+ "subtitle": "Paper by Karbin-Store",
+ "description": "Single-app source for Paper (synthetic.paper.d0a38fb8). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Papper-apk.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.paper.d0a38fb8",
+   "name": "Paper",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Injected with AllFeaturesUnlocked",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Papper-apk.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.8",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "Injected with AllFeaturesUnlocked",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Paper-v5.4.8.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

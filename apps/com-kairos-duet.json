@@ -1,0 +1,44 @@
+{
+ "name": "duet",
+ "identifier": "dev.perapp.com-kairos-duet",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for duet (com.kairos.duet). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kairos.duet",
+   "name": "duet",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kairos.duet.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.1",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@blatants | Duet Display  • Bundle ID: com.kairos.duet • Updated to: 3.3.1 • Minimum iOS: 13.0 • Patched • Modifier: Subscription Unlocked • Tweaked b",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/duet_3.3.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 43333160
+    },
+    {
+     "version": "3.2.1",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "@blatants | Duet Display  • Bundle ID: com.kairos.duet • Updated to: 3.2.1 • Minimum iOS: 13.0 • Patched • Modifier: Subscription Unlocked • Tweaked b",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/duet_3.2.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 41772181
+    },
+    {
+     "version": "3.2.0",
+     "date": "2026-09-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2026/duet_3.2.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 41149499
+    }
+   ]
+  }
+ ]
+}

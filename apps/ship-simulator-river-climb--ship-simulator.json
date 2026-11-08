@@ -1,0 +1,30 @@
+{
+ "name": "Ship Simulator",
+ "identifier": "dev.perapp.ship-simulator-river-climb",
+ "subtitle": "Ship Simulator",
+ "description": "Single-app source for Ship Simulator (ship.simulator.river.climb). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/58/34/fb5834ac-4a66-f9a6-0c14-1ab3aecbd36b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "ship.simulator.river.climb",
+   "name": "Ship Simulator",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from: @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/58/34/fb5834ac-4a66-f9a6-0c14-1ab3aecbd36b/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.420.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from: @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c5e8be57-f79b-42f8-887c-202c42dd9584/ShipSimulator_v0.420.0-RiftysIPAs.ipa",
+     "size": 157227392
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "FileBrowser",
+ "identifier": "dev.perapp.com-stratospherix-filebrowser",
+ "subtitle": "ipaomtk.com | FileBrowser Documents Manager IPA v25.8 is a versatile iOS application designed to streamline file managem",
+ "description": "Single-app source for FileBrowser (com.stratospherix.filebrowser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/FileBrowser-Documents-Manager-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stratospherix.filebrowser",
+   "name": "FileBrowser",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FileBrowser Documents Manager IPA v25.8 is a versatile iOS application designed to streamline file management and access on mobile devic",
+   "localizedDescription": "ipaomtk.com | FileBrowser Documents Manager IPA v25.8 is a versatile iOS application designed to streamline file management and access on mobile devic",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/FileBrowser-Documents-Manager-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.8",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FileBrowser Documents Manager IPA v25.8 is a versatile iOS application designed to streamline file management and access on mobile devic",
+     "downloadURL": "https://file.ipaomtk.com/ipa/FileBrowser-25.8-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "KnightLancer",
+ "identifier": "dev.perapp.com-toweringtower-knightlancer",
+ "subtitle": "KnightLancer",
+ "description": "Single-app source for KnightLancer (com.ToweringTower.KnightLancer). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ToweringTower.KnightLancer",
+   "name": "KnightLancer",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.67",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "Feature:\r\n\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
+     "size": 118436272
+    },
+    {
+     "version": "1.66",
+     "date": "2026-09-06T00:00:00Z",
+     "localizedDescription": "Feature:\r\n\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
+     "size": 117144452
+    },
+    {
+     "version": "1.64",
+     "date": "2026-07-26T00:00:00Z",
+     "localizedDescription": "Feature:\r\n\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
+     "size": 115551475
+    }
+   ]
+  }
+ ]
+}

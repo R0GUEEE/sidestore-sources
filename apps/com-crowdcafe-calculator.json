@@ -1,0 +1,30 @@
+{
+ "name": "CalculatorMax",
+ "identifier": "dev.perapp.com-crowdcafe-calculator",
+ "subtitle": "ipaomtk.com | Calculator Max IPA v4.5 is a powerful and versatile digital calculator designed to meet a wide range of ma",
+ "description": "Single-app source for CalculatorMax (com.crowdcafe.calculator). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Calculator-Max.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crowdcafe.calculator",
+   "name": "CalculatorMax",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Calculator Max IPA v4.5 is a powerful and versatile digital calculator designed to meet a wide range of mathematical needs. This innovat",
+   "localizedDescription": "ipaomtk.com | Calculator Max IPA v4.5 is a powerful and versatile digital calculator designed to meet a wide range of mathematical needs. This innovat",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Calculator-Max.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5",
+     "date": "2024-10-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Calculator Max IPA v4.5 is a powerful and versatile digital calculator designed to meet a wide range of mathematical needs. This innovat",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Calculator_Max-v4.5-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

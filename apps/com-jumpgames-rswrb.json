@@ -1,0 +1,44 @@
+{
+ "name": "WRB",
+ "identifier": "dev.perapp.com-jumpgames-rswrb",
+ "subtitle": "ipaomtk.com | What is World Robot Boxing IPA? World Robot Boxing IPA is the iOS installation package of the action-packe",
+ "description": "Single-app source for WRB (com.jumpgames.rswrb). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/World-Robot-Boxing-IPA-v106.106.109-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jumpgames.rswrb",
+   "name": "WRB",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is World Robot Boxing IPA? World Robot Boxing IPA is the iOS installation package of the action-packed fighting game World Robot Bo",
+   "localizedDescription": "ipaomtk.com | What is World Robot Boxing IPA? World Robot Boxing IPA is the iOS installation package of the action-packed fighting game World Robot Bo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/World-Robot-Boxing-IPA-v106.106.109-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "104.104.154",
+     "date": "2026-03-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is World Robot Boxing IPA? World Robot Boxing IPA is the iOS installation package of the action-packed fighting game World Robot Bo",
+     "downloadURL": "https://file.ipaomtk.com/world-robot-boxing/World-Robot-Boxing-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "115.115.108",
+     "date": "2026-03-01T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is World Robot Boxing IPA? World Robot Boxing IPA is the iOS installation package of the action-packed fighting game World Robot Bo",
+     "downloadURL": "https://file.ipaomtk.com/world-robot-boxing/World-Robot-Boxing-IPAOMTK.COM.ipa",
+     "size": 1046791621
+    },
+    {
+     "version": "102.102.107",
+     "date": "2025-06-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | World Robot Boxing​ 2 IPA is‍ an exhilarating sequel in the robot fighting genre,⁣ delivering an intense boxing experience on iOS device",
+     "downloadURL": "https://file.ipaomtk.com/ipa/World_Robot_Boxing_2_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

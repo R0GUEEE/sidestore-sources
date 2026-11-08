@@ -1,0 +1,30 @@
+{
+ "name": "BigBrotherMovies",
+ "identifier": "dev.perapp.com-yunti-zzm-dxiao",
+ "subtitle": "Injected with Nothing",
+ "description": "Single-app source for BigBrotherMovies (com.yunti.zzm.dxiao). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.yunti.zzm.dxiao.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yunti.zzm.dxiao",
+   "name": "BigBrotherMovies",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing",
+   "localizedDescription": "Injected with Nothing",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.yunti.zzm.dxiao.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.0",
+     "date": "2024-08-05T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-08-05/BigBrotherMovies_4.1.0_Nothing_@repo.owo.network.ipa",
+     "size": 97558090
+    }
+   ]
+  }
+ ]
+}

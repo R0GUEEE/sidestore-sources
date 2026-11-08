@@ -1,0 +1,30 @@
+{
+ "name": "YouAreHope",
+ "identifier": "dev.perapp.com-wereviz-evolution",
+ "subtitle": "ipaomtk.com | You are Hope IPA v2.25.0 is an inspiring mobile game that combines elements of puzzle-solving and narrativ",
+ "description": "Single-app source for YouAreHope (com.wereviz.evolution). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/You-are-Hope.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wereviz.evolution",
+   "name": "YouAreHope",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | You are Hope IPA v2.25.0 is an inspiring mobile game that combines elements of puzzle-solving and narrative storytelling to create a uni",
+   "localizedDescription": "ipaomtk.com | You are Hope IPA v2.25.0 is an inspiring mobile game that combines elements of puzzle-solving and narrative storytelling to create a uni",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/You-are-Hope.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.25.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | You are Hope IPA v2.25.0 is an inspiring mobile game that combines elements of puzzle-solving and narrative storytelling to create a uni",
+     "downloadURL": "https://file.ipaomtk.com/ipa/You_are_Hope-v2.25.0-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

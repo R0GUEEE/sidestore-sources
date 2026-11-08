@@ -1,0 +1,34 @@
+{
+ "name": "Seed Seeker",
+ "identifier": "dev.perapp.dev-seedseeker-ios",
+ "subtitle": "Fast seed finder for Shattered Pixel Dungeon",
+ "description": "Single-app source for Seed Seeker (dev.seedseeker.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#386ac2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.seedseeker.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.seedseeker.ios",
+   "name": "Seed Seeker",
+   "developerName": "rat-punchers",
+   "subtitle": "Fast seed finder for Shattered Pixel Dungeon",
+   "localizedDescription": "An extremely fast seed finder for Shattered Pixel Dungeon, written in Rust — with native apps for Android, iOS, Linux, macOS, and Windows.\n\nTry it in your browser →.\n\n• ⚡️ 4.7–25.4× faster than Java seed finders on the benchmark queries.\n• 🔍 Rich queries: multiple requirements across melee and thrown weapons, armor, wands, and rings.\n• 🔗 Share links: short links to share your search.\n• 📅 Daily scouting: scout today’s UTC daily run, or choose a past or future date.\n• 🗺️ Interactive maps: explore fullscreen floors and the Imp Vault, reveal secrets, and find the Rat King.\n• 📱 Native apps Material 3, GTK 4 and libadwaita, SwiftUI, WinUI 3.\n\nhttps://github.com/user-attachments/assets/b5baa6be-b305-4d9b-bbdb-bfd1009c187e\n\nhttps://github.com/user-attachments/assets/7a4dd801-44dc-4ef1-82ce-a7911c46ecad\n\nWeb app:\n\nRun searches directly at shpd-seed-seeker.pages.dev.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.seedseeker.ios.png",
+   "tintColor": "#386ac2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.22.1",
+     "date": "2026-10-22T13:32:53Z",
+     "localizedDescription": "• Move the web app from Firebase Hosting to Cloudflare Pages.",
+     "downloadURL": "https://github.com/rat-punchers/shpd-seed-seeker/releases/download/v0.22.1/seed-seeker-v0.22.1-ios-arm64.ipa",
+     "size": 7635654
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

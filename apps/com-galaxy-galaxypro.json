@@ -1,0 +1,30 @@
+{
+ "name": "Galaxy Map PRO",
+ "identifier": "dev.perapp.com-galaxy-galaxypro",
+ "subtitle": "ipaomtk.com | In recent years, people have become increasingly interested in the concept of mapping galaxies. A galaxy m",
+ "description": "Single-app source for Galaxy Map PRO (com.galaxy.galaxypro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/galaxy-map-stars-and-planets-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.galaxy.galaxypro",
+   "name": "Galaxy Map PRO",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | In recent years, people have become increasingly interested in the concept of mapping galaxies. A galaxy map is just what it sounds like",
+   "localizedDescription": "ipaomtk.com | In recent years, people have become increasingly interested in the concept of mapping galaxies. A galaxy map is just what it sounds like",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/galaxy-map-stars-and-planets-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.3.3",
+     "date": "2023-05-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | In recent years, people have become increasingly interested in the concept of mapping galaxies. A galaxy map is just what it sounds like",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Galaxy-Map.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

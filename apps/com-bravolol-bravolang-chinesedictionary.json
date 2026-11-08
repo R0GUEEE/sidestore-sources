@@ -1,0 +1,30 @@
+{
+ "name": "UnifiedDictionary",
+ "identifier": "dev.perapp.com-bravolol-bravolang-chinesedictionary",
+ "subtitle": "UnifiedDictionary",
+ "description": "Single-app source for UnifiedDictionary (com.bravolol.bravoLang.chineseDictionary). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
+   "name": "UnifiedDictionary",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "36.5",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/UnifiedDictionary_36.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 13621823
+    }
+   ]
+  }
+ ]
+}

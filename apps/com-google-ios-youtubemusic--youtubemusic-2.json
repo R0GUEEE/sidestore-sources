@@ -1,0 +1,30 @@
+{
+ "name": "YoutubeMusic",
+ "identifier": "dev.perapp.com-google-ios-youtubemusic",
+ "subtitle": "YoutubeMusic",
+ "description": "Single-app source for YoutubeMusic (com.google.ios.youtubemusic). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtubemusic",
+   "name": "YoutubeMusic",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with YTMusicUltimate",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtubemusic.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.09.1",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with YTMusicUltimate",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/YoutubeMusic_8.09.1_YTMusicUltimate_%40thisismanpreets_apptesters.org.ipa",
+     "size": 79797435
+    }
+   ]
+  }
+ ]
+}

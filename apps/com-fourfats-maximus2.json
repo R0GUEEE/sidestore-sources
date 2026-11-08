@@ -1,0 +1,30 @@
+{
+ "name": "Maximus 2",
+ "identifier": "dev.perapp.com-fourfats-maximus2",
+ "subtitle": "ipaomtk.com | Maximus 2 IPA is an action-packed multiplayer game developed by Rinaldi Games. With a player-versus-player",
+ "description": "Single-app source for Maximus 2 (com.fourfats.maximus2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/maximus-2-fantasy-beat-em-up-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fourfats.maximus2",
+   "name": "Maximus 2",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Maximus 2 IPA is an action-packed multiplayer game developed by Rinaldi Games. With a player-versus-player and team-oriented game mechan",
+   "localizedDescription": "ipaomtk.com | Maximus 2 IPA is an action-packed multiplayer game developed by Rinaldi Games. With a player-versus-player and team-oriented game mechan",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/maximus-2-fantasy-beat-em-up-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2511.14",
+     "date": "2023-04-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Maximus 2 IPA is an action-packed multiplayer game developed by Rinaldi Games. With a player-versus-player and team-oriented game mechan",
+     "downloadURL": "https://file.ipaomtk.com/ipa/maximus2.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

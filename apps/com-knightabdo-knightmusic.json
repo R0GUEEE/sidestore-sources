@@ -1,0 +1,44 @@
+{
+ "name": "Duet",
+ "identifier": "dev.perapp.com-knightabdo-knightmusic",
+ "subtitle": "Knight Music and Streamora in one native app for iPhone and iPad",
+ "description": "Single-app source for Duet (com.knightabdo.knightmusic). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d92823",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.knightabdo.knightmusic.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.knightabdo.knightmusic",
+   "name": "Duet",
+   "developerName": "KNIGHTABDO",
+   "subtitle": "Knight Music and Streamora in one native app for iPhone and iPad",
+   "localizedDescription": "Duet is an open-source iOS and iPadOS 26 app made of two halves:\n\n• Knight Music, a native SwiftUI client for Navidrome and other OpenSubsonic servers. It has an offline-first library, beat-matched AutoMix transitions, YouTube Music next to your own songs, animated Apple Music artwork on the lock screen, song recognition, an AI music assistant, widgets and Siri.\n• Streamora, a personal movie and TV app, with its native VLC player and Google Drive sync.\n\nShake the phone to switch between them. Each side keeps its exact state while you use the other, and both share one lock screen. Because it is one app, it uses one App ID and one SideStore slot.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.knightabdo.knightmusic.png",
+   "tintColor": "#d92823",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/KNIGHTABDO/knight-music@main/docs/screenshots/ipad-home.jpg",
+    "https://cdn.jsdelivr.net/gh/KNIGHTABDO/knight-music@main/docs/screenshots/ipad-album.jpg",
+    "https://cdn.jsdelivr.net/gh/KNIGHTABDO/knight-music@main/docs/screenshots/ipad-player.jpg",
+    "https://cdn.jsdelivr.net/gh/KNIGHTABDO/knight-music@main/docs/screenshots/ipad-player-animated.jpg",
+    "https://cdn.jsdelivr.net/gh/KNIGHTABDO/knight-music@main/docs/screenshots/ipad-lockscreen.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.9.1",
+     "date": "2026-11-08T11:06:10Z",
+     "localizedDescription": "Knight Music v0.9.1.\n\n• Duet: taps on the switch prompt (Switch, X) now land on the prompt instead of the app behind it.\n\nClaude-Session: https://claude.ai/code/session_01RByzNoAcj9tcD5G4tqVzDB",
+     "downloadURL": "https://github.com/KNIGHTABDO/knight-music/releases/download/v0.9.1/KnightMusic.ipa",
+     "size": 104654603
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Knight Music connects to your Navidrome server on your local network.",
+     "NSMicrophoneUsageDescription": "Knight Music uses the microphone to recognize music playing around you and for voice requests.",
+     "NSSpeechRecognitionUsageDescription": "Knight Music uses speech recognition to convert your voice into text for Knight AI."
+    }
+   }
+  }
+ ]
+}

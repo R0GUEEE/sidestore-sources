@@ -1,0 +1,44 @@
+{
+ "name": "Jetpack",
+ "identifier": "dev.perapp.com-halfbrick-jetpack",
+ "subtitle": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Jetpack (com.halfbrick.jetpack). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.halfbrick.jetpack",
+   "name": "Jetpack",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.104.3",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Jetpack Joyride  Tweak: Free iAP  Version: 1.104.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.6 ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8701-Jetpack%20Joyride-v1.104.3-riftysipas.ipa",
+     "size": 277249175
+    },
+    {
+     "version": "1.104.2",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Jetpack Joyride  Tweak: Free iAP  Version: 1.104.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.6 ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8638-Jetpack%20Joyride-v1.104.2-riftysipas.ipa",
+     "size": 277254623
+    },
+    {
+     "version": "1.103.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Jetpack_1.103.2_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 276005940
+    }
+   ]
+  }
+ ]
+}

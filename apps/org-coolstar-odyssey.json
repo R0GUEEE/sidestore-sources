@@ -1,0 +1,30 @@
+{
+ "name": "Odyssey",
+ "identifier": "dev.perapp.org-coolstar-odyssey",
+ "subtitle": "Jailbreak iOS 13.0 - 13.7 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Odyssey (org.coolstar.odyssey). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/Odyssey.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.coolstar.odyssey",
+   "name": "Odyssey",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Jailbreak iOS 13.0 - 13.7 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Jailbreak iOS 13.0 - 13.7 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/Odyssey.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.3",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Jailbreak iOS 13.0 - 13.7 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
+     "size": 27204395
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Carista",
+ "identifier": "dev.perapp.com-unknown-carista",
+ "subtitle": "ئەپی کاریستا میکانیکی ئۆتۆمبێلی مۆبایل DIY لە کفنی دەستەکانتدایە - تایبەتمەندی کۆدکردن، دەستنیشانکردنی گڵۆپی ئاگادارکردن",
+ "description": "Single-app source for Carista (com.unknown.carista). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Carista.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.carista",
+   "name": "Carista",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپی کاریستا میکانیکی ئۆتۆمبێلی مۆبایل DIY لە کفنی دەستەکانتدایە - تایبەتمەندی کۆدکردن، دەستنیشانکردنی گڵۆپی ئاگادارکردنەوە، چاودێریکردنی داتا ڕاستەوخ",
+   "localizedDescription": "ئەپی کاریستا میکانیکی ئۆتۆمبێلی مۆبایل DIY لە کفنی دەستەکانتدایە - تایبەتمەندی کۆدکردن، دەستنیشانکردنی گڵۆپی ئاگادارکردنەوە، چاودێریکردنی داتا ڕاستەوخ",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Carista.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.1",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "ئەپی کاریستا میکانیکی ئۆتۆمبێلی مۆبایل DIY لە کفنی دەستەکانتدایە - تایبەتمەندی کۆدکردن، دەستنیشانکردنی گڵۆپی ئاگادارکردنەوە، چاودێریکردنی داتا ڕاستەوخ",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Carista.-.8.1.ipa",
+     "size": 44420000
+    }
+   ]
+  }
+ ]
+}

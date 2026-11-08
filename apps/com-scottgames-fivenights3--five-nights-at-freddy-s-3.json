@@ -1,0 +1,37 @@
+{
+ "name": "Five Nights at Freddy's 3",
+ "identifier": "dev.perapp.com-scottgames-fivenights3",
+ "subtitle": "Five Nights at Freddy's 3 - Point and click surivival horror",
+ "description": "Single-app source for Five Nights at Freddy's 3 (com.scottgames.fivenights3). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "e1fb25",
+ "iconURL": "https://cdn.omnidev.org/fivenights3-YG.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scottgames.fivenights3",
+   "name": "Five Nights at Freddy's 3",
+   "developerName": "Scott Games & Clickteam LLC",
+   "subtitle": "Five Nights at Freddy's 3 - Point and click surivival horror",
+   "localizedDescription": "Five Nights at Freddy's 3 (FNaF 3) is a 2015 point-and-click survival horror video game developed and published by Scott Cawthon. It is the third installment in the Five Nights at Freddy's series, and takes place in a horror-themed attraction based on the restaurant chain featured in the first two games.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/fivenights3-YG.png",
+   "tintColor": "e1fb25",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.3",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "NOTE: Remastered version from the PC version. A device with at least 2 GB of RAM is required for this game to run properly.\r\n\r\nThirty years after Freddy Fazbear's Pizza closed its doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of \"Fazbear's Fright: The Horror Attraction\" are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.\r\n\r\nAt first there were only empty shells, a hand, a hook, an old paper-plate doll, but then a remarkable discovery was made...\r\n\r\nThe attraction now has one animatronic.\r\n\r\nNOTE: Interface and audio in English. Subtitles ",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1742",
+     "size": 67113038
+    },
+    {
+     "version": "2.0.2",
+     "date": "2024-11-06T00:00:00Z",
+     "localizedDescription": "Five Nights at Freddy's 3 (FNaF 3) is a 2015 point-and-click survival horror video game developed and published by Scott Cawthon. It is the third installment in the Five Nights at Freddy's series, and takes place in a horror-themed attraction based on the restaurant chain featured in the first two games.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_3_v2_0_2-cs.ipa",
+     "size": 65323008
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "CodeRunner",
+ "identifier": "dev.perapp.com-markodevcic-code-runner",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for CodeRunner (com.markodevcic.code-runner). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.code-runner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.markodevcic.code-runner",
+   "name": "CodeRunner",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.code-runner.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.12",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/CodeRunner_1.5.12_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 27208556
+    },
+    {
+     "version": "1.4.4",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Create, modify, compile, and execute code in more than 30 programming languages, wherever you are. Edit files and make commits to your GitHub reposito",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CodeRunnerPro/CodeRunnerPro-1.4.4.ipa",
+     "size": 24750129
+    },
+    {
+     "version": "1.4.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Create, modify, compile, and execute code in more than 30 programming languages, wherever you are. Edit files and make commits to your GitHub reposito",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CodeRunnerPro/CodeRunnerPro-1.4.1.ipa",
+     "size": 24687298
+    }
+   ]
+  }
+ ]
+}

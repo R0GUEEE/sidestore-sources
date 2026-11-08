@@ -1,0 +1,44 @@
+{
+ "name": "Shufl FM",
+ "identifier": "dev.perapp.com-grapevine-shufl",
+ "subtitle": "@Sa1y0miii | Shufl FM - Music Player 🧸 Min.iOS: [15.1+] 🧀 App version: [1.2.1]⠀new! 🪼 App Store: https://apps.apple.com/",
+ "description": "Single-app source for Shufl FM (com.grapevine.shufl). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11308.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.grapevine.shufl",
+   "name": "Shufl FM",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | Shufl FM - Music Player 🧸 Min.iOS: [15.1+] 🧀 App version: [1.2.1]⠀new! 🪼 App Store: https://apps.apple.com/app/id6759358792 📮 Notes: Clic",
+   "localizedDescription": "@Sa1y0miii | Shufl FM - Music Player 🧸 Min.iOS: [15.1+] 🧀 App version: [1.2.1]⠀new! 🪼 App Store: https://apps.apple.com/app/id6759358792 📮 Notes: Clic",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11308.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.0",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Shufl FM - Music Player 🧸 Min.iOS: [16.4+] 🧀 App version: [1.5.0] !upd  🪼 App Store: https://apps.apple.com/app/id6759358792 📮 Notes: Cli",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15655-%E2%80%8E%20Shufl%20FM_v1.5.0_tg@Sa1y0miii.ipa",
+     "size": 27886058
+    },
+    {
+     "version": "1.4.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Shufl FM - Music Player 🧸 Min.iOS: [16.4+] 🧀 App version: [1.4.1] !upd  🪼 App Store: https://apps.apple.com/app/id6759358792 📮 Notes: Cli",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15268-%E2%80%8E%20Shufl%20FM_v1.4.1_tg@Sa1y0miii.ipa",
+     "size": 27894957
+    },
+    {
+     "version": "1.4.0",
+     "date": "2026-10-09T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Shufl FM - Music Player 🧸 Min.iOS: [15.5+] 🧀 App version: [1.4.0] !upd  🪼 App Store: https://apps.apple.com/app/id6759358792 📮 Notes: Cli",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14079-%E2%80%8E%20Shufl%20FM_v1.4.0_tg@Sa1y0miii.ipa",
+     "size": 25607077
+    }
+   ]
+  }
+ ]
+}

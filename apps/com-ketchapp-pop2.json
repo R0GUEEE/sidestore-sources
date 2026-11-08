@@ -1,0 +1,30 @@
+{
+ "name": "PoPEscape2",
+ "identifier": "dev.perapp.com-ketchapp-pop2",
+ "subtitle": "Injected with Mods",
+ "description": "Single-app source for PoPEscape2 (com.ketchapp.pop2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ketchapp.pop2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.pop2",
+   "name": "PoPEscape2",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Mods",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ketchapp.pop2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.6",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/PoPEscape2_1.4.6_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 168348159
+    }
+   ]
+  }
+ ]
+}

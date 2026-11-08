@@ -1,0 +1,37 @@
+{
+ "name": "SUMEE! Lite",
+ "identifier": "dev.perapp.getzemanicruz-sumee-lite",
+ "subtitle": "SUMEE (Lite)  ⚠️ Important Update: This repository is a refactored Lite fork of my original SUMEE! codebase. The work fo",
+ "description": "Single-app source for SUMEE! Lite (GetzemaniCruz.sumee.lite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/GetzemaniCruz.sumee.lite.png",
+ "apps": [
+  {
+   "bundleIdentifier": "GetzemaniCruz.sumee.lite",
+   "name": "SUMEE! Lite",
+   "developerName": "getzemani63",
+   "subtitle": "SUMEE (Lite)  ⚠️ Important Update: This repository is a refactored Lite fork of my original SUMEE! codebase. The work focused on reducing project size",
+   "localizedDescription": "SUMEE (Lite)  ⚠️ Important Update: This repository is a refactored Lite fork of my original SUMEE! codebase. The work focused on reducing project size\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/GetzemaniCruz.sumee.lite.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "SUMEE (Lite)  ⚠️ Important Update: This repository is a refactored Lite fork of my original SUMEE! codebase. The work focused on reducing project size",
+     "downloadURL": "https://github.com/getzemani63/sumee-lite/releases/download/v1.0.5/SUMEE.ipa",
+     "size": 161031879
+    },
+    {
+     "version": "1.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "SUMEE (Lite)  ⚠️ Important Update: This repository is a refactored Lite fork of my original SUMEE! codebase. The work focused on reducing project size",
+     "downloadURL": "https://github.com/getzemani63/sumee-lite/releases/download/v1.0.5/SUMEE.ipa",
+     "size": 161031879
+    }
+   ]
+  }
+ ]
+}

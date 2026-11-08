@@ -1,0 +1,30 @@
+{
+ "name": "OniriPremium",
+ "identifier": "dev.perapp.com-sublime-capture",
+ "subtitle": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams. Last updated: 06-23-2024 Status: ✅ ⭐",
+ "description": "Single-app source for OniriPremium (com.sublime.capture). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sublime.capture.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sublime.capture",
+   "name": "OniriPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams. Last updated: 06-23-2024 Status: ✅ ⭐",
+   "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 06-23-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sublime.capture.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.1",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams. Last updated: 06-23-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OniriPremium/OniriPremium-4.6.1.ipa",
+     "size": 86011475
+    }
+   ]
+  }
+ ]
+}

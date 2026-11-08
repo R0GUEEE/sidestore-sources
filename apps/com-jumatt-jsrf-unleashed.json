@@ -1,0 +1,34 @@
+{
+ "name": "JSRF Unleashed",
+ "identifier": "dev.perapp.com-jumatt-jsrf-unleashed",
+ "subtitle": "Jet Set Radio Future for all",
+ "description": "Single-app source for JSRF Unleashed (com.jumatt.jsrf-unleashed). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#cc5139",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jumatt.jsrf-unleashed.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jumatt.jsrf-unleashed",
+   "name": "JSRF Unleashed",
+   "developerName": "JuMatt",
+   "subtitle": "Jet Set Radio Future for all",
+   "localizedDescription": "JSRF Unleashed:\n\nJet Set Radio Future, running natively on Mac, Windows, Linux, Android, iPhone and iPad. Not an emulator — the game's own code, statically recompiled into C and built as a native application.\n\nThis project is about one game. It is not an Xbox emulator and it will not run other Xbox titles. Everything here — the graphics translation, the audio path, the file layout, the per-function fixes — is aimed at getting Jet Set Radio Future right. If you want to run Xbox games in general, you want xemu; if you want to port a different Xbox title, you want the toolkit this is built on.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jumatt.jsrf-unleashed.png",
+   "tintColor": "#cc5139",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.6.9",
+     "date": "2026-11-07T18:20:48Z",
+     "localizedDescription": "Jet Set Radio Future, natively on Mac, Windows, Linux, Android, iPhone and iPad. You need your own copy of the game (the standalone US disc): these downloads are the engine only.\n\nVibration as on the console:\n\nMost rumble never reached the controller: the two motor speeds were read from the wrong place (only the game's strong motor got through, as the light one), and their strengths were worked out differently from the Xbox, so full strength came out at half. Both are fixed — the game's rumble now arrives as the console made it.\n\nPhoto mode put right:\n\nOn Windows and Linux, Y (L on a keyboard) now hides the whole HUD, health bar included, and in widescreen the HUD sits at the screen's edges again. A spray can you had just picked up no longer stays stuck to the screen when you turn the camera.",
+     "downloadURL": "https://github.com/JuMatt/JetSetRadioFuture-Unleashed/releases/download/v0.6.9/JSRF-Unleashed-iOS.ipa",
+     "size": 13411339
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

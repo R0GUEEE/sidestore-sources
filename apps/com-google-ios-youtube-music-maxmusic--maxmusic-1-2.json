@@ -1,0 +1,30 @@
+{
+ "name": "MaxMusic (1.2)",
+ "identifier": "dev.perapp.com-google-ios-youtube-music-maxmusic",
+ "subtitle": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP +2",
+ "description": "Single-app source for MaxMusic (1.2) (com.google.ios.youtube.music.maxmusic). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.music.maxmusic",
+   "name": "MaxMusic (1.2)",
+   "developerName": "YouTube",
+   "subtitle": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP +2",
+   "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks:\nReturn-YouTube-Music-Dislikes, YTMABConfig, YouMusicPiP, VolumeBoostYT and Downloading. You can see more information about the mod at: https://github.com/Mark02-2012/YTMUltimatePLUS\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.43.2",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "Tweaks: ReturnYouTubeMusicDislikes, VolumeBoostYT, YouMusicPiP, YTMABConfig, YTMusicUltimate\n\nThis is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, YouMusicPiP…",
+     "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.43.2.ipa",
+     "size": 107825399
+    }
+   ]
+  }
+ ]
+}

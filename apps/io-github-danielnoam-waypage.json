@@ -1,0 +1,42 @@
+{
+ "name": "Waypage",
+ "identifier": "dev.perapp.io-github-danielnoam-waypage",
+ "subtitle": "Save a web page to your phone and read it with no connection: on a plane,",
+ "description": "Single-app source for Waypage (io.github.danielnoam.waypage). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4376a5",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.danielnoam.waypage.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.danielnoam.waypage",
+   "name": "Waypage",
+   "developerName": "danielnoam",
+   "subtitle": "Save a web page to your phone and read it with no connection: on a plane,",
+   "localizedDescription": "Waypage:\n\nSave a web page to your phone and read it with no connection: on a plane, in a tunnel, anywhere. The text is kept whole, pictures keep a small preview with a link to the full size, and videos keep a thumbnail that plays when you're back online. Every clip links back to the original.\n\nPlain HTML, CSS and JS with no build step and no dependencies. The same files run in a browser (the web copy on GitHub Pages) and, wrapped by Capacitor, as the Android and iOS apps.\n\nEach section below shows the computer (left) and the phone (right).\n\nLibrary:\n\n• Continue reading at the top, then Collections, then Clips.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.danielnoam.waypage.png",
+   "tintColor": "#4376a5",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/danielnoam/waypage@main/docs/shots/library-phone.jpg",
+    "https://cdn.jsdelivr.net/gh/danielnoam/waypage@main/docs/shots/sidebar-phone.jpg",
+    "https://cdn.jsdelivr.net/gh/danielnoam/waypage@main/docs/shots/collections-phone.jpg",
+    "https://cdn.jsdelivr.net/gh/danielnoam/waypage@main/docs/shots/saving-phone.jpg",
+    "https://cdn.jsdelivr.net/gh/danielnoam/waypage@main/docs/shots/reader-phone.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.54.0",
+     "date": "2026-11-07T19:44:25Z",
+     "localizedDescription": "Added:\n\n• Collections: ⋯ › Cover sets a collection's cover, from a picture of your own or one of its clips' pictures, or back to Automatic. It syncs and goes in backups with the collection.\n\n• Discover › Sites: SpaceBattles and Sufficient Velocity, their fiction boards by latest, new, most replies or most viewed. A story saves as a collection of its threadmarked chapters.\n• Saving: a SpaceBattles, Sufficient Velocity or Questionable Questing thread saves its threadmarks as chapters, each chapter its own post with next and previous.\n\n• Saving: Lemmy posts (any server), Substack posts (on their own domains too) and LessWrong, EA Forum and Alignment Forum posts save with their comments as a tree.\n\n• Discover: 25 more feeds (long reads, science, programming, fiction magazines, comics, world news, Hebrew news) and 3 more newsletters.\n• Discover: PC Gamer and Mako (Hebrew news) feeds.\n\n• Settings › Credits: sherpa-onnx, Kokoro and the Piper voices.\n\nChanged:\n\n• A collection's page shows its first clip's picture as its cover when it has no other, as its tile in the library already did.\n\nFixed:\n\n• Opening the app no longer shows Paper for a moment and then eases across to your theme: the first frame is already in your theme. On Android the window behind the page, the status and navigation bar icons, and (with the phone in dark mode) the splash follow it too.\n• The top bar no longer shifts on start: Search and Sync are in place from the first frame instead of arriving with the clips.\n• \"Opening your library\" shows only when opening really takes a while (half a second), so a quick start doesn't flash it.\n\nInstalling: open this page on your phone, tap Waypage.apk, and allow your browser to install apps the first time it asks. Updates install over the top and keep your data.\n\niPhone: Waypage.ipa is added here a few minutes later. It's unsigned: install it with AltStore or SideStore, which sign it with your own Apple ID.",
+     "downloadURL": "https://github.com/danielnoam/waypage/releases/download/app-v1.54.0/Waypage.ipa",
+     "size": 10741860
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Waypage uses the camera to read the sync setup code from your other device."
+    }
+   }
+  }
+ ]
+}

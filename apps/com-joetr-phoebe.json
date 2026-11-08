@@ -1,0 +1,46 @@
+{
+ "name": "Phoebe",
+ "identifier": "dev.perapp.com-joetr-phoebe",
+ "subtitle": "Phoebe is a Compose Multiplatform music player for Plex, Jellyfin, Emby, Subsonic-compatible servers (Navidrome, etc.), ",
+ "description": "Single-app source for Phoebe (com.joetr.phoebe). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6d60d3",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.joetr.phoebe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.joetr.phoebe",
+   "name": "Phoebe",
+   "developerName": "j-roskopf",
+   "subtitle": "Phoebe is a Compose Multiplatform music player for Plex, Jellyfin, Emby, Subsonic-compatible servers (Navidrome, etc.), Music Assistant, local folders, Android, iOS, desktop (JVM), and the browser (Ko",
+   "localizedDescription": "Phoebe:\n\nPhoebe is a Compose Multiplatform music player for Plex, Jellyfin, Emby, Subsonic-compatible servers (Navidrome, etc.), Music Assistant, local folders, Android, iOS, desktop (JVM), and the browser (Kotlin/Wasm).\n\nMusic providers:\n\nPhoebe can sign in to one remote music source at a time (plus optional local folders). Catalog IDs are prefixed (plex:, jellyfin:, emby:, navidrome:, music-assistant:) so items from different backends can be merged with local files in search and the library.\n\nSupport policy: Plex is the primary, best-tested integration. Jellyfin, Emby, Subsonic (Navidrome), and Music Assistant support also work, but are not my main hosting providers, so they get tested less frequently.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.joetr.phoebe.png",
+   "tintColor": "#6d60d3",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/j-roskopf/Phoebe@main/composeApp/src/screenshotTest/roborazzi/android-phone-home-expanded-dark.png",
+    "https://cdn.jsdelivr.net/gh/j-roskopf/Phoebe@main/composeApp/src/screenshotTest/roborazzi/android-phone-search-light.png",
+    "https://cdn.jsdelivr.net/gh/j-roskopf/Phoebe@main/composeApp/src/screenshotTest/roborazzi/android-phone-player-dark.png"
+   ],
+   "versions": [
+    {
+     "version": "2026.1108.0016",
+     "date": "2026-11-08T00:33:14Z",
+     "localizedDescription": "• Adopt untracked connected Cast session when opening device picker.",
+     "downloadURL": "https://github.com/j-roskopf/Phoebe/releases/download/release/2026.1108.0016/Phoebe-2026.1108.0016.ipa",
+     "size": 35939831
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.carplay-audio",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Phoebe uses the local network to discover and connect to Chromecast devices and other Phoebe players on your Wi-Fi network."
+    }
+   }
+  }
+ ]
+}

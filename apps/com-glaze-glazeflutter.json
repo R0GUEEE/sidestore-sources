@@ -1,0 +1,37 @@
+{
+ "name": "Glaze",
+ "identifier": "dev.perapp.com-glaze-glazeflutter",
+ "subtitle": "Glaze is a local, novice-friendly AI roleplay chat client for mobile devices. Works with any OpenAI-compatible (Chat Com",
+ "description": "Single-app source for Glaze (com.glaze.glazeFlutter). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b8465a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.glaze.glazeFlutter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.glaze.glazeFlutter",
+   "name": "Glaze",
+   "developerName": "hydall",
+   "subtitle": "Glaze is a local, novice-friendly AI roleplay chat client for mobile devices. Works with any OpenAI-compatible (Chat Completion) LLM provider",
+   "localizedDescription": "Glaze:\n\nGlaze is a local, user-friendly AI roleplay chat client. It works with any OpenAI-compatible (Chat Completion) LLM provider, and keeps your data on your own device.\n\nGlaze is still under heavy development. The app is not yet stable and may contain bugs.\n\n🧪 Disclaimer: This app was vibecoded using a plethora of models. Curb your expectations.\n\n✨ Key Features:\n\n• Native Reasoning Model Support — No complex regex needed. Native reasoning is properly parsed and injected into a separate block that is not sent back to the model. If your preset has its own reasoning tags, Glaze can parse those too.\n• Customizable Theming — Change colors, fonts, and background images, then export your theme as a JSON file to share with others. Material 3 throughout, with separate desktop and mobile layouts.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.glaze.glazeFlutter.png",
+   "tintColor": "#b8465a",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.0",
+     "date": "2026-10-18T16:26:13Z",
+     "localizedDescription": "Changes:\n\n• Revert \"feat(summary): compact old history into summary blocks by context fill (#730)\".\n• Revert \"feat(summary): system and user turns, names, a fuller prompt, one shortening pass (#736)\".\n• Revert \"feat(summary): pick retell and merge prompts from presets, as Memory Books (#739)\".\n\n• feat(summary): pick retell and merge prompts from presets, as Memory Books (#739).\n• feat(summary): system and user turns, names, a fuller prompt, one shortening pass (#736).\n\nAndroid:\n\n• v0.9.0.apk — universal, runs on any phone (32- and 64-bit).\n• v0.9.0-arm64-v8a.apk / v0.9.0-armeabi-v7a.apk — smaller, pick your device's ABI.",
+     "downloadURL": "https://github.com/hydall/Glaze/releases/download/v0.9.0/v0.9.0.ipa",
+     "size": 26201637
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "Glaze saves chat images to your photo library.",
+     "NSPhotoLibraryUsageDescription": "Glaze needs access to your photo library to import character card images."
+    }
+   }
+  }
+ ]
+}

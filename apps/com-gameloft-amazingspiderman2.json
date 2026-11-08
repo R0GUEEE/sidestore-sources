@@ -1,0 +1,41 @@
+{
+ "name": "AmazingSpiderMan2",
+ "identifier": "dev.perapp.com-gameloft-amazingspiderman2",
+ "subtitle": "Patches The Amazing Spider-Man 2 (iOS 1.3.1) to launch, play and save entirely offline, years after Gameloft's servers w",
+ "description": "Single-app source for AmazingSpiderMan2 (com.gameloft.AmazingSpiderMan2). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#c14074",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.gameloft.AmazingSpiderMan2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gameloft.AmazingSpiderMan2",
+   "name": "AmazingSpiderMan2",
+   "developerName": "Jonathan8520",
+   "subtitle": "Patches The Amazing Spider-Man 2 (iOS 1.3.1) to launch, play and save entirely offline, years after Gameloft's servers went dark. Nine arm64 instructions, no injected code, no size change",
+   "localizedDescription": "TASM2 offline patch — The Amazing Spider-Man 2 (iOS 1.3.1):\n\nGameloft's servers for The Amazing Spider-Man 2 have been dead since ~2018, and the iOS build hangs forever on “Downloading profile”. This patches the game so it launches, plays and saves entirely offline.\n\nNine instructions, all in the arm64 slice, every one derived from the disassembly and verified on the binary that actually ships. No new save format, no injected code, no size change.\n\nConfirmed on device (LiveContainer, iOS): a continuous playthrough through the prologue, all of chapter 1 and into chapter 2, with the app force-quit several times along the way. Settings, trophies, exploration, skills, position, tutorial state and the story cursor all survive.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.gameloft.AmazingSpiderMan2.png",
+   "tintColor": "#c14074",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Jonathan8520/patch-tasm2@main/docs/home-menu-chapter-2.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.3.1",
+     "date": "2026-07-30T07:51:53Z",
+     "localizedDescription": "The Amazing Spider-Man 2 (1.3.1) — patched to launch, play and save entirely offline, after Gameloft shut down its servers.\n\nNine instructions in the arm64 slice, all derived from the disassembly and re-verified on the binary in this IPA. No size change, no injected code.\n\nExtra patch flags for this build: --fail-network --kill-spinner (empty means the nine shipped edits and nothing else).\n\nConfirmed on device: a continuous playthrough through the prologue, all of chapter 1 and into chapter 2, with the app force-quit several times. Settings, trophies, exploration, skills, position, tutorial state and the story cursor all survive.\n\n• Signature stripped — re-sign with LiveContainer / SideStore / Sideloadly.\n• Install fresh rather than over the top: LiveContainer converts the executable at install time, and replacing a binary inside an installed .app produces cannot dlopen a main executable.\n• Built by the Patch TASM2 IPA workflow (run #37).\n\nSee the README for what works, what does not, and how each edit was arrived at.",
+     "downloadURL": "https://github.com/Jonathan8520/patch-tasm2/releases/download/v1.0/SpiderMan2_patched.ipa",
+     "size": 769110891
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCalendarsUsageDescription": "Adding events",
+     "NSCameraUsageDescription": "Adding events",
+     "NSMotionUsageDescription": "Adding events",
+     "NSPhotoLibraryUsageDescription": "Adding events"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Musly",
+ "identifier": "dev.perapp.com-dddevid-musly",
+ "subtitle": "Musly - Universal Music Streaming Player & Client:  Musly is a free, modern, and elegant music player and streaming clie",
+ "description": "Single-app source for Musly (com.dddevid.musly). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.dddevid.musly.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dddevid.musly",
+   "name": "Musly",
+   "developerName": "dddevid",
+   "subtitle": "Musly - Universal Music Streaming Player & Client:  Musly is a free, modern, and elegant music player and streaming client. Stream your self-hosted mu",
+   "localizedDescription": "Musly - Universal Music Streaming Player & Client:  Musly is a free, modern, and elegant music player and streaming client. Stream your self-hosted mu\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.dddevid.musly.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.3",
+     "date": "2026-10-19T00:00:00Z",
+     "localizedDescription": "Musly is a free Navidrome client and Subsonic music player with an Apple Music-inspired interface. Stream your self-hosted library from Navidrome, Sub",
+     "downloadURL": "https://github.com/dddevid/Musly/releases/download/v2.0.3/musly-ios.ipa",
+     "size": 14317899
+    },
+    {
+     "version": "2.0.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Musly - Universal Music Streaming Player & Client:  Musly is a free, modern, and elegant music player and streaming client. Stream your self-hosted mu",
+     "downloadURL": "https://github.com/dddevid/Musly/releases/download/v2.0.2/musly-ios.ipa",
+     "size": 13928367
+    }
+   ]
+  }
+ ]
+}

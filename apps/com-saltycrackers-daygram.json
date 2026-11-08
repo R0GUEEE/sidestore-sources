@@ -1,0 +1,30 @@
+{
+ "name": "Daygram",
+ "identifier": "dev.perapp.com-saltycrackers-daygram",
+ "subtitle": "Daygram",
+ "description": "Single-app source for Daygram (com.saltycrackers.daygram). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.saltycrackers.daygram.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.saltycrackers.daygram",
+   "name": "Daygram",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.saltycrackers.daygram.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.4",
+     "date": "2026-01-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-01-2026/Daygram_5.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 29237974
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "InjectionIPA_v5.0",
+ "identifier": "dev.perapp.injectiondylibtoipa-sniper",
+ "subtitle": "Dylib injector tool",
+ "description": "Single-app source for InjectionIPA_v5.0 (injectionDylibToIpa.Sniper). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/InjectionIPA_v5.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "injectionDylibToIpa.Sniper",
+   "name": "InjectionIPA_v5.0",
+   "developerName": "InjectionIPA_v5.0 x CyPwn",
+   "subtitle": "Dylib injector tool",
+   "localizedDescription": "Dylib injector tool",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/InjectionIPA_v5.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Dylib injector tool",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/InjectionIPA_v5.0.ipa",
+     "size": 4424990
+    }
+   ]
+  }
+ ]
+}

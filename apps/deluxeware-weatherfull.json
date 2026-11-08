@@ -1,0 +1,30 @@
+{
+ "name": "Weather Now",
+ "identifier": "dev.perapp.deluxeware-weatherfull",
+ "subtitle": "ipaomtk.com | WEATHER NOW IPA staying updated with the weather forecast is essential. Whether you are planning a weekend",
+ "description": "Single-app source for Weather Now (deluxeware.WeatherFull). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/weather-now-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "deluxeware.WeatherFull",
+   "name": "Weather Now",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | WEATHER NOW IPA staying updated with the weather forecast is essential. Whether you are planning a weekend getaway or simply want to kno",
+   "localizedDescription": "ipaomtk.com | WEATHER NOW IPA staying updated with the weather forecast is essential. Whether you are planning a weekend getaway or simply want to kno",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/weather-now-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.11.1",
+     "date": "2023-05-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | WEATHER NOW IPA staying updated with the weather forecast is essential. Whether you are planning a weekend getaway or simply want to kno",
+     "downloadURL": "https://file.ipaomtk.com/ipa/WEATHER-NOW.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

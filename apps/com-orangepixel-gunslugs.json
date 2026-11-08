@@ -1,0 +1,30 @@
+{
+ "name": "Gunslugs",
+ "identifier": "dev.perapp.com-orangepixel-gunslugs",
+ "subtitle": "ipaomtk.com | Gunslugs on iOS brings classic arcade-style action to iPhone with fast-paced run-and-gun gameplay inspired",
+ "description": "Single-app source for Gunslugs (com.orangepixel.gunslugs). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Gunslugs-IPA-v3.3.4-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.orangepixel.gunslugs",
+   "name": "Gunslugs",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Gunslugs on iOS brings classic arcade-style action to iPhone with fast-paced run-and-gun gameplay inspired by old-school action games. P",
+   "localizedDescription": "ipaomtk.com | Gunslugs on iOS brings classic arcade-style action to iPhone with fast-paced run-and-gun gameplay inspired by old-school action games. P",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Gunslugs-IPA-v3.3.4-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.3",
+     "date": "2026-02-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Gunslugs on iOS brings classic arcade-style action to iPhone with fast-paced run-and-gun gameplay inspired by old-school action games. P",
+     "downloadURL": "https://file.ipaomtk.com/Gunslugs/Gunslugs-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

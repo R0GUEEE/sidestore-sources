@@ -1,0 +1,30 @@
+{
+ "name": "Solstice",
+ "identifier": "dev.perapp.net-flist-solstice",
+ "subtitle": "Mobile variant of Horizon.",
+ "description": "Single-app source for Solstice (net.flist.solstice). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/net.flist.solstice.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.flist.solstice",
+   "name": "Solstice",
+   "developerName": "Fchat-Horizon",
+   "subtitle": "Mobile variant of Horizon.",
+   "localizedDescription": "Mobile variant of Horizon.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/net.flist.solstice.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.10.0.71",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Mobile variant of Horizon.",
+     "downloadURL": "https://github.com/Fchat-Horizon/Solstice/releases/download/v2026.10.0/Solstice-2026.10.0.ipa",
+     "size": 18005672
+    }
+   ]
+  }
+ ]
+}

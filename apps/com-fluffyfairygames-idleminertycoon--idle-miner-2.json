@@ -1,0 +1,30 @@
+{
+ "name": "Idle Miner",
+ "identifier": "dev.perapp.com-fluffyfairygames-idleminertycoon",
+ "subtitle": "Idle Miner by Kolibri Games GmbH",
+ "description": "Single-app source for Idle Miner (com.fluffyfairygames.idleminertycoon). Converted from riftys.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/6e/bb/706ebb57-a0ff-462b-7e05-35d4ecd90802/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
+   "name": "Idle Miner",
+   "developerName": "Kolibri Games GmbH",
+   "subtitle": "",
+   "localizedDescription": "Get updated version from zx's AIO repo.",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/6e/bb/706ebb57-a0ff-462b-7e05-35d4ecd90802/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.95.0",
+     "date": "2025-02-08T00:00:00Z",
+     "localizedDescription": "Get updated version from zx's AIO repo.",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a5c47272bfaf8448c01f1d",
+     "size": 141291462
+    }
+   ]
+  }
+ ]
+}

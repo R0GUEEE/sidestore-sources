@@ -1,0 +1,30 @@
+{
+ "name": "HijriCalendarWidget - IPAOMTK",
+ "identifier": "dev.perapp.ra-hijricalendarwidget",
+ "subtitle": "ipaomtk.com | The Hijri Calendar, also known as the Islamic Calendar or the Lunar Calendar, is a time-keeping system use",
+ "description": "Single-app source for HijriCalendarWidget - IPAOMTK (ra.HijriCalendarWidget). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Hijri-Cal-IPA-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "ra.HijriCalendarWidget",
+   "name": "HijriCalendarWidget - IPAOMTK",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Hijri Calendar, also known as the Islamic Calendar or the Lunar Calendar, is a time-keeping system used by Muslims worldwide to dete",
+   "localizedDescription": "ipaomtk.com | The Hijri Calendar, also known as the Islamic Calendar or the Lunar Calendar, is a time-keeping system used by Muslims worldwide to dete",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Hijri-Cal-IPA-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1",
+     "date": "2024-09-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Hijri Calendar, also known as the Islamic Calendar or the Lunar Calendar, is a time-keeping system used by Muslims worldwide to dete",
+     "downloadURL": "https://file.ipaomtk.com/ipa/HijriCalendarWidget-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

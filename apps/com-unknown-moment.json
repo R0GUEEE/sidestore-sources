@@ -1,0 +1,30 @@
+{
+ "name": "Moment",
+ "identifier": "dev.perapp.com-unknown-moment",
+ "subtitle": "داواکاری بۆ فۆتۆگرافی پرۆفیشناڵ 📷",
+ "description": "Single-app source for Moment (com.unknown.moment). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Moment.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.moment",
+   "name": "Moment",
+   "developerName": "Karbin-Store",
+   "subtitle": "داواکاری بۆ فۆتۆگرافی پرۆفیشناڵ 📷",
+   "localizedDescription": "داواکاری بۆ فۆتۆگرافی پرۆفیشناڵ 📷",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Moment.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.8.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "داواکاری بۆ فۆتۆگرافی پرۆفیشناڵ 📷",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/Moment_5.8.1_3BodSy.ipa",
+     "size": 66320000
+    }
+   ]
+  }
+ ]
+}

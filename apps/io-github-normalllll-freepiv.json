@@ -1,0 +1,42 @@
+{
+ "name": "freepiv",
+ "identifier": "dev.perapp.io-github-normalllll-freepiv",
+ "subtitle": "A cross-platform third-party Pixiv app for Android, iOS, macOS, Windows, and Linux",
+ "description": "Single-app source for freepiv (io.github.normalllll.freepiv). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f172a9",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.normalllll.freepiv.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.normalllll.freepiv",
+   "name": "freepiv",
+   "developerName": "normalllll",
+   "subtitle": "A cross-platform third-party Pixiv app for Android, iOS, macOS, Windows, and Linux",
+   "localizedDescription": "freepiv:\n\nAn open-source, cross-platform Pixiv browser with FANBOX and pixivision.\n\nBrowse illustrations and manga, read novels and articles, follow creators, and download artwork on Android, Windows, Linux, macOS, and iOS.\n\nFeatures:\n\n• Pixiv browsing: Recommendations, rankings, followed creators' updates, illustrations, manga, animated artwork, and novels.\n• Search and discovery: Search works and users, filter results, browse tags, and revisit recent searches.\n• Your library: Follow creators, bookmark works, and browse your account's collections.\n\n• pixivision: Discover articles by category, tag, or keyword, explore popular articles, and open featured works and creators in the app.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.normalllll.freepiv.png",
+   "tintColor": "#f172a9",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/normalllll/freepiv@main/screenshots/mobile/img0.webp",
+    "https://cdn.jsdelivr.net/gh/normalllll/freepiv@main/screenshots/mobile/img1.webp",
+    "https://cdn.jsdelivr.net/gh/normalllll/freepiv@main/screenshots/mobile/img2.webp",
+    "https://cdn.jsdelivr.net/gh/normalllll/freepiv@main/screenshots/mobile/img3.webp"
+   ],
+   "versions": [
+    {
+     "version": "0.2.0",
+     "date": "2026-10-07T17:03:32Z",
+     "localizedDescription": "What's New:\n\n• Redesigned interface: A new glass-style design with floating surfaces, spring animations, and artwork transitions across Pixiv, FANBOX, and pixivision.\n• Appearance settings: Choose neutral, cool, or warm tones; customize light and dark accent colors separately; and enable Reduce transparency for solid surfaces.\n• Search filters: Filter illustrations and manga by work type, shape, minimum size, and drawing tool. Search novels by tags, exact tags, body text, or keywords.\n• Popular previews: View a single batch of up to 30 popular works in search results. Work type, shape, size, and tool filters do not apply to this preview.\n• Novel reader: Added overlay controls, adjustable automatic scrolling, and optional volume-key navigation on Android.\n\nImprovements:\n\n• Search, FANBOX, and pixivision tabs now switch within the same page and retain their content. Tabbed pages also support mouse-drag navigation.\n\n• Windows window titles now reflect the current page, artwork, or image being viewed.\n\nFixes:\n\n• Fixed artwork flashing when completing a swipe-back gesture.\n• Fixed layout shifts when opening the keyboard, missing titles in Android sidebar layouts, and duplicate Android clipboard notifications.\n\n• Fixed image-loading errors not reaching retry handling, and corrected pixivision image placeholders and loading layouts.\n• Fixed embedded artwork images missing from novel image galleries.\n• Fixed an iOS Rust compilation failure caused by incompatible backtrace and libc dependencies.\n\nMaintenance:\n\n• Updated Flutter, Rust, Android build tools, and application dependencies.\n• Moved shared interface components into frost_ui for consistent styling and behavior.",
+     "downloadURL": "https://github.com/normalllll/freepiv/releases/download/v0.2.0%2B6/ios-nosigned.ipa",
+     "size": 23457959
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "freepiv saves downloaded images to your photo library.",
+     "NSPhotoLibraryUsageDescription": "freepiv saves downloaded images to your photo library on older iOS versions."
+    }
+   }
+  }
+ ]
+}

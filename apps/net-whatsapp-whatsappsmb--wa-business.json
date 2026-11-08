@@ -1,0 +1,44 @@
+{
+ "name": "WA Business",
+ "identifier": "dev.perapp.net-whatsapp-whatsappsmb",
+ "subtitle": "@compiledipas | WGoldPlus (WGold 2.3) WhatsAppSMB v26.30.78   Included tweaks: WGold 2.3 (by @alibusut) WATranslator 2.1",
+ "description": "Single-app source for WA Business (net.whatsapp.WhatsAppSMB). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1313.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+   "name": "WA Business",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | WGoldPlus (WGold 2.3) WhatsAppSMB v26.30.78   Included tweaks: WGold 2.3 (by @alibusut) WATranslator 2.1 (by @n9ipa) WAFonts v2.0.0 (b",
+   "localizedDescription": "@compiledipas | WGoldPlus (WGold 2.3) WhatsAppSMB v26.30.78   Included tweaks: WGold 2.3 (by @alibusut) WATranslator 2.1 (by @n9ipa) WAFonts v2.0.0 (b",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1313.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.43.75",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@compiledipas | WGoldPlus (WGold 3.7) WhatsAppSMB and WhatsApp v26.43.75   Included tweaks: WGold 3.7 (by @alibusut) WATranslator 2.1 (by @n9ipa) WAFo",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1699-%E2%80%8EWA%20Business_26.43.75_WGoldPlus.ipa",
+     "size": 184578356
+    },
+    {
+     "version": "26.42.77",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@compiledipas | WGoldPlus (WGold 3.7) WhatsAppSMB v26.42.77   Included tweaks: WGold 3.7 (by @alibusut) WATranslator 2.1 (by @n9ipa) WAFonts v2.0.0 (b",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1693-%E2%80%8EWA%20Business_26.42.77_WGoldPlus%283.7%29.ipa",
+     "size": 185031453
+    },
+    {
+     "version": "26.41.75",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "This version has original WhatsApp Business bundle ID.  Watusi is your all-in-one tweak for WhatsApp Messenger.",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196679-8ueg6/net.whatsapp.WhatsAppSMB_26.41.75_watusi3_1.3.28_sl.ipa",
+     "size": 187050481
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "pokerecomp",
+ "identifier": "dev.perapp.io-github-decryptu-pokerecomp",
+ "subtitle": "A native Godot 4 reimplementation of the Gen 1 and 2 Game Boy Color games. Not an emulator, bring your own ROM",
+ "description": "Single-app source for pokerecomp (io.github.decryptu.pokerecomp). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#bf6887",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.decryptu.pokerecomp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.decryptu.pokerecomp",
+   "name": "pokerecomp",
+   "developerName": "Decryptu",
+   "subtitle": "A native Godot 4 reimplementation of the Gen 1 and 2 Game Boy Color games. Not an emulator, bring your own ROM",
+   "localizedDescription": "A native Godot 4 reimplementation of the Game Boy Pokémon games. Gold, Silver, Crystal, Red, Blue and Yellow are playable from the bedroom to the Hall of Fame and their own credits. It is written from scratch in GDScript, not an emulator, static recompilation or disassembly. A user-supplied cartridge dump is SHA-1 verified, decoded once into a cache, then released. No game data ships here: bring your own ROM.\n\nDownload:\n\none file per platform. sha256sums.txt covers every one of them.\n\nNothing is signed with a paid certificate, so each platform asks once:\n\n• Windows: More info, then Run anyway.\n• macOS: right-click the app, Open, then Open again.\n• Linux: chmod +x the file, then run it.\n• Android: allow installing from this source.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.decryptu.pokerecomp.png",
+   "tintColor": "#bf6887",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Decryptu/pokerecomp@main/assets/brand/launcher.webp"
+   ],
+   "versions": [
+    {
+     "version": "0.1.87",
+     "date": "2026-11-06T09:03:45Z",
+     "localizedDescription": "Added:\n\n• Experimental Generation 3 script execution and field integration: NPC dialogue, signs, coordinate triggers, scripted movement, object locks and ordinary map warps. Generation 3 is still not playable.\n\nUpdating this release:\n\n• No reimport is needed. Saves are preserved.\n\nWhich file:\n\nEvery download is one file. sha256sums.txt covers all of them.\n\nFirst launch:\n\n• Windows may show a blue \"Windows protected your PC\" box, because the build is not signed by a paid certificate. Click More info, then Run anyway.\n• macOS: the app is ad-hoc signed and not notarized, so double-clicking it is refused. Right-click the app, choose Open, then Open again. Only the first launch needs this.\n• Linux: chmod +x pokerecomp-0.1.87-linux-x86_64 and run it.\n• Android: your phone will ask you to allow installing from this source.\n• Switch: extract the zip at the root of your microSD, so the file lands at switch/pokerecomp.nro, and launch pokerecomp from the homebrew menu. It needs a console that already runs homebrew; nothing here installs one.\n\nUpdating:\n\nThe launcher's about page tells you when a newer release exists. It does not install it: download the new file and replace the old one. Your saves are kept separately and survive it, on every platform.",
+     "downloadURL": "https://github.com/Decryptu/pokerecomp/releases/download/v0.1.87/pokerecomp-0.1.87-ios.ipa",
+     "size": 26463227
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

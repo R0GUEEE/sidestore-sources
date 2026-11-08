@@ -1,0 +1,30 @@
+{
+ "name": "Simply HDR",
+ "identifier": "dev.perapp.com-jixipix-simplyhdr",
+ "subtitle": "ipaomtk.com | The Simply HDR IPA v3.1008 is a user-friendly tool designed for photography enthusiasts who want to enhanc",
+ "description": "Single-app source for Simply HDR (com.jixipix.SimplyHDR). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Simply-HDR.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jixipix.SimplyHDR",
+   "name": "Simply HDR",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Simply HDR IPA v3.1008 is a user-friendly tool designed for photography enthusiasts who want to enhance their images through high dy",
+   "localizedDescription": "ipaomtk.com | The Simply HDR IPA v3.1008 is a user-friendly tool designed for photography enthusiasts who want to enhance their images through high dy",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Simply-HDR.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1008",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Simply HDR IPA v3.1008 is a user-friendly tool designed for photography enthusiasts who want to enhance their images through high dy",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Simply_HDR-v3.1008-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

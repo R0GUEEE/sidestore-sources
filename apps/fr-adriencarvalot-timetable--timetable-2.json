@@ -1,0 +1,44 @@
+{
+ "name": "Timetable",
+ "identifier": "dev.perapp.fr-adriencarvalot-timetable",
+ "subtitle": "Timetable",
+ "description": "Single-app source for Timetable (fr.adriencarvalot.Timetable). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fr.adriencarvalot.Timetable.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fr.adriencarvalot.Timetable",
+   "name": "Timetable",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fr.adriencarvalot.Timetable.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.0",
+     "date": "2026-07-15T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2235",
+     "size": 174000384
+    },
+    {
+     "version": "1.6.4",
+     "date": "2025-08-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/Timetable_1.6.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 40423142
+    },
+    {
+     "version": "2.6.4",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyTimetablePremium/MyTimetablePremium-2.6.4.ipa",
+     "size": 204385158
+    }
+   ]
+  }
+ ]
+}

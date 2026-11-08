@@ -1,0 +1,30 @@
+{
+ "name": "Store Manager Simualtor",
+ "identifier": "dev.perapp.synthetic-store-manager-simualtor-1ef5f7c3",
+ "subtitle": "Store Manager Simualtor by Karbin-Store",
+ "description": "Single-app source for Store Manager Simualtor (synthetic.store-manager-simualtor.1ef5f7c3). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Store.Manager.Simualtor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.store-manager-simualtor.1ef5f7c3",
+   "name": "Store Manager Simualtor",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Hack Feature ( Turn on from the menu )",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Store.Manager.Simualtor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.28",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "Hack Feature ( Turn on from the menu )",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Store.Manager.Simulator.v1.0.59_BabyloniPA.ipa",
+     "size": 94550000
+    }
+   ]
+  }
+ ]
+}

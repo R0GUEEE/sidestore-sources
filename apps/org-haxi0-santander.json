@@ -1,0 +1,30 @@
+{
+ "name": "Santander (MDC)",
+ "identifier": "dev.perapp.org-haxi0-santander",
+ "subtitle": "A new, enhanced File Manager for iOS devices with the MDC exploit (IOS 14.0 - 16.1.2) for full file access.  Santander a",
+ "description": "Single-app source for Santander (MDC) (org.haxi0.santander). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.appdb.to/images/cydia-1900001066-icon-1673074358.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.haxi0.santander",
+   "name": "Santander (MDC)",
+   "developerName": "haxi0",
+   "subtitle": "A new, enhanced File Manager for iOS devices with the MDC exploit (IOS 14.0 - 16.1.2) for full file access.  Santander aims to enhance the experience ",
+   "localizedDescription": "A new, enhanced File Manager for iOS devices with the MDC exploit (IOS 14.0 - 16.1.2) for full file access.  Santander aims to enhance the experience ",
+   "iconURL": "https://static.appdb.to/images/cydia-1900001066-icon-1673074358.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4",
+     "date": "2023-02-10T00:00:00Z",
+     "localizedDescription": "A new, enhanced File Manager for iOS devices with the MDC exploit (IOS 14.0 - 16.1.2) for full file access.  Santander aims to enhance the experience ",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Santander.MDC.v0.4.ipa",
+     "size": 4540000
+    }
+   ]
+  }
+ ]
+}

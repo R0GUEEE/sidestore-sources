@@ -1,0 +1,30 @@
+{
+ "name": "Retouch",
+ "identifier": "dev.perapp.com-advasoft-touchretouch",
+ "subtitle": "ipaomtk.com | Introduction TouchRetouch IPA is a powerful iOS photo editing application designed to help users remove un",
+ "description": "Single-app source for Retouch (com.advasoft.touchretouch). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/TouchRetouch-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.advasoft.touchretouch",
+   "name": "Retouch",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction TouchRetouch IPA is a powerful iOS photo editing application designed to help users remove unwanted objects, blemishes, and",
+   "localizedDescription": "ipaomtk.com | Introduction TouchRetouch IPA is a powerful iOS photo editing application designed to help users remove unwanted objects, blemishes, and",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/TouchRetouch-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.3",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction TouchRetouch IPA is a powerful iOS photo editing application designed to help users remove unwanted objects, blemishes, and",
+     "downloadURL": "https://file.ipaomtk.com/TouchRetouch/Retouch_5.5.3-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

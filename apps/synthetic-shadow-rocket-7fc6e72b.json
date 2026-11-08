@@ -1,0 +1,30 @@
+{
+ "name": "Shadow Rocket",
+ "identifier": "dev.perapp.synthetic-shadow-rocket-7fc6e72b",
+ "subtitle": "Shadow Rocket by Karbin-Store",
+ "description": "Single-app source for Shadow Rocket (synthetic.shadow-rocket.7fc6e72b). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Shadowrocket.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.shadow-rocket.7fc6e72b",
+   "name": "Shadow Rocket",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Active Premium",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Shadowrocket.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.61",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Active Premium",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/ShadowRocket.2.2.61.ipa",
+     "size": 17670000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Clarity",
+ "identifier": "dev.perapp.com-unknown-clarity",
+ "subtitle": "کردنەوەی تایبەتمەندیە پڕۆکان ✅   بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+ "description": "Single-app source for Clarity (com.unknown.clarity). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Clarity.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.clarity",
+   "name": "Clarity",
+   "developerName": "Karbin-Store",
+   "subtitle": "کردنەوەی تایبەتمەندیە پڕۆکان ✅   بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+   "localizedDescription": "کردنەوەی تایبەتمەندیە پڕۆکان ✅   بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Clarity.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.84",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "کردنەوەی تایبەتمەندیە پڕۆکان ✅   بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Clarity._5.4.84.ipa",
+     "size": 120010000
+    },
+    {
+     "version": "5.4.79",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "جميع الميزات مفتوحة ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Clarity.ipa",
+     "size": 167210000
+    },
+    {
+     "version": "7.5.6",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Tweaks: liby\n\nجميع الميزات مفتوحة ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Clarity.ipa",
+     "size": 116561118
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "WebSSH",
+ "identifier": "dev.perapp.com-itimeteo-webssh",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for WebSSH (com.itimeteo.webssh). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.itimeteo.webssh",
+   "name": "WebSSH",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itimeteo.webssh.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "30.4",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-10-2025/WebSSH_30.4_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 55575088
+    },
+    {
+     "version": "30.3",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/09-10-2025/WebSSH_30.3_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 55573532
+    },
+    {
+     "version": "30.1",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/04-10-2025/WebSSH_30.1_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 55573064
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Toko",
+ "identifier": "dev.perapp.com-tokoinc-tokotutor",
+ "subtitle": "ipaomtk.com | What is Toko: Speak English with AI IPA? Toko: Speak English with AI IPA is the iOS installation package f",
+ "description": "Single-app source for Toko (com.tokoinc.tokotutor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Toko-Speak-English-with-AI-IPA-v1.1.931-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tokoinc.tokotutor",
+   "name": "Toko",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Toko: Speak English with AI IPA? Toko: Speak English with AI IPA is the iOS installation package for the Toko language learning ",
+   "localizedDescription": "ipaomtk.com | What is Toko: Speak English with AI IPA? Toko: Speak English with AI IPA is the iOS installation package for the Toko language learning ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Toko-Speak-English-with-AI-IPA-v1.1.931-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.930",
+     "date": "2026-03-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Toko: Speak English with AI IPA? Toko: Speak English with AI IPA is the iOS installation package for the Toko language learning ",
+     "downloadURL": "https://file.ipaomtk.com/toko-speak-english-with-ai/Toko-Speak-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.0.85",
+     "date": "2026-03-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Toko: Speak English with AI IPA? Toko: Speak English with AI IPA is the iOS installation package for the Toko language learning ",
+     "downloadURL": "https://file.ipaomtk.com/toko-speak-english-with-ai/Toko-Speak-IPAOMTK.COM.ipa",
+     "size": 51168988
+    }
+   ]
+  }
+ ]
+}

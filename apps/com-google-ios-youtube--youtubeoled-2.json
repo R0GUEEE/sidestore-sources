@@ -1,0 +1,30 @@
+{
+ "name": "YoutubeOled",
+ "identifier": "dev.perapp.com-google-ios-youtube",
+ "subtitle": "YoutubeOled",
+ "description": "Single-app source for YoutubeOled (com.google.ios.youtube). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube",
+   "name": "YoutubeOled",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with OLED",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20.09.3",
+     "date": "2025-03-04T00:00:00Z",
+     "localizedDescription": "Injected with OLED",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/YoutubeOled_20.09.3_OLED_%40thisismanpreets_apptesters.org.ipa",
+     "size": 117985366
+    }
+   ]
+  }
+ ]
+}

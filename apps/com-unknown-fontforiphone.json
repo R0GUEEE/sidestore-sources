@@ -1,0 +1,30 @@
+{
+ "name": "Font For iPhone",
+ "identifier": "dev.perapp.com-unknown-fontforiphone",
+ "subtitle": "ئامادەبە بۆ بەهاراتکردنی سۆشیال میدیاکەت هی خۆت بە فۆنتەکانی سەرسوڕهێنەر کە بە ئاسانی کاردەکات لەسەر هەموو ئەپلیکەیشنەکا",
+ "description": "Single-app source for Font For iPhone (com.unknown.fontforiphone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/Font.For.iPhone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.fontforiphone",
+   "name": "Font For iPhone",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئامادەبە بۆ بەهاراتکردنی سۆشیال میدیاکەت هی خۆت بە فۆنتەکانی سەرسوڕهێنەر کە بە ئاسانی کاردەکات لەسەر هەموو ئەپلیکەیشنەکانت. خوازراو!  هەروەها ڕاستەوخۆ",
+   "localizedDescription": "ئامادەبە بۆ بەهاراتکردنی سۆشیال میدیاکەت هی خۆت بە فۆنتەکانی سەرسوڕهێنەر کە بە ئاسانی کاردەکات لەسەر هەموو ئەپلیکەیشنەکانت. خوازراو!  هەروەها ڕاستەوخۆ",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/Font.For.iPhone.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.15",
+     "date": "2025-01-16T00:00:00Z",
+     "localizedDescription": "ئامادەبە بۆ بەهاراتکردنی سۆشیال میدیاکەت هی خۆت بە فۆنتەکانی سەرسوڕهێنەر کە بە ئاسانی کاردەکات لەسەر هەموو ئەپلیکەیشنەکانت. خوازراو!  هەروەها ڕاستەوخۆ",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-spa-1/Font.For.iPhone.1.4.15.ipa",
+     "size": 48480000
+    }
+   ]
+  }
+ ]
+}

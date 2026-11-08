@@ -1,0 +1,44 @@
+{
+ "name": "UTM",
+ "identifier": "dev.perapp.com-osy86-utm",
+ "subtitle": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your i",
+ "description": "Single-app source for UTM (com.osy86.UTM). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://bunduuk.github.io/altstore-source/img/UTM/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.osy86.UTM",
+   "name": "UTM",
+   "developerName": "osy",
+   "subtitle": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. More informati",
+   "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. More informati",
+   "iconURL": "https://bunduuk.github.io/altstore-source/img/UTM/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0-rc3",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. More informati",
+     "downloadURL": "https://github.com/utmapp/UTM/releases/download/v1.0-rc3/UTM.ipa",
+     "size": 127016960
+    },
+    {
+     "version": "0.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.  Features: 30+",
+     "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.1/UTM.ipa",
+     "size": 124967347
+    },
+    {
+     "version": "1.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad.  Features: 30+",
+     "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.1/UTM.ipa",
+     "size": 124967347
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "RisuNest",
+ "identifier": "dev.perapp.io-github-rsyumi-risunest",
+ "subtitle": "Native AI roleplay chat app for desktop and mobile, forked from RisuAI",
+ "description": "Single-app source for RisuNest (io.github.rsyumi.risunest). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#449be1",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.rsyumi.risunest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.rsyumi.risunest",
+   "name": "RisuNest",
+   "developerName": "rsyumi",
+   "subtitle": "Native AI roleplay chat app for desktop and mobile, forked from RisuAI",
+   "localizedDescription": "Introduction:\n\nRisuNest is an independent community project unaffiliated with the upstream RisuAI developer and is not officially approved or endorsed by RisuAI.\n\nDownloads:\n\n• iOS builds are distributed as unsigned IPAs and must be sideloaded using tools such as AltStore or Sideloadly.\n• To build from source yourself, see Building from Source.\n\nAdd to AppDB.\n\nBuild Integrity & Security:\n\n• Never install or run builds from untrusted sources.\n\nKey Features:\n\n• Multi-Device Sync: Share your library across devices through RisuNest Sync.\n• Cloud Storage: Back up and restore your data with WebDAV, S3, or Google Drive.\n• Desktop and Mobile: Use the app on Windows, macOS, Linux, Android, and iOS.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.rsyumi.risunest.png",
+   "tintColor": "#449be1",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2026-11-05T20:40:31Z",
+     "localizedDescription": "New Features:\n\n• Applied RisuAI v2026.10.292 changes.\n• Added database compaction (reclaims unused SQLite space).\n\nImprovements:\n\n• Changed module imports to leave out MCP settings.\n• Allowed plugins to replace other plugins after user confirmation.\n• Changed startup text to appear in the device language.\n• Allowed plugins to convert to WebP even in environments that do not support WebP conversion.\n• Improved restore and storage performance.\n• Improved error messages and logging.\n\nFixes:\n\n• Fixed some API requests, such as Anthropic, being rejected.\n• Fixed responses, Lua buttons, and similar work stopping after leaving the app on Android.\n• Fixed Google Translate failing with error 429 in some environments.\n• Fixed storage growing continuously when plugins repeatedly saved large data.\n• Fixed permanent character deletion failing or being reported as failed.\n• Fixed RisuAI/PocketRisu compatible exports failing with some settings.\n• Fixed some RisuAI modules failing to import.\n• Fixed lorebooks and persona descriptions loaded from Lua not reflecting changed variables.\n\n• Fixed the code block menu being hidden behind pop-up windows.\n\n• RisuAI v2026.10.292 변경 사항 반영.",
+     "downloadURL": "https://github.com/rsyumi/RisuNest/releases/download/app-v1.3.0/RisuNest-1.3.0-ios-aarch64-unsigned.ipa",
+     "size": 78597800
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Scan a QR code you choose to connect RisuNest.",
+     "NSFaceIDUsageDescription": "RisuNest uses Face ID to unlock the app.",
+     "NSLocalNetworkUsageDescription": "Connect to a local AI provider or RisuNest sync server that you choose."
+    }
+   }
+  }
+ ]
+}

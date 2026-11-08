@@ -1,0 +1,37 @@
+{
+ "name": "HelloTown",
+ "identifier": "dev.perapp.com-spcomes-hellotown",
+ "subtitle": "ipaomtk.com | Hello Town IPA (Diamonds – Gold – Energy Freeze) iOS, In a world⁢ of mobile gaming that is increasingly sa",
+ "description": "Single-app source for HelloTown (com.spcomes.hellotown). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Hello-Town-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spcomes.hellotown",
+   "name": "HelloTown",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Hello Town IPA (Diamonds – Gold – Energy Freeze) iOS, In a world⁢ of mobile gaming that is increasingly saturated with complex mechanics",
+   "localizedDescription": "ipaomtk.com | Hello Town IPA (Diamonds – Gold – Energy Freeze) iOS, In a world⁢ of mobile gaming that is increasingly saturated with complex mechanics",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Hello-Town-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2",
+     "date": "2025-01-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Hello Town IPA (Diamonds – Gold – Energy Freeze) iOS, In a world⁢ of mobile gaming that is increasingly saturated with complex mechanics",
+     "downloadURL": "https://file.ipaomtk.com/Hello%20Town/Hello-Town-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "8.1",
+     "date": "2025-01-27T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Hello Town IPA (Diamonds – Gold – Energy Freeze) iOS, In a world⁢ of mobile gaming that is increasingly saturated with complex mechanics",
+     "downloadURL": "https://file.ipaomtk.com/Hello%20Town/Hello-Town-IPAOMTK.COM.ipa",
+     "size": 231779996
+    }
+   ]
+  }
+ ]
+}

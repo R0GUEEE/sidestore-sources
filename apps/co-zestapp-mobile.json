@@ -1,0 +1,30 @@
+{
+ "name": "Zest",
+ "identifier": "dev.perapp.co-zestapp-mobile",
+ "subtitle": "Zest",
+ "description": "Single-app source for Zest (co.zestapp.mobile). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.zestapp.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.zestapp.mobile",
+   "name": "Zest",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.zestapp.mobile.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.7.0",
+     "date": "2025-11-16T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2025/Zest_8.7.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 45919943
+    }
+   ]
+  }
+ ]
+}

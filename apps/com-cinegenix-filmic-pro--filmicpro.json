@@ -1,0 +1,44 @@
+{
+ "name": "FilmicPro",
+ "identifier": "dev.perapp.com-cinegenix-filmic-pro",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for FilmicPro (com.cinegenix.filmic.pro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cinegenix.filmic.pro",
+   "name": "FilmicPro",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cinegenix.filmic.pro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.5.35",
+     "date": "2026-09-09T00:00:00Z",
+     "localizedDescription": "@blatants | Filmic Pro－Video Camera  • Bundle ID: com.cinegenix.filmic.pro • Updated to: 7.5.35 • Minimum iOS: 14.1 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12069-Filmic_Pro%EF%BC%8DVideo_Camera_v7_5_35_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 147305157
+    },
+    {
+     "version": "7.5.28",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/08-08-2025/FilmicPro_7.5.28_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 143516895
+    },
+    {
+     "version": "7.5.29",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-09-2025/FilmicPro_7.5.29_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 143154751
+    }
+   ]
+  }
+ ]
+}

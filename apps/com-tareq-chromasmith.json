@@ -1,0 +1,43 @@
+{
+ "name": "Chromasmith",
+ "identifier": "dev.perapp.com-tareq-chromasmith",
+ "subtitle": "Chromasmith — free, offline photo editor with 133 film looks, grain, halation and RAW development. Mac, Windows, iOS, An",
+ "description": "Single-app source for Chromasmith (com.tareq.chromasmith). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e4492d",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tareq.chromasmith.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tareq.chromasmith",
+   "name": "Chromasmith",
+   "developerName": "TareqAmeer",
+   "subtitle": "Chromasmith — free, offline photo editor with 133 film looks, grain, halation and RAW development. Mac, Windows, iOS, Android and web",
+   "localizedDescription": "Gallery. Studio. Film Lab.\n\nyour photos. your workflow. your app.\n\nMake a look in a click or take control of every detail. Chromasmith is a free photo studio with 133 calibrated film looks, real grain, halation and bloom, RAW development, masks and retouching, a local photo library and full-resolution export — running entirely on your own device. No account, no upload, no subscription. The web version is a single HTML file with no build step and no server behind it.\n\nA gallery for every shoot:\n\nFaces, pets, favourites and keywords are found for you, on your own machine. Click a photo to preview it, or try a filter.\n\nA studio for every frame:\n\nSix tools, one editor: pick a look, shape the light and colour, add texture, then crop and frame for output.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tareq.chromasmith.png",
+   "tintColor": "#e4492d",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/TareqAmeer/Chroma-App@main/site/assets/story/main6-1600.webp",
+    "https://cdn.jsdelivr.net/gh/TareqAmeer/Chroma-App@main/site/assets/story/main1-1600.webp",
+    "https://cdn.jsdelivr.net/gh/TareqAmeer/Chroma-App@main/site/assets/story/main2-1600.webp",
+    "https://cdn.jsdelivr.net/gh/TareqAmeer/Chroma-App@main/site/assets/story/main3-1600.webp",
+    "https://cdn.jsdelivr.net/gh/TareqAmeer/Chroma-App@main/site/assets/story/main4-1600.webp"
+   ],
+   "versions": [
+    {
+     "version": "1.2.11",
+     "date": "2026-10-07T14:21:11Z",
+     "localizedDescription": "macOS:\n\n• Drag Chromasmith into your Applications folder.\n• Right-click the app and choose Open, then Open again.\n\nmacOS asks that once because the app is not signed with a paid Apple developer certificate. After the first launch it opens normally.\n\nIntel build. On an Apple Silicon Mac it runs under Rosetta 2 — macOS offers to install that automatically the first time. This is because the bundled ONNX Runtime has no Apple Silicon build at the pinned version.\n\nWindows:\n\n• Windows SmartScreen will warn the app is from an \"unknown publisher\" — click More info, then Run anyway. This is because the installer is not code-signed (no paid certificate). It's the same trust gap as macOS's Gatekeeper warning above, just a different OS's version of \"the author isn't a company Microsoft/Apple has vetted.\".\n• The installer registers Chromasmith as a handler for TIFF/JPEG/PNG/RW2 files and for Adobe's OAuth sign-in redirect, so double-clicking a photo or signing in to Adobe from within the app both work immediately.\n\nBundled on-device AI models keep their own licences, two of which are non-commercial/research — see.\n\nA SHA-256 checksum file is published next to each installer. It can detect an incomplete or corrupted download, but does not authenticate the publisher. See the.",
+     "downloadURL": "https://github.com/TareqAmeer/Chroma-App/releases/download/v1.2.11/Chromasmith.ipa",
+     "size": 41579319
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "Chromasmith saves exported copies to your photo library when you choose Photos.",
+     "NSPhotoLibraryUsageDescription": "Chromasmith imports your photos and can save a non-destructive edit back to the selected original in Photos."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "iDOS",
+ "identifier": "dev.perapp.com-litchie-idosgames",
+ "subtitle": "Play classic DOS games on your iPhone and iPad!  iDOS turns your device right into a powerful DOS gaming PC, with modern",
+ "description": "Single-app source for iDOS (com.litchie.idosgames). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/Yah6zFk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.litchie.idosgames",
+   "name": "iDOS",
+   "developerName": "litchie",
+   "subtitle": "Play classic DOS games on your iPhone and iPad!  iDOS turns your device right into a powerful DOS gaming PC, with modern game control to make your old",
+   "localizedDescription": "Play classic DOS games on your iPhone and iPad!  iDOS turns your device right into a powerful DOS gaming PC, with modern game control to make your old",
+   "iconURL": "https://i.imgur.com/Yah6zFk.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Play classic DOS games on your iPhone and iPad!  iDOS turns your device right into a powerful DOS gaming PC, with modern game control to make your old",
+     "downloadURL": "https://github.com/litchie/dospad/releases/download/2.1/iDOS.ipa",
+     "size": 5704322
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "tech.miidii.MDBlank",
+ "identifier": "dev.perapp.tech-miidii-mdblank",
+ "subtitle": "tech.miidii.MDBlank",
+ "description": "Single-app source for tech.miidii.MDBlank (tech.miidii.MDBlank). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tech.miidii.MDBlank",
+   "name": "tech.miidii.MDBlank",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.7",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/_4.3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 245259265
+    },
+    {
+     "version": "20.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/_20.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 263988651
+    },
+    {
+     "version": "7.28.5",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "Injected with VIP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/_7.28.5_VIP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 214336750
+    }
+   ]
+  }
+ ]
+}

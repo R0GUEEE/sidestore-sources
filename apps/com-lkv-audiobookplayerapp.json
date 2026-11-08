@@ -1,0 +1,30 @@
+{
+ "name": "Book Player",
+ "identifier": "dev.perapp.com-lkv-audiobookplayerapp",
+ "subtitle": "Book Player",
+ "description": "Single-app source for Book Player (com.lkv.audiobookplayerapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/6b/27/f66b2708-b13d-e2c0-3bb9-557f0a0f9393/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lkv.audiobookplayerapp",
+   "name": "Book Player",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: BookPlayer: MP3/M4B/M4A/MP4\n\nTweak: Premium Unlocked\n\nVersion: 1.8.0\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/6b/27/f66b2708-b13d-e2c0-3bb9-557f0a0f9393/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: BookPlayer: MP3/M4B/M4A/MP4\n\nTweak: Premium Unlocked\n\nVersion: 1.8.0\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/2dacec94-cb58-4c31-b0a9-766769a3efec/MP4-v1.8.0-riftysipas.ipa",
+     "size": 33169025
+    }
+   ]
+  }
+ ]
+}

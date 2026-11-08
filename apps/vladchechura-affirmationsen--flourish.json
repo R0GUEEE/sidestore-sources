@@ -1,0 +1,44 @@
+{
+ "name": "Flourish",
+ "identifier": "dev.perapp.vladchechura-affirmationsen",
+ "subtitle": "Flourish",
+ "description": "Single-app source for Flourish (vladchechura.AffirmationsEN). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/4d2c24f1-453d-4168-8422-d1be6405fa1a/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "vladchechura.AffirmationsEN",
+   "name": "Flourish",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flourish - Daily Affirmations\n\nTweak: Subscription Unlocked\n\nVersion: 1.8.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/4d2c24f1-453d-4168-8422-d1be6405fa1a/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.4",
+     "date": "2026-09-15T00:00:00Z",
+     "localizedDescription": "Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2406",
+     "size": 70848266
+    },
+    {
+     "version": "1.8.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flourish - Daily Affirmations\n\nTweak: Subscription Unlocked\n\nVersion: 1.8.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/8a5fe6e7-b144-4ae6-b69f-2595f1074f0e/Flourish_-_Daily_Affirmations-v1.8.1-riftysipas.ipa",
+     "size": 95677017
+    },
+    {
+     "version": "1.8.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flourish - Daily Affirmations\n\nTweak: Subscription Unlocked\n\nVersion: 1.8.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/cbcaa6f4-2833-44b0-9cc6-f27070bd3a08/Flourish_-_Daily_Affirmations-v1.8.0-riftysipas.ipa",
+     "size": 95631315
+    }
+   ]
+  }
+ ]
+}

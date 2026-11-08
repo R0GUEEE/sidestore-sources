@@ -1,0 +1,30 @@
+{
+ "name": "AngryBirds2",
+ "identifier": "dev.perapp.com-rovio-baba",
+ "subtitle": "AngryBirds2",
+ "description": "Single-app source for AngryBirds2 (com.rovio.baba). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rovio.baba.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rovio.baba",
+   "name": "AngryBirds2",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with InfiniteCurrencies",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rovio.baba.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.26.4",
+     "date": "2024-12-08T00:00:00Z",
+     "localizedDescription": "Injected with InfiniteCurrencies",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-12-2024/AngryBirds2_3.26.4_InfiniteCurrencies_%40thisismanpreets_apptesters.org.ipa",
+     "size": 442985496
+    }
+   ]
+  }
+ ]
+}

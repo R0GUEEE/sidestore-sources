@@ -1,0 +1,30 @@
+{
+ "name": "Goodnotes6",
+ "identifier": "dev.perapp.com-goodnotesapp-x",
+ "subtitle": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This shou",
+ "description": "Single-app source for Goodnotes6 (com.goodnotesapp.x). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.goodnotesapp.x",
+   "name": "Goodnotes6",
+   "developerName": "ipalibrary.me / riadipa / Lãng Khách🇻🇳 / binnichtaktiv's iPA Library",
+   "subtitle": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download…",
+   "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download problems and grant access to server-sided features like AI-based mathematics, etc..\nLast updated: 08-08-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodnotesapp.x.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.3.61",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Note: Begin by installing it from the App Store, log in, then proceed to force install the TrollStore version. This should resolve any download…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Goodnotes6/Goodnotes6-6.3.61.ipa",
+     "size": 361517135
+    }
+   ]
+  }
+ ]
+}

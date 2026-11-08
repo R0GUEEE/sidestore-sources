@@ -1,0 +1,30 @@
+{
+ "name": "RPGViewer",
+ "identifier": "dev.perapp.ld-fkapp-mveditor",
+ "subtitle": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for RPGViewer (ld.fkapp.mveditor). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/54/5e/bc545ea3-3c0a-bbb8-4f62-e3987c709008/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ld.fkapp.mveditor",
+   "name": "RPGViewer",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/54/5e/bc545ea3-3c0a-bbb8-4f62-e3987c709008/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/RPGViewer_1.8_TTJB.ipa",
+     "size": 30645388
+    }
+   ]
+  }
+ ]
+}

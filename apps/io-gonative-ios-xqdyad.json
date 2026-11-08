@@ -1,0 +1,30 @@
+{
+ "name": "Gizmo",
+ "identifier": "dev.perapp.io-gonative-ios-xqdyad",
+ "subtitle": "Gizmo",
+ "description": "Single-app source for Gizmo (io.gonative.ios.xqdyad). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.gonative.ios.xqdyad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.gonative.ios.xqdyad",
+   "name": "Gizmo",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.gonative.ios.xqdyad.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.47",
+     "date": "2025-11-06T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2025/Gizmo_2.0.47_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 34218064
+    }
+   ]
+  }
+ ]
+}

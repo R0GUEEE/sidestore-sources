@@ -1,0 +1,30 @@
+{
+ "name": "KineMaster",
+ "identifier": "dev.perapp.com-unknown-kinemaster",
+ "subtitle": "تایبەتمەندیە پارەکان کراونەتۆ",
+ "description": "Single-app source for KineMaster (com.unknown.kinemaster). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/kara-img-socil/kinemaster.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.kinemaster",
+   "name": "KineMaster",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندیە پارەکان کراونەتۆ",
+   "localizedDescription": "تایبەتمەندیە پارەکان کراونەتۆ",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/kara-img-socil/kinemaster.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.5.9",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "تایبەتمەندیە پارەکان کراونەتۆ",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/karbin-ipa-socil2/KineMaster.-._7.5.9_1738739488.ipa",
+     "size": 103220000
+    }
+   ]
+  }
+ ]
+}

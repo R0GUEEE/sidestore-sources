@@ -1,0 +1,44 @@
+{
+ "name": "dp",
+ "identifier": "dev.perapp.au-com-michaeltigas-minios",
+ "subtitle": "@riftysIPAlibrary | Dumb Phone (dp)  Tweak: Pro Unlocked  Version: 1.12.0  Patched ✓  @riftysIPAlibrary  Additional Info",
+ "description": "Single-app source for dp (au.com.michaeltigas.MiniOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7078.png",
+ "apps": [
+  {
+   "bundleIdentifier": "au.com.michaeltigas.MiniOS",
+   "name": "dp",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Dumb Phone (dp)  Tweak: Pro Unlocked  Version: 1.12.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+   "localizedDescription": "@riftysIPAlibrary | Dumb Phone (dp)  Tweak: Pro Unlocked  Version: 1.12.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7078.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15.3",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Dumb Phone (dp)  Tweak: Pro Unlocked  Version: 1.15.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8739-Dumb%20Phone%20%28dp%29-v1.15.3-riftysipas.ipa",
+     "size": 309020145
+    },
+    {
+     "version": "1.15.2",
+     "date": "2026-10-18T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Dumb Phone (dp)  Tweak: Pro Unlocked  Version: 1.15.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8416-Dumb%20Phone%20%28dp%29-v1.15.2-riftysipas.ipa",
+     "size": 308999884
+    },
+    {
+     "version": "1.15.0",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Dumb Phone (dp)  Tweak: Pro Unlocked  Version: 1.15.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8357-Dumb%20Phone%20%28dp%29-v1.15.0-riftysipas.ipa",
+     "size": 308979329
+    }
+   ]
+  }
+ ]
+}

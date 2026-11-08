@@ -1,0 +1,30 @@
+{
+ "name": "Kryptos",
+ "identifier": "dev.perapp.com-kryptos-app",
+ "subtitle": "Kryptos:  Kryptos is an iOS and Android application that allows you to encrypt messages in regular messengers. It also w",
+ "description": "Single-app source for Kryptos (com.kryptos.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.kryptos.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kryptos.app",
+   "name": "Kryptos",
+   "developerName": "swisslite",
+   "subtitle": "Kryptos:  Kryptos is an iOS and Android application that allows you to encrypt messages in regular messengers. It also works with messengers where end",
+   "localizedDescription": "Kryptos:  Kryptos is an iOS and Android application that allows you to encrypt messages in regular messengers. It also works with messengers where end\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.kryptos.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Kryptos:  Kryptos is an iOS and Android application that allows you to encrypt messages in regular messengers. It also works with messengers where end",
+     "downloadURL": "https://github.com/swisslite/Kryptos/releases/download/v2.4/Kryptos.ipa",
+     "size": 27159680
+    }
+   ]
+  }
+ ]
+}

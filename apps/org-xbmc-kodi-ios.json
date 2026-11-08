@@ -1,0 +1,30 @@
+{
+ "name": "Kodi",
+ "identifier": "dev.perapp.org-xbmc-kodi-ios",
+ "subtitle": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 an",
+ "description": "Single-app source for Kodi (org.xbmc.kodi-ios). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.xbmc.kodi-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.xbmc.kodi-ios",
+   "name": "Kodi",
+   "developerName": "ArianaMinajj",
+   "subtitle": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates…",
+   "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates requires iOS 16.6 and up. Refer to this issue for more informations.\nLast updated: 04-07-2024\nStatus: ❔\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.xbmc.kodi-ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Multi-featured media player/streamer. Note: Version 18.9 is the last version that will work with TrollStore on iOS 15 and below, new updates…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Kodi/Kodi-21.1.ipa",
+     "size": 145936557
+    }
+   ]
+  }
+ ]
+}

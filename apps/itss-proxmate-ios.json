@@ -1,0 +1,30 @@
+{
+ "name": "ProxMate",
+ "identifier": "dev.perapp.itss-proxmate-ios",
+ "subtitle": "ipaomtk.com | What is APP or Game Name IPA? An IPA file is the iOS installation format used to manually install applicat",
+ "description": "Single-app source for ProxMate (itss.proxmate.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/ProxMate-IPA-v2.14.1-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "itss.proxmate.ios",
+   "name": "ProxMate",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is APP or Game Name IPA? An IPA file is the iOS installation format used to manually install applications on iPhone and iPad device",
+   "localizedDescription": "ipaomtk.com | What is APP or Game Name IPA? An IPA file is the iOS installation format used to manually install applications on iPhone and iPad device",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/ProxMate-IPA-v2.14.1-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.1",
+     "date": "2026-04-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is APP or Game Name IPA? An IPA file is the iOS installation format used to manually install applications on iPhone and iPad device",
+     "downloadURL": "https://file.ipaomtk.com/proxmate/ProxMate-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

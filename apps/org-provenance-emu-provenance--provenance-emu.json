@@ -1,0 +1,44 @@
+{
+ "name": "Provenance Emu",
+ "identifier": "dev.perapp.org-provenance-emu-provenance",
+ "subtitle": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems.",
+ "description": "Single-app source for Provenance Emu (org.provenance-emu.provenance). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.omnidev.org/Iv0_D_Ty_QA_400x400-20.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.provenance-emu.provenance",
+   "name": "Provenance Emu",
+   "developerName": "Joe Mattiello",
+   "subtitle": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will cras",
+   "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will cras",
+   "iconURL": "https://cdn.omnidev.org/Iv0_D_Ty_QA_400x400-20.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Provenance:  The best free, open-source iOS game emulator for iPhone, iPad, and Apple TV. Play retro games from 50+ classic consoles — no jailbreak re",
+     "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.3.0/Provenance-3.3.0-iOS.ipa",
+     "size": 1076407494
+    },
+    {
+     "version": "6.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will cras",
+     "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
+     "size": 59768832
+    },
+    {
+     "version": "2.2.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "iOS & tvOS multi-emulator frontend, supporting various Atari, Bandai, NEC, Nintendo, Sega, SNK and Sony console systems. JIT Required or app will cras",
+     "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/2.2.0/Provenance.ipa",
+     "size": 33978209
+    }
+   ]
+  }
+ ]
+}

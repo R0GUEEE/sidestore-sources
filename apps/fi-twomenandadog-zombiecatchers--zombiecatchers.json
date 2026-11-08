@@ -1,0 +1,44 @@
+{
+ "name": "ZombieCatchers",
+ "identifier": "dev.perapp.fi-twomenandadog-zombiecatchers",
+ "subtitle": "Injected with IGG",
+ "description": "Single-app source for ZombieCatchers (fi.twomenandadog.zombiecatchers). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+   "name": "ZombieCatchers",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IGG",
+   "localizedDescription": "Injected with IGG",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.59.31",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-12-2025/ZombieCatchers_1.59.31_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 109903803
+    },
+    {
+     "version": "1.58.7",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/16-12-2025/ZombieCatchers_1.58.7_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 107889020
+    },
+    {
+     "version": "1.65.26",
+     "date": "2026-05-13T00:00:00Z",
+     "localizedDescription": "Injected with IGG",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/ZombieCatchers_1.65.26_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 110484622
+    }
+   ]
+  }
+ ]
+}

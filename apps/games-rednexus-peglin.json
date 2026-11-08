@@ -1,0 +1,30 @@
+{
+ "name": "Peglin",
+ "identifier": "dev.perapp.games-rednexus-peglin",
+ "subtitle": "ipaomtk.com | Peglin IPA MOD iOS, mobile applications have become an integral part of our lives. Whether it’s for entert",
+ "description": "Single-app source for Peglin (games.rednexus.peglin). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Peglin-A-Pachinko-Roguelike-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "games.rednexus.peglin",
+   "name": "Peglin",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Peglin IPA MOD iOS, mobile applications have become an integral part of our lives. Whether it’s for entertainment, productivity, or comm",
+   "localizedDescription": "ipaomtk.com | Peglin IPA MOD iOS, mobile applications have become an integral part of our lives. Whether it’s for entertainment, productivity, or comm",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Peglin-A-Pachinko-Roguelike-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.25",
+     "date": "2024-04-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Peglin IPA MOD iOS, mobile applications have become an integral part of our lives. Whether it’s for entertainment, productivity, or comm",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Peglin.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

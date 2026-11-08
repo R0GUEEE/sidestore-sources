@@ -1,0 +1,41 @@
+{
+ "name": "Voxline",
+ "identifier": "dev.perapp.dev-voxline-ios",
+ "subtitle": "Native subtitle transcription, translation, and proofreading for macOS and iOS",
+ "description": "Single-app source for Voxline (dev.voxline.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#52b1f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.voxline.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.voxline.ios",
+   "name": "Voxline",
+   "developerName": "yamakze",
+   "subtitle": "Native subtitle transcription, translation, and proofreading for macOS and iOS",
+   "localizedDescription": "Voxline:\n\nSubtitle transcription, translation, and proofreading workstation for macOS and iOS.\n\nNative SwiftUI · WhisperKit · Apple Translation · Hard & Soft Subtitle Export · iCloud Sync.\n\nOverview:\n\nVoxline is a subtitle tool built natively with SwiftUI, focused on Apple native texture and system-level capabilities.\n\nIt supports a complete end-to-end on-device processing workflow: local media import, on-device WhisperKit Core ML speech recognition, Apple native offline translation, synchronized bilingual proofreading, and native subtitle/video packaging and export.\n\nFeatures:\n\n• 📂 Batch Media Pipeline — Multi-file local media queue (MP4, MOV, M4V, M4A, MP3, WAV); automatically inspects container formats, durations, file sizes, and audio tracks.\n• 🎙️ On-Device WhisperKit Transcription — Native integration of WhisperKit with Core ML hardware acceleration, supporting Tiny, Base, Small, Large v3, and Turbo models.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.voxline.ios.png",
+   "tintColor": "#52b1f6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/yamakze/Voxline@master/docs/screenshots/screenshot-tasks.png",
+    "https://cdn.jsdelivr.net/gh/yamakze/Voxline@master/docs/screenshots/screenshot-config.png",
+    "https://cdn.jsdelivr.net/gh/yamakze/Voxline@master/docs/screenshots/screenshot-proofreading.png",
+    "https://cdn.jsdelivr.net/gh/yamakze/Voxline@master/docs/screenshots/screenshot-burnin.png"
+   ],
+   "versions": [
+    {
+     "version": "1.2.1",
+     "date": "2026-11-02T02:13:03Z",
+     "localizedDescription": "Fixed:\n\n• Retry malformed or truncated translation responses once, then split a failing batch into smaller, independently validated batches. Completed batches are saved so retrying only processes unfinished subtitles.\n• Fixed sandbox permission errors when exporting videos with embedded or burned-in subtitles by staging output in a system-provided replacement directory.\n\nDownloads:\n\n• macOS 15+: Voxline-1.2.1.zip (x86_64 arm64; ad-hoc signed; not notarized).\n• iOS / iPadOS 18+: Voxline-iOS-1.2.1.ipa (unsigned; sign with AltStore, SideStore or Xcode).\n\nKeep the same signing account and Bundle ID when reinstalling the IPA to preserve app data.",
+     "downloadURL": "https://github.com/yamakze/Voxline/releases/download/v1.2.1/Voxline-iOS-1.2.1.ipa",
+     "size": 6565337
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "连接你配置的本地字幕翻译服务。"
+    }
+   }
+  }
+ ]
+}

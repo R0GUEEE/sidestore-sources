@@ -1,0 +1,30 @@
+{
+ "name": "SixPack Premium",
+ "identifier": "dev.perapp.synthetic-sixpack-premium-60225b1f",
+ "subtitle": "SixPack Premium by Karbin-Store",
+ "description": "Single-app source for SixPack Premium (synthetic.sixpack-premium.60225b1f). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/SixPack.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.sixpack-premium.60225b1f",
+   "name": "SixPack Premium",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "لەڕێ ئەم بەرنامەوە لە کەمترین مودە خۆت زەعیڤ بکە بەبێ ئەوەی بچیتە هۆڵئ وەرزشی",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/SixPack.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.22.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "لەڕێ ئەم بەرنامەوە لە کەمترین مودە خۆت زەعیڤ بکە بەبێ ئەوەی بچیتە هۆڵئ وەرزشی",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/SixPack.-.v1.22.0.ipa",
+     "size": 258120000
+    }
+   ]
+  }
+ ]
+}

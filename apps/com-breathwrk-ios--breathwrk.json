@@ -1,0 +1,44 @@
+{
+ "name": "Breathwrk",
+ "identifier": "dev.perapp.com-breathwrk-ios",
+ "subtitle": "Breathwrk",
+ "description": "Single-app source for Breathwrk (com.breathwrk.ios). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/ab3d6efe-2502-4292-b99f-53d54b88b88c/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.breathwrk.ios",
+   "name": "Breathwrk",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Breathwrk: Breathing Exercises\n\nTweak: Subscription Unlocked\n\nVersion: 23.66\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/ab3d6efe-2502-4292-b99f-53d54b88b88c/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "23.38",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1667",
+     "size": 238273893
+    },
+    {
+     "version": "23.66",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Breathwrk: Breathing Exercises\n\nTweak: Subscription Unlocked\n\nVersion: 23.66\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c1054174-a122-4ca8-b186-83749087261d/Breathwrk__Breathing_Exercises-v23.66-riftysipas.ipa",
+     "size": 641749654
+    },
+    {
+     "version": "23.61",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Breathwrk: Breathing Exercises\n\nTweak: Subscription Unlocked\n\nVersion: 15.39\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/e1270c4e-4e9a-457d-9dac-446075976aaa/Breathwrk__Breathing_Exercises-v15.39-riftysipas.ipa",
+     "size": 641240890
+    }
+   ]
+  }
+ ]
+}

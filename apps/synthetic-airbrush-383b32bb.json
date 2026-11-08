@@ -1,0 +1,30 @@
+{
+ "name": "Airbrush",
+ "identifier": "dev.perapp.synthetic-airbrush-383b32bb",
+ "subtitle": "Airbrush by Karbin-Store",
+ "description": "Single-app source for Airbrush (synthetic.airbrush.383b32bb). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Airbrush.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.airbrush.383b32bb",
+   "name": "Airbrush",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Airbrush.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.4.401",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/AirBrush_7.4.401.ipa",
+     "size": 328120000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Captions",
+ "identifier": "dev.perapp.boomer-smart-video",
+ "subtitle": "Captions",
+ "description": "Single-app source for Captions (boomer.Smart-Video). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+ "apps": [
+  {
+   "bundleIdentifier": "boomer.Smart-Video",
+   "name": "Captions",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.42.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Captions_13.42.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 124407698
+    }
+   ]
+  }
+ ]
+}

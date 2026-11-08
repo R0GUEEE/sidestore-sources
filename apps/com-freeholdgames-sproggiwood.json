@@ -1,0 +1,30 @@
+{
+ "name": "Sproggiwood",
+ "identifier": "dev.perapp.com-freeholdgames-sproggiwood",
+ "subtitle": "ipaomtk.com | Embark on a delightful journey through the whimsical world of Sproggiwood IPA, a captivating turn-based st",
+ "description": "Single-app source for Sproggiwood (com.freeholdgames.sproggiwood). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Sproggiwood-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.freeholdgames.sproggiwood",
+   "name": "Sproggiwood",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Embark on a delightful journey through the whimsical world of Sproggiwood IPA, a captivating turn-based strategy game now available as S",
+   "localizedDescription": "ipaomtk.com | Embark on a delightful journey through the whimsical world of Sproggiwood IPA, a captivating turn-based strategy game now available as S",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Sproggiwood-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.10",
+     "date": "2023-12-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Embark on a delightful journey through the whimsical world of Sproggiwood IPA, a captivating turn-based strategy game now available as S",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sproggiwood.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

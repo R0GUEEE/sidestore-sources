@@ -1,0 +1,44 @@
+{
+ "name": "Reddit",
+ "identifier": "dev.perapp.com-reddit-reddit",
+ "subtitle": "scholars lounge | RedditDeluxe 2026.30.0 - Reddit 2026.30.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the me",
+ "description": "Single-app source for Reddit (com.reddit.Reddit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68274.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.reddit.Reddit",
+   "name": "Reddit",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | RedditDeluxe 2026.30.0 - Reddit 2026.30.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ole",
+   "localizedDescription": "scholars lounge | RedditDeluxe 2026.30.0 - Reddit 2026.30.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ole",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68274.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.44.1",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: MoesReddit\n\n@ipavault | Reddit 2026.44.1 (RedditFilter)  Follow these instructions if having issues logging in: https://t.me/ipavault/149 Instructions for accessi",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1233-Reddit%202026.44.1%20%28RedditFilter%29%20%5B@ipavault%5D.ipa",
+     "size": 153554228
+    },
+    {
+     "version": "2026.44.0",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "scholars lounge | RedditDeluxe 2026.44.0  - Reddit 2026.44.0 - RedditFilter (MoeReddit) hold 3 fingers down to get the menu - redditColorComments - Ol",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83331-RedditDeluxes_2026.44.0_Jacks_Apps.ipa",
+     "size": 151096525
+    },
+    {
+     "version": "2026.43.0",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@ipavault | Reddit 2026.43.0 (RedditFilter)  ▪Updated to Reddit 2026.43.0 Follow these instructions if having issues logging in: https://t.me/ipavault",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1062-Reddit%202026.43.0%20%28RedditFilter%29%20%5B@ipavault%5D.ipa",
+     "size": 151435285
+    }
+   ]
+  }
+ ]
+}

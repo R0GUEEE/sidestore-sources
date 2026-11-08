@@ -1,0 +1,30 @@
+{
+ "name": "TrollLockReborn",
+ "identifier": "dev.perapp.org-haxi0-trolllock",
+ "subtitle": "TrollLock, for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is cur",
+ "description": "Single-app source for TrollLockReborn (org.haxi0.TrollLock). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.TrollLock.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.haxi0.TrollLock",
+   "name": "TrollLockReborn",
+   "developerName": "haxi0",
+   "subtitle": "TrollLock, for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release…",
+   "localizedDescription": "TrollLock, for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release on the dev's GitHub\nLast updated: 12-25-2022\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.TrollLock.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "TrollLock, for iOS 15-16.1. This may still work if sideloaded, but do so at your own risk. Keep in mind, this app is currently set as a pre-release…",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-25-2022/TrollLockReborn-0.2.ipa",
+     "size": 1006984
+    }
+   ]
+  }
+ ]
+}

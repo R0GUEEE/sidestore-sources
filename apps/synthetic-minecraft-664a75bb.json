@@ -1,0 +1,30 @@
+{
+ "name": "Minecraft",
+ "identifier": "dev.perapp.synthetic-minecraft-664a75bb",
+ "subtitle": "Minecraft",
+ "description": "Single-app source for Minecraft (synthetic.minecraft.664a75bb). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://ittza7aa.com/aseets/icon/minecraft.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.minecraft.664a75bb",
+   "name": "Minecraft",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Appleid VIP",
+   "iconURL": "https://ittza7aa.com/aseets/icon/minecraft.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Appleid VIP",
+     "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/minecraft.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

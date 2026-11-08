@@ -1,0 +1,44 @@
+{
+ "name": "TideGuide",
+ "identifier": "dev.perapp.com-condor-digital-tide-over",
+ "subtitle": "TideGuide",
+ "description": "Single-app source for TideGuide (com.condor.digital.Tide-Over). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.condor.digital.Tide-Over",
+   "name": "TideGuide",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "27.0.3",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "The award winning tide app for Apple Watch, iPhone, iPad and Mac. Never miss a tide, sunset, or beautiful day on the water. Tide Guide features tide and marine weather conditions from trusted data providers worldwide. It's beautiful, powerful, and provides easy access to thousands of different tide stations around the world.\r\n\r\n# Apple Design Award & App Store App of the Year Finalist\r\n\r\n\r\n# Built for Apple Watch\r\nGorgeous full screen charts provide detailed tide and weather conditions. Each chart is dynamic and can switch between other conditions and views with just a tap.\r\n\r\n\r\n# Monthly & Yearly Tide Tables\r\nView detailed forecasts for 10 days, and tide tables for the next 12 months. Various display options allow for powerful layout customizat",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
+     "size": 171412506
+    },
+    {
+     "version": "27.0.2",
+     "date": "2026-09-17T00:00:00Z",
+     "localizedDescription": "The award winning tide app for Apple Watch, iPhone, iPad and Mac. Never miss a tide, sunset, or beautiful day on the water. Tide Guide features tide and marine weather conditions from trusted data providers worldwide. It's beautiful, powerful, and provides easy access to thousands of different tide stations around the world.\r\n\r\n# Apple Design Award & App Store App of the Year Finalist\r\n\r\n\r\n# Built for Apple Watch\r\nGorgeous full screen charts provide detailed tide and weather conditions. Each chart is dynamic and can switch between other conditions and views with just a tap.\r\n\r\n\r\n# Monthly & Yearly Tide Tables\r\nView detailed forecasts for 10 days, and tide tables for the next 12 months. Various display options allow for powerful layout customizat",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
+     "size": 169871177
+    },
+    {
+     "version": "7.3.12",
+     "date": "2026-07-15T00:00:00Z",
+     "localizedDescription": "The award winning tide app for Apple Watch, iPhone, iPad and Mac. Never miss a tide, sunset, or beautiful day on the water. Tide Guide features tide and marine weather conditions from trusted data providers worldwide. It's beautiful, powerful, and provides easy access to thousands of different tide stations around the world.\r\n\r\n# Apple Design Award & App Store App of the Year Finalist\r\n\r\n\r\n# Built for Apple Watch\r\nGorgeous full screen charts provide detailed tide and weather conditions. Each chart is dynamic and can switch between other conditions and views with just a tap.\r\n\r\n\r\n# Monthly & Yearly Tide Tables\r\nView detailed forecasts for 10 days, and tide tables for the next 12 months. Various display options allow for powerful layout customizat",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
+     "size": 183857498
+    }
+   ]
+  }
+ ]
+}

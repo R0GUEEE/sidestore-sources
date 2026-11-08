@@ -1,0 +1,32 @@
+{
+ "name": "BazaartPremium_10.8.0",
+ "identifier": "dev.perapp.co-bazaart-app",
+ "subtitle": "BazaartPremium_10.8.0 by BazaartPremium_10.8.0 x CyPwn",
+ "description": "Single-app source for BazaartPremium_10.8.0 (co.bazaart.app). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/BazaartPremium_10.8.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.bazaart.app",
+   "name": "BazaartPremium_10.8.0",
+   "developerName": "BazaartPremium_10.8.0 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Bazaart Premium unlocked",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/BazaartPremium_10.8.0.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/BazaartPremium_10.8.0/BazaartPremium_10.8.0-0.png"
+   ],
+   "versions": [
+    {
+     "version": "10.8.0",
+     "date": "2025-08-29T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/BazaartPremium_10.8.0.ipa",
+     "size": 71837941
+    }
+   ]
+  }
+ ]
+}

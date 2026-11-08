@@ -1,0 +1,30 @@
+{
+ "name": "Mini Metro",
+ "identifier": "dev.perapp.nz-co-codepoint-minimetro",
+ "subtitle": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Mini Metro (nz.co.codepoint.minimetro). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/MiniMetro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nz.co.codepoint.minimetro",
+   "name": "Mini Metro",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/MiniMetro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.52.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/MiniMetro_2.52.0.ipa",
+     "size": 95540179
+    }
+   ]
+  }
+ ]
+}

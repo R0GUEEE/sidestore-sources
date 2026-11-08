@@ -1,0 +1,30 @@
+{
+ "name": "Alpaca Farm",
+ "identifier": "dev.perapp.com-saltcastlestudio-alpacafarm",
+ "subtitle": "ipaomtk.com | Alpaca Farm! IPA, a captivating mobile game that combines the charm of alpacas with the excitement of an i",
+ "description": "Single-app source for Alpaca Farm (com.SaltCastleStudio.AlpacaFarm). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Alpaca-Farm-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.SaltCastleStudio.AlpacaFarm",
+   "name": "Alpaca Farm",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Alpaca Farm! IPA, a captivating mobile game that combines the charm of alpacas with the excitement of an immersive gameplay experience. ",
+   "localizedDescription": "ipaomtk.com | Alpaca Farm! IPA, a captivating mobile game that combines the charm of alpacas with the excitement of an immersive gameplay experience. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Alpaca-Farm-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.11",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Alpaca Farm! IPA, a captivating mobile game that combines the charm of alpacas with the excitement of an immersive gameplay experience. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Alpaca-Farm-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

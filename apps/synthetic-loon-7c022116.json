@@ -1,0 +1,30 @@
+{
+ "name": "Loon",
+ "identifier": "dev.perapp.synthetic-loon-7c022116",
+ "subtitle": "Loon by Karbin-Store",
+ "description": "Single-app source for Loon (synthetic.loon.7c022116). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Loon.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.loon.7c022116",
+   "name": "Loon",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Active Feasture Primuem",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Loon.jpeg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.5",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Active Feasture Primuem",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/loon_3.2.5TF.802._.ipa",
+     "size": 23660000
+    }
+   ]
+  }
+ ]
+}

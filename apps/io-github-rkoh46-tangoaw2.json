@@ -1,0 +1,41 @@
+{
+ "name": "tangoAW2",
+ "identifier": "dev.perapp.io-github-rkoh46-tangoaw2",
+ "subtitle": "Rollback netplay launcher for Advance Wars 2: Black Hole Rising (GBA). Everything unlocked, Black Hole playable, online ",
+ "description": "Single-app source for tangoAW2 (io.github.rkoh46.tangoaw2). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#466eb2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.rkoh46.tangoaw2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.rkoh46.tangoaw2",
+   "name": "tangoAW2",
+   "developerName": "rkoh46",
+   "subtitle": "Rollback netplay launcher for Advance Wars 2: Black Hole Rising (GBA). Everything unlocked, Black Hole playable, online and offline",
+   "localizedDescription": "tangoAW2:\n\nRollback netplay for Advance Wars 2: Black Hole Rising (GBA, USA).\n\nA fork of Tango (mGBA, rollback, matchmaking) for Advance Wars 2. Both players run the real game in its own Versus mode; your ROM is never modified (changes are applied in memory). No game is included: you need your own dump of the USA cartridge.\n\nGet it:\n\nDownload the latest build from.\n\nchanged is in each release's notes): Windows (.exe installer), macOS on Apple Silicon (.dmg, not signed: right-click the app and choose Open the first time), Linux (.AppImage), or iPhone and iPad (.ipa, iOS 16 or later: install it with AltStore, SideStore or Sideloadly; it plays with on-screen buttons or a controller at 60 to 120 Hz, sideways fitted between the buttons or stretched (Settings > Graphics), and online with desktop players).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.rkoh46.tangoaw2.png",
+   "tintColor": "#466eb2",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rkoh46/tangoAW2@main/docs/screenshots/es-campaign-story.png",
+    "https://cdn.jsdelivr.net/gh/rkoh46/tangoAW2@main/docs/screenshots/es-versus.png",
+    "https://cdn.jsdelivr.net/gh/rkoh46/tangoAW2@main/docs/screenshots/asuka-co.png",
+    "https://cdn.jsdelivr.net/gh/rkoh46/tangoAW2@main/docs/screenshots/bh-story.png"
+   ],
+   "versions": [
+    {
+     "version": "0.9.10",
+     "date": "2026-11-08T08:25:23Z",
+     "localizedDescription": "tangoAW2 0.9.10: Conquest Run.\n\nAdded.\n\n• Conquest Run is its own mode on the main menu, directly above GAUNTLET: nine maps in a row against a new CO each, and one loss ends the run.\n• The nine maps: Sabre Range, Asphalt Maze, Switchback, Piston Dam, Hourglass Isle, Ruby Keys, Vision Bridge, Cube Keys and Mial's Hope. The enemy gets more funds and units on every map.\n• After each of the first eight maps you pick a reward. The war chest grows from 8,000 to 25,500, and the free units build up to Megatank, Neotank and Bomber. Par is 72 days.\n\nChanged.\n\n• Conquest Run results start a new record table. Old 5-map results stay saved but are not shown, and a 5-map run saved halfway can't be continued.\n\nFixed.\n\n• The GAUNTLET mission card's letters are evenly spaced again.\n• An army that is not in the game no longer gets a hidden copy of the Silver Nova HQ.\n• Several automated tests that reported failures while the game was behaving correctly.",
+     "downloadURL": "https://github.com/rkoh46/tangoAW2/releases/download/v0.9.10/tangoaw2-0.9.10-ios.ipa",
+     "size": 32860892
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "tangoAW2 connects to the other player's game for netplay, including over your local network."
+    }
+   }
+  }
+ ]
+}

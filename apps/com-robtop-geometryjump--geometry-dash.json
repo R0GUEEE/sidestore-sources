@@ -1,0 +1,44 @@
+{
+ "name": "Geometry Dash",
+ "identifier": "dev.perapp.com-robtop-geometryjump",
+ "subtitle": "Geometry Dash - Push your skills to the limit",
+ "description": "Single-app source for Geometry Dash (com.robtop.geometryjump). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ffb304",
+ "iconURL": "https://cdn.omnidev.org/geodash-5O.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.robtop.geometryjump",
+   "name": "Geometry Dash",
+   "developerName": "RobTop Games AB",
+   "subtitle": "Geometry Dash - Push your skills to the limit",
+   "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/geodash-5O.png",
+   "tintColor": "ffb304",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.208",
+     "date": "2026-06-20T00:00:00Z",
+     "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer! \r\n\r\n\"Frustratingly wonderful\" - Kotaku\r\n\r\n\"Geometry Dash provides all of the challenge expected from an “impossible” game while also making it more accessible to newcomers.\"\r\n- 148Apps\r\n\r\n\"Geometry Dash is a fast-paced platformer that will leave you screaming in frustration, but you’ll keep coming back for more.\"\r\n- AppAdvice\r\n\r\nPrepare for a near impossible challenge in the world of Geometry Dash. Push your skills to the limit as you jump, fly and flip your way through dangerous passages and spiky obstacles. \r\n\r\nSimple one touch game play with lots of levels that will keep you entertained for hours! \r\n\r\nGame Features \r\n• Rhythm-based Action Platforming! \r\n• L",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2008",
+     "size": 147397175
+    },
+    {
+     "version": "2.2.06",
+     "date": "2024-10-30T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/Geometry_2_206-2v.ipa",
+     "size": 152252416
+    },
+    {
+     "version": "2.207",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nGeometry Dash v2.207\n\n🇷🇺 Захватывающая аркадная игра, где вам предстоит избегать препятствий и собирать бонусы, проходя через сложные уровни.  \n— Платное приложение из AppStore  \n© Создано: GLESign\n\n🇺🇸 An exciting arcade game where you must avoid obstacles and collect bonuses while passing through challenging levels.  \n— Paid app from AppStore  \n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/e4fd2ec6-d3d7-4120-b41b-f4d69d9f84e1/Geometry_v2.207_tg_glesign_.ipa",
+     "size": 153690430
+    }
+   ]
+  }
+ ]
+}

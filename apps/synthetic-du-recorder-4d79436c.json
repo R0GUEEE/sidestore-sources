@@ -1,0 +1,30 @@
+{
+ "name": "Du Recorder",
+ "identifier": "dev.perapp.synthetic-du-recorder-4d79436c",
+ "subtitle": "Du Recorder by Karbin-Store",
+ "description": "Single-app source for Du Recorder (synthetic.du-recorder.4d79436c). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Du.Recorder.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.du-recorder.4d79436c",
+   "name": "Du Recorder",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Activate Premium",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Du.Recorder.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.5",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Activate Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/DU.Recorder.Genius1.7.5.ipa",
+     "size": 73710000
+    }
+   ]
+  }
+ ]
+}

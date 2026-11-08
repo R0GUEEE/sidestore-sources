@@ -1,0 +1,30 @@
+{
+ "name": "TrollFools",
+ "identifier": "dev.perapp.wiki-qaq-trollfools",
+ "subtitle": "Experimental app for injecting tweaks into App Store apps. Last updated: 07-28-2024 Status: ✅ 👍",
+ "description": "Single-app source for TrollFools (wiki.qaq.TrollFools). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
+ "apps": [
+  {
+   "bundleIdentifier": "wiki.qaq.TrollFools",
+   "name": "TrollFools",
+   "developerName": "Lessica / trollfools",
+   "subtitle": "Experimental app for injecting tweaks into App Store apps. Last updated: 07-28-2024 Status: ✅ 👍",
+   "localizedDescription": "Experimental app for injecting tweaks into App Store apps.\nLast updated: 07-28-2024\nStatus: ✅ 👍\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.TrollFools.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1-6",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Experimental app for injecting tweaks into App Store apps. Last updated: 07-28-2024 Status: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollFools/TrollFools-2.1-6.ipa",
+     "size": 3141310
+    }
+   ]
+  }
+ ]
+}

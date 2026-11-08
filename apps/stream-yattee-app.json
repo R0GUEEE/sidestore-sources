@@ -1,0 +1,43 @@
+{
+ "name": "Yattee",
+ "identifier": "dev.perapp.stream-yattee-app",
+ "subtitle": "Privacy oriented video player for iOS, tvOS and macOS",
+ "description": "Single-app source for Yattee (stream.yattee.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2c83e4",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/stream.yattee.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "stream.yattee.app",
+   "name": "Yattee",
+   "developerName": "yattee",
+   "subtitle": "Privacy oriented video player for iOS, tvOS and macOS",
+   "localizedDescription": "Yattee 2 is in the works! A new version of the app is being built with a refreshed experience. It pairs with the new Yattee Server — a self-hosted backend powered by yt-dlp that supports 1000+ sites.\n\nFeatures:\n\n• Native user interface built with SwiftUI with customization settings.\n• Player queue and history.\n• Player component with custom controls, gestures and support for 4K playback.\n• Fullscreen, Picture in Picture and background audio playback.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/stream.yattee.app.png",
+   "tintColor": "#2c83e4",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.0",
+     "date": "2026-10-31T19:49:09Z",
+     "localizedDescription": "Bug fixes:\n\n• Log and alert when hardware decoding falls back to software mid-playback.\n• Reload the avfoundation audio output when it restarts while paused.\n• Keep the display link paused while the app is in the background.\n• Open SwiftData and TipKit stores after didFinishLaunching on iOS.",
+     "downloadURL": "https://github.com/yattee/yattee/releases/download/2.0.0-beta.278/Yattee-2.0.0-iOS.ipa",
+     "size": 39795855
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Yattee uses local network to discover and control playback on other Yattee devices."
+    }
+   }
+  }
+ ]
+}

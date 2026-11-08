@@ -1,0 +1,30 @@
+{
+ "name": "My Vinyl Collection",
+ "identifier": "dev.perapp.com-rushtonintl-myvinyl-collection",
+ "subtitle": "ipaomtk.com | My Vinyl Record Collection IPA v1.40 is a dream come true for music enthusiasts and vinyl collectors alike",
+ "description": "Single-app source for My Vinyl Collection (com.Rushtonintl.MyVinyl-Collection). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/My-Vinyl-Record-Collection-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Rushtonintl.MyVinyl-Collection",
+   "name": "My Vinyl Collection",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | My Vinyl Record Collection IPA v1.40 is a dream come true for music enthusiasts and vinyl collectors alike. This user-friendly app allow",
+   "localizedDescription": "ipaomtk.com | My Vinyl Record Collection IPA v1.40 is a dream come true for music enthusiasts and vinyl collectors alike. This user-friendly app allow",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/My-Vinyl-Record-Collection-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.38",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | My Vinyl Record Collection IPA v1.40 is a dream come true for music enthusiasts and vinyl collectors alike. This user-friendly app allow",
+     "downloadURL": "https://file.ipaomtk.com/ipa/My_Vinyl_Record_Collection-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

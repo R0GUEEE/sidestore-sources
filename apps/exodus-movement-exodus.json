@@ -1,0 +1,30 @@
+{
+ "name": "Exodus: Crypto Bitcoin Wallet",
+ "identifier": "dev.perapp.exodus-movement-exodus",
+ "subtitle": "Exodus: Crypto Bitcoin Wallet by sidelix",
+ "description": "Single-app source for Exodus: Crypto Bitcoin Wallet (exodus-movement.exodus). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6903da0a137fe.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "exodus-movement.exodus",
+   "name": "Exodus: Crypto Bitcoin Wallet",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Own your crypto future with Exodus, the world's leading all-in-one crypto and bitcoin wallet.\r\n\r\nExodus is self-custodial which means only YOU control your wallet. No one at Exodus ever has access to your funds. We never ask for your 12-word phrase and never offer support outside our official email support@exodus.com.\r\n\r\nKey Features:\r\n\r\nEffortless Crypto Transfers\r\nEasily send and receive crypto across 50+ networks, including Bitcoin (BTC), Ethereum (ETH), Solana (SOL), and more. Manage custom tokens and explore DeFi, NFTs, and Web3 applications and dApps — all within one secure crypto app.\r\n\r\n\r\nBuy Crypto Instantly\r\nBuy crypto directly within the app using your bank card or Google Pay. Your purchased Bitcoin, Ethereum, and other digital asse",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6903da0a137fe.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.43.16",
+     "date": "2025-10-30T00:00:00Z",
+     "localizedDescription": "Own your crypto future with Exodus, the world's leading all-in-one crypto and bitcoin wallet.\r\n\r\nExodus is self-custodial which means only YOU control your wallet. No one at Exodus ever has access to your funds. We never ask for your 12-word phrase and never offer support outside our official email support@exodus.com.\r\n\r\nKey Features:\r\n\r\nEffortless Crypto Transfers\r\nEasily send and receive crypto across 50+ networks, including Bitcoin (BTC), Ethereum (ETH), Solana (SOL), and more. Manage custom tokens and explore DeFi, NFTs, and Web3 applications and dApps — all within one secure crypto app.\r\n\r\n\r\nBuy Crypto Instantly\r\nBuy crypto directly within the app using your bank card or Google Pay. Your purchased Bitcoin, Ethereum, and other digital asse",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1927",
+     "size": 52999282
+    }
+   ]
+  }
+ ]
+}

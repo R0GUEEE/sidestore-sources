@@ -1,0 +1,30 @@
+{
+ "name": "TombRaider2",
+ "identifier": "dev.perapp.com-squareenix-tombraider2classic",
+ "subtitle": "ipaomtk.com | Tomb Raider II on iOS delivers one of the most iconic action-adventure experiences ever created, now optim",
+ "description": "Single-app source for TombRaider2 (com.squareenix.tombraider2classic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Tomb-Raider-II-IPA-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.squareenix.tombraider2classic",
+   "name": "TombRaider2",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tomb Raider II on iOS delivers one of the most iconic action-adventure experiences ever created, now optimized for iPhone gameplay. Play",
+   "localizedDescription": "ipaomtk.com | Tomb Raider II on iOS delivers one of the most iconic action-adventure experiences ever created, now optimized for iPhone gameplay. Play",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Tomb-Raider-II-IPA-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2026-02-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tomb Raider II on iOS delivers one of the most iconic action-adventure experiences ever created, now optimized for iPhone gameplay. Play",
+     "downloadURL": "https://file.ipaomtk.com/Tomb-Raider-II/Tomb-Raider-II-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

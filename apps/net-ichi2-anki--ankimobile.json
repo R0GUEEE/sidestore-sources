@@ -1,0 +1,30 @@
+{
+ "name": "AnkiMobile",
+ "identifier": "dev.perapp.net-ichi2-anki",
+ "subtitle": "AnkiMobile",
+ "description": "Single-app source for AnkiMobile (net.ichi2.anki). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.ichi2.anki.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.ichi2.anki",
+   "name": "AnkiMobile",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.ichi2.anki.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.08",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnkiMobile/AnkiMobile-24.08.ipa",
+     "size": 16413736
+    }
+   ]
+  }
+ ]
+}

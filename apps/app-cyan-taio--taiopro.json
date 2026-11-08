@@ -1,0 +1,30 @@
+{
+ "name": "TaioPro",
+ "identifier": "dev.perapp.app-cyan-taio",
+ "subtitle": "Patched",
+ "description": "Single-app source for TaioPro (app.cyan.taio). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.cyan.taio.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.cyan.taio",
+   "name": "TaioPro",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "Patched",
+   "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.cyan.taio.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.68.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TaioPro/TaioPro-1.68.0.ipa",
+     "size": 14894577
+    }
+   ]
+  }
+ ]
+}

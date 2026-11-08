@@ -1,0 +1,30 @@
+{
+ "name": "Memopad",
+ "identifier": "dev.perapp.com-tayasui-memopad",
+ "subtitle": "ipaomtk.com | Tayasui Memopad IPA v7.3 is an elegant and intuitive digital sketching app that brings the simplicity of p",
+ "description": "Single-app source for Memopad (com.tayasui.memopad). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Tayasui-Memopad.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tayasui.memopad",
+   "name": "Memopad",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tayasui Memopad IPA v7.3 is an elegant and intuitive digital sketching app that brings the simplicity of pen and paper to your mobile de",
+   "localizedDescription": "ipaomtk.com | Tayasui Memopad IPA v7.3 is an elegant and intuitive digital sketching app that brings the simplicity of pen and paper to your mobile de",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Tayasui-Memopad.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.3",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tayasui Memopad IPA v7.3 is an elegant and intuitive digital sketching app that brings the simplicity of pen and paper to your mobile de",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Tayasui_Memopad-v7.3-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

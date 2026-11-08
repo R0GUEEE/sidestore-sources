@@ -1,0 +1,30 @@
+{
+ "name": "Stepsapp",
+ "identifier": "dev.perapp.com-gunthermarktl-stepapp",
+ "subtitle": "Stepsapp",
+ "description": "Single-app source for Stepsapp (com.gunthermarktl.stepapp). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gunthermarktl.stepapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gunthermarktl.stepapp",
+   "name": "Stepsapp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gunthermarktl.stepapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.2.1",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Stepsapp_8.2.1_%40thisismanpreets_apptesters.org.ipa",
+     "size": 151194164
+    }
+   ]
+  }
+ ]
+}

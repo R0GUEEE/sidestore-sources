@@ -1,0 +1,30 @@
+{
+ "name": "Polish",
+ "identifier": "dev.perapp.com-photoeditor-polish",
+ "subtitle": "Polish",
+ "description": "Single-app source for Polish (com.photoeditor.polish). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoeditor.polish.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.photoeditor.polish",
+   "name": "Polish",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoeditor.polish.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.10.0",
+     "date": "2026-09-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Polish_2.10.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 154616736
+    }
+   ]
+  }
+ ]
+}

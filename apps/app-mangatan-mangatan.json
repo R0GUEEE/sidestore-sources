@@ -1,0 +1,54 @@
+{
+ "name": "Manatan",
+ "identifier": "dev.perapp.app-mangatan-mangatan",
+ "subtitle": "Seamless immersion language learning for anime, manga, novels on all platforms",
+ "description": "Single-app source for Manatan (app.mangatan.mangatan). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1a71e4",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.mangatan.mangatan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.mangatan.mangatan",
+   "name": "Manatan",
+   "developerName": "KolbyML",
+   "subtitle": "Seamless immersion language learning for anime, manga, novels on all platforms",
+   "localizedDescription": "Watch anime and YouTube. Read manga and novels. Look up words and save useful sentences without leaving the story.\n\nOne app, from immersion to review:\n\n• Watch, read, and listen. Local videos, YouTube, manga, EPUBs, web novels, and podcasts in one app.\n• Understand in context. Look up words with your imported dictionaries, use on-device manga OCR, and work with interactive subtitles.\n• Keep what matters. Save sentences with audio and images where available. Review in Manatan SRS with account sync, or keep using Anki.\n\nYour first lookup:\n\n• Install and open Manatan. A dictionary is installed automatically.\n• Open a video with subtitles, a manga chapter, or an EPUB you want to understand.\n• Look up a word. Save a useful sentence to Manatan SRS or Anki, then keep going.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.mangatan.mangatan.png",
+   "tintColor": "#1a71e4",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/KolbyML/Manatan@master/docs/assets/screenshots/readme/lookup.webp",
+    "https://cdn.jsdelivr.net/gh/KolbyML/Manatan@master/docs/assets/screenshots/readme/manga.webp",
+    "https://cdn.jsdelivr.net/gh/KolbyML/Manatan@master/docs/assets/screenshots/readme/books.webp",
+    "https://cdn.jsdelivr.net/gh/KolbyML/Manatan@master/docs/assets/screenshots/readme/podcasts.webp",
+    "https://cdn.jsdelivr.net/gh/KolbyML/Manatan@master/docs/assets/screenshots/readme/video-library.webp"
+   ],
+   "versions": [
+    {
+     "version": "6.3.11",
+     "date": "2026-11-07T11:12:23Z",
+     "localizedDescription": "Release v6.3.11:\n\n• Fix Android native path conversion (892212c).\n• Fix novel storage key parameter types (9d7ccc1).\n• Add word tracking to the browser dictionary (5bc5f4e).\n• Recover Google Drive sync from legacy checkpoints (6fe5245).\n• Restore dictionary popup word status and card opening (f1d17e5).\n• Guide browser extension users through setup (5483cc1).\n• Keep manga images loading across rotating CDN hosts (196d78f).\n• Update Flashcards extensions automatically with rollback (078ec8d).\n• Add search for installed dictionaries (0035faf).\n• Fix browser flashcard rendering, media sync, and lookup feedback (7089887).\n• Match explicit subtitle episode numbers that resemble resolutions (32c336a).\n• Show compact dashboard extensions on the mobile home screen (b2c5da8).\n• Drain APK size listings without broken pipe failures (2d056b9).\n• Freeze browser recovery source before applying CI overlays (cbf9610).\n• Include shared vocabulary catalog in Firefox reviewer sources (c99a938).\n• Keep EPUB title images on their own reader pages (2a7c3cc).\n\nDownloads:\n\n• The manatan-app and manatan-launcher archives are updater payloads, not the normal manual install path.\n• The legacy Manatan archives are one-time migration assets for older clients.\n• Android requires Android 8.0 or newer. Choose ARM64 for a 64-bit Android system, or ARM32 for a 32-bit Android system.\n• ARM32 support is experimental.\n\n• Firefox store updates require Mozilla validation/review. The Firefox ZIP is an unsigned submission package, not an installable signed XPI; use the AMO listing.",
+     "downloadURL": "https://github.com/KolbyML/Manatan/releases/download/v6.3.11/Manatan-v6.3.11-iOS.ipa",
+     "size": 442836289
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "Manatan uses the camera to recognize text in photos you take and for websites you allow in the browser.",
+     "NSFaceIDUsageDescription": "Manatan uses Face ID to unlock the app when you enable Require unlock.",
+     "NSLocalNetworkUsageDescription": "Manatan uses your local network to connect to Audiobookshelf servers you add and stream their audio.",
+     "NSMicrophoneUsageDescription": "Manatan uses the microphone for websites you allow in the browser.",
+     "NSPhotoLibraryAddUsageDescription": "Manatan needs permission to save images to your photo library.",
+     "NSPhotoLibraryUsageDescription": "Manatan uses your photo library to select images for text recognition and to save images you choose."
+    }
+   }
+  }
+ ]
+}

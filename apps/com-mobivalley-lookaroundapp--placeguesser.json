@@ -1,0 +1,44 @@
+{
+ "name": "PlaceGuesser",
+ "identifier": "dev.perapp.com-mobivalley-lookaroundapp",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for PlaceGuesser (com.mobivalley.LookAroundApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobivalley.LookAroundApp",
+   "name": "PlaceGuesser",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobivalley.LookAroundApp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.46.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/PlaceGuesser_1.46.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 48851742
+    },
+    {
+     "version": "1.43.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-11-2025/PlaceGuesser_1.43.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 48929404
+    },
+    {
+     "version": "1.45.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/PlaceGuesser_1.45.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 48834743
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SatellaJailed",
+ "identifier": "dev.perapp.org-apptesters-repo-satellajailed",
+ "subtitle": "SatellaJailed",
+ "description": "Single-app source for SatellaJailed (org.apptesters.repo.satellajailed). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "org.apptesters.repo.satellajailed",
+   "name": "SatellaJailed",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "SatellaJailed",
+   "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-12-06T00:00:00Z",
+     "localizedDescription": "SatellaJailed",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/SatellaJailed_1.0_%40thisismanpreets_apptesters.org.dylib",
+     "size": 331024
+    }
+   ]
+  }
+ ]
+}

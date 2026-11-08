@@ -1,0 +1,30 @@
+{
+ "name": "iStory",
+ "identifier": "dev.perapp.com-halilyilmaz-stalker",
+ "subtitle": "ipaomtk.com | iStory for Instagram IPA has become one of the most popular platforms for sharing snippets of our lives th",
+ "description": "Single-app source for iStory (com.halilyilmaz.stalker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/iStory-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.halilyilmaz.stalker",
+   "name": "iStory",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | iStory for Instagram IPA has become one of the most popular platforms for sharing snippets of our lives through photos and videos. One o",
+   "localizedDescription": "ipaomtk.com | iStory for Instagram IPA has become one of the most popular platforms for sharing snippets of our lives through photos and videos. One o",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/iStory-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.0",
+     "date": "2023-05-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | iStory for Instagram IPA has become one of the most popular platforms for sharing snippets of our lives through photos and videos. One o",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iStory.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

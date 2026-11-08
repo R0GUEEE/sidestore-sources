@@ -1,0 +1,30 @@
+{
+ "name": "Fugu15Max",
+ "identifier": "dev.perapp.synthetic-fugu15max-7ed63cd8",
+ "subtitle": "Fugu15 Max Beta 8 Keycap Fix includes: - Removed Zebra from bootstrap - Sileo 2.4.4 (Shitty-o can be installed by removi",
+ "description": "Single-app source for Fugu15Max (synthetic.fugu15max.7ed63cd8). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Fugu15Max.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.fugu15max.7ed63cd8",
+   "name": "Fugu15Max",
+   "developerName": "Fugu15Max x CyPwn",
+   "subtitle": "Fugu15 Max Beta 8 Keycap Fix includes: - Removed Zebra from bootstrap - Sileo 2.4.4 (Shitty-o can be installed by removing sileo version from essent",
+   "localizedDescription": "Fugu15 Max Beta 8 Keycap Fix includes: - Removed Zebra from bootstrap - Sileo 2.4.4 (Shitty-o can be installed by removing sileo version from essent",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Fugu15Max.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0~beta8",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Fugu15 Max Beta 8 Keycap Fix includes: - Removed Zebra from bootstrap - Sileo 2.4.4 (Shitty-o can be installed by removing sileo version from essent",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Fugu15Max.ipa",
+     "size": 34959523
+    }
+   ]
+  }
+ ]
+}

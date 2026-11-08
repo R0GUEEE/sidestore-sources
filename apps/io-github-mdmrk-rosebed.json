@@ -1,0 +1,34 @@
+{
+ "name": "Rosebed",
+ "identifier": "dev.perapp.io-github-mdmrk-rosebed",
+ "subtitle": "Minecraft Beta 1.7.3 rewritten from scratch in Zig",
+ "description": "Single-app source for Rosebed (io.github.mdmrk.rosebed). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.mdmrk.rosebed.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.mdmrk.rosebed",
+   "name": "Rosebed",
+   "developerName": "mdmrk",
+   "subtitle": "Minecraft Beta 1.7.3 rewritten from scratch in Zig",
+   "localizedDescription": "Rosebed:\n\nMinecraft Beta 1.7.3 rewritten in Zig, with a client and a dedicated server. It is a port of the original game's decompiled source, obtained with RetroMCP-Java, and matches it: same behavior, same worlds from the same seed, and multiplayer that works with it.\n\nIndex:\n\n• Extras not in b1.7.3.\n\nPlay:\n\nPlay in the browser.\n\nExtras not in b1.7.3:\n\n• A fullscreen option in Video Settings (vanilla only has F11).\n• Optional mipmaps and anisotropic filtering in Video Settings, off by default.\n• Touch controls on Android and iOS: fixed, floating or d-pad movement, a minimal button layout, and auto-jump.\n• Gamepad support on every platform.\n\nOther commands:\n\nDebug builds (plain zig build) may be too slow to play.\n\nWeb:\n\nThe site ends up in zig-out/www.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.mdmrk.rosebed.png",
+   "tintColor": "#6156e2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-11-03T00:23:05Z",
+     "localizedDescription": "Added:\n\n• Floating joystick and a minimal button layout for touch controls.\n• Optional mipmaps and anisotropic filtering in Video Settings.\n\nChanged:\n\n• /help lists each command as - command: description.\n• Faster chunk meshing, level ticks and terrain generation.\n\nFixed:\n\n• The achievements tree no longer overflows its frame when panning.\n• Moving the camera on touch screens no longer breaks blocks by accident.",
+     "downloadURL": "https://github.com/mdmrk/rosebed/releases/download/v1.7.0/rosebed-aarch64-ios.ipa",
+     "size": 4429617
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "AthanProPremium",
+ "identifier": "dev.perapp.quanticapps-athan-watchkitapp",
+ "subtitle": "Offers the most precise prayer times along with a range of other features including the Quran, Tasbeeh, Islamic Calendar",
+ "description": "Single-app source for AthanProPremium (Quanticapps.Athan.watchkitapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/Quanticapps.Athan.watchkitapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Quanticapps.Athan.watchkitapp",
+   "name": "AthanProPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "Offers the most precise prayer times along with a range of other features including the Quran, Tasbeeh, Islamic Calendar, a compass for Qiblah directi",
+   "localizedDescription": "Offers the most precise prayer times along with a range of other features including the Quran, Tasbeeh, Islamic Calendar, a compass for Qiblah directi",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/Quanticapps.Athan.watchkitapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.4.3",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Offers the most precise prayer times along with a range of other features including the Quran, Tasbeeh, Islamic Calendar, a compass for Qiblah directi",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AthanProPremium/AthanProPremium-8.4.3.ipa",
+     "size": 66449492
+    },
+    {
+     "version": "8.4.2",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Offers the most precise prayer times along with a range of other features including the Quran, Tasbeeh, Islamic Calendar, a compass for Qiblah directi",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AthanProPremium/AthanProPremium-8.4.2.ipa",
+     "size": 108894969
+    }
+   ]
+  }
+ ]
+}

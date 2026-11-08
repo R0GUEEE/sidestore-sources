@@ -1,0 +1,30 @@
+{
+ "name": "FF4 The After+",
+ "identifier": "dev.perapp.com-square-enix-ff4ayarcade",
+ "subtitle": "ipaomtk.com | Final ‍Fantasy ‌IV IPA Originally released in 1991, it captured hearts with its engaging​ narrative and me",
+ "description": "Single-app source for FF4 The After+ (com.square-enix.FF4AYArcade). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/FF-IV-THE-AFTER-YEARS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.square-enix.FF4AYArcade",
+   "name": "FF4 The After+",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Final ‍Fantasy ‌IV IPA Originally released in 1991, it captured hearts with its engaging​ narrative and memorable characters. Years late",
+   "localizedDescription": "ipaomtk.com | Final ‍Fantasy ‌IV IPA Originally released in 1991, it captured hearts with its engaging​ narrative and memorable characters. Years late",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/FF-IV-THE-AFTER-YEARS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.7",
+     "date": "2025-05-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Final ‍Fantasy ‌IV IPA Originally released in 1991, it captured hearts with its engaging​ narrative and memorable characters. Years late",
+     "downloadURL": "https://file.ipaomtk.com/ipa/FF4-The-After-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

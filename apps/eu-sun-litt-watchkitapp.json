@@ -1,0 +1,30 @@
+{
+ "name": "Sunlitt",
+ "identifier": "dev.perapp.eu-sun-litt-watchkitapp",
+ "subtitle": "Sunlitt",
+ "description": "Single-app source for Sunlitt (eu.sun.litt.watchkitapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "eu.sun.litt.watchkitapp",
+   "name": "Sunlitt",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Sunlitt\n⁣\nTweak: Subscription Unlocked\n\nVersion: 4.7.13\n\nMade by riftysIPAlibrary",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.7.13",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Sunlitt\n⁣\nTweak: Subscription Unlocked\n\nVersion: 4.7.13\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/b4a674d9-0582-44cd-b872-88e73f67141a/Sunlitt_v4.7.13-riftysipas.ipa",
+     "size": 70095082
+    }
+   ]
+  }
+ ]
+}

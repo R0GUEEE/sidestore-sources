@@ -1,0 +1,30 @@
+{
+ "name": "Golazo",
+ "identifier": "dev.perapp.com-purpletreestudio-golazo",
+ "subtitle": "ipaomtk.com | Golazo! Dynamic Arcade Soccer is an exciting and strategic sports game designed to bring together the thri",
+ "description": "Single-app source for Golazo (com.purpletreestudio.golazo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.purpletreestudio.golazo",
+   "name": "Golazo",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Golazo! Dynamic Arcade Soccer is an exciting and strategic sports game designed to bring together the thrill and excitement of soccer wi",
+   "localizedDescription": "ipaomtk.com | Golazo! Dynamic Arcade Soccer is an exciting and strategic sports game designed to bring together the thrill and excitement of soccer wi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.33",
+     "date": "2023-05-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Golazo! Dynamic Arcade Soccer is an exciting and strategic sports game designed to bring together the thrill and excitement of soccer wi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Golazo.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

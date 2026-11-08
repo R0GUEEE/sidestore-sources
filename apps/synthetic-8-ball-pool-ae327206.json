@@ -1,0 +1,30 @@
+{
+ "name": "8 Ball Pool",
+ "identifier": "dev.perapp.synthetic-8-ball-pool-ae327206",
+ "subtitle": "8 Ball Pool",
+ "description": "Single-app source for 8 Ball Pool (synthetic.8-ball-pool.ae327206). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://ittza7aa.com/aseets/icon/8ball.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.8-ball-pool.ae327206",
+   "name": "8 Ball Pool",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Unlimited Money",
+   "iconURL": "https://ittza7aa.com/aseets/icon/8ball.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Unlimited Money",
+     "downloadURL": "ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

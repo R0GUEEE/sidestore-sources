@@ -1,0 +1,44 @@
+{
+ "name": "CodeRunnerPro",
+ "identifier": "dev.perapp.com-markodevcic-code-runner",
+ "subtitle": "CodeRunnerPro by Lãng Khách🇻🇳",
+ "description": "Single-app source for CodeRunnerPro (com.markodevcic.code-runner). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.markodevcic.code-runner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.markodevcic.code-runner",
+   "name": "CodeRunnerPro",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.markodevcic.code-runner.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.6",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "Create, modify, compile, and execute code in more than 30 programming languages, wherever you are. Edit files and make commits to your GitHub repositories directly. A user requested it so here it is.\nLast updated: 07-25-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CodeRunnerPro/CodeRunnerPro-1.3.6.ipa",
+     "size": 25589026
+    },
+    {
+     "version": "1.4.0",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "Create, modify, compile, and execute code in more than 30 programming languages, wherever you are. Edit files and make commits to your GitHub repositories directly. A user requested it so here it is.\nLast updated: 07-25-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CodeRunnerPro/CodeRunnerPro-1.4.0.ipa",
+     "size": 27322823
+    },
+    {
+     "version": "1.4.1",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "Create, modify, compile, and execute code in more than 30 programming languages, wherever you are. Edit files and make commits to your GitHub repositories directly. A user requested it so here it is.\nLast updated: 07-25-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CodeRunnerPro/CodeRunnerPro-1.4.1.ipa",
+     "size": 24687298
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PFD Maker",
+ "identifier": "dev.perapp.com-unknown-pfdmaker",
+ "subtitle": "گۆڕینی وێنە و بەڵگەنامەکان بۆ PDF",
+ "description": "Single-app source for PFD Maker (com.unknown.pfdmaker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/PDF.Maker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.pfdmaker",
+   "name": "PFD Maker",
+   "developerName": "Karbin-Store",
+   "subtitle": "گۆڕینی وێنە و بەڵگەنامەکان بۆ PDF",
+   "localizedDescription": "گۆڕینی وێنە و بەڵگەنامەکان بۆ PDF",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/PDF.Maker.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.208",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "گۆڕینی وێنە و بەڵگەنامەکان بۆ PDF",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/PDFMaker_2.6.208_DEV.ipa",
+     "size": 20330000
+    }
+   ]
+  }
+ ]
+}

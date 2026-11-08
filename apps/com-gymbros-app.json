@@ -1,0 +1,30 @@
+{
+ "name": "Liftoff",
+ "identifier": "dev.perapp.com-gymbros-app",
+ "subtitle": "Liftoff",
+ "description": "Single-app source for Liftoff (com.gymbros.app). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gymbros.app",
+   "name": "Liftoff",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.3",
+     "date": "2025-08-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Liftoff_2.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 97410402
+    }
+   ]
+  }
+ ]
+}

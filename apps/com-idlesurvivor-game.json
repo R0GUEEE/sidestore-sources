@@ -1,0 +1,37 @@
+{
+ "name": "Idle Breaker",
+ "identifier": "dev.perapp.com-idlesurvivor-game",
+ "subtitle": "ipaomtk.com | Idle Breaker IPA Are you the type of person who loves building businesses and expanding empires, but doesn",
+ "description": "Single-app source for Idle Breaker (com.idlesurvivor.game). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-idle-breaker-loot-amp-survive-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.idlesurvivor.game",
+   "name": "Idle Breaker",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Idle Breaker IPA Are you the type of person who loves building businesses and expanding empires, but doesn’t have the time or resources ",
+   "localizedDescription": "ipaomtk.com | Idle Breaker IPA Are you the type of person who loves building businesses and expanding empires, but doesn’t have the time or resources ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-idle-breaker-loot-amp-survive-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.0",
+     "date": "2023-11-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Idle Breaker IPA Are you the type of person who loves building businesses and expanding empires, but doesn’t have the time or resources ",
+     "downloadURL": "https://file.ipaomtk.com/idle-breaker-ipa/Idle-Breaker-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.6.1",
+     "date": "2023-11-27T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Idle Breaker IPA Are you the type of person who loves building businesses and expanding empires, but doesn’t have the time or resources ",
+     "downloadURL": "https://file.ipaomtk.com/idle-breaker-ipa/Idle-Breaker-IPAOMTK.COM.ipa",
+     "size": 600420050
+    }
+   ]
+  }
+ ]
+}

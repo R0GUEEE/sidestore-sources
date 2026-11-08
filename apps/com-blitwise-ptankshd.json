@@ -1,0 +1,30 @@
+{
+ "name": "Pocket Tanks",
+ "identifier": "dev.perapp.com-blitwise-ptankshd",
+ "subtitle": "ipaomtk.com | Pocket Tanks IPA v2.7.5 is a beloved artillery game that brings the classic genre to mobile devices with c",
+ "description": "Single-app source for Pocket Tanks (com.blitwise.ptankshd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Pocket-Tanks.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.blitwise.ptankshd",
+   "name": "Pocket Tanks",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Pocket Tanks IPA v2.7.5 is a beloved artillery game that brings the classic genre to mobile devices with colorful graphics and addictive",
+   "localizedDescription": "ipaomtk.com | Pocket Tanks IPA v2.7.5 is a beloved artillery game that brings the classic genre to mobile devices with colorful graphics and addictive",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Pocket-Tanks.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.3",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pocket Tanks IPA v2.7.5 is a beloved artillery game that brings the classic genre to mobile devices with colorful graphics and addictive",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Pocket_Tanks-v2.7.3-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

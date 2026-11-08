@@ -1,0 +1,37 @@
+{
+ "name": "Ultimate Custom Night",
+ "identifier": "dev.perapp.com-clickteam-ultimatecustomnight",
+ "subtitle": "Ultimate Custom Night - Point and click surivival horror",
+ "description": "Single-app source for Ultimate Custom Night (com.clickteam.ultimatecustomnight). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ca0607",
+ "iconURL": "https://cdn.omnidev.org/ultimate_custom_night-Em.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.clickteam.ultimatecustomnight",
+   "name": "Ultimate Custom Night",
+   "developerName": "Scott Games & Clickteam LLC",
+   "subtitle": "Ultimate Custom Night - Point and click surivival horror",
+   "localizedDescription": "Ultimate Custom Night is a point-and-click survival horror video game created by Scott Cawthon. It is the second official spin-off of the Five Nights at Freddy's game series, the first one being FNaF World, and the eight game overall.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/ultimate_custom_night-Em.png",
+   "tintColor": "ca0607",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.6",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "Welcome to the ultimate FNaF mashup, where you will once again be trapped alone in an office fending off killer animatronics! Featuring 50 selectable animatronic characters spanning seven Five Nights at Freddy's games, the options for customization are nearly endless. Mix and match any assortment of characters that you like, set their difficulty from 0-20, then jump right into the action! From your office desk, you will need to manage two side doors, two vents, as well as two air hoses, all of which lead directly into your office.\r\n\r\nThis time you will have to master other tools as well if you want to complete the ultimate challenges, tools such as the heater, A/C",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1883",
+     "size": 210021666
+    },
+    {
+     "version": "1.0.5",
+     "date": "2024-11-06T00:00:00Z",
+     "localizedDescription": "Ultimate Custom Night is a point-and-click survival horror video game created by Scott Cawthon. It is the second official spin-off of the Five Nights at Freddy's game series, the first one being FNaF World, and the eight game overall.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Ultimate_Custom_Night_v1_0_52-1Z.ipa",
+     "size": 208191488
+    }
+   ]
+  }
+ ]
+}

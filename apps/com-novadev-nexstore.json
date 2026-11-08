@@ -1,0 +1,37 @@
+{
+ "name": "NexStore",
+ "identifier": "dev.perapp.com-novadev-nexstore",
+ "subtitle": "The best sideloading app for iOS!",
+ "description": "Single-app source for NexStore (com.novadev.nexstore). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/NexStore.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.novadev.nexstore",
+   "name": "NexStore",
+   "developerName": "NovaDev404",
+   "subtitle": "The best sideloading app for iOS!",
+   "localizedDescription": "The best sideloading app for iOS!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/NexStore.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "The best sideloading app for iOS!",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/NexStore.ipa",
+     "size": 14975240
+    },
+    {
+     "version": "1.1.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "The best sideloading app for iOS!",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/NexStore.ipa",
+     "size": 14126376
+    }
+   ]
+  }
+ ]
+}

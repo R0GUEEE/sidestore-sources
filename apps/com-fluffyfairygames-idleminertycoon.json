@@ -1,0 +1,44 @@
+{
+ "name": "Idle Miner",
+ "identifier": "dev.perapp.com-fluffyfairygames-idleminertycoon",
+ "subtitle": "@riftysIPAlibrary | Idle Miner Tycoon  Tweak: Free iAP  Version: 5.60.0  Patched ✓  @riftysIPAlibrary  Additional Inform",
+ "description": "Single-app source for Idle Miner (com.fluffyfairygames.idleminertycoon). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7353.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
+   "name": "Idle Miner",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Idle Miner Tycoon  Tweak: Free iAP  Version: 5.60.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.2",
+   "localizedDescription": "@riftysIPAlibrary | Idle Miner Tycoon  Tweak: Free iAP  Version: 5.60.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.2",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7353.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.67.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Idle Miner Tycoon  Tweak: Free iAP  Version: 5.67.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.2",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8711-Idle%20Miner%20Tycoon-v5.67.0-riftysipas.ipa",
+     "size": 145090497
+    },
+    {
+     "version": "5.66.0",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Idle Miner Tycoon  Tweak: Free iAP  Version: 5.66.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.2",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8664-Idle%20Miner%20Tycoon-v5.66.0-riftysipas.ipa",
+     "size": 145094122
+    },
+    {
+     "version": "5.65.0",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Idle Miner Tycoon  Tweak: Free iAP  Version: 5.65.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.2",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8473-Idle%20Miner%20Tycoon-v5.65.0-riftysipas.ipa",
+     "size": 146465331
+    }
+   ]
+  }
+ ]
+}

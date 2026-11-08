@@ -1,0 +1,30 @@
+{
+ "name": "Noteshelf3",
+ "identifier": "dev.perapp.synthetic-noteshelf3-e7623f52",
+ "subtitle": "Noteshelf3 by Karbin-Store",
+ "description": "Single-app source for Noteshelf3 (synthetic.noteshelf3.e7623f52). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Noteshelf3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.noteshelf3.e7623f52",
+   "name": "Noteshelf3",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Injected with Satella",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Noteshelf3.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "Injected with Satella",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Noteshelf3-v1.7.4.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

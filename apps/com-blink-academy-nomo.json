@@ -1,0 +1,30 @@
+{
+ "name": "NOMOCAM",
+ "identifier": "dev.perapp.com-blink-academy-nomo",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for NOMOCAM (com.blink.academy.nomo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.blink.academy.nomo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.blink.academy.nomo",
+   "name": "NOMOCAM",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.blink.academy.nomo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.6",
+     "date": "2023-10-15T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2023-10-15/NOMOCAM_1.6.6_Pro_@repo.owo.network.ipa",
+     "size": 35950593
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PlantApp",
+ "identifier": "dev.perapp.com-scaleup-plantid",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for PlantApp (com.scaleup.plantid). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scaleup.plantid",
+   "name": "PlantApp",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.plantid.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.5",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2025/PlantApp_3.2.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 90759194
+    }
+   ]
+  }
+ ]
+}

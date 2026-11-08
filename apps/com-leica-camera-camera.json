@@ -1,0 +1,30 @@
+{
+ "name": "LeicaLUX",
+ "identifier": "dev.perapp.com-leica-camera-camera",
+ "subtitle": "LeicaLUX",
+ "description": "Single-app source for LeicaLUX (com.leica-camera.camera). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leica-camera.camera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leica-camera.camera",
+   "name": "LeicaLUX",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leica-camera.camera.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.5",
+     "date": "2025-09-28T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/LeicaLUX_1.8.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 132477828
+    }
+   ]
+  }
+ ]
+}

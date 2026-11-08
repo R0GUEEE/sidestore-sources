@@ -1,0 +1,61 @@
+{
+ "name": "Clip",
+ "identifier": "dev.perapp.com-rileytestut-clip",
+ "subtitle": "Manage your clipboard history with ease.",
+ "description": "Single-app source for Clip (com.rileytestut.Clip). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "EC008C",
+ "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.Clip",
+   "name": "Clip",
+   "developerName": "Riley Testut",
+   "subtitle": "Manage your clipboard history with ease.",
+   "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
+   "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+   "tintColor": "EC008C",
+   "screenshots": [
+    "https://user-images.githubusercontent.com/705880/277759370-15119bc7-a9d9-40a5-9f88-11a8146aba3b.PNG",
+    "https://user-images.githubusercontent.com/705880/277759409-f8bd1286-ce84-4914-96b5-0c611e678918.PNG",
+    "https://user-images.githubusercontent.com/705880/277759432-15a62f4f-8fe8-4a76-b6ec-31631a5eaf0c.PNG"
+   ],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2025-06-19T13:00:00-05:00Z",
+     "localizedDescription": "iPad Support\n• Optimized for larger iPad display\n• Supports multiple windows\n\n3rd-Party Keyboard\n• Easily paste clippings into any text field\n• Switches back to default keyboard automatically after pasting",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/clip/1_2.ipa",
+     "size": 765019
+    },
+    {
+     "version": "1.1",
+     "date": "2024-06-05T12:00:00-05:00Z",
+     "localizedDescription": "• Switches to using location services to run in background\n• Improves reading clipboard on iOS 17",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/clip/1_1.ipa",
+     "size": 601183
+    },
+    {
+     "version": "1.0",
+     "date": "2020-06-17T12:30:00-07:00Z",
+     "localizedDescription": "Initial version 🎉",
+     "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_0.ipa",
+     "size": 445056
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     {
+      "name": "inter-app-audio"
+     },
+     {
+      "name": "get-task-allow"
+     },
+     {
+      "name": "com.apple.security.application-groups"
+     }
+    ]
+   }
+  }
+ ]
+}

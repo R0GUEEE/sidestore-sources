@@ -1,0 +1,44 @@
+{
+ "name": "SuperIcons",
+ "identifier": "dev.perapp.com-huami-supericons",
+ "subtitle": "App for replacing TrollStore's app icons. Last updated: 08-05-2024 Status: ✅",
+ "description": "Single-app source for SuperIcons (com.huami.SuperIcons). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.huami.SuperIcons.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.huami.SuperIcons",
+   "name": "SuperIcons",
+   "developerName": "huami1314",
+   "subtitle": "App for replacing TrollStore's app icons. Last updated: 08-05-2024 Status: ✅",
+   "localizedDescription": "App for replacing TrollStore's app icons. Last updated: 08-05-2024 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.huami.SuperIcons.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1-3",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "App for replacing TrollStore's app icons. Last updated: 08-05-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SuperIcons/SuperIcons-2.1-3.ipa",
+     "size": 2349879
+    },
+    {
+     "version": "2.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Change app icons with TrollStore!",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/SuperIcons_2.1.4_Huami.ipa",
+     "size": 2359296
+    },
+    {
+     "version": "2.1-4",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "App for replacing TrollStore's app icons. Last updated: 08-05-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SuperIcons/SuperIcons-2.1-4.ipa",
+     "size": 2357851
+    }
+   ]
+  }
+ ]
+}

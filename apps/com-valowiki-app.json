@@ -1,0 +1,34 @@
+{
+ "name": "ValWiki",
+ "identifier": "dev.perapp.com-valowiki-app",
+ "subtitle": "Native iOS 26 design: floating glass tab bar with a search tab, Liquid Glass cards and buttons, large titles, sheets and",
+ "description": "Single-app source for ValWiki (com.valowiki.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#c23a58",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.valowiki.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.valowiki.app",
+   "name": "ValWiki",
+   "developerName": "cyberromeo",
+   "subtitle": "Native iOS 26 design: floating glass tab bar with a search tab, Liquid Glass cards and buttons, large titles, sheets and lists",
+   "localizedDescription": "What's in it:\n\n• Home: featured agent hero (shuffle), live patch number, current act with days left, map pool rail, quick links.\n• Agents: role filter, search, full dossier per agent with ability picker (Q / E / C / X keys), role info, same-role agents, previous/next.\n• Arsenal: every weapon grouped by class with cost and fire rate; handling gauges, damage-by-range table, and every skin with edition filter, variant switcher, upgrade levels and level videos.\n• Maps: competitive pool and mode maps, splash art, and an interactive minimap with every callout plotted from the API's coordinates (filter by site, full-screen zoom).\n• Search: one search tab across agents, weapons, skins, maps and bundles.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.valowiki.app.png",
+   "tintColor": "#c23a58",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2026-10-09T13:54:38Z",
+     "localizedDescription": "Unsigned IPA built from 4fd287d7d33be4818c4fab180944845a97df31f1. Sideload it with Sideloadly, AltStore or SideStore (iOS 18+).",
+     "downloadURL": "https://github.com/cyberromeo/valwiki-ios/releases/download/latest-build/ValWiki-unsigned.ipa",
+     "size": 1185792
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

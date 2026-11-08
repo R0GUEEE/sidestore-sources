@@ -1,0 +1,30 @@
+{
+ "name": "Plantum",
+ "identifier": "dev.perapp.plantidentifier-app",
+ "subtitle": "ipaomtk.com | The Plantum IPA v6.5 is a groundbreaking mobile application designed to revolutionize the way users intera",
+ "description": "Single-app source for Plantum (plantidentifier.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Plantum-8211-AI-Plant-Identifier.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "plantidentifier.app",
+   "name": "Plantum",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Plantum IPA v6.5 is a groundbreaking mobile application designed to revolutionize the way users interact with and care for their pla",
+   "localizedDescription": "ipaomtk.com | The Plantum IPA v6.5 is a groundbreaking mobile application designed to revolutionize the way users interact with and care for their pla",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Plantum-8211-AI-Plant-Identifier.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.3",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Plantum IPA v6.5 is a groundbreaking mobile application designed to revolutionize the way users interact with and care for their pla",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Plantum_-_AI_Plant_Identifier-v6.3-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

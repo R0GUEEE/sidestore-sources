@@ -1,0 +1,44 @@
+{
+ "name": "ToonMe",
+ "identifier": "dev.perapp.com-informelab-toonme",
+ "subtitle": "ToonMe",
+ "description": "Single-app source for ToonMe (com.informelab.toonme). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.informelab.toonme",
+   "name": "ToonMe",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.34",
+     "date": "2026-07-17T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2065",
+     "size": 141018351
+    },
+    {
+     "version": "0.11.33",
+     "date": "2026-04-17T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/ToonMe_0.11.33_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 139895459
+    },
+    {
+     "version": "0.11.31",
+     "date": "2026-01-06T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-01-2026/ToonMe_0.11.31_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 130664722
+    }
+   ]
+  }
+ ]
+}

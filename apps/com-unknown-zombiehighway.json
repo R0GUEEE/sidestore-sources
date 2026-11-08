@@ -1,0 +1,30 @@
+{
+ "name": "Zombie Highway",
+ "identifier": "dev.perapp.com-unknown-zombiehighway",
+ "subtitle": "ئامانج مانەوەیە...بەڵام تۆ...کار ناکات. تا چەند دەڕۆیت؟ ئێوە دژین ژمارەیەکی زۆر لە زۆمبیەکان کە بە هێزەوە باز دەدەن. مەی",
+ "description": "Single-app source for Zombie Highway (com.unknown.zombiehighway). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Zombie.Highway.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.zombiehighway",
+   "name": "Zombie Highway",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئامانج مانەوەیە...بەڵام تۆ...کار ناکات. تا چەند دەڕۆیت؟ ئێوە دژین ژمارەیەکی زۆر لە زۆمبیەکان کە بە هێزەوە باز دەدەن. مەیل بکە بۆ ئەوەی لە بەربەستەکان ",
+   "localizedDescription": "ئامانج مانەوەیە...بەڵام تۆ...کار ناکات. تا چەند دەڕۆیت؟ ئێوە دژین ژمارەیەکی زۆر لە زۆمبیەکان کە بە هێزەوە باز دەدەن. مەیل بکە بۆ ئەوەی لە بەربەستەکان ",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Zombie.Highway.2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.1",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "ئامانج مانەوەیە...بەڵام تۆ...کار ناکات. تا چەند دەڕۆیت؟ ئێوە دژین ژمارەیەکی زۆر لە زۆمبیەکان کە بە هێزەوە باز دەدەن. مەیل بکە بۆ ئەوەی لە بەربەستەکان ",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Zombie.Highway.2._1.6.1_1737320418.ipa",
+     "size": 88900000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Swipe Guru",
+ "identifier": "dev.perapp.com-swipeguru",
+ "subtitle": "ئەپی پاککردنەوەی وێنە و ڤیدیۆیە. پێویستت بە شوێنی زیاترە لە مۆبایلەکەتدا؟ ئەپەکە یارمەتیت دەدات بە جوڵەیەکی ئاشنای سوایپ",
+ "description": "Single-app source for Swipe Guru (com.swipeguru). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Swipe.Guru.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.swipeguru",
+   "name": "Swipe Guru",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپی پاککردنەوەی وێنە و ڤیدیۆیە. پێویستت بە شوێنی زیاترە لە مۆبایلەکەتدا؟ ئەپەکە یارمەتیت دەدات بە جوڵەیەکی ئاشنای سوایپکردن ڕیزکردنی ئاژاوەی وێنە و ڤ",
+   "localizedDescription": "ئەپی پاککردنەوەی وێنە و ڤیدیۆیە. پێویستت بە شوێنی زیاترە لە مۆبایلەکەتدا؟ ئەپەکە یارمەتیت دەدات بە جوڵەیەکی ئاشنای سوایپکردن ڕیزکردنی ئاژاوەی وێنە و ڤ",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Swipe.Guru.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "ئەپی پاککردنەوەی وێنە و ڤیدیۆیە. پێویستت بە شوێنی زیاترە لە مۆبایلەکەتدا؟ ئەپەکە یارمەتیت دەدات بە جوڵەیەکی ئاشنای سوایپکردن ڕیزکردنی ئاژاوەی وێنە و ڤ",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Swipe.Guru.ipa",
+     "size": 36010000
+    }
+   ]
+  }
+ ]
+}

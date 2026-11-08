@@ -1,0 +1,30 @@
+{
+ "name": "AppsDump3 - TrollStore",
+ "identifier": "dev.perapp.cn-gblw-appsdump",
+ "subtitle": "Giải mã và xuất IPA - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for AppsDump3 - TrollStore (cn.gblw.AppsDump). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppsDump3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cn.gblw.AppsDump",
+   "name": "AppsDump3 - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Giải mã và xuất IPA - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Giải mã và xuất IPA - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppsDump3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Giải mã và xuất IPA - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AppsDump_3.3_TTJB.tipa",
+     "size": 730370
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Elemental",
+ "identifier": "dev.perapp.com-daerigame-elemental",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for Elemental (com.daerigame.elemental). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/ELEMENTAL-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.daerigame.elemental",
+   "name": "Elemental",
+   "developerName": "ipaomtk.com",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | ELEMENTAL 2D MMORPG IPA scene has grown massively over the past decade, with developers pushing the boundaries of what’s possible on handheld devices. One standout title in the realm of pixel-art fantasy games is ELEMENTAL 2D MMORPG, a retro-style, open-world adventure offering deep customization, multiplayer exploration, and elemental combat. Now, with the IPA MOD version […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/ELEMENTAL-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "197",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | ELEMENTAL 2D MMORPG IPA scene has grown massively over the past decade, with developers pushing the boundaries of what’s possible on…",
+     "downloadURL": "https://file.ipaomtk.com/ELEMENTAL-2D-MMORPG/ELEMENTAL-2D-IPAOMTK.COM.ipa",
+     "size": 177052242
+    }
+   ]
+  }
+ ]
+}

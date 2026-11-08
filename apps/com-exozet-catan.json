@@ -1,0 +1,30 @@
+{
+ "name": "Catan",
+ "identifier": "dev.perapp.com-exozet-catan",
+ "subtitle": "ipaomtk.com | Catan Classic IPA is a beloved board game that has captivated players worldwide for decades. Developed by ",
+ "description": "Single-app source for Catan (com.exozet.catan). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Catan-Classic-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.exozet.catan",
+   "name": "Catan",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Catan Classic IPA is a beloved board game that has captivated players worldwide for decades. Developed by Klaus Teuber, this strategic a",
+   "localizedDescription": "ipaomtk.com | Catan Classic IPA is a beloved board game that has captivated players worldwide for decades. Developed by Klaus Teuber, this strategic a",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Catan-Classic-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.9",
+     "date": "2024-05-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Catan Classic IPA is a beloved board game that has captivated players worldwide for decades. Developed by Klaus Teuber, this strategic a",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Catan-Classic.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "valkyrieidle",
+ "identifier": "dev.perapp.com-mobirix-valkyrieidle",
+ "subtitle": "ipaomtk.com | Valkyrie Idle IPA, ⁣idle games have carved ⁤their niche, offering players ‍an engaging experience without ",
+ "description": "Single-app source for valkyrieidle (com.mobirix.valkyrieidle). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/valkyrie-idle-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobirix.valkyrieidle",
+   "name": "valkyrieidle",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Valkyrie Idle IPA, ⁣idle games have carved ⁤their niche, offering players ‍an engaging experience without the ‍need for constant attenti",
+   "localizedDescription": "ipaomtk.com | Valkyrie Idle IPA, ⁣idle games have carved ⁤their niche, offering players ‍an engaging experience without the ‍need for constant attenti",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/valkyrie-idle-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.15.0",
+     "date": "2025-04-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Valkyrie Idle IPA, ⁣idle games have carved ⁤their niche, offering players ‍an engaging experience without the ‍need for constant attenti",
+     "downloadURL": "https://file.ipaomtk.com/valkyrie-idle/Valkyrie-Idle-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.24.0",
+     "date": "2025-04-07T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Valkyrie Idle IPA, ⁣idle games have carved ⁤their niche, offering players ‍an engaging experience without the ‍need for constant attenti",
+     "downloadURL": "https://file.ipaomtk.com/valkyrie-idle/Valkyrie-Idle-IPAOMTK.COM.ipa",
+     "size": 352510364
+    }
+   ]
+  }
+ ]
+}

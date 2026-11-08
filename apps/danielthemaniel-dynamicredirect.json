@@ -1,0 +1,30 @@
+{
+ "name": "LiveRedirect",
+ "identifier": "dev.perapp.danielthemaniel-dynamicredirect",
+ "subtitle": "Open matching webpages in LiveContainer from Safari on iOS using a lightweight Safari Web Extension.  What it does: • Le",
+ "description": "Single-app source for LiveRedirect (danielthemaniel.DynamicRedirect). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/LiveRedirect/refs/heads/main/DynamicRedirect%20Extension/images/icon-256.png",
+ "apps": [
+  {
+   "bundleIdentifier": "danielthemaniel.DynamicRedirect",
+   "name": "LiveRedirect",
+   "developerName": "DanielTheManiel",
+   "subtitle": "Open matching webpages in LiveContainer from Safari on iOS using a lightweight Safari Web Extension.  What it does: • Lets you maintain a list of URL ",
+   "localizedDescription": "Open matching webpages in LiveContainer from Safari on iOS using a lightweight Safari Web Extension.  What it does: • Lets you maintain a list of URL\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/LiveRedirect/refs/heads/main/DynamicRedirect%20Extension/images/icon-256.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Open matching webpages in LiveContainer from Safari on iOS using a lightweight Safari Web Extension.  What it does: • Lets you maintain a list of URL ",
+     "downloadURL": "https://github.com/Dan1elTheMan1el/LiveRedirect/releases/download/1.1/LiveRedirect1.1.ipa",
+     "size": 643000
+    }
+   ]
+  }
+ ]
+}

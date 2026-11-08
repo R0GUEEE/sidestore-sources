@@ -1,0 +1,30 @@
+{
+ "name": "TurboDL",
+ "identifier": "dev.perapp.com-crea4life-turbodownloader",
+ "subtitle": "ipaomtk.com | Turbodl is designed to make downloading of videos lightning-fast and extremely easy to manage. The applica",
+ "description": "Single-app source for TurboDL (com.crea4life.turbodownloader). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/Turbodl-Video-Vault-Save-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crea4life.turbodownloader",
+   "name": "TurboDL",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Turbodl is designed to make downloading of videos lightning-fast and extremely easy to manage. The application works with a wide range o",
+   "localizedDescription": "ipaomtk.com | Turbodl is designed to make downloading of videos lightning-fast and extremely easy to manage. The application works with a wide range o",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/Turbodl-Video-Vault-Save-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.2",
+     "date": "2023-05-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Turbodl is designed to make downloading of videos lightning-fast and extremely easy to manage. The application works with a wide range o",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Turbo.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

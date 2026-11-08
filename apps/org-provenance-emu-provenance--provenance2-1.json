@@ -1,0 +1,32 @@
+{
+ "name": "Provenance2.1",
+ "identifier": "dev.perapp.org-provenance-emu-provenance",
+ "subtitle": "Provenance2.1 by Provenance2.1 x CyPwn",
+ "description": "Single-app source for Provenance2.1 (org.provenance-emu.provenance). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Provenance2.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.provenance-emu.provenance",
+   "name": "Provenance2.1",
+   "developerName": "Provenance2.1 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Video game emulator",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Provenance2.1.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/assets/images/ipalibrary.png"
+   ],
+   "versions": [
+    {
+     "version": "2.1.0",
+     "date": "2022-04-09T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Provenance2.1.ipa",
+     "size": 36123443
+    }
+   ]
+  }
+ ]
+}

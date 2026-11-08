@@ -1,0 +1,30 @@
+{
+ "name": "GlowUp",
+ "identifier": "dev.perapp.com-snowcorp-glowup",
+ "subtitle": "GlowUp",
+ "description": "Single-app source for GlowUp (com.snowcorp.glowup). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.snowcorp.glowup",
+   "name": "GlowUp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.0",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/GlowUp_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 191848297
+    }
+   ]
+  }
+ ]
+}

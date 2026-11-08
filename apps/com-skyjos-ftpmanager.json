@@ -1,0 +1,37 @@
+{
+ "name": "FTPManager_8.5.4",
+ "identifier": "dev.perapp.com-skyjos-ftpmanager",
+ "subtitle": "Fully featured FTP client",
+ "description": "Single-app source for FTPManager_8.5.4 (com.skyjos.ftpmanager). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/FTPManager_8.5.4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skyjos.ftpmanager",
+   "name": "FTPManager_8.5.4",
+   "developerName": "FTPManager_8.5.4 x CyPwn",
+   "subtitle": "Fully featured FTP client",
+   "localizedDescription": "Fully featured FTP client",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/FTPManager_8.5.4.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.5.4",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Fully featured FTP client",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/FTPManager_8.5.4.ipa",
+     "size": 24222105
+    },
+    {
+     "version": "8.3.3",
+     "date": "2023-08-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | For the modern generation of technophiles, staying connected and sharing data has never been easier. Thanks to FTPManager Pro IPA (Free)",
+     "downloadURL": "https://file.ipaomtk.com/ipa/FTPManager-pro.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

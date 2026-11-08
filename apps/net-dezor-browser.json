@@ -1,0 +1,30 @@
+{
+ "name": "Dezor",
+ "identifier": "dev.perapp.net-dezor-browser",
+ "subtitle": "ipaomtk.com | Dezor IPA browser is an Italian based proprietary web browser, created by Dezor APK Technologies. It is de",
+ "description": "Single-app source for Dezor (net.dezor.browser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/net.dezor_.browser.icon_.2023-02-24-09-22-55-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.dezor.browser",
+   "name": "Dezor",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Dezor IPA browser is an Italian based proprietary web browser, created by Dezor APK Technologies. It is designed to provide an efficient",
+   "localizedDescription": "ipaomtk.com | Dezor IPA browser is an Italian based proprietary web browser, created by Dezor APK Technologies. It is designed to provide an efficient",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/net.dezor_.browser.icon_.2023-02-24-09-22-55-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2023-03-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Dezor IPA browser is an Italian based proprietary web browser, created by Dezor APK Technologies. It is designed to provide an efficient",
+     "downloadURL": "https://file.ipaomtk.com/ipa/DezorMovies.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

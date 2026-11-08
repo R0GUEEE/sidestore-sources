@@ -1,0 +1,30 @@
+{
+ "name": "Instagram",
+ "identifier": "dev.perapp.com-burbn-instagram",
+ "subtitle": "Instagram",
+ "description": "Single-app source for Instagram (com.burbn.instagram). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.burbn.instagram",
+   "name": "Instagram",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with RyukGram",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "454.0.0",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Injected with RyukGram",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Instagram_454.0.0_RyukGram_%40thisismanpreets_apptesters.org.ipa",
+     "size": 380812690
+    }
+   ]
+  }
+ ]
+}

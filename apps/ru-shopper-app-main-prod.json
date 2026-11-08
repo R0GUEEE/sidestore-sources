@@ -1,0 +1,30 @@
+{
+ "name": "YourShopper",
+ "identifier": "dev.perapp.ru-shopper-app-main-prod",
+ "subtitle": "YourShopper",
+ "description": "Single-app source for YourShopper (ru.shopper.app.main.prod). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.shopper.app.main.prod",
+   "name": "YourShopper",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from: @glesign\n\n~\n\nYourShopper v5.1.1\n\n🇷🇺 Приложение Газпром Банка\n— Удалено из App Store \n© Создано: GLESign\n\n🇺🇸 Gazprombank's App\n— Removed in App Store\n© Created by: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from: @glesign\n\n~\n\nYourShopper v5.1.1\n\n🇷🇺 Приложение Газпром Банка\n— Удалено из App Store \n© Создано: GLESign\n\n🇺🇸 Gazprombank's App\n— Removed in App Store\n© Created by: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/98485b11-cb11-4260-be14-1607547e978f/YourShopper_v5.1.1_tg_glesign_.ipa",
+     "size": 238604783
+    }
+   ]
+  }
+ ]
+}

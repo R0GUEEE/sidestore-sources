@@ -1,0 +1,30 @@
+{
+ "name": "Police",
+ "identifier": "dev.perapp.mytown-police",
+ "subtitle": "ipaomtk.com | My Town Police IPA v3.02 Game is an interactive mobile application that immerses young players in the exci",
+ "description": "Single-app source for Police (mytown.police). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/My-Town-Police.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "mytown.police",
+   "name": "Police",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | My Town Police IPA v3.02 Game is an interactive mobile application that immerses young players in the exciting world of law enforcement.",
+   "localizedDescription": "ipaomtk.com | My Town Police IPA v3.02 Game is an interactive mobile application that immerses young players in the exciting world of law enforcement.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/My-Town-Police.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.00.01",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | My Town Police IPA v3.02 Game is an interactive mobile application that immerses young players in the exciting world of law enforcement.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/My_Town__Police_v.3.01-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

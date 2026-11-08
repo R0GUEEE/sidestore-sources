@@ -1,0 +1,30 @@
+{
+ "name": "Revenge",
+ "identifier": "dev.perapp.com-hammerandchisel-homicide",
+ "subtitle": "Homicidal Discord Client?",
+ "description": "Single-app source for Revenge (com.hammerandchisel.homicide). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/IMG_5351-7I.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hammerandchisel.homicide",
+   "name": "Revenge",
+   "developerName": "Palm",
+   "subtitle": "Homicidal Discord Client?",
+   "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/IMG_5351-7I.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "252.0.0",
+     "date": "2024-10-26T00:00:00Z",
+     "localizedDescription": "Revenge is a Vendetta/Bunny Alternative.\n\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/Revenge_discordnotrack_IPA_Edit-4G.ipa",
+     "size": 197037916
+    }
+   ]
+  }
+ ]
+}

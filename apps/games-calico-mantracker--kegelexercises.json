@@ -1,0 +1,44 @@
+{
+ "name": "KegelExercises",
+ "identifier": "dev.perapp.games-calico-mantracker",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for KegelExercises (games.calico.mantracker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "games.calico.mantracker",
+   "name": "KegelExercises",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.calico.mantracker.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.8",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-10-2025/DrKegel_1.0.8_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 140196801
+    },
+    {
+     "version": "1.0.9",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-12-2025/DrKegel_1.0.9_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 140403906
+    },
+    {
+     "version": "1.0.13",
+     "date": "2026-07-01T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/KegelExercises_1.0.13_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 140410437
+    }
+   ]
+  }
+ ]
+}

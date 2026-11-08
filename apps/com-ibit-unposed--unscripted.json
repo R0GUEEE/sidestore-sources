@@ -1,0 +1,44 @@
+{
+ "name": "Unscripted",
+ "identifier": "dev.perapp.com-ibit-unposed",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Unscripted (com.ibit.UNPOSED). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ibit.UNPOSED.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ibit.UNPOSED",
+   "name": "Unscripted",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ibit.UNPOSED.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.4",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-08-2025/Unscripted_4.4.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 131504572
+    },
+    {
+     "version": "4.6.1",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Unscripted_4.6.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 156109785
+    },
+    {
+     "version": "4.5.6",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Unscripted_4.5.6_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 155154692
+    }
+   ]
+  }
+ ]
+}

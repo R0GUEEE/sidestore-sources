@@ -1,0 +1,50 @@
+{
+ "name": "Atrasis",
+ "identifier": "dev.perapp.com-supercell-magic",
+ "subtitle": "A modded Clash of Clans server!",
+ "description": "Single-app source for Atrasis (com.supercell.magic). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "9e6193",
+ "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/WfWpKOF.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.supercell.magic",
+   "name": "Atrasis",
+   "developerName": "Atrasis Team",
+   "subtitle": "A modded Clash of Clans server!",
+   "localizedDescription": "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\nNOTE: IF THE APP REQUIRES AN UPDATE, REINSTALL FROM THIS LINK AS THE DOWNLOAD URL IS ALWAYS THE LATEST AND I DO NOT MANUALLY CHANGE IT.\n\nTO KEEP YOUR PROGRESS, MAKE AN ATRASIS ID, ITS DONE THE SAME AS IF YOU ARE MAKING A SUPERCELL ID, AND SIGN IN AFTER REINSTALLING\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
+   "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/WfWpKOF.png",
+   "tintColor": "9e6193",
+   "screenshots": [
+    "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-1.webp",
+    "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-2.webp",
+    "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-3.webp",
+    "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-4.webp",
+    "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-5.webp"
+   ],
+   "versions": [
+    {
+     "version": "18.600.7",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "Private server that allows you to create and build keep in mind this doesn’t actually save",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1860",
+     "size": 562104922
+    },
+    {
+     "version": "18.400.7",
+     "date": "2026-07-11T00:00:00Z",
+     "localizedDescription": "Private server that allows you to create and build keep in mind this doesn’t actually save",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1860",
+     "size": 466201463
+    },
+    {
+     "version": "latest",
+     "date": "2024-05-10T00:00:00Z",
+     "localizedDescription": "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\nNOTE: IF THE APP REQUIRES AN UPDATE, REINSTALL FROM THIS LINK AS THE DOWNLOAD URL IS ALWAYS THE LATEST AND I DO NOT MANUALLY CHANGE IT.\n\nTO KEEP YOUR PROGRESS, MAKE AN ATRASIS ID, ITS DONE THE SAME AS IF YOU ARE MAKING A SUPERCELL ID, AND SIGN IN AFTER REINSTALLING\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
+     "downloadURL": "https://atrasisclash.net/server-original-ios-download-ipa.php",
+     "size": 277000000
+    }
+   ]
+  }
+ ]
+}

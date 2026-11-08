@@ -1,0 +1,30 @@
+{
+ "name": "iSH-AOK",
+ "identifier": "dev.perapp.app-ish-ish-aok",
+ "subtitle": "iSH-AOK",
+ "description": "Single-app source for iSH-AOK (app.ish.iSH-AOK). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/694109f4-9bec-4216-8ca7-2787fbf6afc1/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "app.ish.iSH-AOK",
+   "name": "iSH-AOK",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nISH-AOK latest TestFlight verision\n(Reupload for zx repo)\n- it’s technically a x86_64 Linux vm",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/694109f4-9bec-4216-8ca7-2787fbf6afc1/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nISH-AOK latest TestFlight verision\n(Reupload for zx repo)\n- it’s technically a x86_64 Linux vm",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/8dd55e6b-a137-4525-8c29-55de0431b55d/ISH-AOK_1.3-TDMbest.ipa",
+     "size": 8387650
+    }
+   ]
+  }
+ ]
+}

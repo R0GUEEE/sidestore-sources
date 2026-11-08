@@ -1,0 +1,30 @@
+{
+ "name": "FInal DOOM",
+ "identifier": "dev.perapp.com-tdmbest-doomfinal",
+ "subtitle": "FInal DOOM",
+ "description": "Single-app source for FInal DOOM (com.TDMbest.doomfinal). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/9ebf4387-0e0f-4758-ad0b-479965e87d07/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TDMbest.doomfinal",
+   "name": "FInal DOOM",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDOOM II ported to iOS!\n(Reupload for zx repo)\ncompiled tomkidd’s DOOM-iOS",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/9ebf4387-0e0f-4758-ad0b-479965e87d07/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDOOM II ported to iOS!\n(Reupload for zx repo)\ncompiled tomkidd’s DOOM-iOS",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/40137aba-6d70-4ac9-8952-b3577f192195/Final_DOOM-tomkidd.ipa",
+     "size": 37058684
+    }
+   ]
+  }
+ ]
+}

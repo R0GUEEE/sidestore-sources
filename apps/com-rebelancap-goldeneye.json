@@ -1,0 +1,30 @@
+{
+ "name": "GoldenEye",
+ "identifier": "dev.perapp.com-rebelancap-goldeneye",
+ "subtitle": "GoldenEye 007 for iPhone & Apple Vision Pro:  The GoldenEye 007 XBLA remaster — Rare's Xbox 360 remake, finished in 2007",
+ "description": "Single-app source for GoldenEye (com.rebelancap.goldeneye). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.goldeneye.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.goldeneye",
+   "name": "GoldenEye",
+   "developerName": "rebelancap",
+   "subtitle": "GoldenEye 007 for iPhone & Apple Vision Pro:  The GoldenEye 007 XBLA remaster — Rare's Xbox 360 remake, finished in 2007 and never released — running ",
+   "localizedDescription": "GoldenEye 007 for iPhone & Apple Vision Pro:  The GoldenEye 007 XBLA remaster — Rare's Xbox 360 remake, finished in 2007 and never released — running\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.goldeneye.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "GoldenEye 007 for iPhone & Apple Vision Pro:  The GoldenEye 007 XBLA remaster — Rare's Xbox 360 remake, finished in 2007 and never released — running ",
+     "downloadURL": "https://github.com/rebelancap/GoldenEye-Recomp-ios/releases/download/v1.0.2/goldeneye-xbla-1.0.2-iOS.ipa",
+     "size": 12949124
+    }
+   ]
+  }
+ ]
+}

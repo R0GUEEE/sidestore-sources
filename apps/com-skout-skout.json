@@ -1,0 +1,30 @@
+{
+ "name": "SKOUT",
+ "identifier": "dev.perapp.com-skout-skout",
+ "subtitle": "ipaomtk.com | SKOUT IPA For iOS is a revolutionary mobile application that takes the convenience and communication of th",
+ "description": "Single-app source for SKOUT (com.skout.SKOUT). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-skout-meet-chat-go-live-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skout.SKOUT",
+   "name": "SKOUT",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | SKOUT IPA For iOS is a revolutionary mobile application that takes the convenience and communication of the normal instant messenger and",
+   "localizedDescription": "ipaomtk.com | SKOUT IPA For iOS is a revolutionary mobile application that takes the convenience and communication of the normal instant messenger and",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-skout-meet-chat-go-live-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.68.0",
+     "date": "2023-11-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | SKOUT IPA For iOS is a revolutionary mobile application that takes the convenience and communication of the normal instant messenger and",
+     "downloadURL": "https://file.ipaomtk.com/ipa/SKOUT.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

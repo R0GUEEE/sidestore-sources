@@ -1,0 +1,30 @@
+{
+ "name": "Erythros",
+ "identifier": "dev.perapp.com-keyneed-erythroslite",
+ "subtitle": "ipaomtk.com | Erythros Lite IPA is an engaging game designed exclusively for iOS devices, promising hours of immersive e",
+ "description": "Single-app source for Erythros (com.keyneed.erythroslite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Erythros-Lite-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.keyneed.erythroslite",
+   "name": "Erythros",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Erythros Lite IPA is an engaging game designed exclusively for iOS devices, promising hours of immersive entertainment. Developed with a",
+   "localizedDescription": "ipaomtk.com | Erythros Lite IPA is an engaging game designed exclusively for iOS devices, promising hours of immersive entertainment. Developed with a",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Erythros-Lite-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.02.25",
+     "date": "2025-05-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Erythros Lite IPA is an engaging game designed exclusively for iOS devices, promising hours of immersive entertainment. Developed with a",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Erythros_Lite_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

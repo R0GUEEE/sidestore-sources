@@ -1,0 +1,44 @@
+{
+ "name": "Quizlet",
+ "identifier": "dev.perapp.com-quizlet-quizlet",
+ "subtitle": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Quizlet (com.quizlet.quizlet). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.quizlet.quizlet",
+   "name": "Quizlet",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.quizlet.quizlet.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.1",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/20-08-2025/Quizlet_10.1_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 62899789
+    },
+    {
+     "version": "10.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Quizlet_10.2_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 62979035
+    },
+    {
+     "version": "10.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-08-2025/Quizlet_10.0_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 62689930
+    }
+   ]
+  }
+ ]
+}

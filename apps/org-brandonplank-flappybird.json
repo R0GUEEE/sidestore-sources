@@ -1,0 +1,44 @@
+{
+ "name": "Flappy Bird",
+ "identifier": "dev.perapp.org-brandonplank-flappybird",
+ "subtitle": "A near-exact clone of the original Flappy Bird!  Status: ✅🔥",
+ "description": "Single-app source for Flappy Bird (org.brandonplank.flappybird). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://files.catbox.moe/l9tlpa.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.brandonplank.flappybird",
+   "name": "Flappy Bird",
+   "developerName": "Dong Nguyen",
+   "subtitle": "A near-exact clone of the original Flappy Bird!  Status: ✅🔥",
+   "localizedDescription": "A near-exact clone of the original Flappy Bird!  Status: ✅🔥",
+   "iconURL": "https://files.catbox.moe/l9tlpa.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "FlappyBird:  This is an extremely close clone to the original FlappyBird by Dong Nguyen.  Compatibility:  FlappyBird is compatible with the iPhone 6s ",
+     "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.5/org.brandonplank.flappybird.ipa",
+     "size": 1238203
+    },
+    {
+     "version": "1.21.22",
+     "date": "2024-09-26T00:00:00Z",
+     "localizedDescription": "A near-exact clone of the original Flappy Bird!  Status: ✅🔥",
+     "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+     "size": 96468992
+    },
+    {
+     "version": "4.3",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to Flappy Bird IPA Flappy Bird IPA MOD is one of the most famous and addictive mobile games ever created. Simple in design ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/FlappyBird.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

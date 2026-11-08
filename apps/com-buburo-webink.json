@@ -1,0 +1,42 @@
+{
+ "name": "Webink",
+ "identifier": "dev.perapp.com-buburo-webink",
+ "subtitle": "Manga reader for iOS, Android and macOS. Latest releases, install guides and Android on Google Play",
+ "description": "Single-app source for Webink (com.buburo.webink). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1baead",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.buburo.webink.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.buburo.webink",
+   "name": "Webink",
+   "developerName": "buburod",
+   "subtitle": "Manga reader for iOS, Android and macOS. Latest releases, install guides and Android on Google Play",
+   "localizedDescription": "Installation guides.\n\nWhat Webink does:\n\n• Browse new and trending manga from multiple supported sources.\n• Search for titles across sources.\n• Keep saved titles, reading status and chapter progress in one library.\n• Sync your library across devices after signing in.\n\nWebink is a reader for third-party sources. It does not host manga content.\n\nLinks:\n\n• iOS and iPadOS install guide.\n• macOS install guide.\n• Android on Google Play.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.buburo.webink.png",
+   "tintColor": "#1baead",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/buburod/webink-releases@main/img/webink-library.png",
+    "https://cdn.jsdelivr.net/gh/buburod/webink-releases@main/img/webink-library-sync.png",
+    "https://cdn.jsdelivr.net/gh/buburod/webink-releases@main/img/webink-manga-search.png",
+    "https://cdn.jsdelivr.net/gh/buburod/webink-releases@main/img/webink-reading-progress.png",
+    "https://cdn.jsdelivr.net/gh/buburod/webink-releases@main/img/webink-trending-releases.png"
+   ],
+   "versions": [
+    {
+     "version": "20261029",
+     "date": "2026-10-29T17:02:14Z",
+     "localizedDescription": "• Fix blocked chapters in the AsuraScans source.\n• Fix manga data and requests in the LelManga source.\n• Fix the base URL of the MangaKakalot source.\n• Fix chapter list pagination in the MangaLivre source.\n• Fix image loading in the PoseidonScans source.\n• Add the French RimuScans source.\n• Fix cloud item syncing in the library and improve loading.\n• Fix login on macOS.\n• Fix chapter read status.\n• Fix FlareProxy requests and error handling.\n• Fix remote config loading.\n• Update Firebase dependencies.",
+     "downloadURL": "https://github.com/buburod/webink-releases/releases/download/20261029/Webink-1.2.4-117.ipa",
+     "size": 35181244
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you."
+    }
+   }
+  }
+ ]
+}

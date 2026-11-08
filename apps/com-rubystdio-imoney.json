@@ -1,0 +1,30 @@
+{
+ "name": "iMoney",
+ "identifier": "dev.perapp.com-rubystdio-imoney",
+ "subtitle": "ipaomtk.com | iMoney: Quản Lý Chi Tiêu IPA MOD (Paid) iOS is a powerful personal finance management app designed for iOS",
+ "description": "Single-app source for iMoney (com.rubystdio.imoney). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iMoney-Quan-Ly-Chi-Tieu.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rubystdio.imoney",
+   "name": "iMoney",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | iMoney: Quản Lý Chi Tiêu IPA MOD (Paid) iOS is a powerful personal finance management app designed for iOS devices, focusing on the 50/3",
+   "localizedDescription": "ipaomtk.com | iMoney: Quản Lý Chi Tiêu IPA MOD (Paid) iOS is a powerful personal finance management app designed for iOS devices, focusing on the 50/3",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iMoney-Quan-Ly-Chi-Tieu.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.5",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | iMoney: Quản Lý Chi Tiêu IPA MOD (Paid) iOS is a powerful personal finance management app designed for iOS devices, focusing on the 50/3",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iMoney-v1.1.5_2024-10-13_11-53-26-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "AsTools",
+ "identifier": "dev.perapp.rn-notes-best",
+ "subtitle": "I can only verify that this works with TrollStore. Also, the entire app is in Chinese. Chinese app store, lets you downl",
+ "description": "Single-app source for AsTools (rn.notes.best). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/rn.notes.best.png",
+ "apps": [
+  {
+   "bundleIdentifier": "rn.notes.best",
+   "name": "AsTools",
+   "developerName": "N/A",
+   "subtitle": "I can only verify that this works with TrollStore. Also, the entire app is in Chinese. Chinese app store, lets you download and install apps such as D",
+   "localizedDescription": "I can only verify that this works with TrollStore. Also, the entire app is in Chinese. Chinese app store, lets you download and install apps such as D",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/rn.notes.best.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.7",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "I can only verify that this works with TrollStore. Also, the entire app is in Chinese. Chinese app store, lets you download and install apps such as D",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AsTools/AsTools-2.1.7.ipa",
+     "size": 14918039
+    }
+   ]
+  }
+ ]
+}

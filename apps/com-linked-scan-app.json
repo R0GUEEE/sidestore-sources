@@ -1,0 +1,30 @@
+{
+ "name": "Yellow T",
+ "identifier": "dev.perapp.com-linked-scan-app",
+ "subtitle": "Yellow T",
+ "description": "Single-app source for Yellow T (com.linked.scan.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.linked.scan.app",
+   "name": "Yellow T",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nYellow T v2.4\n\n🇷🇺 Жёлтый банк снова с вами \n— Удалённое приложение из AppStore\n— Работает только через TrollStore\n© Создано: GLESign\n\n🇺🇸 The Yellow Bank is with you again\n— Deleted app from the AppStore\n— Works only through the TrollStore\n© Created by: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nYellow T v2.4\n\n🇷🇺 Жёлтый банк снова с вами \n— Удалённое приложение из AppStore\n— Работает только через TrollStore\n© Создано: GLESign\n\n🇺🇸 The Yellow Bank is with you again\n— Deleted app from the AppStore\n— Works only through the TrollStore\n© Created by: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/9ef5a01b-ef52-48be-8b7f-3a57f6b6fec0/Yellow_T_v2.4_tg_glesign_.ipa",
+     "size": 195829083
+    }
+   ]
+  }
+ ]
+}

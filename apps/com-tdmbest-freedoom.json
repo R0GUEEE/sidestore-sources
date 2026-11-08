@@ -1,0 +1,30 @@
+{
+ "name": "FREEDOOM1",
+ "identifier": "dev.perapp.com-tdmbest-freedoom",
+ "subtitle": "FREEDOOM1",
+ "description": "Single-app source for FREEDOOM1 (com.TDMbest.freedoom). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/7d9cb4d6-d747-4322-b6b7-d8520f1c234b/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TDMbest.freedoom",
+   "name": "FREEDOOM1",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nOnly Freedoom port for iOS you can find\n(Reupload for zx repo)\n- I ran out of app ids to use \n- this is only freedoom1.wad \n\nwhen I refresh I’ll complete it give it the proper deserving sequel. I changed some files to run freedoom instead first ‘original’ thing from this channel\n\nSpecial credits to the people who made the code tomkidd and jadinTsunami\n\nhttps://github.com/tomkidd/DOOM-iOS\nhttps://github.com/JadingTsunami/FinalJudgment-iOS",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/7d9cb4d6-d747-4322-b6b7-d8520f1c234b/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nOnly Freedoom port for iOS you can find\n(Reupload for zx repo)\n- I ran out of app ids to use \n- this is only freedoom1.wad \n\nwhen I refresh I’ll complete it give it the proper deserving sequel. I changed some files to run freedoom instead first ‘original’ thing from this channel\n\nSpecial credits to the people who made the code tomkidd and jadinTsunami\n\nhttps://github.com/tomkidd/DOOM-iOS\nhttps://github.com/JadingTsunami/FinalJudgment-iOS",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/deb8482c-bfb1-4dc7-b25b-154d7991064d/FREEDOOM1-TDMbest.ipa",
+     "size": 26637033
+    }
+   ]
+  }
+ ]
+}

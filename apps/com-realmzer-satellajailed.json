@@ -1,0 +1,30 @@
+{
+ "name": "SatellaJailed",
+ "identifier": "dev.perapp.com-realmzer-satellajailed",
+ "subtitle": "IAP purchases for free.",
+ "description": "Single-app source for SatellaJailed (com.realmzer.satellajailed). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "690ff5",
+ "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.realmzer.satellajailed",
+   "name": "SatellaJailed",
+   "developerName": "Paisseon",
+   "subtitle": "IAP purchases for free.",
+   "localizedDescription": "Allows you to get free IAP in some apps while sideloading.\nStatus: ✅✨",
+   "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+   "tintColor": "690ff5",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-10-18T00:00:00Z",
+     "localizedDescription": "Allows you to get free IAP in some apps while sideloading.\nStatus: ✅✨",
+     "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-Dylibs/SatellaJailed.dylib",
+     "size": 8331776
+    }
+   ]
+  }
+ ]
+}

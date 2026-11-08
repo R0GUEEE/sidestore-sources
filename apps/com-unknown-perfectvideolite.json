@@ -1,0 +1,30 @@
+{
+ "name": "Perfect Video Lite",
+ "identifier": "dev.perapp.com-unknown-perfectvideolite",
+ "subtitle": "•Premium Features Unlocked",
+ "description": "Single-app source for Perfect Video Lite (com.unknown.perfectvideolite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Perfect.Video.Lite.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.perfectvideolite",
+   "name": "Perfect Video Lite",
+   "developerName": "Karbin-Store",
+   "subtitle": "•Premium Features Unlocked",
+   "localizedDescription": "•Premium Features Unlocked",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Perfect.Video.Lite.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.7.2",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "•Premium Features Unlocked",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Perfect.Video.v8.7.2.ipa",
+     "size": 24130000
+    }
+   ]
+  }
+ ]
+}

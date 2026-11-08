@@ -1,0 +1,30 @@
+{
+ "name": "SkyGuide",
+ "identifier": "dev.perapp.com-fifthstarlabs-skyguide",
+ "subtitle": "Injected with Plus",
+ "description": "Single-app source for SkyGuide (com.fifthstarlabs.skyguide). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fifthstarlabs.skyguide",
+   "name": "SkyGuide",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Plus",
+   "localizedDescription": "Injected with Plus\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifthstarlabs.skyguide.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.0.3",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/SkyGuide_13.0.3_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 309084265
+    }
+   ]
+  }
+ ]
+}

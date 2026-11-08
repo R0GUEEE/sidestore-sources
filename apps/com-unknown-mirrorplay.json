@@ -1,0 +1,30 @@
+{
+ "name": "MirrorPlay",
+ "identifier": "dev.perapp.com-unknown-mirrorplay",
+ "subtitle": "MirrorPlay by Karbin-Store",
+ "description": "Single-app source for MirrorPlay (com.unknown.mirrorplay). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/MirrorPlay.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.mirrorplay",
+   "name": "MirrorPlay",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/MirrorPlay.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/MirrorPlay-v1.3.0.ipa",
+     "size": 20990000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "SceneBox",
+ "identifier": "dev.perapp.app-scenebox-scenebox",
+ "subtitle": "SceneBox",
+ "description": "Single-app source for SceneBox (app.scenebox.SceneBox). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "d81a14",
+ "iconURL": "https://i.imgur.com/KSSr4ML.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.scenebox.SceneBox",
+   "name": "SceneBox",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://i.imgur.com/KSSr4ML.png",
+   "tintColor": "d81a14",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.4",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "Initial addition.",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SceneBox.v1.0.4.ipa",
+     "size": 30593765
+    }
+   ],
+   "appPermissions": {
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "SceneBox connects directly to peers over your local network and the internet to stream and download."
+    }
+   }
+  }
+ ]
+}

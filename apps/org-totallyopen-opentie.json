@@ -1,0 +1,36 @@
+{
+ "name": "OpenTIE",
+ "identifier": "dev.perapp.org-totallyopen-opentie",
+ "subtitle": "OpenTIE is an open-source reimplementation of Star Wars: TIE Fighter for",
+ "description": "Single-app source for OpenTIE (org.totallyopen.opentie). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#368045",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.totallyopen.opentie.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.totallyopen.opentie",
+   "name": "OpenTIE",
+   "developerName": "yoshisuga",
+   "subtitle": "OpenTIE is an open-source reimplementation of Star Wars: TIE Fighter for",
+   "localizedDescription": "OpenTIE:\n\nOpenTIE is an open-source reimplementation of Star Wars: TIE Fighter for Windows, macOS, and Linux. It runs the original game data natively on current systems and supports both the 1995 Collector's CD-ROM and the 1998 Windows release.\n\nWith both editions installed, OpenTIE can combine the 1995 menus, cutscenes, and adaptive iMUSE soundtrack with the 1998 flight simulation and 3D assets.\n\nOpenTIE does not include any content from the original game. A complete installation of at least one supported edition is required. Install both editions to use the recommended combination.\n\nStar Wars: TIE Fighter Special Edition is available from GOG and Steam.\n\nThe best of both editions:\n\nThe 1995 and 1998 releases each have their own presentation, flight simulation, and soundtrack. OpenTIE lets the menus and cutscenes, flight simulation, and music be selected independently.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.totallyopen.opentie.png",
+   "tintColor": "#368045",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/yoshisuga/OpenTIE@main/assets/opentie-001.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.2.0",
+     "date": "2026-10-17T18:46:30Z",
+     "localizedDescription": "An experimental build of OpenTIE for iPhone and iPad (iOS 16 or later), from the ios branch. It runs the same engine as the desktop builds, drawing with Metal, with touch controls added.\n\nYou need your own copy of TIE Fighter. No game data is included. OpenTIE supports the 1998 Windows release and the 1995 Collector's CD-ROM (Star Wars: TIE Fighter Special Edition on GOG or Steam); the 1994 floppy edition isn't supported.\n\nWhat's new in 0.2.0:\n\n• MENU: the top row folds into one button at the top center. Its buttons fan out on the same line either side of it, and draw back in when it closes. While paused, RESUME takes its place.\n• Map controls: one finger rotates the view, two fingers pan it, and a pinch zooms. Buttons beside the map zoom, switch the top and side views, center on your target, choose which craft are shown, and turn the info pages. A tap no longer zooms in by accident.\n• Every wingman order: CMD opens the wingman screen on a tap; held, its wheel has all ten orders.\n• Colored buttons: each kind of control has its own color — weapons, targeting, flying, power, info and views, and game controls.\n\nThe IPA is unsigned. Install it with a sideloading tool that signs it with your own Apple ID, such as AltStore, SideStore or Sideloadly.\n\nGame files:\n\nCopy each edition's complete installation folder into OpenTIE's Documents folder: in the Files app, On My iPhone › OpenTIE (Finder shows it under the device's Files tab). A new install creates empty TIE95 and TIE98 folders there to copy into; OpenTIE finds the games at launch.\n\nFor SC-55 music, put the ROM dumps in a folder in Documents and choose it in OpenTIE Options › Audio.\n\nControls:\n\n• Flight stick: put your left thumb down anywhere outside the buttons and drag. GYRO (left bar) adds the phone's turning.\n• Right bar: throttle up and down, weapons, linking, match speed, roll, TGT and FIRE.\n• Left bar: ESC, the keyboard, power management (PWR), target memories (MEM), GYRO, and a throttle slider.\n• MENU: pause, confirm, INFO, VIEW, CMD, MISSION and CHKPT.\n\n• Menus: tap to click; SKIP skips a whole cutscene sequence.\n• Game controllers: the touch controls step aside while one is in use.\n\nThe full description is in packaging/ios/README.md.\n\nKnown limits:\n\n• Experimental: expect rough edges.\n• Checkpoints last only within the mission they were saved in.\n• No FluidSynth; OPL3 and SC-55 music work.\n• The touch buttons can't be moved or resized yet.",
+     "downloadURL": "https://github.com/yoshisuga/OpenTIE/releases/download/ios-v0.2.0/OpenTIE-iOS-0.2.0-unsigned.ipa",
+     "size": 3921388
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

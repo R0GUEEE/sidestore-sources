@@ -1,0 +1,44 @@
+{
+ "name": "ToonMe",
+ "identifier": "dev.perapp.com-informelab-toonme",
+ "subtitle": "@ipa_dark | 🔄 ToonMe Мультяшные фото фильтры - appstore  🇷🇺 Фоторедактор с ИИ, превращающий фотографии в мультяшные и ри",
+ "description": "Single-app source for ToonMe (com.informelab.toonme). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1609.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.informelab.toonme",
+   "name": "ToonMe",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 ToonMe Мультяшные фото фильтры - appstore  🇷🇺 Фоторедактор с ИИ, превращающий фотографии в мультяшные и рисованные портреты с помощью фи",
+   "localizedDescription": "@ipa_dark | 🔄 ToonMe Мультяшные фото фильтры - appstore  🇷🇺 Фоторедактор с ИИ, превращающий фотографии в мультяшные и рисованные портреты с помощью фи",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1609.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.26",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-09-2025/ToonMe_0.11.26_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 136234726
+    },
+    {
+     "version": "0.11.34",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 ToonMe Мультяшные фото фильтры - appstore  🇷🇺 Фоторедактор с ИИ, превращающий фотографии в мультяшные и рисованные портреты с помощью фи",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1609-ToonMe%20VIP%20%5Bv0.11.34%5D%28tg@ipa_dark%29.ipa",
+     "size": 138002996
+    },
+    {
+     "version": "0.11.28",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/04-10-2025/ToonMe_0.11.28_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 131699433
+    }
+   ]
+  }
+ ]
+}

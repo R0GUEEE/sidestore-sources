@@ -1,0 +1,50 @@
+{
+ "name": "Namma Wallet",
+ "identifier": "dev.perapp.com-nammaflutter-nammawallet",
+ "subtitle": "Namma Wallet is an open-source Flutter mobile application for managing digital travel tickets and passes",
+ "description": "Single-app source for Namma Wallet (com.nammaflutter.nammawallet). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4ca8ba",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nammaflutter.nammawallet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nammaflutter.nammawallet",
+   "name": "Namma Wallet",
+   "developerName": "Namma-Flutter",
+   "subtitle": "Namma Wallet is an open-source Flutter mobile application for managing digital travel tickets and passes",
+   "localizedDescription": "Namma Wallet:\n\nNamma Wallet is an open-source Flutter mobile application for managing digital travel tickets and passes. It provides a unified interface to save, organise, and view tickets from multiple sources, including SMS, PDFs, QR codes, and clipboard text. The app features intelligent parsing for Indian transport providers and generates beautiful digital ticket designs. Unlike Apple Wallet or Google Wallet, which support only specific formats, Namma Wallet is a flexible, community-driven solution that works with any ticket type and format.\n\nMulti-Source Ticket Management:\n\n• SMS Parsing – Automatically extract tickets from TNSTC, IRCTC, and SETC SMS messages.\n• PDF Processing – Parse TNSTC bus tickets from PDF files using Syncfusion PDF library.\n• Image Processing - Parse District movie tickets from Images.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nammaflutter.nammawallet.png",
+   "tintColor": "#4ca8ba",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Namma-Flutter/namma_wallet@main/assets/screenshots/home.png",
+    "https://cdn.jsdelivr.net/gh/Namma-Flutter/namma_wallet@main/assets/screenshots/all_tickets.png",
+    "https://cdn.jsdelivr.net/gh/Namma-Flutter/namma_wallet@main/assets/screenshots/ticket_view.png",
+    "https://cdn.jsdelivr.net/gh/Namma-Flutter/namma_wallet@main/assets/screenshots/import.png",
+    "https://cdn.jsdelivr.net/gh/Namma-Flutter/namma_wallet@main/assets/screenshots/calendar.png"
+   ],
+   "versions": [
+    {
+     "version": "0.0.8",
+     "date": "2026-10-06T13:22:45Z",
+     "localizedDescription": "• Added subtle haptic feedback when navigating and interacting with tickets.\n• Enhanced ticket parsing with support for newer layout styles.\n\n• Bug fixes and stability improvements.",
+     "downloadURL": "https://github.com/Namma-Flutter/namma_wallet/releases/download/v0.0.8%2B15/namma-wallet-v0.0.8%2B15.ipa",
+     "size": 51744517
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "Camera access is required to scan QR codes",
+     "NSPhotoLibraryUsageDescription": "This app needs photo library access to scan barcodes from images."
+    }
+   }
+  }
+ ]
+}

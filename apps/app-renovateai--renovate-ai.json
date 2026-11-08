@@ -1,0 +1,30 @@
+{
+ "name": "Renovate AI",
+ "identifier": "dev.perapp.app-renovateai",
+ "subtitle": "@ipavault | Pro Unlocked Build by @ipavault Need a certificate? 📲 Support me on Ko-Fi 😘",
+ "description": "Single-app source for Renovate AI (app.renovateai). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/1120.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.renovateai",
+   "name": "Renovate AI",
+   "developerName": "@ipavault",
+   "subtitle": "@ipavault | Pro Unlocked Build by @ipavault Need a certificate? 📲 Support me on Ko-Fi 😘",
+   "localizedDescription": "@ipavault | Pro Unlocked\n\nBuild by @ipavault\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/1120.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@ipavault | Pro Unlocked Build by @ipavault Need a certificate? 📲 Support me on Ko-Fi 😘",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1120-Renovate%20AI%205.6.0%20%28Pro%29%20%5B@ipavault%5D.ipa",
+     "size": 67093169
+    }
+   ]
+  }
+ ]
+}

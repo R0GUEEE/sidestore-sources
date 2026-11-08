@@ -1,0 +1,30 @@
+{
+ "name": "Favorites",
+ "identifier": "dev.perapp.com-gubi-favorites-widget",
+ "subtitle": "ipaomtk.com | Favorites Widget Pro IPA IOS is an innovative mobile application designed to give users quick and easy acc",
+ "description": "Single-app source for Favorites (com.gubi.Favorites-Widget). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/photo_2023-05-31_06-28-13-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gubi.Favorites-Widget",
+   "name": "Favorites",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Favorites Widget Pro IPA IOS is an innovative mobile application designed to give users quick and easy access to their favorites lists. ",
+   "localizedDescription": "ipaomtk.com | Favorites Widget Pro IPA IOS is an innovative mobile application designed to give users quick and easy access to their favorites lists. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/photo_2023-05-31_06-28-13-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.0",
+     "date": "2023-05-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Favorites Widget Pro IPA IOS is an innovative mobile application designed to give users quick and easy access to their favorites lists. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Favorites.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

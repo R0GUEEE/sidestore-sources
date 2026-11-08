@@ -1,0 +1,30 @@
+{
+ "name": "PeakFinder",
+ "identifier": "dev.perapp.ch-peakfinder-peakfinder-alps",
+ "subtitle": "ipaomtk.com | PeakFinder IPA (Paid) iOS is an innovative mobile application designed for outdoor enthusiasts, particular",
+ "description": "Single-app source for PeakFinder (ch.peakfinder.peakfinder-alps). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/PeakFinder.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "ch.peakfinder.peakfinder-alps",
+   "name": "PeakFinder",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | PeakFinder IPA (Paid) iOS is an innovative mobile application designed for outdoor enthusiasts, particularly hikers and mountain climber",
+   "localizedDescription": "ipaomtk.com | PeakFinder IPA (Paid) iOS is an innovative mobile application designed for outdoor enthusiasts, particularly hikers and mountain climber",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/PeakFinder.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.8.20",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | PeakFinder IPA (Paid) iOS is an innovative mobile application designed for outdoor enthusiasts, particularly hikers and mountain climber",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PeakFinder-v4.8.20_2024-10-22_18-11-34-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

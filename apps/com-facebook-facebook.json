@@ -1,0 +1,44 @@
+{
+ "name": "Facebook",
+ "identifier": "dev.perapp.com-facebook-facebook",
+ "subtitle": "@compiledipas | Glow 1.3.2 FB v572.0.0  @dvntms might needa update his tweak for some functions to work",
+ "description": "Single-app source for Facebook (com.facebook.Facebook). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1328.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.facebook.Facebook",
+   "name": "Facebook",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | Glow 1.3.2 FB v572.0.0  @dvntms might needa update his tweak for some functions to work",
+   "localizedDescription": "@compiledipas | Glow 1.3.2 FB v572.0.0  @dvntms might needa update his tweak for some functions to work",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1328.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "586.0.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Facebook Wolf brings a number of new features to Facebook such as:  User • Disable marking messages as seen • Disable typing status in messages • No f",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v586.0.0.+.iQFace.ipa",
+     "size": 248198767
+    },
+    {
+     "version": "585.0.0",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Facebook 585.0.0  ▪Updated to Facebook 585.0.0 Builds: ▪iQFace 1.2 ▪Facebook Plus 1.0.2 Steps to access iQFace settings:  1.) Ta",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1104-Facebook%20Plus%201.0.2%20%28FB%20585.0.0%29%20%5B@ipavault%5D.ipa",
+     "size": 237801950
+    },
+    {
+     "version": "584.1.0",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Facebook 584.1.0  ▪Updated to Facebook 584.1.0 Builds: ▪iQFace 1.2 ▪Facebook Plus 1.0.2 Steps to access iQFace settings:  1.) Ta",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/993-Facebook%20584.1.0%20%28iQFace%29%20%5B@ipavault%5D.ipa",
+     "size": 241651824
+    }
+   ]
+  }
+ ]
+}

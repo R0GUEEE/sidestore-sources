@@ -1,0 +1,30 @@
+{
+ "name": "Applesauce",
+ "identifier": "dev.perapp.io-github-johnny901901901-applesauce",
+ "subtitle": "Applesauce:  A playful emulator for iOS. It plays supported 32-bit iPhone games on modern iPhones — no jailbreak require",
+ "description": "Single-app source for Applesauce (io.github.johnny901901901.applesauce). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.johnny901901901.applesauce.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.johnny901901901.applesauce",
+   "name": "Applesauce",
+   "developerName": "johnny901901901",
+   "subtitle": "Applesauce:  A playful emulator for iOS. It plays supported 32-bit iPhone games on modern iPhones — no jailbreak required, though JIT is. It installs ",
+   "localizedDescription": "Applesauce:  A playful emulator for iOS. It plays supported 32-bit iPhone games on modern iPhones — no jailbreak required, though JIT is. It installs\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.johnny901901901.applesauce.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Applesauce:  A playful emulator for iOS. It plays supported 32-bit iPhone games on modern iPhones — no jailbreak required, though JIT is. It installs ",
+     "downloadURL": "https://github.com/johnny901901901/Applesauce/releases/download/ios-v0.4.1/Applesauce-iOS-unsigned.ipa",
+     "size": 46123889
+    }
+   ]
+  }
+ ]
+}

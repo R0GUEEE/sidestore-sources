@@ -1,0 +1,30 @@
+{
+ "name": "Keyboard GPT",
+ "identifier": "dev.perapp.synthetic-keyboard-gpt-62566e07",
+ "subtitle": "Keyboard GPT by Karbin-Store",
+ "description": "Single-app source for Keyboard GPT (synthetic.keyboard-gpt.62566e07). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Keyboord.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.keyboard-gpt.62566e07",
+   "name": "Keyboard GPT",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "➜ Ai Chat GPT",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Keyboord.jpeg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.22",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "➜ Ai Chat GPT",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Keyboard.GPT.ipa",
+     "size": 89810000
+    }
+   ]
+  }
+ ]
+}

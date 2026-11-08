@@ -1,0 +1,44 @@
+{
+ "name": "Huckleberry",
+ "identifier": "dev.perapp.com-huckleberry-labs-app",
+ "subtitle": "Huckleberry",
+ "description": "Single-app source for Huckleberry (com.huckleberry-labs.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.huckleberry-labs.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.huckleberry-labs.app",
+   "name": "Huckleberry",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.huckleberry-labs.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "v0.9.301",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Huckleberry is your all-in-one baby tracker and parenting partner, trusted by 5+ million families worldwide, from your first contraction to your baby's first steps. Our award-winning baby tracker app helps new parents track baby sleep, feeding, growth, and with expert guidance at every stage.\r\n\r\nBacked by a team of pediatric experts, Huckleberry supports every family's journey, as a maternity app through the late stages of pregnancy, a newborn tracker in the early days, a baby sleep tracker, and solid foods log as your child grows. We turn guesswork into confidence, one stage at a time.\r\n\r\nCONTRACTION TIMER Time contractions with one tap. Track duration, intensity, and frequency. The first tool in your Huckleberry journey, built for expecting pa",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2272",
+     "size": 74305770
+    },
+    {
+     "version": "0.9.283",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Huckleberry_0.9.283_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 58388496
+    },
+    {
+     "version": "0.9.282",
+     "date": "2025-12-16T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Huckleberry_0.9.282_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 59753068
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Stippl",
+ "identifier": "dev.perapp.com-stippl-stippl",
+ "subtitle": "Stippl",
+ "description": "Single-app source for Stippl (com.stippl.stippl). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stippl.stippl.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stippl.stippl",
+   "name": "Stippl",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stippl.stippl.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.81",
+     "date": "2025-08-23T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Stippl_2.0.81_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 77996214
+    }
+   ]
+  }
+ ]
+}

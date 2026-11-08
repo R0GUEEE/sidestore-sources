@@ -1,0 +1,37 @@
+{
+ "name": "Dreamdale",
+ "identifier": "dev.perapp.com-dream-dale",
+ "subtitle": "ipaomtk.com | whimsical journey to Dreamdale Fairy Adventure IPA, where enchantment and adventure await at every turn. D",
+ "description": "Single-app source for Dreamdale (com.dream.dale). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Dreamdale-Fairy-Adventure-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dream.dale",
+   "name": "Dreamdale",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | whimsical journey to Dreamdale Fairy Adventure IPA, where enchantment and adventure await at every turn. Dreamdale Fairy Adventure In th",
+   "localizedDescription": "ipaomtk.com | whimsical journey to Dreamdale Fairy Adventure IPA, where enchantment and adventure await at every turn. Dreamdale Fairy Adventure In th",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Dreamdale-Fairy-Adventure-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.2",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | whimsical journey to Dreamdale Fairy Adventure IPA, where enchantment and adventure await at every turn. Dreamdale Fairy Adventure In th",
+     "downloadURL": "https://file.ipaomtk.com/dreamdale-fairy-adventure-ipa/Dreamdale-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.13.0",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | whimsical journey to Dreamdale Fairy Adventure IPA, where enchantment and adventure await at every turn. Dreamdale Fairy Adventure In th",
+     "downloadURL": "https://file.ipaomtk.com/dreamdale-fairy-adventure-ipa/Dreamdale-IPAOMTK.COM.ipa",
+     "size": 226757794
+    }
+   ]
+  }
+ ]
+}

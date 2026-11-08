@@ -1,0 +1,30 @@
+{
+ "name": "Swiftgram",
+ "identifier": "dev.perapp.app-swiftgram-ios",
+ "subtitle": "Swiftgram",
+ "description": "Single-app source for Swiftgram (app.swiftgram.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.swiftgram.ios",
+   "name": "Swiftgram",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.1.2",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Swiftgram_13.1.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 87999323
+    }
+   ]
+  }
+ ]
+}

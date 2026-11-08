@@ -1,0 +1,44 @@
+{
+ "name": "Fur Affinity",
+ "identifier": "dev.perapp.ceylo-furaffinity",
+ "subtitle": "🐾 Connect with your furaffinity.net account and enjoy the furry community in a native app.  📱 FEATURES - Browse the late",
+ "description": "Single-app source for Fur Affinity (ceylo.FurAffinity). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://get.furaffinity.app/altstore/AppIconLG.heic",
+ "apps": [
+  {
+   "bundleIdentifier": "ceylo.FurAffinity",
+   "name": "Fur Affinity",
+   "developerName": "Ceylo",
+   "subtitle": "🐾 Connect with your furaffinity.net account and enjoy the furry community in a native app.  📱 FEATURES - Browse the latest submissions from your follo",
+   "localizedDescription": "🐾 Connect with your furaffinity.net account and enjoy the furry community in a native app.  📱 FEATURES - Browse the latest submissions from your follo",
+   "iconURL": "https://get.furaffinity.app/altstore/AppIconLG.heic",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.19",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "🐾 Connect with your furaffinity.net account and enjoy the furry community in a native app.  📱 FEATURES - Browse the latest submissions from your follo",
+     "downloadURL": "https://github.com/Ceylo/FurAffinityApp/releases/download/1.16.3/FurAffinity-1.16.3-516ef13.ipa",
+     "size": 17058515
+    },
+    {
+     "version": "1.16.3",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "🐾 Connect with your furaffinity.net account and enjoy the furry community in a native app.  📱 FEATURES - Browse the latest submissions from your follo",
+     "downloadURL": "https://github.com/Ceylo/FurAffinityApp/releases/download/1.16.3/FurAffinity-1.16.3-516ef13.ipa",
+     "size": 20217707
+    },
+    {
+     "version": "1.18",
+     "date": "2026-07-13T00:00:00Z",
+     "localizedDescription": "🐾 Connect with your furaffinity.net account and enjoy the furry community in a native app.  📱 FEATURES - Browse the latest submissions from your follo",
+     "downloadURL": "https://github.com/Ceylo/FurAffinityApp/releases/download/1.16.3/FurAffinity-1.16.3-516ef13.ipa",
+     "size": 12969760
+    }
+   ]
+  }
+ ]
+}

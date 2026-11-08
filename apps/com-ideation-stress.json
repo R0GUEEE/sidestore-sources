@@ -1,0 +1,44 @@
+{
+ "name": "StressWatch",
+ "identifier": "dev.perapp.com-ideation-stress",
+ "subtitle": "@blatants | StressWatch: AI Stress Monitor  • Bundle ID: com.ideation.Stress • Updated to: 3.3.1 • Minimum iOS: 15.0 • P",
+ "description": "Single-app source for StressWatch (com.ideation.Stress). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11488.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ideation.Stress",
+   "name": "StressWatch",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | StressWatch: AI Stress Monitor  • Bundle ID: com.ideation.Stress • Updated to: 3.3.1 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+   "localizedDescription": "@blatants | StressWatch: AI Stress Monitor  • Bundle ID: com.ideation.Stress • Updated to: 3.3.1 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11488.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.5",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@blatants | StressWatch: AI Stress Monitor  • Bundle ID: com.ideation.Stress • Updated to: 3.4.5 • Minimum iOS: 16.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/StressWatch_3.4.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 354576598
+    },
+    {
+     "version": "3.4.4",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@blatants | StressWatch: AI Stress Monitor  • Bundle ID: com.ideation.Stress • Updated to: 3.4.4 • Minimum iOS: 16.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/StressWatch_3.4.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 352967317
+    },
+    {
+     "version": "3.4.3",
+     "date": "2026-10-19T00:00:00Z",
+     "localizedDescription": "@blatants | StressWatch: AI Stress Monitor  • Bundle ID: com.ideation.Stress • Updated to: 3.4.3 • Minimum iOS: 16.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12885-StressWatch_AI_Stress_Monitor_v3_4_3_Subscription_Unlocked_blatant.ipa",
+     "size": 353454629
+    }
+   ]
+  }
+ ]
+}

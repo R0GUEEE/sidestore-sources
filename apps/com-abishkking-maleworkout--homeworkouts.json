@@ -1,0 +1,30 @@
+{
+ "name": "HomeWorkouts",
+ "identifier": "dev.perapp.com-abishkking-maleworkout",
+ "subtitle": "HomeWorkouts",
+ "description": "Single-app source for HomeWorkouts (com.abishkking.maleworkout). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.maleworkout.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.abishkking.maleworkout",
+   "name": "HomeWorkouts",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.abishkking.maleworkout.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.32.0",
+     "date": "2025-03-04T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/HomeWorkouts_1.32.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 372920637
+    }
+   ]
+  }
+ ]
+}

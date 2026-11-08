@@ -1,0 +1,37 @@
+{
+ "name": "Mystery Matters",
+ "identifier": "dev.perapp.com-playrix-mystery-matters",
+ "subtitle": "ipaomtk.com | Mystery Matters IPA Game! This immersive mobile experience promises to take you on a thrilling journey fil",
+ "description": "Single-app source for Mystery Matters (com.playrix.mystery-matters). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/icon-2-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playrix.mystery-matters",
+   "name": "Mystery Matters",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Mystery Matters IPA Game! This immersive mobile experience promises to take you on a thrilling journey filled with suspense, intrigue, a",
+   "localizedDescription": "ipaomtk.com | Mystery Matters IPA Game! This immersive mobile experience promises to take you on a thrilling journey filled with suspense, intrigue, a",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/icon-2-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.5.0",
+     "date": "2024-09-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Mystery Matters IPA Game! This immersive mobile experience promises to take you on a thrilling journey filled with suspense, intrigue, a",
+     "downloadURL": "https://file.ipaomtk.com/mystery-matters/Mystery-Matters-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "4.0.2",
+     "date": "2024-09-24T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Mystery Matters IPA Game! This immersive mobile experience promises to take you on a thrilling journey filled with suspense, intrigue, a",
+     "downloadURL": "https://file.ipaomtk.com/mystery-matters/Mystery-Matters-IPAOMTK.COM.ipa",
+     "size": 219878000
+    }
+   ]
+  }
+ ]
+}

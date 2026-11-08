@@ -1,0 +1,30 @@
+{
+ "name": "FindUnfollow",
+ "identifier": "dev.perapp.co-iinvent-whounfollowed",
+ "subtitle": "ipaomtk.com | FindUnfollow IPA Social media plays an important role in our lives, from keeping up with friends and famil",
+ "description": "Single-app source for FindUnfollow (co.iinvent.whounfollowed). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/FindUnfollow-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "co.iinvent.whounfollowed",
+   "name": "FindUnfollow",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FindUnfollow IPA Social media plays an important role in our lives, from keeping up with friends and family to staying up to date on the",
+   "localizedDescription": "ipaomtk.com | FindUnfollow IPA Social media plays an important role in our lives, from keeping up with friends and family to staying up to date on the",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/FindUnfollow-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.2",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FindUnfollow IPA Social media plays an important role in our lives, from keeping up with friends and family to staying up to date on the",
+     "downloadURL": "https://file.ipaomtk.com/ipa/FindUnfollow.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

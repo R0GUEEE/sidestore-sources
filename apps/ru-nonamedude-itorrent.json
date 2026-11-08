@@ -1,0 +1,44 @@
+{
+ "name": "iTorrent",
+ "identifier": "dev.perapp.ru-nonamedude-itorrent",
+ "subtitle": "Probably the best Torrent client for iOS 9.3 and up. Last updated: 07-30-2024 Status: ✅ 👍 ⭐",
+ "description": "Single-app source for iTorrent (ru.nonamedude.iTorrent). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.nonamedude.iTorrent",
+   "name": "iTorrent",
+   "developerName": "XITRIX",
+   "subtitle": "Probably the best Torrent client for iOS 9.3 and up. Last updated: 07-30-2024 Status: ✅ 👍 ⭐",
+   "localizedDescription": "Probably the best Torrent client for iOS 9.3 and up. Last updated: 07-30-2024 Status: ✅ 👍 ⭐",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ru.nonamedude.iTorrent.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.0-1",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "iTorrent - a torrent client for iOS with Files app support.  What this app can do:  • Download in the background • Sequential download (use VLC to wat",
+     "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.2.0-1/iTorrent.ipa",
+     "size": 24288935
+    },
+    {
+     "version": "2.2.0",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "iTorrent - a torrent client for iOS with Files app support.  What this app can do:  • Download in the background • Sequential download (use VLC to wat",
+     "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.2.0-1/iTorrent.ipa",
+     "size": 24288935
+    },
+    {
+     "version": "1.8",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "iTorrent is a torrent client for iOS with Files app support.",
+     "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/iTorrent/iTorrent.ipa?raw=true",
+     "size": 20132659
+    }
+   ]
+  }
+ ]
+}

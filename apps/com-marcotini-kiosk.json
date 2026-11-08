@@ -1,0 +1,30 @@
+{
+ "name": "Kiosk",
+ "identifier": "dev.perapp.com-marcotini-kiosk",
+ "subtitle": "ipaomtk.com | KoisK IPA MOD is a new product launched by the KoisK computer company, designed to revolutionize desktop c",
+ "description": "Single-app source for Kiosk (com.marcotini.kiosk). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/photo_2023-05-31_08-02-19-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.marcotini.kiosk",
+   "name": "Kiosk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | KoisK IPA MOD is a new product launched by the KoisK computer company, designed to revolutionize desktop computing. The product is a rev",
+   "localizedDescription": "ipaomtk.com | KoisK IPA MOD is a new product launched by the KoisK computer company, designed to revolutionize desktop computing. The product is a rev",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/photo_2023-05-31_08-02-19-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.12",
+     "date": "2023-05-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | KoisK IPA MOD is a new product launched by the KoisK computer company, designed to revolutionize desktop computing. The product is a rev",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Kiosk_editable_browser-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PlayHome Plus",
+ "identifier": "dev.perapp.com-unknown-playhomeplus",
+ "subtitle": "بیهێنە بەرچاوت خانووی بووکەڵەیەک کە منداڵەکەت بتوانێت هەموو شتێک بەکاربهێنە، تەنانەت ژوورەکانیش. تەلەفزیۆن و دوش. لەو شو",
+ "description": "Single-app source for PlayHome Plus (com.unknown.playhomeplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/PlayHome.Plus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.playhomeplus",
+   "name": "PlayHome Plus",
+   "developerName": "Karbin-Store",
+   "subtitle": "بیهێنە بەرچاوت خانووی بووکەڵەیەک کە منداڵەکەت بتوانێت هەموو شتێک بەکاربهێنە، تەنانەت ژوورەکانیش. تەلەفزیۆن و دوش. لەو شوێنەی کە دەتوانیت سووری بکەیتەو",
+   "localizedDescription": "بیهێنە بەرچاوت خانووی بووکەڵەیەک کە منداڵەکەت بتوانێت هەموو شتێک بەکاربهێنە، تەنانەت ژوورەکانیش. تەلەفزیۆن و دوش. لەو شوێنەی کە دەتوانیت سووری بکەیتەو",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/PlayHome.Plus.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.13.5",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "بیهێنە بەرچاوت خانووی بووکەڵەیەک کە منداڵەکەت بتوانێت هەموو شتێک بەکاربهێنە، تەنانەت ژوورەکانیش. تەلەفزیۆن و دوش. لەو شوێنەی کە دەتوانیت سووری بکەیتەو",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/PlayHome.Plus._1.13.5_1737295810.ipa",
+     "size": 141080000
+    }
+   ]
+  }
+ ]
+}

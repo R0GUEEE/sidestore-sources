@@ -1,0 +1,30 @@
+{
+ "name": "Swiftfin iOS",
+ "identifier": "dev.perapp.org-jellyfin-swiftfin",
+ "subtitle": "Swiftfin is a fast, native video player that works with Jellyfin, the open source free software media server.  This buil",
+ "description": "Single-app source for Swiftfin iOS (org.jellyfin.swiftfin). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.jellyfin.swiftfin.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.jellyfin.swiftfin",
+   "name": "Swiftfin iOS",
+   "developerName": "RipeStore",
+   "subtitle": "Swiftfin is a fast, native video player that works with Jellyfin, the open source free software media server.  This build is distributed by a third-pa",
+   "localizedDescription": "Swiftfin is a fast, native video player that works with Jellyfin, the open source free software media server.  This build is distributed by a third-pa\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.jellyfin.swiftfin.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Swiftfin is a fast, native video player that works with Jellyfin, the open source free software media server.  This build is distributed by a third-pa",
+     "downloadURL": "https://github.com/RipeStore/Swiftfin/releases/download/1.6.1/Swiftfin-ios-1.6.1-unsigned.ipa",
+     "size": 195584763
+    }
+   ]
+  }
+ ]
+}

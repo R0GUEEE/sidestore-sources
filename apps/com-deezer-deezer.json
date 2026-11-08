@@ -1,0 +1,37 @@
+{
+ "name": "Deezer++",
+ "identifier": "dev.perapp.com-deezer-deezer",
+ "subtitle": "Deezer is a music streaming platform that enables you to match The Power of Music to your lifestyle and identity.  Enjoy",
+ "description": "Single-app source for Deezer++ (com.deezer.Deezer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://img.ipa4fun.com/23/af/ed/292738169-icon.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.deezer.Deezer",
+   "name": "Deezer++",
+   "developerName": "iJulioVerne",
+   "subtitle": "Deezer is a music streaming platform that enables you to match The Power of Music to your lifestyle and identity.  Enjoy a massive music catalog that ",
+   "localizedDescription": "Deezer is a music streaming platform that enables you to match The Power of Music to your lifestyle and identity.  Enjoy a massive music catalog that ",
+   "iconURL": "https://img.ipa4fun.com/23/af/ed/292738169-icon.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.15.0",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Deezer is a music streaming platform that enables you to match The Power of Music to your lifestyle and identity.  Enjoy a massive music catalog that ",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Deezer.v7.15.0.+.Deezelife.v0.5.ipa",
+     "size": 29200000
+    },
+    {
+     "version": "7.1.1",
+     "date": "2020-10-15T00:00:00Z",
+     "localizedDescription": "Your life deserves its own soundtrack. With 56 million tracks, playlists and podcasts plus personalized recommendations just for you, Deezer is your m",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Deezer++.ipa",
+     "size": 99126030
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Layers",
+ "identifier": "dev.perapp.com-mikevillarroel-layers",
+ "subtitle": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen custo",
+ "description": "Single-app source for Layers (com.mikevillarroel.layers). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/layers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mikevillarroel.layers",
+   "name": "Layers",
+   "developerName": "MikeBuilds",
+   "subtitle": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen customization, no jailbreak. Ships ",
+   "localizedDescription": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen customization, no jailbreak. Ships\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/layers.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "Bakes icon borders, dock tint and depth shadows into your wallpaper at the exact icon-grid positions - home screen customization, no jailbreak. Ships ",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Layers.v1.0.5.ipa",
+     "size": 889664
+    }
+   ]
+  }
+ ]
+}

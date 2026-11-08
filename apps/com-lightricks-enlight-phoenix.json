@@ -1,0 +1,30 @@
+{
+ "name": "Motionleap",
+ "identifier": "dev.perapp.com-lightricks-enlight-phoenix",
+ "subtitle": "Motionleap",
+ "description": "Single-app source for Motionleap (com.lightricks.Enlight-Phoenix). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lightricks.Enlight-Phoenix",
+   "name": "Motionleap",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Phoenix.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.38",
+     "date": "2026-08-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Motionleap_1.9.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 186688962
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SNES4iOS",
+ "identifier": "dev.perapp.com-macbuildserver-helloapp",
+ "subtitle": "ipaomtk.com | Do you have fond memories of playing classic SNES games from the ’90s? Now you can relive those memories w",
+ "description": "Single-app source for SNES4iOS (com.macbuildserver.helloapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/snes9x-ex-2-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.macbuildserver.helloapp",
+   "name": "SNES4iOS",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Do you have fond memories of playing classic SNES games from the ’90s? Now you can relive those memories with the SNES4iOS emulator. SNE",
+   "localizedDescription": "ipaomtk.com | Do you have fond memories of playing classic SNES games from the ’90s? Now you can relive those memories with the SNES4iOS emulator. SNE",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/snes9x-ex-2-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2023-02-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Do you have fond memories of playing classic SNES games from the ’90s? Now you can relive those memories with the SNES4iOS emulator. SNE",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Snes4ios.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

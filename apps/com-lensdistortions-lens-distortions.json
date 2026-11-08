@@ -1,0 +1,44 @@
+{
+ "name": "LD",
+ "identifier": "dev.perapp.com-lensdistortions-lens-distortions",
+ "subtitle": "@riftysIPAlibrary | LD - Photo & Video Finishing  Tweak: Premium Unlocked  Version: 6.10.1  Patched ✓  @riftysIPAlibrary",
+ "description": "Single-app source for LD (com.lensdistortions.Lens-Distortions). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7284.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lensdistortions.Lens-Distortions",
+   "name": "LD",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | LD - Photo & Video Finishing  Tweak: Premium Unlocked  Version: 6.10.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+   "localizedDescription": "@riftysIPAlibrary | LD - Photo & Video Finishing  Tweak: Premium Unlocked  Version: 6.10.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7284.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.10.2",
+     "date": "2026-08-13T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | LD - Photo & Video Finishing  Tweak: Premium Unlocked  Version: 6.10.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7433-LD%20-%20Photo%20&%20Video%20Finishing-v6.10.2-riftysipas.ipa",
+     "size": 119100001
+    },
+    {
+     "version": "6.10.1",
+     "date": "2026-08-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | LD - Photo & Video Finishing  Tweak: Premium Unlocked  Version: 6.10.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7284-LD%20-%20Photo%20&%20Video%20Finishing-v6.10.1-riftysipas.ipa",
+     "size": 118909581
+    },
+    {
+     "version": "6.9.1",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/LD_6.9.1_TTJB.ipa",
+     "size": 118002179
+    }
+   ]
+  }
+ ]
+}

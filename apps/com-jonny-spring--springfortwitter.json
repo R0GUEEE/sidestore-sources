@@ -1,0 +1,30 @@
+{
+ "name": "SpringForTwitter",
+ "identifier": "dev.perapp.com-jonny-spring",
+ "subtitle": "This is not working. I'm uploading this version for archival purposes. Note: Initially this will work upon the first log",
+ "description": "Single-app source for SpringForTwitter (com.jonny.spring). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.jonny.spring.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jonny.spring",
+   "name": "SpringForTwitter",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "This is not working. I'm uploading this version for archival purposes. Note: Initially this will work upon the first login after installation with…",
+   "localizedDescription": "This is not working. I'm uploading this version for archival purposes. Note: Initially this will work upon the first login after installation with TrollStore. However after restarting, it will start checking the App ID used for the purchase and close itself. I believe there's no way to bypass this..\nLast updated: 01-06-2024\nStatus: ❌\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.jonny.spring.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "This is not working. I'm uploading this version for archival purposes. Note: Initially this will work upon the first login after installation with…",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2023/SpringForTwitter-4.3.1.ipa",
+     "size": 39469083
+    }
+   ]
+  }
+ ]
+}

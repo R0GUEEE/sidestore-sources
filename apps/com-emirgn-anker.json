@@ -1,0 +1,41 @@
+{
+ "name": "Anker",
+ "identifier": "dev.perapp.com-emirgn-anker",
+ "subtitle": "Spaced-repetition flashcards built for learning German — on your Mac, iPad and Android phone",
+ "description": "Single-app source for Anker (com.emirgn.anker). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#af95eb",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.emirgn.anker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.emirgn.anker",
+   "name": "Anker",
+   "developerName": "emiregg",
+   "subtitle": "Spaced-repetition flashcards built for learning German — on your Mac, iPad and Android phone",
+   "localizedDescription": "Anker is German for anchor — it anchors words in your memory. (And yes, it sounds like Anki.).\n\nWhat's inside:\n\nA proper SRS engine.\n\n• FSRS scheduling (via ts-fsrs) with learning/relearning steps, desired retention, daily new/review limits that cascade through sub-decks, sibling burying, suspend/bury/flag, undo, and leech detection.\n• Note types: Wort (German vocabulary), Basic, Basic + reversed, Type the answer (letter-by-letter diff, umlaut-aware) and Cloze ({{c1::…}}).\n• Search with Anki-style syntax: deck:\"Deutsch::A1\" gender:die is:due -tag:done added:7 rated:1 german:haus.\n• Anki import (.apkg / .colpkg, old and new formats): decks, tags, images — and your review history replayed through FSRS, so your progress comes with you. CSV/TSV word lists and JSON backups too.\n\nMade for German.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.emirgn.anker.png",
+   "tintColor": "#af95eb",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/emiregg/anker@main/docs/screenshots/android-today-v3.png",
+    "https://cdn.jsdelivr.net/gh/emiregg/anker@main/docs/screenshots/android-study-v2.png",
+    "https://cdn.jsdelivr.net/gh/emiregg/anker@main/docs/screenshots/android-otto-v3.png"
+   ],
+   "versions": [
+    {
+     "version": "0.7.0",
+     "date": "2026-10-18T07:30:15Z",
+     "localizedDescription": "• v0.7.0: tap a word to see what it means.",
+     "downloadURL": "https://github.com/emiregg/anker/releases/download/v0.7.0/Anker-0.7.0.ipa",
+     "size": 1678860
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Anker syncs your cards with the Anker app on your Mac over your local network.",
+     "NSMicrophoneUsageDescription": "Anker uses the microphone for voice chats with Otto, your German tutor."
+    }
+   }
+  }
+ ]
+}

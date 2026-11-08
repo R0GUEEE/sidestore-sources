@@ -1,0 +1,44 @@
+{
+ "name": "NetAdShield",
+ "identifier": "dev.perapp.com-lucasditomase-bloquealos-lite",
+ "subtitle": "ipaomtk.com | NetAdShield IPA v13.3 a promising platform that claims to offer users a fortified shield against invasive ",
+ "description": "Single-app source for NetAdShield (com.lucasditomase.Bloquealos.lite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/NetAdShield-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lucasditomase.Bloquealos.lite",
+   "name": "NetAdShield",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | NetAdShield IPA v13.3 a promising platform that claims to offer users a fortified shield against invasive advertisements and tracking. A",
+   "localizedDescription": "ipaomtk.com | NetAdShield IPA v13.3 a promising platform that claims to offer users a fortified shield against invasive advertisements and tracking. A",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/NetAdShield-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.3",
+     "date": "2025-02-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | NetAdShield IPA v13.3 a promising platform that claims to offer users a fortified shield against invasive advertisements and tracking. A",
+     "downloadURL": "https://file.ipaomtk.com/ipa/NetAdShield-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "10.5",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Block Ads and Trackers IPA v10.7 is a powerful privacy-focused application designed to enhance users’ browsing experience on iOS devices",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Block_Ads_and_Trackers-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    },
+    {
+     "version": "10.3",
+     "date": "2024-10-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | NetStopus Blocks Ads IPA, Are you tired of being bombarded with intrusive ads while browsing the web or using your favorite apps on your",
+     "downloadURL": "https://file.ipaomtk.com/ipa/NetStopus_Blocks_Ads-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

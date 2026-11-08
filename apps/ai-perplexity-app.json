@@ -1,0 +1,30 @@
+{
+ "name": "Perplexity",
+ "identifier": "dev.perapp.ai-perplexity-app",
+ "subtitle": "ipaomtk.com | Perplexity – Ask Anything is an innovative AI-powered search and chat application that revolutionizes info",
+ "description": "Single-app source for Perplexity (ai.perplexity.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Perplexity-Ask-Anything-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.perplexity.app",
+   "name": "Perplexity",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Perplexity – Ask Anything is an innovative AI-powered search and chat application that revolutionizes information discovery and sharing.",
+   "localizedDescription": "ipaomtk.com | Perplexity – Ask Anything is an innovative AI-powered search and chat application that revolutionizes information discovery and sharing.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Perplexity-Ask-Anything-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.22.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Perplexity – Ask Anything is an innovative AI-powered search and chat application that revolutionizes information discovery and sharing.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Perplexity_-_Ask_Anything-v2.22.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

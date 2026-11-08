@@ -1,0 +1,30 @@
+{
+ "name": "Headway",
+ "identifier": "dev.perapp.synthetic-headway-5c4851f0",
+ "subtitle": "Headway by Karbin-Store",
+ "description": "Single-app source for Headway (synthetic.headway.5c4851f0). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Headway.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.headway.5c4851f0",
+   "name": "Headway",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "جميع الميزات مفتوحة ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Headway.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "288.1",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "جميع الميزات مفتوحة ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Headway.ipa",
+     "size": 94910000
+    }
+   ]
+  }
+ ]
+}

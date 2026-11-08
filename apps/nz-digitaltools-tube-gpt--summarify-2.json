@@ -1,0 +1,44 @@
+{
+ "name": "Summarify",
+ "identifier": "dev.perapp.nz-digitaltools-tube-gpt",
+ "subtitle": "Summarify",
+ "description": "Single-app source for Summarify (nz.digitaltools.Tube-GPT). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nz.digitaltools.Tube-GPT",
+   "name": "Summarify",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.14.159265",
+     "date": "2026-09-13T00:00:00Z",
+     "localizedDescription": "Introducing Summarify - the ultimate video summarization app powered by cutting-edge AI technology. Save time and effortlessly grasp the key insights from YouTube videos with our powerful summarization capabilities. Powered by AI Chat, Summarify ensures accuracy, coherence, and convenience in every summary.\r\n\r\nNow with over 15 different summary styles you can quickly summarize videos using simple summaries to data extraction, then export to PDF or markdown Summarify has never been more powerful!\r\n\r\nKey Features:\r\n- AI-Powered Summaries: Leverage the advanced language understanding of AI to generate concise and comprehensive summaries of YouTube videos.\r\n- Ask Questions: Chat with and ask questions about YouTube videos.\r\n- Video Searching: Search",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2237",
+     "size": 35169716
+    },
+    {
+     "version": "3.14.0",
+     "date": "2026-07-15T00:00:00Z",
+     "localizedDescription": "Introducing Summarify - the ultimate video summarization app powered by cutting-edge AI technology. Save time and effortlessly grasp the key insights from YouTube videos with our powerful summarization capabilities. Powered by AI Chat, Summarify ensures accuracy, coherence, and convenience in every summary.\r\n\r\nNow with over 15 different summary styles you can quickly summarize videos using simple summaries to data extraction, then export to PDF or markdown Summarify has never been more powerful!\r\n\r\nKey Features:\r\n- AI-Powered Summaries: Leverage the advanced language understanding of AI to generate concise and comprehensive summaries of YouTube videos.\r\n- Ask Questions: Chat with and ask questions about YouTube videos.\r\n- Video Searching: Search",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2237",
+     "size": 28381039
+    },
+    {
+     "version": "3.12.0",
+     "date": "2026-01-01T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/Summarify_3.12.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 23813611
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Lifesum",
+ "identifier": "dev.perapp.com-sillens-ishape",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Lifesum (com.sillens.iShape). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sillens.iShape",
+   "name": "Lifesum",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.0.0",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | Lifesum: AI Calorie Counter  • Bundle ID: com.sillens.iShape • Updated to: 24.0.0 • Minimum iOS: 17.0 • Patched • Modifier: Subscription U",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13033-Lifesum_AI_Calorie_Counter_v24_0_0_Subscription_Unlocked_blatant.ipa",
+     "size": 133416849
+    },
+    {
+     "version": "23.15.1",
+     "date": "2026-10-17T00:00:00Z",
+     "localizedDescription": "@blatants | Lifesum: AI Calorie Counter  • Bundle ID: com.sillens.iShape • Updated to: 23.15.1 • Minimum iOS: 17.0 • Patched • Modifier: Subscription ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12849-Lifesum_AI_Calorie_Counter_v23_15_1_Subscription_Unlocked_blatant.ipa",
+     "size": 133133727
+    },
+    {
+     "version": "23.15.0",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "@blatants | Lifesum: AI Calorie Counter  • Bundle ID: com.sillens.iShape • Updated to: 23.15.0 • Minimum iOS: 17.0 • Patched • Modifier: Subscription ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/Lifesum_23.15.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 132462064
+    }
+   ]
+  }
+ ]
+}

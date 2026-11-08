@@ -1,0 +1,30 @@
+{
+ "name": "Cash Flow",
+ "identifier": "dev.perapp.com-cross-apps-cashflow",
+ "subtitle": "ipaomtk.com | Cash Flow IPA, a digital companion designed to demystify the complexities of money management. This articl",
+ "description": "Single-app source for Cash Flow (com.cross-apps.cashflow). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Cash-Flow-8211-Income-Expense-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cross-apps.cashflow",
+   "name": "Cash Flow",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Cash Flow IPA, a digital companion designed to demystify the complexities of money management. This article aims ⁤to take you on a thoro",
+   "localizedDescription": "ipaomtk.com | Cash Flow IPA, a digital companion designed to demystify the complexities of money management. This article aims ⁤to take you on a thoro",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Cash-Flow-8211-Income-Expense-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.23",
+     "date": "2025-03-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Cash Flow IPA, a digital companion designed to demystify the complexities of money management. This article aims ⁤to take you on a thoro",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Cash_Flow_-_Income,_Expense-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

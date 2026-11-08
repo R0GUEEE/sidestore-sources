@@ -1,0 +1,38 @@
+{
+ "name": "VaultPad",
+ "identifier": "dev.perapp.com-chrissotraidis-vaultpad",
+ "subtitle": "Touch-enabled Fallout 2 for iPad",
+ "description": "Single-app source for VaultPad (com.chrissotraidis.vaultpad). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#926e3a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.vaultpad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chrissotraidis.vaultpad",
+   "name": "VaultPad",
+   "developerName": "chrissotraidis",
+   "subtitle": "Touch-enabled Fallout 2 for iPad",
+   "localizedDescription": "VaultPad does not include Fallout 2 or any Bethesda, ZeniMax, or Microsoft assets. You need data from a legally purchased copy. Import happens locally; VaultPad does not download or upload your game files.\n\nAI disclosure: VaultPad uses substantial AI assistance for code, tests, documentation, debugging and maintenance. Some support replies and maintenance tasks are automated. There is no audited percentage of AI-generated code. Build, test and device records describe what was checked. This disclosure concerns VaultPad's workflow, not the authorship of its upstream projects.\n\nBuilt for fingers. Faithful to Fallout 2.:\n\nFallout 2 Community Edition makes the game portable. VaultPad makes it playable by touch. Instead of asking every finger movement to impersonate a mouse, VaultPad turns the actions you need into clear, persistent choices.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.vaultpad.png",
+   "tintColor": "#926e3a",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/vaultpad@main/docs/images/vaultpad-gameplay.jpg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/vaultpad@main/docs/images/vaultpad-bring-your-own-game.jpg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/vaultpad@main/docs/images/vaultpad-field-terminal.png"
+   ],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-10-30T03:08:35Z",
+     "localizedDescription": "VaultPad Developer Preview 2 for iPadOS 15 or newer (0.1.0, build 2).\n\nA failed folder import could previously report success after replacing existing game data with an empty file. Importing from VaultPad's own Documents folder could also delete an input before reading it.\n\n• Stage every input and verify its full length and required-file headers before replacing installed data.\n• Replace each complete file atomically and preserve saves.\n• Return empty or invalid required files to setup, and display Files-picker errors.\n• Includes the previously merged UIKit scene startup fix for builds made with Xcode 27.\n\nThe unsigned arm64 IPA contains no Fallout 2 game data. Import files from your own legally purchased copy. Install over the existing app with the same signing account and bundle identifier to retain its data; do not uninstall first. Check the IPA against the accompanying SHA-256 file before installing.",
+     "downloadURL": "https://github.com/chrissotraidis/vaultpad/releases/download/v0.1.0-preview.2/VaultPad-0.1.0-preview.2-unsigned.ipa",
+     "size": 4317137
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Roam Control",
+ "identifier": "dev.perapp.com-sean-roamcontrol",
+ "subtitle": "Set a fixed reported location, preview and simulate Apple Maps walking routes, and save favourites and history — all fro",
+ "description": "Single-app source for Roam Control (com.sean.roamcontrol). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sean.roamcontrol",
+   "name": "Roam Control",
+   "developerName": "seanhowarthdev",
+   "subtitle": "Set a fixed reported location, preview and simulate Apple Maps walking routes, and save favourites and history — all from one map. Requires iOS 27 or ",
+   "localizedDescription": "Set a fixed reported location, preview and simulate Apple Maps walking routes, and save favourites and history — all from one map. Requires iOS 27 or\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Roam-Control/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.9",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "Set a fixed reported location, preview and simulate Apple Maps walking routes, and save favourites and history — all from one map. Requires iOS 27 or ",
+     "downloadURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.9/RoamControl-0.9.9-Build105.ipa",
+     "size": 4627321
+    },
+    {
+     "version": "0.9.7",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Set a fixed reported location, preview and simulate Apple Maps walking routes, and save favourites and history — all from one map. Requires iOS 27 or ",
+     "downloadURL": "https://github.com/seanhowarthdev/Roam-Control/releases/download/v0.9.7/RoamControl-0.9.7-Build96.ipa",
+     "size": 4111825
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "blurt.blog",
+ "identifier": "dev.perapp.blog-blurt-blurt",
+ "subtitle": "The build which was also submitted to the Apple for AppStore review",
+ "description": "Single-app source for blurt.blog (blog.blurt.blurt). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/512x512.png",
+ "apps": [
+  {
+   "bundleIdentifier": "blog.blurt.blurt",
+   "name": "blurt.blog",
+   "developerName": "sagarkothari88",
+   "subtitle": "The build which was also submitted to the Apple for AppStore review",
+   "localizedDescription": "The build which was also submitted to the Apple for AppStore review",
+   "iconURL": "https://gitlab.com/blurt/openblurt/blurt-mobile-app/-/raw/main/appstore-screenshots/512x512.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.7",
+     "date": "2023-01-01T00:00:00Z",
+     "localizedDescription": "The build which was also submitted to the Apple for AppStore review",
+     "downloadURL": "https://github.com/sag333ar/blurt-releases/releases/download/1.0.7%2836%29/Runner.ipa",
+     "size": 857669
+    }
+   ]
+  }
+ ]
+}

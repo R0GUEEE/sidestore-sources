@@ -1,0 +1,39 @@
+{
+ "name": "ReFlo+",
+ "identifier": "dev.perapp.com-flow8-control",
+ "subtitle": "ReFlo+: free touch-first controller for the Behringer Flow 8 (Android and iPad downloads)",
+ "description": "Single-app source for ReFlo+ (com.flow8.control). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#248b8f",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.flow8.control.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.flow8.control",
+   "name": "ReFlo+",
+   "developerName": "Wrighteousmike",
+   "subtitle": "ReFlo+: free touch-first controller for the Behringer Flow 8 (Android and iPad downloads)",
+   "localizedDescription": "ReFlo+:\n\nA free, touch-first controller for the Behringer Flow 8, built for working live techs. Fader strips for every mix, a drag-to-edit parametric EQ with a full-screen mode, an output EQ that works as a nine-band GEQ or fully parametric, FX control, output limiter and delay, a sends matrix, scenes and mute groups, over Bluetooth, on your phone, tablet or Mac.\n\nFree to download and use. No account, no ads, no tracking. It works fully offline: the only network request is an optional check on the first screen for a newer version.\n\nDownload:\n\n• iPhone / iPad: the IPA is unsigned; install it with a sideloading tool such as AltStore, SideStore, Sideloadly or TrollStore.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.flow8.control.png",
+   "tintColor": "#248b8f",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Wrighteousmike/ReFloPlus-Downloads@main/screenshots/14-phone-portrait-mix.png",
+    "https://cdn.jsdelivr.net/gh/Wrighteousmike/ReFloPlus-Downloads@main/screenshots/15-phone-portrait-channel.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.6",
+     "date": "2026-10-16T13:11:23Z",
+     "localizedDescription": "ReFlo+ 1.0.6:\n\nA free, touch-first controller for the Behringer Flow 8, built for working live techs. Fader strips for every mix, a drag-to-edit parametric EQ, graphic EQ, FX control, output limiter and delay, sends matrix, scenes, and mute groups.\n\nFree to download and use. No account, no ads, no tracking. It works fully offline: the only network request is an optional check on the first screen for a newer version.\n\nWhat's new in 1.0.6.\n\n• Mac app: a double-click ReFlo+ for macOS 12 or newer (Apple Silicon and Intel). It opens the full app in your web browser. See Install below for the one-time \"Open Anyway\" step.\n• Update notice: the first screen now checks this page for a newer version and shows a note with a link if there is one. It does nothing when you're offline. On Android this adds an Internet permission, used only for that check.\n• No Windows version: I tried. A Windows PC connects and sends commands fine, but Windows never delivers the mixer's replies, so the app can't load the mixer. It works on Mac, Android and iPhone/iPad.\n• Nothing else changed from 1.0.5.\n\nStill to confirm from 1.0.5 (please tell me if you see problems): the black screen after connecting should be fixed, but I can't test every device, and the Troubleshooting notes on the first screen help me find out why if it returns. The output EQ frequency and Q writes and the Main balance write aren't yet confirmed on a real mixer, so check them against the mixer's display.\n\nWhat's new in 1.0.5.\n\n• Output EQ, two modes: every output (Main, Mon 1, Mon 2) has a GEQ mode (nine fixed octave bands: drag up and down, paint across bands) and a Parametric mode (each of the nine nodes has its own frequency, gain and Q). Lock frequencies, Reset and Flat are there too.\n• Channel EQ: the lowest band is a bell with a Q control, like the others.\n• Main output Balance slider.\n• Full-screen EQ: an amber Expand button opens any channel or output EQ full screen. Close returns you; on Android the Back button closes it first.\n• FX tap tempo: the TAP button flashes on every beat.\n• Gain reduction: a light overlay on the level meter with a solid edge.\n• Disconnect from mixer and Leave demo return to the start screen.\n\nEarlier: 1.0.4 added the Troubleshooting notes. 1.0.3 added phone layouts, a Display size slider, full-height faders and a loading message. 1.0.2 added demo mode, optional tap animation and button haptics (off by default).\n\nDownloads:\n\nAndroid.\n\n• Open it. Allow \"install unknown apps\" for your browser or file app when asked.\n• If Play Protect warns about an unknown developer, choose Install anyway.\n• Open ReFlo+, press Pairing on the Flow 8, then tap Connect to Mixer. Allow the Bluetooth / Nearby devices permission.\n\niPhone / iPad The IPA is unsigned. Install it with your usual sideloading tool (for example AltStore, SideStore, Sideloadly or TrollStore), which signs it for your device. Then pair as above and allow Bluetooth access.\n\nMac.\n\n• Unzip reflo-plus-mac.zip and open ReFlo+ (move it to Applications if you like).\n• macOS will say it can't verify the app, because it isn't notarized by Apple. Open System Settings > Privacy & Security, scroll down and click Open Anyway (on older macOS, right-click the app and choose Open).\n• Allow Bluetooth when asked. ReFlo+ opens in your web browser; keep its small window open while you work and click Quit when finished.\n• Press Pairing on the Flow 8, then click Connect to Mixer.\n\nGood to know:\n\n• The Flow 8 accepts one control connection at a time. Close the official FLOW Mix app before connecting ReFlo+.\n• It sends live commands to the mixer (levels, phantom power, routing). Check settings before a show.\n• The mixer controls (faders, sends, mutes, solos, gain, comp, EQ, 48V, graphic EQ, output delay, scenes, mute groups) were tested on a real Flow 8. Still being confirmed on hardware: the FX presets and tempo, the Setup toggles, channel renaming by press-and-hold, and the iPhone/iPad app itself. Please report anything odd.\n•",
+     "downloadURL": "https://github.com/Wrighteousmike/ReFloPlus-Downloads/releases/download/v1.0.6/reflo-plus-ios.ipa",
+     "size": 203043
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "ReFlo+ uses Bluetooth to control your Flow 8 mixer."
+    }
+   }
+  }
+ ]
+}

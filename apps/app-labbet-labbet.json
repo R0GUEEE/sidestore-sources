@@ -1,0 +1,30 @@
+{
+ "name": "Labbet",
+ "identifier": "dev.perapp.app-labbet-labbet",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for Labbet (app.labbet.labbet). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.labbet.labbet",
+   "name": "Labbet",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.labbet.labbet.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.69",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Labbet_2.69_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 82936911
+    }
+   ]
+  }
+ ]
+}

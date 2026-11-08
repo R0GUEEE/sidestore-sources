@@ -1,0 +1,37 @@
+{
+ "name": "Copy Text On Screen",
+ "identifier": "dev.perapp.com-unknown-copytextonscreen",
+ "subtitle": "ئەپێکی تایبەی بە دەرکردنی دەق و نوسین بە شێوەزێکی ئاسان",
+ "description": "Single-app source for Copy Text On Screen (com.unknown.copytextonscreen). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Copy.Text.On.Screen.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.copytextonscreen",
+   "name": "Copy Text On Screen",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپێکی تایبەی بە دەرکردنی دەق و نوسین بە شێوەزێکی ئاسان",
+   "localizedDescription": "ئەپێکی تایبەی بە دەرکردنی دەق و نوسین بە شێوەزێکی ئاسان",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Copy.Text.On.Screen.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.4",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "ئەپێکی تایبەی بە دەرکردنی دەق و نوسین بە شێوەزێکی ئاسان",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Copy.Text.On.Screen.1.2.3.ipa",
+     "size": 25530000
+    },
+    {
+     "version": "1.2.3",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "ئەپێکی تایبەی بە دەرکردنی دەق و نوسین بە شێوەزێکی ئاسان",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Copy.Text.On.Screen.1.2.3.ipa",
+     "size": 26784504
+    }
+   ]
+  }
+ ]
+}

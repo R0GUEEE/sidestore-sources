@@ -1,0 +1,44 @@
+{
+ "name": "gossip",
+ "identifier": "dev.perapp.com-vanilla-gossip",
+ "subtitle": "@Sa1y0miii | Gossip. 🧸 Min.iOS: [17.6+] 🧀 App version: [1.1.2] !upd  🪼 App Store: https://apps.apple.com/app/id647036245",
+ "description": "Single-app source for gossip (com.vanilla.gossip). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11749.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vanilla.gossip",
+   "name": "gossip",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | Gossip. 🧸 Min.iOS: [17.6+] 🧀 App version: [1.1.2] !upd  🪼 App Store: https://apps.apple.com/app/id6470362455 📮 Notes: Subscription unlock",
+   "localizedDescription": "@Sa1y0miii | Gossip. 🧸 Min.iOS: [17.6+] 🧀 App version: [1.1.2] !upd  🪼 App Store: https://apps.apple.com/app/id6470362455 📮 Notes: Subscription unlock",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11749.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.5",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Gossip. 🧸 Min.iOS: [17.6+] 🧀 App version: [1.1.5] !upd  🪼 App Store: https://apps.apple.com/app/id6470362455 📮 Notes: Subscription unlock",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/12671-%E2%80%8E%20Gossip._v1.1.5_tg@Sa1y0miii.ipa",
+     "size": 22112989
+    },
+    {
+     "version": "1.1.4",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Gossip. 🧸 Min.iOS: [17.6+] 🧀 App version: [1.1.4] !upd  🪼 App Store: https://apps.apple.com/app/id6470362455 📮 Notes: Subscription unlock",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/12257-%E2%80%8E%20Gossip._v1.1.4_tg@Sa1y0miii.ipa",
+     "size": 21553090
+    },
+    {
+     "version": "1.1.2",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Gossip. 🧸 Min.iOS: [17.6+] 🧀 App version: [1.1.2] !upd  🪼 App Store: https://apps.apple.com/app/id6470362455 📮 Notes: Subscription unlock",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/11749-%E2%80%8E%20Gossip._v1.1.2_tg@Sa1y0miii.ipa",
+     "size": 21539312
+    }
+   ]
+  }
+ ]
+}

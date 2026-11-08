@@ -1,0 +1,30 @@
+{
+ "name": "Pusheen's Place",
+ "identifier": "dev.perapp.com-lively-pawpaw",
+ "subtitle": "@ipa_dark | 🔄 Домик Пушин - appstore    🇷🇺 Казуальная игра с виртуальным питомцем, где можно заботиться о Пушин, украшат",
+ "description": "Single-app source for Pusheen's Place (com.lively.pawpaw). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1812.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lively.pawpaw",
+   "name": "Pusheen's Place",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Домик Пушин - appstore    🇷🇺 Казуальная игра с виртуальным питомцем, где можно заботиться о Пушин, украшать её дом, выполнять задания, с",
+   "localizedDescription": "@ipa_dark | 🔄 Домик Пушин - appstore    🇷🇺 Казуальная игра с виртуальным питомцем, где можно заботиться о Пушин, украшать её дом, выполнять задания, с\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1812.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-10-12T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Домик Пушин - appstore    🇷🇺 Казуальная игра с виртуальным питомцем, где можно заботиться о Пушин, украшать её дом, выполнять задания, с",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1812-Pusheens%20Place%20%5Bv1.0.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 284379655
+    }
+   ]
+  }
+ ]
+}

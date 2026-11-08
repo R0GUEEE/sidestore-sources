@@ -1,0 +1,44 @@
+{
+ "name": "Lumber Inc",
+ "identifier": "dev.perapp.com-lumber-inc",
+ "subtitle": "ipaomtk.com | Idle Lumbercat IPA have become increasingly popular in recent years, offering a unique gaming experience t",
+ "description": "Single-app source for Lumber Inc (com.lumber.inc). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/512x512bb-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lumber.inc",
+   "name": "Lumber Inc",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Idle Lumbercat IPA have become increasingly popular in recent years, offering a unique gaming experience that allows players to progress",
+   "localizedDescription": "ipaomtk.com | Idle Lumbercat IPA have become increasingly popular in recent years, offering a unique gaming experience that allows players to progress",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/512x512bb-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.2",
+     "date": "2024-04-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Idle Lumbercat IPA have become increasingly popular in recent years, offering a unique gaming experience that allows players to progress",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Lumbercat.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.12.3",
+     "date": "2023-06-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The introduction of the Idle Lumber Empire IPA has generated a buzz among craft beer enthusiasts. The beer, which is based on the classi",
+     "downloadURL": "https://file.ipaomtk.com/idle-lumber-empire/Idle-Lumber-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.13.3",
+     "date": "2023-06-15T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | The introduction of the Idle Lumber Empire IPA has generated a buzz among craft beer enthusiasts. The beer, which is based on the classi",
+     "downloadURL": "https://file.ipaomtk.com/idle-lumber-empire/Idle-Lumber-IPAOMTK.COM.ipa",
+     "size": 140446627
+    }
+   ]
+  }
+ ]
+}

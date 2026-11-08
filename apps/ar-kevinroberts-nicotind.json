@@ -1,0 +1,39 @@
+{
+ "name": "NicotinD",
+ "identifier": "dev.perapp.ar-kevinroberts-nicotind",
+ "subtitle": "A self-hosted music server that finds the music too",
+ "description": "Single-app source for NicotinD (ar.kevinroberts.nicotind). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6265ec",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ar.kevinroberts.nicotind.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ar.kevinroberts.nicotind",
+   "name": "NicotinD",
+   "developerName": "kevinch3",
+   "subtitle": "A self-hosted music server that finds the music too",
+   "localizedDescription": "NicotinD:\n\nNicotinD is a self-hosted music server that finds the music too. It natively scans, streams, and enriches your library — and folds acquisition into the same app: one search covers what you own and what you could get (Soulseek via slskd, YouTube, Spotify, archive.org), and every result lands in the same organized, tagged, analyzed library.\n\n• 📱 Every screen you own — the same UI ships as a PWA, Android/iOS apps, an Electron desktop app, and an Android TV build; tracks can be saved for offline playback, and any device can cast to any other (Spotify-Connect-style) or to Chromecast/DLNA hardware.\n• 🎚 Smart playback — metadata-driven radio (BPM/Camelot key/genre/mood similarity), karaoke-style synced lyrics with vocal mute, listening history + stats, native and auto-generated playlists.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ar.kevinroberts.nicotind.png",
+   "tintColor": "#6265ec",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/kevinch3/NicotinD@master/docs/images/library.png",
+    "https://cdn.jsdelivr.net/gh/kevinch3/NicotinD@master/docs/images/album.png",
+    "https://cdn.jsdelivr.net/gh/kevinch3/NicotinD@master/docs/images/now-playing.png",
+    "https://cdn.jsdelivr.net/gh/kevinch3/NicotinD@master/docs/images/search.png"
+   ],
+   "versions": [
+    {
+     "version": "0.8.125",
+     "date": "2026-11-07T18:05:08Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/kevinch3/NicotinD/releases/download/v0.8.125/NicotinD-0.8.125-unsigned.ipa",
+     "size": 1592213
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

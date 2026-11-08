@@ -1,0 +1,37 @@
+{
+ "name": "Investing.com",
+ "identifier": "dev.perapp.com-investing-app",
+ "subtitle": "Investing.com",
+ "description": "Single-app source for Investing.com (com.investing.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b2/18/f2b218ac-ca33-8907-bfac-04b04945b830/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.investing.app",
+   "name": "Investing.com",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nInvesting.com: Stock Market\n\nno ads\n\nminimum OS version 17.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/b2/18/f2b218ac-ca33-8907-bfac-04b04945b830/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.52.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nInvesting.com: Stock Market\n\nno ads\n\nminimum OS version 17.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/1a93dcfe-f4d9-494b-bd3e-8ab0e42aa5cd/Investing.com_no_ads_6.52.1.ipa",
+     "size": 130190104
+    },
+    {
+     "version": "6.50.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas\n\n~\n\nInvesting.com: Stock Market\n\nno ads\n\nminimum OS version 17.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/067daa8d-cd07-4f93-aa3b-f50d4ca753f7/Investing.com_no_ads_6.50.0.ipa",
+     "size": 139300019
+    }
+   ]
+  }
+ ]
+}

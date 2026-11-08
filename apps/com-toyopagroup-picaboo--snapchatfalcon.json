@@ -1,0 +1,44 @@
+{
+ "name": "SnapchatFalcon",
+ "identifier": "dev.perapp.com-toyopagroup-picaboo",
+ "subtitle": "SnapchatFalcon by iCrackIPA / zxcvbn's tweaked IPAs / AppDB / m7 / RobsMods / riadipa",
+ "description": "Single-app source for SnapchatFalcon (com.toyopagroup.picaboo). Converted from swaggy.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.toyopagroup.picaboo",
+   "name": "SnapchatFalcon",
+   "developerName": "iCrackIPA / zxcvbn's tweaked IPAs / AppDB / m7 / RobsMods / riadipa",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.toyopagroup.picaboo.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.41",
+     "date": "2023-07-04T00:00:00Z",
+     "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 03-19-2024\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/SnapchatFalcon-12.41.ipa",
+     "size": 107631104
+    },
+    {
+     "version": "12.35.0",
+     "date": "2023-05-24T00:00:00Z",
+     "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 03-19-2024\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/SnapchatFalcon-12.35.0.ipa",
+     "size": 105933742
+    },
+    {
+     "version": "2.0-12.30",
+     "date": "2023-04-24T00:00:00Z",
+     "localizedDescription": "SNAPCHAT HAS NOW IMPLEMENTED NEW SIDELOADING DETECTION MEASURES, MAKING ALL MODIFIED VERSIONS OF SNAPCHAT DETECTABLE. AS A RESULT, NO SNAPCHAT TWEAK IS SAFE. IT IS ADVISED TO DISCONTINUE USING ANY SNAPCHAT TWEAKS TO AVOID THE RISK OF HAVING YOUR ACCOUNT/DEVICE BANNED.\nLast updated: 03-19-2024\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-24-2023/SnapchatFalcon-2.0-12.30.ipa",
+     "size": 100537020
+    }
+   ]
+  }
+ ]
+}

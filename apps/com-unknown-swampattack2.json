@@ -1,0 +1,30 @@
+{
+ "name": "Swamp Attack 2",
+ "identifier": "dev.perapp.com-unknown-swampattack2",
+ "subtitle": "کۆمەڵیک تایبەتمەندی تێدایە",
+ "description": "Single-app source for Swamp Attack 2 (com.unknown.swampattack2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Swamp.Attack.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.swampattack2",
+   "name": "Swamp Attack 2",
+   "developerName": "Karbin-Store",
+   "subtitle": "کۆمەڵیک تایبەتمەندی تێدایە",
+   "localizedDescription": "کۆمەڵیک تایبەتمەندی تێدایە",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Swamp.Attack.2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.69",
+     "date": "2026-03-19T00:00:00Z",
+     "localizedDescription": "کۆمەڵیک تایبەتمەندی تێدایە",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Swamp.Attack.2._1.0.69_1737321052.ipa",
+     "size": 182030000
+    }
+   ]
+  }
+ ]
+}

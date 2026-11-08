@@ -1,0 +1,30 @@
+{
+ "name": "Koloro",
+ "identifier": "dev.perapp.org-skydomain-foodcamera",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Koloro (org.skydomain.foodcamera). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.skydomain.foodcamera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.skydomain.foodcamera",
+   "name": "Koloro",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.skydomain.foodcamera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.9",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/Koloro_4.4.9_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 97454405
+    }
+   ]
+  }
+ ]
+}

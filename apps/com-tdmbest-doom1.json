@@ -1,0 +1,30 @@
+{
+ "name": "DOOM",
+ "identifier": "dev.perapp.com-tdmbest-doom1",
+ "subtitle": "DOOM",
+ "description": "Single-app source for DOOM (com.TDMbest.doom1). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/461ed4f1-109d-42d0-908b-3665fd31ad76/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TDMbest.doom1",
+   "name": "DOOM",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDOOM ported to iOS!\n(Reupload for zx repo)\ncompiled tomkidd’s DOOM-iOS",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/461ed4f1-109d-42d0-908b-3665fd31ad76/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDOOM ported to iOS!\n(Reupload for zx repo)\ncompiled tomkidd’s DOOM-iOS",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/63562405-5b95-4844-b3b9-790b73a33202/DOOM-tomkidd.ipa",
+     "size": 23832368
+    }
+   ]
+  }
+ ]
+}

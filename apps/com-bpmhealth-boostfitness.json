@@ -1,0 +1,30 @@
+{
+ "name": "Boostcamp",
+ "identifier": "dev.perapp.com-bpmhealth-boostfitness",
+ "subtitle": "Boostcamp",
+ "description": "Single-app source for Boostcamp (com.bpmhealth.boostfitness). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bpmhealth.boostfitness.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bpmhealth.boostfitness",
+   "name": "Boostcamp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bpmhealth.boostfitness.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "268",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/Boostcamp_268_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 93607204
+    }
+   ]
+  }
+ ]
+}

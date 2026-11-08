@@ -1,0 +1,44 @@
+{
+ "name": "Minecraft",
+ "identifier": "dev.perapp.com-mojang-minecraftpe",
+ "subtitle": "Minecraft",
+ "description": "Single-app source for Minecraft (com.mojang.minecraftpe). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mojang.minecraftpe",
+   "name": "Minecraft",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.45",
+     "date": "2026-09-01T00:00:00Z",
+     "localizedDescription": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build whatever you can imagine one block at a time. Explore and craft your way through a completely open world where you can play with friends, build a city, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination! \r\n \r\nThe possibilities are endless. Embark on an epic adventure and play with friends, building from the ground up. Build and expand in Creative mode, where you can craft from unlimited resources. Survive the night, face intense battles, craft tools, and fend off danger in Survival mode. With seamless cross-platform and multiplayer gameplay on Minecraft: Bedrock Edition, yo",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
+     "size": 725373363
+    },
+    {
+     "version": "26.44",
+     "date": "2026-08-15T00:00:00Z",
+     "localizedDescription": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build whatever you can imagine one block at a time. Explore and craft your way through a completely open world where you can play with friends, build a city, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination! \r\n \r\nThe possibilities are endless. Embark on an epic adventure and play with friends, building from the ground up. Build and expand in Creative mode, where you can craft from unlimited resources. Survive the night, face intense battles, craft tools, and fend off danger in Survival mode. With seamless cross-platform and multiplayer gameplay on Minecraft: Bedrock Edition, yo",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
+     "size": 726525029
+    },
+    {
+     "version": "26.33",
+     "date": "2026-07-11T00:00:00Z",
+     "localizedDescription": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build whatever you can imagine one block at a time. Explore and craft your way through a completely open world where you can play with friends, build a city, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination! \r\n \r\nThe possibilities are endless. Embark on an epic adventure and play with friends, building from the ground up. Build and expand in Creative mode, where you can craft from unlimited resources. Survive the night, face intense battles, craft tools, and fend off danger in Survival mode. With seamless cross-platform and multiplayer gameplay on Minecraft: Bedrock Edition, yo",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
+     "size": 687797951
+    }
+   ]
+  }
+ ]
+}

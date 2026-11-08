@@ -1,0 +1,44 @@
+{
+ "name": "Sleep Tracker",
+ "identifier": "dev.perapp.com-leapfitness-sleeptracker",
+ "subtitle": "Sleep Tracker",
+ "description": "Single-app source for Sleep Tracker (com.leapfitness.Sleeptracker). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/8470332d-1985-4e76-b0b1-5a39f8e68458/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leapfitness.Sleeptracker",
+   "name": "Sleep Tracker",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Sleep Tracker: Recorder, Sound\n\nTweak: Premium Unlocked\n\nVersion: 2.18.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/8470332d-1985-4e76-b0b1-5a39f8e68458/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.15.0",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1549",
+     "size": 285672358
+    },
+    {
+     "version": "2.18.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Sleep Tracker: Recorder, Sound\n\nTweak: Premium Unlocked\n\nVersion: 2.18.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/fdc0dbff-810f-43bb-9422-15060a181883/Sleep_Tracker__Recorder__Sound-v2.18.1-riftysipas.ipa",
+     "size": 288747047
+    },
+    {
+     "version": "2.18.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Sleep Tracker: Recorder, Sound\n\nTweak: Premium Unlocked\n\nVersion: 2.18.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/570a4ced-4f35-47ae-b349-af070ddb0247/Sleep_Tracker__Recorder__Sound-v2.18.0-riftysipas.ipa",
+     "size": 288747248
+    }
+   ]
+  }
+ ]
+}

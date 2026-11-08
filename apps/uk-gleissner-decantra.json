@@ -1,0 +1,40 @@
+{
+ "name": "Decantra",
+ "identifier": "dev.perapp.uk-gleissner-decantra",
+ "subtitle": "Decantra is a bottle-sorting puzzle game for Android built with Unity",
+ "description": "Single-app source for Decantra (uk.gleissner.decantra). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/uk.gleissner.decantra.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.gleissner.decantra",
+   "name": "Decantra",
+   "developerName": "chrisgleissner",
+   "subtitle": "Decantra is a bottle-sorting puzzle game for Android built with Unity",
+   "localizedDescription": "Decantra:\n\nA bottle-sorting puzzle game with procedurally generated levels that never run out. Available on Android, iOS, and Web.\n\nHow to Play:\n\nSort the colored liquids by pouring from one bottle to another until each bottle holds a single color.\n\n• Pour by dragging one bottle onto another.\n• You can only pour onto the same color or into an empty bottle.\n• Black bottles (sinks) accept liquid but can't be picked up - plan around them.\n• A level is solved when every non-empty bottle contains exactly one color.\n\nEarly levels ease you in. Later levels introduce more colors, varying bottle sizes, and multiple sinks that demand careful sequencing. Every level is procedurally generated, so there's always a fresh puzzle waiting.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/uk.gleissner.decantra.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/decantra@main/doc/play-store-assets/screenshots/phone/screenshot-03-level-01.png",
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/decantra@main/doc/play-store-assets/screenshots/phone/screenshot-08-level-10.png",
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/decantra@main/doc/play-store-assets/screenshots/phone/screenshot-04-level-12.png",
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/decantra@main/doc/play-store-assets/screenshots/phone/screenshot-09-level-20.png",
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/decantra@main/doc/play-store-assets/screenshots/phone/screenshot-05-level-24.png"
+   ],
+   "versions": [
+    {
+     "version": "1.5.3",
+     "date": "2026-08-30T18:43:14Z",
+     "localizedDescription": "• Upgrade Android target SDK version to 36.",
+     "downloadURL": "https://github.com/chrisgleissner/decantra/releases/download/1.5.3/decantra-1.5.3-ios.ipa",
+     "size": 20293907
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

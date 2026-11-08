@@ -1,0 +1,34 @@
+{
+ "name": "ActiveGS iOS",
+ "identifier": "dev.perapp.com-yoshisuga-activegs",
+ "subtitle": "An emulator for Apple II/2GS.",
+ "description": "Single-app source for ActiveGS iOS (com.yoshisuga.activeGS). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#21486b",
+ "iconURL": "https://i.imgur.com/7LuLkoR.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yoshisuga.activeGS",
+   "name": "ActiveGS iOS",
+   "developerName": "yoshisuga & Olivier Goguel",
+   "subtitle": "An emulator for Apple II/2GS.",
+   "localizedDescription": "An emulator for all things Apple.",
+   "iconURL": "https://i.imgur.com/7LuLkoR.png",
+   "tintColor": "#21486b",
+   "screenshots": [
+    "https://i.imgur.com/8xekjhv.png",
+    "https://i.imgur.com/JFd6LiM.png",
+    "https://i.imgur.com/4ZE0DbB.png"
+   ],
+   "versions": [
+    {
+     "version": "2021.9",
+     "date": "2021-09-23T09:28:59Z",
+     "localizedDescription": "# 2021.9\n\nThis is a fork of Olivier Goguel's ActiveGS emulator for iOS.\r\n\r\nI've been tinkering it over the years and added some experimental features such as:\r\n\r\n- Support for iOS 15\r\n- Remap keyboard to supported wireless controller buttons (mFi/PS4/PS5/XBox One)\r\n- Custom split keyboard usable in landscape mode (written in Swift)\r\n\r\n![Simulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 22 43 15](https://user-images.githubusercontent.com/564774/134484167-3c17c2a7-1d6a-467c-ac82-d7bfae7f281b.png)\r\n\r\n- A memory debugger/rudimentary memory-editing cheat engine (also written in Swift). Accessible via the \"D\" button in the right pane custom keyboard. Browse the memory map and change memory values. Not sure how the bank switching works and how it's mapped to memory but you get some representation of memory. \r\n![Simulator Screen Shot - iPhone 13 Pro Max - 2021-09-22 at 23 25 55](https://user-images.githubusercontent.com/564774/134484125-b984318a-b089-4484-b306-b976521963c3.png)\r\n\r\n\r\n",
+     "downloadURL": "https://github.com/yoshisuga/activegs-ios/releases/download/2021.9/ActiveGS.ipa",
+     "size": 16593403
+    }
+   ]
+  }
+ ]
+}

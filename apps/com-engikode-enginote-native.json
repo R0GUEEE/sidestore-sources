@@ -1,0 +1,36 @@
+{
+ "name": "EngiNote Native",
+ "identifier": "dev.perapp.com-engikode-enginote-native",
+ "subtitle": "Import HTML notes and annotate over them, in the browser",
+ "description": "Single-app source for EngiNote Native (com.engikode.enginote.native). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.engikode.enginote.native.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.engikode.enginote.native",
+   "name": "EngiNote Native",
+   "developerName": "ayushheheheha",
+   "subtitle": "Import HTML notes and annotate over them, in the browser",
+   "localizedDescription": "EngiNote:\n\nImport your notes as HTML or PDF files, or start a blank notebook, and write over them, like GoodNotes or Freenotes, but for web pages too. It runs in any browser, and as an iPad app with Apple Pencil support and a built-in screen recorder.\n\nWhat it does:\n\nNotes.\n\n• Import one or more .html or .pdf files (button, or drag and drop). Each becomes a note you can open and write on.\n• New notebook makes blank paged paper: plain, ruled, grid or dotted, in your choice of size, direction, paper colour, line colour and spacing. A thin line marks each page, and pages are added as you write.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.engikode.enginote.native.png",
+   "tintColor": "#6058e8",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ayushheheheha/EngiNote@main/docs/screenshot.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2026-11-02T12:47:41Z",
+     "localizedDescription": "Unsigned build of commit 78d70ffd82248237613086a7201941f280b4954b. Sideload this .ipa. Installs beside the web-based EngiNote.",
+     "downloadURL": "https://github.com/ayushheheheha/EngiNote/releases/download/native-build-4/EngiNoteNative.ipa",
+     "size": 273518
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

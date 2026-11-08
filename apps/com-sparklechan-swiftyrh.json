@@ -1,0 +1,30 @@
+{
+ "name": "Frida Code Manager (Root-Hide)",
+ "identifier": "dev.perapp.com-sparklechan-swiftyrh",
+ "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+ "description": "Single-app source for Frida Code Manager (Root-Hide) (com.sparklechan.swiftyrh). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ab7eaa",
+ "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sparklechan.swiftyrh",
+   "name": "Frida Code Manager (Root-Hide)",
+   "developerName": "fridakitten",
+   "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+   "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+   "tintColor": "ab7eaa",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6",
+     "date": "2024-10-25T00:00:00Z",
+     "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_roothide1_6-11.deb",
+     "size": 3166208
+    }
+   ]
+  }
+ ]
+}

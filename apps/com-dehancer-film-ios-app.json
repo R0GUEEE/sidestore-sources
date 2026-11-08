@@ -1,0 +1,30 @@
+{
+ "name": "Dehancer",
+ "identifier": "dev.perapp.com-dehancer-film-ios-app",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Dehancer (com.dehancer.film.ios-app). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dehancer.film.ios-app",
+   "name": "Dehancer",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Dehancer_7.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 198031719
+    }
+   ]
+  }
+ ]
+}

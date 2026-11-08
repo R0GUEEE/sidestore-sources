@@ -1,0 +1,38 @@
+{
+ "name": "Newtube",
+ "identifier": "dev.perapp.gitlab-httpanimations-newtube",
+ "subtitle": "NewTube mirror (CI builds)",
+ "description": "Single-app source for Newtube (gitlab.httpanimations.newtube). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d52229",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/gitlab.httpanimations.newtube.png",
+ "apps": [
+  {
+   "bundleIdentifier": "gitlab.httpanimations.newtube",
+   "name": "Newtube",
+   "developerName": "justacalico",
+   "subtitle": "NewTube mirror (CI builds)",
+   "localizedDescription": "NewTube:\n\nA privacy-friendly YouTube client for desktop and mobile. Watch videos without the ads, the tracking or the clutter: your subscriptions and history stay on your device.\n\nWhat it does:\n\n• Watch YouTube videos with a real player: quality selection, audio-only mode and proper fullscreen.\n• Subscribe to channels without an account. Your subscriptions live on your device, not in the cloud.\n• Search videos and channels, browse channel uploads and keep a local watch history.\n• Runs on Android, iOS, Linux, Windows and macOS, plus a web version.\n\nGet it:\n\nThe landing page has screenshots and one-click downloads for every platform, or grab the files.\n\n• Android: .apk or .aab.\n• iOS: .ipa via the AltStore source below.\n• Linux: AppImage, Flatpak repo, .deb, .rpm, .zip.\n• Windows / macOS: .zip.\n• Web: httpanimations.gitlab.io/newtube/app/.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/gitlab.httpanimations.newtube.png",
+   "tintColor": "#d52229",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/justacalico/newtube@main/test/goldens/app_shell.png",
+    "https://cdn.jsdelivr.net/gh/justacalico/newtube@main/test/goldens/watch_page.png",
+    "https://cdn.jsdelivr.net/gh/justacalico/newtube@main/test/goldens/home_page.png"
+   ],
+   "versions": [
+    {
+     "version": "0.31.0",
+     "date": "2026-10-29T04:23:26Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/justacalico/newtube/releases/download/v0.31.0/newtube-0.31.0-ios.ipa",
+     "size": 16361544
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Focus Keeper",
+ "identifier": "dev.perapp.com-limepresso-pomodoro",
+ "subtitle": "ipaomtk.com | Pomodoro Timer Stay Focused IPA v1.11.1 is a productivity-enhancing mobile application designed to help us",
+ "description": "Single-app source for Focus Keeper (com.limepresso.pomodoro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Pomodoro-Timer-Stay-Focused.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.limepresso.pomodoro",
+   "name": "Focus Keeper",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Pomodoro Timer Stay Focused IPA v1.11.1 is a productivity-enhancing mobile application designed to help users manage their time more eff",
+   "localizedDescription": "ipaomtk.com | Pomodoro Timer Stay Focused IPA v1.11.1 is a productivity-enhancing mobile application designed to help users manage their time more eff",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Pomodoro-Timer-Stay-Focused.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.11.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pomodoro Timer Stay Focused IPA v1.11.1 is a productivity-enhancing mobile application designed to help users manage their time more eff",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Pomodoro_Timer_Stay_Focused-v1.11.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

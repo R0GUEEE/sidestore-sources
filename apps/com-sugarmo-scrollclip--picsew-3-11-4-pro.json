@@ -1,0 +1,33 @@
+{
+ "name": "Picsew_3.11.4_Pro",
+ "identifier": "dev.perapp.com-sugarmo-scrollclip",
+ "subtitle": "Picsew_3.11.4_Pro by Picsew_3.11.4_Pro x CyPwn",
+ "description": "Single-app source for Picsew_3.11.4_Pro (com.sugarmo.ScrollClip). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Picsew_3.11.4_Pro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sugarmo.ScrollClip",
+   "name": "Picsew_3.11.4_Pro",
+   "developerName": "Picsew_3.11.4_Pro x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Screenshot stitching tool",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Picsew_3.11.4_Pro.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Picsew_3.11.4_Pro/Picsew_3.11.4_Pro-0.png",
+    "https://ipa.cypwn.xyz/serve/screenshots/Picsew_3.11.4_Pro/Picsew_3.11.4_Pro-1.png"
+   ],
+   "versions": [
+    {
+     "version": "3.11.4",
+     "date": "2025-01-06T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Picsew_3.11.4_Pro.ipa",
+     "size": 35347496
+    }
+   ]
+  }
+ ]
+}

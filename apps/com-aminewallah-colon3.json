@@ -1,0 +1,43 @@
+{
+ "name": "colon3",
+ "identifier": "dev.perapp.com-aminewallah-colon3",
+ "subtitle": "iOS music player with Soulseek support",
+ "description": "Single-app source for colon3 (com.aminewallah.colon3). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aminewallah.colon3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aminewallah.colon3",
+   "name": "colon3",
+   "developerName": "AmineWallah",
+   "subtitle": "iOS music player with Soulseek support",
+   "localizedDescription": "A native Soulseek client and music player for iOS. Search the Soulseek network, download straight to the phone, and play from a local library. No server or desktop client in between.\n\n• Library: albums and loose songs in a 2-column grid, A–Z side scrubber, Songs, Artists and Playlists views, favourites, multi-select, and import from Files or other apps.\n• Playlists: your own (reorder, rename, .m3u8 import/export), plus Favorite Songs and Most Played.\n\n• Player: Apple Music-style full screen with synced lyrics (a .lrc next to the song, else LRCLIB), queue editing, shuffle and repeat, playback speed, AirPlay, and the Liquid Glass mini player on iOS 26+.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aminewallah.colon3.png",
+   "tintColor": "#6058e8",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/AmineWallah/colon3@main/docs/screenshots/player.jpg",
+    "https://cdn.jsdelivr.net/gh/AmineWallah/colon3@main/docs/screenshots/lyrics.jpg",
+    "https://cdn.jsdelivr.net/gh/AmineWallah/colon3@main/docs/screenshots/autoplay.jpg",
+    "https://cdn.jsdelivr.net/gh/AmineWallah/colon3@main/docs/screenshots/search.jpg",
+    "https://cdn.jsdelivr.net/gh/AmineWallah/colon3@main/docs/screenshots/library.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.3.1",
+     "date": "2026-11-03T18:16:44Z",
+     "localizedDescription": "Fixed:\n\n• Home: the charts no longer sit on an endless spinner when Apple's chart server is slow. The last charts that loaded show straight away and are replaced when fresh ones arrive; a server that doesn't answer is given up on after 25 seconds per try, and failures are written to Diagnostics & Logs.\n• Home when Apple Music's charts are down: Apple's chart server has been answering \"502 Bad Gateway\". When it does, colon3 now uses the charts saved in the last three days, or else the old iTunes Store chart (top sellers rather than most played), and says so above the shelves.",
+     "downloadURL": "https://github.com/AmineWallah/colon3/releases/download/v1.3.1/colon3-1.3.1-unsigned.ipa",
+     "size": 5884775
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSAppleMusicUsageDescription": "colon3 reads your Music library's playlists so it can rebuild them from your own music and Soulseek.",
+     "NSLocalNetworkUsageDescription": "colon3 uses the local network for Wi-Fi Transfer, so a computer on your Wi-Fi can add or download music."
+    }
+   }
+  }
+ ]
+}

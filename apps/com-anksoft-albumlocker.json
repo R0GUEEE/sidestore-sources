@@ -1,0 +1,30 @@
+{
+ "name": "Album Locker",
+ "identifier": "dev.perapp.com-anksoft-albumlocker",
+ "subtitle": "ipaomtk.com | Album Lock Encrypt Photos IPA. In today’s era, it has become more important than ever for us to protect ou",
+ "description": "Single-app source for Album Locker (com.anksoft.albumlocker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-10-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.anksoft.albumlocker",
+   "name": "Album Locker",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Album Lock Encrypt Photos IPA. In today’s era, it has become more important than ever for us to protect our data and personal informatio",
+   "localizedDescription": "ipaomtk.com | Album Lock Encrypt Photos IPA. In today’s era, it has become more important than ever for us to protect our data and personal informatio",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-10-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.3",
+     "date": "2023-05-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Album Lock Encrypt Photos IPA. In today’s era, it has become more important than ever for us to protect our data and personal informatio",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Album-Locker.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

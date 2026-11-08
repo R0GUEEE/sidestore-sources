@@ -1,0 +1,30 @@
+{
+ "name": "VK Video",
+ "identifier": "dev.perapp.com-vk-vkvideo-prod",
+ "subtitle": "@ipa_dark | 🔄 VK Video  🇷🇺 Видео ВКонтакте - фильмы, сериалы, тв и рекомендации не по интересам  ℹ️ Особенности:  ▎Удале",
+ "description": "Single-app source for VK Video (com.vk.vkvideo.prod). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1702.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vk.vkvideo.prod",
+   "name": "VK Video",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 VK Video  🇷🇺 Видео ВКонтакте - фильмы, сериалы, тв и рекомендации не по интересам  ℹ️ Особенности:  ▎Удалено с AppStore 25.06.26 ▎Оригин",
+   "localizedDescription": "@ipa_dark | 🔄 VK Video  🇷🇺 Видео ВКонтакте - фильмы, сериалы, тв и рекомендации не по интересам  ℹ️ Особенности:  ▎Удалено с AppStore 25.06.26 ▎Оригин\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1702.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.183",
+     "date": "2026-09-08T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 VK Video  🇷🇺 Видео ВКонтакте - фильмы, сериалы, тв и рекомендации не по интересам  ℹ️ Особенности:  ▎Удалено с AppStore 25.06.26 ▎Оригин",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1702-VK%20Video%20%5Bv8.183%5D%28tg@ipa_dark%29.ipa",
+     "size": 132811041
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "ReadAware",
+ "identifier": "dev.perapp.com-readaware-app",
+ "subtitle": "An ebook reader with a self-evolving agent: it remembers your reading across books, and plugins extend the reader and th",
+ "description": "Single-app source for ReadAware (com.readaware.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d1a15b",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.readaware.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.readaware.app",
+   "name": "ReadAware",
+   "developerName": "ahpxex",
+   "subtitle": "An ebook reader with a self-evolving agent: it remembers your reading across books, and plugins extend the reader and the agent alike",
+   "localizedDescription": "ReadAware is free and built in the open. If it makes your reading better, give it a star — stars are how new readers find the project.\n\nOne reader. One agent. Open-ended plugins.:\n\nReadAware is a free and open-source reader for macOS, Windows, Linux, Android, and iOS. At its center is a single agent that can use tools, answer questions in context, and build an evolving memory from the books, passages, notes, and conversations that matter to you. Around it is a sandboxed plugin system that extends the reader — and the agent — from the inside.\n\n• Stay with the sentence. Sentence-by-sentence reading keeps the page calm, focused, and ADHD-friendly.\n• Mark things your way. Underline, highlight, and write notes without breaking your reading flow.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.readaware.app.png",
+   "tintColor": "#d1a15b",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ahpxex/read-aware@main/apps/landing/public/screenshots/shelf-light.webp",
+    "https://cdn.jsdelivr.net/gh/ahpxex/read-aware@main/apps/landing/public/screenshots/reader-light.webp",
+    "https://cdn.jsdelivr.net/gh/ahpxex/read-aware@main/apps/landing/public/screenshots/context-light.webp"
+   ],
+   "versions": [
+    {
+     "version": "0.6.9",
+     "date": "2026-10-28T16:07:20Z",
+     "localizedDescription": "New:\n\n• Reader header and footer. Show the chapter, book title, reading progress, page numbers, time and battery level in thin strips above and below the page. Arrange them in Settings → Customize: drag each item to the left, center or right of the header or footer, reorder items that share a spot, or hide them. On Android and iOS, where the reader hides the system status bar, they are on by default so you can still see the time and battery; on desktop they are off until you turn them on.\n• Advanced typography. A new \"Advanced typography\" switch lets you set exact values for font size, line height, paragraph spacing, margins and weight instead of preset steps. First-line indent can now follow the book, be turned off, or be set yourself.\n• Searchable font picker. Curated, plugin, imported and installed fonts now share one list with section headings, and you can search it by name.\n• Xiaomi MiMo read-aloud voices. Xiaomi MiMo is now available as a text-to-speech provider for reading aloud.\n\nImproved:\n\n• More text per page on phones. The safe area around the notch and home indicator now counts toward the page margins in paginated mode, so iPhones no longer lose about three lines of text per page.\n• Calmer appearance controls. Typography choices come first and sliders after, and the page color picker is a dropdown once plugin themes make the list long.\n• No font flash between chapters. A new chapter appears only after its font has loaded, instead of briefly showing a fallback font.\n\nFixed:\n\n• Exports on iOS. Exporting files on iPhone and iPad no longer produces empty files or fails.\n• iOS 16.0–16.3 and older Safari. The app and EPUB loading now work on these versions. The minimum supported iOS version is now 16.0.\n• Inline glyph images in CJK books. Small images used as substitute characters stay on their line of text instead of breaking the sentence apart.\n• Menus stay on screen. Popovers such as the selection menu no longer run past the bottom of the screen, for example in landscape.\n• Desktop startup. The app no longer fails to start when file-association registration fails, or when opening a book whose file name is not valid Unicode.\n• Reader appearance popover layout. Option groups no longer grow extra space after relayout in the desktop app.\n• Mobile settings. The \"launch at startup\" setting no longer appears on Android and iOS, where it is not supported.",
+     "downloadURL": "https://github.com/ahpxex/read-aware/releases/download/v0.6.9/ReadAware-ios-arm64.ipa",
+     "size": 15903064
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Development builds load the app and sync relay from your development machine over the local network."
+    }
+   }
+  }
+ ]
+}

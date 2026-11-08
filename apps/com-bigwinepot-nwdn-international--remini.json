@@ -1,0 +1,44 @@
+{
+ "name": "Remini",
+ "identifier": "dev.perapp.com-bigwinepot-nwdn-international",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Remini (com.bigwinepot.nwdn.international). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bigwinepot.nwdn.international",
+   "name": "Remini",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.10.156",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-10-2025/ReminiPublic_2.10.156_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 154617594
+    },
+    {
+     "version": "2.9.103",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Remini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loadi",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReminiPro/ReminiPro-2.9.103.ipa",
+     "size": 76485486
+    },
+    {
+     "version": "2.10.206",
+     "date": "2026-06-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2026/Remini_2.10.206_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 119830175
+    }
+   ]
+  }
+ ]
+}

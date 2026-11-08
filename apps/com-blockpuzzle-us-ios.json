@@ -1,0 +1,30 @@
+{
+ "name": "BlockBlast",
+ "identifier": "dev.perapp.com-blockpuzzle-us-ios",
+ "subtitle": "BlockBlast",
+ "description": "Single-app source for BlockBlast (com.blockpuzzle.us.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.blockpuzzle.us.ios",
+   "name": "BlockBlast",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1.1",
+     "date": "2026-05-31T00:00:00Z",
+     "localizedDescription": "Injected with noads",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2026/BlockBlast_7.1.1_noads_%40thisismanpreets_apptesters.org.ipa",
+     "size": 79629885
+    }
+   ]
+  }
+ ]
+}

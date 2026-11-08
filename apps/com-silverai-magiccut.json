@@ -1,0 +1,30 @@
+{
+ "name": "SnapBG",
+ "identifier": "dev.perapp.com-silverai-magiccut",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for SnapBG (com.silverai.magiccut). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.silverai.magiccut.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.silverai.magiccut",
+   "name": "SnapBG",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.silverai.magiccut.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.3",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/SnapBG_2.3.3_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 42894941
+    }
+   ]
+  }
+ ]
+}

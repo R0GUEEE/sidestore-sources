@@ -1,0 +1,30 @@
+{
+ "name": "AthanPro",
+ "identifier": "dev.perapp.quanticapps-athan",
+ "subtitle": "AthanPro by Holloway",
+ "description": "Single-app source for AthanPro (Quanticapps.Athan). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761379753.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Quanticapps.Athan",
+   "name": "AthanPro",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://appstore.sidelix.vip/images/1761379753.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.4.10",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1587",
+     "size": 56289662
+    }
+   ]
+  }
+ ]
+}

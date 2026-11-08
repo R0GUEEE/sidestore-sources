@@ -1,0 +1,37 @@
+{
+ "name": "JavDB",
+ "identifier": "dev.perapp.com-javdb-com",
+ "subtitle": "Injected with Nothing",
+ "description": "Single-app source for JavDB (com.javdb.com). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.javdb.com",
+   "name": "JavDB",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing",
+   "localizedDescription": "Injected with Nothing",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.javdb.com.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.29",
+     "date": "2026-06-27T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/JavDB_1.9.29/JavDB_1.9.29_Nothing_@repo.owo.network.ipa",
+     "size": 24785348
+    },
+    {
+     "version": "1.9.28",
+     "date": "2025-01-14T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-01-14/JavDB_1.9.28_Nothing_@repo.owo.network.ipa",
+     "size": 23302569
+    }
+   ]
+  }
+ ]
+}

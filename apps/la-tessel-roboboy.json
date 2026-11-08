@@ -1,0 +1,37 @@
+{
+ "name": "Robo-Boy",
+ "identifier": "dev.perapp.la-tessel-roboboy",
+ "subtitle": "A web application for controlling ROS 2 robots, tailored for mobile usage",
+ "description": "Single-app source for Robo-Boy (la.tessel.roboboy). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d0a55a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/la.tessel.roboboy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "la.tessel.roboboy",
+   "name": "Robo-Boy",
+   "developerName": "tessel-la",
+   "subtitle": "A web application for controlling ROS 2 robots, tailored for mobile usage",
+   "localizedDescription": "Robo-Boy:\n\nRobo-Boy is a web, desktop, iPhone, and Android interface for controlling and visualizing ROS 2 robots. It includes camera streaming, configurable control pads, 3D visualization, native time-series plotting and signal analysis, behavior-tree editing, and custom themes. All interfaces run the same React codebase and connect to a separately installed ROS stack. The mobile packages are lightweight Tauri shells; the desktop can be built either as one of those or as an Electron shell, which is larger but brings its own Chromium and so has WebRTC wherever it runs.\n\nStart With The App:\n\nThe shortest route. The app needs only the ROS services, so there is no certificate to create and no proxy to run.\n\n• Start the ROS services on the computer that runs ROS:.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/la.tessel.roboboy.png",
+   "tintColor": "#d0a55a",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.20.0",
+     "date": "2026-11-07T14:56:31Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/tessel-la/robo-boy/releases/download/robo-boy-v0.20.0-alpha/Robo-Boy-iphone-unsigned.ipa",
+     "size": 5341372
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Robo-Boy connects to the ROS 2 computer on your network to control the robot and show its cameras and 3D views.",
+     "NSMicrophoneUsageDescription": "Robo-Boy uses your microphone when you start voice input. Speech recognition or AI transcription may send audio to the service you choose."
+    }
+   }
+  }
+ ]
+}

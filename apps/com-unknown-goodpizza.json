@@ -1,0 +1,30 @@
+{
+ "name": "Good Pizza",
+ "identifier": "dev.perapp.com-unknown-goodpizza",
+ "subtitle": "✅ Unlimited Cash  ✅ Unlimited Diamonds    ⚠️ ئاگاداربە: لەسەر مەسولیەتی خۆت بەکاری بێنە",
+ "description": "Single-app source for Good Pizza (com.unknown.goodpizza). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Good.Pizza.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.goodpizza",
+   "name": "Good Pizza",
+   "developerName": "Karbin-Store",
+   "subtitle": "✅ Unlimited Cash  ✅ Unlimited Diamonds    ⚠️ ئاگاداربە: لەسەر مەسولیەتی خۆت بەکاری بێنە",
+   "localizedDescription": "✅ Unlimited Cash  ✅ Unlimited Diamonds    ⚠️ ئاگاداربە: لەسەر مەسولیەتی خۆت بەکاری بێنە",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Good.Pizza.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.13.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "✅ Unlimited Cash  ✅ Unlimited Diamonds    ⚠️ ئاگاداربە: لەسەر مەسولیەتی خۆت بەکاری بێنە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Good.Pizza.-.5.13.1.ipa",
+     "size": 221520000
+    }
+   ]
+  }
+ ]
+}

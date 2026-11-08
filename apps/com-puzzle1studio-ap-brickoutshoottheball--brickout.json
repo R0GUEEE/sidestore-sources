@@ -1,0 +1,44 @@
+{
+ "name": "BrickOut",
+ "identifier": "dev.perapp.com-puzzle1studio-ap-brickoutshoottheball",
+ "subtitle": "Injected with IGG",
+ "description": "Single-app source for BrickOut (com.puzzle1studio.ap.brickoutshoottheball). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.puzzle1studio.ap.brickoutshoottheball",
+   "name": "BrickOut",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IGG",
+   "localizedDescription": "Injected with IGG",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.0814.01",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-08-2025/BrickOut_25.0814.01_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 87611091
+    },
+    {
+     "version": "25.1212.00",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-12-2025/BrickOut_25.1212.00_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 102662260
+    },
+    {
+     "version": "25.0904.01",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-09-2025/BrickOut_25.0904.01_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 86606977
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "KOTOR",
+ "identifier": "dev.perapp.com-aspyr-kotor-ios",
+ "subtitle": "ipaomtk.com | Star Wars KOTOR In a ⁣galaxy not so far away, the legacy of Star ​Wars continues to soar, captivating fans",
+ "description": "Single-app source for KOTOR (com.aspyr.kotor.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Star-Wars%E2%84%A2-KOTOR-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aspyr.kotor.ios",
+   "name": "KOTOR",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Star Wars KOTOR In a ⁣galaxy not so far away, the legacy of Star ​Wars continues to soar, captivating fans with⁤ its rich lore adn unfor",
+   "localizedDescription": "ipaomtk.com | Star Wars KOTOR In a ⁣galaxy not so far away, the legacy of Star ​Wars continues to soar, captivating fans with⁤ its rich lore adn unfor",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Star-Wars%E2%84%A2-KOTOR-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.7",
+     "date": "2025-04-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Star Wars KOTOR In a ⁣galaxy not so far away, the legacy of Star ​Wars continues to soar, captivating fans with⁤ its rich lore adn unfor",
+     "downloadURL": "https://file.ipaomtk.com/ipa/KOTOR-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

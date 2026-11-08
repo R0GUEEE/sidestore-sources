@@ -1,0 +1,30 @@
+{
+ "name": "3Speak.tv - Acela",
+ "identifier": "dev.perapp.com-example-acela",
+ "subtitle": "The build which was also submitted to the Apple for TestFlight review",
+ "description": "Single-app source for 3Speak.tv - Acela (com.example.acela). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/AppIcon-512.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.example.acela",
+   "name": "3Speak.tv - Acela",
+   "developerName": "sagarkothari88",
+   "subtitle": "The build which was also submitted to the Apple for TestFlight review",
+   "localizedDescription": "The build which was also submitted to the Apple for TestFlight review",
+   "iconURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/AppIcon-512.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2026-05-21T00:00:00Z",
+     "localizedDescription": "The build which was also submitted to the Apple for TestFlight review",
+     "downloadURL": "https://github.com/spknetwork/Android-App/releases/download/v1.0.3_48/Runner.ipa",
+     "size": 857669
+    }
+   ]
+  }
+ ]
+}

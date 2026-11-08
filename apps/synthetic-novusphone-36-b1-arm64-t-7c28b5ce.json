@@ -1,0 +1,30 @@
+{
+ "name": "NovusPhone_36-b1_arm64_TS",
+ "identifier": "dev.perapp.synthetic-novusphone-36-b1-arm64-t-7c28b5ce",
+ "subtitle": "Novus is a completely redesigned Phone app tweak, bringing a more unified design compared to the stock app. ARM64 ONLY (",
+ "description": "Single-app source for NovusPhone_36-b1_arm64_TS (synthetic.novusphone-36-b1-arm64-t.7c28b5ce). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/NovusPhone_36-b1_arm64_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.novusphone-36-b1-arm64-t.7c28b5ce",
+   "name": "NovusPhone_36-b1_arm64_TS",
+   "developerName": "NovusPhone_36-b1_arm64_TS x CyPwn",
+   "subtitle": "Novus is a completely redesigned Phone app tweak, bringing a more unified design compared to the stock app. ARM64 ONLY (iPhone X and lower) on 14.X - ",
+   "localizedDescription": "Novus is a completely redesigned Phone app tweak, bringing a more unified design compared to the stock app. ARM64 ONLY (iPhone X and lower) on 14.X - ",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/NovusPhone_36-b1_arm64_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "36",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Novus is a completely redesigned Phone app tweak, bringing a more unified design compared to the stock app. ARM64 ONLY (iPhone X and lower) on 14.X - ",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/NovusPhone_36-b1_arm64_TS.ipa",
+     "size": 2264924
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Root",
+ "identifier": "dev.perapp.cypwn-root-1-0-0",
+ "subtitle": "The best Filza Escaped alternative for iOS 14.0 - 14.3. Other software versions will work with limited access",
+ "description": "Single-app source for Root (cypwn.Root.1.0.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Root.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.Root.1.0.0",
+   "name": "Root",
+   "developerName": "Root x CyPwn",
+   "subtitle": "The best Filza Escaped alternative for iOS 14.0 - 14.3. Other software versions will work with limited access",
+   "localizedDescription": "The best Filza Escaped alternative for iOS 14.0 - 14.3. Other software versions will work with limited access",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Root.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "The best Filza Escaped alternative for iOS 14.0 - 14.3. Other software versions will work with limited access",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Root.ipa",
+     "size": 2883584
+    }
+   ]
+  }
+ ]
+}

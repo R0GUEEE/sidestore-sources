@@ -1,0 +1,30 @@
+{
+ "name": "MyChildLebensborn",
+ "identifier": "dev.perapp.com-sarepta-mychild",
+ "subtitle": "ipaomtk.com | My Child Lebensborn IPA is an app designed specifically for parents of children born through the controver",
+ "description": "Single-app source for MyChildLebensborn (com.Sarepta.MyChild). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-my-child-lebensborn-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Sarepta.MyChild",
+   "name": "MyChildLebensborn",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | My Child Lebensborn IPA is an app designed specifically for parents of children born through the controversial historical program in Naz",
+   "localizedDescription": "ipaomtk.com | My Child Lebensborn IPA is an app designed specifically for parents of children born through the controversial historical program in Naz",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-my-child-lebensborn-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.106",
+     "date": "2023-12-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | My Child Lebensborn IPA is an app designed specifically for parents of children born through the controversial historical program in Naz",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MyChildLebensborn.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

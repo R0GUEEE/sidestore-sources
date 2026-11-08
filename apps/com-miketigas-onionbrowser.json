@@ -1,0 +1,47 @@
+{
+ "name": "Onion Browser",
+ "identifier": "dev.perapp.com-miketigas-onionbrowser",
+ "subtitle": "An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network",
+ "description": "Single-app source for Onion Browser (com.miketigas.OnionBrowser). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#9d56bd",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.miketigas.OnionBrowser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.miketigas.OnionBrowser",
+   "name": "Onion Browser",
+   "developerName": "OnionBrowser",
+   "subtitle": "An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network",
+   "localizedDescription": "Onion Browser:\n\n© 2012-2024, Tigas Ventures, LLC ([Mike Tigas).\n\nThis is the Onion Browser 3.X branch. The older versions of Onion Browser can be found [here and [here.\n\nOnion Browser is a free web browser for iPhone and iPad that encrypts and tunnels web traffic through the [Tor network with the help of [Orbot iOS. See the [official site for more details and App Store links.\n\nPlease see the [LICENSE file for usage and redistribution terms.\n\nThe following features are new to Onion Browser, mostly by leveraging [Orbot iOS:\n\n• Use of newer, more secure, faster rendering engine WKWebView.\n• Finally all traffic, including audio/video streams tunneled through Tor.\n\n• Search in page from iOS 16 and up.\n• Multiple windows support on iPad.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.miketigas.OnionBrowser.png",
+   "tintColor": "#9d56bd",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.5",
+     "date": "2026-10-30T13:42:29Z",
+     "localizedDescription": "• Updated Tor to 0.4.9.15.",
+     "downloadURL": "https://github.com/OnionBrowser/OnionBrowser/releases/download/v3.4.5/OnionBrowser.ipa",
+     "size": 41185417
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.default-data-protection",
+     "com.apple.developer.siri",
+     "com.apple.developer.team-identifier",
+     "com.apple.developer.web-browser",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "Needed to read bridge addresses from displayed QR codes.",
+     "NSFaceIDUsageDescription": "Needed, if you want to unlock the app with Face ID.",
+     "NSPhotoLibraryAddUsageDescription": "Needed to store the selected image to your photos."
+    }
+   }
+  }
+ ]
+}

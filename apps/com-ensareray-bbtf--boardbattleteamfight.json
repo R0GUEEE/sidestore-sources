@@ -1,0 +1,37 @@
+{
+ "name": "BoardBattleTeamFight",
+ "identifier": "dev.perapp.com-ensareray-bbtf",
+ "subtitle": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for BoardBattleTeamFight (com.EnsarEray.bbtf). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.EnsarEray.bbtf.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.EnsarEray.bbtf",
+   "name": "BoardBattleTeamFight",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.EnsarEray.bbtf.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.98",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-08-2025/BoardBattleTeamFight_0.98_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 91460285
+    },
+    {
+     "version": "0.99",
+     "date": "2025-08-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Board Battle: Team Fight IPA MOD v2 has taken the iOS gaming world by storm, offering players an exciting blend of strategy, action, and",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Board_Battle_Team_Fight_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

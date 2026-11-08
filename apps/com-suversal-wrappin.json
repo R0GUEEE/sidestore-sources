@@ -1,0 +1,38 @@
+{
+ "name": "WrapPin",
+ "identifier": "dev.perapp.com-suversal-wrappin",
+ "subtitle": "iOS 27+ 本机虚拟定位与步行路线测试工具",
+ "description": "Single-app source for WrapPin (com.suversal.wrappin). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#356ed4",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.suversal.wrappin.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.suversal.wrappin",
+   "name": "WrapPin",
+   "developerName": "suversal",
+   "subtitle": "iOS 27+ 本机虚拟定位与步行路线测试工具",
+   "localizedDescription": "User guide · @suversal on X.\n\nWrapPin sets a fixed location or moves along a walking or driving route on an iPhone running iOS 18 or newer, without a jailbreak and without installing a MITM root certificate. It uses the iOS developer location simulation service. The app interface is available in English and Simplified Chinese and follows the system language.\n\nUse WrapPin only on devices you own and control. Do not use it to deceive other people, fabricate evidence, bypass security restrictions, or break the rules of third-party services.\n\nWhat you need:\n\nThis guide uses the free route: iLoader + SideStore + LocalDevVPN + WrapPin.\n\n• A physical iPhone running iOS 18 or newer, with a passcode set. iOS 18–26 needs a computer for initial pairing.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.suversal.wrappin.png",
+   "tintColor": "#356ed4",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.21",
+     "date": "2026-11-07T08:52:15Z",
+     "localizedDescription": "SHA-256：.",
+     "downloadURL": "https://github.com/suversal/WrapPin/releases/download/v1.0.21/WrapPin-Standard-1.0.21-build71-unsigned.ipa",
+     "size": 6914083
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "WrapPin uses the local network to pair with and connect to this iPhone through a compatible device tunnel.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "Allow Always access to reduce the blue location indicator while WrapPin keeps a simulation active in the background. Coordinates received for background keep-alive are never saved or uploaded.",
+     "NSLocationWhenInUseUsageDescription": "WrapPin uses Location Services to keep an active test session running in the background and to return the map to your real position after it stops."
+    }
+   }
+  }
+ ]
+}

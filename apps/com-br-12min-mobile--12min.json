@@ -1,0 +1,44 @@
+{
+ "name": "12min",
+ "identifier": "dev.perapp.com-br-12min-mobile",
+ "subtitle": "@riftysIPAlibrary | 12min: Book Summaries & Ideas  Tweak: Premium Unlocked  Version: 2.11.1  Notes: - downloading doesn'",
+ "description": "Single-app source for 12min (com.br.12min.mobile). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7065.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.br.12min.mobile",
+   "name": "12min",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | 12min: Book Summaries & Ideas  Tweak: Premium Unlocked  Version: 2.11.1  Notes: - downloading doesn't work - fast forwarding is bu",
+   "localizedDescription": "@riftysIPAlibrary | 12min: Book Summaries & Ideas  Tweak: Premium Unlocked  Version: 2.11.1  Notes: - downloading doesn't work - fast forwarding is bu",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7065.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.15.6",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | 12min: Book Summaries & Ideas  Tweak: Premium Unlocked  Version: 2.15.6  Notes: - downloading doesn't work - fast forwarding is bu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8791-12min:%20Book%20Summaries%20&%20Ideas-v2.15.6-riftysipas.ipa",
+     "size": 40668841
+    },
+    {
+     "version": "2.15.5",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | 12min: Book Summaries & Ideas  Tweak: Premium Unlocked  Version: 2.15.5  Notes: - downloading doesn't work - fast forwarding is bu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8729-12min:%20Book%20Summaries%20&%20Ideas-v2.15.5-riftysipas.ipa",
+     "size": 40772440
+    },
+    {
+     "version": "2.15.3",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | 12min: Book Summaries & Ideas  Tweak: Premium Unlocked  Version: 2.15.3  Notes: - downloading doesn't work - fast forwarding is bu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8519-12min:%20Book%20Summaries%20&%20Ideas-v2.15.3-riftysipas.ipa",
+     "size": 52141047
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "dotpict",
+ "identifier": "dev.perapp.net-dotpicko-dotpict",
+ "subtitle": "ipaomtk.com | dotpict IPA No Ads iOS is a great way to get creative and explore pixel art. With an iOS device, you can c",
+ "description": "Single-app source for dotpict (net.dotpicko.dotpict). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/dotpict-Easy-to-draw-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "net.dotpicko.dotpict",
+   "name": "dotpict",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | dotpict IPA No Ads iOS is a great way to get creative and explore pixel art. With an iOS device, you can create amazing art with intrica",
+   "localizedDescription": "ipaomtk.com | dotpict IPA No Ads iOS is a great way to get creative and explore pixel art. With an iOS device, you can create amazing art with intrica",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/dotpict-Easy-to-draw-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18.10.8",
+     "date": "2023-10-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | dotpict IPA No Ads iOS is a great way to get creative and explore pixel art. With an iOS device, you can create amazing art with intrica",
+     "downloadURL": "https://file.ipaomtk.com/ipa/dotpict.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

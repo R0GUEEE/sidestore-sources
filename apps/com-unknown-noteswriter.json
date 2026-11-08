@@ -1,0 +1,30 @@
+{
+ "name": "Notes Writer",
+ "identifier": "dev.perapp.com-unknown-noteswriter",
+ "subtitle": "بەرنامەیەکی تایبەت بە نوسینی تێبینی ✅   بۆ دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+ "description": "Single-app source for Notes Writer (com.unknown.noteswriter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Notes.Writer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.noteswriter",
+   "name": "Notes Writer",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەکی تایبەت بە نوسینی تێبینی ✅   بۆ دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+   "localizedDescription": "بەرنامەیەکی تایبەت بە نوسینی تێبینی ✅   بۆ دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Notes.Writer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18.2.7",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "بەرنامەیەکی تایبەت بە نوسینی تێبینی ✅   بۆ دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Notes.Writer_18.2.7_.KaraStore.ipa",
+     "size": 188120000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "AirShou",
+ "identifier": "dev.perapp.com-airshou-ios",
+ "subtitle": "ipaomtk.com | AirShou IPA is a revolutionary screen recording app available for iOS and Android APK devices that provide",
+ "description": "Single-app source for AirShou (com.airshou.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/air_shou-icon-round-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.airshou.ios",
+   "name": "AirShou",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | AirShou IPA is a revolutionary screen recording app available for iOS and Android APK devices that provides users the ability to easily ",
+   "localizedDescription": "ipaomtk.com | AirShou IPA is a revolutionary screen recording app available for iOS and Android APK devices that provides users the ability to easily ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/air_shou-icon-round-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.7.5",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AirShou IPA is a revolutionary screen recording app available for iOS and Android APK devices that provides users the ability to easily ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AirShou.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

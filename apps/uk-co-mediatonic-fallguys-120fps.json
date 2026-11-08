@@ -1,0 +1,31 @@
+{
+ "name": "Fall Guys - 120FPS (Outdated)",
+ "identifier": "dev.perapp.uk-co-mediatonic-fallguys-120fps",
+ "subtitle": "No Paid Cert Needed!",
+ "description": "Single-app source for Fall Guys - 120FPS (Outdated) (uk.co.mediatonic.fallguys.120fps). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "848ef9",
+ "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277812656954151045/5F10442E-A573-4964-856C-DC3D996AEE3D.jpg?ex=66cf3006&is=66cdde86&hm=76428135d623ab069d3d2f9fddd91a667291e667a967402260f7157d2d9424f6&",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.co.mediatonic.fallguys.120fps",
+   "name": "Fall Guys - 120FPS (Outdated)",
+   "developerName": "Mediatonic & Celestial Devs",
+   "subtitle": "No Paid Cert Needed!",
+   "localizedDescription": "Not yet updated! - Fall Guys on iOS. ",
+   "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277812656954151045/5F10442E-A573-4964-856C-DC3D996AEE3D.jpg?ex=66cf3006&is=66cdde86&hm=76428135d623ab069d3d2f9fddd91a667291e667a967402260f7157d2d9424f6&",
+   "tintColor": "848ef9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.1.0",
+     "date": "2024-08-24T18:34:10Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/latest/FallGuys+CAHighFPS.ipa",
+     "size": 1742640000
+    }
+   ],
+   "appPermissions": {}
+  }
+ ]
+}

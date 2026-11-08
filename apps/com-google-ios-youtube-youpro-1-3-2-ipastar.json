@@ -1,0 +1,30 @@
+{
+ "name": "YouPro (1.3.2)",
+ "identifier": "dev.perapp.com-google-ios-youtube-youpro-1-3-2-ipastar",
+ "subtitle": "This is a modded version of YouTube with YouPro added.",
+ "description": "Single-app source for YouPro (1.3.2) (com.google.ios.youtube.youpro.1.3.2.ipastar). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youpro.1.3.2.ipastar",
+   "name": "YouPro (1.3.2)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube with YouPro added.",
+   "localizedDescription": "This is a modded version of YouTube with YouPro added.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.30.5",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube with YouPro added.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouPro-fixlogin.ipa",
+     "size": 144504164
+    }
+   ]
+  }
+ ]
+}

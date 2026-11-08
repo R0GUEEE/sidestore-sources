@@ -1,0 +1,37 @@
+{
+ "name": "Manic EMU v2.0.1",
+ "identifier": "dev.perapp.com-aoshuang-manicemu",
+ "subtitle": "Manic EMU is an all-in-one retro emulator for iPhone and iPad. Console, handheld, arcade, computer, and mobile classics ",
+ "description": "Single-app source for Manic EMU v2.0.1 (com.aoshuang.manicemu). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://apps.manicemu.site/images/manicicon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aoshuang.manicemu",
+   "name": "Manic EMU v2.0.1",
+   "developerName": "Manic EMU Development Team",
+   "subtitle": "Manic EMU is an all-in-one retro emulator for iPhone and iPad. Console, handheld, arcade, computer, and mobile classics live in one library. The app d",
+   "localizedDescription": "Manic EMU is an all-in-one retro emulator for iPhone and iPad. Console, handheld, arcade, computer, and mobile classics live in one library. The app d\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://apps.manicemu.site/images/manicicon.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.2",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Manic EMU is an all-in-one retro emulator for iPhone and iPad. Console, handheld, arcade, computer, and mobile classics live in one library. The app d",
+     "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.2/ManicEMU.v2.0.2.SideloadJIT.ipa",
+     "size": 275100000
+    },
+    {
+     "version": "2.0.1",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "Manic EMU is an all-in-one retro emulator for iPhone and iPad. Console, handheld, arcade, computer, and mobile classics live in one library. The app d",
+     "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.1/ManicEMU.v2.0.1.SideloadJIT.ipa",
+     "size": 275100000
+    }
+   ]
+  }
+ ]
+}

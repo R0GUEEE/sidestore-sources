@@ -1,0 +1,30 @@
+{
+ "name": "GTA III - Netflix VH",
+ "identifier": "dev.perapp.com-netflix-ngp-gtaiiidefinitiveedition",
+ "subtitle": "Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi",
+ "description": "Single-app source for GTA III - Netflix VH (com.netflix.NGP.GTAIIIDefinitiveEdition). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/GTA3DEN.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netflix.NGP.GTAIIIDefinitiveEdition",
+   "name": "GTA III - Netflix VH",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi",
+   "localizedDescription": "Chức năng đã thêm: Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/GTA3DEN.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.72.42919648",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://archive.org/download/gta-trilogy-viet-hoa-ios-ipados-ttjb/GTA%20III_1.72.42919648_1702703807.ipa",
+     "size": 1534324645
+    }
+   ]
+  }
+ ]
+}

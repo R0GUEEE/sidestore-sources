@@ -1,0 +1,30 @@
+{
+ "name": "StretchClub",
+ "identifier": "dev.perapp.com-bowery-digital-stretchx",
+ "subtitle": "StretchClub by Holloway",
+ "description": "Single-app source for StretchClub (com.bowery-digital.stretchx). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761379575.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bowery-digital.stretchx",
+   "name": "StretchClub",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://appstore.sidelix.vip/images/1761379575.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.3",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1563",
+     "size": 46506291
+    }
+   ]
+  }
+ ]
+}

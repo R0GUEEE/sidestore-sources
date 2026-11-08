@@ -1,0 +1,30 @@
+{
+ "name": "NT Deals (premium)",
+ "identifier": "dev.perapp.com-valeriichernov-ntdeals",
+ "subtitle": "NT Deals (premium) by sidelix",
+ "description": "Single-app source for NT Deals (premium) (com.valeriichernov.NTDeals). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_69fe71c791850.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.valeriichernov.NTDeals",
+   "name": "NT Deals (premium)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "features:\r\n\r\ncracked premium",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_69fe71c791850.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.2",
+     "date": "2026-05-08T00:00:00Z",
+     "localizedDescription": "features:\r\n\r\ncracked premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2005",
+     "size": 29917265
+    }
+   ]
+  }
+ ]
+}

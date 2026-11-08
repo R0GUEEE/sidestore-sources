@@ -1,0 +1,30 @@
+{
+ "name": "MyTimetablePremium",
+ "identifier": "dev.perapp.fr-adriencarvalot-timetable",
+ "subtitle": "Patched",
+ "description": "Single-app source for MyTimetablePremium (fr.adriencarvalot.Timetable). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fr.adriencarvalot.Timetable.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fr.adriencarvalot.Timetable",
+   "name": "MyTimetablePremium",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "Patched",
+   "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fr.adriencarvalot.Timetable.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.4",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyTimetablePremium/MyTimetablePremium-2.6.4.ipa",
+     "size": 204385158
+    }
+   ]
+  }
+ ]
+}

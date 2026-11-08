@@ -1,0 +1,41 @@
+{
+ "name": "Mornye",
+ "identifier": "dev.perapp.com-zarz-mornye",
+ "subtitle": "Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, ",
+ "description": "Single-app source for Mornye (com.zarz.mornye). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#387879",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.zarz.mornye.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zarz.mornye",
+   "name": "Mornye",
+   "developerName": "mornyeapp",
+   "subtitle": "Mobile music utility built with Flutter and Rust. High-quality audio management for your personal library. open source, no ads, no subscription",
+   "localizedDescription": "Development:\n\nMornye combines a Flutter/Dart UI, a Rust backend from rust_backend/, and thin Android/iOS platform bridges.\n\nSee the Contributing Guide for setup, Android and iOS builds, Full/Lite variants, crash symbols, validation, and pull request guidelines.\n\nMornye uses a decentralized extension repository system. Extensions are hosted independently rather than on a built-in server, so anyone can create and host a compatible repository. In the Repo tab, tap Add Repository and enter a GitHub repository URL that contains a registry.json file to browse and install its extensions.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.zarz.mornye.png",
+   "tintColor": "#387879",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/mornyeapp/Mornye@main/assets/readme/showcase-light.png"
+   ],
+   "versions": [
+    {
+     "version": "5.3.1",
+     "date": "2026-11-05T10:34:12Z",
+     "localizedDescription": "New Features:\n\n• artist: Give Mornye's album card Music's plus and note.\n• search: Drop Mornye desktop's filter chips, as in Music.\n• artist: Shuffle an artist's Library songs from the Mornye hero.\n• mornye: Music's glass inspector, player actions and Home text.\n• home: Make Mornye's Home Music's own, picks included.\n• home: Recently Played and extension playlists for Mornye.\n• theme: Move a stored red Mornye accent to blue once.\n• search: Mornye Top Results and a compact desktop toolbar.\n• home: Open Mornye Home with Top Picks banners.\n• mornye: Pour menus, fold the bar into one glass, desktop artist row.\n• desktop: Bring Mornye's chrome and motion closer to Music.\n• track: Copy a track's streaming service link.\n• library: Play, queue and delete files from a collection selection.\n\n• desktop: Use the expressive transport in the Material player bar.\n• player: Make automatic fullscreen lyrics optional.\n• network: Prefetch upcoming NAS songs to a local cache.\n• library: Upload local songs to network storage.\n• desktop: Add application tab back and forward history.\n• cast: Google Cast on iOS and desktop.\n• cast: Add a Rust Google Cast sender and media server.\n• lyrics: Edit and sync lyrics from the player.\n• player: Open audio files and folders directly.\n• home: Lay out the Material desktop Home for a wide pane.\n• library: Save network songs offline with independent copies.\n• files: Safely reorganize existing library files (#781).\n• Implement plain Windows path handling and matching for file operations.\n• Enhance library reorganization and file handling.\n\n• player: Slide artwork with track swipes (#788).\n• player: Slide artwork with track swipe.\n• library: Add whole-library metadata re-enrichment (#787) ().\n• Add re-enrich all tracks functionality and related UI components.\n• lyrics: Add fast and synced translation modes.\n• android: Add Google Cast audio output.\n• library: Add search by saved lyrics.\n• lastfm: Add desktop account connection and scrobbling.\n• lyrics: Automatically embed online search results.\n• lyrics: Sync AI romanization to original word timing.\n• lyrics: Sync translated phrases to original word timing.\n• network: Edit metadata and lyrics on SMB and WebDAV.\n• desktop: Dismiss paused playback from the player bar.\n\nBug Fixes:\n\n• android: Register player events before create replies.\n• android: Move player operations off the UI thread.\n• metadata: Re-enrich writable network library files.\n• player: Dismiss search focus when opening now playing.\n• player: Keep landscape motion covers square and toggle lyric controls.\n• audio: Clarify Bluetooth codec access and bitrate display.\n• metadata: Grant file access for Windows artwork paths.\n\n• search: Preserve all extension filters on desktop.\n• home: Respect feed selection and provider-neutral layouts.\n• audio: Distinguish exclusive output from bit-perfect playback.\n• home: Hold Mornye's card until Recently Played loads.\n• home: Let Top Picks read any extension.\n• artist: Let Mornye's artist page fall away to near black.\n• home: Size Mornye's Home shelves as Music's pane does.\n• mixes: Build again when the cache is empty at the same total.\n• home: Keep Mornye's Home neutral and enlarge its toolbar glass.\n• artist: Size the Mornye desktop toolbar as in Music and drop its title.\n• player: Keep Mornye's layout still when a computer takes over.\n• windows: Build without the ATL component and find Inno Setup (#764).\n• orientation: Let tablets rotate outside the full player (#807).\n• playback: Remove missing files from the active queue.\n• windows: Update WASAPI backend and use driver minimum buffer.\n• playback: Skip missing local tracks.\n\n• nas: Accept format hints in metadata proxy URLs.\n• ios: Play formats AVPlayer cannot open and skip unplayable songs.\n• windows: Poll connectivity without registering network listeners.\n• lint: Align Library test overrides and notifier APIs.\n• android: Keep media controls responsive during artwork reads.\n• desktop: Keep Escape on the page and re",
+     "downloadURL": "https://github.com/mornyeapp/Mornye/releases/download/v5.3.1/Mornye-v5.3.1-ios-unsigned.ipa",
+     "size": 38671004
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCalendarsUsageDescription": "Add a concert to your calendar after you review and save it.",
+     "NSLocalNetworkUsageDescription": "Connect to your music servers, network storage and Google Cast speakers and TVs to browse and play your music.",
+     "NSMicrophoneUsageDescription": "Listen to music playing nearby to identify the song. Only a sound fingerprint leaves your device.",
+     "NSPhotoLibraryUsageDescription": "Mornye needs access to save album artwork"
+    }
+   }
+  }
+ ]
+}

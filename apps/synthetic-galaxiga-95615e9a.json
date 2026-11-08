@@ -1,0 +1,30 @@
+{
+ "name": "Galaxiga",
+ "identifier": "dev.perapp.synthetic-galaxiga-95615e9a",
+ "subtitle": "Galaxiga by Karbin-Store",
+ "description": "Single-app source for Galaxiga (synthetic.galaxiga.95615e9a). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/Galaxiga.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.galaxiga.95615e9a",
+   "name": "Galaxiga",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Hacke Future",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/Galaxiga.jpeg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.20",
+     "date": "2025-01-16T00:00:00Z",
+     "localizedDescription": "Hacke Future",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-spa-1/Galaxiga_25.20_DEV.ipa",
+     "size": 212990000
+    }
+   ]
+  }
+ ]
+}

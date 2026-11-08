@@ -1,0 +1,30 @@
+{
+ "name": "Resident Evil 4",
+ "identifier": "dev.perapp.com-unknown-residentevil4",
+ "subtitle": "یاریەکە کۆتا ئەپدەیتە ئاگداربە ✅  سەپۆڕتی ئایفۆن 15 دەکات بەرەو سەر ✅",
+ "description": "Single-app source for Resident Evil 4 (com.unknown.residentevil4). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/resident.evil.4.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.residentevil4",
+   "name": "Resident Evil 4",
+   "developerName": "Karbin-Store",
+   "subtitle": "یاریەکە کۆتا ئەپدەیتە ئاگداربە ✅  سەپۆڕتی ئایفۆن 15 دەکات بەرەو سەر ✅",
+   "localizedDescription": "یاریەکە کۆتا ئەپدەیتە ئاگداربە ✅  سەپۆڕتی ئایفۆن 15 دەکات بەرەو سەر ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/resident.evil.4.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-05-31T00:00:00Z",
+     "localizedDescription": "یاریەکە کۆتا ئەپدەیتە ئاگداربە ✅  سەپۆڕتی ئایفۆن 15 دەکات بەرەو سەر ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Resident.Evil.4.1.0.0.ipa",
+     "size": 466710000
+    }
+   ]
+  }
+ ]
+}

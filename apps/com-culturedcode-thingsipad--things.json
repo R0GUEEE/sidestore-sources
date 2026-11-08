@@ -1,0 +1,44 @@
+{
+ "name": "Things",
+ "identifier": "dev.perapp.com-culturedcode-thingsipad",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Things (com.culturedcode.ThingsiPad). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.culturedcode.ThingsiPad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.culturedcode.ThingsiPad",
+   "name": "Things",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.culturedcode.ThingsiPad.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.22.5",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Things_3.22.5_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 23234875
+    },
+    {
+     "version": "3.22.3",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-09-2025/Things_3.22.3_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 22587811
+    },
+    {
+     "version": "3.22.9",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-03-2026/Things_3.22.9_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 23364543
+    }
+   ]
+  }
+ ]
+}

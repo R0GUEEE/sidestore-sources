@@ -1,0 +1,30 @@
+{
+ "name": "No Crop",
+ "identifier": "dev.perapp.com-unknown-nocrop",
+ "subtitle": "ئەپلیکەیشن بۆ دەستکاریکردنی وێنەکان ✨",
+ "description": "Single-app source for No Crop (com.unknown.nocrop). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/No.Crop.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.nocrop",
+   "name": "No Crop",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپلیکەیشن بۆ دەستکاریکردنی وێنەکان ✨",
+   "localizedDescription": "ئەپلیکەیشن بۆ دەستکاریکردنی وێنەکان ✨",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/No.Crop.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.51.0",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشن بۆ دەستکاریکردنی وێنەکان ✨",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/No.Crop._1.51.0_1737215418.ipa",
+     "size": 55100000
+    }
+   ]
+  }
+ ]
+}

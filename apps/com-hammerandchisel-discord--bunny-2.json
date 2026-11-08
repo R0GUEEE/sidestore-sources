@@ -1,0 +1,37 @@
+{
+ "name": "Bunny",
+ "identifier": "dev.perapp.com-hammerandchisel-discord",
+ "subtitle": "Bunny",
+ "description": "Single-app source for Bunny (com.hammerandchisel.discord). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hammerandchisel.discord",
+   "name": "Bunny",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "260",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Bunny-260.ipa",
+     "size": 88529265
+    },
+    {
+     "version": "253",
+     "date": "2024-11-15T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-15-2024/Bunny-253.ipa",
+     "size": 100751235
+    }
+   ]
+  }
+ ]
+}

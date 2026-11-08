@@ -1,0 +1,36 @@
+{
+ "name": "Seanime Server",
+ "identifier": "dev.perapp.app-seanime-server",
+ "subtitle": "Standalone port of Seanime server for iOS and Android",
+ "description": "Single-app source for Seanime Server (app.seanime.server). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.seanime.server.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.seanime.server",
+   "name": "Seanime Server",
+   "developerName": "5rahim",
+   "subtitle": "Standalone port of Seanime server for iOS and Android",
+   "localizedDescription": "About:\n\nThis is a standalone port of Seanime designed to run the server in the background of Android and iOS devices.\n\nBy running the server locally (http://127.0.0.1:43211), it can serve as the backend engine for the Seanime Tenji client app, enabling torrenting, library management, and more, on your phone.\n\nThis is a highly experimental project. Stability and performance are not guaranteed.\n\nSeanime does not provide, host, or distribute any media content. Users are responsible for obtaining media through legal means and complying with local laws.\n\nFeatures:\n\n• Full Backend: Contains the entire Seanime server running in the background.\n\n• iOS Keep-Alive: Prevents iOS from suspending the server's connection when the app is minimized.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.seanime.server.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.0",
+     "date": "2026-10-31T18:58:20Z",
+     "localizedDescription": "Seanime Server:\n\nThis is a release build. Keep in mind that features may be incomplete or unstable.\n\n• ⚡️ Core: Crash reports for server failures.\n• 🦺 Core: Failed server starts no longer close the app.\n• 🦺 Core: Invalid config.toml files are rejected before saving.\n• 🦺 Android: Fixed crashes when Android limits the background service.\n• 🦺 Core: Restarting the server now starts it again when the app is reopened.\n• ⬆️ Upgraded to Seanime 3.10.4-1.\n\nAndroid Installation:\n\n• Open the file to install it (you may need to grant your browser or file manager permission to \"Install unknown apps\").\n• Launch Seanime Server, start the server, and copy its URL.\n\n• Version Code: 7.\n• SHA-256 Checksum: 1c3c688f66a6ed849e072a819308a3782b01a5657a30a4fb66346e989b99dcce.\n\niOS Installation:\n\nThis build is distributed as an unsigned .ipa package for sideloading.\n\n• Sideload the app using your preferred signing tool.\n• Launch Seanime Server, start the server, and copy its URL.\n\n• Build Number: 7.\n• SHA-256 Checksum: 5ea3aae1601fa1dfeddcf60724fb49cd8010f100741f2fc7767da2c0aeb24d89.\n\nBuild Details:\n\n• Commit: d5a9557.",
+     "downloadURL": "https://github.com/5rahim/seanime-server-mobile/releases/download/v0.4.0-7.7-20261031-d5a9557/seanime-server-v0.4.0-7-20261031-d5a9557.ipa",
+     "size": 41502644
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Seanime Server accepts local connections from Seanime clients on this device."
+    }
+   }
+  }
+ ]
+}

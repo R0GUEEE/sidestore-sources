@@ -1,0 +1,30 @@
+{
+ "name": "Alyn ReSA Multiplayer",
+ "identifier": "dev.perapp.com-alyn-resamp-launcher",
+ "subtitle": "An iOS client for San Andreas Multiplayer. Native code, live server discovery, and a launcher built around how people ac",
+ "description": "Single-app source for Alyn ReSA Multiplayer (com.alyn.resamp.launcher). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.alyn.resamp.launcher.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alyn.resamp.launcher",
+   "name": "Alyn ReSA Multiplayer",
+   "developerName": "RipeStore",
+   "subtitle": "An iOS client for San Andreas Multiplayer. Native code, live server discovery, and a launcher built around how people actually play on an iPhone.  Fea",
+   "localizedDescription": "An iOS client for San Andreas Multiplayer. Native code, live server discovery, and a launcher built around how people actually play on an iPhone.  Fea\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.alyn.resamp.launcher.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "An iOS client for San Andreas Multiplayer. Native code, live server discovery, and a launcher built around how people actually play on an iPhone.  Fea",
+     "downloadURL": "https://github.com/RipeStore/SA-MP_Mobile/releases/download/v1.0.2-r3/Alyn_ReSA_Multiplayer_v1.0.2-r3.ipa",
+     "size": 36623118
+    }
+   ]
+  }
+ ]
+}

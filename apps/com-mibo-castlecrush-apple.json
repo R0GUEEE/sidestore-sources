@@ -1,0 +1,37 @@
+{
+ "name": "Castle Crush",
+ "identifier": "dev.perapp.com-mibo-castlecrush-apple",
+ "subtitle": "ipaomtk.com | Castle Crush Match 3 IPA (Coins – Lives – Stars – Moves Freeze – Booster – Auto Win [ Just Hit Target ]) i",
+ "description": "Single-app source for Castle Crush (com.mibo.castlecrush.apple). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Castle-Crush-Match-3-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mibo.castlecrush.apple",
+   "name": "Castle Crush",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Castle Crush Match 3 IPA (Coins – Lives – Stars – Moves Freeze – Booster – Auto Win [ Just Hit Target ]) iOS, bringing forth new and eng",
+   "localizedDescription": "ipaomtk.com | Castle Crush Match 3 IPA (Coins – Lives – Stars – Moves Freeze – Booster – Auto Win [ Just Hit Target ]) iOS, bringing forth new and eng",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Castle-Crush-Match-3-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.43.0",
+     "date": "2025-01-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Castle Crush Match 3 IPA (Coins – Lives – Stars – Moves Freeze – Booster – Auto Win [ Just Hit Target ]) iOS, bringing forth new and eng",
+     "downloadURL": "https://file.ipaomtk.com/Castle%20Crush-Match%203/Castle-Crush-Match-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.69.0",
+     "date": "2025-01-27T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Castle Crush Match 3 IPA (Coins – Lives – Stars – Moves Freeze – Booster – Auto Win [ Just Hit Target ]) iOS, bringing forth new and eng",
+     "downloadURL": "https://file.ipaomtk.com/Castle%20Crush-Match%203/Castle-Crush-Match-IPAOMTK.COM.ipa",
+     "size": 304234857
+    }
+   ]
+  }
+ ]
+}

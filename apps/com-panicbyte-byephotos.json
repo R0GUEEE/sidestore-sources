@@ -1,0 +1,30 @@
+{
+ "name": "ByePhotos",
+ "identifier": "dev.perapp.com-panicbyte-byephotos",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for ByePhotos (com.panicbyte.byephotos). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.panicbyte.byephotos.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.panicbyte.byephotos",
+   "name": "ByePhotos",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.panicbyte.byephotos.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15.1",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/ByePhotos_1.15.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 31508495
+    }
+   ]
+  }
+ ]
+}

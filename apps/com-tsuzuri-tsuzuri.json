@@ -1,0 +1,40 @@
+{
+ "name": "Tsuzuri",
+ "identifier": "dev.perapp.com-tsuzuri-tsuzuri",
+ "subtitle": "A quiet, lightweight, completely offline, cross-platform Markdown document reader and editor built with Flutter and Dart",
+ "description": "Single-app source for Tsuzuri (com.tsuzuri.tsuzuri). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tsuzuri.tsuzuri.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tsuzuri.tsuzuri",
+   "name": "Tsuzuri",
+   "developerName": "ameya-deshpande-5056",
+   "subtitle": "A quiet, lightweight, completely offline, cross-platform Markdown document reader and editor built with Flutter and Dart",
+   "localizedDescription": "Tsuzuri v2 (綴り):\n\nA quiet, lightweight, completely offline, cross-platform Markdown document reader and editor built with Flutter and Dart.\n\nWhat is Tsuzuri v2?:\n\nTsuzuri v2 is the next-generation rewrite of Tsuzuri, evolving from the original desktop-focused Tauri 2 + Rust implementation into a high-performance, single-codebase Flutter application.\n\nWhile Tsuzuri v1 established the reader-first philosophy and AMOLED aesthetic on desktop, v2 expands that vision to first-class mobile hardware (Android & iOS) and the Web while preserving native desktop performance, offline independence, and typographic fidelity.\n\nDesktop Reading Experience:\n\nMutually exclusive formatted view designed for long reading sessions with true #000000 AMOLED dark canvas and #FCFCFC light canvas.\n\nMobile Hardware Showcase:\n\nTypeset mathematics, chemical equations (\\ce{2H2 + O2 -> 2H2O}), SVG Mermaid diagrams, and structured code cards running 100% offline on mobile hardware (Realme 1 / Android 9).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tsuzuri.tsuzuri.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ameya-deshpande-5056/Tsuzuri-v2@main/assets/screenshots/mobile_reader_dark.png",
+    "https://cdn.jsdelivr.net/gh/ameya-deshpande-5056/Tsuzuri-v2@main/assets/screenshots/mobile_reader_chem_code.png",
+    "https://cdn.jsdelivr.net/gh/ameya-deshpande-5056/Tsuzuri-v2@main/assets/screenshots/mobile_reader_code.png",
+    "https://cdn.jsdelivr.net/gh/ameya-deshpande-5056/Tsuzuri-v2@main/assets/screenshots/mobile_editor.png",
+    "https://cdn.jsdelivr.net/gh/ameya-deshpande-5056/Tsuzuri-v2@main/assets/screenshots/mobile_toc_drawer.png"
+   ],
+   "versions": [
+    {
+     "version": "2.1.0",
+     "date": "2026-10-15T07:12:10Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/ameya-deshpande-5056/Tsuzuri-v2/releases/download/v2.1.0/Tsuzuri_2.1.0.ipa",
+     "size": 10831054
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

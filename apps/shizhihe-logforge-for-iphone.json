@@ -1,0 +1,41 @@
+{
+ "name": "LogForge",
+ "identifier": "dev.perapp.shizhihe-logforge-for-iphone",
+ "subtitle": "Native Windows and iOS applications that convert BT.2020 HLG ProRes into Apple Log / BT.2020 ProRes for a consistent gra",
+ "description": "Single-app source for LogForge (Shizhihe.LogForge-For-iPhone). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4e74c9",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/Shizhihe.LogForge-For-iPhone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Shizhihe.LogForge-For-iPhone",
+   "name": "LogForge",
+   "developerName": "HongHuo0728",
+   "subtitle": "Native Windows and iOS applications that convert BT.2020 HLG ProRes into Apple Log / BT.2020 ProRes for a consistent grading workflow",
+   "localizedDescription": "LogForge:\n\nNative Windows and iOS applications that convert BT.2020 HLG ProRes into Apple Log / BT.2020 ProRes for a consistent grading workflow.\n\nLogForge changes the pixels using published color mathematics. It does not restore clipped highlights, crushed shadows, tone-mapped-away detail, or information lost in a camera's ISP. It cannot turn processed phone footage into the original sensor capture.\n\niOS 1.3.2:\n\n• Adaptive Duo workspace: queue/progress/results and conversion parameters split across the inner display or fold, with a complete compact workspace on the outer display. Root-owned queue and drafts survive resizing.\n• Native system toolbars adapt to side placement where appropriate; import sheets and parameter rows resize for available space and larger text. iOS 26 retains the compatible layout path.\n• Native transparent Liquid Glass interface, layered glass icon, accessibility contrast handling and haptic feedback.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/Shizhihe.LogForge-For-iPhone.png",
+   "tintColor": "#4e74c9",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/HongHuo0728/LogForge@main/docs/images/duo/open-portrait.png",
+    "https://cdn.jsdelivr.net/gh/HongHuo0728/LogForge@main/docs/images/duo/tabletop.png",
+    "https://cdn.jsdelivr.net/gh/HongHuo0728/LogForge@main/docs/images/duo/closed-outer.png"
+   ],
+   "versions": [
+    {
+     "version": "1.3.2",
+     "date": "2026-10-23T20:46:03Z",
+     "localizedDescription": "LogForge v1.3.2:\n\nBuild 261023A.\n\nThis release targets iOS. The included Windows version remains at v1.3.0 (26929A).\n\nLogForge v1.3.2 brings an adaptive workspace and native system toolbars to iPhone Duo, with support for its inner and outer displays, fold-aware layouts, system Split View and split keyboard input. The native Swift, SwiftUI and Metal architecture is retained.\n\nAdaptive iPhone Duo Workspace:\n\n• Show queue, progress and results beside conversion parameters in unfolded landscape, or stack the two regions in unfolded portrait. Each region scrolls independently.\n• Use iOS 27.1 ArrangementView and reserved division regions to keep key controls on separate sides of book and tabletop folds. Compact outer-display windows use a complete single-column workspace in either orientation.\n• Fill the available screen while respecting asymmetric safe areas, camera and system controls. Keep an adaptive single/dual-region fallback on iOS 26.\n• Preserve the shared queue and running conversion while resizing. Each window retains its settings draft; native scene activation and hinge/lifecycle checkpoints are implemented.\n• Support native movie/file-URL drops, provider-owned file copying, prompt import cancellation and dragging completed movies to another app.\n• Retain the system Files search keyboard, including split typing and keyboard avoidance during folding.\n\nNative Toolbars and Liquid Glass:\n\n• Move import, convert/cancel, settings and language actions into native system toolbars, including Settings save/cancel. The system places them at the side when appropriate and adapts placement to the active window.\n• Prioritize primary actions and allow secondary actions in system overflow menus.\n• Remove fixed homepage width, bottom spacing and import-panel height; reflow long filenames, parameter labels and accessibility text.\n\nVerification:\n\n• 14 focused XCTest checks passed, 0 failed, including real 4K ProRes MOV/audio validation and core import/layout/UI coverage.\n• Six actual Duo simulator layouts passed: unfolded landscape/portrait, book at 120°, tabletop at 90°, and outer-display portrait/landscape, including import and Settings interactions.\n• Left-side system Split View, settings draft/cancel, full-screen restoration and split keyboard input/folding checks passed.\n\nSuccessful iOS build, tests and diagnostic artifacts.\n\nCompatibility and Limits:\n\n• Requires iOS 26 or newer. Input remains BT.2020 HLG ProRes 422 / 422 HQ MOV; output remains Apple Log ProRes 422 or ProRes 422 HQ. CPU/Metal processing, codec fallback, batch conversion and retry remain available.\n• Tent posture and two simultaneous LogForge windows were not confirmed by this run's automation. Outer-display landscape passed separately and is not presented as a tent posture test.\n• Full appearance, cross-app drop, running-conversion transitions and iOS 26/iPad runtime matrices were not run in the final focused suite. They remain optional checks.\n• An additional AAC edit/timecode test passed in run 18 and timed out in run 19 with unchanged app sources. It remains in the optional full suite and is not counted as a pass in the final run.\n\nDownload:\n\nDownload LogForge-1.3.2-iOS-261023A-unsigned.ipa and sign it with your own valid Apple identity and provisioning profile before installation. This is an unsigned arm64 device build; App Store/TestFlight distribution is not configured. Signing changes its checksum.\n\nMatching SHA-256 files are provided for integrity verification. Keep LogForge-1.3.2-iOS-261023A-RelinkKit.zip, corresponding source and license notices when distributing the application. Windows users can download LogForge-1.3.0-Windows-x64.zip and its matching checksum; its installation and version are unchanged.\n\nSource Provenance:\n\nThe iOS package was built from commit 81231bc29c89d725384ef539e8026262a861c36d, tagged v1.3.2, with numeric Apple bundle build 20. These exact verified bytes were promoted without rebuilding.",
+     "downloadURL": "https://github.com/HongHuo0728/LogForge/releases/download/v1.3.2/LogForge-1.3.2-iOS-261023A-unsigned.ipa",
+     "size": 7395016
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "Save converted videos to your photo library.",
+     "NSPhotoLibraryUsageDescription": "Select videos to convert to Apple Log."
+    }
+   }
+  }
+ ]
+}

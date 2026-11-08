@@ -1,0 +1,30 @@
+{
+ "name": "Solaria",
+ "identifier": "dev.perapp.com-glaivegames-solaria",
+ "subtitle": "ipaomtk.com | Solaria Dawn ‍of Heroes IPA v0.24.5 is ⁣an immersive role-playing game ⁤(RPG) designed specifically for iO",
+ "description": "Single-app source for Solaria (com.glaivegames.solaria). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Solaria-Dawn-of-Heroes-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.glaivegames.solaria",
+   "name": "Solaria",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Solaria Dawn ‍of Heroes IPA v0.24.5 is ⁣an immersive role-playing game ⁤(RPG) designed specifically for iOS devices. It combines classic",
+   "localizedDescription": "ipaomtk.com | Solaria Dawn ‍of Heroes IPA v0.24.5 is ⁣an immersive role-playing game ⁤(RPG) designed specifically for iOS devices. It combines classic",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Solaria-Dawn-of-Heroes-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.24.5",
+     "date": "2025-05-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Solaria Dawn ‍of Heroes IPA v0.24.5 is ⁣an immersive role-playing game ⁤(RPG) designed specifically for iOS devices. It combines classic",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Solaria_Dawn_of_Heroes_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Globetrotter",
+ "identifier": "dev.perapp.com-shi-globetrotter",
+ "subtitle": "ipaomtk.com | Globetrotter IPA Pro is a must-have companion for modern adventurers seeking to document their journeys an",
+ "description": "Single-app source for Globetrotter (com.shi.Globetrotter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/globetrotter-travel-tracker-logo-150x150.avif",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shi.Globetrotter",
+   "name": "Globetrotter",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Globetrotter IPA Pro is a must-have companion for modern adventurers seeking to document their journeys and relive their travel memories",
+   "localizedDescription": "ipaomtk.com | Globetrotter IPA Pro is a must-have companion for modern adventurers seeking to document their journeys and relive their travel memories",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/globetrotter-travel-tracker-logo-150x150.avif",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.0",
+     "date": "2024-10-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Globetrotter IPA Pro is a must-have companion for modern adventurers seeking to document their journeys and relive their travel memories",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Globetrotter-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

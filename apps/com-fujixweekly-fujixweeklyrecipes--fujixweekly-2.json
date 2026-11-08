@@ -1,0 +1,30 @@
+{
+ "name": "Fujixweekly",
+ "identifier": "dev.perapp.com-fujixweekly-fujixweeklyrecipes",
+ "subtitle": "Fujixweekly",
+ "description": "Single-app source for Fujixweekly (com.fujixweekly.fujixweeklyrecipes). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
+   "name": "Fujixweekly",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.0",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Fujixweekly_1.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 5820129
+    }
+   ]
+  }
+ ]
+}

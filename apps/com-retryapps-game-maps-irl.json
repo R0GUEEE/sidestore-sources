@@ -1,0 +1,30 @@
+{
+ "name": "GameMapsIRL",
+ "identifier": "dev.perapp.com-retryapps-game-maps-irl",
+ "subtitle": "GameMapsIRL",
+ "description": "Single-app source for GameMapsIRL (com.retryapps.game.maps.irl). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.retryapps.game.maps.irl.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.retryapps.game.maps.irl",
+   "name": "GameMapsIRL",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.retryapps.game.maps.irl.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4",
+     "date": "2025-11-16T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2025/GameMapsIRL_1.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 55497119
+    }
+   ]
+  }
+ ]
+}

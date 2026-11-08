@@ -1,0 +1,30 @@
+{
+ "name": "Moonly",
+ "identifier": "dev.perapp.com-unknown-moonly",
+ "subtitle": "تایبەتمەندی پڕایم کراوەتۆ",
+ "description": "Single-app source for Moonly (com.unknown.moonly). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Moonly.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.moonly",
+   "name": "Moonly",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی پڕایم کراوەتۆ",
+   "localizedDescription": "تایبەتمەندی پڕایم کراوەتۆ",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Moonly.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.7",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی پڕایم کراوەتۆ",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/Moonly.2.1.7.ipa",
+     "size": 163020000
+    }
+   ]
+  }
+ ]
+}

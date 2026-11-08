@@ -1,0 +1,30 @@
+{
+ "name": "Dr.Kegel",
+ "identifier": "dev.perapp.com-appercut-kegel",
+ "subtitle": "Dr.Kegel",
+ "description": "Single-app source for Dr.Kegel (com.appercut.kegel). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appercut.kegel.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.appercut.kegel",
+   "name": "Dr.Kegel",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appercut.kegel.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.53.1",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Dr.Kegel_2.53.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 191478402
+    }
+   ]
+  }
+ ]
+}

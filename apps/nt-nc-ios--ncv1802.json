@@ -1,0 +1,30 @@
+{
+ "name": "NCv1802",
+ "identifier": "dev.perapp.nt-nc-ios",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for NCv1802 (nt.nc.ios). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nt.nc.ios",
+   "name": "NCv1802",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nc.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18.0.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2025/NCv1802_18.0.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 372860091
+    }
+   ]
+  }
+ ]
+}

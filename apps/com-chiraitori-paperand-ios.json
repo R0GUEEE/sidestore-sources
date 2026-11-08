@@ -1,0 +1,36 @@
+{
+ "name": "Paperand",
+ "identifier": "dev.perapp.com-chiraitori-paperand-ios",
+ "subtitle": "Ad-Free Manga Reader for Android & iOS base on Paperback extension 0.8",
+ "description": "Single-app source for Paperand (com.chiraitori.paperand.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#975bc0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chiraitori.paperand.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chiraitori.paperand.ios",
+   "name": "Paperand",
+   "developerName": "chiraitori",
+   "subtitle": "Ad-Free Manga Reader for Android & iOS base on Paperback extension 0.8",
+   "localizedDescription": "Paperand - Ad-Free Manga Reader 📚:\n\nAn elegant, ad-free manga reader built with Expo and React Native. Compatible with Paperback extensions.\n\nFeatures:\n\n• 📖 Browse Manga - Discover manga with genre filtering and search.\n• 🔌 Paperback Extensions - Compatible with Paperback extension sources.\n• 📚 Personal Library - Save your favorite manga for quick access.\n• ❤️ Favorites - Mark manga as favorites for easy organization.\n• 📊 Reading Progress - Automatic tracking of your reading position.\n• 🌙 Dark Mode - Eye-friendly dark theme with custom .pbcolors support.\n• 📱 Dual Reading Modes - Vertical scroll or horizontal page flip.\n• 🔄 Chapter Navigation - Easy navigation between chapters.\n• 📜 Reading History - Track what you've been reading.\n• 🔍 Multi-Source Search - Search across all installed extensions.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chiraitori.paperand.ios.png",
+   "tintColor": "#975bc0",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.33",
+     "date": "2026-10-21T10:23:03Z",
+     "localizedDescription": "# 📱 Paperand v0.0.33.\n\n### _Ad-Free Manga Reader for iOS & Android_.\n\n## ✨ What's New.\n\n• chore(release): bump version to 0.0.33 with comprehensive bug fixes, download resumption, and smooth scrolling.\n• feat(updater): smart device architecture matching for APK downloads.\n\n## 📥 Downloads.\n\n### 🤖 Android (Device Architecture Builds).\n\n> 💡 **Tip:** Most modern Android phones & tablets use **arm64-v8a**. Downloading the specific architecture APK drastically reduces download size and disk usage!\n\n### 🍎 iOS.\n\n**Made with ❤️ by chiraitori**.",
+     "downloadURL": "https://github.com/chiraitori/paperand/releases/download/v0.0.33/paperand-0.0.33.ipa",
+     "size": 34882920
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "Allow Paperand to use Face ID"
+    }
+   }
+  }
+ ]
+}

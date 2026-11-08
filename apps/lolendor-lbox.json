@@ -1,0 +1,30 @@
+{
+ "name": "LBox",
+ "identifier": "dev.perapp.lolendor-lbox",
+ "subtitle": "⚡ Quick Start: To enable automatic app installation to LiveContainer, select its directory (\"On My iPhone\" > \"LiveContai",
+ "description": "Single-app source for LBox (Lolendor.LBox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/Lolendor.LBox.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Lolendor.LBox",
+   "name": "LBox",
+   "developerName": "Lolendor",
+   "subtitle": "⚡ Quick Start: To enable automatic app installation to LiveContainer, select its directory (\"On My iPhone\" > \"LiveContainer\") on your device (see Fix ",
+   "localizedDescription": "⚡ Quick Start: To enable automatic app installation to LiveContainer, select its directory (\"On My iPhone\" > \"LiveContainer\") on your device (see Fix\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/Lolendor.LBox.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "⚡ Quick Start: To enable automatic app installation to LiveContainer, select its directory (\"On My iPhone\" > \"LiveContainer\") on your device (see Fix ",
+     "downloadURL": "https://github.com/Lolendor/LBox/releases/download/v1.2/LBox.ipa",
+     "size": 614768
+    }
+   ]
+  }
+ ]
+}

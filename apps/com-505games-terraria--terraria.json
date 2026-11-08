@@ -1,0 +1,37 @@
+{
+ "name": "Terraria",
+ "identifier": "dev.perapp.com-505games-terraria",
+ "subtitle": "@ipa_dark | 🔄 Terraria - appstore  🇷🇺 Песочница с элементами выживания и приключений. Исследуйте огромный процедурно соз",
+ "description": "Single-app source for Terraria (com.505games.terraria). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1625.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.505games.terraria",
+   "name": "Terraria",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Terraria - appstore  🇷🇺 Песочница с элементами выживания и приключений. Исследуйте огромный процедурно созданный мир, добывайте ресурсы,",
+   "localizedDescription": "@ipa_dark | 🔄 Terraria - appstore  🇷🇺 Песочница с элементами выживания и приключений. Исследуйте огромный процедурно созданный мир, добывайте ресурсы,",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1625.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.5.6",
+     "date": "2026-07-29T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Terraria - appstore  🇷🇺 Песочница с элементами выживания и приключений. Исследуйте огромный процедурно созданный мир, добывайте ресурсы,",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1625-Terraria%20%5Bv1.4.5.6%5D%28tg@ipa_dark%29.ipa",
+     "size": 190995114
+    },
+    {
+     "version": "4.5.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Terraria 4.5.0",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Terraria_4.5.0.ipa",
+     "size": 189278453
+    }
+   ]
+  }
+ ]
+}

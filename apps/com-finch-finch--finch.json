@@ -1,0 +1,30 @@
+{
+ "name": "Finch",
+ "identifier": "dev.perapp.com-finch-finch",
+ "subtitle": "Finch",
+ "description": "Single-app source for Finch (com.finch.finch). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/85/d5/a685d510-ba5e-fbdc-ee4e-59c176aadffc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.finch.finch",
+   "name": "Finch",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Finch: Self-Care Pet\n\nTweak: Subscription Unlocked\n\nVersion: 3.73.15\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/85/d5/a685d510-ba5e-fbdc-ee4e-59c176aadffc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.73.15",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Finch: Self-Care Pet\n\nTweak: Subscription Unlocked\n\nVersion: 3.73.15\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/f11aa793-2366-4b5f-9686-2442a3c8aec4/Finch__Self-Care_Pet-v3.73.15-riftysipas.ipa",
+     "size": 167058066
+    }
+   ]
+  }
+ ]
+}

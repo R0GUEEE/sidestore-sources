@@ -1,0 +1,30 @@
+{
+ "name": "Bunny",
+ "identifier": "dev.perapp.synthetic-bunny-ff2b4936",
+ "subtitle": "Bunny by Karbin-Store",
+ "description": "Single-app source for Bunny (synthetic.bunny.ff2b4936). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Bunny.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.bunny.ff2b4936",
+   "name": "Bunny",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Bunny.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.60",
+     "date": "2025-01-09T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Bunny-260.ipa",
+     "size": 84440000
+    }
+   ]
+  }
+ ]
+}

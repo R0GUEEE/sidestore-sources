@@ -1,0 +1,30 @@
+{
+ "name": "BenkyoPro",
+ "identifier": "dev.perapp.app-benkyo-benkyo",
+ "subtitle": "BenkyoPro",
+ "description": "Single-app source for BenkyoPro (app.benkyo.Benkyo). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.benkyo.Benkyo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.benkyo.Benkyo",
+   "name": "BenkyoPro",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.benkyo.Benkyo.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.6",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BenkyoPro/BenkyoPro-2.3.6.ipa",
+     "size": 101093291
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "SpotiFLAC Mobile",
+ "identifier": "dev.perapp.com-zarz-spotiflac",
+ "subtitle": "scholars lounge | SpotiFLAC Mobile Version: 5.0.0 Bundle ID: com.zarz.spotiflac App by spotiflacapp  Mobile music utilit",
+ "description": "Single-app source for SpotiFLAC Mobile (com.zarz.spotiflac). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/75913.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zarz.spotiflac",
+   "name": "SpotiFLAC Mobile",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | SpotiFLAC Mobile Version: 5.0.0 Bundle ID: com.zarz.spotiflac App by spotiflacapp  Mobile music utility built with Flutter and Go. H",
+   "localizedDescription": "scholars lounge | SpotiFLAC Mobile Version: 5.0.0 Bundle ID: com.zarz.spotiflac App by spotiflacapp  Mobile music utility built with Flutter and Go. H\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/75913.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.5",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "SpotiFLAC is a Flutter music app built around installable extensions: an extension supplies the metadata and the audio downloads for one provider, so ",
+     "downloadURL": "https://github.com/mornyeapp/Mornye/releases/download/v5.2.5/Mornye-v5.2.5-ios-unsigned.ipa",
+     "size": 35538708
+    },
+    {
+     "version": "5.2.1",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "SpotiFLAC is a Flutter music app built around installable extensions: an extension supplies the metadata and the audio downloads for one provider, so ",
+     "downloadURL": "https://github.com/mornyeapp/Mornye/releases/download/v5.2.1/Mornye-v5.2.1-ios-unsigned.ipa",
+     "size": 34515412
+    },
+    {
+     "version": "5.2.0",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "SpotiFLAC is a Flutter music app built around installable extensions: an extension supplies the metadata and the audio downloads for one provider, so ",
+     "downloadURL": "https://github.com/spotiflacapp/SpotiFLAC-Mobile/releases/download/v5.2.0/SpotiFLAC-v5.2.0-ios-unsigned.ipa",
+     "size": 34659653
+    }
+   ]
+  }
+ ]
+}

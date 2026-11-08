@@ -1,0 +1,44 @@
+{
+ "name": "HabitKit",
+ "identifier": "dev.perapp.com-roehl-habitkit",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for HabitKit (com.roehl.habitkit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.roehl.habitkit",
+   "name": "HabitKit",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.19.1",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@blatants | Habit Tracker - HabitKit  • Bundle ID: com.roehl.habitkit • Updated to: 1.19.1 • Minimum iOS: 15.0 • Patched • Modifier: Pro Unlocked • Tw",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/HabitKit_1.19.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 109714760
+    },
+    {
+     "version": "1.19.0",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Habit Tracker - HabitKit  Tweak: Subscription Unlocked  Version: 1.19.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8641-Habit%20Tracker%20-%20HabitKit-v1.19.0-riftysipas.ipa",
+     "size": 98998471
+    },
+    {
+     "version": "1.18.3",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "@blatants | Habit Tracker - HabitKit  • Bundle ID: com.roehl.habitkit • Updated to: 1.18.3 • Minimum iOS: 15.0 • Patched • Modifier: Pro Unlocked • Tw",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12927-Habit_Tracker_HabitKit_v1_18_3_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 110085180
+    }
+   ]
+  }
+ ]
+}

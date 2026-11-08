@@ -1,0 +1,30 @@
+{
+ "name": "Structured",
+ "identifier": "dev.perapp.com-unknown-structured",
+ "subtitle": "Injected with ProFeaturesUnlocked",
+ "description": "Single-app source for Structured (com.unknown.structured). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Structured.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.structured",
+   "name": "Structured",
+   "developerName": "Karbin-Store",
+   "subtitle": "Injected with ProFeaturesUnlocked",
+   "localizedDescription": "Injected with ProFeaturesUnlocked",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Structured.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7.2",
+     "date": "2026-02-27T00:00:00Z",
+     "localizedDescription": "Injected with ProFeaturesUnlocked",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Structured-v3.7.2.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

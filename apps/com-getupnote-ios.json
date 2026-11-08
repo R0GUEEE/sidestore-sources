@@ -1,0 +1,30 @@
+{
+ "name": "UpNote",
+ "identifier": "dev.perapp.com-getupnote-ios",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for UpNote (com.getupnote.ios). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.getupnote.ios",
+   "name": "UpNote",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.22.7",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/UpNote_9.22.7_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 55507640
+    }
+   ]
+  }
+ ]
+}

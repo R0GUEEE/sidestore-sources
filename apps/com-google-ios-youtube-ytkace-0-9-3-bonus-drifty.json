@@ -1,0 +1,30 @@
+{
+ "name": "YTKACE (0.9.3) - Bonus Tweaks (Drifty)",
+ "identifier": "dev.perapp.com-google-ios-youtube-ytkace-0-9-3-bonus-drifty",
+ "subtitle": "This is a modded version of YouTube. Source code: https://github.com/itzzace/YTKACE",
+ "description": "Single-app source for YTKACE (0.9.3) - Bonus Tweaks (Drifty) (com.google.ios.youtube.ytkace.0.9.3.bonus.Drifty). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.ytkace.0.9.3.bonus.Drifty",
+   "name": "YTKACE (0.9.3) - Bonus Tweaks (Drifty)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. Source code: https://github.com/itzzace/YTKACE",
+   "localizedDescription": "This is a modded version of YouTube. Source code: https://github.com/itzzace/YTKACE\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.37.5",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. Source code: https://github.com/itzzace/YTKACE",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_0.9.3_YouTube_iOS16_21.37.5_rootless.ipa",
+     "size": 135541279
+    }
+   ]
+  }
+ ]
+}

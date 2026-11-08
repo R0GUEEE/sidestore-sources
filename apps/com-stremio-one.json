@@ -1,0 +1,30 @@
+{
+ "name": "Stremio_1.0.1-17",
+ "identifier": "dev.perapp.com-stremio-one",
+ "subtitle": "Stremio 1.0.1-17",
+ "description": "Single-app source for Stremio_1.0.1-17 (com.stremio.one). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio_1.0.1-17.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stremio.one",
+   "name": "Stremio_1.0.1-17",
+   "developerName": "Stremio_1.0.1-17 x CyPwn",
+   "subtitle": "Stremio 1.0.1-17",
+   "localizedDescription": "Stremio 1.0.1-17",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio_1.0.1-17.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Stremio 1.0.1-17",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio_1.0.1-17.ipa",
+     "size": 64026050
+    }
+   ]
+  }
+ ]
+}

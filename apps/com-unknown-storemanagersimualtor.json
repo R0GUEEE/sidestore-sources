@@ -1,0 +1,37 @@
+{
+ "name": "Store Manager Simualtor",
+ "identifier": "dev.perapp.com-unknown-storemanagersimualtor",
+ "subtitle": "Hack Feature ( Turn on from the menu )",
+ "description": "Single-app source for Store Manager Simualtor (com.unknown.storemanagersimualtor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Store.Manager.Simualtor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.storemanagersimualtor",
+   "name": "Store Manager Simualtor",
+   "developerName": "Karbin-Store",
+   "subtitle": "Hack Feature ( Turn on from the menu )",
+   "localizedDescription": "Hack Feature ( Turn on from the menu )",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Store.Manager.Simualtor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.28",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "Hack Feature ( Turn on from the menu )",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Store.Manager.Simulator.v1.0.59_BabyloniPA.ipa",
+     "size": 94550000
+    },
+    {
+     "version": "1.0.59",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "Tweaks: BabylonCheatEngine\n\nHack Feature ( Turn on from the menu )",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Store.Manager.Simulator.v1.0.59_BabyloniPA.ipa",
+     "size": 118691646
+    }
+   ]
+  }
+ ]
+}

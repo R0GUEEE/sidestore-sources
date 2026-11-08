@@ -1,0 +1,30 @@
+{
+ "name": "Garena",
+ "identifier": "dev.perapp.com-garena-gamecenter",
+ "subtitle": "Ứng dụng đã bị xoá khỏi AppStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Garena (com.garena.gamecenter). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/a1/68/b6a168d8-ebd0-c11a-e181-2fc1cfca40d9/AppIcon-1x_U007emarketing-0-4-0-85-220.png/146x0w.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.garena.gamecenter",
+   "name": "Garena",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Ứng dụng đã bị xoá khỏi AppStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Ứng dụng đã bị xoá khỏi AppStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/a1/68/b6a168d8-ebd0-c11a-e181-2fc1cfca40d9/AppIcon-1x_U007emarketing-0-4-0-85-220.png/146x0w.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.12",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Ứng dụng đã bị xoá khỏi AppStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/com.garena.gamecenter_TTJB.ipa",
+     "size": 52748858
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "dp",
+ "identifier": "dev.perapp.au-com-michaeltigas-minios",
+ "subtitle": "dp",
+ "description": "Single-app source for dp (au.com.michaeltigas.MiniOS). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.michaeltigas.MiniOS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "au.com.michaeltigas.MiniOS",
+   "name": "dp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.michaeltigas.MiniOS.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.11.1",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/dp_1.11.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 288792197
+    }
+   ]
+  }
+ ]
+}

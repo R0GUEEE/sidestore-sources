@@ -1,0 +1,44 @@
+{
+ "name": "TrollMods",
+ "identifier": "dev.perapp.io-hex36-trollmods",
+ "subtitle": "A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 a",
+ "description": "Single-app source for TrollMods (io.hex36.TrollMods). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/io.hex36.TrollMods.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.hex36.TrollMods",
+   "name": "TrollMods",
+   "developerName": "aethercot",
+   "subtitle": "A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot Last u",
+   "localizedDescription": "A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot Last u",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/io.hex36.TrollMods.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot Last u",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-30-2022/TrollMods-0.2.ipa",
+     "size": 3161233
+    },
+    {
+     "version": "0.4",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot Last u",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/TrollMods-0.4.ipa",
+     "size": 4626929
+    },
+    {
+     "version": "0.3",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "A collection of mods, based on the MacDirtyCow exploit, between iOS 15-16.1.2. Current mods include TrollLock by haxi0 and TrollFX by aethercot Last u",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-01-2023/TrollMods-0.3.ipa",
+     "size": 3829377
+    }
+   ]
+  }
+ ]
+}

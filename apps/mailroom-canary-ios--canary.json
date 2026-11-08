@@ -1,0 +1,44 @@
+{
+ "name": "Canary",
+ "identifier": "dev.perapp.mailroom-canary-ios",
+ "subtitle": "Canary",
+ "description": "Single-app source for Canary (Mailroom.Canary-iOS). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/f67c889d-e713-43b9-9d74-2db478e6682f/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "Mailroom.Canary-iOS",
+   "name": "Canary",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nCanary Mail\n\nPro features unlocked\n\n⚠️ some features may only work with trollstore/jailbreak\n\nTweak made by Ravand\n\nMinimum OS version 13.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/f67c889d-e713-43b9-9d74-2db478e6682f/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.70.1",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1741",
+     "size": 63465819
+    },
+    {
+     "version": "4.97.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nCanary Mail\n\nPro features unlocked\n\n⚠️ some features may only work with trollstore/jailbreak\n\nTweak made by Ravand\n\nMinimum OS version 13.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c58551b4-6439-402b-9d4d-7c3e356185ab/Canary_Mail_Pro_4.97.1.ipa",
+     "size": 85383584
+    },
+    {
+     "version": "4.96.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nCanary Mail\n\nPro features unlocked\n\n⚠️ some features may only work with trollstore/jailbreak\n\nTweak made by Ravand\n\nMinimum OS version 13.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/25f12801-7d9e-41ab-a738-1d4d2a9f9411/Canary_Mail_Pro_4.96.0.ipa",
+     "size": 85120176
+    }
+   ]
+  }
+ ]
+}

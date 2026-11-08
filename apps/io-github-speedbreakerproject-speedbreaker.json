@@ -1,0 +1,40 @@
+{
+ "name": "SpeedBreaker",
+ "identifier": "dev.perapp.io-github-speedbreakerproject-speedbreaker",
+ "subtitle": "An unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005)",
+ "description": "Single-app source for SpeedBreaker (io.github.speedbreakerproject.SpeedBreaker). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#a26327",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.speedbreakerproject.SpeedBreaker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.speedbreakerproject.SpeedBreaker",
+   "name": "SpeedBreaker",
+   "developerName": "SpeedBreakerProject",
+   "subtitle": "An unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005)",
+   "localizedDescription": "· Quick start ·.\n\n· Report a bug.\n\nSpeedBreaker is an unofficial fan project by project(u). It is not affiliated with, endorsed by or sponsored by Electronic Arts Inc., the Need for Speed brand or Valve Corporation.\n\nNo game files are included or distributed. To play, you need your own legally obtained backup (a disc image) of your own Xbox 360 disc of Need for Speed: Most Wanted (2005). The in-app installer verifies it and installs it. Please don't ask for, or share, game files or disc images. See the full legal notice.\n\nLegal notice.\n\nWhat is SpeedBreaker?:\n\nSpeedBreaker is an unofficial static recompilation of the Xbox 360 version of Need for Speed: Most Wanted (2005): a native port, not an emulator. It runs as an ordinary app on your device (see how it works).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.speedbreakerproject.SpeedBreaker.png",
+   "tintColor": "#a26327",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/SpeedBreakerProject/speedbreaker@main/assets/screenshots/speedbreaker-03-4x3-cinematic-flame-livery-closeup.jpg",
+    "https://cdn.jsdelivr.net/gh/SpeedBreakerProject/speedbreaker@main/assets/screenshots/speedbreaker-04-4k-cinematic-pursuit-crash.jpg",
+    "https://cdn.jsdelivr.net/gh/SpeedBreakerProject/speedbreaker@main/assets/screenshots/speedbreaker-10-4k-settings-internal-resolution.png",
+    "https://cdn.jsdelivr.net/gh/SpeedBreakerProject/speedbreaker@main/assets/screenshots/speedbreaker-11-installer-disc-image-found.png",
+    "https://cdn.jsdelivr.net/gh/SpeedBreakerProject/speedbreaker@main/assets/screenshots/speedbreaker-12-installer-every-file-verified.png"
+   ],
+   "versions": [
+    {
+     "version": "0.2.4",
+     "date": "2026-11-07T22:53:33Z",
+     "localizedDescription": "What's new:\n\n• Cops in Quick Race (Quick Race > Custom Race, in the race options; #82): a new Cops row, Off by default, puts the police in Circuit, Sprint, Lap Knockout and Speedtrap races. It's offered in single player only (not in Drag races or split screen).\n• The German (PAL) disc, in builds from source (#88). A build with its code (README, Building from source, step 2) plays it like the Spanish one: its own code, German movies and police radio, and German as the Language row's default. It installs beside a USA or Spanish install, with itsrefuses the German disc up front, saying it needs a build with its code. Cops in Quick Race works on the German disc too: JokerGermany checked its addresses and played it on a real German disc.\n\nHow to update:\n\n• Mac: drag the new SpeedBreaker into Applications and choose Replace, then allow it once more with Open Anyway (System Settings > Privacy & Security).\n\n• Everywhere: your saves, settings and the installed game are kept, and no disc image is needed.\n\nMore about it:\n\n• NFSMW_SHADOW_RESOLUTION=auto/1x/1.5x/2x overrides the setting; NFSMW_UPDATE_CHECK=0 turns off the check at startup; NFSMW_QUICK_RACE_COPS=0 removes the Cops row.\n\nThe full list of changes is in CHANGELOG.md.\n\nWhich file is for my device?:\n\nThe two SteamOS files are not interchangeable: the arm64 one is for the Steam Frame only, and the x86-64 one doesn't run on the Frame. Each download has a .sha256 file next to it (see Checksums below).\n\nAll downloads are built from this release's source, commit fe04285. The first line of the game's log, and Settings > Advanced, say SpeedBreaker v0.2.4 (fe04285).\n\nThe Source code archives that GitHub adds hold SpeedBreaker's own source, with no game code or data. Building from them needs your own disc; see Building from source.\n\niPhone and iPad: the experimental IPA:\n\nSpeedBreaker-0.2.4-ios.ipa is signed by nobody: a sideloading tool such as AltStore signs it with your own Apple Account and installs it. The IPA itself hasn't been installed on a device yet: the iPhones and iPad it was tested on ran the same app built and signed with Xcode. Please report how it goes, working or not, with your device and tool.\n\n• The game asks iOS for more memory than most apps (two entitlements: Extended Virtual Addressing and Increased Memory Limit). A free Apple Account can give at most the second, and only with some tools: AltStore Classic 2.2 or later is expected to keep it; SideStore 0.7 drops both. Without them the game may not start, or iOS may close it in busy scenes. When iOS refuses the memory, the game says so on screen instead of closing.\n• A free Apple Account's apps stop opening after 7 days until the tool refreshes them, and at most 3 sideloaded apps can be active at once. These are Apple's limits.\n• iOS or iPadOS 17 or later, on an A15-class chip or newer, with a controller or keyboard.\n• Coming from a build you made yourself, the IPA installs as a separate app: install the game again from your disc image. Saves made in the old app stay with it.\n• Sideloading the IPA has the steps and which tools keep what. Building it yourself with Xcode still works as before.\n\nEach download attached here was tested before release. It was unpacked or opened as the setup steps say, with a fresh home folder, and the game was installed through the installer from a disc image:\n\n• x86-64: on a Steam Machine: races at 60 fps at 3440x1440 with 2x shadows, and in two-player split screen. Smooth Motion on a simulated 120 Hz display showed 120 pictures a second, and 90 on a 90 Hz one. Shadow Resolution Auto chose 1x at 1280x720 and on a simulated Steam Deck, and 2x at 3440x1440.\n• arm64: on a Steam Frame, outside the headset: the installer, races at 60 fps at 1280x720 with 1x shadows, Spanish menus, two-player split screen, Quit Game and SIGTERM worked.\n• Mac: on a MacBook Pro (M1 Pro), the installer and a race worked, and the PAL Spanish disc installed and raced in Spanish. Shadow Resolution Auto chose 2x at 4K",
+     "downloadURL": "https://github.com/SpeedBreakerProject/speedbreaker/releases/download/v0.2.4/SpeedBreaker-0.2.4-ios.ipa",
+     "size": 27455538
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

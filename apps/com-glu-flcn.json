@@ -1,0 +1,30 @@
+{
+ "name": "D-Day",
+ "identifier": "dev.perapp.com-glu-flcn",
+ "subtitle": "ipaomtk.com | D-Day IPA also known as the Normandy Landings, was a pivotal moment in World War II that changed the cours",
+ "description": "Single-app source for D-Day (com.glu.flcn). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/D-Day-ios-ipa-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.glu.flcn",
+   "name": "D-Day",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | D-Day IPA also known as the Normandy Landings, was a pivotal moment in World War II that changed the course of history. On June 6, 1944,",
+   "localizedDescription": "ipaomtk.com | D-Day IPA also known as the Normandy Landings, was a pivotal moment in World War II that changed the course of history. On June 6, 1944,",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/D-Day-ios-ipa-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.6",
+     "date": "2024-08-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | D-Day IPA also known as the Normandy Landings, was a pivotal moment in World War II that changed the course of history. On June 6, 1944,",
+     "downloadURL": "https://file.ipaomtk.com/ipa/D-Day.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Myfxbook",
+ "identifier": "dev.perapp.com-forex-myfxbook",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Myfxbook (com.forex.Myfxbook). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.forex.Myfxbook.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.forex.Myfxbook",
+   "name": "Myfxbook",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.forex.Myfxbook.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.41",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-12-2025/Myfxbook_2.41_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 12264896
+    },
+    {
+     "version": "2.39",
+     "date": "2024-10-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | In the fast-moving world of Forex trading, staying updated with the latest financial events, economic calendars, and market news is esse",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Forex-Calendar-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

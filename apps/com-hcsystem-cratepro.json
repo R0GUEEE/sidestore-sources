@@ -1,0 +1,30 @@
+{
+ "name": "cRate Pro",
+ "identifier": "dev.perapp.com-hcsystem-cratepro",
+ "subtitle": "ipaomtk.com | CRate Pro IPA v4.6 is a powerful application designed for iOS users, catering specifically to those who se",
+ "description": "Single-app source for cRate Pro (com.hcsystem.cratepro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/cRate-Pro-8211-Currency-Converter-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hcsystem.cratepro",
+   "name": "cRate Pro",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | CRate Pro IPA v4.6 is a powerful application designed for iOS users, catering specifically to those who seek to streamline their creativ",
+   "localizedDescription": "ipaomtk.com | CRate Pro IPA v4.6 is a powerful application designed for iOS users, catering specifically to those who seek to streamline their creativ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/cRate-Pro-8211-Currency-Converter-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5",
+     "date": "2024-12-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | CRate Pro IPA v4.6 is a powerful application designed for iOS users, catering specifically to those who seek to streamline their creativ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/cRate_Pro_Currency-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "ProFit",
+ "identifier": "dev.perapp.com-maxty-gofitness",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for ProFit (com.maxty.gofitness). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.maxty.gofitness",
+   "name": "ProFit",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxty.gofitness.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.5.0",
+     "date": "2026-09-08T00:00:00Z",
+     "localizedDescription": "@blatants | ProFit: Workout Planner  • Bundle ID: com.maxty.gofitness • Updated to: 8.5.0 • Minimum iOS: 14.0 • Patched • Modifier: Subscription Unloc",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12047-ProFit_Workout_Planner_v8_5_0_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 48512882
+    },
+    {
+     "version": "8.4.7",
+     "date": "2026-07-22T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2026/ProFit_8.4.7_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 46825815
+    },
+    {
+     "version": "7.13.16",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-12-2025/ProFit_7.13.16_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 52292900
+    }
+   ]
+  }
+ ]
+}

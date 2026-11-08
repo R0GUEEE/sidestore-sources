@@ -1,0 +1,30 @@
+{
+ "name": "تقويم هلال",
+ "identifier": "dev.perapp.com-enseeyab-hijricalendar",
+ "subtitle": "ipaomtk.com | Islamic Calendar (Hijri) is an app for conversion from Gregory date to Hijri. A very useful app for our Is",
+ "description": "Single-app source for تقويم هلال (com.enseeyab.HijriCalendar). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/download-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.enseeyab.HijriCalendar",
+   "name": "تقويم هلال",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Islamic Calendar (Hijri) is an app for conversion from Gregory date to Hijri. A very useful app for our Islamic and Muslim community to ",
+   "localizedDescription": "ipaomtk.com | Islamic Calendar (Hijri) is an app for conversion from Gregory date to Hijri. A very useful app for our Islamic and Muslim community to ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/download-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.5",
+     "date": "2023-06-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Islamic Calendar (Hijri) is an app for conversion from Gregory date to Hijri. A very useful app for our Islamic and Muslim community to ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Hilal-Calendar.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

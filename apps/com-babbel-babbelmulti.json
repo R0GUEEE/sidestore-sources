@@ -1,0 +1,30 @@
+{
+ "name": "Babbel",
+ "identifier": "dev.perapp.com-babbel-babbelmulti",
+ "subtitle": "ipaomtk.com | If you’re ‍looking to learn⁣ a new language on the go, the Babbel IPA ⁣for iOS might be just what you need",
+ "description": "Single-app source for Babbel (com.babbel.babbelMulti). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Babbel-8211-Language-Learning-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.babbel.babbelMulti",
+   "name": "Babbel",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | If you’re ‍looking to learn⁣ a new language on the go, the Babbel IPA ⁣for iOS might be just what you need.This ‌interactive language le",
+   "localizedDescription": "ipaomtk.com | If you’re ‍looking to learn⁣ a new language on the go, the Babbel IPA ⁣for iOS might be just what you need.This ‌interactive language le",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Babbel-8211-Language-Learning-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.62.2",
+     "date": "2025-03-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | If you’re ‍looking to learn⁣ a new language on the go, the Babbel IPA ⁣for iOS might be just what you need.This ‌interactive language le",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Babbel_Satella_Melon_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

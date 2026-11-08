@@ -1,0 +1,44 @@
+{
+ "name": "Melodia",
+ "identifier": "dev.perapp.co-appnation-aimusic",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Melodia (co.appnation.aimusic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.aimusic.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.appnation.aimusic",
+   "name": "Melodia",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.aimusic.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/26-08-2025/Melodia_3.1.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 76059216
+    },
+    {
+     "version": "3.1.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-09-2025/Melodia_3.1.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 75727079
+    },
+    {
+     "version": "3.0.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-08-2025/Melodia_3.0.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 75593078
+    }
+   ]
+  }
+ ]
+}

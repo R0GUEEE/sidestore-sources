@@ -1,0 +1,30 @@
+{
+ "name": "iSTB",
+ "identifier": "dev.perapp.com-unknown-istb",
+ "subtitle": "ئەپڵیکەیشنی پلەیەری بەشداریکردنی IPTV ✅  لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دابەزێنە ✅",
+ "description": "Single-app source for iSTB (com.unknown.istb). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/iSTB.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.istb",
+   "name": "iSTB",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپڵیکەیشنی پلەیەری بەشداریکردنی IPTV ✅  لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دابەزێنە ✅",
+   "localizedDescription": "ئەپڵیکەیشنی پلەیەری بەشداریکردنی IPTV ✅  لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دابەزێنە ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/iSTB.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.27.6",
+     "date": "2025-01-11T00:00:00Z",
+     "localizedDescription": "ئەپڵیکەیشنی پلەیەری بەشداریکردنی IPTV ✅  لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دابەزێنە ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/karbin-ipa-six/iSTB_1.27.6_3BodSy.ipa",
+     "size": 38440000
+    }
+   ]
+  }
+ ]
+}

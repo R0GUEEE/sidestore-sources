@@ -1,0 +1,30 @@
+{
+ "name": "Anonymizer",
+ "identifier": "dev.perapp.com-unknown-anonymizer",
+ "subtitle": "بۆ دەسکاریکردنی وێنە و زیادکردنی فلتەر ✅   بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+ "description": "Single-app source for Anonymizer (com.unknown.anonymizer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Anonymizer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.anonymizer",
+   "name": "Anonymizer",
+   "developerName": "Karbin-Store",
+   "subtitle": "بۆ دەسکاریکردنی وێنە و زیادکردنی فلتەر ✅   بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+   "localizedDescription": "بۆ دەسکاریکردنی وێنە و زیادکردنی فلتەر ✅   بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Anonymizer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.194",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "بۆ دەسکاریکردنی وێنە و زیادکردنی فلتەر ✅   بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Anonymizer._1.0.194.ipa",
+     "size": 26120000
+    }
+   ]
+  }
+ ]
+}

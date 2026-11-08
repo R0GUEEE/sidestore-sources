@@ -1,0 +1,30 @@
+{
+ "name": "Evoday",
+ "identifier": "dev.perapp.com-kevinquisquater-habits",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Evoday (com.kevinquisquater.Habits). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kevinquisquater.Habits",
+   "name": "Evoday",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kevinquisquater.Habits.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.19",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Evoday_2025.19_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 25352630
+    }
+   ]
+  }
+ ]
+}

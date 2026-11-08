@@ -1,0 +1,44 @@
+{
+ "name": "TrollSpeed",
+ "identifier": "dev.perapp.ch-xxtou-hudapp",
+ "subtitle": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: o",
+ "description": "Single-app source for TrollSpeed (ch.xxtou.hudapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ch.xxtou.hudapp",
+   "name": "TrollSpeed",
+   "developerName": "Lessica",
+   "subtitle": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer",
+   "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.xxtou.hudapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.12.1.ipa",
+     "size": 162585
+    },
+    {
+     "version": "1.11.2",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollSpeed/TrollSpeed-1.11.2.ipa",
+     "size": 159827
+    },
+    {
+     "version": "1.12.1.",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Displays upload and download speeds beneath the status bar. Work on all iOS versions compatible with TrollStore. Note: on iOS 16 and above, \"Developer",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TrollSpeed-1.12.1.tipa",
+     "size": 162585
+    }
+   ]
+  }
+ ]
+}

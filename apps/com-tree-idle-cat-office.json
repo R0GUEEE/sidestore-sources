@@ -1,0 +1,37 @@
+{
+ "name": "Office Cat",
+ "identifier": "dev.perapp.com-tree-idle-cat-office",
+ "subtitle": "ipaomtk.com | Office Cat Idle Tycoon Game IPA This unique and captivating game puts you in the shoes of a savvy office c",
+ "description": "Single-app source for Office Cat (com.tree.idle.cat.office). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Office-Cat-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tree.idle.cat.office",
+   "name": "Office Cat",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Office Cat Idle Tycoon Game IPA This unique and captivating game puts you in the shoes of a savvy office cat, tasked with building and m",
+   "localizedDescription": "ipaomtk.com | Office Cat Idle Tycoon Game IPA This unique and captivating game puts you in the shoes of a savvy office cat, tasked with building and m",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Office-Cat-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.73",
+     "date": "2024-09-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Office Cat Idle Tycoon Game IPA This unique and captivating game puts you in the shoes of a savvy office cat, tasked with building and m",
+     "downloadURL": "https://file.ipaomtk.com/office-cat-idle-tycoon-game/Office-Cat-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.82",
+     "date": "2024-09-17T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Office Cat Idle Tycoon Game IPA This unique and captivating game puts you in the shoes of a savvy office cat, tasked with building and m",
+     "downloadURL": "https://file.ipaomtk.com/office-cat-idle-tycoon-game/Office-Cat-IPAOMTK.COM.ipa",
+     "size": 406087466
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "KitchenStories",
+ "identifier": "dev.perapp.com-ajnsnewmedia-kitchenstories",
+ "subtitle": "KitchenStories",
+ "description": "Single-app source for KitchenStories (com.AJNSNewMedia.KitchenStories). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
+   "name": "KitchenStories",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "27.2.11",
+     "date": "2026-08-01T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2182",
+     "size": 78827469
+    },
+    {
+     "version": "26.0.5",
+     "date": "2025-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 61929406
+    },
+    {
+     "version": "23.0.1",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "App to discover thousands of free recipes and master cooking skills with expert videos. Save your favorites, adjust ingredients easily, and cook distraction-free. Connect with a global community of food enthusiasts.\nLast updated: 08-15-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KitchenStoriesPlus/KitchenStoriesPlus-23.0.1.ipa",
+     "size": 52514929
+    }
+   ]
+  }
+ ]
+}

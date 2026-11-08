@@ -1,0 +1,30 @@
+{
+ "name": "DUAL",
+ "identifier": "dev.perapp.com-seabaa-dual",
+ "subtitle": "ipaomtk.com | DUAL IPA is an innovative and revolutionary new platform that is transforming the way people interact and ",
+ "description": "Single-app source for DUAL (com.seabaa.dual). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/dual-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.seabaa.dual",
+   "name": "DUAL",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | DUAL IPA is an innovative and revolutionary new platform that is transforming the way people interact and transact with each other. DUAL",
+   "localizedDescription": "ipaomtk.com | DUAL IPA is an innovative and revolutionary new platform that is transforming the way people interact and transact with each other. DUAL",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/dual-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.04",
+     "date": "2023-03-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | DUAL IPA is an innovative and revolutionary new platform that is transforming the way people interact and transact with each other. DUAL",
+     "downloadURL": "https://file.ipaomtk.com/ipa/DUAL.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

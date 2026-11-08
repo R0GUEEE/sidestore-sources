@@ -1,0 +1,30 @@
+{
+ "name": "FBGet",
+ "identifier": "dev.perapp.com-mclk-fb-marker",
+ "subtitle": "ipaomtk.com | FGet – Video Saver on iOS FGet – Video Saver on iOS is designed for users who want more control over their",
+ "description": "Single-app source for FBGet (com.mclk.fb-marker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/FGet-8211-Video-Saver-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mclk.fb-marker",
+   "name": "FBGet",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FGet – Video Saver on iOS FGet – Video Saver on iOS is designed for users who want more control over their video content directly on the",
+   "localizedDescription": "ipaomtk.com | FGet – Video Saver on iOS FGet – Video Saver on iOS is designed for users who want more control over their video content directly on the",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/FGet-8211-Video-Saver-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2026-01-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FGet – Video Saver on iOS FGet – Video Saver on iOS is designed for users who want more control over their video content directly on the",
+     "downloadURL": "https://file.ipaomtk.com/fget-video-saver/FBGet-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

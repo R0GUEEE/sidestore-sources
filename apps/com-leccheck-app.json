@@ -1,0 +1,39 @@
+{
+ "name": "LecCheck",
+ "identifier": "dev.perapp.com-leccheck-app",
+ "subtitle": "Track the lectures, practices and labs you attend — fast, offline-first, live-synced. Flutter + Cloudflare. Android, iPh",
+ "description": "Single-app source for LecCheck (com.leccheck.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#5367d1",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.leccheck.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leccheck.app",
+   "name": "LecCheck",
+   "developerName": "Emanuel4100",
+   "subtitle": "Track the lectures, practices and labs you attend — fast, offline-first, live-synced. Flutter + Cloudflare. Android, iPhone, Linux",
+   "localizedDescription": "LecCheck:\n\nMark every lecture, practice and lab you attend, and see your semester at a glance. Fast, offline-first, and synced live between your phone and computer — for free.\n\nAndroid · iPhone · Linux · (Windows coming).\n\nLecCheck 2 is a from-scratch rebuild of LecCheck v1. v1 saved the whole app as one JSON blob and rebuilt every screen on each tap; v2 keeps a local SQLite database on every device, redraws only what changed, and syncs individual fields in the background — so it is instant, works offline, and never loses edits.\n\nFeatures:\n\n• Today — what's on now or next with a live countdown, one-tap Attended / Missed / Watched, and a \"needs marking\" queue (swipe right = attended, left = missed, with undo).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.leccheck.app.png",
+   "tintColor": "#5367d1",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Emanuel4100/LecCheck2@main/app/test_screenshots/goldens/en_light_today.png",
+    "https://cdn.jsdelivr.net/gh/Emanuel4100/LecCheck2@main/app/test_screenshots/goldens/en_light_week.png",
+    "https://cdn.jsdelivr.net/gh/Emanuel4100/LecCheck2@main/app/test_screenshots/goldens/en_light_stats.png",
+    "https://cdn.jsdelivr.net/gh/Emanuel4100/LecCheck2@main/app/test_screenshots/goldens/he_dark_today.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0.0",
+     "date": "2026-10-31T16:38:40Z",
+     "localizedDescription": "Beta. Not yet verified on every device: reminders and their buttons, the Android widget and the iPhone build. Please report problems in Issues.\n\nWhat's new:\n\n• A calmer way to mark a session. One Attended button with a menu for the other statuses replaces the green and red buttons; the color only shows once it's marked.\n• Today is less crowded: the session in the big card isn't listed again in the schedule.\n• Stats starts with your courses: overall attendance, then each course with its requirements under it. On phones the charts fold under More details.\n• Settings on phones is a short list of categories, each on its own page.\n• Days off stand out on Week: the whole day is tinted with its name at the top, and a new icon replaces the umbrella. The date stays visible.\n• A saved recording is one tap away: \"Recording link\" opens it, and Edit changes it.\n• Reception hours: turn them on in Settings → Courses, add them to a course like a meeting, and they show on Week as an outline. They never count toward attendance.\n\n• Clearer Hebrew: statuses read as nouns, like נוכחות and היעדרות, and other awkward wording is fixed.\n\nDownloads:\n\n• Android: LecCheck-2.0.0-beta.17-android-arm64.apk for most phones, or the universal LecCheck-2.0.0-beta.17-android.apk.\n• iPhone: in AltStore or SideStore, add this source: https://raw.githubusercontent.com/Emanuel4100/LecCheck2/altstore/altstore-source.json\n• Linux: install the Flatpak, then it updates itself: flatpak install --user https://emanuel4100.github.io/LecCheck2/leccheck.flatpakref (or open leccheck.flatpakref in your software center). Installed with install.sh before? 2.0.0-beta.15 offers Move to the Flatpak; from an older one, install the Flatpak as above and sign in or import a backup.",
+     "downloadURL": "https://github.com/Emanuel4100/LecCheck2/releases/download/v2.0.0-beta.17/LecCheck-2.0.0-beta.17-ios.ipa",
+     "size": 11479753
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

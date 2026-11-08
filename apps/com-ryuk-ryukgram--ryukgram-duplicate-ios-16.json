@@ -1,0 +1,30 @@
+{
+ "name": "RyukGram (Duplicate, iOS 16)",
+ "identifier": "dev.perapp.com-ryuk-ryukgram",
+ "subtitle": "Tweaks: FLEXing",
+ "description": "Single-app source for RyukGram (Duplicate, iOS 16) (com.ryuk.ryukgram). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/e5/f2/30e5f206-5a5b-c586-5d94-619f69c53448/Placeholder.mill/400x400bb-75.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ryuk.ryukgram",
+   "name": "RyukGram (Duplicate, iOS 16)",
+   "developerName": "Ryuk",
+   "subtitle": "Tweaks: FLEXing",
+   "localizedDescription": "Tweaks: FLEXing\n\nRyukGram installed side by side with the real Instagram — a separate app with its own name, icon and login, so both stay signed in at once. The no-plugins RyukGram build under a distinct bundle id. This build is backported to run on iOS 16.0 and up.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/e5/f2/30e5f206-5a5b-c586-5d94-619f69c53448/Placeholder.mill/400x400bb-75.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "453.0.0",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "Tweaks: FLEXing\n\nRyukGram installed side by side with the real Instagram — a separate app with its own name, icon and login, so both stay signed in at once. The…",
+     "downloadURL": "https://source.ryuksign.com/ipas/aa11cb3cbaa2017b72ba.ipa",
+     "size": 288080092
+    }
+   ]
+  }
+ ]
+}

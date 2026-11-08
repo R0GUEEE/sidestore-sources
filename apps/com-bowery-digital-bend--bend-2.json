@@ -1,0 +1,44 @@
+{
+ "name": "Bend",
+ "identifier": "dev.perapp.com-bowery-digital-bend",
+ "subtitle": "Bend",
+ "description": "Single-app source for Bend (com.bowery-digital.bend). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.bend.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bowery-digital.bend",
+   "name": "Bend",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bowery-digital.bend.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.6.5",
+     "date": "2026-08-02T00:00:00Z",
+     "localizedDescription": "Bend is the simple, affordable way to make stretching & movement a part of your daily routine. With over 15 million users, our quick & convenient routines help improve your flexibility and maintain your natural range of motion as you get older. We offer hundreds of exercises and easy-to-follow routines designed for all ages and experience levels. It's never too early to start stretching everyday!\r\n\r\n“It’s like having a personal stretching coach in my pocket.” — The New York Times\r\n\r\n“I could never stick to my stretching routine. Then I found this app.” — Wirecutter\r\n\r\nSTRETCHING IS IMPORTANT\r\n\r\nA simple, daily stretching routine can have a huge impact on your quality of life. Every time you stretch, you invest in your long-term hea",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2233",
+     "size": 199698109
+    },
+    {
+     "version": "7.5.2",
+     "date": "2026-05-20T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/Bend_7.5.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 127033829
+    },
+    {
+     "version": "7.5.0",
+     "date": "2026-04-28T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Bend_7.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 127060550
+    }
+   ]
+  }
+ ]
+}

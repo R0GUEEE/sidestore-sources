@@ -1,0 +1,30 @@
+{
+ "name": "MkIIIPublic",
+ "identifier": "dev.perapp.camera-lux-halide-mkii",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for MkIIIPublic (camera.lux.halide.mkii). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/camera.lux.halide.mkii.png",
+ "apps": [
+  {
+   "bundleIdentifier": "camera.lux.halide.mkii",
+   "name": "MkIIIPublic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/camera.lux.halide.mkii.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.0",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-10-2025/MkIIIPublic_2.5.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 23128852
+    }
+   ]
+  }
+ ]
+}

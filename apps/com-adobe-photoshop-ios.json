@@ -1,0 +1,30 @@
+{
+ "name": "Photoshop",
+ "identifier": "dev.perapp.com-adobe-photoshop-ios",
+ "subtitle": "Photoshop",
+ "description": "Single-app source for Photoshop (com.adobe.photoshop.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.photoshop.ios",
+   "name": "Photoshop",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.photoshop.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.8.2",
+     "date": "2026-08-26T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Photoshop_7.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 285537992
+    }
+   ]
+  }
+ ]
+}

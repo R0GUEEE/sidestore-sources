@@ -1,0 +1,30 @@
+{
+ "name": "The Ensign",
+ "identifier": "dev.perapp.com-scratchworkdevelopment-theensign",
+ "subtitle": "ipaomtk.com | The Ensign IPA v19.7 is a versatile tool designed to enhance the user experience for individuals intereste",
+ "description": "Single-app source for The Ensign (com.scratchworkdevelopment.theensign). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/The-Ensign-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scratchworkdevelopment.theensign",
+   "name": "The Ensign",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Ensign IPA v19.7 is a versatile tool designed to enhance the user experience for individuals interested in accessing content from Th",
+   "localizedDescription": "ipaomtk.com | The Ensign IPA v19.7 is a versatile tool designed to enhance the user experience for individuals interested in accessing content from Th",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/The-Ensign-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "19.7",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Ensign IPA v19.7 is a versatile tool designed to enhance the user experience for individuals interested in accessing content from Th",
+     "downloadURL": "https://file.ipaomtk.com/ipa/The_Ensign-v19.6-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

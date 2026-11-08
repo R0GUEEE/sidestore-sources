@@ -1,0 +1,36 @@
+{
+ "name": "DKR-R",
+ "identifier": "dev.perapp.io-github-thatguymcd-dkrr-ios",
+ "subtitle": "Diddy Kong Racing - Recompiled (By ThatGuyMcd)",
+ "description": "Single-app source for DKR-R (io.github.thatguymcd.dkrr.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#37a4ad",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.thatguymcd.dkrr.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.thatguymcd.dkrr.ios",
+   "name": "DKR-R",
+   "developerName": "ThatGuyMcd",
+   "subtitle": "Diddy Kong Racing - Recompiled (By ThatGuyMcd)",
+   "localizedDescription": "DKR-R v1.0.14:\n\nI've worked on the online input delay, joining and frame pacing, and brought the launcher and in-game overlay together so the same pages work in both. There are new display options, automatic seasonal themes, launcher languages, optional analogue driving and controller feedback settings. Custom cars and the road wheels on custom characters now respond to lighting properly too.\n\nPlay fades into the new Starting Game screen, with mod progress underneath the logo. Online uses the same design while everyone syncs. Linux now requests GPU acceleration for the launcher, with a software fallback when needed.\n\nYour saves, mods and settings can stay. Use the complete v1.0.14 package on every machine in an online lobby. See the full release notes and changelog for everything since v1.0.12.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.thatguymcd.dkrr.ios.png",
+   "tintColor": "#37a4ad",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/c913bee2-029c-4e29-9921-0f6abe7a3bf1"
+   ],
+   "versions": [
+    {
+     "version": "1.0.8",
+     "date": "2026-10-20T14:23:12Z",
+     "localizedDescription": "This one fixes a nasty Windows startup issue. The game could stop before it even reached the graphics, with mods on or off. Windows was being asked to commit 4 GiB of memory instead of the 512 MiB we actually use. That is fixed, the guard region is still protected, and your saves/mods do not need reset. If memory really is unavailable, the log now gives us the Windows error too. All the 1.0.7 additions below are still here.\n\nPlease update to this build if you experience a crash in 1.0.7.\n\nAgain, Thanks for all your support for the project!\n\nThatGuyMcd.",
+     "downloadURL": "https://github.com/ThatGuyMcd/DKR-R/releases/download/Version1.0.8/DKR-R-1.0.8-iOS-arm64.ipa",
+     "size": 37806569
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

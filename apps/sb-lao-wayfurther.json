@@ -1,0 +1,34 @@
+{
+ "name": "Wayfurther",
+ "identifier": "dev.perapp.sb-lao-wayfurther",
+ "subtitle": "The unofficial Niantic Wayfarer iOS app.",
+ "description": "Single-app source for Wayfurther (sb.lao.Wayfurther). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "E47252",
+ "iconURL": "https://stor-cdn.f8d.rocks/wf/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "sb.lao.Wayfurther",
+   "name": "Wayfurther",
+   "developerName": "Shibo Lyu",
+   "subtitle": "The unofficial Niantic Wayfarer iOS app.",
+   "localizedDescription": "Wayfurther is a Niantic Wayfarer mod features:\n\n- iOS System Dark Mode\n- Compact Review Page\n- Standalone Statistics Page\n- OPR Brainstorming Integration\n- Native Nominations Page\n\nTelegram Channel: https://t.me/s/wayfurtherapp\nTelegram Group: https://t.me/s/wayfurther\n\nNote: This program is not a product of Niantic, Inc., and do not have any relationship with Niantic, Inc. Learn more about this in Settings - About.",
+   "iconURL": "https://stor-cdn.f8d.rocks/wf/icon.png",
+   "tintColor": "E47252",
+   "screenshots": [
+    "https://stor-cdn.f8d.rocks/wf/screenshots/1.PNG",
+    "https://stor-cdn.f8d.rocks/wf/screenshots/2.PNG",
+    "https://stor-cdn.f8d.rocks/wf/screenshots/3.PNG"
+   ],
+   "versions": [
+    {
+     "version": "1.3",
+     "date": "2020-03-30T20:00:00+08:00",
+     "localizedDescription": "Wayfurther is a Niantic Wayfarer mod features:\n\n- iOS System Dark Mode\n- Compact Review Page\n- Standalone Statistics Page\n- OPR Brainstorming Integration\n- Native Nominations Page\n\nTelegram Channel: https://t.me/s/wayfurtherapp\nTelegram Group: https://t.me/s/wayfurther\n\nNote: This program is not a product of Niantic, Inc., and do not have any relationship with Niantic, Inc. Learn more about this in Settings - About.",
+     "downloadURL": "https://stor-cdn.f8d.rocks/wf/Wayfurther-1.3-8.ipa",
+     "size": 9334923
+    }
+   ]
+  }
+ ]
+}

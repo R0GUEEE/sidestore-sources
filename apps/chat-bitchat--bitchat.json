@@ -1,0 +1,30 @@
+{
+ "name": "bitchat",
+ "identifier": "dev.perapp.chat-bitchat",
+ "subtitle": "bitchat",
+ "description": "Single-app source for bitchat (chat.bitchat). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/656818ab-1795-4581-a50a-a07c338e14b9/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "chat.bitchat",
+   "name": "bitchat",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/656818ab-1795-4581-a50a-a07c338e14b9/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c2e3b118-7905-488c-a25d-e53971a1670f/chat.bitchat-10-eeveedecrypter.ipa",
+     "size": 493928
+    }
+   ]
+  }
+ ]
+}

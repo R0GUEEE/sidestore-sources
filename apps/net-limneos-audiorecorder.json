@@ -1,0 +1,32 @@
+{
+ "name": "AudioRecorderTS",
+ "identifier": "dev.perapp.net-limneos-audiorecorder",
+ "subtitle": "AudioRecorderTS by AudioRecorderTS x CyPwn",
+ "description": "Single-app source for AudioRecorderTS (net.limneos.AudioRecorder). Converted from cypwn-trollstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AudioRecorderTS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.limneos.AudioRecorder",
+   "name": "AudioRecorderTS",
+   "developerName": "AudioRecorderTS x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "AudioRecorder for TS Cracked by CBZ",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AudioRecorderTS.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/AudioRecorderTS/AudioRecorderTS-0.png"
+   ],
+   "versions": [
+    {
+     "version": "6.0.3",
+     "date": "2024-02-13T00:00:00Z",
+     "localizedDescription": "AudioRecorder for TS Cracked by CBZ",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/AudioRecorderTS.ipa",
+     "size": 4812963
+    }
+   ]
+  }
+ ]
+}

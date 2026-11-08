@@ -1,0 +1,44 @@
+{
+ "name": "Photoleap",
+ "identifier": "dev.perapp.com-lightricks-enlight-editor",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Photoleap (com.lightricks.Enlight-Editor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Editor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lightricks.Enlight-Editor",
+   "name": "Photoleap",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Editor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.124",
+     "date": "2026-08-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Photoleap_2.124_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 401093196
+    },
+    {
+     "version": "2.116.3",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-08-2025/Photoleap_2.116.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 398966070
+    },
+    {
+     "version": "2.116.2",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/16-08-2025/Photoleap_2.116.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 399343852
+    }
+   ]
+  }
+ ]
+}

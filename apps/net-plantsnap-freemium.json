@@ -1,0 +1,30 @@
+{
+ "name": "PlantSnap",
+ "identifier": "dev.perapp.net-plantsnap-freemium",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for PlantSnap (net.plantsnap.freemium). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.plantsnap.freemium",
+   "name": "PlantSnap",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.4.3",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2025/PlantSnap_7.4.3_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 54897650
+    }
+   ]
+  }
+ ]
+}

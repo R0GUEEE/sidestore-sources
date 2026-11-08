@@ -1,0 +1,30 @@
+{
+ "name": "BitLifeGO",
+ "identifier": "dev.perapp.com-goodgamestudios-bitlife-go-lifesimulation",
+ "subtitle": "BitLifeGO by Holloway",
+ "description": "Single-app source for BitLifeGO (com.goodgamestudios.bitlife.go.lifesimulation). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://i.imgur.com/KSSr4ML.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.goodgamestudios.bitlife.go.lifesimulation",
+   "name": "BitLifeGO",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with VIP",
+   "iconURL": "https://i.imgur.com/KSSr4ML.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.79",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with VIP",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1379",
+     "size": 155170871
+    }
+   ]
+  }
+ ]
+}

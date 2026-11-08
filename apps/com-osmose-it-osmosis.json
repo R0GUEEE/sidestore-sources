@@ -1,0 +1,30 @@
+{
+ "name": "Osmosis",
+ "identifier": "dev.perapp.com-osmose-it-osmosis",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Osmosis (com.osmose-it.osmosis). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.osmose-it.osmosis",
+   "name": "Osmosis",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.osmose-it.osmosis.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.10",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Osmosis_6.0.10_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 35433827
+    }
+   ]
+  }
+ ]
+}

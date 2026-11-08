@@ -1,0 +1,37 @@
+{
+ "name": "GentlerPremium",
+ "identifier": "dev.perapp.app-gentler-activity",
+ "subtitle": "GentlerPremium by Lãng Khách🇻🇳",
+ "description": "Single-app source for GentlerPremium (app.gentler.activity). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.gentler.activity.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.gentler.activity",
+   "name": "GentlerPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/app.gentler.activity.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.7.2",
+     "date": "2024-10-01T00:00:00Z",
+     "localizedDescription": "Another health and fitness tracker app. A user requested it so here it is\nLast updated: 07-14-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GentlerPremium/GentlerPremium-4.7.2.ipa",
+     "size": 97806350
+    },
+    {
+     "version": "4.7.4",
+     "date": "2024-10-01T00:00:00Z",
+     "localizedDescription": "Another health and fitness tracker app. A user requested it so here it is\nLast updated: 07-14-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GentlerPremium/GentlerPremium-4.7.4.ipa",
+     "size": 98045999
+    }
+   ]
+  }
+ ]
+}

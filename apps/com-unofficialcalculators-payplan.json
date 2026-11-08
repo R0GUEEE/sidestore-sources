@@ -1,0 +1,30 @@
+{
+ "name": "BillTracker",
+ "identifier": "dev.perapp.com-unofficialcalculators-payplan",
+ "subtitle": "BillTracker",
+ "description": "Single-app source for BillTracker (com.unofficialcalculators.payplan). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unofficialcalculators.payplan",
+   "name": "BillTracker",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.25",
+     "date": "2026-01-01T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/BillTracker_4.1.25_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 117352263
+    }
+   ]
+  }
+ ]
+}

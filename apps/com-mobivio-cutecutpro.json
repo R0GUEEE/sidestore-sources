@@ -1,0 +1,37 @@
+{
+ "name": "CuteCut Pro",
+ "identifier": "dev.perapp.com-mobivio-cutecutpro",
+ "subtitle": "ئەم بەرنامە لە ئەپستۆر بە پارەیە لێر بە خۆڕایی بەدەستی بێنە",
+ "description": "Single-app source for CuteCut Pro (com.mobivio.cutecutpro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/slmanxasro07/SlmanXasro/releases/download/SlmanXasro07/CuteCutPro.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobivio.cutecutpro",
+   "name": "CuteCut Pro",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەم بەرنامە لە ئەپستۆر بە پارەیە لێر بە خۆڕایی بەدەستی بێنە",
+   "localizedDescription": "ئەم بەرنامە لە ئەپستۆر بە پارەیە لێر بە خۆڕایی بەدەستی بێنە",
+   "iconURL": "https://github.com/slmanxasro07/SlmanXasro/releases/download/SlmanXasro07/CuteCutPro.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3",
+     "date": "2026-03-13T00:00:00Z",
+     "localizedDescription": "ئەم بەرنامە لە ئەپستۆر بە پارەیە لێر بە خۆڕایی بەدەستی بێنە",
+     "downloadURL": "https://github.com/slmanxasro07/SlmanXasro/releases/download/SlmanXasro07/CuteCutPro.ipa",
+     "size": 162298554
+    },
+    {
+     "version": "2.3.9",
+     "date": "2023-09-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Cute​ Cut​ Pro IPA is a revolutionary video editing application that brings professional-level features to your fingertips. Cute Cut Pro",
+     "downloadURL": "https://file.ipaomtk.com/ipa/cute-cut-pro.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

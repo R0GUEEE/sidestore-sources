@@ -1,0 +1,37 @@
+{
+ "name": "Telegram - (Teledark)",
+ "identifier": "dev.perapp.ph-telegra-telegraph",
+ "subtitle": "Telegram - (Teledark) by sidelix",
+ "description": "Single-app source for Telegram - (Teledark) (ph.telegra.Telegraph). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a370277f2375.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "ph.telegra.Telegraph",
+   "name": "Telegram - (Teledark)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Features:\r\n▎Hide Online Status\r\n▎Ghost Mode (Messages / Stories)\r\n▎Save Deleted Messages\r\n▎View Self-Destructing Photos Without Limits\r\n▎Download Self-Destructing Photos\r\n▎Voice Changer\r\n▎Download Stories\r\n▎Message Translation\r\n▎Bypass Content Restrictions — Forward content from restricted channels, chats, and groups\r\n▎Call Recording\r\nand more\r\n\r\nMod settings can be accessed via: Settings -> Teledark Settings",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a370277f2375.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.8",
+     "date": "2026-06-20T00:00:00Z",
+     "localizedDescription": "Features:\r\n▎Hide Online Status\r\n▎Ghost Mode (Messages / Stories)\r\n▎Save Deleted Messages\r\n▎View Self-Destructing Photos Without Limits\r\n▎Download Self-Destructing Photos\r\n▎Voice Changer\r\n▎Download Stories\r\n▎Message Translation\r\n▎Bypass Content Restrictions — Forward content from restricted channels, chats, and groups\r\n▎Call Recording\r\nand more\r\n\r\nMod settings can be accessed via: Settings -> Teledark Settings",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2009",
+     "size": 82251135
+    },
+    {
+     "version": "12.6.1",
+     "date": "2026-04-07T00:00:00Z",
+     "localizedDescription": "ℹ️ Features:\r\n- Deleted Messages\r\n- Ghost Mode\r\n- Device Spoofing\r\n- Geolocation Spoofing\r\n- Voice Changer\r\n- Local Premium\r\n- Customization Settings (fonts, etc.)\r\n- Miscellaneous Settings (forwarding and screenshots in private chats/groups/channels, plus other features)\r\n- Swiftgram tweak added\r\n\r\nMod settings can be accessed via: Settings -> Ghostgram Settings\r\n\r\nDeveloped by @ghostgrama",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1983",
+     "size": 73549595
+    }
+   ]
+  }
+ ]
+}

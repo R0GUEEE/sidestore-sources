@@ -1,0 +1,44 @@
+{
+ "name": "RiseSleep",
+ "identifier": "dev.perapp.com-risesci-nyx",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for RiseSleep (com.risesci.nyx). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.risesci.nyx",
+   "name": "RiseSleep",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.647",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "@blatants | RISE: Sleep Tracker  • Bundle ID: com.risesci.nyx • Updated to: 1.647.0 • Minimum iOS: 15.1 • Patched • Modifier: Subscription Unlocked • ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/RiseSleep_0.1.647_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 133420574
+    },
+    {
+     "version": "0.1.646",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@blatants | RISE: Sleep Tracker  • Bundle ID: com.risesci.nyx • Updated to: 1.646.0 • Minimum iOS: 15.1 • Patched • Modifier: Subscription Unlocked • ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/RiseSleep_0.1.646_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 133287096
+    },
+    {
+     "version": "0.1.645",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@blatants | RISE: Sleep Tracker  • Bundle ID: com.risesci.nyx • Updated to: 1.645.0 • Minimum iOS: 15.1 • Patched • Modifier: Subscription Unlocked • ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/RiseSleep_0.1.645_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 133263005
+    }
+   ]
+  }
+ ]
+}

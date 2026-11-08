@@ -1,0 +1,37 @@
+{
+ "name": "Tasty Travels",
+ "identifier": "dev.perapp.com-fatmerge-global",
+ "subtitle": "ipaomtk.com | Tasty Travels IPA is an engaging and vibrant casual game designed exclusively for iOS devices. Combining e",
+ "description": "Single-app source for Tasty Travels (com.fatmerge.global). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Tasty-Travels-Merge-Game-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fatmerge.global",
+   "name": "Tasty Travels",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tasty Travels IPA is an engaging and vibrant casual game designed exclusively for iOS devices. Combining elements of time management and",
+   "localizedDescription": "ipaomtk.com | Tasty Travels IPA is an engaging and vibrant casual game designed exclusively for iOS devices. Combining elements of time management and",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Tasty-Travels-Merge-Game-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "50.0",
+     "date": "2025-05-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tasty Travels IPA is an engaging and vibrant casual game designed exclusively for iOS devices. Combining elements of time management and",
+     "downloadURL": "https://file.ipaomtk.com/tasty-travels/Tasty-Travels-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "67.0",
+     "date": "2025-05-04T00:00:00Z",
+     "localizedDescription": "Tweaks: NetworkPrewarm, iGameGod\n\nipaomtk.com | Tasty Travels IPA is an engaging and vibrant casual game designed exclusively for iOS devices. Combining elements of time management and",
+     "downloadURL": "https://file.ipaomtk.com/tasty-travels/Tasty-Travels-IPAOMTK.COM.ipa",
+     "size": 580632152
+    }
+   ]
+  }
+ ]
+}

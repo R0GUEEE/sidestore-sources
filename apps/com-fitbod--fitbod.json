@@ -1,0 +1,44 @@
+{
+ "name": "Fitbod",
+ "identifier": "dev.perapp.com-fitbod",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Fitbod (com.fitbod). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fitbod.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fitbod",
+   "name": "Fitbod",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fitbod.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.17.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-09-2025/Fitbod_7.17.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 99003637
+    },
+    {
+     "version": "7.21.5",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-11-2025/Fitbod_7.21.5_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 120607179
+    },
+    {
+     "version": "7.24.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Fitbod_7.24.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 113749618
+    }
+   ]
+  }
+ ]
+}

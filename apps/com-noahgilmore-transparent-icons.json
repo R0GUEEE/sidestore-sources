@@ -1,0 +1,30 @@
+{
+ "name": "TransparentIcons_1.7.2",
+ "identifier": "dev.perapp.com-noahgilmore-transparent-icons",
+ "subtitle": "Transparent App Icons",
+ "description": "Single-app source for TransparentIcons_1.7.2 (com.noahgilmore.transparent-icons). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TransparentIcons_1.7.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.noahgilmore.transparent-icons",
+   "name": "TransparentIcons_1.7.2",
+   "developerName": "TransparentIcons_1.7.2 x CyPwn",
+   "subtitle": "Transparent App Icons",
+   "localizedDescription": "Transparent App Icons\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TransparentIcons_1.7.2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Transparent App Icons",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TransparentIcons_1.7.2.ipa",
+     "size": 6778571
+    }
+   ]
+  }
+ ]
+}

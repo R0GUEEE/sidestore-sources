@@ -1,0 +1,30 @@
+{
+ "name": "iSpooer Pro",
+ "identifier": "dev.perapp.com-unknown-ispooerpro",
+ "subtitle": "Pro Unlocked",
+ "description": "Single-app source for iSpooer Pro (com.unknown.ispooerpro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ittza7aa.com/aseets/icon/ispoofer.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.ispooerpro",
+   "name": "iSpooer Pro",
+   "developerName": "𝘐𝘵𝘵𝘻_𝐀7𝐚𝐚 VIP",
+   "subtitle": "Pro Unlocked",
+   "localizedDescription": "Pro Unlocked",
+   "iconURL": "https://ittza7aa.com/aseets/icon/ispoofer.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2026-08-31T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://ispoofer.co/iSpoofer.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

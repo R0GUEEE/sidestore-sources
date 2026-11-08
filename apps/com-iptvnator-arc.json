@@ -1,0 +1,36 @@
+{
+ "name": "Arc TV",
+ "identifier": "dev.perapp.com-iptvnator-arc",
+ "subtitle": "Arc TV downloads",
+ "description": "Single-app source for Arc TV (com.iptvnator.arc). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.iptvnator.arc.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iptvnator.arc",
+   "name": "Arc TV",
+   "developerName": "divyegoswami",
+   "subtitle": "Arc TV downloads",
+   "localizedDescription": "Arc TV downloads:\n\nBuilds and update feeds for Arc TV on Mac, Android and iPhone/iPad. The Mac app is the main app; Android and iPhone are in early access. The app itself lives in a private repository; this one only holds what the apps need to update themselves.\n\nArc TV is a free player for the live TV, movies and series from your own IPTV provider. It does not include any channels or playlists.\n\nArc TV 2.0:\n\nArc TV 2.0 helps you find something to watch, and makes your data safe to move between devices.\n\n• Browse by genre (Mac, iPhone, iPad and Android). Filter your matched movies and series by genre. The Mac also filters by decade, rating and language.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.iptvnator.arc.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.0",
+     "date": "2026-11-01T16:08:23Z",
+     "localizedDescription": "Arc TV 2.6.0 for iPhone and iPad:\n\n• One card per title. Movies show a title once with \"N versions\" and a version picker. Search forgives typos, so \"dhurandar\" finds Dhurandhar.\n• Fix match. A wrong poster or description can be corrected from the detail page.\n• Restore keeps your place. A Mac backup brings back all your positions and Continue Watching fills in the background.\n• Live TV. Rows show what is on now, with a guide on iPad and in iPhone landscape and a channel list inside the player.\n• Calmer with the portal. Far fewer requests at launch and restore. If the portal refuses, the app waits, says so plainly with Retry, and stays quiet in the background.\n• Fixes. Remove source and Clear history ask first and work. iPad has a search field. Home screen quick actions and a Resume shortcut.\n\nSHA-256 f6635852be62c518f97117b52ab552e360a2270ed2c97f57ca6072b0c46cd142.",
+     "downloadURL": "https://github.com/divyegoswami/arc-tv-releases/releases/download/ios-2.6.0/arc-tv-ios-2.6.0.ipa",
+     "size": 3814708
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Arc TV connects to portals on your local network and lets an AirPlay receiver (Apple TV, Mac) fetch the video from this device."
+    }
+   }
+  }
+ ]
+}

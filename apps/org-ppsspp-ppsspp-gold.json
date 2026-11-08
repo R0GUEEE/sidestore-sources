@@ -1,0 +1,30 @@
+{
+ "name": "PPSSPP Gold",
+ "identifier": "dev.perapp.org-ppsspp-ppsspp-gold",
+ "subtitle": "PPSSPP Gold",
+ "description": "Single-app source for PPSSPP Gold (org.ppsspp.ppsspp-gold). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/50/69/045069cb-c742-6a6a-94b4-6f6e80aff6d5/AppIconGold-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "org.ppsspp.ppsspp-gold",
+   "name": "PPSSPP Gold",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nPPSSPP Gold v10017.3.0\n\n🇷🇺 Эмулятор PSP\n— Платное приложение из AppStore\n© Создано: GLESign\n\n🇺🇸 PSP Emulator\n— Paid app from the AppStore\n© Created: GLESign",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/50/69/045069cb-c742-6a6a-94b4-6f6e80aff6d5/AppIconGold-0-0-1x_U007epad-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10017.3.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nPPSSPP Gold v10017.3.0\n\n🇷🇺 Эмулятор PSP\n— Платное приложение из AppStore\n© Создано: GLESign\n\n🇺🇸 PSP Emulator\n— Paid app from the AppStore\n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/de03fd9b-478e-4a93-8d88-4d2c256b663c/PPSSPP_Gold_v10017.3.0_tg_glesign_.ipa",
+     "size": 18829997
+    }
+   ]
+  }
+ ]
+}

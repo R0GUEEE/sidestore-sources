@@ -1,0 +1,30 @@
+{
+ "name": "Crsel",
+ "identifier": "dev.perapp.com-frameoneapps-crsel",
+ "subtitle": "Crsel",
+ "description": "Single-app source for Crsel (com.frameoneapps.Crsel). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.frameoneapps.Crsel",
+   "name": "Crsel",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.3",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Crsel_1.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 170420196
+    }
+   ]
+  }
+ ]
+}

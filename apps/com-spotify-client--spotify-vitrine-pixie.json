@@ -1,0 +1,30 @@
+{
+ "name": "Spotify (Vitrine+Pixie)",
+ "identifier": "dev.perapp.com-spotify-client",
+ "subtitle": "Tweaks: spotifyglass, SpotifyAudioProbe",
+ "description": "Single-app source for Spotify (Vitrine+Pixie) (com.spotify.client). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/1254.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client",
+   "name": "Spotify (Vitrine+Pixie)",
+   "developerName": "@ipavault",
+   "subtitle": "Tweaks: spotifyglass, SpotifyAudioProbe",
+   "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.1.90 (Vitrine 1.0.0-b16)\n\n▪Vitrine is a GPL-3.0 fork of Spoti.pw 0.21.1\n▪Ad blocking and Spotify Premium settings\n▪Liquid Glass\nBuilds:\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (Patched)\n▪Vitrine 1.0.0-b16 + Pixie 1.4 (No Plugins): https://t.me/ipavaultchat/13446\n⚠️ Use Spotify 9.1.90 Patched build if you use Feather and a Paid Certificate\n⚠️ Use Spotify 9.1.90 No Plugins build if you use SideStore/AltStore/Sideloadly\nSteps to access Vitrine settings:\n\n1.) Open Spotify\n2.) Tap on your Spotify profile picture on the top corner\n3.) Tap Mod Settings\n4.) Tap on Premium, ads & privacy\n5.) Toggle ON: Hide ads, Hide upsells, Spoof Premium\n6.) Restart Spotify\nSteps to Download Songs:\n\n1.) Play the song you want to download. Tap the Download button. If that doesn't work, follow steps 2-5\n2) Press and hold the Home tab bar to Open Vitrine settings\n3.) Tap on Pixie Download Manager\n4.) Tap Download current track\n5.) Once downloaded, a green downloaded icon 📥 appears next to the song\n✅ Patched\n✅ OpenInSpotify Safari Extension\nRelease Notes\n\nBuild by: @ipavault\n\nVitrine 1.0.0-b16 by MyNameIsJeff (Forked from Spoti.pw 0.21.1) by skopevoj\nPixie Download Manager 1.4 by Glongq\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/1254.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.90",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Tweaks: spotifyglass, SpotifyAudioProbe\n\n@ipavault | Builds of Spotify 9.1.90 (Vitrine 1.0.0-b16) ▪Vitrine is a GPL-3.0 fork of Spoti.pw 0.21.1 ▪Ad blocking and Spotify Premium settings…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1254-Spotify%209.1.90%20%28Vitrine+Pixie%29%20%5B@ipavault%5D.ipa",
+     "size": 130776379
+    }
+   ]
+  }
+ ]
+}

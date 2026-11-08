@@ -1,0 +1,30 @@
+{
+ "name": "Camera+",
+ "identifier": "dev.perapp.com-taptaptap-cameraplus",
+ "subtitle": "ipaomtk.com | Camera+ Legacy, IPA v10.33 developed by LateNite Apps, is a popular photography app for iOS devices that e",
+ "description": "Single-app source for Camera+ (com.taptaptap.CameraPlus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Camera-Legacy.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.taptaptap.CameraPlus",
+   "name": "Camera+",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Camera+ Legacy, IPA v10.33 developed by LateNite Apps, is a popular photography app for iOS devices that enhances the iPhone’s native ca",
+   "localizedDescription": "ipaomtk.com | Camera+ Legacy, IPA v10.33 developed by LateNite Apps, is a popular photography app for iOS devices that enhances the iPhone’s native ca",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Camera-Legacy.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.33",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Camera+ Legacy, IPA v10.33 developed by LateNite Apps, is a popular photography app for iOS devices that enhances the iPhone’s native ca",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Camera%20_Legacy-v10.33-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

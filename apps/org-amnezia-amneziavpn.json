@@ -1,0 +1,30 @@
+{
+ "name": "AmneziaVPN",
+ "identifier": "dev.perapp.org-amnezia-amneziavpn",
+ "subtitle": "AmneziaVPN",
+ "description": "Single-app source for AmneziaVPN (org.amnezia.AmneziaVPN). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/06/e1/fe06e164-2398-dbc3-40ec-9e9b6a754c01/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "org.amnezia.AmneziaVPN",
+   "name": "AmneziaVPN",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nAmneziaVPN v4.8.4\n\n🇷🇺AmneziaVPN — это открытый VPN-клиент для создания собственного сервера с простым мастером или расширенным выбором протоколов. Поддерживает различные методы подключения и протоколы, такие как WireGuard и OpenVPN.\n— Приложение из TestFlight\n— Работает на сертификате GLESign\n© Создано: GLESign\n\n🇺🇸AmneziaVPN is an open-source, self-hosted VPN client that allows server setup with a user-friendly wizard or advanced protocol selection. It supports multiple connection methods and protocols like WireGuard and OpenVPN.\n— The app from TestFlight\n— It works on the GLESign certificate\n© Created by: GLESign",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/06/e1/fe06e164-2398-dbc3-40ec-9e9b6a754c01/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.8.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nAmneziaVPN v4.8.4\n\n🇷🇺AmneziaVPN — это открытый VPN-клиент для создания собственного сервера с простым мастером или расширенным выбором протоколов. Поддерживает различные методы подключения и протоколы, такие как WireGuard и OpenVPN.\n— Приложение из TestFlight\n— Работает на сертификате GLESign\n© Создано: GLESign\n\n🇺🇸AmneziaVPN is an open-source, self-hosted VPN client that allows server setup with a user-friendly wizard or advanced protocol selection. It supports multiple connection methods and protocols like WireGuard and OpenVPN.\n— The app from TestFlight\n— It works on the GLESign certificate\n© Created by: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4fbfe224-a0fd-4ccd-bf19-cf0800685875/AmneziaVPN_v4.8.4_tg_glesign_.ipa",
+     "size": 33184823
+    }
+   ]
+  }
+ ]
+}

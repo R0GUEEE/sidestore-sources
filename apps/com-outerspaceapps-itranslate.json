@@ -1,0 +1,44 @@
+{
+ "name": "iTranslate",
+ "identifier": "dev.perapp.com-outerspaceapps-itranslate",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for iTranslate (com.outerspaceapps.itranslate). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.outerspaceapps.itranslate",
+   "name": "iTranslate",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.outerspaceapps.itranslate.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "17.4.76",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "@blatants | iTranslate Translator  • Bundle ID: com.outerspaceapps.itranslate • Updated to: 17.4.76 • Minimum iOS: 14.0 • Patched • Modifier: Subscrip",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/iTranslate_17.4.76_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 104732656
+    },
+    {
+     "version": "17.4.65",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-12-2025/iTranslate_17.4.65_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 72795577
+    },
+    {
+     "version": "17.4.59",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-11-2025/iTranslate_17.4.59_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 75621607
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "name": "gen1recomp++",
+ "identifier": "dev.perapp.com-theboisclub-gen1recompplusplus",
+ "subtitle": "A native LÖVE2D recreation of Poke Red, Blue, Yellow, Gold, Silver, Crystal, FireRed, LeafGreen, Ruby, Sapphire, and Eme",
+ "description": "Single-app source for gen1recomp++ (com.theboisclub.gen1recompplusplus). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#86742c",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.theboisclub.gen1recompplusplus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.theboisclub.gen1recompplusplus",
+   "name": "gen1recomp++",
+   "developerName": "bryanthaboi",
+   "subtitle": "A native LÖVE2D recreation of Poke Red, Blue, Yellow, Gold, Silver, Crystal, FireRed, LeafGreen, Ruby, Sapphire, and Emerald",
+   "localizedDescription": "G1R Deluxe aka Gen1Recomp:\n\nA native LÖVE2D recreation of Poke Red, Blue, Yellow, Gold, Silver, Crystal, FireRed, LeafGreen, Ruby, Sapphire, and Emerald. The engine and map behavior are hand-written Lua; game data and graphics are decoded from a ROM supplied by the player.\n\nAnd before you say, \"that's not a recomp\", you're wrong. Recomp is an acronym. Reverse Engineering Causes Obsessive Mental Problems.\n\nClick Here for the AI Use Disclosure!\n\nWhat this is:\n\nG1R Deluxe aka Gen1Recomp is a native LÖVE2D recreation of Pokemon Red, Blue, Yellow, Gold, Silver, Crystal, FireRed, LeafGreen, Ruby, Sapphire, and Emerald. The engine and map behavior are hand-written Lua, ported from the pret disassemblies & C. Game data, graphics, and audio programs are decoded on first launch from a ROM you supply.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.theboisclub.gen1recompplusplus.png",
+   "tintColor": "#86742c",
+   "screenshots": [
+    "https://img.youtube.com/vi/Q87iK8u_52o/maxresdefault.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.4.2",
+     "date": "2026-11-08T02:20:09Z",
+     "localizedDescription": "fox me silly.",
+     "downloadURL": "https://github.com/bryanthaboi/gen1recomp/releases/download/v0.4.2/gen1recomp%2B%2B-0.4.2-ios.ipa",
+     "size": 44739710
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.healthkit",
+     "com.apple.developer.healthkit.access",
+     "com.apple.developer.healthkit.background-delivery",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSHealthShareUsageDescription": "The Pokéwalker mod reads your step count to give your Pokémon party experience points for real-world walking."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Focos",
+ "identifier": "dev.perapp.com-focos",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for Focos (com.focos). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.focos",
+   "name": "Focos",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.focos.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.11.37",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2025/Focos_2.11.37_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 329685128
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Minutes",
+ "identifier": "dev.perapp.ventures-slam-minutes",
+ "subtitle": "Minutes",
+ "description": "Single-app source for Minutes (ventures.slam.minutes). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ventures.slam.minutes",
+   "name": "Minutes",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.9",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Minutes_1.12.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 31728978
+    }
+   ]
+  }
+ ]
+}

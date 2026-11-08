@@ -1,0 +1,44 @@
+{
+ "name": "Twitch",
+ "identifier": "dev.perapp.tv-twitch",
+ "subtitle": "@compiledipas | Tweach 2.4 cracked by achu TwitchControl 0.0.6 Twitch v30.6  Tweach by @dvntms, cracked by achu TwitchCo",
+ "description": "Single-app source for Twitch (tv.twitch). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1306.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.twitch",
+   "name": "Twitch",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | Tweach 2.4 cracked by achu TwitchControl 0.0.6 Twitch v30.6  Tweach by @dvntms, cracked by achu TwitchControl by @zeroxdeadbeef",
+   "localizedDescription": "@compiledipas | Tweach 2.4 cracked by achu TwitchControl 0.0.6 Twitch v30.6  Tweach by @dvntms, cracked by achu TwitchControl by @zeroxdeadbeef",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1306.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "31.4",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "Variant: Tweach+TC Glass",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/653-Twitch%2031.4%20%28Tweach+TC%29%20Glass%20%5B@ipavault%5D.ipa",
+     "size": 198667925
+    },
+    {
+     "version": "31.3.4",
+     "date": "2026-09-26T00:00:00Z",
+     "localizedDescription": "Variant: Tweach+TC",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/610-Twitch%2031.3.4%20%28Tweach+TC%29%20%5B@ipavault%5D.ipa",
+     "size": 196632357
+    },
+    {
+     "version": "31.3.2",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "Variant: Tweach+TC",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/560-Twitch%2031.3.2%20%28Tweach+TC%29%20%5B@ipavault%5D.ipa",
+     "size": 196628726
+    }
+   ]
+  }
+ ]
+}

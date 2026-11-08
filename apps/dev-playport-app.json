@@ -1,0 +1,37 @@
+{
+ "name": "Playport",
+ "identifier": "dev.perapp.dev-playport-app",
+ "subtitle": "Playport runs Windows games, 64-bit and 32-bit, on a stock, non-jailbroken iPhone: install a game from your library onto",
+ "description": "Single-app source for Playport (dev.playport.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.playport.app",
+   "name": "Playport",
+   "developerName": "playportdev",
+   "subtitle": "Playport runs Windows games, 64-bit and 32-bit, on a stock, non-jailbroken iPhone: install a game from your library onto the phone, pick up a controll",
+   "localizedDescription": "Playport runs Windows games, 64-bit and 32-bit, on a stock, non-jailbroken iPhone: install a game from your library onto the phone, pick up a controll\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Playport/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Playport runs Windows games, 64-bit and 32-bit, on a stock, non-jailbroken iPhone: install a game from your library onto the phone, pick up a controll",
+     "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.5.0/Playport-0.5.0.ipa",
+     "size": 413322913
+    },
+    {
+     "version": "0.4.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Playport runs Windows games, 64-bit and 32-bit, on a stock, non-jailbroken iPhone: install a game from your library onto the phone, pick up a controll",
+     "downloadURL": "https://github.com/playportdev/playport/releases/download/v0.4.0/Playport-0.4.0.ipa",
+     "size": 672450129
+    }
+   ]
+  }
+ ]
+}

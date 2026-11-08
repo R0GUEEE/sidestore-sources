@@ -1,0 +1,30 @@
+{
+ "name": "FitnessAI",
+ "identifier": "dev.perapp.com-jakemor-firness-ai",
+ "subtitle": "FitnessAI",
+ "description": "Single-app source for FitnessAI (com.jakemor.firness-ai). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jakemor.firness-ai",
+   "name": "FitnessAI",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.4",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/FitnessAI_25.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 108898348
+    }
+   ]
+  }
+ ]
+}

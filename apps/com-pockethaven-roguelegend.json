@@ -1,0 +1,37 @@
+{
+ "name": "Rogue Legend",
+ "identifier": "dev.perapp.com-pockethaven-roguelegend",
+ "subtitle": "ipaomtk.com | What is Rogue Legend – Roguelike RPG IPA? Rogue Legend – Roguelike RPG IPA is the iOS installation package",
+ "description": "Single-app source for Rogue Legend (com.pockethaven.roguelegend). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Rogue-Legend-8211-Roguelike-RPG-IPA-v0.400-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pockethaven.roguelegend",
+   "name": "Rogue Legend",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Rogue Legend – Roguelike RPG IPA? Rogue Legend – Roguelike RPG IPA is the iOS installation package for the Rogue Legend – Roguel",
+   "localizedDescription": "ipaomtk.com | What is Rogue Legend – Roguelike RPG IPA? Rogue Legend – Roguelike RPG IPA is the iOS installation package for the Rogue Legend – Roguel",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Rogue-Legend-8211-Roguelike-RPG-IPA-v0.400-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.400",
+     "date": "2026-03-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Rogue Legend – Roguelike RPG IPA? Rogue Legend – Roguelike RPG IPA is the iOS installation package for the Rogue Legend – Roguel",
+     "downloadURL": "https://file.ipaomtk.com/rogue-legend-roguelike-rpg/Rogue-Legend-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "0.631",
+     "date": "2026-03-07T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Rogue Legend – Roguelike RPG IPA? Rogue Legend – Roguelike RPG IPA is the iOS installation package for the Rogue Legend – Roguel",
+     "downloadURL": "https://file.ipaomtk.com/rogue-legend-roguelike-rpg/Rogue-Legend-IPAOMTK.COM.ipa",
+     "size": 707775073
+    }
+   ]
+  }
+ ]
+}

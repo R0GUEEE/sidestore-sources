@@ -1,0 +1,44 @@
+{
+ "name": "Pillow",
+ "identifier": "dev.perapp.com-neybox-pillow",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Pillow (com.neybox.Pillow). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.neybox.Pillow",
+   "name": "Pillow",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neybox.Pillow.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.7.3",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@blatants | Pillow: Sleep Tracker  • Bundle ID: com.neybox.Pillow • Updated to: 6.7.3 • Minimum iOS: 17.0 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Pillow_6.7.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 576798056
+    },
+    {
+     "version": "6.7.2",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Pillow: Sleep Tracker  Tweak: Subscription Unlocked  Version: 6.7.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8687-Pillow:%20Sleep%20Tracker-v6.7.2-riftysipas.ipa",
+     "size": 570431647
+    },
+    {
+     "version": "6.7.1",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "@blatants | Pillow: Sleep Tracker  • Bundle ID: com.neybox.Pillow • Updated to: 6.7.1 • Minimum iOS: 17.0 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Pillow_6.7.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 576804160
+    }
+   ]
+  }
+ ]
+}

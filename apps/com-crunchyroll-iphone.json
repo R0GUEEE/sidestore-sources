@@ -1,0 +1,44 @@
+{
+ "name": "Crunchyroll",
+ "identifier": "dev.perapp.com-crunchyroll-iphone",
+ "subtitle": "Crunchyroll by Neoncat-OG IPA Library",
+ "description": "Single-app source for Crunchyroll (com.crunchyroll.iphone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crunchyroll.iphone",
+   "name": "Crunchyroll",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crunchyroll.iphone.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.40.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Crunchyroll/Crunchyroll-4.40.0.ipa",
+     "size": 72594141
+    },
+    {
+     "version": "4.41.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Crunchyroll/Crunchyroll-4.41.0.ipa",
+     "size": 79174903
+    },
+    {
+     "version": "3.5.1",
+     "date": "2019-10-01T00:00:00Z",
+     "localizedDescription": "- No ads - New episodes one hour after airing in Japan - The highest watching quality possible",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Crunchyroll++.ipa",
+     "size": 11688173
+    }
+   ]
+  }
+ ]
+}

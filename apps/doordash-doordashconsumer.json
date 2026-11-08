@@ -1,0 +1,30 @@
+{
+ "name": "DoorDash",
+ "identifier": "dev.perapp.doordash-doordashconsumer",
+ "subtitle": "DoorDash app (ordering one, not Dasher), decrypted for iOS 14 users who can't get it from the App Store (thanks for the ",
+ "description": "Single-app source for DoorDash (doordash.DoorDashConsumer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/doordash.DoorDashConsumer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "doordash.DoorDashConsumer",
+   "name": "DoorDash",
+   "developerName": "N/A",
+   "subtitle": "DoorDash app (ordering one, not Dasher), decrypted for iOS 14 users who can't get it from the App Store (thanks for the loopholes we gotta put ourselv",
+   "localizedDescription": "DoorDash app (ordering one, not Dasher), decrypted for iOS 14 users who can't get it from the App Store (thanks for the loopholes we gotta put ourselv",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/doordash.DoorDashConsumer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.112.2",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "DoorDash app (ordering one, not Dasher), decrypted for iOS 14 users who can't get it from the App Store (thanks for the loopholes we gotta put ourselv",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/DoorDash-4.112.2.ipa",
+     "size": 92798761
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Familiar",
+ "identifier": "dev.perapp.com-giovlnv-tarotreader",
+ "subtitle": "your familiar knows the way",
+ "description": "Single-app source for Familiar (com.giovlnv.tarotreader). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8d733b",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.giovlnv.tarotreader.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.giovlnv.tarotreader",
+   "name": "Familiar",
+   "developerName": "giovlnv",
+   "subtitle": "your familiar knows the way",
+   "localizedDescription": "Familiar:\n\nyour familiar knows the way.\n\nA study companion on iPhone for tarot, Lenormand, astrology, numerology, systems of your own and any subject you study: books become audiobooks read on the phone, your notes, readings and flashcards live next to them, and a small witch's familiar walks the path with you.\n\nStudying means reading dense books, connecting symbols and practising. Familiar puts that into one app:\n\n• Listen and read: a book is read aloud with the text following along, or read on real pages with \"Listen from here\".\n• Think out loud: notes tied to the exact passage, highlights and bookmarks, explanations on demand.\n• Practise: log readings in the Journal (tarot, Lenormand, your own decks), or keep notes and flashcards for a study subject.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.giovlnv.tarotreader.png",
+   "tintColor": "#8d733b",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-10-21T07:46:31Z",
+     "localizedDescription": "Download Familiar.ipa on your iPhone and open it with AltStore or Sideloadly.",
+     "downloadURL": "https://github.com/giovlnv/ios_202610.familiar/releases/download/latest/Familiar.ipa",
+     "size": 21286398
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "Allow Familiar to access your Face ID biometric data.",
+     "NSMicrophoneUsageDescription": "Allow Familiar to access your microphone",
+     "NSPhotoLibraryUsageDescription": "Choose a profile picture."
+    }
+   }
+  }
+ ]
+}

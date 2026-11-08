@@ -1,0 +1,30 @@
+{
+ "name": "CloverPit-1.4.8",
+ "identifier": "dev.perapp.com-panikarcade-cloverpit",
+ "subtitle": "A rogue-lite slot machine nightmare",
+ "description": "Single-app source for CloverPit-1.4.8 (com.PanikArcade.CloverPit). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/CloverPit-1.4.8.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.PanikArcade.CloverPit",
+   "name": "CloverPit-1.4.8",
+   "developerName": "CloverPit-1.4.8 x CyPwn",
+   "subtitle": "A rogue-lite slot machine nightmare",
+   "localizedDescription": "A rogue-lite slot machine nightmare\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/CloverPit-1.4.8.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.8",
+     "date": "2026-09-17T00:00:00Z",
+     "localizedDescription": "A rogue-lite slot machine nightmare",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/CloverPit-1.4.8.ipa",
+     "size": 146330883
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "AIChatbot",
+ "identifier": "dev.perapp.com-aichatbot-assistant",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for AIChatbot (com.aichatbot.assistant). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aichatbot.assistant",
+   "name": "AIChatbot",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aichatbot.assistant.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.31",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-08-2025/AIChatbot_2.31_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 105792663
+    },
+    {
+     "version": "2.29",
+     "date": "2025-03-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AskEasy IPA ​the innovative AI chatbot assistant designed ⁤specifically for iOS users. This article delves into the ​features ⁢and funct",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AskEasy-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.25",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Al Chat AI Chatbot Assistant IPA In the ⁣fast-paced world we live ​in, having a personal assistant at your disposal can make a huge ​dif",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Al-Chat-AI-Chatbot-Assistant.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

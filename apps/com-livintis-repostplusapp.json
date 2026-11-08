@@ -1,0 +1,37 @@
+{
+ "name": "Repost+",
+ "identifier": "dev.perapp.com-livintis-repostplusapp",
+ "subtitle": "ipaomtk.com | Instagram is one of the biggest platforms for sharing photos and videos on the internet today. With it, us",
+ "description": "Single-app source for Repost+ (com.livintis.repostplusapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/256x256bb-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.livintis.repostplusapp",
+   "name": "Repost+",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Instagram is one of the biggest platforms for sharing photos and videos on the internet today. With it, users can also connect with frie",
+   "localizedDescription": "ipaomtk.com | Instagram is one of the biggest platforms for sharing photos and videos on the internet today. With it, users can also connect with frie",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/256x256bb-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "29.10",
+     "date": "2023-06-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Instagram is one of the biggest platforms for sharing photos and videos on the internet today. With it, users can also connect with frie",
+     "downloadURL": "https://file.ipaomtk.com/Repost%20instagram/Repost-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "33.20",
+     "date": "2023-06-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Instagram is one of the biggest platforms for sharing photos and videos on the internet today. With it, users can also connect with frie",
+     "downloadURL": "https://file.ipaomtk.com/Repost%20instagram/Repost-IPAOMTK.COM.ipa",
+     "size": 95252653
+    }
+   ]
+  }
+ ]
+}

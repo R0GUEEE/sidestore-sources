@@ -1,0 +1,30 @@
+{
+ "name": "LogRide",
+ "identifier": "dev.perapp.com-parksman-logride",
+ "subtitle": "LogRide - Largest theme park database",
+ "description": "Single-app source for LogRide (com.parksman.LogRide). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "68b547",
+ "iconURL": "https://cdn.omnidev.org/logride-aP.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.parksman.LogRide",
+   "name": "LogRide",
+   "developerName": "PARKWIDE LLC",
+   "subtitle": "LogRide - Largest theme park database",
+   "localizedDescription": "Discover the must-have app for theme park fans, coaster nerds, and thrill seekers! LogRide is a mobile companion for tracking your park experiences and gateway into park history, attraction stats, and loads of other amazing features.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/logride-aP.png",
+   "tintColor": "68b547",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.9.4",
+     "date": "2024-11-04T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/com_parksman_Log_Ride_6_9_4-iF.ipa",
+     "size": 24649728
+    }
+   ]
+  }
+ ]
+}

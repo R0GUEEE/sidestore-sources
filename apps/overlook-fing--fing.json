@@ -1,0 +1,44 @@
+{
+ "name": "Fing",
+ "identifier": "dev.perapp.overlook-fing",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Fing (overlook.fing). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/overlook.fing.png",
+ "apps": [
+  {
+   "bundleIdentifier": "overlook.fing",
+   "name": "Fing",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/overlook.fing.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.13.5",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@blatants | Fing - Network Scanner  • Bundle ID: overlook.fing • Updated to: 12.13.5 • Minimum iOS: 16.4 • Patched • Modifier: Subscription Unlocked •",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12893-Fing_Network_Scanner_v12_13_5_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 206036106
+    },
+    {
+     "version": "12.13.4",
+     "date": "2026-09-12T00:00:00Z",
+     "localizedDescription": "@blatants | Fing - Network Scanner  • Bundle ID: overlook.fing • Updated to: 12.13.4 • Minimum iOS: 16.4 • Patched • Modifier: Subscription Unlocked •",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12132-Fing_Network_Scanner_v12_13_4_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 180580987
+    },
+    {
+     "version": "12.13.2",
+     "date": "2026-07-24T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Fing_12.13.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 175423637
+    }
+   ]
+  }
+ ]
+}

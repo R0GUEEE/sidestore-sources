@@ -1,0 +1,30 @@
+{
+ "name": "hwamin",
+ "identifier": "dev.perapp.app-arttic-filmhwa",
+ "subtitle": "ipaomtk.com | filmhwa IPA the innovative filter app created by Instagram sensation @hwa.min! This cutting-edge applicati",
+ "description": "Single-app source for hwamin (app.arttic.filmhwa). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/filmhwa-8211-@hwa.min8217s-filter.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "app.arttic.filmhwa",
+   "name": "hwamin",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | filmhwa IPA the innovative filter app created by Instagram sensation @hwa.min! This cutting-edge application brings the charm of vintage",
+   "localizedDescription": "ipaomtk.com | filmhwa IPA the innovative filter app created by Instagram sensation @hwa.min! This cutting-edge application brings the charm of vintage",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/filmhwa-8211-@hwa.min8217s-filter.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.8",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | filmhwa IPA the innovative filter app created by Instagram sensation @hwa.min! This cutting-edge application brings the charm of vintage",
+     "downloadURL": "https://file.ipaomtk.com/ipa/filmhwa-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

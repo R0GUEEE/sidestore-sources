@@ -1,0 +1,49 @@
+{
+ "name": "Bowling by Jason Belmonte",
+ "identifier": "dev.perapp.studio-wannaplay-bowlingjb",
+ "subtitle": "A tweak extension of \"Bowling by Jason Belmonte\" that fixes various bugs and adds new features for iOS and Android",
+ "description": "Single-app source for Bowling by Jason Belmonte (studio.wannaplay.bowlingjb). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8955b6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/studio.wannaplay.bowlingjb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "studio.wannaplay.bowlingjb",
+   "name": "Bowling by Jason Belmonte",
+   "developerName": "NicholasBly",
+   "subtitle": "A tweak extension of \"Bowling by Jason Belmonte\" that fixes various bugs and adds new features for iOS and Android",
+   "localizedDescription": "BowlingPlus 🎳:\n\nA tweak for Bowling by Jason Belmonte (made for v1.907) that fixes two long-running bugs and adds a fun menu for offline Practice. Works on a normal, non-jailbroken iPhone.\n\nNothing shows up on screen until you shake your phone. Shake again (or tap outside the menu) to close it.\n\nWhat's in it:\n\nThe Practice-only stuff turns itself off in online matches, tournaments, and the tutorial, so it never messes with other players.\n\nHow to use it:\n\n• Shake to open the menu. It's grouped into cards (tap a card's title to fold it). Descriptions are hidden to keep it short: tap the ⓘ at the top to show them all, or tap a row's title to show just that one.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/studio.wannaplay.bowlingjb.png",
+   "tintColor": "#8955b6",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/1e323258-b0a2-4afc-9fe9-7e9dde209b16",
+    "https://github.com/user-attachments/assets/6030c678-131a-44b3-aad6-bba7bf9589cd",
+    "https://github.com/user-attachments/assets/ac0da663-bb8e-465f-bfb6-788e04f2470f",
+    "https://github.com/user-attachments/assets/061f5233-9d5d-4184-94ff-63d945a24d8f"
+   ],
+   "versions": [
+    {
+     "version": "1.7.5",
+     "date": "2026-10-13T00:44:43Z",
+     "localizedDescription": "Changes:\n\n• Updated pin physics - fixed a friction logic error. Recommended pin friction is now 0.40 (or 0.25 with double physics rate) and is set automatically when you turn on realistic pin physics.\n\nGamemodes: moved to button underneath custom oil button when selecting an oil pattern. Picking a mode properly restarts the game at frame 1.\n\n• Added obstacle mode: Ramps, barstools, and gates are put on the lane - you must roll over the ramps or avoid the obstacles to score! Choose any combination of the three you want to bowl with in the settings menu before starting a game.\n\n• Hit a barstool or gate and the ball bounces off into the gutter. In the 10th frame, a ramp may slide across the lane.\n• Your best game in obstacle mode is saved.\n• Replays show the obstacles exactly as they were on that shot.\n\nRecreated the Brunswick barstool.\n\nReal-life oil: turned off for base-game patterns. This would change the way those patterns were oiled, and practicing them offline versus online causes some differences in gameplay. Real-life oil now always applies to custom patterns.\n\nSidebar menu: added on-screen sidebar to the right side of the screen before throwing a shot.\n\n• Adjust how much loft you want before a throw (the ball lands that far down the lane).\n• Show/hide ball stats overlay (toggle).\n• Toggle backup ball (hook the ball in the opposite direction while throwing).\n\n• Enable the \"swipe in from the right\" option to have it auto-hide during bowling. Swipe in from the right to show it, and swipe it back (or tap ») to hide it again.\n\n• Arsenal: sort your balls by name or by stat (power, hook, length, RPM, condition), high to low or low to high.\n• Hide ball stats can also be set in the menu (Arsenal section).\n• Menu descriptions cleaned up.",
+     "downloadURL": "https://github.com/NicholasBly/BowlingPlus/releases/download/1.7.5/BowlingPlus-1.7.5.ipa",
+     "size": 137861000
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "aps-environment",
+     "com.apple.developer.applesignin",
+     "com.apple.developer.team-identifier"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "Scan a QR code to import a custom oil pattern.",
+     "NSLocationWhenInUseUsageDescription": "This app requires access to the camera.",
+     "NSPhotoLibraryUsageDescription": "Attach screenshots from Photos",
+     "NSUserTrackingUsageDescription": "Pressing 'Allow' uses device info for more relevant ad content"
+    }
+   }
+  }
+ ]
+}

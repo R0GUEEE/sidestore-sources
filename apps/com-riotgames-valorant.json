@@ -1,0 +1,31 @@
+{
+ "name": "Valorant (Outdated)",
+ "identifier": "dev.perapp.com-riotgames-valorant",
+ "subtitle": "Just Valorant.",
+ "description": "Single-app source for Valorant (Outdated) (com.riotgames.valorant). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "848ef9",
+ "iconURL": "https://cdn2.steamgriddb.com/icon/191c62d342811d1a0d3d0528ec35cd2d/32/256x256.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.riotgames.valorant",
+   "name": "Valorant (Outdated)",
+   "developerName": "Riot Games & Celestial Devs",
+   "subtitle": "Just Valorant.",
+   "localizedDescription": "Valorant for IOS",
+   "iconURL": "https://cdn2.steamgriddb.com/icon/191c62d342811d1a0d3d0528ec35cd2d/32/256x256.png",
+   "tintColor": "848ef9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "V1.0",
+     "date": "2024-08-24T18:34:10Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ilovecelesital.b-cdn.net/Valorant.ipa",
+     "size": 3630000000
+    }
+   ],
+   "appPermissions": {}
+  }
+ ]
+}

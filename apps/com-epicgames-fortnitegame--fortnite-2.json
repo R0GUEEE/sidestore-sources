@@ -1,0 +1,30 @@
+{
+ "name": "Fortnite",
+ "identifier": "dev.perapp.com-epicgames-fortnitegame",
+ "subtitle": "Fortnite",
+ "description": "Single-app source for Fortnite (com.epicgames.FortniteGame). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.epicgames.FortniteGame.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.epicgames.FortniteGame",
+   "name": "Fortnite",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.epicgames.FortniteGame.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "33.10",
+     "date": "2024-12-10T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2024/Fortnite_33.10_%40thisismanpreets_apptesters.org.ipa",
+     "size": 227762310
+    }
+   ]
+  }
+ ]
+}

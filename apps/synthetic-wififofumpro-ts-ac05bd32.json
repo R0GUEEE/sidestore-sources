@@ -1,0 +1,30 @@
+{
+ "name": "WiFiFoFumPro_TS",
+ "identifier": "dev.perapp.synthetic-wififofumpro-ts-ac05bd32",
+ "subtitle": "Wifi scanner. This Pro version includes advanced logging tools, with a live surveying map view that plots access points.",
+ "description": "Single-app source for WiFiFoFumPro_TS (synthetic.wififofumpro-ts.ac05bd32). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/WiFiFoFumPro_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.wififofumpro-ts.ac05bd32",
+   "name": "WiFiFoFumPro_TS",
+   "developerName": "WiFiFoFumPro_TS x CyPwn",
+   "subtitle": "Wifi scanner. This Pro version includes advanced logging tools, with a live surveying map view that plots access points.",
+   "localizedDescription": "Wifi scanner. This Pro version includes advanced logging tools, with a live surveying map view that plots access points.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/WiFiFoFumPro_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Wifi scanner. This Pro version includes advanced logging tools, with a live surveying map view that plots access points.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/WiFiFoFumPro_TS.ipa",
+     "size": 2055208
+    }
+   ]
+  }
+ ]
+}

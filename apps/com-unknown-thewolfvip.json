@@ -1,0 +1,30 @@
+{
+ "name": "The Wolf VIP",
+ "identifier": "dev.perapp.com-unknown-thewolfvip",
+ "subtitle": "دراوی بێسنوور -> هەندێک خەرج بکە",
+ "description": "Single-app source for The Wolf VIP (com.unknown.thewolfvip). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/The.Wolf.VIP.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.thewolfvip",
+   "name": "The Wolf VIP",
+   "developerName": "Karbin-Store",
+   "subtitle": "دراوی بێسنوور -> هەندێک خەرج بکە",
+   "localizedDescription": "دراوی بێسنوور -> هەندێک خەرج بکە",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/The.Wolf.VIP.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6.1",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "دراوی بێسنوور -> هەندێک خەرج بکە",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/The.Wolf.VIP._3.6.1_1737231324.ipa",
+     "size": 147110000
+    }
+   ]
+  }
+ ]
+}

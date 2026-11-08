@@ -1,0 +1,30 @@
+{
+ "name": "Reporter",
+ "identifier": "dev.perapp.com-agaming-reporter",
+ "subtitle": "ipaomtk.com | Reporter IPA, You’ve likely heard about the popular iOS screen recording and gameplay capturing tool calle",
+ "description": "Single-app source for Reporter (com.agaming.reporter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Reporter-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.agaming.reporter",
+   "name": "Reporter",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Reporter IPA, You’ve likely heard about the popular iOS screen recording and gameplay capturing tool called Reporter IPA. But what exact",
+   "localizedDescription": "ipaomtk.com | Reporter IPA, You’ve likely heard about the popular iOS screen recording and gameplay capturing tool called Reporter IPA. But what exact",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Reporter-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.05",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Reporter IPA, You’ve likely heard about the popular iOS screen recording and gameplay capturing tool called Reporter IPA. But what exact",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Reporter_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

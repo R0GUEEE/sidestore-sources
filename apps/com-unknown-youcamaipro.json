@@ -1,0 +1,30 @@
+{
+ "name": "YouCam AI Pro",
+ "identifier": "dev.perapp.com-unknown-youcamaipro",
+ "subtitle": "بەرنامەیەک بۆ دەستکاریکردنی وێنە بە زیرەکی دەستکرد",
+ "description": "Single-app source for YouCam AI Pro (com.unknown.youcamaipro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/YouCam.AI.Pro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.youcamaipro",
+   "name": "YouCam AI Pro",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک بۆ دەستکاریکردنی وێنە بە زیرەکی دەستکرد",
+   "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنە بە زیرەکی دەستکرد",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/YouCam.AI.Pro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.14.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنە بە زیرەکی دەستکرد",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/YouCam.AI.Pro._1.14.0_1737216154.ipa",
+     "size": 65420000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "RetroFix",
+ "identifier": "dev.perapp.com-aismartapps-retrofix",
+ "subtitle": "RetroFix",
+ "description": "Single-app source for RetroFix (com.aismartapps.retrofix). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aismartapps.retrofix.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aismartapps.retrofix",
+   "name": "RetroFix",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aismartapps.retrofix.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.34",
+     "date": "2025-11-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/RetroFix_1.0.34_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 59545764
+    }
+   ]
+  }
+ ]
+}

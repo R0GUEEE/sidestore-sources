@@ -1,0 +1,30 @@
+{
+ "name": "Mr. Traffic",
+ "identifier": "dev.perapp.com-dumplingdesign-mrtraffic",
+ "subtitle": "ipaomtk.com | Mr TRAFFIC IPA is a popular iOS app that makes it easy for users to stay up to date with the latest traffi",
+ "description": "Single-app source for Mr. Traffic (com.dumplingdesign.mrtraffic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/Mr-TRAFFIC-IPA--150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dumplingdesign.mrtraffic",
+   "name": "Mr. Traffic",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Mr TRAFFIC IPA is a popular iOS app that makes it easy for users to stay up to date with the latest traffic trends and road conditions. ",
+   "localizedDescription": "ipaomtk.com | Mr TRAFFIC IPA is a popular iOS app that makes it easy for users to stay up to date with the latest traffic trends and road conditions. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/Mr-TRAFFIC-IPA--150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.23",
+     "date": "2023-11-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Mr TRAFFIC IPA is a popular iOS app that makes it easy for users to stay up to date with the latest traffic trends and road conditions. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Mr-Traffic.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Car Match - Traffic Puzzle (hacked)",
+ "identifier": "dev.perapp.com-grandgames-carmatch",
+ "subtitle": "Car Match - Traffic Puzzle (hacked) by sidelix",
+ "description": "Single-app source for Car Match - Traffic Puzzle (hacked) (com.grandgames.carmatch). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a6612f23e068.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.grandgames.carmatch",
+   "name": "Car Match - Traffic Puzzle (hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Features:\r\n\r\n- In app purchase",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a6612f23e068.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.02",
+     "date": "2026-07-26T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- In app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2113",
+     "size": 204750011
+    }
+   ]
+  }
+ ]
+}

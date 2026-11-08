@@ -1,0 +1,30 @@
+{
+ "name": "SpeakTranslate",
+ "identifier": "dev.perapp.com-appicfun-translatorfree",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for SpeakTranslate (com.appicfun.translatorfree). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.appicfun.translatorfree",
+   "name": "SpeakTranslate",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.appicfun.translatorfree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.62",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/SpeakTranslate_6.0.62_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 40360498
+    }
+   ]
+  }
+ ]
+}

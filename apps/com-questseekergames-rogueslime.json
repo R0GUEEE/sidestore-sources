@@ -1,0 +1,30 @@
+{
+ "name": "RogueSlime",
+ "identifier": "dev.perapp.com-questseekergames-rogueslime",
+ "subtitle": "Mods",
+ "description": "Single-app source for RogueSlime (com.QuestSeekerGames.Rogueslime). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.QuestSeekerGames.Rogueslime.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.QuestSeekerGames.Rogueslime",
+   "name": "RogueSlime",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Mods",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.QuestSeekerGames.Rogueslime.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.6.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/RogueSlime_0.6.2_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 167515383
+    }
+   ]
+  }
+ ]
+}

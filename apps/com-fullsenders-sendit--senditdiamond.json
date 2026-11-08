@@ -1,0 +1,30 @@
+{
+ "name": "SenditDiamond",
+ "identifier": "dev.perapp.com-fullsenders-sendit",
+ "subtitle": "Patched",
+ "description": "Single-app source for SenditDiamond (com.fullsenders.sendit). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fullsenders.sendit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fullsenders.sendit",
+   "name": "SenditDiamond",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "Patched",
+   "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.fullsenders.sendit.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.6.2",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SenditDiamond/SenditDiamond-21.6.2.ipa",
+     "size": 54214503
+    }
+   ]
+  }
+ ]
+}

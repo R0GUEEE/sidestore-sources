@@ -1,0 +1,44 @@
+{
+ "name": "Stepz",
+ "identifier": "dev.perapp.com-visualhype-pedometer",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Stepz (com.visualhype.pedometer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.visualhype.pedometer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.visualhype.pedometer",
+   "name": "Stepz",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.visualhype.pedometer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.10.34",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-12-2025/Stepz_4.10.34_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 26322715
+    },
+    {
+     "version": "4.10.33",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-12-2025/Stepz_4.10.33_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 26320393
+    },
+    {
+     "version": "4.10.31",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Stepz_4.10.31_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 26765002
+    }
+   ]
+  }
+ ]
+}

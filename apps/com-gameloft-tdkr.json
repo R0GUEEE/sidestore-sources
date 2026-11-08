@@ -1,0 +1,30 @@
+{
+ "name": "The Dark Knight Rises",
+ "identifier": "dev.perapp.com-gameloft-tdkr",
+ "subtitle": "ipaomtk.com | Batman: The Dark Knight Rises is an action-packed game that allows users to step into the shoes of Gotham ",
+ "description": "Single-app source for The Dark Knight Rises (com.gameloft.TDKR). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/Batman-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gameloft.TDKR",
+   "name": "The Dark Knight Rises",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Batman: The Dark Knight Rises is an action-packed game that allows users to step into the shoes of Gotham City’s vigilante, Batman. With",
+   "localizedDescription": "ipaomtk.com | Batman: The Dark Knight Rises is an action-packed game that allows users to step into the shoes of Gotham City’s vigilante, Batman. With",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/Batman-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2023-08-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Batman: The Dark Knight Rises is an action-packed game that allows users to step into the shoes of Gotham City’s vigilante, Batman. With",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Batman-The-Dark-Knight-Rises.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

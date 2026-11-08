@@ -1,0 +1,39 @@
+{
+ "name": "mLabeler",
+ "identifier": "dev.perapp.pw-msan-mlabeler",
+ "subtitle": "Cross-platform editor for singing voice labels: phonemes, notes, pitch and UTAU oto. Works with DiffSinger datasets, sup",
+ "description": "Single-app source for mLabeler (pw.msan.mlabeler). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#57c52d",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/pw.msan.mlabeler.png",
+ "apps": [
+  {
+   "bundleIdentifier": "pw.msan.mlabeler",
+   "name": "mLabeler",
+   "developerName": "Megageorgio",
+   "subtitle": "Cross-platform editor for singing voice labels: phonemes, notes, pitch and UTAU oto. Works with DiffSinger datasets, supports automatic labeling. Windows, macOS, Linux, Android, iOS",
+   "localizedDescription": "mLabeler:\n\nA labeling editor for singing voice data: phoneme and word tiers, notes and pitch, UTAU oto. One codebase for Windows, macOS, Linux, Android and iOS (Kotlin, Compose Multiplatform).\n\nDownload:\n\n• Windows — a .zip that needs no installation (unpack and run mLabeler.exe), the .msi installer, or the fully portable -portable.zip: the settings, the toolkit, its Python and models all stay in the program folder and nothing is written anywhere else (a USB stick or a separate disk will do; the toolkit and models take several gigabytes);\n• macOS — .dmg;\n• Linux — .deb for Debian and Ubuntu, or a .tar.gz for any distribution (unpack and run bin/mLabeler);\n• Android — .apk;\n• iOS — unsigned .ipa (see below).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/pw.msan.mlabeler.png",
+   "tintColor": "#57c52d",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Megageorgio/mlabeler@main/docs/screenshot.png"
+   ],
+   "versions": [
+    {
+     "version": "0.1.3",
+     "date": "2026-11-03T03:41:47Z",
+     "localizedDescription": "• Web edition: browser-based editing on desktop and mobile, with built-in MCFL autolabelling, auto-oto, microphone recording and project ZIP import/export; no toolkit connection required. Normalized mouse-wheel scrolling and zoom sensitivity.\n\n• Google Play: separate build with system folder access and built-in autolabelling; toolkit connections and GitHub updates are disabled.",
+     "downloadURL": "https://github.com/Megageorgio/mlabeler/releases/download/v0.1.3/mLabeler-0.1.3-ios-unsigned.ipa",
+     "size": 23671141
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "mLabeler connects to mVocalToolkit on your local network.",
+     "NSMicrophoneUsageDescription": "mLabeler records samples for voicebanks and datasets."
+    }
+   }
+  }
+ ]
+}

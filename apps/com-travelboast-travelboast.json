@@ -1,0 +1,30 @@
+{
+ "name": "TravelBoast",
+ "identifier": "dev.perapp.com-travelboast-travelboast",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for TravelBoast (com.travelboast.travelboast). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.travelboast.travelboast.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.travelboast.travelboast",
+   "name": "TravelBoast",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.travelboast.travelboast.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.19",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/TravelBoast_2.19_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 316405659
+    }
+   ]
+  }
+ ]
+}

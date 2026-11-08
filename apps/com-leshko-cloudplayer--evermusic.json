@@ -1,0 +1,44 @@
+{
+ "name": "Evermusic",
+ "identifier": "dev.perapp.com-leshko-cloudplayer",
+ "subtitle": "@blatants | Evermusic: Cloud Music Player  • Bundle ID: com.leshko.cloudplayer • Updated to: 8.8 • Minimum iOS: 15.0 • P",
+ "description": "Single-app source for Evermusic (com.leshko.cloudplayer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11460.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leshko.cloudplayer",
+   "name": "Evermusic",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | Evermusic: Cloud Music Player  • Bundle ID: com.leshko.cloudplayer • Updated to: 8.8 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+   "localizedDescription": "@blatants | Evermusic: Cloud Music Player  • Bundle ID: com.leshko.cloudplayer • Updated to: 8.8 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11460.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@blatants | Evermusic: Cloud Music Player  • Bundle ID: com.leshko.cloudplayer • Updated to: 9.0 • Minimum iOS: 15.5 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12919-Evermusic_Cloud_Music_Player_v9_0_Subscription_Unlocked_blatant.ipa",
+     "size": 114138751
+    },
+    {
+     "version": "8.9",
+     "date": "2026-09-25T00:00:00Z",
+     "localizedDescription": "@blatants | Evermusic: Cloud Music Player  • Bundle ID: com.leshko.cloudplayer • Updated to: 8.9 • Minimum iOS: 15.5 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Evermusic_8.9_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 112592454
+    },
+    {
+     "version": "8.8",
+     "date": "2026-08-06T00:00:00Z",
+     "localizedDescription": "@blatants | Evermusic: Cloud Music Player  • Bundle ID: com.leshko.cloudplayer • Updated to: 8.8 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11460-Evermusic_Cloud_Music_Player_v8_8_Subscription_Unlocked_blatant.ipa",
+     "size": 88466009
+    }
+   ]
+  }
+ ]
+}

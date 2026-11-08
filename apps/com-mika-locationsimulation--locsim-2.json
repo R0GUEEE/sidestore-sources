@@ -1,0 +1,30 @@
+{
+ "name": "LocSim",
+ "identifier": "dev.perapp.com-mika-locationsimulation",
+ "subtitle": "Tweaks: 0LocSim",
+ "description": "Single-app source for LocSim (com.mika.LocationSimulation). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mika.LocationSimulation",
+   "name": "LocSim",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "Tweaks: 0LocSim",
+   "localizedDescription": "Tweaks: 0LocSim\n\nLocation spoofer, not affiliated with udevs' locsim.\nLast updated: 03-11-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mika.LocationSimulation.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tweaks: 0LocSim\n\nLocation spoofer, not affiliated with udevs' locsim. Last updated: 03-11-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocSim/LocSim-1.4.1k.ipa",
+     "size": 1467771
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Stellarium",
+ "identifier": "dev.perapp.com-noctuasoftware-stellarium-mobile-plus",
+ "subtitle": "Injected with Plus",
+ "description": "Single-app source for Stellarium (com.noctuasoftware.stellarium-mobile-plus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.noctuasoftware.stellarium-mobile-plus",
+   "name": "Stellarium",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Plus",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noctuasoftware.stellarium-mobile-plus.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15.3",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/12-02-2026/Stellarium_1.15.3_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 317880576
+    },
+    {
+     "version": "1.15.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Plus - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Stellarium_1.15.0_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 316879132
+    },
+    {
+     "version": "1.16.1",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-06-2026/Stellarium_1.16.1_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 345088999
+    }
+   ]
+  }
+ ]
+}

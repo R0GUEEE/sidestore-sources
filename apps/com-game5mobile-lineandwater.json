@@ -1,0 +1,44 @@
+{
+ "name": "Happy Glass",
+ "identifier": "dev.perapp.com-game5mobile-lineandwater",
+ "subtitle": "@riftysIPAlibrary | Happy Glass  Tweak: Free IAP  Version: 2.0.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+ "description": "Single-app source for Happy Glass (com.game5mobile.lineandwater). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7266.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.game5mobile.lineandwater",
+   "name": "Happy Glass",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Happy Glass  Tweak: Free IAP  Version: 2.0.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bundle",
+   "localizedDescription": "@riftysIPAlibrary | Happy Glass  Tweak: Free IAP  Version: 2.0.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bundle",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7266.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.4",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Happy Glass  Tweak: Free IAP  Version: 2.0.4  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bundle",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7802-Happy%20Glass-v2.0.4-riftysipas.ipa",
+     "size": 86874003
+    },
+    {
+     "version": "2.0.3",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Happy Glass  Tweak: Free IAP  Version: 2.0.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bundle",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7657-Happy%20Glass-v2.0.3-riftysipas.ipa",
+     "size": 76993454
+    },
+    {
+     "version": "2.0.2",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Happy Glass  Tweak: Free IAP  Version: 2.0.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bundle",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7266-Happy%20Glass-v2.0.2-riftysipas.ipa",
+     "size": 79371454
+    }
+   ]
+  }
+ ]
+}

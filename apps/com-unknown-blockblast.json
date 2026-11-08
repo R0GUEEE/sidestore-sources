@@ -1,0 +1,30 @@
+{
+ "name": "Block Blast",
+ "identifier": "dev.perapp.com-unknown-blockblast",
+ "subtitle": "بەبێ ڕیکلام بەکاریی بێنە",
+ "description": "Single-app source for Block Blast (com.unknown.blockblast). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Block.Blast.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.blockblast",
+   "name": "Block Blast",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەبێ ڕیکلام بەکاریی بێنە",
+   "localizedDescription": "بەبێ ڕیکلام بەکاریی بێنە",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Block.Blast.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.6",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "بەبێ ڕیکلام بەکاریی بێنە",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Block.Blast._4.2.6_1737320101.ipa",
+     "size": 53770000
+    }
+   ]
+  }
+ ]
+}

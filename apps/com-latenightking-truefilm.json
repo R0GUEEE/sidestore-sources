@@ -1,0 +1,30 @@
+{
+ "name": "MistLens",
+ "identifier": "dev.perapp.com-latenightking-truefilm",
+ "subtitle": "MistLens",
+ "description": "Single-app source for MistLens (com.latenightking.TrueFilm). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.latenightking.TrueFilm",
+   "name": "MistLens",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.latenightking.TrueFilm.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3",
+     "date": "2025-08-12T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MistLens_2.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 10406199
+    }
+   ]
+  }
+ ]
+}

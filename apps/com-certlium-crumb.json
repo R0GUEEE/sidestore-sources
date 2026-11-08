@@ -1,0 +1,34 @@
+{
+ "name": "Crumb",
+ "identifier": "dev.perapp.com-certlium-crumb",
+ "subtitle": "Crumb lets you find App Store apps, choose a version and download its IPA on your",
+ "description": "Single-app source for Crumb (com.certlium.crumb). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3776a4",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.certlium.crumb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.certlium.crumb",
+   "name": "Crumb",
+   "developerName": "boierito",
+   "subtitle": "Crumb lets you find App Store apps, choose a version and download its IPA on your",
+   "localizedDescription": "Crumb:\n\nCrumb lets you find App Store apps, choose a version and download its IPA on your iPhone or iPad. It runs as a normally sideloaded app, without jailbreak, TrollStore or external JIT.\n\nFeatures:\n\n• Sign in with your Apple ID and two-factor authentication. Sessions are stored in Keychain; passwords and verification codes are not saved.\n• Search by app name, App Store link, app ID or bundle ID, and save favourites.\n\nApp availability, licenses and installation remain subject to Apple's account and device restrictions. Browsing another region does not guarantee a download.\n\nOrigins and credits:\n\nCrumb builds on WaffleStore, whose roots include MuffinStore Jailed and PancakeStore. Its modern Apple authentication and download backend adapts logic from ipatool to run inside the iOS sandbox.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.certlium.crumb.png",
+   "tintColor": "#3776a4",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-29T01:27:46Z",
+     "localizedDescription": "IPA experimental de Crumb. Compilación Release finalizada el 29/10/2026 a las 01:23 UTC.\n\nFuente: ee25a7875aea6405d0101a3c1916d281d80d44ae, PR #24, apilado sobre los PR #23 y #22. Versión 1.0.0; número interno 23053 conservado; ARM64; iOS 16.4 o posterior. IPA sin firmar; requiere la firma habitual de sideloading.\n\nCorrige una omisión de la descarga: conserva el diversitybag cuando Apple lo incluye, lo vincula al mismo productor KBSync, importa keybag y diversitybag en orden y guarda sólo el resultado completo aceptado. Rechaza bolsas ambiguas o inválidas y conserva la evidencia privada de ambas importaciones.\n\nNo se ha validado el SINF real ni descifrado la IPA TT. Las pruebas locales reprodujeron el retorno -42057 y confirmaron la coincidencia de los 432 bytes del buffer rechazado entre la rutina nativa y la derivación móvil independiente. La captura TT anterior no permite saber si Apple había enviado un diversitybag descartado.\n\nInstalar encima de Crumb con el mismo identificador y firma para conservar la autorización. No desinstalar. Conservar las exportaciones originales. Este cambio no recupera retroactivamente material omitido por una captura anterior.\n\nCI aprobado: https://github.com/boierito/Crumb/actions/runs/40799098176 https://github.com/boierito/Crumb/actions/runs/40799098166\n\nSHA-256: 7b71cb3f077d9a1b11570f94f9946bfc13cc03da6a8004c7d7bbca8dc2a1a794 Se adjuntan fuentes correspondientes y licencias. No contienen archivos privados del usuario.",
+     "downloadURL": "https://github.com/boierito/Crumb/releases/download/experimental-complete-license-20261029-0123-utc/Crumb-2026-10-29-0123-UTC-ee25a787.ipa",
+     "size": 41211893
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

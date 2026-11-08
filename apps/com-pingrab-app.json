@@ -1,0 +1,30 @@
+{
+ "name": "PinGrab",
+ "identifier": "dev.perapp.com-pingrab-app",
+ "subtitle": "PinGrab by Holloway",
+ "description": "Single-app source for PinGrab (com.pingrab.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380097.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pingrab.app",
+   "name": "PinGrab",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380097.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.5",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1633",
+     "size": 166131460
+    }
+   ]
+  }
+ ]
+}

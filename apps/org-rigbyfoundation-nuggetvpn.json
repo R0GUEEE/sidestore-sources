@@ -1,0 +1,34 @@
+{
+ "name": "NuggetVPN",
+ "identifier": "dev.perapp.org-rigbyfoundation-nuggetvpn",
+ "subtitle": "NuggetVPN is a A fast, good-looking VPN client for Windows, macOS, Linux, Android and iOS, built with Wails v3 and React",
+ "description": "Single-app source for NuggetVPN (org.rigbyfoundation.nuggetvpn). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.rigbyfoundation.nuggetvpn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.rigbyfoundation.nuggetvpn",
+   "name": "NuggetVPN",
+   "developerName": "Rigby-Foundation",
+   "subtitle": "NuggetVPN is a A fast, good-looking VPN client for Windows, macOS, Linux, Android and iOS, built with Wails v3 and React 19",
+   "localizedDescription": "NuggetVPN:\n\nA fast, good-looking VPN client for Windows, macOS, Linux, Android and iOS, built with Wails v3 and React 19.\n\nEvery proxy core it can run is compiled into the app as a Go library. There is no bundled executable, nothing is downloaded at runtime, and nothing is shelled out to.\n\nConnecting:\n\n• Four cores to choose from (see Cores).\n• Subscriptions, with data usage and expiry shown when the provider reports them. Share links (vless://, vmess://, ss:// and others), full sing-box configs, and Clash configs are all accepted.\n• Proxy chains, where each hop dials through the one before it.\n• Fastest server: the tunnel keeps measuring the best few servers and moves to whichever is fastest.\n• Kill switch and automatic reconnect.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.rigbyfoundation.nuggetvpn.png",
+   "tintColor": "#6156e2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.0",
+     "date": "2026-10-29T20:48:50Z",
+     "localizedDescription": "See the assets to download this version and install.",
+     "downloadURL": "https://github.com/Rigby-Foundation/NuggetVPN/releases/download/v2.4.0/NuggetVPN-v2.4.0-ios-unsigned.ipa",
+     "size": 108473365
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "OBD Fusion",
+ "identifier": "dev.perapp.net-obdsoftware-obdfusion",
+ "subtitle": "OBD Fusion by sidelix",
+ "description": "Single-app source for OBD Fusion (net.obdsoftware.obdfusion). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6903cf02138fe.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "net.obdsoftware.obdfusion",
+   "name": "OBD Fusion",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone, iPod Touch, or iPad. You can clear your check engine light, create custom dashboards, read diagnostic trouble codes, estimate fuel economy, and much more!\r\n\r\nIs your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits. Drive smarter, improve your fuel economy, and keep your engine healthy!\r\n\r\nIMPORTANT NOTE: You must have a Wi-Fi ELM327 compatible adapter",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6903cf02138fe.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.13.0",
+     "date": "2025-10-30T00:00:00Z",
+     "localizedDescription": "OBD Fusion is an app for your car that allows you to read OBD2 vehicle data directly from your iPhone, iPod Touch, or iPad. You can clear your check engine light, create custom dashboards, read diagnostic trouble codes, estimate fuel economy, and much more!\r\n\r\nIs your check engine light on? Do you want to monitor fuel economy and usage in your vehicle? Do you want cool looking virtual dashboards on your iPhone or iPad? If so, then OBD Fusion is the app for you! OBD Fusion is used by professional mechanics, do-it-yourself mechanics, and vehicle owners who want to monitor their vehicle and daily driving habits. Drive smarter, improve your fuel economy, and keep your engine healthy!\r\n\r\nIMPORTANT NOTE: You must have a Wi-Fi ELM327 compatible adapter",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1910",
+     "size": 43564409
+    }
+   ]
+  }
+ ]
+}

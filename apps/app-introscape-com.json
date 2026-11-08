@@ -1,0 +1,30 @@
+{
+ "name": "Introscape",
+ "identifier": "dev.perapp.app-introscape-com",
+ "subtitle": "ipaomtk.com | Have you ever wanted to get out of an awkward situation or avoid a boring conversation? FakeCall IPA is he",
+ "description": "Single-app source for Introscape (app.introscape.com). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/512x512bb-2-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "app.introscape.com",
+   "name": "Introscape",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Have you ever wanted to get out of an awkward situation or avoid a boring conversation? FakeCall IPA is here to rescue you! FakeCall Tro",
+   "localizedDescription": "ipaomtk.com | Have you ever wanted to get out of an awkward situation or avoid a boring conversation? FakeCall IPA is here to rescue you! FakeCall Tro",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/512x512bb-2-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-02-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Have you ever wanted to get out of an awkward situation or avoid a boring conversation? FakeCall IPA is here to rescue you! FakeCall Tro",
+     "downloadURL": "https://file.ipaomtk.com/FakeCall/FakeCall_1.0-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

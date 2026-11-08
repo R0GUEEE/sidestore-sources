@@ -1,0 +1,30 @@
+{
+ "name": "KEV WB",
+ "identifier": "dev.perapp.com-silverseahog-kev",
+ "subtitle": "ipaomtk.com | As a photographer, you know that accurate white balance is crucial for capturing images with true-to-life ",
+ "description": "Single-app source for KEV WB (com.silverseahog.kev). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/white-balance-meter-ai-kev-logo-150x150.avif",
+ "apps": [
+  {
+   "bundleIdentifier": "com.silverseahog.kev",
+   "name": "KEV WB",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | As a photographer, you know that accurate white balance is crucial for capturing images with true-to-life colors. However, achieving the",
+   "localizedDescription": "ipaomtk.com | As a photographer, you know that accurate white balance is crucial for capturing images with true-to-life colors. However, achieving the",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/white-balance-meter-ai-kev-logo-150x150.avif",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.4.5",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | As a photographer, you know that accurate white balance is crucial for capturing images with true-to-life colors. However, achieving the",
+     "downloadURL": "https://file.ipaomtk.com/ipa/KEV-AI-White-Balance-Meter-v6.4.5_IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

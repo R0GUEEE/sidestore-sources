@@ -1,0 +1,34 @@
+{
+ "name": "Superstars Tennis",
+ "identifier": "dev.perapp.com-devz-sstrematch",
+ "subtitle": "SEGA Superstars Tennis (Xbox 360) for iPhone and iPad, recompiled with ReXGlue",
+ "description": "Single-app source for Superstars Tennis (com.devz.sstrematch). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6eb091",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.sstrematch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.sstrematch",
+   "name": "Superstars Tennis",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "SEGA Superstars Tennis (Xbox 360) for iPhone and iPad, recompiled with ReXGlue",
+   "localizedDescription": "SEGA Superstars Tennis for iOS:\n\nA native iPhone and iPad port of SEGA Superstars Tennis (Xbox 360, 2008), built by statically recompiling the original PowerPC code to arm64 with ReXGlue. Graphics run through Vulkan on Metal using MoltenVK. Based on Sega Superstars Tennis ReMatch by m1ndcrap.\n\nYou need your own copy of the Xbox 360 game. Game assets and disc images are not included.\n\nIf you want to support me and remain up-to-date about this and other projects, you can in different ways:\n\nKo-Fi: https://ko-fi.com/dev_zer0\n\nYouTube: https://www.youtube.com/@develop_erZ\n\nFeatures:\n\n• Direct Xbox 360 ISO/XISO loading, without extracting the disc.\n• Support for extracted game files.\n• Matches at up to 60 FPS on recent iPhones, capped at 60.\n• On-screen touch controls and controller support (MFi, Xbox, PlayStation).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.sstrematch.png",
+   "tintColor": "#6eb091",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-11T18:28:33Z",
+     "localizedDescription": "1.0.0 (build 3):\n\nFirst release.\n\n• SEGA Superstars Tennis (Xbox 360) on iPhone and iPad, recompiled with the iOS port of ReXGlue and drawn through Vulkan on Metal (MoltenVK). iOS 15 or later.\n• Direct Xbox 360 ISO/XISO loading with Choose ISO, or extracted disc files in the app's game folder.\n• Matches at up to 60 FPS, capped at 60. CPU readback of the shaders' memory exports is off by default: it made the GPU thread wait for the GPU 30-50 times a frame (12-14 FPS in a match on an iPhone 14 Pro Max).\n• The game's busy waits (Direct3D's wait for the GPU, the audio threads' barrier) sleep briefly instead of spinning a core, which keeps the phone cooler during long sessions.\n• The picture stays landscape and sharp after Notification Center, Control Center, screenshots and app switches. iOS lays the window out in portrait for its background snapshot, and the swap chain used to stay portrait afterwards.\n• On-screen touch controls when no controller is connected; MFi, Xbox and PlayStation controllers.\n• Pause and resume on app switches and locking; game language from the device; shader and pipeline caches kept across launches; Apple Game Mode.",
+     "downloadURL": "https://github.com/DevZer0D4Y/SegaSuperstarsTennis-iOS/releases/download/1.0.0/SEGA-Superstars-Tennis-iOS.ipa",
+     "size": 18208145
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

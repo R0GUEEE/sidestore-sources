@@ -1,0 +1,44 @@
+{
+ "name": "YTMusicUltimate",
+ "identifier": "dev.perapp.com-google-ios-youtubemusic",
+ "subtitle": "YTMusicUltimate",
+ "description": "Single-app source for YTMusicUltimate (com.google.ios.youtubemusic). Converted from swaggy.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtubemusic",
+   "name": "YTMusicUltimate",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.7-5.39.1",
+     "date": "2023-01-10T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-10-2023/YTMusicUltimate-1.2.7-5.39.1.ipa",
+     "size": 63776509
+    },
+    {
+     "version": "1.2.7-5.36.2",
+     "date": "2022-12-19T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-09-2022/YTMusicUltimate-1.2.7-5.36.2.ipa",
+     "size": 64727705
+    },
+    {
+     "version": "1.2.7-5.34.2",
+     "date": "2022-11-30T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-29-2022/YTMusicUltimate-1.2.7-5.34.2.ipa",
+     "size": 57741323
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Ready",
+ "identifier": "dev.perapp.at-spiderlab-c64",
+ "subtitle": "Ready is an open source emulator for the following 8 bit home computers: * Commodore 64 * Commodore VIC-20 * Commodore 1",
+ "description": "Single-app source for Ready (at.spiderlab.c64). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/S9WS2C2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "at.spiderlab.c64",
+   "name": "Ready",
+   "developerName": "T-Pau",
+   "subtitle": "Ready is an open source emulator for the following 8 bit home computers: * Commodore 64 * Commodore VIC-20 * Commodore 16, Plus/4 * Sinclair ZX Spectr",
+   "localizedDescription": "Ready is an open source emulator for the following 8 bit home computers: * Commodore 64 * Commodore VIC-20 * Commodore 16, Plus/4 * Sinclair ZX Spectr",
+   "iconURL": "https://i.imgur.com/S9WS2C2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "With preliminary support for these computers:  • Commander X16.  It is based on atari800, fuse, Vice, and x16-emulator, which provide accurate emulati",
+     "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6.1/Ready-1.6.1.ipa",
+     "size": 73079686
+    },
+    {
+     "version": "1.6",
+     "date": "2020-07-08T00:00:00Z",
+     "localizedDescription": "Ready is an open source emulator for the following 8 bit home computers: * Commodore 64 * Commodore VIC-20 * Commodore 16, Plus/4 * Sinclair ZX Spectr",
+     "downloadURL": "https://github.com/T-Pau/Ready/releases/download/release-1.6/Ready-1.6.ipa",
+     "size": 63972294
+    }
+   ]
+  }
+ ]
+}

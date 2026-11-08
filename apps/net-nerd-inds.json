@@ -1,0 +1,41 @@
+{
+ "name": "iNDS",
+ "identifier": "dev.perapp.net-nerd-inds",
+ "subtitle": "Revival of the Nintendo DS emulator for iOS.",
+ "description": "Single-app source for iNDS (net.nerd.iNDS). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#fc2125",
+ "iconURL": "https://i.imgur.com/DbWJeF8.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.nerd.iNDS",
+   "name": "iNDS",
+   "developerName": "iNDS Team",
+   "subtitle": "Revival of the Nintendo DS emulator for iOS.",
+   "localizedDescription": "iNDS is a derivation of the previous Nintendo DS emulator apps for iOS: nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. The iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
+   "iconURL": "https://i.imgur.com/DbWJeF8.png",
+   "tintColor": "#fc2125",
+   "screenshots": [
+    "https://i.imgur.com/ap8Er1K.png",
+    "https://i.imgur.com/EgfrobI.png",
+    "https://i.imgur.com/9gLwHGD.png"
+   ],
+   "versions": [
+    {
+     "version": "1.10.8",
+     "date": "2021-03-01T22:39:20Z",
+     "localizedDescription": "Version 1.10.8 fixes the cover art system, thus closing #190. ~~There also appears to be an issue with the previous Cydia release being corrupted, so hopefully, that is fixed in this version.~~\r\n\r\n**Full Changelog**\r\n- Fixed cover art system (#203). Thanks, @unlmtd.\r\n- Fixed compilation errors (#191). Thanks, @jdkula.",
+     "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+     "size": 8553596
+    },
+    {
+     "version": "1.10.7",
+     "date": "2020-02-10T00:00:00Z",
+     "localizedDescription": "iNDS is a derivation of the previous Nintendo DS apps for iOS, nds4ios and Nitrogen. The iNDS Team release of iNDS is a fork of the original iNDS emulator by William Cobb. iNDS Team aims to create a version that is driven by support from the community, adding trusted contributors to the team over time, so that pull requests and issues do not sit untouched.\n\nCurrently, emulation is powered by the DeSmuME threaded ARM interpreter and runs at nearly full speed on the iPhone 5 and above. Due to the need to mmap the entire ROM into memory, older devices with only 256MB of RAM are not supported. These devices include the iPod Touch 4, iPad 1, iPhone 3GS, and anything below those devices.",
+     "downloadURL": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.7/iNDS.ipa",
+     "size": 857669
+    }
+   ]
+  }
+ ]
+}

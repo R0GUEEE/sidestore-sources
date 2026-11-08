@@ -1,0 +1,30 @@
+{
+ "name": "Ling",
+ "identifier": "dev.perapp.com-sanfanstudios-universal",
+ "subtitle": "Ling",
+ "description": "Single-app source for Ling (com.sanfanstudios.universal). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sanfanstudios.universal.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sanfanstudios.universal",
+   "name": "Ling",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sanfanstudios.universal.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.6.3",
+     "date": "2024-12-05T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Ling_6.6.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 46355889
+    }
+   ]
+  }
+ ]
+}

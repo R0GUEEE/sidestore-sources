@@ -1,0 +1,37 @@
+{
+ "name": "Movlix",
+ "identifier": "dev.perapp.dev-movlix-player",
+ "subtitle": "ipaomtk.com | Introduction Movlix is an iOS entertainment application created for users who enjoy watching movies and se",
+ "description": "Single-app source for Movlix (dev-movlix.player). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Movlix-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "dev-movlix.player",
+   "name": "Movlix",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Movlix is an iOS entertainment application created for users who enjoy watching movies and series through a smooth and mode",
+   "localizedDescription": "ipaomtk.com | Introduction Movlix is an iOS entertainment application created for users who enjoy watching movies and series through a smooth and mode",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Movlix-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2025-12-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Movlix is an iOS entertainment application created for users who enjoy watching movies and series through a smooth and mode",
+     "downloadURL": "https://file.ipaomtk.com/Movlix/Movlix-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.1",
+     "date": "2025-12-20T00:00:00Z",
+     "localizedDescription": "Tweaks: NoAds\n\nipaomtk.com | Introduction Movlix is an iOS entertainment application created for users who enjoy watching movies and series through a smooth and mode",
+     "downloadURL": "https://file.ipaomtk.com/Movlix/Movlix-IPAOMTK.COM.ipa",
+     "size": 4176862
+    }
+   ]
+  }
+ ]
+}

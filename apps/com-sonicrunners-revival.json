@@ -1,0 +1,30 @@
+{
+ "name": "Sonic Runners Revival",
+ "identifier": "dev.perapp.com-sonicrunners-revival",
+ "subtitle": "Dragon Ball for Children",
+ "description": "Single-app source for Sonic Runners Revival (com.sonicrunners.revival). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "4555ef",
+ "iconURL": "https://cdn.omnidev.org/Sonic_Runners_App_Icon_2_0-mR.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sonicrunners.revival",
+   "name": "Sonic Runners Revival",
+   "developerName": "The Sonic Runners Revival Team",
+   "subtitle": "Dragon Ball for Children",
+   "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/Sonic_Runners_App_Icon_2_0-mR.png",
+   "tintColor": "4555ef",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.4",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "A revival of the mobile game 'Sonic Runners'\n\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/srr224-QH.ipa",
+     "size": 151322254
+    }
+   ]
+  }
+ ]
+}

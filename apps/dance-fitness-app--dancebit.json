@@ -1,0 +1,44 @@
+{
+ "name": "Dancebit",
+ "identifier": "dev.perapp.dance-fitness-app",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Dancebit (dance.fitness.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dance.fitness.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dance.fitness.app",
+   "name": "Dancebit",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dance.fitness.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.90",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Dancebit: Weight Loss Workouts  Tweak: Premium Unlocked  Version: 2.90  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8741-Dancebit:%20Weight%20Loss%20Workouts-v2.90-riftysipas.ipa",
+     "size": 202975905
+    },
+    {
+     "version": "2.89",
+     "date": "2026-09-12T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Dancebit: Weight Loss Workouts  Tweak: Premium Unlocked  Version: 2.89  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7829-Dancebit:%20Weight%20Loss%20Workouts-v2.89-riftysipas.ipa",
+     "size": 201717537
+    },
+    {
+     "version": "2.88",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Dancebit: Weight Loss Workouts  Tweak: Premium Unlocked  Version: 2.88  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7694-Dancebit:%20Weight%20Loss%20Workouts-v2.88-riftysipas.ipa",
+     "size": 183546590
+    }
+   ]
+  }
+ ]
+}

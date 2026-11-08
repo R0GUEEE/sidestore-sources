@@ -1,0 +1,30 @@
+{
+ "name": "Frida Code Manager (TrollStore)",
+ "identifier": "dev.perapp.com-sparklechan-swiftyts",
+ "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+ "description": "Single-app source for Frida Code Manager (TrollStore) (com.sparklechan.swiftyts). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ab7eaa",
+ "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sparklechan.swiftyts",
+   "name": "Frida Code Manager (TrollStore)",
+   "developerName": "fridakitten",
+   "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+   "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅🔵",
+   "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+   "tintColor": "ab7eaa",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6",
+     "date": "2024-10-25T00:00:00Z",
+     "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_trollstore1_6-rk.tipa",
+     "size": 70615040
+    }
+   ]
+  }
+ ]
+}

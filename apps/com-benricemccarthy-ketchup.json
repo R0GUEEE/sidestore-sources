@@ -1,0 +1,30 @@
+{
+ "name": "KetchupPlus",
+ "identifier": "dev.perapp.com-benricemccarthy-ketchup",
+ "subtitle": "Encyclopaedia app for Pokemon. A user requested it so here it is. Last updated: 07-15-2024 Status: ✅",
+ "description": "Single-app source for KetchupPlus (com.benricemccarthy.ketchup). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.benricemccarthy.ketchup.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.benricemccarthy.ketchup",
+   "name": "KetchupPlus",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "Encyclopaedia app for Pokemon. A user requested it so here it is. Last updated: 07-15-2024 Status: ✅",
+   "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.benricemccarthy.ketchup.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.5",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Encyclopaedia app for Pokemon. A user requested it so here it is. Last updated: 07-15-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KetchupPlus/KetchupPlus-2024.5.ipa",
+     "size": 215571649
+    }
+   ]
+  }
+ ]
+}

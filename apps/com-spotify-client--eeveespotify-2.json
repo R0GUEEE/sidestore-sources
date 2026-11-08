@@ -1,0 +1,30 @@
+{
+ "name": "Eeveespotify",
+ "identifier": "dev.perapp.com-spotify-client",
+ "subtitle": "Eeveespotify",
+ "description": "Single-app source for Eeveespotify (com.spotify.client). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client",
+   "name": "Eeveespotify",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with EeveeSpotify",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.spotify.client.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.22",
+     "date": "2025-03-05T00:00:00Z",
+     "localizedDescription": "Injected with EeveeSpotify",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Eeveespotify_9.0.22_EeveeSpotify_%40thisismanpreets_apptesters.org.ipa",
+     "size": 80414123
+    }
+   ]
+  }
+ ]
+}

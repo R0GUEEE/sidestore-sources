@@ -1,0 +1,44 @@
+{
+ "name": "intoLive",
+ "identifier": "dev.perapp.me-imgbase-intolive",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for intoLive (me.imgbase.intolive). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.imgbase.intolive",
+   "name": "intoLive",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.2",
+     "date": "2026-10-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | intoLive - Live Wallpapers  Tweak: Subscription Unlocked  Version: 4.4.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️ ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8136-intoLive%20-%20Live%20Wallpapers-v4.4.2-riftysipas.ipa",
+     "size": 155604169
+    },
+    {
+     "version": "4.4.1",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | intoLive - Live Wallpapers  Tweak: Subscription Unlocked  Version: 4.4.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️ ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7713-intoLive%20-%20Live%20Wallpapers-v4.4.1-riftysipas.ipa",
+     "size": 141231904
+    },
+    {
+     "version": "4.3.5",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/intoLive_4.3.5_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 135695270
+    }
+   ]
+  }
+ ]
+}

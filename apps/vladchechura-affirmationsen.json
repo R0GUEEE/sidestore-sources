@@ -1,0 +1,37 @@
+{
+ "name": "Flourish",
+ "identifier": "dev.perapp.vladchechura-affirmationsen",
+ "subtitle": "ipaomtk.com | Flourish – Daily Affirmations IPA ⁤is an app ⁤designed for iOS users aiming to incorporate optimism and se",
+ "description": "Single-app source for Flourish (vladchechura.AffirmationsEN). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Flourish-8211-Daily-Affirmations-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "vladchechura.AffirmationsEN",
+   "name": "Flourish",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Flourish – Daily Affirmations IPA ⁤is an app ⁤designed for iOS users aiming to incorporate optimism and self-love into their daily routi",
+   "localizedDescription": "ipaomtk.com | Flourish – Daily Affirmations IPA ⁤is an app ⁤designed for iOS users aiming to incorporate optimism and self-love into their daily routi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Flourish-8211-Daily-Affirmations-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.4",
+     "date": "2026-09-15T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Flourish - Daily Affirmations  Tweak: Subscription Unlocked  Version: 1.9.4  Patched ✓  @riftysIPAlibrary  Additional Information ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7900-Flourish%20-%20Daily%20Affirmations-v1.9.4-riftysipas.ipa",
+     "size": 64135929
+    },
+    {
+     "version": "1.8.5",
+     "date": "2025-06-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Flourish – Daily Affirmations IPA ⁤is an app ⁤designed for iOS users aiming to incorporate optimism and self-love into their daily routi",
+     "downloadURL": "https://file.ipaomtk.com/Flourish/Flourish-Daily-Affirmations-IPAOMTK.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

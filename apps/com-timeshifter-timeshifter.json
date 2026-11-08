@@ -1,0 +1,30 @@
+{
+ "name": "Timeshifter",
+ "identifier": "dev.perapp.com-timeshifter-timeshifter",
+ "subtitle": "Timeshifter",
+ "description": "Single-app source for Timeshifter (com.timeshifter.timeshifter). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.timeshifter.timeshifter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.timeshifter.timeshifter",
+   "name": "Timeshifter",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.timeshifter.timeshifter.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.1",
+     "date": "2026-06-01T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/Timeshifter_2.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 29287129
+    }
+   ]
+  }
+ ]
+}

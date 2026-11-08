@@ -1,0 +1,30 @@
+{
+ "name": "KFPanda",
+ "identifier": "dev.perapp.com-panda-player",
+ "subtitle": "ipaomtk.com | Unlock the full potential of your media experience with the KFPanda Player IPA app. As an avid media enthu",
+ "description": "Single-app source for KFPanda (com.panda.player). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-37-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.panda.player",
+   "name": "KFPanda",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Unlock the full potential of your media experience with the KFPanda Player IPA app. As an avid media enthusiast, you’re always on the lo",
+   "localizedDescription": "ipaomtk.com | Unlock the full potential of your media experience with the KFPanda Player IPA app. As an avid media enthusiast, you’re always on the lo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-37-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.5",
+     "date": "2024-09-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Unlock the full potential of your media experience with the KFPanda Player IPA app. As an avid media enthusiast, you’re always on the lo",
+     "downloadURL": "https://file.ipaomtk.com/ipa/KFPanda-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

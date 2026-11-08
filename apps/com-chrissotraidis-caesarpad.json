@@ -1,0 +1,39 @@
+{
+ "name": "CaesarPad",
+ "identifier": "dev.perapp.com-chrissotraidis-caesarpad",
+ "subtitle": "Caesar III on an iPad-shaped canvas, powered by Augustus",
+ "description": "Single-app source for CaesarPad (com.chrissotraidis.caesarpad). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#ad542f",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.caesarpad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chrissotraidis.caesarpad",
+   "name": "CaesarPad",
+   "developerName": "chrissotraidis",
+   "subtitle": "Caesar III on an iPad-shaped canvas, powered by Augustus",
+   "localizedDescription": "CaesarPad packages the open-source Augustus engine as a landscape iPadOS app. It adds direct touch and Apple Pencil input, readable interface scaling, visible cursor feedback, map gestures, lifecycle recovery, and repeatable build and Simulator automation.\n\nThis repository contains the mobile integration and build scripts. It does not contain Caesar III or any of its game data; you supply your own legally purchased files locally.\n\nas an unsigned, re-signable IPA from source 07a8d38. This source-maintenance branch does not publish a new binary. No TestFlight, App Store listing, or AltStore source is announced.\n\nWhat works · Controls · Screenshots · Install IPA · Run it · How it works · Project status.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.caesarpad.png",
+   "tintColor": "#ad542f",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/caesarpad@main/docs/readme/caesarpad-gameplay.jpg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/caesarpad@main/docs/readme/caesarpad-empire-map.jpg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/caesarpad@main/docs/readme/caesarpad-advisors.jpg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/caesarpad@main/docs/readme/caesarpad-campaign.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-08-18T16:04:07Z",
+     "localizedDescription": "Unsigned, re-signable iPadOS developer preview built from commit 07a8d38a4eae77d01c6d980ecbc36de8fad97ef6.\n\nIncludes the latest game-folder importer fix. Caesar III game data is not included; users must provide files from their own legally purchased copy and re-sign the IPA with their own Apple credentials.\n\nMinimum iPadOS: 14.0. See docs/INSTALL_IPA.md for installation and data-import instructions.",
+     "downloadURL": "https://github.com/chrissotraidis/caesarpad/releases/download/v0.1.0-preview.1/CaesarPad-0.1.0-preview.1-unsigned.ipa",
+     "size": 24309119
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

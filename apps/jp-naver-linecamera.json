@@ -1,0 +1,30 @@
+{
+ "name": "LINECamera",
+ "identifier": "dev.perapp.jp-naver-linecamera",
+ "subtitle": "Subscription unlocked. Ignore purchase popup's and restart the app if subscription isn't active",
+ "description": "Single-app source for LINECamera (jp.naver.linecamera). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.naver.linecamera",
+   "name": "LINECamera",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked. Ignore purchase popup's and restart the app if subscription isn't active",
+   "localizedDescription": "@blatants | LINE Camera - Photo editor\n\n• Bundle ID: jp.naver.linecamera\n• Updated to: 18.6.5\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nIgnore purchase popup's and restart the app if subscription isn't active.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18.6.5",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | LINE Camera - Photo editor • Bundle ID: jp.naver.linecamera • Updated to: 18.6.5 • Minimum iOS: 16.0 • Patched • Modifier: Subscription…",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/LINECamera_18.6.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 189407748
+    }
+   ]
+  }
+ ]
+}

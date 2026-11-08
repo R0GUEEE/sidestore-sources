@@ -1,0 +1,30 @@
+{
+ "name": "WeedFirm2",
+ "identifier": "dev.perapp.com-bcanada-weedfirm2",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for WeedFirm2 (com.bcanada.weedfirm2). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bcanada.weedfirm2",
+   "name": "WeedFirm2",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.11",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/WeedFirm2_4.1.11_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 274749693
+    }
+   ]
+  }
+ ]
+}

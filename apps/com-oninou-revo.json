@@ -1,0 +1,37 @@
+{
+ "name": "Revolution Idle",
+ "identifier": "dev.perapp.com-oninou-revo",
+ "subtitle": "ipaomtk.com | Revolution Idle on iOS Revolution Idle on iOS delivers an addictive idle strategy experience where players",
+ "description": "Single-app source for Revolution Idle (com.oninou.REVO). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Revolution-Idle-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.oninou.REVO",
+   "name": "Revolution Idle",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Revolution Idle on iOS Revolution Idle on iOS delivers an addictive idle strategy experience where players grow a city, manage resources",
+   "localizedDescription": "ipaomtk.com | Revolution Idle on iOS Revolution Idle on iOS delivers an addictive idle strategy experience where players grow a city, manage resources",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Revolution-Idle-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.052",
+     "date": "2026-01-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Revolution Idle on iOS Revolution Idle on iOS delivers an addictive idle strategy experience where players grow a city, manage resources",
+     "downloadURL": "https://file.ipaomtk.com/revolution-idle/Revolution-Idle-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.076",
+     "date": "2026-01-18T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Revolution Idle on iOS Revolution Idle on iOS delivers an addictive idle strategy experience where players grow a city, manage resources",
+     "downloadURL": "https://file.ipaomtk.com/revolution-idle/Revolution-Idle-IPAOMTK.COM.ipa",
+     "size": 77550794
+    }
+   ]
+  }
+ ]
+}

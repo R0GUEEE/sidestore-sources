@@ -1,0 +1,32 @@
+{
+ "name": "iota6.0-13.1.0",
+ "identifier": "dev.perapp.com-toyopagroup-picaboo",
+ "subtitle": "iota6.0-13.1.0 by iota6.0-13.1.0 x CyPwn",
+ "description": "Single-app source for iota6.0-13.1.0 (com.toyopagroup.picaboo). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/iota6.0-13.1.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.toyopagroup.picaboo",
+   "name": "iota6.0-13.1.0",
+   "developerName": "iota6.0-13.1.0 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Read the full description first!",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/iota6.0-13.1.0.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/iota6.0-13.1.0/iota6.0-13.1.0-0.png"
+   ],
+   "versions": [
+    {
+     "version": "13.1.0",
+     "date": "2024-12-30T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/iota6.0-13.1.0.ipa",
+     "size": 191197347
+    }
+   ]
+  }
+ ]
+}

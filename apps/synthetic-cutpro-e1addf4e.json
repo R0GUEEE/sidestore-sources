@@ -1,0 +1,30 @@
+{
+ "name": "CUTPro",
+ "identifier": "dev.perapp.synthetic-cutpro-e1addf4e",
+ "subtitle": "CUTPro by Karbin-Store",
+ "description": "Single-app source for CUTPro (synthetic.cutpro.e1addf4e). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/CUTPro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.cutpro.e1addf4e",
+   "name": "CUTPro",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "تایبەتمەندی هاک تێدابەردەستە",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/CUTPro.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.17",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی هاک تێدابەردەستە",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Cute.CUT.Pro_2.3_1721596194.ipa",
+     "size": 146740000
+    }
+   ]
+  }
+ ]
+}

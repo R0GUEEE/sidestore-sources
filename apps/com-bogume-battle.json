@@ -1,0 +1,30 @@
+{
+ "name": "HlTV",
+ "identifier": "dev.perapp.com-bogume-battle",
+ "subtitle": "ipaomtk.com | HlTV – Movies & TV Shows Info on iOS is an entertainment discovery application designed to help users expl",
+ "description": "Single-app source for HlTV (com.bogume.battle). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/HlTV-Movies-TV-Shows-Info-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bogume.battle",
+   "name": "HlTV",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | HlTV – Movies & TV Shows Info on iOS is an entertainment discovery application designed to help users explore movies and television seri",
+   "localizedDescription": "ipaomtk.com | HlTV – Movies & TV Shows Info on iOS is an entertainment discovery application designed to help users explore movies and television seri",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/HlTV-Movies-TV-Shows-Info-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1",
+     "date": "2026-02-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | HlTV – Movies & TV Shows Info on iOS is an entertainment discovery application designed to help users explore movies and television seri",
+     "downloadURL": "https://file.ipaomtk.com/HlTV-Movies-TV-ShowsInfo/HlTV-Movies-TV-Shows-Info-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

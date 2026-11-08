@@ -1,0 +1,44 @@
+{
+ "name": "Tooboo",
+ "identifier": "dev.perapp.com-hltek-zouzou",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Tooboo (com.hltek.ZouZou). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hltek.ZouZou.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hltek.ZouZou",
+   "name": "Tooboo",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hltek.ZouZou.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.26",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/16-11-2025/Tooboo_1.4.26_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 40961748
+    },
+    {
+     "version": "1.4.14",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-10-2025/Tooboo_1.4.14_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 39232292
+    },
+    {
+     "version": "1.4.13",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-09-2025/Tooboo_1.4.13_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 36599659
+    }
+   ]
+  }
+ ]
+}

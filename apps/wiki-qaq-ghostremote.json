@@ -1,0 +1,38 @@
+{
+ "name": "Ghost Remote",
+ "identifier": "dev.perapp.wiki-qaq-ghostremote",
+ "subtitle": "A real terminal on iPhone, iPad, and Mac, drawn by the same engine as Ghostty on the desktop",
+ "description": "Single-app source for Ghost Remote (wiki.qaq.GhostRemote). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#94a4dc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/wiki.qaq.GhostRemote.png",
+ "apps": [
+  {
+   "bundleIdentifier": "wiki.qaq.GhostRemote",
+   "name": "Ghost Remote",
+   "developerName": "owngoal-dev",
+   "subtitle": "A real terminal on iPhone, iPad, and Mac, drawn by the same engine as Ghostty on the desktop",
+   "localizedDescription": "iGhostVT:\n\nA real terminal on iPhone, iPad, and Mac, drawn by the same engine as Ghostty on the desktop. Start a command, leave the app, and come back — the shell is still running.\n\nMac:\n\nUnzip the archive, drag iGhostVT.app into Applications, then open it from there. The app uses a background helper to run your sessions. If approval is requested, follow the app’s prompt to enable it in System Settings.\n\nGhost Remote is iGhostVT's remote access on its own, for an iPhone or iPad without custom firmware: it opens terminals on your devices running iGhostVT and runs none of its own. Add this source to AltStore or SideStore:\n\nhttps://owngoal-dev.github.io/iGhostVT/altstore.json\n\nFeatures:\n\n• Ghostty’s engine: GPU-drawn terminal, the Ghostty theme catalog, and extra keys on the software keyboard.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/wiki.qaq.GhostRemote.png",
+   "tintColor": "#94a4dc",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/owngoal-dev/iGhostVT@main/Documents/screenshots.png"
+   ],
+   "versions": [
+    {
+     "version": "1.6.26",
+     "date": "2026-11-07T10:23:43Z",
+     "localizedDescription": "iGhostVT 1.6.26 moves to a newer Ghostty, scrolls with your finger on iPad, and asks before dropped text can run as commands.\n\n• On iPad, the terminal scrolled about one and a half times as far as your finger moved. It now moves with your finger.\n• With a trackpad or mouse on an iPad or Mac, the terminal scrolled about half as far as a list does. It now scrolls about the same distance.\n• Text with line breaks dropped on the terminal ran at once in a program without bracketed paste. iGhostVT now asks first, as it does for a paste.\n• In bash, a folder name with control characters could send escape sequences to the terminal, including one that changes the clipboard. They are now left out of the tab title.\n• The terminal could freeze when the theme changed, or crash while discarding old scrollback. Both are fixed in the newer Ghostty.\n\nChoose iphoneos-arm64e for roothide, iphoneos-arm64 for a rootless bootstrap, iGhostVT-1.6.26-macos-notarized.zip for a Mac — it is signed and notarized, so it opens without clearing quarantine, and updates itself — or GhostRemote-1.6.26.ipa for an iPhone or iPad without custom firmware, which your sideloading app signs as it installs it. To run the relay, use the attached compose.yml; the image is ghcr.io/owngoal-dev/ighostvt-relay, and the digest is in relay-image.txt. SHA-256 sums are in SHA256SUMS, and the Mac app's in SHA256SUMS.macos.",
+     "downloadURL": "https://github.com/owngoal-dev/iGhostVT/releases/download/v1.6.26/GhostRemote-1.6.26.ipa",
+     "size": 7059695
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Ghost Remote finds and connects to your devices with remote access turned on, so you can open terminals on them."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Trips+",
+ "identifier": "dev.perapp.com-sagomini-trips",
+ "subtitle": "ipaomtk.com | Sago Mini trips+ IPA⁢ emerges ⁢as a delightful sanctuary for young adventurers. This charming iOS game inv",
+ "description": "Single-app source for Trips+ (com.sagomini.Trips). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Sago-Mini-Trips-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sagomini.Trips",
+   "name": "Trips+",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sago Mini trips+ IPA⁢ emerges ⁢as a delightful sanctuary for young adventurers. This charming iOS game invites players into a vibrant un",
+   "localizedDescription": "ipaomtk.com | Sago Mini trips+ IPA⁢ emerges ⁢as a delightful sanctuary for young adventurers. This charming iOS game invites players into a vibrant un",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Sago-Mini-Trips-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.210",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Sago Mini Trips+ - appstore  🇷🇺 Детская развивающая игра с коллекцией мини-игр и приключений, где ребёнок может путешествовать с забавны",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1675-Trips+%20%5Bv1.3.210%5D%28tg@ipa_dark%29.ipa",
+     "size": 185701382
+    },
+    {
+     "version": "1.0.68",
+     "date": "2025-05-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sago Mini trips+ IPA⁢ emerges ⁢as a delightful sanctuary for young adventurers. This charming iOS game invites players into a vibrant un",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sago-Mini-Trips-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

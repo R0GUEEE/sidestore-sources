@@ -1,0 +1,44 @@
+{
+ "name": "Da Vinci Eye",
+ "identifier": "dev.perapp.com-cumbemg-davinci",
+ "subtitle": "Da Vinci Eye",
+ "description": "Single-app source for Da Vinci Eye (com.cumbemg.davinci). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/136a15d4-25d0-4a9e-9285-5a1d950e52ec/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cumbemg.davinci",
+   "name": "Da Vinci Eye",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Da Vinci Eye: AR Trace & Draw\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/136a15d4-25d0-4a9e-9285-5a1d950e52ec/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.1",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1437",
+     "size": 128942689
+    },
+    {
+     "version": "5.0.0",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1437",
+     "size": 127640774
+    },
+    {
+     "version": "4.6.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Da Vinci Eye: AR Trace & Draw\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/d5c3a886-673d-4731-9020-877de8d27d32/Da_Vinci_Eye__AR_Trace___Draw-v4.6.0-riftysipas.ipa",
+     "size": 104002937
+    }
+   ]
+  }
+ ]
+}

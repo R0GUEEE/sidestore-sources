@@ -1,0 +1,44 @@
+{
+ "name": "GrowIt",
+ "identifier": "dev.perapp.com-grow-my-food",
+ "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for GrowIt (com.grow.my.food). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.grow.my.food",
+   "name": "GrowIt",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grow.my.food.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.34",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-09-2025/GrowIt_1.34_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 54249361
+    },
+    {
+     "version": "1.36",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-01-2026/GrowIt_1.36_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 53458566
+    },
+    {
+     "version": "1.33",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-08-2025/GrowIt_1.33_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 51393749
+    }
+   ]
+  }
+ ]
+}

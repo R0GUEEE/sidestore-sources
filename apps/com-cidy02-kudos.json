@@ -1,0 +1,42 @@
+{
+ "name": "Kudos",
+ "identifier": "dev.perapp.com-cidy02-kudos",
+ "subtitle": "Open-source, privacy-aware AO3 reader for iPhone, iPad, and Mac: search, download EPUBs for offline reading, and manage ",
+ "description": "Single-app source for Kudos (com.cidy02.Kudos). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d2343a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.cidy02.Kudos.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cidy02.Kudos",
+   "name": "Kudos",
+   "developerName": "cidy02",
+   "subtitle": "Open-source, privacy-aware AO3 reader for iPhone, iPad, and Mac: search, download EPUBs for offline reading, and manage your library",
+   "localizedDescription": "What Kudos does:\n\nKudos gives you a dedicated Apple-native experience for AO3: search and browse works, download EPUBs to read offline with customizable themes and typography, organize a local library with bookmarks, tags, and history, and optionally gate mature content behind Face ID. Library data can be backed up or synced via a portable .kudosbackup package.\n\nPlatforms and availability:\n\nThere is no App Store or TestFlight distribution published from this repository for Apple platforms. Use the latest source on main and build with Xcode (see Build from source).\n\nMinimum OS versions follow the Xcode project deployment targets (currently iOS/iPadOS 26.5 and macOS 26.5 for the app target).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.cidy02.Kudos.png",
+   "tintColor": "#d2343a",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/cidy02/kudos-ao3-reader@main/docs/assets/screenshot-library.png",
+    "https://cdn.jsdelivr.net/gh/cidy02/kudos-ao3-reader@main/docs/assets/screenshot-work-detail.png",
+    "https://cdn.jsdelivr.net/gh/cidy02/kudos-ao3-reader@main/docs/assets/screenshot-reader.png",
+    "https://cdn.jsdelivr.net/gh/cidy02/kudos-ao3-reader@main/docs/assets/screenshot-filters.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-16T05:02:16Z",
+     "localizedDescription": "Unsigned build of claude/polish-loop at c3eb0bc.\n\nThis IPA is not signed and will not install as-is. Sign it with AltStore, Sideloadly or SideStore using your own certificate.\n\nNothing in this repository carries an Apple DEVELOPMENT_TEAM — that is a deliberate rule (see AGENTS.md), so there is no signed build to hand out.\n\nThis tag is rolling: the next successful build of this branch replaces it. For an older commit, take the .ipa artifact from that run of the workflow.\n\nBuilt from c3eb0bc87958d4b825fa33cb4fd1a31f1250864f.",
+     "downloadURL": "https://github.com/cidy02/kudos-ao3-reader/releases/download/build-claude-polish-loop/Kudos-c3eb0bc.ipa",
+     "size": 49483973
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Scan another device's pairing code to trust its deletions.",
+     "NSFaceIDUsageDescription": "Unlock to reveal hidden mature works."
+    }
+   }
+  }
+ ]
+}

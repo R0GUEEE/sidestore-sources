@@ -1,0 +1,37 @@
+{
+ "name": "DataCamp",
+ "identifier": "dev.perapp.com-datacamp",
+ "subtitle": "ipaomtk.com | Introduction DataCamp IPA is a powerful educational iOS application designed to help users learn data scie",
+ "description": "Single-app source for DataCamp (com.datacamp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/DataCamp-Data-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.datacamp",
+   "name": "DataCamp",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction DataCamp IPA is a powerful educational iOS application designed to help users learn data science, artificial intelligence, ",
+   "localizedDescription": "ipaomtk.com | Introduction DataCamp IPA is a powerful educational iOS application designed to help users learn data science, artificial intelligence, ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/DataCamp-Data-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "148.0.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction DataCamp IPA is a powerful educational iOS application designed to help users learn data science, artificial intelligence, ",
+     "downloadURL": "https://file.ipaomtk.com/DataCamp/DataCamp-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "156.0.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: 3BodSyPlus\n\nipaomtk.com | Introduction DataCamp IPA is a powerful educational iOS application designed to help users learn data science, artificial intelligence, ",
+     "downloadURL": "https://file.ipaomtk.com/DataCamp/DataCamp-IPAOMTK.COM.ipa",
+     "size": 29984117
+    }
+   ]
+  }
+ ]
+}

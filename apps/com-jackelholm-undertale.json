@@ -1,0 +1,30 @@
+{
+ "name": "Undertale",
+ "identifier": "dev.perapp.com-jackelholm-undertale",
+ "subtitle": "Undertale - IOS Port",
+ "description": "Single-app source for Undertale (com.jackelholm.undertale). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ff0000",
+ "iconURL": "https://cdn.omnidev.org/undertale-Eh.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jackelholm.undertale",
+   "name": "Undertale",
+   "developerName": "Toby Fox & jockeholm",
+   "subtitle": "Undertale - IOS Port",
+   "localizedDescription": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters.\nNow you must find your way out... or stay trapped forever.\n((Healthy Dog's Warning: Game contains imagery that may be harmful to players with photosensitive epilepsy or similar condition.))\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/undertale-Eh.png",
+   "tintColor": "ff0000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "Welcome to UNDERTALE. In this RPG, you control a human who falls underground into the world of monsters.\nNow you must find your way out... or stay trapped forever.\n((Healthy Dog's Warning: Game contains imagery that may be harmful to players with photosensitive epilepsy or similar condition.))\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/UNDERTALE-ej.ipa",
+     "size": 140505088
+    }
+   ]
+  }
+ ]
+}

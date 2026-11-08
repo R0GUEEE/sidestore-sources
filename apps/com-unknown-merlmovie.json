@@ -1,0 +1,30 @@
+{
+ "name": "Merl Movie",
+ "identifier": "dev.perapp.com-unknown-merlmovie",
+ "subtitle": "تایبەت بە سێرکردنی کەناڵە بیانەکان",
+ "description": "Single-app source for Merl Movie (com.unknown.merlmovie). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/MeralMovie.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.merlmovie",
+   "name": "Merl Movie",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەت بە سێرکردنی کەناڵە بیانەکان",
+   "localizedDescription": "تایبەت بە سێرکردنی کەناڵە بیانەکان",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/MeralMovie.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.8.3",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "تایبەت بە سێرکردنی کەناڵە بیانەکان",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/MerlMovie._9.8.3_1737216801.ipa",
+     "size": 27620000
+    }
+   ]
+  }
+ ]
+}

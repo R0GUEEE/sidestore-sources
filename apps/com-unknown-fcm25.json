@@ -1,0 +1,30 @@
+{
+ "name": "FCM25",
+ "identifier": "dev.perapp.com-unknown-fcm25",
+ "subtitle": "پارە بێ سنورە، بۆ کڕین دەست بدە لە Buy دواتر Cancel هەڵبژێرە",
+ "description": "Single-app source for FCM25 (com.unknown.fcm25). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/FCM25.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.fcm25",
+   "name": "FCM25",
+   "developerName": "Karbin-Store",
+   "subtitle": "پارە بێ سنورە، بۆ کڕین دەست بدە لە Buy دواتر Cancel هەڵبژێرە",
+   "localizedDescription": "پارە بێ سنورە، بۆ کڕین دەست بدە لە Buy دواتر Cancel هەڵبژێرە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/FCM25.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "پارە بێ سنورە، بۆ کڕین دەست بدە لە Buy دواتر Cancel هەڵبژێرە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/FCM25.-.RCS_1.1.1.ipa",
+     "size": 221470000
+    }
+   ]
+  }
+ ]
+}

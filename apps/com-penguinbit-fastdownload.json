@@ -1,0 +1,30 @@
+{
+ "name": "fGet",
+ "identifier": "dev.perapp.com-penguinbit-fastdownload",
+ "subtitle": "fGet",
+ "description": "Single-app source for fGet (com.penguinbit.fastdownload). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.penguinbit.fastdownload",
+   "name": "fGet",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/fGet_1.7.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 19838264
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Memrise",
+ "identifier": "dev.perapp.com-unknown-memrise",
+ "subtitle": "بەرنامەیەکی فێربوونی زمان",
+ "description": "Single-app source for Memrise (com.unknown.memrise). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Memrise.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.memrise",
+   "name": "Memrise",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەکی فێربوونی زمان",
+   "localizedDescription": "بەرنامەیەکی فێربوونی زمان",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Memrise.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.28",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "بەرنامەیەکی فێربوونی زمان",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Memrise_2024.10.28.ipa",
+     "size": 135510000
+    },
+    {
+     "version": "2024.10.28",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "بەرنامەیەکی فێربوونی زمان",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Memrise_2024.10.28.ipa",
+     "size": 142165701
+    }
+   ]
+  }
+ ]
+}

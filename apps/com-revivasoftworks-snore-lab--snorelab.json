@@ -1,0 +1,44 @@
+{
+ "name": "SnoreLab",
+ "identifier": "dev.perapp.com-revivasoftworks-snore-lab",
+ "subtitle": "@blatants | SnoreLab : Record Your Snoring  • Bundle ID: com.revivasoftworks.Snore-Lab • Updated to: 6.4.6 • Minimum iOS",
+ "description": "Single-app source for SnoreLab (com.revivasoftworks.Snore-Lab). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11489.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
+   "name": "SnoreLab",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | SnoreLab : Record Your Snoring  • Bundle ID: com.revivasoftworks.Snore-Lab • Updated to: 6.4.6 • Minimum iOS: 17.0 • Patched • Modifier: S",
+   "localizedDescription": "@blatants | SnoreLab : Record Your Snoring  • Bundle ID: com.revivasoftworks.Snore-Lab • Updated to: 6.4.6 • Minimum iOS: 17.0 • Patched • Modifier: S",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11489.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.5.3",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | SnoreLab : Record Your Snoring  Tweak: Satella injected for unlocking subscription  Version: 6.5.3  Patched ✓  @riftysIPAlibrary  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8784-SnoreLab%20:%20Record%20Your%20Snoring-v6.5.3-riftysipas.ipa",
+     "size": 171084844
+    },
+    {
+     "version": "6.5.2",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@blatants | SnoreLab : Record Your Snoring  • Bundle ID: com.revivasoftworks.Snore-Lab • Updated to: 6.5.2 • Minimum iOS: 17.0 • Patched • Modifier: S",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/SnoreLab_6.5.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 174612400
+    },
+    {
+     "version": "6.5.1",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/SnoreLab_6.5.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 174473440
+    }
+   ]
+  }
+ ]
+}

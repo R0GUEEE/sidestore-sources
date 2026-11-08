@@ -1,0 +1,30 @@
+{
+ "name": "DayCircle",
+ "identifier": "dev.perapp.genau-dday",
+ "subtitle": "ipaomtk.com | DayCircle is a dynamic iOS app designed to help users seamlessly manage their daily routines and activitie",
+ "description": "Single-app source for DayCircle (Genau.Dday). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/DayCircle-8211-Day-counter-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "Genau.Dday",
+   "name": "DayCircle",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | DayCircle is a dynamic iOS app designed to help users seamlessly manage their daily routines and activities. With its intuitive interfac",
+   "localizedDescription": "ipaomtk.com | DayCircle is a dynamic iOS app designed to help users seamlessly manage their daily routines and activities. With its intuitive interfac",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/DayCircle-8211-Day-counter-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.06",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | DayCircle is a dynamic iOS app designed to help users seamlessly manage their daily routines and activities. With its intuitive interfac",
+     "downloadURL": "https://file.ipaomtk.com/ipa/DayCircle_-_Day_counter-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

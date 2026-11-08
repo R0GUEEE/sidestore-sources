@@ -1,0 +1,30 @@
+{
+ "name": "MHPuzzle",
+ "identifier": "dev.perapp.jp-co-capcom-mhpuzzle",
+ "subtitle": "ipaomtk.com | Introduction to Monster Hunter Puzzles If you enjoy monster-collecting adventures and love the challenge o",
+ "description": "Single-app source for MHPuzzle (jp.co.capcom.mhpuzzle). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/10/monster-hunter-puzzles-ico-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.co.capcom.mhpuzzle",
+   "name": "MHPuzzle",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction to Monster Hunter Puzzles If you enjoy monster-collecting adventures and love the challenge of puzzle-solving, Monster Hunt",
+   "localizedDescription": "ipaomtk.com | Introduction to Monster Hunter Puzzles If you enjoy monster-collecting adventures and love the challenge of puzzle-solving, Monster Hunt",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/10/monster-hunter-puzzles-ico-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.23.00",
+     "date": "2025-10-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to Monster Hunter Puzzles If you enjoy monster-collecting adventures and love the challenge of puzzle-solving, Monster Hunt",
+     "downloadURL": "https://file.ipaomtk.com/monster-hunter-puzzles-ipa-co/Monster-Hunter-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

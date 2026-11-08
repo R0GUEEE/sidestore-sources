@@ -1,0 +1,44 @@
+{
+ "name": "APTV",
+ "identifier": "dev.perapp.com-kimen-aptvpro",
+ "subtitle": "APTV",
+ "description": "Single-app source for APTV (com.kimen.aptvpro). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/56/03/9a560323-8570-9aef-9d85-57e333a4020d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kimen.aptvpro",
+   "name": "APTV",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAPTV\n\nPro unlocked\n\nminimum OS version 14.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/56/03/9a560323-8570-9aef-9d85-57e333a4020d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.11",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "IPTV streamer that also supports IPv6 to access to China mainland channels. Setup with URLs from GitHub. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/APTVPro/APTVPro-1.2.11.ipa",
+     "size": 33064204
+    },
+    {
+     "version": "1.3.2",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "IPTV streamer that also supports IPv6 to access to China mainland channels. Setup with URLs from GitHub. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/APTVPro/APTVPro-1.3.2.ipa",
+     "size": 35980895
+    },
+    {
+     "version": "9.4.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAPTV\n\nPro unlocked\n\nminimum OS version 14.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/ccde619b-c1a9-4882-8d77-b326aae82b41/APTV_Pro_9.4.6.ipa",
+     "size": 45529084
+    }
+   ]
+  }
+ ]
+}

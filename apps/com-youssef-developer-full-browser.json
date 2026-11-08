@@ -1,0 +1,44 @@
+{
+ "name": "TORVPN",
+ "identifier": "dev.perapp.com-youssef-developer-full-browser",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for TORVPN (com.youssef.developer.Full-Browser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.youssef.developer.Full-Browser",
+   "name": "TORVPN",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.5",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@blatants | TOR Browser: Onion VPN & Orbot  • Bundle ID: com.youssef.developer.Full-Browser • Updated to: 12.5 • Minimum iOS: 15.0 • Patched • Modifie",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/TORVPN_12.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 177690019
+    },
+    {
+     "version": "12.4",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@blatants | TOR Browser: Onion VPN & Orbot  • Bundle ID: com.youssef.developer.Full-Browser • Updated to: 12.4 • Minimum iOS: 15.0 • Patched • Modifie",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/TORVPN_12.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 177524833
+    },
+    {
+     "version": "12.3",
+     "date": "2026-09-16T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/TORVPN_12.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 162921907
+    }
+   ]
+  }
+ ]
+}

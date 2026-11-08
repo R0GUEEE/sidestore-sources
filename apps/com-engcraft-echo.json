@@ -1,0 +1,37 @@
+{
+ "name": "Echo",
+ "identifier": "dev.perapp.com-engcraft-echo",
+ "subtitle": "@Sa1y0miii | Echo - AI Audio & Voice Notes 🧸 Min.iOS: [17.0+] 🧀 App version: [1.1.0] !upd  🪼 App Store: https://apps.app",
+ "description": "Single-app source for Echo (com.engcraft.Echo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10528.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.engcraft.Echo",
+   "name": "Echo",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | Echo - AI Audio & Voice Notes 🧸 Min.iOS: [17.0+] 🧀 App version: [1.1.0] !upd  🪼 App Store: https://apps.apple.com/app/id6738644284 📮 Note",
+   "localizedDescription": "@Sa1y0miii | Echo - AI Audio & Voice Notes 🧸 Min.iOS: [17.0+] 🧀 App version: [1.1.0] !upd  🪼 App Store: https://apps.apple.com/app/id6738644284 📮 Note",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10528.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Echo - AI Audio & Voice Notes 🧸 Min.iOS: [17.0+] 🧀 App version: [1.1.1] !upd  🪼 App Store: https://apps.apple.com/app/id6738644284 📮 Note",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/11755-%E2%80%8E%20Echo_v1.1.1_tg@Sa1y0miii.ipa",
+     "size": 23652848
+    },
+    {
+     "version": "1.1.0",
+     "date": "2026-07-24T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Echo - AI Audio & Voice Notes 🧸 Min.iOS: [17.0+] 🧀 App version: [1.1.0] !upd  🪼 App Store: https://apps.apple.com/app/id6738644284 📮 Note",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/10528-%E2%80%8E%20Echo_v1.1.0_tg@Sa1y0miii.ipa",
+     "size": 32845804
+    }
+   ]
+  }
+ ]
+}

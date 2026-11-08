@@ -1,0 +1,44 @@
+{
+ "name": "VSCOPremium",
+ "identifier": "dev.perapp.co-visualsupply-cam",
+ "subtitle": "VSCOPremium by IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
+ "description": "Single-app source for VSCOPremium (co.visualsupply.cam). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.visualsupply.cam",
+   "name": "VSCOPremium",
+   "developerName": "IPA Fire / binnichtaktiv's iPA Library / Manpreet Singh @thisismanpreets",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/co.visualsupply.cam.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "306.0.0",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/VSCOPremium/VSCOPremium-306.0.0.ipa",
+     "size": 110193844
+    },
+    {
+     "version": "355.0.1",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/VSCOPremium/VSCOPremium-355.0.1.ipa",
+     "size": 117025196
+    },
+    {
+     "version": "359.0.1",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "VSCO with premium features unlocked. Note: Install through TrollStore then reinstall via the AppStore or install it from the App Store then proceed to force install the TrollStore version. This process (might) keep the tweak working and should resolve any download problems.\nLast updated: 07-30-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/VSCOPremium/VSCOPremium-359.0.1.ipa",
+     "size": 119124395
+    }
+   ]
+  }
+ ]
+}

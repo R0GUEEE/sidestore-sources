@@ -1,0 +1,30 @@
+{
+ "name": "AppLockerPlus",
+ "identifier": "dev.perapp.com-xu-applock",
+ "subtitle": "ipaomtk.com | App Lock – Lock Apps IPA Enhances iPhone Privacy Instantly App Lock – Lock Apps IPA is designed for iPhone",
+ "description": "Single-app source for AppLockerPlus (com.xu.applock). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/App-Lock-8211-Lock-Apps-.-IPA-v1.4.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.xu.applock",
+   "name": "AppLockerPlus",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | App Lock – Lock Apps IPA Enhances iPhone Privacy Instantly App Lock – Lock Apps IPA is designed for iPhone users who want stronger contr",
+   "localizedDescription": "ipaomtk.com | App Lock – Lock Apps IPA Enhances iPhone Privacy Instantly App Lock – Lock Apps IPA is designed for iPhone users who want stronger contr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/App-Lock-8211-Lock-Apps-.-IPA-v1.4.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.2",
+     "date": "2026-02-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | App Lock – Lock Apps IPA Enhances iPhone Privacy Instantly App Lock – Lock Apps IPA is designed for iPhone users who want stronger contr",
+     "downloadURL": "https://file.ipaomtk.com/app-lock-lock-apps/App-Lock-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

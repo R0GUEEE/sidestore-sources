@@ -1,0 +1,44 @@
+{
+ "name": "Photomyne",
+ "identifier": "dev.perapp.com-photomyne-photomyneapplite",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for Photomyne (com.photomyne.photomyneapplite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photomyne.photomyneapplite.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.photomyne.photomyneapplite",
+   "name": "Photomyne",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photomyne.photomyneapplite.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "32.2",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-12-2025/Photomyne_32.2_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 125488154
+    },
+    {
+     "version": "32.1",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Photomyne_32.1_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 125923430
+    },
+    {
+     "version": "31.6",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-11-2025/Photomyne_31.6_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 133763040
+    }
+   ]
+  }
+ ]
+}

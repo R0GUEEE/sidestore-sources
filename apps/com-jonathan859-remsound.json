@@ -1,0 +1,48 @@
+{
+ "name": "RemSound",
+ "identifier": "dev.perapp.com-jonathan859-remsound",
+ "subtitle": "AI disclaimer: This project has been written using Claude (Fable 5, Opus 4.8 and",
+ "description": "Single-app source for RemSound (com.jonathan859.remsound). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#5858ff",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jonathan859.remsound.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jonathan859.remsound",
+   "name": "RemSound",
+   "developerName": "jonathans859",
+   "subtitle": "AI disclaimer: This project has been written using Claude (Fable 5, Opus 4.8 and",
+   "localizedDescription": "RemSound for iOS and macOS:\n\nAI disclaimer: This project has been written using Claude (Fable 5, Opus 4.8 and Opus 5.5). Any usage is at your own risk and nothing can be guaranteed. Pull requests and issues are welcome.\n\nA native companion to RemSound for iPhone, iPad and Mac: hear what RemSound computers are sending, and send your own microphone back. Built VoiceOver-first, with low-latency playback and the same end-to-end encryption as the Windows app.\n\nIt speaks the RemSound v3.x wire protocol (header version 1) and the server group protocol (header version 2), and is kept in step with the Windows app — the protocol was last reviewed against RemSound 6.1 and server-v2.16.\n\nFeatures:\n\nAudio.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jonathan859.remsound.png",
+   "tintColor": "#5858ff",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-18T16:14:07Z",
+     "localizedDescription": "This is version 1.0, the first build headed for the public App Store, on iPhone first, with Mac and iPad to follow. Leaving a server is now clean, so you no longer leave a copy of yourself behind that keeps someone else out for a minute. The password box now saves only when you press Return or leave the box, so typing a password no longer drops the people you ticked on a server. The Maximum delay row no longer breaks at large text sizes. On iPad, RemSound now runs as the iPhone version. Please try joining and leaving a server, changing the password, and the delay setting at your largest text size.",
+     "downloadURL": "https://github.com/jonathans859/RemSoundApple/releases/download/v1.0.0/RemSound.ipa",
+     "size": 2363985
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.icloud-container-development-container-identifiers",
+     "com.apple.developer.icloud-container-identifiers",
+     "com.apple.developer.icloud-services",
+     "com.apple.developer.team-identifier",
+     "com.apple.developer.ubiquity-container-identifiers",
+     "com.apple.developer.ubiquity-kvstore-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "RemSound finds RemSound senders on your network and receives their audio over the local network.",
+     "NSMicrophoneUsageDescription": "RemSound streams your microphone, encrypted, to the computers you select — only while “Send microphone” is on."
+    }
+   }
+  }
+ ]
+}

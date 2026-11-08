@@ -1,0 +1,37 @@
+{
+ "name": "Musixmatch",
+ "identifier": "dev.perapp.com-musixmatch-lyrics",
+ "subtitle": "ipaomtk.com | Musixmatch IPA, the go-to iOS lyrics finder app that’s transforming⁤ the ⁤way we experience music. With an",
+ "description": "Single-app source for Musixmatch (com.musixmatch.lyrics). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Musixmatch-Lyrics-Finder-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.musixmatch.lyrics",
+   "name": "Musixmatch",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Musixmatch IPA, the go-to iOS lyrics finder app that’s transforming⁤ the ⁤way we experience music. With an expansive library and an intu",
+   "localizedDescription": "ipaomtk.com | Musixmatch IPA, the go-to iOS lyrics finder app that’s transforming⁤ the ⁤way we experience music. With an expansive library and an intu",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Musixmatch-Lyrics-Finder-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.10.8",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Musixmatch offers the world's largest collection of synchronized song lyrics, complete with multilingual translations for almost all songs. A user req",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MusixmatchPremium/MusixmatchPremium-7.10.8.ipa",
+     "size": 74673060
+    },
+    {
+     "version": "7.12.0",
+     "date": "2025-03-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Musixmatch IPA, the go-to iOS lyrics finder app that’s transforming⁤ the ⁤way we experience music. With an expansive library and an intu",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Musixmatch-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

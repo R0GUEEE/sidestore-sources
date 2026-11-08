@@ -1,0 +1,44 @@
+{
+ "name": "MistLens",
+ "identifier": "dev.perapp.com-latenightking-truefilm",
+ "subtitle": "@Sa1y0miii | MistLens 🧸 Min.iOS: [15.0+] 🧀 App version: [4.7] !upd 🪼 App Store: https://apps.apple.com/ua/app/mistlens/i",
+ "description": "Single-app source for MistLens (com.latenightking.TrueFilm). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10823.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.latenightking.TrueFilm",
+   "name": "MistLens",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | MistLens 🧸 Min.iOS: [15.0+] 🧀 App version: [4.7] !upd 🪼 App Store: https://apps.apple.com/ua/app/mistlens/id6744577017 📮 Notes: Paid app ",
+   "localizedDescription": "@Sa1y0miii | MistLens 🧸 Min.iOS: [15.0+] 🧀 App version: [4.7] !upd 🪼 App Store: https://apps.apple.com/ua/app/mistlens/id6744577017 📮 Notes: Paid app ",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10823.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.16",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MistLens 🧸 Min.iOS: [15.0+] 🧀 App version: [4.16] !upd 🪼 App Store: https://apps.apple.com/ua/app/mistlens/id6744577017 📮 Notes: Paid app",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15463-MistLens_v4.16_tg@Sa1y0miii.ipa",
+     "size": 19745869
+    },
+    {
+     "version": "4.7",
+     "date": "2026-08-03T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MistLens 🧸 Min.iOS: [15.0+] 🧀 App version: [4.7] !upd 🪼 App Store: https://apps.apple.com/ua/app/mistlens/id6744577017 📮 Notes: Paid app ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/10823-MistLens_v4.7_tg@Sa1y0miii.ipa",
+     "size": 17223166
+    },
+    {
+     "version": "2.3",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MistLens_2.3_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 10406199
+    }
+   ]
+  }
+ ]
+}

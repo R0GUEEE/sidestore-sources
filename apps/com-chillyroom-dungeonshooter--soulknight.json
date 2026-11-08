@@ -1,0 +1,30 @@
+{
+ "name": "SoulKnight",
+ "identifier": "dev.perapp.com-chillyroom-dungeonshooter",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for SoulKnight (com.ChillyRoom.DungeonShooter). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Soul-Knight-LOGO-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ChillyRoom.DungeonShooter",
+   "name": "SoulKnight",
+   "developerName": "ipaomtk.com",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Soul Knight on iOS Soul Knight is one of those rare mobile games that feels instantly familiar yet endlessly surprising, and on iPhone it achieves a level of polish that makes it feel closer to a handheld console title than a simple app. From the moment you step into its pixel-art dungeons, the game communicates […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Soul-Knight-LOGO-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.7.1",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Soul Knight on iOS Soul Knight is one of those rare mobile games that feels instantly familiar yet endlessly surprising, and on iPhone…",
+     "downloadURL": "https://file.ipaomtk.com/soul-knight-ipa/Soul-Knight-IPAOMTK.COM.ipa",
+     "size": 837006602
+    }
+   ]
+  }
+ ]
+}

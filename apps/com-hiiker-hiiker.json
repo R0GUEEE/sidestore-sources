@@ -1,0 +1,30 @@
+{
+ "name": "HiiKER",
+ "identifier": "dev.perapp.com-hiiker-hiiker",
+ "subtitle": "HiiKER",
+ "description": "Single-app source for HiiKER (com.hiiker.hiiker). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hiiker.hiiker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hiiker.hiiker",
+   "name": "HiiKER",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hiiker.hiiker.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.1.16",
+     "date": "2025-12-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/HiiKER_26.1.16_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 113909564
+    }
+   ]
+  }
+ ]
+}

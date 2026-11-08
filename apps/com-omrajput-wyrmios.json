@@ -1,0 +1,38 @@
+{
+ "name": "Wyrm",
+ "identifier": "dev.perapp.com-omrajput-wyrmios",
+ "subtitle": "Wyrm for iOS — SwiftUI product surfaces over the original C engine. iOS 15+",
+ "description": "Single-app source for Wyrm (com.omrajput.wyrmios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.omrajput.wyrmios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.omrajput.wyrmios",
+   "name": "Wyrm",
+   "developerName": "disis-om",
+   "subtitle": "Wyrm for iOS — SwiftUI product surfaces over the original C engine. iOS 15+",
+   "localizedDescription": "Status:\n\n• The IPA is unsigned. Players sign and install it themselves with AltStore, SideStore, KSign or ESign. TestFlight and App Store distribution are not set up.\n\nFeatures:\n\n• Native Snakey Rain controller in Loadout: public or personal login, character and compatible skin/tag/accessory editors, 14 modes, live settings, and an arena panel dragged by its bottom handle and fitted to the screen. Character patterns keep palette, colour-wheel and Wyrm bead colours in every preview. Panel text/border and fill colours are adjustable. Settings are shared with Android; credentials and private bot tag codes remain in this phone's Keychain. Device bot spawn and full browser-extension parity remain unverified.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.omrajput.wyrmios.png",
+   "tintColor": "#6058e8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.8",
+     "date": "2026-11-02T23:05:22Z",
+     "localizedDescription": "minor bugs fixes.",
+     "downloadURL": "https://github.com/disis-om/wyrm-ios/releases/download/v2.4.8-build-153/Wyrm-2.4.8-build-153.ipa",
+     "size": 60487211
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Wyrm uses the camera when you take a photo or record a video for a trail.",
+     "NSMicrophoneUsageDescription": "Wyrm records sound with the videos you make for a trail.",
+     "NSPhotoLibraryUsageDescription": "Wyrm shows your photos and videos so you can pick one for a trail."
+    }
+   }
+  }
+ ]
+}

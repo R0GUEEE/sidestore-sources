@@ -1,0 +1,44 @@
+{
+ "name": "Cupola",
+ "identifier": "dev.perapp.com-matthwlabs-cupola",
+ "subtitle": "One app for your self-hosted media stack: Seerr, Radarr, Sonarr, qBittorrent, Jellyfin, Plex, TrueNAS and more. iPhone, ",
+ "description": "Single-app source for Cupola (com.matthwlabs.cupola). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7997d4",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.matthwlabs.cupola.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.matthwlabs.cupola",
+   "name": "Cupola",
+   "developerName": "matthw-labs",
+   "subtitle": "One app for your self-hosted media stack: Seerr, Radarr, Sonarr, qBittorrent, Jellyfin, Plex, TrueNAS and more. iPhone, Android and Mac. No account, no cloud. Formerly Seekarr",
+   "localizedDescription": "Cupola:\n\nA Cupola over your server.\n\nOne native app for your entire self-hosted media stack, and the box it runs on. 17 services. iOS, Android, macOS. No cloud, no account, no middleman. Install · Supported services · Security & privacy.\n\nWhy Cupola:\n\nRunning a media stack means running a dozen web UIs. On a phone, most of them are unusable, and none of them know about each other. Cupola is one app that knows about all of them.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.matthwlabs.cupola.png",
+   "tintColor": "#7997d4",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/matthw-labs/cupola@main/screenshots/home.png",
+    "https://cdn.jsdelivr.net/gh/matthw-labs/cupola@main/screenshots/title.png",
+    "https://cdn.jsdelivr.net/gh/matthw-labs/cupola@main/screenshots/activity.png",
+    "https://cdn.jsdelivr.net/gh/matthw-labs/cupola@main/screenshots/stack.png",
+    "https://cdn.jsdelivr.net/gh/matthw-labs/cupola@main/screenshots/sonarr.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-11-02T15:55:10Z",
+     "localizedDescription": "Cupola is the new name of Seekarr, and 1.0 is a different app. It covers seventeen services where Seekarr covered five: Seerr, Radarr, Sonarr, Lidarr, Readarr, Bazarr, qBittorrent, Transmission, SABnzbd, NZBGet, Prowlarr, Jellyfin, Plex, TrueNAS, Unraid, Dockge and Nginx Proxy Manager. It runs on iPhone, iPad, Android and Mac, and it talks straight to the services you run: there is no Cupola server, no account and no telemetry of ours. On Android, the code scanner is Google's and reports usage to Google (see privacy below).\n\nThis is a beta. Everything below is built, and we run it on our own stacks every day, but it has not met many other people's servers yet. Tell us where it falls short.\n\nComing from Seekarr? Read this first:\n\nCupola is a new app, not an update to Seekarr 0.8.0.\n\n• It installs beside Seekarr. The Android package changed from labs.matthw.seekarr to com.matthwlabs.cupola, and the Apple bundle ids changed too, so no system offers Cupola as an update.\n• It starts empty. Your connections stay in Seekarr. Add your services again in Cupola (same addresses, same API keys), check that each one answers, then uninstall Seekarr. Once one device is set up, Settings → Security → Set up another device copies every connection to the next one.\n• Obtainium: your Seekarr entry may offer Cupola and then refuse it, because the app ID changed. Remove that entry and add this repository as a new app.\n• iPhone and iPad install through TestFlight now. The unsigned .ipa is still here for sideloading, but TestFlight is the way we recommend.\n• The minimums went up: Android 7.0 (Seekarr ran on 6.0), iOS 17, and macOS 12 on an Apple silicon Mac (Seekarr's Mac build also ran on Intel Macs and on macOS 10.15).\n\nThe source, the issues and the history stay in this repository.\n\n• Sideloading the .ipa: you sign it yourself with your sideloading tool. With a free Apple ID the install lasts 7 days and has to be refreshed, and the widgets may stay empty, because they share data through an App Group that a re-signed copy may not get.\n• Android: one APK covers every device. You may need to allow installs from unknown sources for your browser or file manager.\n• Windows and Linux builds are made by GitHub Actions and are not signed, so SmartScreen asks once. We have not run them ourselves: a report either way helps.\n\nWhat is new since 0.8.0:\n\nSeekarr 0.8.0 had five services and four tabs. Almost every screen in Cupola is new, so here it is by area: each line opens.\n\n• Home is the first tab. Its title is the day, and the line under it says how many of your services are answering. Tap that line for the Stack.\n\n• Three more wait in Edit Home: Stack health, Storage (TrueNAS pools and the Unraid array, with any disk in trouble) and a Discover shelf.\n• Edit Home, from the foot of Home or Settings → Home: drag a module or use the arrows, switch one off, or reset the layout. Screen readers get Move up and Move down.\n\n• Set up next names what you have not connected yet and offers the servers your Seerr or Prowlarr already know, filled in.\n• Wide windows lay the modules out in two columns.\n\n• Discover replaces the Search tab. One field searches Seerr, Radarr, Sonarr, Jellyfin and Plex together and folds each title into one row that says where it is: on your server, in Radarr, requested. People get their own section. A source that is slow or down says so, instead of looking like \"no results\".\n• Every way in: Trending (today or this week), Genres, Networks, Studios, People, Decades, Moods and Languages. Each opens a catalog you can switch between movies and series, order by popular, top rated or newest, and narrow by decade, rating or runtime. Hide what I have leaves out what is already on your server.\n• Shelves: The best you're missing, Trending this week, Coming soon, Because you watched (from your Jellyfin or Plex history) and Complete the collection.\n• A calendar of everything your Radarr, Sonarr, Lidarr and Readarr date in the next 30 days, across all your c",
+     "downloadURL": "https://github.com/matthw-labs/cupola/releases/download/v1.0.0-beta.1/cupola-1.0.0-beta.1.ipa",
+     "size": 26587334
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Cupola uses the camera only to read the code another device shows when you copy its connections.",
+     "NSLocalNetworkUsageDescription": "Cupola talks to the services running on your own network: Radarr, Sonarr, Plex, your NAS. Without this, it cannot reach them.",
+     "NSPhotoLibraryUsageDescription": "Cupola opens only the files you choose to add, such as a .torrent file. It never browses your photos."
+    }
+   }
+  }
+ ]
+}

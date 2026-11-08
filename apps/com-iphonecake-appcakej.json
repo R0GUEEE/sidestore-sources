@@ -1,0 +1,30 @@
+{
+ "name": "AppCake",
+ "identifier": "dev.perapp.com-iphonecake-appcakej",
+ "subtitle": "ipaomtk.com | With thousands of free apps and games, AppCake is one of the top alternatives to the official app store. T",
+ "description": "Single-app source for AppCake (com.iphonecake.appcakej). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/appcake-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iphonecake.appcakej",
+   "name": "AppCake",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | With thousands of free apps and games, AppCake is one of the top alternatives to the official app store. This unofficial app store allow",
+   "localizedDescription": "ipaomtk.com | With thousands of free apps and games, AppCake is one of the top alternatives to the official app store. This unofficial app store allow",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/appcake-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.2.2",
+     "date": "2023-03-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | With thousands of free apps and games, AppCake is one of the top alternatives to the official app store. This unofficial app store allow",
+     "downloadURL": "https://file.ipaomtk.com/AppCake/AppCake-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

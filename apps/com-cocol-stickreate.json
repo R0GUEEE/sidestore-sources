@@ -1,0 +1,36 @@
+{
+ "name": "Stickreate",
+ "identifier": "dev.perapp.com-cocol-stickreate",
+ "subtitle": "Create static and animated WhatsApp stickers on iPhone. SwiftUI + Liquid Glass",
+ "description": "Single-app source for Stickreate (com.cocol.stickreate). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3bb8b8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.cocol.stickreate.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cocol.stickreate",
+   "name": "Stickreate",
+   "developerName": "Cocoloco2005Dev",
+   "subtitle": "Create static and animated WhatsApp stickers on iPhone. SwiftUI + Liquid Glass",
+   "localizedDescription": "Stickreate:\n\nA native iPhone app to create static and animated WhatsApp stickers quickly, with automatic background removal. Built with SwiftUI and Apple's Liquid Glass design language (iOS 26).\n\nStickers follow WhatsApp's rules exactly:\n\n• 512 × 512 px, transparent background, no white border.\n• static packs 3–30, ≤ 100 KB each.\n• animated packs 3–30, ≤ 500 KB each, ≤ 10 s total, ≥ 8 ms per frame.\n• never mixing static and animated stickers in one pack.\n• tray icon 96 × 96 PNG, ≤ 50 KB.\n\nBuild:\n\nThe Xcode project is generated, never committed. project.yml is the source of truth.\n\nRequires Xcode 26 (iOS 26 SDK) and a deployment target of iOS 26.0.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.cocol.stickreate.png",
+   "tintColor": "#3bb8b8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.20.4",
+     "date": "2026-10-10T07:04:40Z",
+     "localizedDescription": "• Encode ~5-8x faster: the animated-WebP ladder no longer burns ~24 encodes per clip (a 9s cut clip went from ~174s to ~25s) + low libwebp method.\n• Video frame extraction is now batched/concurrent (was sequential, ~9s).\n• Settings option: 'Expand cut-out to fill the sticker' (on/off).\n• In-app Language picker (System / English / Espanol) + fully localized strings (en/es). Note: applies on reopen (iOS bundle constraint); iOS also offers per-app language in system Settings.",
+     "downloadURL": "https://github.com/Cocoloco2005Dev/Stickreate/releases/download/v0.20.4/Stickreate-unsigned.ipa",
+     "size": 2627935
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Take a photo to turn it into a sticker."
+    }
+   }
+  }
+ ]
+}

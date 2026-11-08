@@ -1,0 +1,44 @@
+{
+ "name": "Luminar",
+ "identifier": "dev.perapp.com-skylum-luminaripad",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Luminar (com.skylum.luminaripad). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.skylum.luminaripad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skylum.luminaripad",
+   "name": "Luminar",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.skylum.luminaripad.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.1",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@blatants | Luminar: Photo Editor&Enhancer  • Bundle ID: com.skylum.luminaripad • Updated to: 4.5.1 • Minimum iOS: 17.0 • Patched • Modifier: Subscrip",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Luminar_4.5.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 572308581
+    },
+    {
+     "version": "4.4.3",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "@blatants | Luminar: Photo Editor&Enhancer  • Bundle ID: com.skylum.luminaripad • Updated to: 4.4.3 • Minimum iOS: 17.0 • Patched • Modifier: Subscrip",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Luminar_4.4.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 557338864
+    },
+    {
+     "version": "4.4.2",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "@blatants | Luminar: Photo Editor Pro  • Bundle ID: com.skylum.luminaripad • Updated to: 4.4.2 • Minimum iOS: 17.0 • Patched • Modifier: Subscription ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Luminar_4.4.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 557419267
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Speak4Me",
+ "identifier": "dev.perapp.com-yadux-speak4me",
+ "subtitle": "Speak4Me",
+ "description": "Single-app source for Speak4Me (com.yadux.Speak4Me). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yadux.Speak4Me",
+   "name": "Speak4Me",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.3.2",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2392",
+     "size": 96208687
+    },
+    {
+     "version": "6.2.3",
+     "date": "2025-12-20T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/Speak4Me_6.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 85664461
+    },
+    {
+     "version": "6.0.7",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Speak4Me Text to Speech Reader\n\nTweak: Pro Unlocked\n\nVersion: 6.0.7\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/908968d1-a0bd-44b4-8503-22bc1d22e17c/Speak4Me_Text_to_Speech_Reader-v6.0.7-riftysipas.ipa",
+     "size": 36668174
+    }
+   ]
+  }
+ ]
+}

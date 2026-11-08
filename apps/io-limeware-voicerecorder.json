@@ -1,0 +1,37 @@
+{
+ "name": "Voxly",
+ "identifier": "dev.perapp.io-limeware-voicerecorder",
+ "subtitle": "@Sa1y0miii | Voxly: Voice Recorder & Memos 🧸 Min.iOS: [15.0+] 🧀 App version: [5.5.1] !upd  🪼 App Store: https://apps.app",
+ "description": "Single-app source for Voxly (io.limeware.voicerecorder). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/14283.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.limeware.voicerecorder",
+   "name": "Voxly",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | Voxly: Voice Recorder & Memos 🧸 Min.iOS: [15.0+] 🧀 App version: [5.5.1] !upd  🪼 App Store: https://apps.apple.com/app/id6471923808 📮 Note",
+   "localizedDescription": "@Sa1y0miii | Voxly: Voice Recorder & Memos 🧸 Min.iOS: [15.0+] 🧀 App version: [5.5.1] !upd  🪼 App Store: https://apps.apple.com/app/id6471923808 📮 Note\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/14283.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6.0",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Voxly: Voice Recorder & Memos 🧸 Min.iOS: [15.0+] 🧀 App version: [5.6.0] !upd  🪼 App Store: https://apps.apple.com/app/id6471923808 📮 Note",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15016-%E2%80%8E%20Voxly_v5.6.0_tg@Sa1y0miii.ipa",
+     "size": 21864469
+    },
+    {
+     "version": "5.5.1",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Voxly: Voice Recorder & Memos 🧸 Min.iOS: [15.0+] 🧀 App version: [5.5.1] !upd  🪼 App Store: https://apps.apple.com/app/id6471923808 📮 Note",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14283-%E2%80%8E%20Voxly_v5.5.1_tg@Sa1y0miii.ipa",
+     "size": 22055572
+    }
+   ]
+  }
+ ]
+}

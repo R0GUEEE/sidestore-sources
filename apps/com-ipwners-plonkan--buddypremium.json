@@ -1,0 +1,44 @@
+{
+ "name": "BuddyPremium",
+ "identifier": "dev.perapp.com-ipwners-plonkan",
+ "subtitle": "BuddyPremium by Lãng Khách🇻🇳",
+ "description": "Single-app source for BuddyPremium (com.iPwners.Plonkan). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.iPwners.Plonkan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iPwners.Plonkan",
+   "name": "BuddyPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.iPwners.Plonkan.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.40",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "App that helps set up a budget and keep track of expenses.\nLast updated: 07-12-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BuddyPremium/BuddyPremium-11.40.ipa",
+     "size": 61974006
+    },
+    {
+     "version": "11.48",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "App that helps set up a budget and keep track of expenses.\nLast updated: 07-12-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BuddyPremium/BuddyPremium-11.48.ipa",
+     "size": 62616712
+    },
+    {
+     "version": "12.3",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "App that helps set up a budget and keep track of expenses.\nLast updated: 07-12-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BuddyPremium/BuddyPremium-12.3.ipa",
+     "size": 62843443
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "FB",
+ "identifier": "dev.perapp.com-vgfit-fitnessvip",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for FB (com.vgfit.fitnessvip). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vgfit.fitnessvip",
+   "name": "FB",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vgfit.fitnessvip.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.13",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-12-2025/FB_1.10.13_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 22897377
+    },
+    {
+     "version": "1.11.0",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-01-2026/FB_1.11.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 22935482
+    }
+   ]
+  }
+ ]
+}

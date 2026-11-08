@@ -1,0 +1,30 @@
+{
+ "name": "ScreenshotX1.0",
+ "identifier": "dev.perapp.cypwn-screenshotx1-0-1-0",
+ "subtitle": "ScreenshotX by junesiphone",
+ "description": "Single-app source for ScreenshotX1.0 (cypwn.ScreenshotX1.0.1.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/ScreenshotX1.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.ScreenshotX1.0.1.0",
+   "name": "ScreenshotX1.0",
+   "developerName": "ScreenshotX1.0 x CyPwn",
+   "subtitle": "ScreenshotX by junesiphone",
+   "localizedDescription": "ScreenshotX by junesiphone",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/ScreenshotX1.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "ScreenshotX by junesiphone",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/ScreenshotX1.0.ipa",
+     "size": 36406558
+    }
+   ]
+  }
+ ]
+}

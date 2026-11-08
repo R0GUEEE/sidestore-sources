@@ -1,0 +1,37 @@
+{
+ "name": "ControlConfig",
+ "identifier": "dev.perapp.com-f1shy-dev-controlconfig",
+ "subtitle": "Tool to change functionality of Control Center tiles. WIP.",
+ "description": "Single-app source for ControlConfig (com.f1shy-dev.ControlConfig). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/BomberFish/ControlConfig/b1c19aa036cf87cf123439a98be0c01c1e3d6c39/ControlConfig/Assets.xcassets/AppIcon.appiconset/Icon%20Template%20512pt.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.f1shy-dev.ControlConfig",
+   "name": "ControlConfig",
+   "developerName": "BomberFish",
+   "subtitle": "Tool to change functionality of Control Center tiles. WIP.",
+   "localizedDescription": "Tool to change functionality of Control Center tiles. WIP.",
+   "iconURL": "https://raw.githubusercontent.com/BomberFish/ControlConfig/b1c19aa036cf87cf123439a98be0c01c1e3d6c39/ControlConfig/Assets.xcassets/AppIcon.appiconset/Icon%20Template%20512pt.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.0-alpha",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Tool to change functionality of Control Center tiles. WIP.",
+     "downloadURL": "https://github.com/BomberFish/ControlConfig/releases/download/0.1.0/ControlConfig-0.1.0-alpha.ipa",
+     "size": 7557647
+    },
+    {
+     "version": "0.1.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Tool to change functionality of Control Center tiles. WIP.",
+     "downloadURL": "https://github.com/BomberFish/ControlConfig/releases/download/0.1.0/ControlConfig-0.1.0-alpha.ipa",
+     "size": 7557647
+    }
+   ]
+  }
+ ]
+}

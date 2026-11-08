@@ -1,0 +1,30 @@
+{
+ "name": "PuppetMaster",
+ "identifier": "dev.perapp.com-shmonster-puppetmaster",
+ "subtitle": "ipaomtk.com | The PuppetMaster IPA v4.5 for iOS is an innovative tool designed to enhance creativity and streamline the ",
+ "description": "Single-app source for PuppetMaster (com.shmonster.puppetmaster). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/PuppetMaster-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shmonster.puppetmaster",
+   "name": "PuppetMaster",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The PuppetMaster IPA v4.5 for iOS is an innovative tool designed to enhance creativity and streamline the process of photo and video man",
+   "localizedDescription": "ipaomtk.com | The PuppetMaster IPA v4.5 for iOS is an innovative tool designed to enhance creativity and streamline the process of photo and video man",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/PuppetMaster-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.58",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The PuppetMaster IPA v4.5 for iOS is an innovative tool designed to enhance creativity and streamline the process of photo and video man",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PuppetMaster-v4.5-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "ObjectRemoval",
+ "identifier": "dev.perapp.com-skysoft-removalfree",
+ "subtitle": "Tweaks: ObjectRemovalHI",
+ "description": "Single-app source for ObjectRemoval (com.skysoft.removalfree). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skysoft.removalfree",
+   "name": "ObjectRemoval",
+   "developerName": "FayezUpdates",
+   "subtitle": "Tweaks: ObjectRemovalHI",
+   "localizedDescription": "Tweaks: ObjectRemovalHI\n\nInjected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be working, just ignore the premium sections.\nLast updated: 07-18-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.skysoft.removalfree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.4",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: ObjectRemovalHI\n\nInjected with Premium. App description here. App lets you remove objects from images using AI (more or less working). All features should be…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ObjectRemoval/ObjectRemoval-4.5.4.ipa",
+     "size": 272459137
+    }
+   ]
+  }
+ ]
+}

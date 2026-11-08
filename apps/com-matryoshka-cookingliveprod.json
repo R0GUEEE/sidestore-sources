@@ -1,0 +1,30 @@
+{
+ "name": "CookingLive",
+ "identifier": "dev.perapp.com-matryoshka-cookingliveprod",
+ "subtitle": "ipaomtk.com | What is Cooking Live: Restaurant Diary IPA? Cooking Live: Restaurant Diary IPA is the iOS installation pac",
+ "description": "Single-app source for CookingLive (com.matryoshka.cookingliveprod). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Cooking-Live-Restaurant-diary-IPA-v0.42.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.matryoshka.cookingliveprod",
+   "name": "CookingLive",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Cooking Live: Restaurant Diary IPA? Cooking Live: Restaurant Diary IPA is the iOS installation package of the popular restaurant",
+   "localizedDescription": "ipaomtk.com | What is Cooking Live: Restaurant Diary IPA? Cooking Live: Restaurant Diary IPA is the iOS installation package of the popular restaurant",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Cooking-Live-Restaurant-diary-IPA-v0.42.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.42.0",
+     "date": "2026-03-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Cooking Live: Restaurant Diary IPA? Cooking Live: Restaurant Diary IPA is the iOS installation package of the popular restaurant",
+     "downloadURL": "https://file.ipaomtk.com/cooking-live-restaurant-diary/cooking-live-restaurant-diary-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

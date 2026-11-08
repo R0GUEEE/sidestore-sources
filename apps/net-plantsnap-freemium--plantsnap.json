@@ -1,0 +1,44 @@
+{
+ "name": "PlantSnap",
+ "identifier": "dev.perapp.net-plantsnap-freemium",
+ "subtitle": "@riftysIPAlibrary | PlantSnap - Plant Identifier  Tweak: Subscription Unlocked  Version: 8.0.0  Patched ✓  @riftysIPAlib",
+ "description": "Single-app source for PlantSnap (net.plantsnap.freemium). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7330.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.plantsnap.freemium",
+   "name": "PlantSnap",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | PlantSnap - Plant Identifier  Tweak: Subscription Unlocked  Version: 8.0.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+   "localizedDescription": "@riftysIPAlibrary | PlantSnap - Plant Identifier  Tweak: Subscription Unlocked  Version: 8.0.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7330.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0.5",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | PlantSnap - Plant Identifier  Tweak: Subscription Unlocked  Version: 8.0.5  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8459-PlantSnap%20-%20Plant%20Identifier-v8.0.5-riftysipas.ipa",
+     "size": 89898862
+    },
+    {
+     "version": "8.0.4",
+     "date": "2026-10-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | PlantSnap - Plant Identifier  Tweak: Subscription Unlocked  Version: 8.0.4  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8249-PlantSnap%20-%20Plant%20Identifier-v8.0.4-riftysipas.ipa",
+     "size": 81335508
+    },
+    {
+     "version": "8.0.3",
+     "date": "2026-09-17T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | PlantSnap - Plant Identifier  Tweak: Subscription Unlocked  Version: 8.0.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7932-PlantSnap%20-%20Plant%20Identifier-v8.0.3-riftysipas.ipa",
+     "size": 81595776
+    }
+   ]
+  }
+ ]
+}

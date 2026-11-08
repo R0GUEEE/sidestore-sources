@@ -1,0 +1,37 @@
+{
+ "name": "Tomb of the Mask",
+ "identifier": "dev.perapp.com-happymagenta-fromcore",
+ "subtitle": "@riftysIPAlibrary | Tomb of the Mask: Pixel Maze  Tweak: Unlimited Coins,  - Unlimited Energy,  - Unlimited Skip Tickets",
+ "description": "Single-app source for Tomb of the Mask (com.happymagenta.fromcore). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8019.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.happymagenta.fromcore",
+   "name": "Tomb of the Mask",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Tomb of the Mask: Pixel Maze  Tweak: Unlimited Coins,  - Unlimited Energy,  - Unlimited Skip Tickets,  - No Ads,  - All Masks Unlo",
+   "localizedDescription": "@riftysIPAlibrary | Tomb of the Mask: Pixel Maze  Tweak: Unlimited Coins,  - Unlimited Energy,  - Unlimited Skip Tickets,  - No Ads,  - All Masks Unlo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8019.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.26.1",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Tomb of the Mask: Pixel Maze  Tweak: Unlimited Coins,  - Unlimited Energy,  - Unlimited Skip Tickets,  - No Ads,  - All Masks Unlo",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8547-Tomb%20of%20the%20Mask:%20Pixel%20Maze-v1.26.1-riftysipas.ipa",
+     "size": 79904121
+    },
+    {
+     "version": "1.26.0",
+     "date": "2026-09-22T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Tomb of the Mask: Pixel Maze  Tweak: Unlimited Coins,  - Unlimited Energy,  - Unlimited Skip Tickets,  - No Ads,  - All Masks Unlo",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8019-Tomb%20of%20the%20Mask:%20Pixel%20Maze-v1.26.0-riftysipas.ipa",
+     "size": 79756823
+    }
+   ]
+  }
+ ]
+}

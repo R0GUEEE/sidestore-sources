@@ -1,0 +1,44 @@
+{
+ "name": "Mornye",
+ "identifier": "dev.perapp.com-zarz-mornye",
+ "subtitle": "scholars lounge | Mornye (SpotiFLAC Mobile rebranded) Version: 5.2.1 Bundle ID: com.zarz.mornye App by mornyeapp  Mobile",
+ "description": "Single-app source for Mornye (com.zarz.mornye). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/80794.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zarz.mornye",
+   "name": "Mornye",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | Mornye (SpotiFLAC Mobile rebranded) Version: 5.2.1 Bundle ID: com.zarz.mornye App by mornyeapp  Mobile music utility built with Flut",
+   "localizedDescription": "scholars lounge | Mornye (SpotiFLAC Mobile rebranded) Version: 5.2.1 Bundle ID: com.zarz.mornye App by mornyeapp  Mobile music utility built with Flut\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/80794.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.3.1",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "@ipavault | Mornye 5.3.1 (SpotiFLAC)  Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.  Instructions: 1.) Downl",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1213-Mornye%205.3.1.ipa",
+     "size": 39027651
+    },
+    {
+     "version": "5.3.0",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "Mornye is a Flutter and Rust music app with a full-screen player, hi-res and bit-perfect output, synced word-by-word lyrics, and installable extension",
+     "downloadURL": "https://github.com/mornyeapp/Mornye/releases/download/v5.3.0/Mornye-v5.3.0-ios-unsigned.ipa",
+     "size": 37486511
+    },
+    {
+     "version": "5.2.6",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "scholars lounge | Mornye (SpotiFLAC Mobile rebranded) Version: 5.2.6 Bundle ID: com.zarz.mornye App by mornyeapp  Mobile music utility built with Flut",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/81335-Mornye-v5.2.6-ios-unsigned.ipa",
+     "size": 35645397
+    }
+   ]
+  }
+ ]
+}

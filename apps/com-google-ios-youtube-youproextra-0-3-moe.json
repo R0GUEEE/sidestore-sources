@@ -1,0 +1,44 @@
+{
+ "name": "YouPro + Bonus Tweaks (0.3 - Moe)",
+ "identifier": "dev.perapp.com-google-ios-youtube-youproextra-0-3-moe",
+ "subtitle": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFix",
+ "description": "Single-app source for YouPro + Bonus Tweaks (0.3 - Moe) (com.google.ios.youtube.youproextra.0.3.moe). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youproextra.0.3.moe",
+   "name": "YouPro + Bonus Tweaks (0.3 - Moe)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr",
+   "localizedDescription": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: YouLoop, YouPro, YTClassicVideoQuality, YouMute, YTVideoOverlay, YTABConfig, YouQuality, YouChooseQuality, YTUHD, DontEatMyContent, iSponsorBlock, YouGroupSettings +3\n\nThis is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.44.4Moe-YouPro0.3Patched.ipa",
+     "size": 143051730
+    },
+    {
+     "version": "21.43.5",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.43.5Moe-YouPro0.3Patched.ipa",
+     "size": 141860330
+    },
+    {
+     "version": "21.41.5",
+     "date": "2026-10-16T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.41.5Moe-YouPro0.3Patched.ipa",
+     "size": 158226169
+    }
+   ]
+  }
+ ]
+}

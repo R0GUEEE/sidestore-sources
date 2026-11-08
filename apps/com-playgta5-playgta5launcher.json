@@ -1,0 +1,36 @@
+{
+ "name": "playgta5 Launcher",
+ "identifier": "dev.perapp.com-playgta5-playgta5launcher",
+ "subtitle": "A desktop app for Windows, macOS and Linux that serves local folders, remote HTTP mirrors, and magnet-linked torrents th",
+ "description": "Single-app source for playgta5 Launcher (com.playgta5.playgta5Launcher). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2c8836",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.playgta5.playgta5Launcher.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playgta5.playgta5Launcher",
+   "name": "playgta5 Launcher",
+   "developerName": "dev-gyata",
+   "subtitle": "A desktop app for Windows, macOS and Linux that serves local folders, remote HTTP mirrors, and magnet-linked torrents through a localhost game server",
+   "localizedDescription": "playgta5 Launcher:\n\nA desktop app for Windows, macOS and Linux that serves local folders, remote HTTP mirrors, and magnet-linked torrents through a localhost game server. It replaces running serve_local.py / Launch-Local.cmd by hand, and it doesn't need Python.\n\nDisclaimer: This is an unofficial, independent project. It is not affiliated with, endorsed by, or sponsored by any game publisher or developer, and all trademarks belong to their respective owners. The launcher does not include the game engine, game data, or game artwork. You are responsible for only loading files you have the legal right to use.\n\nScreenshots:\n\nLauncher on macOS. The selected local folder is invalid, so Start is disabled until a compatible mirror is chosen.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.playgta5.playgta5Launcher.png",
+   "tintColor": "#2c8836",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/dev-gyata/gta-launcher@main/docs/screenshots/launcher.png"
+   ],
+   "versions": [
+    {
+     "version": "1.4.3",
+     "date": "2026-10-09T22:19:58Z",
+     "localizedDescription": "Changed:\n\n• Graphics chips without BC textures (iPhones and A-chip iPads, most Android phones) no longer stop at the graphics chip has no BC texture support: the game decodes its textures as they load and starts with the low-memory settings. Decoded textures take 4-8 times the graphics memory, so these devices may still run out of memory.\n\n• Decode BC textures on chips without BC support (1.4.3).",
+     "downloadURL": "https://github.com/dev-gyata/gta-launcher/releases/download/v1.4.3/playgta5-launcher-ios-unsigned.ipa",
+     "size": 11469448
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

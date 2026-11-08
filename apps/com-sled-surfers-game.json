@@ -1,0 +1,37 @@
+{
+ "name": "Sled Surfers",
+ "identifier": "dev.perapp.com-sled-surfers-game",
+ "subtitle": "ipaomtk.com | Sled Surfers Overview on iOS Sled Surfers is an adrenaline-pumping endless runner game tailored for iPhone",
+ "description": "Single-app source for Sled Surfers (com.sled.surfers.game). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Sled-Surfers-IPA-v1.8.3-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sled.surfers.game",
+   "name": "Sled Surfers",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sled Surfers Overview on iOS Sled Surfers is an adrenaline-pumping endless runner game tailored for iPhone users who crave high-speed ac",
+   "localizedDescription": "ipaomtk.com | Sled Surfers Overview on iOS Sled Surfers is an adrenaline-pumping endless runner game tailored for iPhone users who crave high-speed ac",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Sled-Surfers-IPA-v1.8.3-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.0",
+     "date": "2026-02-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sled Surfers Overview on iOS Sled Surfers is an adrenaline-pumping endless runner game tailored for iPhone users who crave high-speed ac",
+     "downloadURL": "https://file.ipaomtk.com/sled-surfers/Sled-Surfers-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.13.1",
+     "date": "2026-02-01T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Sled Surfers Overview on iOS Sled Surfers is an adrenaline-pumping endless runner game tailored for iPhone users who crave high-speed ac",
+     "downloadURL": "https://file.ipaomtk.com/sled-surfers/Sled-Surfers-IPAOMTK.COM.ipa",
+     "size": 206586798
+    }
+   ]
+  }
+ ]
+}

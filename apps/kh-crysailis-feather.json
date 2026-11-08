@@ -1,0 +1,30 @@
+{
+ "name": "Feather",
+ "identifier": "dev.perapp.kh-crysailis-feather",
+ "subtitle": "Latest version of Feather. Join my telegram: t.me/riftysIPAlibrary",
+ "description": "Single-app source for Feather (kh.crysailis.feather). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://feather-ios.com/assets/logo-squire.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "kh.crysailis.feather",
+   "name": "Feather",
+   "developerName": "khcrysalis",
+   "subtitle": "Latest version of Feather. Join my telegram: t.me/riftysIPAlibrary",
+   "localizedDescription": "Latest version of Feather. Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://feather-ios.com/assets/logo-squire.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "Latest version of Feather. Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v1.2.0/feather_v1.2.0.ipa",
+     "size": 12100000
+    }
+   ]
+  }
+ ]
+}

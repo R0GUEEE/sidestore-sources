@@ -1,0 +1,44 @@
+{
+ "name": "Scoreboard",
+ "identifier": "dev.perapp.com-edwinchan-scoreboard",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Scoreboard (com.edwinchan.Scoreboard). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.edwinchan.Scoreboard",
+   "name": "Scoreboard",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.2",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-11-2025/Scoreboard_1.8.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 13786419
+    },
+    {
+     "version": "1.8",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-11-2025/Scoreboard_1.8_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 13783005
+    },
+    {
+     "version": "1.7.7",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/13-08-2025/Scoreboard_1.7.7_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 12823184
+    }
+   ]
+  }
+ ]
+}

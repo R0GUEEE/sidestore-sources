@@ -1,0 +1,44 @@
+{
+ "name": "Pedometer",
+ "identifier": "dev.perapp.com-crossforward-pedometer",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Pedometer (com.crossforward.pedometer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.pedometer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crossforward.pedometer",
+   "name": "Pedometer",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.pedometer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.4",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-10-2025/Pedometer_7.0.4_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 82943882
+    },
+    {
+     "version": "7.1.2",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-01-2026/Pedometer_7.1.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 87038444
+    },
+    {
+     "version": "7.1.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/12-12-2025/Pedometer_7.1.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 87372436
+    }
+   ]
+  }
+ ]
+}

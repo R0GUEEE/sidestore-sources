@@ -1,0 +1,30 @@
+{
+ "name": "PostBox-0.8-beta",
+ "identifier": "dev.perapp.cypwn-postbox-0-8-beta-0-8",
+ "subtitle": "An app for browsing tweak repos. Download and save debs on jailed devices to use for injecting and sideloading. This DOE",
+ "description": "Single-app source for PostBox-0.8-beta (cypwn.PostBox-0.8-beta.0.8). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/PostBox-0.8-beta.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.PostBox-0.8-beta.0.8",
+   "name": "PostBox-0.8-beta",
+   "developerName": "PostBox-0.8-beta x CyPwn",
+   "subtitle": "An app for browsing tweak repos. Download and save debs on jailed devices to use for injecting and sideloading. This DOES NOT install tweaks on jailed",
+   "localizedDescription": "An app for browsing tweak repos. Download and save debs on jailed devices to use for injecting and sideloading. This DOES NOT install tweaks on jailed",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/PostBox-0.8-beta.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.8",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "An app for browsing tweak repos. Download and save debs on jailed devices to use for injecting and sideloading. This DOES NOT install tweaks on jailed",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/PostBox-0.8-beta.ipa",
+     "size": 7245660
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "KillMyOTA-1.1",
+ "identifier": "dev.perapp.cypwn-killmyota-1-1-1-1",
+ "subtitle": "OTA Killer for iOS 15.0 - 16.1.2.",
+ "description": "Single-app source for KillMyOTA-1.1 (cypwn.KillMyOTA-1.1.1.1). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/KillMyOTA-1.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.KillMyOTA-1.1.1.1",
+   "name": "KillMyOTA-1.1",
+   "developerName": "KillMyOTA-1.1 x CyPwn",
+   "subtitle": "OTA Killer for iOS 15.0 - 16.1.2.",
+   "localizedDescription": "OTA Killer for iOS 15.0 - 16.1.2.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/KillMyOTA-1.1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "OTA Killer for iOS 15.0 - 16.1.2.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/KillMyOTA-1.1.ipa",
+     "size": 339435
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Borderlands",
+ "identifier": "dev.perapp.com-zynga-borderlandsmobile",
+ "subtitle": "ipaomtk.com | What is Borderlands Mobile IPA? Borderlands Mobile IPA is the iOS installation package of the popular loot",
+ "description": "Single-app source for Borderlands (com.zynga.borderlandsmobile). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Borderlands_mobile-logo-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zynga.borderlandsmobile",
+   "name": "Borderlands",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Borderlands Mobile IPA? Borderlands Mobile IPA is the iOS installation package of the popular looter-shooter franchise adapted f",
+   "localizedDescription": "ipaomtk.com | What is Borderlands Mobile IPA? Borderlands Mobile IPA is the iOS installation package of the popular looter-shooter franchise adapted f",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Borderlands_mobile-logo-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.2",
+     "date": "2026-04-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Borderlands Mobile IPA? Borderlands Mobile IPA is the iOS installation package of the popular looter-shooter franchise adapted f",
+     "downloadURL": "https://file.ipaomtk.com/borderlands-mobile/Borderlands-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

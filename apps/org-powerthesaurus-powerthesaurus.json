@@ -1,0 +1,30 @@
+{
+ "name": "PowerThesaurus",
+ "identifier": "dev.perapp.org-powerthesaurus-powerthesaurus",
+ "subtitle": "PowerThesaurus",
+ "description": "Single-app source for PowerThesaurus (org.powerthesaurus.powerthesaurus). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.powerthesaurus.powerthesaurus",
+   "name": "PowerThesaurus",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.15.2",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/PowerThesaurus_2.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 29907651
+    }
+   ]
+  }
+ ]
+}

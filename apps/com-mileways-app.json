@@ -1,0 +1,44 @@
+{
+ "name": "Mileways",
+ "identifier": "dev.perapp.com-mileways-app",
+ "subtitle": "ipaomtk.com | Track Live Flights – Mileways IPA for iOS – Your Real-Time Flight Companion Track Live Flights – Mileways ",
+ "description": "Single-app source for Mileways (com.mileways.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/10/track-live-flights-mileways-ico-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mileways.app",
+   "name": "Mileways",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Track Live Flights – Mileways IPA for iOS – Your Real-Time Flight Companion Track Live Flights – Mileways IPA for iOS is a professional-",
+   "localizedDescription": "ipaomtk.com | Track Live Flights – Mileways IPA for iOS – Your Real-Time Flight Companion Track Live Flights – Mileways IPA for iOS is a professional-",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/10/track-live-flights-mileways-ico-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.7.7",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Track Live Flights - Mileways  Tweak: Pro Unlocked  Version: 4.7.7  Notes: restart app if subscription isn't unlocked  Patched ✓  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8350-Track%20Live%20Flights%20-%20Mileways-v4.7.7-riftysipas.ipa",
+     "size": 113726282
+    },
+    {
+     "version": "4.7.6",
+     "date": "2026-10-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Track Live Flights - Mileways  Tweak: Pro Unlocked  Version: 4.7.6  Notes: restart app if subscription isn't unlocked  Patched ✓  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8174-Track%20Live%20Flights%20-%20Mileways-v4.7.6-riftysipas.ipa",
+     "size": 113840328
+    },
+    {
+     "version": "4.7.5",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Track Live Flights - Mileways  Tweak: Pro Unlocked  Version: 4.7.5  Notes: restart app if subscription isn't unlocked  Patched ✓  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7670-Track%20Live%20Flights%20-%20Mileways-v4.7.5-riftysipas.ipa",
+     "size": 111429697
+    }
+   ]
+  }
+ ]
+}

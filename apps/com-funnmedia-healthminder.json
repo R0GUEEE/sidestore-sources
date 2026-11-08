@@ -1,0 +1,37 @@
+{
+ "name": "HealthView",
+ "identifier": "dev.perapp.com-funnmedia-healthminder",
+ "subtitle": "@Sa1y0miii | HealthView – Health & Fitness Dashboard 🧸 Min.iOS: [16.0+] 🧀 App version: [4.2.0] !upd  🪼 App Store: https:",
+ "description": "Single-app source for HealthView (com.funnmedia.HealthMinder). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10682.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.funnmedia.HealthMinder",
+   "name": "HealthView",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | HealthView – Health & Fitness Dashboard 🧸 Min.iOS: [16.0+] 🧀 App version: [4.2.0] !upd  🪼 App Store: https://apps.apple.com/us/app/health",
+   "localizedDescription": "@Sa1y0miii | HealthView – Health & Fitness Dashboard 🧸 Min.iOS: [16.0+] 🧀 App version: [4.2.0] !upd  🪼 App Store: https://apps.apple.com/us/app/health",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10682.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.0",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | HealthView – Health & Fitness Dashboard 🧸 Min.iOS: [16.0+] 🧀 App version: [4.3.0] !upd  🪼 App Store: https://apps.apple.com/us/app/health",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13338-%E2%80%8EHealthView_v4.3.0_tg@Sa1y0miii.ipa",
+     "size": 43471217
+    },
+    {
+     "version": "4.2.0",
+     "date": "2026-07-29T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | HealthView – Health & Fitness Dashboard 🧸 Min.iOS: [16.0+] 🧀 App version: [4.2.0] !upd  🪼 App Store: https://apps.apple.com/us/app/health",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/10682-%E2%80%8EHealthView_v4.2.0_tg@Sa1y0miii.ipa",
+     "size": 43478923
+    }
+   ]
+  }
+ ]
+}

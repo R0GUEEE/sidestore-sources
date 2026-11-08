@@ -1,0 +1,44 @@
+{
+ "name": "iScreenVIP",
+ "identifier": "dev.perapp.com-zerone-hidesktop",
+ "subtitle": "iScreenVIP by Crack Hub",
+ "description": "Single-app source for iScreenVIP (com.zerone.hidesktop). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zerone.hidesktop.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zerone.hidesktop",
+   "name": "iScreenVIP",
+   "developerName": "Crack Hub",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zerone.hidesktop.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.9.63",
+     "date": "2024-10-17T00:00:00Z",
+     "localizedDescription": "App with trendy widgets for your lock and home screens, including creative StandBy and interactive options with over 500 choices.\nLast updated: 08-12-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iScreenVIP/iScreenVIP-3.9.63.ipa",
+     "size": 354477142
+    },
+    {
+     "version": "3.9.91",
+     "date": "2024-10-17T00:00:00Z",
+     "localizedDescription": "App with trendy widgets for your lock and home screens, including creative StandBy and interactive options with over 500 choices.\nLast updated: 08-12-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iScreenVIP/iScreenVIP-3.9.91.ipa",
+     "size": 347752608
+    },
+    {
+     "version": "3.9.96",
+     "date": "2024-10-17T00:00:00Z",
+     "localizedDescription": "App with trendy widgets for your lock and home screens, including creative StandBy and interactive options with over 500 choices.\nLast updated: 08-12-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iScreenVIP/iScreenVIP-3.9.96.ipa",
+     "size": 350748322
+    }
+   ]
+  }
+ ]
+}

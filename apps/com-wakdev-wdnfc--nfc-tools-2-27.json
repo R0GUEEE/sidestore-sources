@@ -1,0 +1,32 @@
+{
+ "name": "NFC_Tools_2.27",
+ "identifier": "dev.perapp.com-wakdev-wdnfc",
+ "subtitle": "NFC_Tools_2.27 by NFC_Tools_2.27 x CyPwn",
+ "description": "Single-app source for NFC_Tools_2.27 (com.wakdev.wdnfc). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/NFC_Tools_2.27.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wakdev.wdnfc",
+   "name": "NFC_Tools_2.27",
+   "developerName": "NFC_Tools_2.27 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Free Pro (Satella)",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/NFC_Tools_2.27.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/NFC_Tools_2.27/NFC_Tools_2.27-0.png"
+   ],
+   "versions": [
+    {
+     "version": "2.27",
+     "date": "2023-12-01T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/NFC_Tools_2.27.ipa",
+     "size": 3030384
+    }
+   ]
+  }
+ ]
+}

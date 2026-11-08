@@ -1,0 +1,30 @@
+{
+ "name": "PairedPremium",
+ "identifier": "dev.perapp.io-betterhalf-app",
+ "subtitle": "An app designed for couples with its premium features unlocked. Last updated: 07-16-2024 Status: ✅",
+ "description": "Single-app source for PairedPremium (io.betterhalf.app). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/io.betterhalf.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.betterhalf.app",
+   "name": "PairedPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "An app designed for couples with its premium features unlocked. Last updated: 07-16-2024 Status: ✅",
+   "localizedDescription": "An app designed for couples with its premium features unlocked.\nLast updated: 07-16-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/io.betterhalf.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "An app designed for couples with its premium features unlocked. Last updated: 07-16-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PairedPremium/PairedPremium-2.0.1.ipa",
+     "size": 30743973
+    }
+   ]
+  }
+ ]
+}

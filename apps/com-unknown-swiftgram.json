@@ -1,0 +1,30 @@
+{
+ "name": "Swiftgram",
+ "identifier": "dev.perapp.com-unknown-swiftgram",
+ "subtitle": "مفتوح الميزات",
+ "description": "Single-app source for Swiftgram (com.unknown.swiftgram). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Swiftgram.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.swiftgram",
+   "name": "Swiftgram",
+   "developerName": "Karbin-Store",
+   "subtitle": "مفتوح الميزات",
+   "localizedDescription": "مفتوح الميزات",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Swiftgram.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.5.2",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "مفتوح الميزات",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/Swiftgram_11.5.2_.ipa",
+     "size": 64020000
+    }
+   ]
+  }
+ ]
+}

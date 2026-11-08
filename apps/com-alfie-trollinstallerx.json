@@ -1,0 +1,37 @@
+{
+ "name": "TrollInstallerX",
+ "identifier": "dev.perapp.com-alfie-trollinstallerx",
+ "subtitle": "TrollStore installer for iOS 14.0 to 16.6.1 Last updated: 04-09-2024 Status: ✅",
+ "description": "Single-app source for TrollInstallerX (com.Alfie.TrollInstallerX). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Alfie.TrollInstallerX.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Alfie.TrollInstallerX",
+   "name": "TrollInstallerX",
+   "developerName": "alfiecg24",
+   "subtitle": "TrollStore installer for iOS 14.0 to 16.6.1 Last updated: 04-09-2024 Status: ✅",
+   "localizedDescription": "TrollStore installer for iOS 14.0 to 16.6.1 Last updated: 04-09-2024 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Alfie.TrollInstallerX.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "TrollStore installer for iOS 14.0 to 16.6.1 Last updated: 04-09-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollInstallerX/TrollInstallerX-1.0.2.ipa",
+     "size": 6888282
+    },
+    {
+     "version": "1.0.3",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "TrollStore installer for iOS 14.0 to 16.6.1 Last updated: 04-09-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollInstallerX/TrollInstallerX-1.0.3.ipa",
+     "size": 6889214
+    }
+   ]
+  }
+ ]
+}

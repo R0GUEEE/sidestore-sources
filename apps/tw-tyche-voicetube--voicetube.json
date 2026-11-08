@@ -1,0 +1,37 @@
+{
+ "name": "VoiceTube",
+ "identifier": "dev.perapp.tw-tyche-voicetube",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for VoiceTube (tw.tyche.voicetube). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tw.tyche.voicetube.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tw.tyche.voicetube",
+   "name": "VoiceTube",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tw.tyche.voicetube.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.15.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-08-2025/VoiceTube_4.15.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 172474689
+    },
+    {
+     "version": "4.16.0",
+     "date": "2025-05-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | VoiceTube IPA v4.16.0, The world of ⁣language learning has seen tremendous innovation with mobile technology, and the VoiceTube MOD for ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/VoiceTube_Pro_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

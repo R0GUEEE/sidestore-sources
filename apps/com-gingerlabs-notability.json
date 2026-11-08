@@ -1,0 +1,30 @@
+{
+ "name": "Notability",
+ "identifier": "dev.perapp.com-gingerlabs-notability",
+ "subtitle": "Notability",
+ "description": "Single-app source for Notability (com.gingerlabs.Notability). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gingerlabs.Notability",
+   "name": "Notability",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "16.13.4",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Notability_16.13.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 298638014
+    }
+   ]
+  }
+ ]
+}

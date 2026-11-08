@@ -1,0 +1,30 @@
+{
+ "name": "CarX Rally",
+ "identifier": "dev.perapp.synthetic-carx-rally-495658cf",
+ "subtitle": "CarX Rally by Karbin-Store",
+ "description": "Single-app source for CarX Rally (synthetic.carx-rally.495658cf). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/CarX.Rally.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.carx-rally.495658cf",
+   "name": "CarX Rally",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "✅ Free IAP",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/CarX.Rally.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "27.202",
+     "date": "2025-01-11T00:00:00Z",
+     "localizedDescription": "✅ Free IAP",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-1/CarX.Rally.-.27202.ipa",
+     "size": 587330000
+    }
+   ]
+  }
+ ]
+}

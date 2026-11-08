@@ -1,0 +1,30 @@
+{
+ "name": "BimmerLink (Hacked)",
+ "identifier": "dev.perapp.com-stephangauch-bimmerdash",
+ "subtitle": "BimmerLink (Hacked) by sidelix",
+ "description": "Single-app source for BimmerLink (Hacked) (com.stephangauch.BimmerDash). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a09e7ad1aa27.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stephangauch.BimmerDash",
+   "name": "BimmerLink (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Features:\r\n- Full version unlocked\r\n- CarPlay add-on unlocked",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a09e7ad1aa27.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.5",
+     "date": "2026-05-19T00:00:00Z",
+     "localizedDescription": "Features:\r\n- Full version unlocked\r\n- CarPlay add-on unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2006",
+     "size": 27677087
+    }
+   ]
+  }
+ ]
+}

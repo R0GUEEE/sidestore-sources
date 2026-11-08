@@ -1,0 +1,81 @@
+{
+ "name": "iVanced for YouTube",
+ "identifier": "dev.perapp.com-google-ios-youtube",
+ "subtitle": "A strong suite of improvements to YouTube!",
+ "description": "Single-app source for iVanced for YouTube (com.google.ios.youtube). Converted from quantumsource.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6D00FF",
+ "iconURL": "https://i.imgur.com/ZCtZ5W4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube",
+   "name": "iVanced for YouTube",
+   "developerName": "TherionRO",
+   "subtitle": "A strong suite of improvements to YouTube!",
+   "localizedDescription": "iVanced for YouTube is a modded application for iPhone user with or without jailbreak. iVanced supports adblocking, dislikes, skip sponsors (iSponsorBlock) and many more customizations and features! All of this without charging you anything: no subscriptions, no unlocks.",
+   "iconURL": "https://i.imgur.com/ZCtZ5W4.png",
+   "tintColor": "#6D00FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "19.08.2",
+     "date": "2024-02-27T14:56:49Z",
+     "localizedDescription": "# iVanced 19.08.2\n\niVanced for YouTube 19.08.2 |\r\n\r\nDownload from AppDb : https://appdb.to/app/cydia/1900001075 or download the .ipa file from this release.",
+     "downloadURL": "https://github.com/TherionRO/YouTubeiVanced/releases/download/release19.08.2/iVanced_19.08.2.ipa",
+     "size": 132283385
+    },
+    {
+     "version": "19.06.2",
+     "date": "2024-02-12T17:27:29Z",
+     "localizedDescription": "# iVanced 19.06.2\n\niVanced for YouTube 19.06.2 |\r\n\r\nDownload from AppDb : https://appdb.to/app/cydia/1900001075 or download the .ipa file from this release.",
+     "downloadURL": "https://github.com/TherionRO/YouTubeiVanced/releases/download/release19.06.2/iVanced_19.06.2.ipa",
+     "size": 126381167
+    },
+    {
+     "version": "19.05.5",
+     "date": "2024-02-07T16:16:52Z",
+     "localizedDescription": "# iVanced 19.05.5\n\niVanced for YouTube 19.05.5 |\r\n\r\nDownload from AppDb : https://appdb.to/app/cydia/1900001075 or download the .ipa file from this release.",
+     "downloadURL": "https://github.com/TherionRO/YouTubeiVanced/releases/download/release19.05.5/iVanced_19.05.5.ipa",
+     "size": 127403638
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "AppleMusic",
+      "usageDescription": "This lets you add your own audio files to your videos."
+     },
+     {
+      "name": "BluetoothPeripheral",
+      "usageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices."
+     },
+     {
+      "name": "Camera",
+      "usageDescription": "This lets you create videos using the app."
+     },
+     {
+      "name": "Contacts",
+      "usageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with."
+     },
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV."
+     },
+     {
+      "name": "LocationWhenInUse",
+      "usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
+     },
+     {
+      "name": "Microphone",
+      "usageDescription": "This lets you include audio with your videos and search using your voice."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "This lets you upload media you've already created."
+     }
+    ]
+   }
+  }
+ ]
+}

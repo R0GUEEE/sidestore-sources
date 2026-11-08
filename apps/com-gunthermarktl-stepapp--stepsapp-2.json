@@ -1,0 +1,44 @@
+{
+ "name": "StepsApp",
+ "identifier": "dev.perapp.com-gunthermarktl-stepapp",
+ "subtitle": "StepsApp",
+ "description": "Single-app source for StepsApp (com.gunthermarktl.stepapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gunthermarktl.stepapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gunthermarktl.stepapp",
+   "name": "StepsApp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gunthermarktl.stepapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.12.4",
+     "date": "2026-08-08T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2151",
+     "size": 243317025
+    },
+    {
+     "version": "8.11.1",
+     "date": "2026-07-07T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/StepsApp_8.11.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 230326629
+    },
+    {
+     "version": "8.9.1",
+     "date": "2026-05-29T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-05-2026/StepsApp_8.9.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 217162514
+    }
+   ]
+  }
+ ]
+}

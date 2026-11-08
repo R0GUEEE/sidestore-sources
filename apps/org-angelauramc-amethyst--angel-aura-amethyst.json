@@ -1,0 +1,30 @@
+{
+ "name": "Angel Aura Amethyst",
+ "identifier": "dev.perapp.org-angelauramc-amethyst",
+ "subtitle": "A Minecraft: Java Edition Launcher for iOS based on PojavLauncher.",
+ "description": "Single-app source for Angel Aura Amethyst (org.angelauramc.amethyst). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/Amethyst.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.angelauramc.amethyst",
+   "name": "Angel Aura Amethyst",
+   "developerName": "AngelAuraMC",
+   "subtitle": "A Minecraft: Java Edition Launcher for iOS based on PojavLauncher.",
+   "localizedDescription": "A Minecraft: Java Edition Launcher for iOS based on PojavLauncher.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/Amethyst.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "A Minecraft: Java Edition Launcher for iOS based on PojavLauncher.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/org.angelauramc.amethyst-1.0-ios.ipa",
+     "size": 191972732
+    }
+   ]
+  }
+ ]
+}

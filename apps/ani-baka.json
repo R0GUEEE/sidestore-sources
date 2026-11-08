@@ -1,0 +1,44 @@
+{
+ "name": "AniBaka",
+ "identifier": "dev.perapp.ani-baka",
+ "subtitle": "AniBaka 是一个基于 Flutter 的跨平台番剧聚合与媒体播放客户端，支持多番剧源、弹幕、字幕、离线缓存与本地媒体库，并提供动漫实时超分辨率画质增强。",
+ "description": "Single-app source for AniBaka (ani.baka). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ani.baka",
+   "name": "AniBaka",
+   "developerName": "AniBakaBaka",
+   "subtitle": "AniBaka 是一个基于 Flutter 的跨平台番剧聚合与媒体播放客户端，支持多番剧源、弹幕、字幕、离线缓存与本地媒体库，并提供动漫实时超分辨率画质增强。",
+   "localizedDescription": "AniBaka 是一个基于 Flutter 的跨平台番剧聚合与媒体播放客户端，支持多番剧源、弹幕、字幕、离线缓存与本地媒体库，并提供动漫实时超分辨率画质增强。\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/AniBaka/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.4",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "AniBaka 是一个基于 Flutter 的跨平台番剧聚合与媒体播放客户端，支持多番剧源、弹幕、字幕、离线缓存与本地媒体库，并提供动漫实时超分辨率画质增强。",
+     "downloadURL": "https://github.com/AniBakaBaka/AniBaka/releases/download/5.2.4+1101/baka-5.2.4+1101-ios-unsigned.ipa",
+     "size": 23708307
+    },
+    {
+     "version": "5.2.3",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "AniBaka 是一个基于 Flutter 的跨平台番剧聚合与媒体播放客户端，支持多番剧源、弹幕、字幕、离线缓存与本地媒体库，并提供动漫实时超分辨率画质增强。",
+     "downloadURL": "https://github.com/AniBakaBaka/AniBaka/releases/download/5.2.3+1020/baka-5.2.3+1020-ios-unsigned.ipa",
+     "size": 23775885
+    },
+    {
+     "version": "5.2.2",
+     "date": "2026-10-19T00:00:00Z",
+     "localizedDescription": "AniBaka 是一个基于 Flutter 的跨平台番剧聚合与媒体播放客户端，支持多番剧源、弹幕、字幕、离线缓存与本地媒体库，并提供动漫实时超分辨率画质增强。",
+     "downloadURL": "https://github.com/AniBakaBaka/AniBaka/releases/download/5.2.2+1017/baka-5.2.2+1017-ios-unsigned.ipa",
+     "size": 23777025
+    }
+   ]
+  }
+ ]
+}

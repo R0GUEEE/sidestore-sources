@@ -1,0 +1,30 @@
+{
+ "name": "Uncanny Cat Golf",
+ "identifier": "dev.perapp.con-tdmbest-ucg",
+ "subtitle": "Uncanny Cat Golf",
+ "description": "Single-app source for Uncanny Cat Golf (con.TDMbest.UCG). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "con.TDMbest.UCG",
+   "name": "Uncanny Cat Golf",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nUncanny Cat Golf Updated!\n- mobile port made by fog waves \n- game made by slappyhappy2000(SH2K)\n- updated to include mini games (cvgd did this I just ported this to iOS)\n- forgot\n- UCG’s Itch.io page \n- UCG’s Discord",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nUncanny Cat Golf Updated!\n- mobile port made by fog waves \n- game made by slappyhappy2000(SH2K)\n- updated to include mini games (cvgd did this I just ported this to iOS)\n- forgot\n- UCG’s Itch.io page \n- UCG’s Discord",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/aec1af71-0e15-44e3-ad16-41aa865483db/UCG-TDMbest_d_updated.ipa",
+     "size": 69052733
+    }
+   ]
+  }
+ ]
+}

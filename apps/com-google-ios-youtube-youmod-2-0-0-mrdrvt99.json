@@ -1,0 +1,44 @@
+{
+ "name": "YouMod (2.0.0) + Bonus Tweaks (mrdrvt99)",
+ "identifier": "dev.perapp.com-google-ios-youtube-youmod-2-0-0-mrdrvt99",
+ "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks added by mrdrvt99",
+ "description": "Single-app source for YouMod (2.0.0) + Bonus Tweaks (mrdrvt99) (com.google.ios.youtube.youmod.2.0.0.mrdrvt99). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.mrdrvt99",
+   "name": "YouMod (2.0.0) + Bonus Tweaks (mrdrvt99)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks added by mrdrvt99",
+   "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks added by mrdrvt99\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "Tweaks: DontEatMyContent, Gonerino, YouTubeNativeShare, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, YouChooseQuality, YouMod, YouPiP, YouQuality, YTABConfig +3\n\nThis is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks added by mrdrvt99 Bonus Tweaks include: YouPiP, YTABConfig, Y",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.44.4_2.0.0%5Bmrdrvt99%5D.ipa",
+     "size": 132610892
+    },
+    {
+     "version": "21.43.5",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks added by mrdrvt99 Bonus Tweaks include: YouPiP, YTABConfig, Y",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.43.5_2.0.0%5Bmrdrvt99%5D.ipa",
+     "size": 131824994
+    },
+    {
+     "version": "21.42.4",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks added by mrdrvt99 Bonus Tweaks include: YouPiP, YTABConfig, Y",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.42.4_2.0.0%5Bmrdrvt99%5D.ipa",
+     "size": 130590630
+    }
+   ]
+  }
+ ]
+}

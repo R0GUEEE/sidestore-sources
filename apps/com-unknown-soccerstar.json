@@ -1,0 +1,37 @@
+{
+ "name": "Soccer Star",
+ "identifier": "dev.perapp.com-unknown-soccerstar",
+ "subtitle": "فرۆشگا بە خۆڕایی بەدەست بێنە ✅  کرتە بکە لەسەر کڕین بۆ ڕیکلامەکان ✅  بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+ "description": "Single-app source for Soccer Star (com.unknown.soccerstar). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Soccer.Star.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.soccerstar",
+   "name": "Soccer Star",
+   "developerName": "Karbin-Store",
+   "subtitle": "فرۆشگا بە خۆڕایی بەدەست بێنە ✅  کرتە بکە لەسەر کڕین بۆ ڕیکلامەکان ✅  بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+   "localizedDescription": "فرۆشگا بە خۆڕایی بەدەست بێنە ✅  کرتە بکە لەسەر کڕین بۆ ڕیکلامەکان ✅  بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Soccer.Star.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.95",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "پارە بێ سنورە، بۆ کڕین دەست بدە لە Buy دواتر Cancel هەڵبژێرە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Soccer.Star.-.RCS_0.2.95.ipa",
+     "size": 150330000
+    },
+    {
+     "version": "0.3.2",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "فرۆشگا بە خۆڕایی بەدەست بێنە ✅  کرتە بکە لەسەر کڕین بۆ ڕیکلامەکان ✅  بۆ کڕین دەست بدە لە buy دواتر cancel هەڵبژێرە ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Soccer.Star_0.3.2_.KaraStore.ipa",
+     "size": 153120000
+    }
+   ]
+  }
+ ]
+}

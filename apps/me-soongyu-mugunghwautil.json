@@ -1,0 +1,44 @@
+{
+ "name": "Mugunghwa",
+ "identifier": "dev.perapp.me-soongyu-mugunghwautil",
+ "subtitle": "App/passcode/badge theming for jailed devices via TrollStore Last updated: 10-28-2022 Status: ✅",
+ "description": "Single-app source for Mugunghwa (me.soongyu.mugunghwautil). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.soongyu.mugunghwautil.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.soongyu.mugunghwautil",
+   "name": "Mugunghwa",
+   "developerName": "s8ngyu",
+   "subtitle": "App/passcode/badge theming for jailed devices via TrollStore Last updated: 10-28-2022 Status: ✅",
+   "localizedDescription": "App/passcode/badge theming for jailed devices via TrollStore Last updated: 10-28-2022 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.soongyu.mugunghwautil.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "App/passcode/badge theming for jailed devices via TrollStore Last updated: 10-28-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Mugunghwa.ipa",
+     "size": 3734194
+    },
+    {
+     "version": "3.0.2",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "App/passcode/badge theming for jailed devices via TrollStore Last updated: 10-28-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Mugunghwa-3.0.2.ipa",
+     "size": 3889341
+    },
+    {
+     "version": "2.0.3",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "App/passcode/badge theming for jailed devices via TrollStore Last updated: 10-28-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/Mugunghwa.ipa",
+     "size": 3734194
+    }
+   ]
+  }
+ ]
+}

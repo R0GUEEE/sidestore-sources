@@ -1,0 +1,30 @@
+{
+ "name": "BitChord",
+ "identifier": "dev.perapp.com-music-bitchord",
+ "subtitle": "scholars lounge | BitChord Version: 1.0.1 Bundle ID: com.music.bitchord Starts on the first note, with lyrics that light",
+ "description": "Single-app source for BitChord (com.music.bitchord). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84158.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.music.bitchord",
+   "name": "BitChord",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | BitChord Version: 1.0.1 Bundle ID: com.music.bitchord Starts on the first note, with lyrics that light up as they’re sung…",
+   "localizedDescription": "scholars lounge | BitChord\nVersion: 1.0.1\nBundle ID: com.music.bitchord\n\nStarts on the first note, with lyrics that light up as they’re sung, Lossless and Dolby Atmos where available, and music that keeps playing with no signal.\nBitChord iOS is hero154’s own fork of BitChord for Android, rebuilt for iPhone and iPad\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84158.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "scholars lounge | BitChord Version: 1.0.1 Bundle ID: com.music.bitchord Starts on the first note, with lyrics that light up as they’re sung…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84158-BitChord-1.0.1-4.ipa",
+     "size": 31316751
+    }
+   ]
+  }
+ ]
+}

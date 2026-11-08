@@ -1,0 +1,36 @@
+{
+ "name": "Nuvio",
+ "identifier": "dev.perapp.com-nuvio-media-nuvio",
+ "subtitle": "Official Nuvio Mobile Repository",
+ "description": "Single-app source for Nuvio (com.nuvio.media.nuvio). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#696bd7",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nuvio.media.nuvio.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nuvio.media.nuvio",
+   "name": "Nuvio",
+   "developerName": "NuvioMedia",
+   "subtitle": "Official Nuvio Mobile Repository",
+   "localizedDescription": "Get Nuvio Mobile:\n\n• Android on Google Play.\n• iOS via AltStore or SideStore: add this source URL in the app's Sources section, then install Nuvio.\n\nAndroid:\n\nAndroid development requires Android Studio and the Android SDK.\n\niOS:\n\niOS development requires macOS and Xcode.\n\nThe shared app is built with Kotlin Multiplatform and Compose Multiplatform.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nuvio.media.nuvio.png",
+   "tintColor": "#696bd7",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.6.10",
+     "date": "2026-11-08T08:36:48Z",
+     "localizedDescription": "• c1dfd989 fix(player): start playback service as a normal service first (NUVIO-MOBILE-D9 NUVIO-MOBILE-9E NUVIO-MOBILE-9M NUVIO-MOBILE-PC) @tapframe.\n• 6ad2d9ba fix(player): cap buffer start times at the min buffer (NUVIO-MOBILE-1VH) @tapframe.\n• 81dc761e fix(player): guard caption setting reads (NUVIO-MOBILE-25M) @tapframe.\n• d534d14e fix(network): treat SSL setup errors as failed requests (NUVIO-MOBILE-254 NUVIO-MOBILE-3N) @tapframe.\n• 8172e682 fix(watched): copy unsynced keys before saving (NUVIO-MOBILE-260) @tapframe.\n• 82ca7d11 fix(player): reset addon subtitles only when the source changes @tapframe.",
+     "downloadURL": "https://github.com/NuvioMedia/NuvioMobile/releases/download/0.6.10-beta/nuvio-0.6.10-full-release.ipa",
+     "size": 69752091
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Nuvio connects to media servers on your local network."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Gallery Cleaner",
+ "identifier": "dev.perapp.com-app-gallerycleaner",
+ "subtitle": "ipaomtk.com | Gallery Cleaner : Swipe Delete on iOS Gallery Cleaner : Swipe Delete on iOS is built for users who struggl",
+ "description": "Single-app source for Gallery Cleaner (com.app.gallerycleaner). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Gallery-Cleaner-Swipe-Delete-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.app.gallerycleaner",
+   "name": "Gallery Cleaner",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Gallery Cleaner : Swipe Delete on iOS Gallery Cleaner : Swipe Delete on iOS is built for users who struggle with overloaded photo…",
+   "localizedDescription": "ipaomtk.com | Gallery Cleaner : Swipe Delete on iOS Gallery Cleaner : Swipe Delete on iOS is built for users who struggle with overloaded photo libraries and limited storage space on their iPhones. Instead of manually selecting and deleting photos one by one, the app introduces a faster and more intuitive way to review images. From the […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Gallery-Cleaner-Swipe-Delete-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.6",
+     "date": "2026-01-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Gallery Cleaner : Swipe Delete on iOS Gallery Cleaner : Swipe Delete on iOS is built for users who struggle with overloaded photo…",
+     "downloadURL": "https://file.ipaomtk.com/gallery-cleaner-swipe-delete/Gallery-Cleaner-IPAOMTK.COM.ipa",
+     "size": 5079190
+    }
+   ]
+  }
+ ]
+}

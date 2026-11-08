@@ -1,0 +1,30 @@
+{
+ "name": "SimSimi",
+ "identifier": "dev.perapp.com-ismaker-simsimi",
+ "subtitle": "ipaomtk.com | SimSimi is an innovative and revolutionary artificially intelligent chatbot that provides its users with i",
+ "description": "Single-app source for SimSimi (com.ismaker.simsimi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/simsimi-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ismaker.simsimi",
+   "name": "SimSimi",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | SimSimi is an innovative and revolutionary artificially intelligent chatbot that provides its users with intelligent conversations. SimS",
+   "localizedDescription": "ipaomtk.com | SimSimi is an innovative and revolutionary artificially intelligent chatbot that provides its users with intelligent conversations. SimS",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/simsimi-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.5.3",
+     "date": "2023-05-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | SimSimi is an innovative and revolutionary artificially intelligent chatbot that provides its users with intelligent conversations. SimS",
+     "downloadURL": "https://file.ipaomtk.com/ipa/SimSimi.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

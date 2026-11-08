@@ -1,0 +1,44 @@
+{
+ "name": "FacetunePro",
+ "identifier": "dev.perapp.com-lightricks-facetune2",
+ "subtitle": "FacetunePro by AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
+ "description": "Single-app source for FacetunePro (com.lightricks.Facetune2). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lightricks.Facetune2",
+   "name": "FacetunePro",
+   "developerName": "AppDB / binnichtaktiv's iPA Library / AIpalux / Manpreet Singh @thisismanpreets",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.46.3",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 08-11-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacetunePro/FacetunePro-3.46.3.ipa",
+     "size": 480821701
+    },
+    {
+     "version": "3.47.2",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 08-11-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacetunePro/FacetunePro-3.47.2.ipa",
+     "size": 436191661
+    },
+    {
+     "version": "3.47",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "A photo/video editing app used to edit, enhance, and retouch photos.\nLast updated: 08-11-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FacetunePro/FacetunePro-3.47.ipa",
+     "size": 436181501
+    }
+   ]
+  }
+ ]
+}

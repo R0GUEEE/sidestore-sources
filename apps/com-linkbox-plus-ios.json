@@ -1,0 +1,37 @@
+{
+ "name": "TeleBox",
+ "identifier": "dev.perapp.com-linkbox-plus-ios",
+ "subtitle": "ipaomtk.com | TeleBox Cloud File IPA Storage solutions has become increasingly important. With the vast amount of data t",
+ "description": "Single-app source for TeleBox (com.linkbox.plus.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/screen-0-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.linkbox.plus.ios",
+   "name": "TeleBox",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | TeleBox Cloud File IPA Storage solutions has become increasingly important. With the vast amount of data that we generate and store on o",
+   "localizedDescription": "ipaomtk.com | TeleBox Cloud File IPA Storage solutions has become increasingly important. With the vast amount of data that we generate and store on o",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/screen-0-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.40.00",
+     "date": "2023-06-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | TeleBox Cloud File IPA Storage solutions has become increasingly important. With the vast amount of data that we generate and store on o",
+     "downloadURL": "https://file.ipaomtk.com/ipa/TeleBox.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.30.00",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | LinkBox Cloud Storage IPA has unlocked an amazing feature for iOS users. It allows them to store all their files in one secure and relia",
+     "downloadURL": "https://file.ipaomtk.com/ipa/LinkBox.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

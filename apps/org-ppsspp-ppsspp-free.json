@@ -1,0 +1,30 @@
+{
+ "name": "PPSSPP",
+ "identifier": "dev.perapp.org-ppsspp-ppsspp-free",
+ "subtitle": "PPSSPP - A PSP Emulator",
+ "description": "Single-app source for PPSSPP (org.ppsspp.ppsspp-free). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "96cbda",
+ "iconURL": "https://cdn.omnidev.org/ppsspp-Kh.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.ppsspp.ppsspp-free",
+   "name": "PPSSPP",
+   "developerName": "hrydgard",
+   "subtitle": "PPSSPP - A PSP Emulator",
+   "localizedDescription": "The best PSP Emulator for IOS Written in C++ Status: ✅",
+   "iconURL": "https://cdn.omnidev.org/ppsspp-Kh.png",
+   "tintColor": "96cbda",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.17.4",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "The best PSP Emulator for IOS Written in C++ Status: ✅",
+     "downloadURL": "https://cdn.omnidev.org/PPSSPP_v1_17_4-Zd.ipa",
+     "size": 11534336
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "PickCrafter",
+ "identifier": "dev.perapp.com-fiveamp-pickcrafterapp",
+ "subtitle": "ipaomtk.com | PickCrafter Mining & Crafting IPA Freeze Picks – Freeze Runics – Freeze Enderpearls – Freeze Artifact Dust",
+ "description": "Single-app source for PickCrafter (com.fiveamp.pickcrafterapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/PickCrafter-Mining-038-Crafting-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fiveamp.pickcrafterapp",
+   "name": "PickCrafter",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | PickCrafter Mining & Crafting IPA Freeze Picks – Freeze Runics – Freeze Enderpearls – Freeze Artifact Dust – Infinite Blocks/Runics – Fr",
+   "localizedDescription": "ipaomtk.com | PickCrafter Mining & Crafting IPA Freeze Picks – Freeze Runics – Freeze Enderpearls – Freeze Artifact Dust – Infinite Blocks/Runics – Fr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/PickCrafter-Mining-038-Crafting-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.33",
+     "date": "2024-12-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | PickCrafter Mining & Crafting IPA Freeze Picks – Freeze Runics – Freeze Enderpearls – Freeze Artifact Dust – Infinite Blocks/Runics – Fr",
+     "downloadURL": "https://file.ipaomtk.com/pickcrafter-mining-crafting/PickCrafter-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "6.0.43",
+     "date": "2024-12-29T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | PickCrafter Mining & Crafting IPA Freeze Picks – Freeze Runics – Freeze Enderpearls – Freeze Artifact Dust – Infinite Blocks/Runics – Fr",
+     "downloadURL": "https://file.ipaomtk.com/pickcrafter-mining-crafting/PickCrafter-IPAOMTK.COM.ipa",
+     "size": 105241275
+    }
+   ]
+  }
+ ]
+}

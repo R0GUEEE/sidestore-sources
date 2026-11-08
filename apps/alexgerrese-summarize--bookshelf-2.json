@@ -1,0 +1,44 @@
+{
+ "name": "Bookshelf",
+ "identifier": "dev.perapp.alexgerrese-summarize",
+ "subtitle": "Bookshelf",
+ "description": "Single-app source for Bookshelf (alexgerrese.summarize). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/alexgerrese.summarize.png",
+ "apps": [
+  {
+   "bundleIdentifier": "alexgerrese.summarize",
+   "name": "Bookshelf",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/alexgerrese.summarize.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.18.17",
+     "date": "2026-07-11T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2126",
+     "size": 221581937
+    },
+    {
+     "version": "2.18.9",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Bookshelf_2.18.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 213803458
+    },
+    {
+     "version": "2.18",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Bookshelf: Book Tracker & List\n\nTweak: Lifetime Subscription Unlocked\n\nVersion: 2.18\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/e84d88bf-fb37-4c5e-b5a3-a82d75cf51bb/Bookshelf__Book_Tracker___List-v2.18-riftysipas.ipa",
+     "size": 136121191
+    }
+   ]
+  }
+ ]
+}

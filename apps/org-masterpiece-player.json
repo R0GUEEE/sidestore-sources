@@ -1,0 +1,43 @@
+{
+ "name": "Masterpiece",
+ "identifier": "dev.perapp.org-masterpiece-player",
+ "subtitle": "An open-source pipe organ sample player compatible with Hauptwerk sample sets",
+ "description": "Single-app source for Masterpiece (org.masterpiece.player). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#916838",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.masterpiece.player.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.masterpiece.player",
+   "name": "Masterpiece",
+   "developerName": "bonninr",
+   "subtitle": "An open-source pipe organ sample player compatible with Hauptwerk sample sets",
+   "localizedDescription": "Pipe organ sample player for Hauptwerk-format and GrandOrgue sample sets.:\n\nhttps://github.com/user-attachments/assets/f9e38610-aaf4-4b95-8d1c-e8f7f04b7d77\n\nWatch the demonstration — thirty-three works on nine organs, recorded from the application's own output · programme and credits Watch \"New tested instruments\" — thirty works on fifteen organs, filmed from the running console · programme and credits.\n\nPortable archives for every platform are on the.\n\nthe plugins have archives of their own for Windows, macOS and Linux. The.\n\nMasterpiece plays sampled pipe organs. It reads Hauptwerk-format sample sets and GrandOrgue organs, draws each instrument's own console, and plays it from the mouse, a MIDI keyboard or a full console. It is an independent implementation in C++20 and JUCE, licensed GPL-3.0-only.\n\n• Standalone application, VST3 and LV2 plugins, and an Audio Unit on macOS.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.masterpiece.player.png",
+   "tintColor": "#916838",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/bonninr/masterpiece@main/screenshots/Lipiny.jpg",
+    "https://cdn.jsdelivr.net/gh/bonninr/masterpiece@main/screenshots/MelcerChamberMusicHall.jpg",
+    "https://cdn.jsdelivr.net/gh/bonninr/masterpiece@main/screenshots/Azzio.jpg",
+    "https://cdn.jsdelivr.net/gh/bonninr/masterpiece@main/screenshots/CracowStJohnCantius.jpg",
+    "https://cdn.jsdelivr.net/gh/bonninr/masterpiece@main/screenshots/DlugaKoscielna.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.9.0",
+     "date": "2026-11-03T04:46:10Z",
+     "localizedDescription": "Masterpiece 0.9.0 holds our 44-stop reference sample set at 24 bits in 3.0 times less memory with lossless compression and 4.5 times less with its releases streamed, the sound identical to the bit, and opens it from the sample cache in 3.8 s, 11 times faster than decoding it. It brings the console to phones, tablets and hardware through a web console and one control protocol over HTTP, MIDI SysEx and OSC, and adds a full combination action with the combinaison coupler and program couplers, voicing per rank and division with EQ, detune and wind sway, an output stage with compressor, limiter and bass management, a recorder with scores played through the organ, and reorganized menus with Simple and Professional display modes.\n\nNew features:\n\n• Voicing per rank and division: an EQ with ten presets, your own presets and a MIDI button for each, pan and stereo width, attack emphasis, and pipe detune with wind sway (#425, #438, #478, #442, #437).\n• Output stage: compressor, peak limiter, output presets, bass management to a subwoofer channel, and live levels for ranks, divisions and output pairs from MIDI knobs (#697, #460, #477, #430).\n• Combination action: the combinaison coupler, the program couplers at 16′, 8′ and 4′, pistons that can leave the bass and melody couplers alone, and stop changes that can leave held notes alone (#441, #468, #435, #434).\n• Recorder and scores: Record and Play buttons on a console, a score panel engraved from MusicXML and played through the organ, and page turns from a console piston over MIDI (#479, #488, #433).\n• Console events: a ready lamp, quit and power-off buttons, and a button for one temperament (#436).\n\n• Settings archive: export and import of one organ's settings, and of the global ones (#439).\n\nImprovements:\n\n• Menus and settings: reorganized, with Simple and Professional display modes (#632).\n• Render threads: real-time priority and every logical processor, on by default (#533, #606).\n• Loading: a program-wide sample cache, loads that stop before memory runs out, twenty-bit storage, sparse loading with retuned neighbours, and WavPack samples (#659, #618, #459, #456, #626).\n\n• Playing: multiple rank selection with Shift-click and drag, drag across stops, a typed polyphony limit, and a long press for a right-click on touch screens (#664, #663, #661, #511).\n• GrandOrgue sets: every manual can be played (#649).\n• Swell boxes: the closed sound is shaped as the set defines it (#616).\n\nBug fixes:\n\n• Split keyboard: manuals now split on organs without a key count (#689).\n\nThanks to everyone who tested the builds and reported what they heard and saw, in the 0.9.0 test-build thread (#565) and in the issues: ahall41, willeke1234, mdehn38, fabiomancini67, Ignacy110, Philorgue, Giupy93, ppytprs, Anticord, clorens69, tadeuszkubicki56-ship-it, lobodemena-gif, Couperin06, krasnit, sofrowitz, dspears312, JPIL04, dfbustosus, markdomingues and vpoguru.",
+     "downloadURL": "https://github.com/bonninr/masterpiece/releases/download/v0.9.0/masterpiece-0.9.0-ios.ipa",
+     "size": 8872151
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "Masterpiece uses Bluetooth to connect to Bluetooth MIDI keyboards and consoles.",
+     "NSBluetoothPeripheralUsageDescription": "Masterpiece uses Bluetooth to connect to Bluetooth MIDI keyboards and consoles."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "TinyDecisions",
+ "identifier": "dev.perapp.com-nixwang-decision",
+ "subtitle": "TinyDecisions",
+ "description": "Single-app source for TinyDecisions (com.nixwang.decision). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nixwang.decision",
+   "name": "TinyDecisions",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.7.1",
+     "date": "2026-08-07T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/TinyDecisions_26.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 78443096
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "RDR",
+ "identifier": "dev.perapp.com-rockstargames-rdr",
+ "subtitle": "Chức năng đã thêm: chơi miễn phí - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for RDR (com.rockstargames.rdr). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/ec/76/a6ec767f-7aff-2fdd-ffb3-62dbfae8c197/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.rdr",
+   "name": "RDR",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: chơi miễn phí - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: chơi miễn phí - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/ec/76/a6ec767f-7aff-2fdd-ffb3-62dbfae8c197/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.50.60293175",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: chơi miễn phí - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://cloud.dabeecao.org/f/4Qfb/RDR_1.50_TTJB.ipa",
+     "size": 2147483647
+    }
+   ]
+  }
+ ]
+}

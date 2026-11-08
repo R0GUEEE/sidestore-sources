@@ -1,0 +1,30 @@
+{
+ "name": "DarkSurvival",
+ "identifier": "dev.perapp.com-liberaldust-darksurvival",
+ "subtitle": "DarkSurvival by Karbin-Store",
+ "description": "Single-app source for DarkSurvival (com.LiberalDust.DarkSurvival). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/DarkSurvival.-.Long.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.LiberalDust.DarkSurvival",
+   "name": "DarkSurvival",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/DarkSurvival.-.Long.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.0",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/DarkSurvival.-.Long.ipa",
+     "size": 189120000
+    }
+   ]
+  }
+ ]
+}

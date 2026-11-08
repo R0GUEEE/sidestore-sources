@@ -1,0 +1,30 @@
+{
+ "name": "Ling",
+ "identifier": "dev.perapp.com-sanfanstudios-universal",
+ "subtitle": "Ling by Holloway",
+ "description": "Single-app source for Ling (com.sanfanstudios.universal). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380945.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sanfanstudios.universal",
+   "name": "Ling",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380945.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.6.3",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1737",
+     "size": 46235378
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "CattleGrid",
+ "identifier": "dev.perapp.org-ericbetts-cattlegrid",
+ "subtitle": "Allows you to create your own amiibo utilizing ntag215 on an jailbroken or TrollStore device. Note: After you've install",
+ "description": "Single-app source for CattleGrid (org.ericbetts.CattleGrid). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.ericbetts.CattleGrid.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.ericbetts.CattleGrid",
+   "name": "CattleGrid",
+   "developerName": "ichitaso",
+   "subtitle": "Allows you to create your own amiibo utilizing ntag215 on an jailbroken or TrollStore device. Note: After you've installed the app, you need to manual",
+   "localizedDescription": "Allows you to create your own amiibo utilizing ntag215 on an jailbroken or TrollStore device. Note: After you've installed the app, you need to manual",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.ericbetts.CattleGrid.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Allows you to create your own amiibo utilizing ntag215 on an jailbroken or TrollStore device. Note: After you've installed the app, you need to manual",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CattleGrid/CattleGrid-1.1.1.ipa",
+     "size": 282680
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Transcriptor",
+ "identifier": "dev.perapp.com-lucasditomase-transcriptor",
+ "subtitle": "ipaomtk.com | The Transcriptor App for iOS is a powerful tool designed to enhance productivity by streamlining the proce",
+ "description": "Single-app source for Transcriptor (com.lucasditomase.Transcriptor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Transcriptor-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lucasditomase.Transcriptor",
+   "name": "Transcriptor",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Transcriptor App for iOS is a powerful tool designed to enhance productivity by streamlining the process of converting speech to tex",
+   "localizedDescription": "ipaomtk.com | The Transcriptor App for iOS is a powerful tool designed to enhance productivity by streamlining the process of converting speech to tex",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Transcriptor-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2",
+     "date": "2024-12-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Transcriptor App for iOS is a powerful tool designed to enhance productivity by streamlining the process of converting speech to tex",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Transcriptor-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "AllFLEXing",
+ "identifier": "dev.perapp.org-apptesters-repo-allflexing",
+ "subtitle": "AllFLEXing",
+ "description": "Single-app source for AllFLEXing (org.apptesters.repo.allflexing). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "org.apptesters.repo.allflexing",
+   "name": "AllFLEXing",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "AllFLEXing",
+   "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-12-06T00:00:00Z",
+     "localizedDescription": "AllFLEXing",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/AllFLEXing_1.0_CompiledEverythingTogether_%40thisismanpreets_apptesters.org.dylib",
+     "size": 3481184
+    }
+   ]
+  }
+ ]
+}

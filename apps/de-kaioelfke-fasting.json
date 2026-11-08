@@ -1,0 +1,30 @@
+{
+ "name": "Fasty",
+ "identifier": "dev.perapp.de-kaioelfke-fasting",
+ "subtitle": "ipaomtk.com | Intermittent Fasting Tracker IPA in popularity as a powerful lifestyle choice for improving health, weight",
+ "description": "Single-app source for Fasty (de.kaioelfke.Fasting). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Intermittent-Fasting-Tracker-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "de.kaioelfke.Fasting",
+   "name": "Fasty",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Intermittent Fasting Tracker IPA in popularity as a powerful lifestyle choice for improving health, weight management, and mental clarit",
+   "localizedDescription": "ipaomtk.com | Intermittent Fasting Tracker IPA in popularity as a powerful lifestyle choice for improving health, weight management, and mental clarit",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Intermittent-Fasting-Tracker-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.59",
+     "date": "2025-06-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Intermittent Fasting Tracker IPA in popularity as a powerful lifestyle choice for improving health, weight management, and mental clarit",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Intermittent_Fasting_Tracker-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

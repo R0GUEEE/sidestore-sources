@@ -1,0 +1,44 @@
+{
+ "name": "djay",
+ "identifier": "dev.perapp.com-algoriddim-djay-iphone-free",
+ "subtitle": "djay",
+ "description": "Single-app source for djay (com.algoriddim.djay-iphone-free). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+   "name": "djay",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6.8",
+     "date": "2026-08-10T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2132",
+     "size": 199450668
+    },
+    {
+     "version": "5.6.4",
+     "date": "2026-04-01T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-04-2026/djay_5.6.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 185557655
+    },
+    {
+     "version": "5.6.3",
+     "date": "2026-03-10T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-03-2026/djay_5.6.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 498749010
+    }
+   ]
+  }
+ ]
+}

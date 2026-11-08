@@ -1,0 +1,30 @@
+{
+ "name": "Boating",
+ "identifier": "dev.perapp.com-navionics-singleapp2013",
+ "subtitle": "ipaomtk.com | Navionics® Boating App is a comprehensive marine navigation tool designed for boaters, anglers, and water ",
+ "description": "Single-app source for Boating (com.navionics.SingleApp2013). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Navionics%C2%AE-Boating.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.navionics.SingleApp2013",
+   "name": "Boating",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Navionics® Boating App is a comprehensive marine navigation tool designed for boaters, anglers, and water enthusiasts. This powerful mob",
+   "localizedDescription": "ipaomtk.com | Navionics® Boating App is a comprehensive marine navigation tool designed for boaters, anglers, and water enthusiasts. This powerful mob",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Navionics%C2%AE-Boating.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "22.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Navionics® Boating App is a comprehensive marine navigation tool designed for boaters, anglers, and water enthusiasts. This powerful mob",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Navionics_Boating-v22.0-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

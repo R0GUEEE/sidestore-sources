@@ -1,0 +1,44 @@
+{
+ "name": "Anime",
+ "identifier": "dev.perapp.com-wallpapershub-anime",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Anime (com.wallpapershub.anime). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wallpapershub.anime",
+   "name": "Anime",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpapershub.anime.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.7",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-08-2025/Anime_3.8.7_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 112378000
+    },
+    {
+     "version": "4.0.1",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/09-10-2025/Anime_4.0.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 126927147
+    },
+    {
+     "version": "4.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-09-2025/Anime_4.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 114900323
+    }
+   ]
+  }
+ ]
+}

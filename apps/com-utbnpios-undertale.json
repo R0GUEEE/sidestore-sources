@@ -1,0 +1,30 @@
+{
+ "name": "Undertale Bits & Pieces",
+ "identifier": "dev.perapp.com-utbnpios-undertale",
+ "subtitle": "Undertale Bits & Pieces - IOS Port",
+ "description": "Single-app source for Undertale Bits & Pieces (com.utbnpios.undertale). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "161023",
+ "iconURL": "https://cdn.omnidev.org/undertalebnp-aV.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.utbnpios.undertale",
+   "name": "Undertale Bits & Pieces",
+   "developerName": "Tophat Interactive",
+   "subtitle": "Undertale Bits & Pieces - IOS Port",
+   "localizedDescription": "Undertale: Bits and Pieces was an unofficial mod of Toby Fox's Undertale™, made by Team BnP, that reimagined the game. Due to unexpected complications surrounding the main lead, the project has been abandoned. A new project will be taking its place, free of their influence. We've decided to archive this page, and will be releasing what we had of the anticipated Suzy Update, in the broken buggy state it was left at. If you wish to install any of the releases, read this guide on how to do so.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/undertalebnp-aV.png",
+   "tintColor": "161023",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.0",
+     "date": "2024-10-14T00:00:00Z",
+     "localizedDescription": "Undertale: Bits and Pieces was an unofficial mod of Toby Fox's Undertale™, made by Team BnP, that reimagined the game. Due to unexpected complications surrounding the main lead, the project has been abandoned. A new project will be taking its place, free of their influence. We've decided to archive this page, and will be releasing what we had of the anticipated Suzy Update, in the broken buggy state it was left at. If you wish to install any of the releases, read this guide on how to do so.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Undertale_BNP-El.ipa",
+     "size": 223920128
+    }
+   ]
+  }
+ ]
+}

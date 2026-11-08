@@ -1,0 +1,44 @@
+{
+ "name": "myTunerRadio",
+ "identifier": "dev.perapp.mobi-digitalminds-itunerfree",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for myTunerRadio (mobi.digitalminds.itunerfree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "mobi.digitalminds.itunerfree",
+   "name": "myTunerRadio",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.2.5",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | myTuner Radio - Live Stations  Tweak: Subscription Unlocked  Version: 10.2.5  Notes: restart app if subscription isn't unlocked  P",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8661-myTuner%20Radio%20-%20Live%20Stations-v10.2.5-riftysipas.ipa",
+     "size": 97141378
+    },
+    {
+     "version": "10.2.4",
+     "date": "2026-09-16T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | myTuner Radio - Live Stations  Tweak: Subscription Unlocked  Version: 10.2.4  Notes: restart app if subscription isn't unlocked  P",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7912-myTuner%20Radio%20-%20Live%20Stations-v10.2.4-riftysipas.ipa",
+     "size": 93668991
+    },
+    {
+     "version": "10.2.2",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | myTuner Radio - Live Stations  Tweak: Subscription Unlocked  Version: 10.2.2  Notes: restart app if subscription isn't unlocked  P",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7410-myTuner%20Radio%20-%20Live%20Stations-v10.2.2-riftysipas.ipa",
+     "size": 94356802
+    }
+   ]
+  }
+ ]
+}

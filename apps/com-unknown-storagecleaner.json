@@ -1,0 +1,30 @@
+{
+ "name": "Storage Cleaner",
+ "identifier": "dev.perapp.com-unknown-storagecleaner",
+ "subtitle": "تایبەتمەندی؛ بۆ خاوێنکردنەوەی وێنە دوبارەکان لە ئامێرەکەت",
+ "description": "Single-app source for Storage Cleaner (com.unknown.storagecleaner). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Storage.Cleaner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.storagecleaner",
+   "name": "Storage Cleaner",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی؛ بۆ خاوێنکردنەوەی وێنە دوبارەکان لە ئامێرەکەت",
+   "localizedDescription": "تایبەتمەندی؛ بۆ خاوێنکردنەوەی وێنە دوبارەکان لە ئامێرەکەت",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Storage.Cleaner.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.15",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی؛ بۆ خاوێنکردنەوەی وێنە دوبارەکان لە ئامێرەکەت",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Storage.Cleaner._2.3.15_1737133545.ipa",
+     "size": 25710000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "IaWriter",
+ "identifier": "dev.perapp.pro-writer",
+ "subtitle": "IaWriter",
+ "description": "Single-app source for IaWriter (pro.writer). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pro.writer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "pro.writer",
+   "name": "IaWriter",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pro.writer.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.2.11",
+     "date": "2025-03-04T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/IaWriter_7.2.11_%40thisismanpreets_apptesters.org.ipa",
+     "size": 29487840
+    }
+   ]
+  }
+ ]
+}

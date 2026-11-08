@@ -1,0 +1,30 @@
+{
+ "name": "Radarbot",
+ "identifier": "dev.perapp.com-iteration-mobile-radarbot-free-ww",
+ "subtitle": "Radarbot",
+ "description": "Single-app source for Radarbot (com.iteration-mobile.radarbot-free-ww). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iteration-mobile.radarbot-free-ww",
+   "name": "Radarbot",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Gold",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iteration-mobile.radarbot-free-ww.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.42",
+     "date": "2026-05-18T00:00:00Z",
+     "localizedDescription": "Injected with Gold",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/Radarbot_9.42_Gold_%40thisismanpreets_apptesters.org.ipa",
+     "size": 140127234
+    }
+   ]
+  }
+ ]
+}

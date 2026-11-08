@@ -1,0 +1,30 @@
+{
+ "name": "FATE Reawakened",
+ "identifier": "dev.perapp.com-gamigo-fatemobile",
+ "subtitle": "ipaomtk.com | FATE Reawakened IPA is an immersive strategy ​card game that has‍ captured the‌ attention of mobile gamers",
+ "description": "Single-app source for FATE Reawakened (com.gamigo.fatemobile). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/FATE-Reawakened-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gamigo.fatemobile",
+   "name": "FATE Reawakened",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FATE Reawakened IPA is an immersive strategy ​card game that has‍ captured the‌ attention of mobile gamers worldwide, especially on iOS‍",
+   "localizedDescription": "ipaomtk.com | FATE Reawakened IPA is an immersive strategy ​card game that has‍ captured the‌ attention of mobile gamers worldwide, especially on iOS‍",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/FATE-Reawakened-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.8",
+     "date": "2025-07-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FATE Reawakened IPA is an immersive strategy ​card game that has‍ captured the‌ attention of mobile gamers worldwide, especially on iOS‍",
+     "downloadURL": "https://file.ipaomtk.com/FATE%20Reawakened/FATE-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

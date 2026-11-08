@@ -1,0 +1,30 @@
+{
+ "name": "Smart IP TV-ipaomtk-1.6",
+ "identifier": "dev.perapp.com-ahmetselman-iptv",
+ "subtitle": "ipaomtk.com | Smart IPTV IPA is a powerful and user-friendly application that allows you to access a vast array of live ",
+ "description": "Single-app source for Smart IP TV-ipaomtk-1.6 (com.ahmetselman.IPTV). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-3-3-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ahmetselman.IPTV",
+   "name": "Smart IP TV-ipaomtk-1.6",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Smart IPTV IPA is a powerful and user-friendly application that allows you to access a vast array of live TV channels, on-demand content",
+   "localizedDescription": "ipaomtk.com | Smart IPTV IPA is a powerful and user-friendly application that allows you to access a vast array of live TV channels, on-demand content",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-3-3-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6",
+     "date": "2024-09-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Smart IPTV IPA is a powerful and user-friendly application that allows you to access a vast array of live TV channels, on-demand content",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Smart-IP-TV-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

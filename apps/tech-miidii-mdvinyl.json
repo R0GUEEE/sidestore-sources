@@ -1,0 +1,44 @@
+{
+ "name": "MD Vinyl",
+ "identifier": "dev.perapp.tech-miidii-mdvinyl",
+ "subtitle": "@Sa1y0miii | MD Vinyl for Music App  🧸 Min.iOS: [16.4+]   🧀 App version: [3.7.4] !upd 🪼 App Store: https://apps.apple.co",
+ "description": "Single-app source for MD Vinyl (tech.miidii.MDVinyl). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10342.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tech.miidii.MDVinyl",
+   "name": "MD Vinyl",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | MD Vinyl for Music App  🧸 Min.iOS: [16.4+]   🧀 App version: [3.7.4] !upd 🪼 App Store: https://apps.apple.com/ua/app/md-vinyl-for-music-ap",
+   "localizedDescription": "@Sa1y0miii | MD Vinyl for Music App  🧸 Min.iOS: [16.4+]   🧀 App version: [3.7.4] !upd 🪼 App Store: https://apps.apple.com/ua/app/md-vinyl-for-music-ap",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10342.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.6",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MD Vinyl for Music App  🧸 Min.iOS: [16.4+]   🧀 App version: [3.8.6] !upd 🪼 App Store: https://apps.apple.com/ua/app/md-vinyl-for-music-ap",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15319-%E2%80%8EMD%20Vinyl%20Music%20App_v3.8.6_tg@Sa1y0miii.ipa",
+     "size": 136964326
+    },
+    {
+     "version": "3.8.5",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MD Vinyl for Music App  🧸 Min.iOS: [16.4+]   🧀 App version: [3.8.5] !upd 🪼 App Store: https://apps.apple.com/ua/app/md-vinyl-for-music-ap",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14944-%E2%80%8EMD%20Vinyl%20Music%20App_v3.8.5_tg@Sa1y0miii.ipa",
+     "size": 138200586
+    },
+    {
+     "version": "3.8.4",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MD Vinyl for Music App  🧸 Min.iOS: [16.4+]   🧀 App version: [3.8.4] !upd 🪼 App Store: https://apps.apple.com/ua/app/md-vinyl-for-music-ap",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14824-%E2%80%8EMD%20Vinyl%20Music%20App_v3.8.4_tg@Sa1y0miii.ipa",
+     "size": 138231402
+    }
+   ]
+  }
+ ]
+}

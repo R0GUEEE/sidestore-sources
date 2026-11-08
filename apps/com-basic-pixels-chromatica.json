@@ -1,0 +1,30 @@
+{
+ "name": "Chromatica",
+ "identifier": "dev.perapp.com-basic-pixels-chromatica",
+ "subtitle": "ipaomtk.com | Chromatica Camera IPA v2024.1.0 Camera App is an innovative photography tool that transforms the way users",
+ "description": "Single-app source for Chromatica (com.basic-pixels.chromatica). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Chromatica-camera.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.basic-pixels.chromatica",
+   "name": "Chromatica",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Chromatica Camera IPA v2024.1.0 Camera App is an innovative photography tool that transforms the way users capture and edit images on th",
+   "localizedDescription": "ipaomtk.com | Chromatica Camera IPA v2024.1.0 Camera App is an innovative photography tool that transforms the way users capture and edit images on th",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Chromatica-camera.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.1.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Chromatica Camera IPA v2024.1.0 Camera App is an innovative photography tool that transforms the way users capture and edit images on th",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Chromatica_camera-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

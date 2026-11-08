@@ -1,0 +1,30 @@
+{
+ "name": "RenpyReader",
+ "identifier": "dev.perapp.ld-software-rencode",
+ "subtitle": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for RenpyReader (ld.software.rencode). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/18/e6/b018e6c0-bb9b-c842-6f90-b5dae8adfdf0/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ld.software.rencode",
+   "name": "RenpyReader",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/18/e6/b018e6c0-bb9b-c842-6f90-b5dae8adfdf0/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/RenpyReader_1.5_TTJB.ipa",
+     "size": 60065637
+    }
+   ]
+  }
+ ]
+}

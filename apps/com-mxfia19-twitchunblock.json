@@ -1,0 +1,44 @@
+{
+ "name": "TwitchUnblock",
+ "identifier": "dev.perapp.com-mxfia19-twitchunblock",
+ "subtitle": "No tweak information supplied by the source.",
+ "description": "Single-app source for TwitchUnblock (com.mxfia19.TwitchUnblock). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/727.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mxfia19.TwitchUnblock",
+   "name": "TwitchUnblock",
+   "developerName": "@ipavault",
+   "subtitle": "No tweak information supplied by the source.",
+   "localizedDescription": "No tweak information supplied by the source.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/727.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "scholars lounge | TwitchUnblock Version: 1.7.0 Bundle ID: com.mxfia19.TwitchUnblock App by MXFia19  TwitchUnblock is an open-source Twitch client that",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/82697-TwitchUnblock.ipa",
+     "size": 4486034
+    },
+    {
+     "version": "1.6.0",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "@ipavault | TwitchUnblock 1.6.0  Updated to TwitchUnblock 1.6.0  TwitchUnblock is an open-source Twitch client that lets you watch VODs and live strea",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/948-TwitchUnblock%201.6.0.ipa",
+     "size": 4626660
+    },
+    {
+     "version": "1.5.0",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@ipavault | TwitchUnblock 1.5.0  Updated to TwitchUnblock 1.5.0  TwitchUnblock is an open-source Twitch client that lets you watch VODs and live strea",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/930-TwitchUnblock%201.5.0.ipa",
+     "size": 4136356
+    }
+   ]
+  }
+ ]
+}

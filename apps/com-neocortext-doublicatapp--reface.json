@@ -1,0 +1,44 @@
+{
+ "name": "Reface",
+ "identifier": "dev.perapp.com-neocortext-doublicatapp",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Reface (com.neocortext.doublicatapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.neocortext.doublicatapp",
+   "name": "Reface",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neocortext.doublicatapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.27.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-11-2025/Reface_5.27.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 108374773
+    },
+    {
+     "version": "5.26.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Reface_5.26.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 113095435
+    },
+    {
+     "version": "5.25.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/09-10-2025/Reface_5.25.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 109451675
+    }
+   ]
+  }
+ ]
+}

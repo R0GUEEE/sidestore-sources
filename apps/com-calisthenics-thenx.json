@@ -1,0 +1,44 @@
+{
+ "name": "Thenx",
+ "identifier": "dev.perapp.com-calisthenics-thenx",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Thenx (com.calisthenics.thenx). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.calisthenics.thenx",
+   "name": "Thenx",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.8.3",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "@blatants | Thenx: Calisthenics Training  • Bundle ID: com.calisthenics.thenx • Updated to: 6.8.3 • Minimum iOS: 16.0 • Patched • Modifier: Subscripti",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Thenx_6.8.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 150193051
+    },
+    {
+     "version": "6.8.2",
+     "date": "2026-09-26T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Thenx_6.8.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 150193972
+    },
+    {
+     "version": "6.8.1",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "@blatants | Thenx: Calisthenics Training  • Bundle ID: com.calisthenics.thenx • Updated to: 6.8.1 • Minimum iOS: 16.0 • Patched • Modifier: Subscripti",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12448-Thenx_Calisthenics_Training_v6_8_1_Subscription_Unlocked_blatant.ipa",
+     "size": 150194757
+    }
+   ]
+  }
+ ]
+}

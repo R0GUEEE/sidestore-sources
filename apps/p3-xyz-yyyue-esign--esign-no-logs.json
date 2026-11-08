@@ -1,0 +1,44 @@
+{
+ "name": "ESign No Logs",
+ "identifier": "dev.perapp.p3-xyz-yyyue-esign",
+ "subtitle": "ESign No Logs - ESign With No Logs",
+ "description": "Single-app source for ESign No Logs (p3.xyz.yyyue.esign). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "4894ee",
+ "iconURL": "https://cdn.omnidev.org/esign-mg.png",
+ "apps": [
+  {
+   "bundleIdentifier": "p3.xyz.yyyue.esign",
+   "name": "ESign No Logs",
+   "developerName": "u/Sharp_Listen3436 & yyy",
+   "subtitle": "ESign No Logs - ESign With No Logs",
+   "localizedDescription": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/esign-mg.png",
+   "tintColor": "4894ee",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.2",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Easily sideload with no computer, no revokes, unlimited app days and, no telemetry.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/E_Sign_V5_0_2_No_Logs-29.ipa",
+     "size": 7245924
+    },
+    {
+     "version": "5.0-1.1",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "ESign without its telemetry.\nLast updated: 07-17-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESignNoLogs/ESignNoLogs-5.0-1.1.ipa",
+     "size": 8042159
+    },
+    {
+     "version": "5.0.1",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to traditionally sideload your apps. Can also inject debs into the IPA of your choice.\nLast updated: 01-28-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESign/ESign-5.0.1.ipa",
+     "size": 7489038
+    }
+   ]
+  }
+ ]
+}

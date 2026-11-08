@@ -1,0 +1,30 @@
+{
+ "name": "Vibes",
+ "identifier": "dev.perapp.com-andyworks-vibes",
+ "subtitle": "Vibes",
+ "description": "Single-app source for Vibes (com.andyworks.vibes). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.andyworks.vibes",
+   "name": "Vibes",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.30",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Vibes_1.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 272793503
+    }
+   ]
+  }
+ ]
+}

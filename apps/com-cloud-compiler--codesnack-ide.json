@@ -1,0 +1,44 @@
+{
+ "name": "CodeSnack IDE",
+ "identifier": "dev.perapp.com-cloud-compiler",
+ "subtitle": "@blatants | CodeSnack IDE  • Bundle ID: com.cloud-compiler • Updated to: 6.0.0 • Minimum iOS: 15.6 • Patched • Modifier:",
+ "description": "Single-app source for CodeSnack IDE (com.cloud-compiler). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11223.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cloud-compiler",
+   "name": "CodeSnack IDE",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | CodeSnack IDE  • Bundle ID: com.cloud-compiler • Updated to: 6.0.0 • Minimum iOS: 15.6 • Patched • Modifier: Subscription Unlocked • Tweak",
+   "localizedDescription": "@blatants | CodeSnack IDE  • Bundle ID: com.cloud-compiler • Updated to: 6.0.0 • Minimum iOS: 15.6 • Patched • Modifier: Subscription Unlocked • Tweak",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11223.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.8.1",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@blatants | CodeSnack IDE: AI Coding Agent  • Bundle ID: com.cloud-compiler • Updated to: 6.8.1 • Minimum iOS: 15.6 • Patched • Modifier: Subscription",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/CodeSnackIDE_6.8.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 31127723
+    },
+    {
+     "version": "6.8.0",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@blatants | CodeSnack IDE: AI Coding Agent  • Bundle ID: com.cloud-compiler • Updated to: 6.8.0 • Minimum iOS: 15.6 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12915-CodeSnack_IDE_AI_Coding_Agent_v6_8_0_Subscription_Unlocked_blatant.ipa",
+     "size": 31104469
+    },
+    {
+     "version": "6.6.0",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@blatants | CodeSnack IDE  • Bundle ID: com.cloud-compiler • Updated to: 6.6.0 • Minimum iOS: 15.6 • Patched • Modifier: Subscription Unlocked • Tweak",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12800-CodeSnack%20IDE%20v6.6.0%20Subscription%20Unlocked%20blatant%20Patched.ipa",
+     "size": 31073052
+    }
+   ]
+  }
+ ]
+}

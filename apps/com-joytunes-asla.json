@@ -1,0 +1,30 @@
+{
+ "name": "SimplyPiano",
+ "identifier": "dev.perapp.com-joytunes-asla",
+ "subtitle": "SimplyPiano",
+ "description": "Single-app source for SimplyPiano (com.joytunes.asla). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.joytunes.asla",
+   "name": "SimplyPiano",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.11.3",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/SimplyPiano_9.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 155548362
+    }
+   ]
+  }
+ ]
+}

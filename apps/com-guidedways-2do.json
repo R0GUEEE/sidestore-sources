@@ -1,0 +1,30 @@
+{
+ "name": "2Do",
+ "identifier": "dev.perapp.com-guidedways-2do",
+ "subtitle": "ipaomtk.com | 2Do IPA v3.68 is a versatile and powerful task management app available for iOS, macOS, and Android platfo",
+ "description": "Single-app source for 2Do (com.guidedways.2Do). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/2Do-8211-Todo-List-Tasks-038-Notes.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.guidedways.2Do",
+   "name": "2Do",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | 2Do IPA v3.68 is a versatile and powerful task management app available for iOS, macOS, and Android platforms. Developed by Beehive Inno",
+   "localizedDescription": "ipaomtk.com | 2Do IPA v3.68 is a versatile and powerful task management app available for iOS, macOS, and Android platforms. Developed by Beehive Inno",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/2Do-8211-Todo-List-Tasks-038-Notes.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.68",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | 2Do IPA v3.68 is a versatile and powerful task management app available for iOS, macOS, and Android platforms. Developed by Beehive Inno",
+     "downloadURL": "https://file.ipaomtk.com/ipa/2Do_Todo_List,_Tasks_Notes-v3.68-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "CA-High-FPS",
+ "identifier": "dev.perapp.com-realmzer-cahighfps",
+ "subtitle": "Make CoreAnimation apps use the highest available FPS.",
+ "description": "Single-app source for CA-High-FPS (com.realmzer.cahighfps). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "690ff5",
+ "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.realmzer.cahighfps",
+   "name": "CA-High-FPS",
+   "developerName": "PoomSmart",
+   "subtitle": "Make CoreAnimation apps use the highest available FPS.",
+   "localizedDescription": "Unlocks some apps FP\nStatus: ✅✨",
+   "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+   "tintColor": "690ff5",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.1",
+     "date": "2024-11-17T00:00:00Z",
+     "localizedDescription": "Unlocks some apps FP\nStatus: ✅✨",
+     "downloadURL": "https://cdn.omnidev.org/com_ps_cahighfps_1_3_1_iphoneos_arm64-9E.deb",
+     "size": 8192
+    }
+   ]
+  }
+ ]
+}

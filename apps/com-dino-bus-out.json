@@ -1,0 +1,37 @@
+{
+ "name": "Bus Out",
+ "identifier": "dev.perapp.com-dino-bus-out",
+ "subtitle": "ipaomtk.com | Introduction to Bus Out on iOS Bus Out is a fast-paced action game for iPhone that blends chaotic driving,",
+ "description": "Single-app source for Bus Out (com.dino.bus.out). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Bus-Out-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dino.bus.out",
+   "name": "Bus Out",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction to Bus Out on iOS Bus Out is a fast-paced action game for iPhone that blends chaotic driving, strategic escapes, and dynami",
+   "localizedDescription": "ipaomtk.com | Introduction to Bus Out on iOS Bus Out is a fast-paced action game for iPhone that blends chaotic driving, strategic escapes, and dynami",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Bus-Out-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.93.3",
+     "date": "2026-01-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to Bus Out on iOS Bus Out is a fast-paced action game for iPhone that blends chaotic driving, strategic escapes, and dynami",
+     "downloadURL": "https://file.ipaomtk.com/Bus%20Out/Bus-Out-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.96.0",
+     "date": "2026-01-07T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Introduction to Bus Out on iOS Bus Out is a fast-paced action game for iPhone that blends chaotic driving, strategic escapes, and dynami",
+     "downloadURL": "https://file.ipaomtk.com/Bus%20Out/Bus-Out-IPAOMTK.COM.ipa",
+     "size": 130875068
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Shadow Rocket",
+ "identifier": "dev.perapp.com-unknown-shadowrocket",
+ "subtitle": "Active Premium",
+ "description": "Single-app source for Shadow Rocket (com.unknown.shadowrocket). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Shadowrocket.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.shadowrocket",
+   "name": "Shadow Rocket",
+   "developerName": "Karbin-Store",
+   "subtitle": "Active Premium",
+   "localizedDescription": "Active Premium",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Shadowrocket.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.61",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Active Premium",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/ShadowRocket.2.2.61.ipa",
+     "size": 17670000
+    }
+   ]
+  }
+ ]
+}

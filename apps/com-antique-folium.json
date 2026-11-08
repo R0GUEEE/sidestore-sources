@@ -1,0 +1,44 @@
+{
+ "name": "Folium",
+ "identifier": "dev.perapp.com-antique-folium",
+ "subtitle": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It current",
+ "description": "Single-app source for Folium (com.antique.Folium). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Folium.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.antique.Folium",
+   "name": "Folium",
+   "developerName": "Jarrod Norwell (Antique)",
+   "subtitle": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (",
+   "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Folium.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.3",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Folium/Folium-1.1.3Cytrus.ipa",
+     "size": 19916065
+    },
+    {
+     "version": "1.1.2",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Folium/Folium-1.1.2Sudachi.ipa",
+     "size": 18606861
+    },
+    {
+     "version": "1.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Folium is a paid multi-system emulator that merge Limon and other of Jarrod's emulators into one central app. It currently supports 3DS (Citra), NES (",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Folium/Folium-1.0.5.ipa",
+     "size": 18068021
+    }
+   ]
+  }
+ ]
+}

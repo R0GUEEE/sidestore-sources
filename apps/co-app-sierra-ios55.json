@@ -1,0 +1,30 @@
+{
+ "name": "Sierra",
+ "identifier": "dev.perapp.co-app-sierra-ios55",
+ "subtitle": "ipaomtk.com | Sierra App IPA Installer is a powerful tool designed to help iOS users install and manage third-party appl",
+ "description": "Single-app source for Sierra (co.app.Sierra.ios55). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/icon-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.app.Sierra.ios55",
+   "name": "Sierra",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sierra App IPA Installer is a powerful tool designed to help iOS users install and manage third-party applications on their devices. IPA",
+   "localizedDescription": "ipaomtk.com | Sierra App IPA Installer is a powerful tool designed to help iOS users install and manage third-party applications on their devices. IPA",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/icon-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-07-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sierra App IPA Installer is a powerful tool designed to help iOS users install and manage third-party applications on their devices. IPA",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sierra.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

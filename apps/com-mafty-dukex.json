@@ -1,0 +1,30 @@
+{
+ "name": "DukeX",
+ "identifier": "dev.perapp.com-mafty-dukex",
+ "subtitle": "DukeX is an experimental iOS and macOS frontend for xemu. The iOS build embeds the xemu core in a native Swift shell and",
+ "description": "Single-app source for DukeX (com.mafty.dukex). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mafty.dukex.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mafty.dukex",
+   "name": "DukeX",
+   "developerName": "MaftyManicEMU",
+   "subtitle": "DukeX is an experimental iOS and macOS frontend for xemu. The iOS build embeds the xemu core in a native Swift shell and presents the Vulkan renderer ",
+   "localizedDescription": "DukeX is an experimental iOS and macOS frontend for xemu. The iOS build embeds the xemu core in a native Swift shell and presents the Vulkan renderer\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mafty.dukex.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "DukeX is an experimental iOS and macOS frontend for xemu. The iOS build embeds the xemu core in a native Swift shell and presents the Vulkan renderer ",
+     "downloadURL": "https://github.com/MaftyManicEMU/DukeX/releases/download/v1.0.2/DukeX.v1.0.2.ipa",
+     "size": 20345841
+    }
+   ]
+  }
+ ]
+}

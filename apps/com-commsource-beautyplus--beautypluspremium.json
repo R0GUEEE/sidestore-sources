@@ -1,0 +1,44 @@
+{
+ "name": "BeautyPlusPremium",
+ "identifier": "dev.perapp.com-commsource-beautyplus",
+ "subtitle": "BeautyPlusPremium by Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
+ "description": "Single-app source for BeautyPlusPremium (com.commsource.BeautyPlus). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.commsource.BeautyPlus",
+   "name": "BeautyPlusPremium",
+   "developerName": "Manpreet Singh @thisismanpreeets / binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.7.060",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeautyPlusPremium/BeautyPlusPremium-7.7.060.ipa",
+     "size": 236260218
+    },
+    {
+     "version": "7.7.090",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeautyPlusPremium/BeautyPlusPremium-7.7.090.ipa",
+     "size": 243974211
+    },
+    {
+     "version": "7.7.103",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "Another AI Photo Editor injected with Premium. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeautyPlusPremium/BeautyPlusPremium-7.7.103.ipa",
+     "size": 238124043
+    }
+   ]
+  }
+ ]
+}

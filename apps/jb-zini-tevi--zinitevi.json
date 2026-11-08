@@ -1,0 +1,34 @@
+{
+ "name": "ZiniTevi++",
+ "identifier": "dev.perapp.jb-zini-tevi",
+ "subtitle": "Watch free movies and TV Shows on your iPhone!",
+ "description": "Single-app source for ZiniTevi++ (jb.zini.tevi). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#333939",
+ "iconURL": "https://i.imgur.com/rgL5qrB.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jb.zini.tevi",
+   "name": "ZiniTevi++",
+   "developerName": "",
+   "subtitle": "Watch free movies and TV Shows on your iPhone!",
+   "localizedDescription": "Tweaked version of ZiniTevi - Ads disabled\n\nApp for Streaming Movies and TV Shows for free on your phone.\n\nApp features:\n\n• Play video online and offline.\n• Download multiple videos in background mode.\n• Stream video to Google's Chromecast, Airplay, Smart TV,\n• Android TV Box, Web Browser, UPnP, DLNA.\n• Add to favorites list.\n• Save to watched list.\n• Caption in video with all languages on over the world.\n• Trakt.tv to sync history and favorites list to the cloud.\n\nEnjoy!",
+   "iconURL": "https://i.imgur.com/rgL5qrB.png",
+   "tintColor": "#333939",
+   "screenshots": [
+    "https://static.appdb.to/images/cydia-1900000660-iphone-0.png",
+    "https://static.appdb.to/images/cydia-1900000660-iphone-1.png",
+    "https://static.appdb.to/images/cydia-1900000660-iphone-2.png"
+   ],
+   "versions": [
+    {
+     "version": "1.5.0",
+     "date": "2023-02-15T00:00:00Z",
+     "localizedDescription": "• Updated ZiniTevi to v1.5.0",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/ZiniTevi+.v1.5.0.ipa",
+     "size": 7580000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "name": "Yard Rage",
+ "identifier": "dev.perapp.com-itspector-yardrage",
+ "subtitle": "Public Yard Rage iPhone releases and AltStore installation feed",
+ "description": "Single-app source for Yard Rage (com.itspector.yardrage). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4fb653",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.itspector.yardrage.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.itspector.yardrage",
+   "name": "Yard Rage",
+   "developerName": "ssnanda",
+   "subtitle": "Public Yard Rage iPhone releases and AltStore installation feed",
+   "localizedDescription": "Yard Rage is a satirical HOA game from ITSpector LLC. Patrol the neighborhood, investigate complaints, photograph evidence, manage residents, survive board politics, and try to keep your seat.\n\nSource URL to paste into AltStore:\n\nRequires iOS 13 or later. Full steps below.\n\nAdd the Yard Rage source and install:\n\n• Open AltStore on the iPhone.\n• Open Sources, tap +, and add this URL:.\n• Open the Yard Rage listing and tap Install.\n• Keep AltServer running and the computer and iPhone on the same network when AltStore needs to install or refresh the app.\n\nReleases:\n\nEach GitHub release contains an immutable, versioned Yard Rage IPA. Release downloads and the AltStore source are public; the game source code is not included.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.itspector.yardrage.png",
+   "tintColor": "#4fb653",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ssnanda/YardRage@main/assets/shot-street.jpg",
+    "https://cdn.jsdelivr.net/gh/ssnanda/YardRage@main/assets/shot-cul-de-sac.jpg",
+    "https://cdn.jsdelivr.net/gh/ssnanda/YardRage@main/assets/shot-camera.jpg",
+    "https://cdn.jsdelivr.net/gh/ssnanda/YardRage@main/assets/shot-case.jpg",
+    "https://cdn.jsdelivr.net/gh/ssnanda/YardRage@main/assets/shot-hearing.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.1.87",
+     "date": "2026-10-13T15:10:18Z",
+     "localizedDescription": "Yard Rage iOS — version 0.1.87+88 Built 2026-10-13 11:10 EDT from commit 056a5ef. This release contains the immutable IPA for 0.1.87+88.",
+     "downloadURL": "https://github.com/ssnanda/YardRage/releases/download/ios-0.1.87-88/yardrage.ipa",
+     "size": 40311939
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

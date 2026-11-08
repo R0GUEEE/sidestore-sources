@@ -1,0 +1,30 @@
+{
+ "name": "Heyjapan",
+ "identifier": "dev.perapp.com-eup-heyjapan",
+ "subtitle": "Heyjapan",
+ "description": "Single-app source for Heyjapan (com.eup.heyjapan). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eup.heyjapan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.eup.heyjapan",
+   "name": "Heyjapan",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eup.heyjapan.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.5",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Heyjapan_1.9.5_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 115496429
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "NeoServer",
+ "identifier": "dev.perapp.com-neo-neoman",
+ "subtitle": "NeoServer",
+ "description": "Single-app source for NeoServer (com.neo.NeoMan). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.neo.NeoMan",
+   "name": "NeoServer",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.0",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/NeoServer_9.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 27519825
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Ship of Harkinian",
+ "identifier": "dev.perapp.com-rebelancap-soh",
+ "subtitle": "Ship of Harkinian for iPhone & Apple Vision Pro:  Play The Legend of Zelda: Ocarina of Time on your iPhone and Apple Vis",
+ "description": "Single-app source for Ship of Harkinian (com.rebelancap.soh). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.soh.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.soh",
+   "name": "Ship of Harkinian",
+   "developerName": "rebelancap",
+   "subtitle": "Ship of Harkinian for iPhone & Apple Vision Pro:  Play The Legend of Zelda: Ocarina of Time on your iPhone and Apple Vision Pro — the full quest with ",
+   "localizedDescription": "Ship of Harkinian for iPhone & Apple Vision Pro:  Play The Legend of Zelda: Ocarina of Time on your iPhone and Apple Vision Pro — the full quest with\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.soh.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.3",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Ship of Harkinian for iPhone & Apple Vision Pro:  Play The Legend of Zelda: Ocarina of Time on your iPhone and Apple Vision Pro — the full quest with ",
+     "downloadURL": "https://github.com/rebelancap/Shipwright-ios/releases/download/v1.2.3/soh-1.2.3-iOS.ipa",
+     "size": 37124164
+    }
+   ]
+  }
+ ]
+}

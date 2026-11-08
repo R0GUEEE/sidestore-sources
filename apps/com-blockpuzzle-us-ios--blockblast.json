@@ -1,0 +1,44 @@
+{
+ "name": "BlockBlast",
+ "identifier": "dev.perapp.com-blockpuzzle-us-ios",
+ "subtitle": "BlockBlast",
+ "description": "Single-app source for BlockBlast (com.blockpuzzle.us.ios). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.blockpuzzle.us.ios",
+   "name": "BlockBlast",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.4.6",
+     "date": "2026-09-21T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- no ads in the app",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1958",
+     "size": 92711870
+    },
+    {
+     "version": "7.3.7",
+     "date": "2026-08-28T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- no ads in the app",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1958",
+     "size": 88044687
+    },
+    {
+     "version": "7.3.3",
+     "date": "2026-08-09T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- no ads in the app",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1958",
+     "size": 111967927
+    }
+   ]
+  }
+ ]
+}

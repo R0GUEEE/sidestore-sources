@@ -1,0 +1,30 @@
+{
+ "name": "Red Dead Redemption (free paid)",
+ "identifier": "dev.perapp.com-rockstargames-rdr",
+ "subtitle": "Red Dead Redemption (free paid) by sidelix",
+ "description": "Single-app source for Red Dead Redemption (free paid) (com.rockstargames.rdr). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a5aacf63a7cd.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.rdr",
+   "name": "Red Dead Redemption (free paid)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "This app is an App Store paid app now free on the nabzclan App Store - When federal agents threaten his family, former outlaw John Marston is forced to hunt down the gang of criminals he once called friends. Experience Marston’s journey across the sprawling expanses of the American West and Mexico as he fights to bury his blood-stained past in the critically acclaimed predecessor to the 2018 blockbuster, Red Dead Redemption 2.",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a5aacf63a7cd.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.50",
+     "date": "2026-07-17T00:00:00Z",
+     "localizedDescription": "This app is an App Store paid app now free on the nabzclan App Store - When federal agents threaten his family, former outlaw John Marston is forced to hunt down the gang of criminals he once called friends. Experience Marston’s journey across the sprawling expanses of the American West and Mexico as he fights to bury his blood-stained past in the critically acclaimed predecessor to the 2018 blockbuster, Red Dead Redemption 2.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1970",
+     "size": 2885508202
+    }
+   ]
+  }
+ ]
+}

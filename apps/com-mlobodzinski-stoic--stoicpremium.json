@@ -1,0 +1,44 @@
+{
+ "name": "StoicPremium",
+ "identifier": "dev.perapp.com-mlobodzinski-stoic",
+ "subtitle": "StoicPremium by zxcvbn's tweaked IPAs / Lãng Khách🇻🇳",
+ "description": "Single-app source for StoicPremium (com.mlobodzinski.Stoic). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mlobodzinski.Stoic.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mlobodzinski.Stoic",
+   "name": "StoicPremium",
+   "developerName": "zxcvbn's tweaked IPAs / Lãng Khách🇻🇳",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mlobodzinski.Stoic.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.14",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 06-30-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StoicPremium/StoicPremium-2024.14.ipa",
+     "size": 82428079
+    },
+    {
+     "version": "2024.22",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 06-30-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StoicPremium/StoicPremium-2024.22.ipa",
+     "size": 88759859
+    },
+    {
+     "version": "2024.29",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "A mental health companion that helps users understand their emotions and offers insights on how to improve happiness, productivity, and overcome obstacles. A user requested it so here it is. Note: AI feature is unavailable.\nLast updated: 06-30-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StoicPremium/StoicPremium-2024.29.ipa",
+     "size": 94656705
+    }
+   ]
+  }
+ ]
+}

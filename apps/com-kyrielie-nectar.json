@@ -1,0 +1,36 @@
+{
+ "name": "Nectar",
+ "identifier": "dev.perapp.com-kyrielie-nectar",
+ "subtitle": "netnewswire fork for fanfiction reading!",
+ "description": "Single-app source for Nectar (com.kyrielie.nectar). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e0a05c",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.kyrielie.nectar.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kyrielie.nectar",
+   "name": "Nectar",
+   "developerName": "kyrielie",
+   "subtitle": "netnewswire fork for fanfiction reading!",
+   "localizedDescription": "🍎 Nectar:\n\n**An iOS feed reader for Archive of Our Own and Ambrosia. An unofficial AO3 reading application. **.\n\nQuick Install:\n\n• [x] This app will always be free and open source. (If you don't trust me, you can look at the code and build the application yourself.).\n• [x] This app does it's best to respect AO3's TOS, servers, and policies.\n• [x] Nectar logs you in using the Safari browser. Your login details stay on your phone.\n• [x] Your reading history stays private on your phone.\n\nBackground:\n\nI have extended the functionality of Nectar to be able to update the metadata and text from AO3 for my local library. Now you can load any work search link and start reading.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.kyrielie.nectar.png",
+   "tintColor": "#e0a05c",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.2",
+     "date": "2026-10-17T03:40:48Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/kyrielie/nectar/releases/download/v0.2.2/Nectar-unsigned.ipa",
+     "size": 5486102
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "Grant permission to save images from the article."
+    }
+   }
+  }
+ ]
+}

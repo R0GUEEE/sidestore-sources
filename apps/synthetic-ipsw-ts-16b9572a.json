@@ -1,0 +1,30 @@
+{
+ "name": "IPSW_TS",
+ "identifier": "dev.perapp.synthetic-ipsw-ts-16b9572a",
+ "subtitle": "Check signed/unsigned iOS statuses.",
+ "description": "Single-app source for IPSW_TS (synthetic.ipsw-ts.16b9572a). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/IPSW_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.ipsw-ts.16b9572a",
+   "name": "IPSW_TS",
+   "developerName": "IPSW_TS x CyPwn",
+   "subtitle": "Check signed/unsigned iOS statuses.",
+   "localizedDescription": "Check signed/unsigned iOS statuses.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/IPSW_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Check signed/unsigned iOS statuses.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/IPSW_TS.ipa",
+     "size": 5578424
+    }
+   ]
+  }
+ ]
+}

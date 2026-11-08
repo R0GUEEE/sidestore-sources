@@ -1,0 +1,30 @@
+{
+ "name": "InkhunterPremium",
+ "identifier": "dev.perapp.inkhunter-inkhunter",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for InkhunterPremium (InkHunter.inkHunter). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "InkHunter.inkHunter",
+   "name": "InkhunterPremium",
+   "developerName": "Paisseon",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nAn app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/InkHunter.inkHunter.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.6",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nAn app that allows you to visualize any tattoo design on any part of your body with AR, giving you a preview of how it will look. A user requested…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InkhunterPremium/InkhunterPremium-3.0.6.ipa",
+     "size": 18114231
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "BCD",
+ "identifier": "dev.perapp.com-thebcd69-bcd",
+ "subtitle": "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by W",
+ "description": "Single-app source for BCD (com.thebcd69.bcd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thebcd69.bcd",
+   "name": "BCD",
+   "developerName": "thebcd69",
+   "subtitle": "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by Wine, FEX and Metal via DXMT.",
+   "localizedDescription": "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by Wine, FEX and Metal via DXMT.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/BCD/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.634",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by Wine, FEX and Metal via DXMT.",
+     "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.634/BCD.ipa",
+     "size": 193977007
+    },
+    {
+     "version": "0.1.630",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by Wine, FEX and Metal via DXMT.",
+     "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.630/BCD.ipa",
+     "size": 185317150
+    },
+    {
+     "version": "0.1.626",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "A fast, controller-friendly launcher that runs Windows games on iOS and iPadOS with Steam and GOG built in, powered by Wine, FEX and Metal via DXMT.",
+     "downloadURL": "https://github.com/thebcd69/bcd-games/releases/download/v0.1.626/BCD.ipa",
+     "size": 185050286
+    }
+   ]
+  }
+ ]
+}

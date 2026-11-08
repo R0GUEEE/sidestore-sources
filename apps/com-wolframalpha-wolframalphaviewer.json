@@ -1,0 +1,30 @@
+{
+ "name": "WolframAlpha",
+ "identifier": "dev.perapp.com-wolframalpha-wolframalphaviewer",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for WolframAlpha (com.wolframalpha.wolframalphaviewer). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wolframalpha.wolframalphaviewer",
+   "name": "WolframAlpha",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.1",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2025/WolframAlpha_2.6.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 178726992
+    }
+   ]
+  }
+ ]
+}

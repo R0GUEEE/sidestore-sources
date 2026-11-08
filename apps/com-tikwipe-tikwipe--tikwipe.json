@@ -1,0 +1,30 @@
+{
+ "name": "TikWipe",
+ "identifier": "dev.perapp.com-tikwipe-tikwipe",
+ "subtitle": "Tweaks: JTikWipe",
+ "description": "Single-app source for TikWipe (com.tikwipe.tikwipe). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tikwipe.tikwipe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tikwipe.tikwipe",
+   "name": "TikWipe",
+   "developerName": "DPixel",
+   "subtitle": "Tweaks: JTikWipe",
+   "localizedDescription": "Tweaks: JTikWipe\n\nInjected with Satella. TikTok video downloader (not photos). Click purchase at the end of the slideshow\nLast updated: 12-29-2022\nStatus: ⚠️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.tikwipe.tikwipe.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Tweaks: JTikWipe\n\nInjected with Satella. TikTok video downloader (not photos). Click purchase at the end of the slideshow Last updated: 12-29-2022 Status: ⚠️",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/TikWipe-1.1.0.ipa",
+     "size": 7987560
+    }
+   ]
+  }
+ ]
+}

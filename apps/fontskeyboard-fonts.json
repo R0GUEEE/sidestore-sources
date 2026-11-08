@@ -1,0 +1,30 @@
+{
+ "name": "Fonts",
+ "identifier": "dev.perapp.fontskeyboard-fonts",
+ "subtitle": "Fonts",
+ "description": "Single-app source for Fonts (fontskeyboard.fonts). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fontskeyboard.fonts",
+   "name": "Fonts",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.4.55",
+     "date": "2026-10-07T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Fonts_8.4.55_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 68434991
+    }
+   ]
+  }
+ ]
+}

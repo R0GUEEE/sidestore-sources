@@ -1,0 +1,30 @@
+{
+ "name": "PhotoSyncPremium",
+ "identifier": "dev.perapp.com-touchbyte-photosync",
+ "subtitle": "Patched",
+ "description": "Single-app source for PhotoSyncPremium (com.touchbyte.PhotoSync). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.touchbyte.PhotoSync.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.touchbyte.PhotoSync",
+   "name": "PhotoSyncPremium",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "Patched",
+   "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.touchbyte.PhotoSync.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.9.1",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotoSyncPremium/PhotoSyncPremium-4.9.1.ipa",
+     "size": 59737296
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Hill Climb",
+ "identifier": "dev.perapp.com-fingersoft-hillclimbracing",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for Hill Climb (com.fingersoft.hillclimbracing). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8706.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fingersoft.hillclimbracing",
+   "name": "Hill Climb",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\n@riftysIPAlibrary | Hill Climb Racing\n\nTweak: Free iAP\n\nVersion: 1.73.1\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 15.0\nBundle ID: com.fingersoft.hillclimbracing\nDeveloper: Fingersoft\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8706.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.73.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\n@riftysIPAlibrary | Hill Climb Racing Tweak: Free iAP Version: 1.73.1 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS Version: 15.0…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8706-Hill%20Climb%20Racing-v1.73.1-riftysipas.ipa",
+     "size": 131078364
+    }
+   ]
+  }
+ ]
+}

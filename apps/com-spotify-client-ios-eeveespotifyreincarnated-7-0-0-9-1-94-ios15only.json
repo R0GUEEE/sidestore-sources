@@ -1,0 +1,30 @@
+{
+ "name": "EeveeSpotifyReincarnated (v7.0.0) iOS 15 ONLY",
+ "identifier": "dev.perapp.com-spotify-client-ios-eeveespotifyreincarnated-7-0-0-9-1-94",
+ "subtitle": "This is a modded version of Spotify, and only works with iOS 15.",
+ "description": "Single-app source for EeveeSpotifyReincarnated (v7.0.0) iOS 15 ONLY (com.spotify.client.ios.eeveespotifyreincarnated.7.0.0.9.1.94.ios15only). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.7.0.0.9.1.94.ios15only",
+   "name": "EeveeSpotifyReincarnated (v7.0.0) iOS 15 ONLY",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify, and only works with iOS 15.",
+   "localizedDescription": "This is a modded version of Spotify, and only works with iOS 15.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.94",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify, and only works with iOS 15.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-iOS15-9.1.94-ESR-7.0.0.ipa",
+     "size": 126389754
+    }
+   ]
+  }
+ ]
+}

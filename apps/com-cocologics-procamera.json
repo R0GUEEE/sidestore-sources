@@ -1,0 +1,30 @@
+{
+ "name": "ProCamera",
+ "identifier": "dev.perapp.com-cocologics-procamera",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for ProCamera (com.cocologics.ProCamera). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cocologics.ProCamera",
+   "name": "ProCamera",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cocologics.ProCamera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.1.2",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/ProCamera_26.1.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 136069671
+    }
+   ]
+  }
+ ]
+}

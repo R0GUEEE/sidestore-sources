@@ -1,0 +1,30 @@
+{
+ "name": "Send Snap",
+ "identifier": "dev.perapp.com-unknown-sendsnap",
+ "subtitle": "➜ Upload videos and photos with the highest",
+ "description": "Single-app source for Send Snap (com.unknown.sendsnap). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Send.Snap.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.sendsnap",
+   "name": "Send Snap",
+   "developerName": "Karbin-Store",
+   "subtitle": "➜ Upload videos and photos with the highest",
+   "localizedDescription": "➜ Upload videos and photos with the highest",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Send.Snap.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "➜ Upload videos and photos with the highest",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/SendSnap.1.2.ipa",
+     "size": 9530000
+    }
+   ]
+  }
+ ]
+}

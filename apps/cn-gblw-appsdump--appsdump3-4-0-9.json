@@ -1,0 +1,44 @@
+{
+ "name": "AppsDump3_4.0.9",
+ "identifier": "dev.perapp.cn-gblw-appsdump",
+ "subtitle": "AppsDump3_4.0.9",
+ "description": "Single-app source for AppsDump3_4.0.9 (cn.gblw.AppsDump). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppsDump3_4.0.9.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cn.gblw.AppsDump",
+   "name": "AppsDump3_4.0.9",
+   "developerName": "AppsDump3_4.0.9 x CyPwn",
+   "subtitle": "AppsDump3_4.0.9",
+   "localizedDescription": "AppsDump3_4.0.9",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppsDump3_4.0.9.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.7-1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Giải mã và xuất IPA. Chỉ hoạt động khi cài với Trollstore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://raw.githubusercontent.com/qbap/ONEJailbreak/main/AppDump2.0.7-1.tipa",
+     "size": 989854
+    },
+    {
+     "version": "3.3",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Giải mã và xuất IPA - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AppsDump_3.3_TTJB.tipa",
+     "size": 730370
+    },
+    {
+     "version": "2.0.7",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Giải mã và xuất IPA. Chỉ hoạt động khi cài với Trollstore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://raw.githubusercontent.com/qbap/ONEJailbreak/main/AppDump2.0.7-1.tipa",
+     "size": 614335
+    }
+   ]
+  }
+ ]
+}

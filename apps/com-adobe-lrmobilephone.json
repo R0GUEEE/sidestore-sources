@@ -1,0 +1,30 @@
+{
+ "name": "Lightroom",
+ "identifier": "dev.perapp.com-adobe-lrmobilephone",
+ "subtitle": "Lightroom",
+ "description": "Single-app source for Lightroom (com.adobe.lrmobilephone). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.lrmobilephone",
+   "name": "Lightroom",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.0.0",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Lightroom_12.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 221810101
+    }
+   ]
+  }
+ ]
+}

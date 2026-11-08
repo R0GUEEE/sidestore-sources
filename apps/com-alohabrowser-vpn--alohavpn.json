@@ -1,0 +1,30 @@
+{
+ "name": "AlohaVpn",
+ "identifier": "dev.perapp.com-alohabrowser-vpn",
+ "subtitle": "AlohaVpn",
+ "description": "Single-app source for AlohaVpn (com.alohabrowser.vpn). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alohabrowser.vpn",
+   "name": "AlohaVpn",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.0",
+     "date": "2025-02-07T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/AlohaVpn_2.5.0_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 162321152
+    }
+   ]
+  }
+ ]
+}

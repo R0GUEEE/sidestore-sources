@@ -1,0 +1,30 @@
+{
+ "name": "pocket",
+ "identifier": "dev.perapp.com-timonharz-pocket",
+ "subtitle": "ipaomtk.com | What is Local AI Chat – Pocket IPA? Local AI Chat – Pocket IPA is the iOS installable version of a private",
+ "description": "Single-app source for pocket (com.TimonHarz.pocket). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Local-AI-Chat-8211-pocket-IPA-v0.5.3-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TimonHarz.pocket",
+   "name": "pocket",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Local AI Chat – Pocket IPA? Local AI Chat – Pocket IPA is the iOS installable version of a private AI assistant app that runs en",
+   "localizedDescription": "ipaomtk.com | What is Local AI Chat – Pocket IPA? Local AI Chat – Pocket IPA is the iOS installable version of a private AI assistant app that runs en",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Local-AI-Chat-8211-pocket-IPA-v0.5.3-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.3",
+     "date": "2026-04-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Local AI Chat – Pocket IPA? Local AI Chat – Pocket IPA is the iOS installable version of a private AI assistant app that runs en",
+     "downloadURL": "https://file.ipaomtk.com/local-ai-chat-pocket/Local-AI-Chat-pocket-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

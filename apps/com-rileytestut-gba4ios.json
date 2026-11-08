@@ -1,0 +1,30 @@
+{
+ "name": "GBA4iOS",
+ "identifier": "dev.perapp.com-rileytestut-gba4ios",
+ "subtitle": "GBA4iOS is a Game Boy Advance emulator created by iOS developer Riley Testut. Built and designed from the ground up for ",
+ "description": "Single-app source for GBA4iOS (com.rileytestut.GBA4iOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://operationidroid.com/assets/img/gba4ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.GBA4iOS",
+   "name": "GBA4iOS",
+   "developerName": "Riley Testut",
+   "subtitle": "GBA4iOS is a Game Boy Advance emulator created by iOS developer Riley Testut. Built and designed from the ground up for iOS 7, GBA4iOS takes advantage",
+   "localizedDescription": "GBA4iOS is a Game Boy Advance emulator created by iOS developer Riley Testut. Built and designed from the ground up for iOS 7, GBA4iOS takes advantage",
+   "iconURL": "https://operationidroid.com/assets/img/gba4ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "GBA4iOS is a Game Boy Advance emulator created by iOS developer Riley Testut. Built and designed from the ground up for iOS 7, GBA4iOS takes advantage",
+     "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/demo/GBA4iOS.ipa",
+     "size": 11401733
+    }
+   ]
+  }
+ ]
+}

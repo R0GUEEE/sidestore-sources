@@ -1,0 +1,30 @@
+{
+ "name": "Unc0verLauncher_TS",
+ "identifier": "dev.perapp.synthetic-unc0verlauncher-ts-af768072",
+ "subtitle": "u0Launcher v1.0.1 - Fixes u0 step 18-19 codesign error. Requires Unc0ver to also be installed through TrollStore. When j",
+ "description": "Single-app source for Unc0verLauncher_TS (synthetic.unc0verlauncher-ts.af768072). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Unc0verLauncher_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.unc0verlauncher-ts.af768072",
+   "name": "Unc0verLauncher_TS",
+   "developerName": "Unc0verLauncher_TS x CyPwn",
+   "subtitle": "u0Launcher v1.0.1 - Fixes u0 step 18-19 codesign error. Requires Unc0ver to also be installed through TrollStore. When jailbreaking, start this u0Laun",
+   "localizedDescription": "u0Launcher v1.0.1 - Fixes u0 step 18-19 codesign error. Requires Unc0ver to also be installed through TrollStore. When jailbreaking, start this u0Laun",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Unc0verLauncher_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "u0Launcher v1.0.1 - Fixes u0 step 18-19 codesign error. Requires Unc0ver to also be installed through TrollStore. When jailbreaking, start this u0Laun",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Unc0verLauncher_TS.ipa",
+     "size": 558888
+    }
+   ]
+  }
+ ]
+}

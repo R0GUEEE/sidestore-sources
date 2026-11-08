@@ -1,0 +1,34 @@
+{
+ "name": "Screen Stream",
+ "identifier": "dev.perapp.com-mobilenext-devicekit-ios",
+ "subtitle": "A modern WebDriverAgent alternative. JSON-RPC server for iOS device automation — touch, inspect, stream, control",
+ "description": "Single-app source for Screen Stream (com.mobilenext.devicekit-ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#27b769",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mobilenext.devicekit-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobilenext.devicekit-ios",
+   "name": "Screen Stream",
+   "developerName": "mobile-next",
+   "subtitle": "A modern WebDriverAgent alternative. JSON-RPC server for iOS device automation — touch, inspect, stream, control",
+   "localizedDescription": "DeviceKit iOS:\n\nControl any iOS device or simulator over a simple JSON-RPC API. Tap, swipe, stream video, inspect the UI, from any language, over localhost.\n\nWhat You Can Build:\n\n• Interactive automation — Tap, swipe, long-press, type text, press hardware buttons (home, lock, volume).\n• App control — Launch, terminate, and detect the foreground app by bundle ID.\n• Live screen visibility — MJPEG and H264 streaming at configurable FPS, bitrate, and quality.\n• UI inspection — Full accessibility tree dumps for element targeting.\n• Screenshots — PNG or JPEG capture with configurable quality.\n• System control — Get/set orientation, open URLs, query screen size and scale.\n• Broadcast audio/video — ReplayKit extension with H264 video and Opus audio over TCP.\n• Flexible transport — JSON-RPC 2.0 over WebSocket or HTTP, from any language.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mobilenext.devicekit-ios.png",
+   "tintColor": "#27b769",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.36",
+     "date": "2026-10-31T22:10:33Z",
+     "localizedDescription": "• Perf: make device.dump.ui fast on heavy React Native screens (), thanks to @avilashp-sportsbet.",
+     "downloadURL": "https://github.com/mobile-next/devicekit-ios/releases/download/0.0.36/devicekit-ios.ipa",
+     "size": 542228
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

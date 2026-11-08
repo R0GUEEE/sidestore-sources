@@ -1,0 +1,30 @@
+{
+ "name": "Tachimanga",
+ "identifier": "dev.perapp.com-mangacrush-ios",
+ "subtitle": "Tachimanga",
+ "description": "Single-app source for Tachimanga (com.mangacrush.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mangacrush.ios",
+   "name": "Tachimanga",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.3",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Tachimanga_5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 135260522
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "macOS Icons",
+ "identifier": "dev.perapp.com-timi2506-macosicons",
+ "subtitle": "an Application to quickly search, browse and share or download macOS Icons from macOSicons.com  Built in SwiftUI, API Re",
+ "description": "Single-app source for macOS Icons (com.timi2506.macosicons). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/macOS-Icons.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.timi2506.macosicons",
+   "name": "macOS Icons",
+   "developerName": "timi2506",
+   "subtitle": "an Application to quickly search, browse and share or download macOS Icons from macOSicons.com  Built in SwiftUI, API Requests made with Alamofire  Re",
+   "localizedDescription": "an Application to quickly search, browse and share or download macOS Icons from macOSicons.com  Built in SwiftUI, API Requests made with Alamofire  Re",
+   "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/macOS-Icons.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "an Application to quickly search, browse and share or download macOS Icons from macOSicons.com  Built in SwiftUI, API Requests made with Alamofire  Re",
+     "downloadURL": "https://github.com/timi2506/macOS-Icons-SwiftUI/releases/download/1.0/macOS-Icons-iOS-1.0.ipa",
+     "size": 167000
+    }
+   ]
+  }
+ ]
+}

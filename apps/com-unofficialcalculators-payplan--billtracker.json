@@ -1,0 +1,44 @@
+{
+ "name": "BillTracker",
+ "identifier": "dev.perapp.com-unofficialcalculators-payplan",
+ "subtitle": "BillTracker",
+ "description": "Single-app source for BillTracker (com.unofficialcalculators.payplan). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unofficialcalculators.payplan",
+   "name": "BillTracker",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.37",
+     "date": "2026-09-25T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+     "size": 165017984
+    },
+    {
+     "version": "4.2.36",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+     "size": 163614454
+    },
+    {
+     "version": "4.2.33",
+     "date": "2026-09-17T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+     "size": 165969757
+    }
+   ]
+  }
+ ]
+}

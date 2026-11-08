@@ -1,0 +1,37 @@
+{
+ "name": "GTA Vic City",
+ "identifier": "dev.perapp.com-rockstargames-gta3vc",
+ "subtitle": "GTA Vic City by Karbin-Store",
+ "description": "Single-app source for GTA Vic City (com.rockstargames.gta3vc). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA-Vic-City.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.gta3vc",
+   "name": "GTA Vic City",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA-Vic-City.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.13",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Việt Hóa - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/GTA.Vice.City_1.5.6_VH_TTJB.ipa",
+     "size": 924589971
+    },
+    {
+     "version": "1.5.6",
+     "date": "2026-06-04T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://archive.org/download/gta-vice-city-1.5.6-1721599381/GTA%20Vice%20City_1.5.6_1721599381.ipa",
+     "size": 1459220000
+    }
+   ]
+  }
+ ]
+}

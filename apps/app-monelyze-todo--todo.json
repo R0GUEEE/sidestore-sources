@@ -1,0 +1,37 @@
+{
+ "name": "ToDo",
+ "identifier": "dev.perapp.app-monelyze-todo",
+ "subtitle": "ToDo",
+ "description": "Single-app source for ToDo (app.monelyze.ToDo). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/df/97/61df9757-1794-feb9-c8db-ff62afb926f1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "app.monelyze.ToDo",
+   "name": "ToDo",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: To Do List\n⁣\nTweak: Premium Unlocked\n\nBundle ID: app.monelyze.ToDo\n\nDeveloper: Monelyze Inc.\n\nVersion: 5.2.2\n\nMade by riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/df/97/61df9757-1794-feb9-c8db-ff62afb926f1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.3.3",
+     "date": "2026-08-11T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2165",
+     "size": 35344171
+    },
+    {
+     "version": "5.2.2",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: To Do List\n⁣\nTweak: Premium Unlocked\n\nBundle ID: app.monelyze.ToDo\n\nDeveloper: Monelyze Inc.\n\nVersion: 5.2.2\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/93e52109-ffbf-401a-ab6a-9ad79019a061/ToDoList_v5.2.2-riftysipas.ipa",
+     "size": 4017008
+    }
+   ]
+  }
+ ]
+}

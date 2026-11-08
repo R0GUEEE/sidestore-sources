@@ -1,0 +1,37 @@
+{
+ "name": "Neubook",
+ "identifier": "dev.perapp.com-upbrew-neubook",
+ "subtitle": "@Sa1y0miii | Neubook: EPUB & RSS Reader 🧸 Min.iOS: [15.0+] 🧀 App version: [1.9.1]⠀new! 🪼 App Store: https://apps.apple.c",
+ "description": "Single-app source for Neubook (com.upbrew.neubook). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11302.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.upbrew.neubook",
+   "name": "Neubook",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | Neubook: EPUB & RSS Reader 🧸 Min.iOS: [15.0+] 🧀 App version: [1.9.1]⠀new! 🪼 App Store: https://apps.apple.com/app/id6761379091 📮 Notes: S",
+   "localizedDescription": "@Sa1y0miii | Neubook: EPUB & RSS Reader 🧸 Min.iOS: [15.0+] 🧀 App version: [1.9.1]⠀new! 🪼 App Store: https://apps.apple.com/app/id6761379091 📮 Notes: S",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11302.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.0",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Neubook: EPUB & RSS Reader 🧸 Min.iOS: [15.0+] 🧀 App version: [1.9.2] !upd  🪼 App Store: https://apps.apple.com/app/id6761379091 📮 Notes: ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15652-%E2%80%8E%20Neubook_v1.9.2_tg@Sa1y0miii.ipa",
+     "size": 28195863
+    },
+    {
+     "version": "1.8.3",
+     "date": "2026-08-13T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Neubook: EPUB & RSS Reader 🧸 Min.iOS: [15.0+] 🧀 App version: [1.9.1]⠀new! 🪼 App Store: https://apps.apple.com/app/id6761379091 📮 Notes: S",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/11302-%E2%80%8E%20Neubook_v1.9.1_tg@Sa1y0miii.ipa",
+     "size": 33187314
+    }
+   ]
+  }
+ ]
+}

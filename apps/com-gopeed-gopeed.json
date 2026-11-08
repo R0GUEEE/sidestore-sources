@@ -1,0 +1,38 @@
+{
+ "name": "Gopeed",
+ "identifier": "dev.perapp.com-gopeed-gopeed",
+ "subtitle": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter",
+ "description": "Single-app source for Gopeed (com.gopeed.gopeed). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4fc25f",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.gopeed.gopeed.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gopeed.gopeed",
+   "name": "Gopeed",
+   "developerName": "GopeedLab",
+   "subtitle": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter",
+   "localizedDescription": "🚀 Introduction:\n\nGopeed (short for Go Speed) is a fast, modern, free, and open-source download manager built with Go and Flutter. It supports HTTP, HTTPS, BitTorrent, magnet links, and ed2k on desktop, mobile, and the web.\n\nBeyond core download management, Gopeed offers browser integration, JavaScript extensions, a REST API, a CLI, and a self-hosted web UI for customization and automation.\n\nVisit ✈ Official Website.\n\n✨ Features:\n\n• 📋 Flexible task management — pause, resume, retry, run batch operations, search, filter by status, organize with categories, and recover tasks after a restart.\n• 🪶 Lightweight native experience — the main interface is rendered natively with Flutter. No Electron. No WebView shell. Enjoy a smaller footprint, lower overhead, and responsive performance.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.gopeed.gopeed.png",
+   "tintColor": "#4fc25f",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/GopeedLab/gopeed@main/_docs/img/ui-concept-en.webp"
+   ],
+   "versions": [
+    {
+     "version": "1.9.3",
+     "date": "2026-03-18T12:54:20Z",
+     "localizedDescription": "🐛 Bug Fixes:\n\n• fix: update isCreate logic for pending tasks @Roxym3 (#1314).\n• fix: update RPM icon path @monkeyWie (#1309).\n\n🌎 Internationalization:\n\n• feat(lang): Catalan language added @kayron8 (#1303).\n• feat(lang): update Turkish translation @Hweord (#1304).\n\n• feat: ed2k 协议支持 (重大特性！！！) @monkeyWie (#1316).\n\n🐛 Bug Fixes:\n\n• fix: 更新 RPM 图标路径 @monkeyWie (#1309).\n\n🌎 Internationalization:\n\n• feat(lang): 更新土耳其语言 @Hweord (#1304).",
+     "downloadURL": "https://github.com/GopeedLab/gopeed/releases/download/v1.9.3/Gopeed-v1.9.3-ios.ipa",
+     "size": 27488140
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryUsageDescription": "Photos can be shared to and used in this app"
+    }
+   }
+  }
+ ]
+}

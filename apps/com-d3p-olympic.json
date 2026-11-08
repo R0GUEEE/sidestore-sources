@@ -1,0 +1,37 @@
+{
+ "name": "Magic: Puzzle Quest",
+ "identifier": "dev.perapp.com-d3p-olympic",
+ "subtitle": "ipaomtk.com | Magic: Puzzle Quest on iOS blends the iconic fantasy universe of Magic with addictive match-3 puzzle mecha",
+ "description": "Single-app source for Magic: Puzzle Quest (com.d3p.olympic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Magic-Puzzle-Quest-IPA-v7.7.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.d3p.olympic",
+   "name": "Magic: Puzzle Quest",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Magic: Puzzle Quest on iOS blends the iconic fantasy universe of Magic with addictive match-3 puzzle mechanics, creating a hybrid experi",
+   "localizedDescription": "ipaomtk.com | Magic: Puzzle Quest on iOS blends the iconic fantasy universe of Magic with addictive match-3 puzzle mechanics, creating a hybrid experi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Magic-Puzzle-Quest-IPA-v7.7.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.7.2",
+     "date": "2026-03-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Magic: Puzzle Quest on iOS blends the iconic fantasy universe of Magic with addictive match-3 puzzle mechanics, creating a hybrid experi",
+     "downloadURL": "https://file.ipaomtk.com/Magic-Puzzle-Quest/Magic-Puzzle-Quest-ipaomtk.com.ipa",
+     "size": 0
+    },
+    {
+     "version": "8.2.1",
+     "date": "2026-03-03T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Magic: Puzzle Quest on iOS blends the iconic fantasy universe of Magic with addictive match-3 puzzle mechanics, creating a hybrid experi",
+     "downloadURL": "https://file.ipaomtk.com/Magic-Puzzle-Quest/Magic-Puzzle-Quest-ipaomtk.com.ipa",
+     "size": 122197735
+    }
+   ]
+  }
+ ]
+}

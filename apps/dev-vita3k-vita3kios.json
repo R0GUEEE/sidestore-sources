@@ -1,0 +1,30 @@
+{
+ "name": "Veeb",
+ "identifier": "dev.perapp.dev-vita3k-vita3kios",
+ "subtitle": "Veeb:  Vita is for Weebs.  !  Veeb is an experimental PlayStation Vita emulator built specifically for iOS 26 and newer.",
+ "description": "Single-app source for Veeb (dev.vita3k.Vita3KIos). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.vita3k.Vita3KIos.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.vita3k.Vita3KIos",
+   "name": "Veeb",
+   "developerName": "veebteam",
+   "subtitle": "Veeb:  Vita is for Weebs.  !  Veeb is an experimental PlayStation Vita emulator built specifically for iOS 26 and newer.  The project is focused on br",
+   "localizedDescription": "Veeb:  Vita is for Weebs.  !  Veeb is an experimental PlayStation Vita emulator built specifically for iOS 26 and newer.  The project is focused on br\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.vita3k.Vita3KIos.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Veeb:  Vita is for Weebs.  !  Veeb is an experimental PlayStation Vita emulator built specifically for iOS 26 and newer.  The project is focused on br",
+     "downloadURL": "https://github.com/veebteam/Veeb/releases/download/0.1.0/Veeb-unsigned.ipa",
+     "size": 20219082
+    }
+   ]
+  }
+ ]
+}

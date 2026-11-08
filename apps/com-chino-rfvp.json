@@ -1,0 +1,40 @@
+{
+ "name": "RFVPLauncher",
+ "identifier": "dev.perapp.com-chino-rfvp",
+ "subtitle": "A Non-Official Rust cross-platform implementation of the FVP engine & IDE",
+ "description": "Single-app source for RFVPLauncher (com.chino.rfvp). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#5c9de1",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chino.rfvp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chino.rfvp",
+   "name": "RFVPLauncher",
+   "developerName": "xmoezzz",
+   "subtitle": "A Non-Official Rust cross-platform implementation of the FVP engine & IDE",
+   "localizedDescription": "What is rfvp?:\n\n• See setsusmei for details.\n• You can even use rfvp as an Operation System! Turn on your computer and boot with the UEFI program.\n\nConsole support:\n\nThese are game frames captured from RFVP running in emulators.\n\nrfvp debug HUD:\n\n• Enable it with F2 hotkey (Fn + F2 on MacOS).\n• Only desktop platforms (Windows, Linux, macOS) for now.\n\nCustom Font:\n\n• By default, the engine uses a built-in font that is compatible with all original games. However, you can also use a custom font by put a ttf file in the font directory under the game data directory.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chino.rfvp.png",
+   "tintColor": "#5c9de1",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/xmoezzz/rfvp@main/images/in-game.png",
+    "https://cdn.jsdelivr.net/gh/xmoezzz/rfvp@main/images/legacy.png",
+    "https://cdn.jsdelivr.net/gh/xmoezzz/rfvp@main/images/uefi.png",
+    "https://cdn.jsdelivr.net/gh/xmoezzz/rfvp@main/images/win95-painter.png",
+    "https://cdn.jsdelivr.net/gh/xmoezzz/rfvp@main/images/platforms/ps1.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-25T14:30:48Z",
+     "localizedDescription": "Rolling pre-release from non-tag push.\n\nVersion: v0.7.0 Commit: 9f07adef2eb5d559777f9bf59a67b756875cb24f Short SHA: 9f07ade.",
+     "downloadURL": "https://github.com/xmoezzz/rfvp/releases/download/pre-release/RFVPLauncher.ipa",
+     "size": 19877647
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

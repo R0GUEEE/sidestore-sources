@@ -1,0 +1,42 @@
+{
+ "name": "Dream Catcher",
+ "identifier": "dev.perapp.com-waleedrizwan-dreamcatcher",
+ "subtitle": "A free, private snore tracker for iPhone",
+ "description": "Single-app source for Dream Catcher (com.waleedrizwan.DreamCatcher). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6f63b8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.waleedrizwan.DreamCatcher.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.waleedrizwan.DreamCatcher",
+   "name": "Dream Catcher",
+   "developerName": "waleedrizwan",
+   "subtitle": "A free, private snore tracker for iPhone",
+   "localizedDescription": "Dream Catcher:\n\nVibe coded replacement for Snore Labs. Does the same thing. Free.\n\nGet it:\n\nIt's in review right now, so the link goes live once Apple approves it.\n\nFor developers:\n\nTo release a new version: add notes to CHANGELOG.md, bump MARKETING_VERSION, then git tag v0.2.0 && git push origin v0.2.0. GitHub builds the .ipa and publishes the release.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.waleedrizwan.DreamCatcher.png",
+   "tintColor": "#6f63b8",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/waleedrizwan/DreamCatcher@main/docs/screenshots/1-home.png",
+    "https://cdn.jsdelivr.net/gh/waleedrizwan/DreamCatcher@main/docs/screenshots/2-report.png",
+    "https://cdn.jsdelivr.net/gh/waleedrizwan/DreamCatcher@main/docs/screenshots/3-report-detail.png",
+    "https://cdn.jsdelivr.net/gh/waleedrizwan/DreamCatcher@main/docs/screenshots/4-history.png",
+    "https://cdn.jsdelivr.net/gh/waleedrizwan/DreamCatcher@main/docs/screenshots/5-trends.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-07T21:20:33Z",
+     "localizedDescription": "First App Store release.\n\n• Snore clips play at a normal volume through the speaker (they used to be almost silent).\n• Sessions are kept from 2 minutes (was 5).\n• Settings → About credits YAMNet.\n• Report timeline: the last hour label no longer truncates to \"…\".\n• Trends: the week and month windows are the last 7 and 30 calendar nights, so a night you didn't record shows as an empty slot and counts in \"N of M nights recorded\".\n• Trends: a date axis with readable labels in both the week and month views.",
+     "downloadURL": "https://github.com/waleedrizwan/DreamCatcher/releases/download/v1.0.0/DreamCatcher.ipa",
+     "size": 16215561
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSMicrophoneUsageDescription": "Dream Catcher listens overnight to detect snoring. Audio is analyzed on your phone; only short snore clips are saved, and audio never leaves your device."
+    }
+   }
+  }
+ ]
+}

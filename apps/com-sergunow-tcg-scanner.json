@@ -1,0 +1,44 @@
+{
+ "name": "ScanDex",
+ "identifier": "dev.perapp.com-sergunow-tcg-scanner",
+ "subtitle": "@Sa1y0miii | TCG Scanner Card – ScanDex 🧸 Min.iOS: [17.0+] 🧀 App version: [1.9] !upd  🪼 App Store: https://apps.apple.co",
+ "description": "Single-app source for ScanDex (com.sergunow.TCG-Scanner). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10763.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sergunow.TCG-Scanner",
+   "name": "ScanDex",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | TCG Scanner Card – ScanDex 🧸 Min.iOS: [17.0+] 🧀 App version: [1.9] !upd  🪼 App Store: https://apps.apple.com/app/id6748579871 📮 Notes: Su",
+   "localizedDescription": "@Sa1y0miii | TCG Scanner Card – ScanDex 🧸 Min.iOS: [17.0+] 🧀 App version: [1.9] !upd  🪼 App Store: https://apps.apple.com/app/id6748579871 📮 Notes: Su",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10763.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2",
+     "date": "2026-09-09T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | TCG Scanner Card – ScanDex 🧸 Min.iOS: [17.0+] 🧀 App version: [2.2] !upd  🪼 App Store: https://apps.apple.com/app/id6748579871 📮 Notes: Su",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/12533-%E2%80%8ETCG%20Scanner%20Card_v2.2_tg@Sa1y0miii.ipa",
+     "size": 14229849
+    },
+    {
+     "version": "2.1",
+     "date": "2026-08-26T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | TCG Scanner Card – ScanDex 🧸 Min.iOS: [17.0+] 🧀 App version: [2.1] !upd  🪼 App Store: https://apps.apple.com/app/id6748579871 📮 Notes: Su",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/11857-%E2%80%8ETCG%20Scanner%20Card_v2.1_tg@Sa1y0miii.ipa",
+     "size": 17090131
+    },
+    {
+     "version": "2.0",
+     "date": "2026-08-11T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | TCG Scanner Card – ScanDex 🧸 Min.iOS: [17.0+] 🧀 App version: [2.0] !upd  🪼 App Store: https://apps.apple.com/app/id6748579871 📮 Notes: Su",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/11184-%E2%80%8ETCG%20Scanner%20Card_v2.0_tg@Sa1y0miii.ipa",
+     "size": 17037468
+    }
+   ]
+  }
+ ]
+}

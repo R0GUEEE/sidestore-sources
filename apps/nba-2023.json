@@ -1,0 +1,30 @@
+{
+ "name": "NBA 2K23 - Arcade Edition",
+ "identifier": "dev.perapp.nba-2023",
+ "subtitle": "NBA 2K23 - Arcade Edition by sidelix",
+ "description": "Single-app source for NBA 2K23 - Arcade Edition (NBA.2023). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1781103676.png",
+ "apps": [
+  {
+   "bundleIdentifier": "NBA.2023",
+   "name": "NBA 2K23 - Arcade Edition",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "NBA 2K23 Arcade Edition – meet most of the basketball celebrities and join the ranks of the NBA team as a coach, as well as a general manager! Teach each character special skills, assign certain types of training to each of them, monitor the progress made, get important achievements, make your way to the list of the best players around the world and become legends of this sport. Change different strategies and experiment on games with any rivals, do not forget to control the finances of the team as well, so as not to remain bankrupt.",
+   "iconURL": "https://appstore.sidelix.vip/images/1781103676.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.40",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "NBA 2K23 Arcade Edition – meet most of the basketball celebrities and join the ranks of the NBA team as a coach, as well as a general manager! Teach each character special skills, assign certain types of training to each of them, monitor the progress made, get important achievements, make your way to the list of the best players around the world and become legends of this sport. Change different strategies and experiment on games with any rivals, do not forget to control the finances of the team as well, so as not to remain bankrupt.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2020",
+     "size": 1809464664
+    }
+   ]
+  }
+ ]
+}

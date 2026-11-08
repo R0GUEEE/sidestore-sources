@@ -1,0 +1,44 @@
+{
+ "name": "Water Reminder",
+ "identifier": "dev.perapp.com-vgfit-waterreminder",
+ "subtitle": "Water Reminder",
+ "description": "Single-app source for Water Reminder (com.vgfit.waterreminder). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/6c1c9d9e-620a-45f2-9369-648b5d1c3671/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vgfit.waterreminder",
+   "name": "Water Reminder",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @blatants |\n----------------\n📱 Water Reminder - Daily Tracker\n\n🆔 Bundle ID: \ncom.vgfit.waterreminder\n📊 Version: 1.9.29\n🔧 Minimum iOS: 12.0\n\n✅ Patched\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/6c1c9d9e-620a-45f2-9369-648b5d1c3671/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.11.3",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-09-2026/WaterReminder_1.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 51884635
+    },
+    {
+     "version": "1.11.2",
+     "date": "2026-09-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/WaterReminder_1.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 51888030
+    },
+    {
+     "version": "1.10.1",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/WaterReminder_1.10.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 39600486
+    }
+   ]
+  }
+ ]
+}

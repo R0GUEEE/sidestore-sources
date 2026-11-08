@@ -1,0 +1,30 @@
+{
+ "name": "GSpotify (v1.0 - Patched) iOSDecrypted",
+ "identifier": "dev.perapp.com-spotify-client-ios-gspotify-1-0-patched-9-1-82-iosdecryp",
+ "subtitle": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+ "description": "Single-app source for GSpotify (v1.0 - Patched) iOSDecrypted (com.spotify.client.ios.gspotify.1.0.patched.9.1.82.iosdecrypted). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.gspotify.1.0.patched.9.1.82.iosdecrypted",
+   "name": "GSpotify (v1.0 - Patched) iOSDecrypted",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+   "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.82",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+     "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DSP_9.1.82_GS.ipa",
+     "size": 134218818
+    }
+   ]
+  }
+ ]
+}

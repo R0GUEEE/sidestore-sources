@@ -1,0 +1,38 @@
+{
+ "name": "Rust DICOM Station",
+ "identifier": "dev.perapp.io-github-alexprotom-rust-dicom-station",
+ "subtitle": "Rust DICOM Station (RDS) is an open-source medical imaging and radiotherapy platform written in Rust. It supports DICOM ",
+ "description": "Single-app source for Rust DICOM Station (io.github.alexprotom.rust-dicom-station). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0284c7",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.alexprotom.rust-dicom-station.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.alexprotom.rust-dicom-station",
+   "name": "Rust DICOM Station",
+   "developerName": "alexprotom",
+   "subtitle": "Rust DICOM Station (RDS) is an open-source medical imaging and radiotherapy platform written in Rust. It supports DICOM viewing, registration, contour propagation, 4D motion analysis, DVH, RT objects,",
+   "localizedDescription": "Rust DICOM Station (RDS) is an open-source medical imaging and radiotherapy platform written in Rust. It supports DICOM viewing, registration, contour propagation, 4D motion analysis, DVH, RT objects, AI-assisted segmentation, 3D visualization, export, and an MCP server for headless AI-driven workflows",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.alexprotom.rust-dicom-station.png",
+   "tintColor": "#0284c7",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/alexprotom/rust-dicom-station@main/docs/screenshot_overview.png"
+   ],
+   "versions": [
+    {
+     "version": "0.12.0",
+     "date": "2026-11-03T09:38:07Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/alexprotom/rust-dicom-station/releases/download/v0.12.0/rust-dicom-station-0.12.0-ios.ipa",
+     "size": 30107970
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Rust DICOM Station connects to a PACS on your network to query and retrieve studies."
+    }
+   }
+  }
+ ]
+}

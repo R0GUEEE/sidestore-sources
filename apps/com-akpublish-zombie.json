@@ -1,0 +1,37 @@
+{
+ "name": "Zombeast",
+ "identifier": "dev.perapp.com-akpublish-zombie",
+ "subtitle": "ipaomtk.com | Zombeast Zombie Shooter IPA iOS, This thrilling game takes you on a post-apocalyptic journey where you mus",
+ "description": "Single-app source for Zombeast (com.akpublish.zombie). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/Zombeast-Zombie-Shooter-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.akpublish.zombie",
+   "name": "Zombeast",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Zombeast Zombie Shooter IPA iOS, This thrilling game takes you on a post-apocalyptic journey where you must survive in a world infested ",
+   "localizedDescription": "ipaomtk.com | Zombeast Zombie Shooter IPA iOS, This thrilling game takes you on a post-apocalyptic journey where you must survive in a world infested ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/Zombeast-Zombie-Shooter-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.42",
+     "date": "2024-03-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Zombeast Zombie Shooter IPA iOS, This thrilling game takes you on a post-apocalyptic journey where you must survive in a world infested ",
+     "downloadURL": "https://file.ipaomtk.com/Zombeast%20Zombie%20Shooter/Zombeast-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "0.46",
+     "date": "2024-03-12T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Zombeast Zombie Shooter IPA iOS, This thrilling game takes you on a post-apocalyptic journey where you must survive in a world infested ",
+     "downloadURL": "https://file.ipaomtk.com/Zombeast%20Zombie%20Shooter/Zombeast-IPAOMTK.COM.ipa",
+     "size": 910755263
+    }
+   ]
+  }
+ ]
+}

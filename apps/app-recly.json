@@ -1,0 +1,48 @@
+{
+ "name": "Recly",
+ "identifier": "dev.perapp.app-recly",
+ "subtitle": "Your AI recorder is already on your wrist",
+ "description": "Single-app source for Recly (app.recly). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e43534",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.recly.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.recly",
+   "name": "Recly",
+   "developerName": "rokrokss",
+   "subtitle": "Your AI recorder is already on your wrist",
+   "localizedDescription": "Recly:\n\nYour AI recorder is already on your wrist.\n\nA Plaud-style AI notetaker, running on the watch and phone you already own.Your Drive keeps the audio, your own key transcribes it, your own AI writes the notes.\n\nA Plaud or a NotePin sells you three things: a recorder, transcription, and AI notes. You already wear the recorder, and you already pay for the AI. Recly supplies the one piece you are missing, transcription on a supported device or with your own API key, and keeps the original audio in your Google Drive, iCloud or a folder you pick. There is no Recly server, no bot joining your call, and no monthly fee.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.recly.png",
+   "tintColor": "#e43534",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rokrokss/recly@main/docs/design/screenshots/en/01-record-for-your-ai.png",
+    "https://cdn.jsdelivr.net/gh/rokrokss/recly@main/docs/design/screenshots/en/02-transcribe.png",
+    "https://cdn.jsdelivr.net/gh/rokrokss/recly@main/docs/design/screenshots/en/03-notes.png",
+    "https://cdn.jsdelivr.net/gh/rokrokss/recly@main/docs/design/screenshots/en/04-list.png"
+   ],
+   "versions": [
+    {
+     "version": "0.3.3",
+     "date": "2026-11-07T09:18:17Z",
+     "localizedDescription": "What's new:\n\nRecly 0.3.3 build 48 keeps a slow answer from the App Store from holding up the iPhone.\n\nThe Android, Galaxy Watch and Windows apps behave as in build 47, and are rebuilt so that every platform carries this build's number.\n\nWindows: the app still reads 0.3.3, and this MSI is 0.3.7 because Windows upgrades only by that number. It upgrades earlier MSIs, and the Windows and Mac apps from build 42 on offer this build as an update.\n\nWhich file do I need:\n\nThe .aab files and the .ipa are the packages uploaded to Google Play and the App Store; you do not need them.",
+     "downloadURL": "https://github.com/rokrokss/recly/releases/download/v0.3.3-build.48/Recly-iOS-Watch-0.3.3-48.ipa",
+     "size": 62501068
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSMicrophoneUsageDescription": "Recly records meetings and memos so they can be transcribed."
+    }
+   }
+  }
+ ]
+}

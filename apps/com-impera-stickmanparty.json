@@ -1,0 +1,44 @@
+{
+ "name": "StickmanParty",
+ "identifier": "dev.perapp.com-impera-stickmanparty",
+ "subtitle": "StickmanParty by Karbin-Store",
+ "description": "Single-app source for StickmanParty (com.Impera.stickmanparty). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/StickmanParty.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Impera.stickmanparty",
+   "name": "StickmanParty",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/StickmanParty.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.1",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/StickmanParty-v2.4.5.4-.ipa",
+     "size": 81360000
+    },
+    {
+     "version": "2.4.8",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/StickmanParty-v2.4.5.4-.ipa",
+     "size": 87765579
+    },
+    {
+     "version": "2.4.9",
+     "date": "2024-07-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Prepare to embark on an exhilarating adventure with the Stickman Party 4 Player Games IPA MOD ! This captivating series has taken the ga",
+     "downloadURL": "https://file.ipaomtk.com/ipa/stickman-party-4-player-games.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

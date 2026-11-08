@@ -1,0 +1,30 @@
+{
+ "name": "YouMod (2.0.0) + Bonus Tweaks (Moe) - Patched",
+ "identifier": "dev.perapp.com-google-ios-youtube-youmod-2-0-0-moe-patched",
+ "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixe",
+ "description": "Single-app source for YouMod (2.0.0) + Bonus Tweaks (Moe) - Patched (com.google.ios.youtube.youmod.2.0.0.moe.patched). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.moe.patched",
+   "name": "YouMod (2.0.0) + Bonus Tweaks (Moe) - Patched",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro",
+   "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.43.5",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.43.5Moe-YouMod2.0.0Patched.ipa",
+     "size": 142116183
+    }
+   ]
+  }
+ ]
+}

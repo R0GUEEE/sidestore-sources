@@ -1,0 +1,44 @@
+{
+ "name": "Blossom",
+ "identifier": "dev.perapp.com-apalonapps-plants",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Blossom (com.apalonapps.plants). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.plants",
+   "name": "Blossom",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.plants.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.62.27",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-09-2025/Blossom_2.62.27_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 130977047
+    },
+    {
+     "version": "2.62.26",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/04-09-2025/Blossom_2.62.26_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 235743702
+    },
+    {
+     "version": "2.62.28",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-01-2026/Blossom_2.62.28_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 234985756
+    }
+   ]
+  }
+ ]
+}

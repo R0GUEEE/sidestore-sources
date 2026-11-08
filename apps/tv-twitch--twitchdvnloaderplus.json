@@ -1,0 +1,44 @@
+{
+ "name": "TwitchDvnloaderPlus",
+ "identifier": "dev.perapp.tv-twitch",
+ "subtitle": "TwitchDvnloaderPlus by TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
+ "description": "Single-app source for TwitchDvnloaderPlus (tv.twitch). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.twitch",
+   "name": "TwitchDvnloaderPlus",
+   "developerName": "TrollStore AppsUpdates / level3tjg / twitchdvn / dayanch96 / ArianaMinajj",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/tv.twitch.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "23.4-0.1.5",
+     "date": "2025-04-25T00:00:00Z",
+     "localizedDescription": "A compilation of TwitchAdBlock (23.4-0.1.5) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 26-04-2025\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/26-04-2025/TwitchDvnloaderPlus-23.4-0.1.5.ipa",
+     "size": 150094691
+    },
+    {
+     "version": "17.5.1",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "A compilation of TwitchAdBlock (23.4-0.1.5) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 26-04-2025\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchDvnloaderPlus/TwitchDvnloaderPlus-17.5.1.ipa",
+     "size": 90187568
+    },
+    {
+     "version": "20.5.3-0.1.4-0.0.2",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "A compilation of TwitchAdBlock (23.4-0.1.5) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 26-04-2025\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TwitchDvnloaderPlus/TwitchDvnloaderPlus-20.5.3-0.1.4-0.0.2.ipa",
+     "size": 92699005
+    }
+   ]
+  }
+ ]
+}

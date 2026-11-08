@@ -1,0 +1,44 @@
+{
+ "name": "Brite",
+ "identifier": "dev.perapp.io-konveier-timo",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Brite (io.konveier.timo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.konveier.timo",
+   "name": "Brite",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.konveier.timo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.0.32",
+     "date": "2026-10-05T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Daily Planner, Schedule: Brite  Tweak: Subscription Unlocked  Version: 25.0.32  Patched ✓  @riftysIPAlibrary  Additional Informati",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8223-Daily%20Planner,%20Schedule:%20Brite-v25.0.32-riftysipas.ipa",
+     "size": 27402401
+    },
+    {
+     "version": "25.0.30",
+     "date": "2026-09-19T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Daily Planner, Schedule: Brite  Tweak: Subscription Unlocked  Version: 25.0.30  Patched ✓  @riftysIPAlibrary  Additional Informati",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7983-Daily%20Planner,%20Schedule:%20Brite-v25.0.30-riftysipas.ipa",
+     "size": 26736505
+    },
+    {
+     "version": "24.4.9",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Brite_24.4.9_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 25567397
+    }
+   ]
+  }
+ ]
+}

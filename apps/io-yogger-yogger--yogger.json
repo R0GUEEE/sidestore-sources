@@ -1,0 +1,44 @@
+{
+ "name": "Yogger",
+ "identifier": "dev.perapp.io-yogger-yogger",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Yogger (io.yogger.Yogger). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.yogger.Yogger",
+   "name": "Yogger",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.yogger.Yogger.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.2",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-11-2025/Yogger_5.1.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 72204249
+    },
+    {
+     "version": "4.2.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-09-2025/Yogger_4.2.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 71469202
+    },
+    {
+     "version": "5.3.2",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/Yogger_5.3.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 73804361
+    }
+   ]
+  }
+ ]
+}

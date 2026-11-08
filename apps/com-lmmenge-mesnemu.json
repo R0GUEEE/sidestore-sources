@@ -1,0 +1,30 @@
+{
+ "name": "MeSNEmu",
+ "identifier": "dev.perapp.com-lmmenge-mesnemu",
+ "subtitle": "ipaomtk.com | MeSNEmu IPA is a powerful iOS-multi-system emulator and play-through platform for gamers. This platform en",
+ "description": "Single-app source for MeSNEmu (com.lmmenge.MeSNEmu). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/MeSnesMu-1-150x150-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lmmenge.MeSNEmu",
+   "name": "MeSNEmu",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MeSNEmu IPA is a powerful iOS-multi-system emulator and play-through platform for gamers. This platform enables users to play and experi",
+   "localizedDescription": "ipaomtk.com | MeSNEmu IPA is a powerful iOS-multi-system emulator and play-through platform for gamers. This platform enables users to play and experi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/MeSnesMu-1-150x150-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.5.1",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MeSNEmu IPA is a powerful iOS-multi-system emulator and play-through platform for gamers. This platform enables users to play and experi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MeSNEmu.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

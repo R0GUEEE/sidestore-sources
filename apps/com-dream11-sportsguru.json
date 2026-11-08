@@ -1,0 +1,30 @@
+{
+ "name": "FanCode",
+ "identifier": "dev.perapp.com-dream11-sportsguru",
+ "subtitle": "FanCode",
+ "description": "Single-app source for FanCode (com.dream11.sportsguru). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dream11.sportsguru",
+   "name": "FanCode",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.26.2",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/53698034-0f4e-4ba0-b736-98da534831e0/FanCode_7.26.2.ipa",
+     "size": 33335164
+    }
+   ]
+  }
+ ]
+}

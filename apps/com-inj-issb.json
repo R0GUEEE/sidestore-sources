@@ -1,0 +1,30 @@
+{
+ "name": "iSSB",
+ "identifier": "dev.perapp.com-inj-issb",
+ "subtitle": "iSSB, developed by Luis Finke, is a mobile version of Super Smash Bros. for iOS. Brawl with your favorite characters suc",
+ "description": "Single-app source for iSSB (com.inj.issb). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://operationidroid.com/assets/img/issb-icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inj.issb",
+   "name": "iSSB",
+   "developerName": "Luis Finke",
+   "subtitle": "iSSB, developed by Luis Finke, is a mobile version of Super Smash Bros. for iOS. Brawl with your favorite characters such as Mario, Link, Sonic and mo",
+   "localizedDescription": "iSSB, developed by Luis Finke, is a mobile version of Super Smash Bros. for iOS. Brawl with your favorite characters such as Mario, Link, Sonic and mo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://operationidroid.com/assets/img/issb-icon.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.21",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "iSSB, developed by Luis Finke, is a mobile version of Super Smash Bros. for iOS. Brawl with your favorite characters such as Mario, Link, Sonic and mo",
+     "downloadURL": "https://file.dlninja.com/signed/a117/issb.ipa",
+     "size": 23421979
+    }
+   ]
+  }
+ ]
+}

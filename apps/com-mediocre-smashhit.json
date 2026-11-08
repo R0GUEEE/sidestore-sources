@@ -1,0 +1,44 @@
+{
+ "name": "Smash Hit",
+ "identifier": "dev.perapp.com-mediocre-smashhit",
+ "subtitle": "Smash Hit",
+ "description": "Single-app source for Smash Hit (com.mediocre.smashhit). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/1c/01/101c0188-5ae1-e570-02e5-aad12760fba7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mediocre.smashhit",
+   "name": "Smash Hit",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Smash Hit\n\nTweak: Free iAP\n\nVersion: 1.5.5\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/1c/01/101c0188-5ae1-e570-02e5-aad12760fba7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.9",
+     "date": "2026-06-23T00:00:00Z",
+     "localizedDescription": "Mod menu features:\r\n- no die - Vip \r\n\r\n- unlimited balls - Vip \r\n\r\n- Premium unlocked - Free \r\n\r\n- multiballs - Vip\r\n\r\n- ball frenzy - free\r\n\r\n- nitro balls - Vip\r\n\r\n- extra balls - Vip\r\n\r\n- anti gravity - Vip\r\n\r\n- homing balls - Vip\r\n\r\nAll descriptions of these features can be found in the in app menu \r\n\r\nYouTube demo: https://youtu.be/xxrcTNwbsGc",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2111",
+     "size": 65346935
+    },
+    {
+     "version": "1.5.8",
+     "date": "2026-06-16T00:00:00Z",
+     "localizedDescription": "Features:\r\n- in app purchase\r\n- Sideloading bypass",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2063",
+     "size": 62238726
+    },
+    {
+     "version": "1.5.5",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Smash Hit\n\nTweak: Free iAP\n\nVersion: 1.5.5\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/42fb96bd-e64d-447d-aaa9-49ea5360a435/Smash_Hit-v1.5.5-riftysipas.ipa",
+     "size": 58956694
+    }
+   ]
+  }
+ ]
+}

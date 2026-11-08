@@ -1,0 +1,30 @@
+{
+ "name": "Red Reign",
+ "identifier": "dev.perapp.com-ninjakiwi-redreign",
+ "subtitle": "ipaomtk.com | Red Reign IPA is an exciting iOS game that combines fast-paced action with the classic strategy of gaming.",
+ "description": "Single-app source for Red Reign (com.ninjakiwi.redreign). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/1200x630bb-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ninjakiwi.redreign",
+   "name": "Red Reign",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Red Reign IPA is an exciting iOS game that combines fast-paced action with the classic strategy of gaming. With unlimited money, you can",
+   "localizedDescription": "ipaomtk.com | Red Reign IPA is an exciting iOS game that combines fast-paced action with the classic strategy of gaming. With unlimited money, you can",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/1200x630bb-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.1",
+     "date": "2023-10-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Red Reign IPA is an exciting iOS game that combines fast-paced action with the classic strategy of gaming. With unlimited money, you can",
+     "downloadURL": "https://file.ipaomtk.com/ipa/RedReign.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

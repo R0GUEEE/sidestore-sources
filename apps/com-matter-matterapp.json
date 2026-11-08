@@ -1,0 +1,30 @@
+{
+ "name": "MatterPremium",
+ "identifier": "dev.perapp.com-matter-matterapp",
+ "subtitle": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better",
+ "description": "Single-app source for MatterPremium (com.Matter.MatterApp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Matter.MatterApp",
+   "name": "MatterPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience. Last…",
+   "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience.\nLast updated: 07-16-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.Matter.MatterApp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "App that organizes articles, newsletters, and more in one spot, offering advanced tools like text-to-speech for a better reading experience. Last…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MatterPremium/MatterPremium-3.6.ipa",
+     "size": 83897045
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "FNAF World",
+ "identifier": "dev.perapp.com-clickteam-fnafworld",
+ "subtitle": "FNAF World - IOS Port",
+ "description": "Single-app source for FNAF World (com.clickteam.fnafworld). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "e103f7",
+ "iconURL": "https://cdn.omnidev.org/fnafworldworks-WA.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.clickteam.fnafworld",
+   "name": "FNAF World",
+   "developerName": "Scott Cawthon",
+   "subtitle": "FNAF World - IOS Port",
+   "localizedDescription": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
+   "iconURL": "https://cdn.omnidev.org/fnafworldworks-WA.png",
+   "tintColor": "e103f7",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.0",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "Featuring the entire cast from the Five Nights at Freddy's series, this fantasy RPG will let players control their favorite animatronics in a an epic animated adventure!\nThis port might be inaccurate. Status: ✅",
+     "downloadURL": "https://cdn.omnidev.org/fnaf_world_mobile2-Yj.ipa",
+     "size": 100229120
+    }
+   ]
+  }
+ ]
+}

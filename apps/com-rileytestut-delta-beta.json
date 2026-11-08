@@ -1,0 +1,44 @@
+{
+ "name": "Delta (Beta)",
+ "identifier": "dev.perapp.com-rileytestut-delta-beta",
+ "subtitle": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genes",
+ "description": "Single-app source for Delta (Beta) (com.rileytestut.Delta.Beta). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.Delta.Beta",
+   "name": "Delta (Beta)",
+   "developerName": "Riley Testut",
+   "subtitle": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!  Please report any i",
+   "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!  Please report any i",
+   "iconURL": "https://user-images.githubusercontent.com/705880/63391976-4d311700-c37a-11e9-91a8-4fb0c454413d.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4b4",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Emulator for GBA, N64, and NDS Last updated: 09-23-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/Delta-1.4b4.ipa",
+     "size": 42958876
+    },
+    {
+     "version": "1.2b2",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "The next console for Delta is coming: this beta version of Delta brings support for playing DS games!  DS support currently includes: • Playing DS gam",
+     "downloadURL": "https://f000.backblazeb2.com/file/altstore/delta-beta.ipa",
+     "size": 18607156
+    },
+    {
+     "version": "1.7b5",
+     "date": "2025-02-24T00:00:00Z",
+     "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!  Please report any i",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_7_b5.ipa",
+     "size": 195842695
+    }
+   ]
+  }
+ ]
+}

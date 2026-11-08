@@ -1,0 +1,37 @@
+{
+ "name": "Movavi",
+ "identifier": "dev.perapp.com-movavi-clips",
+ "subtitle": "ipaomtk.com | Introduction Movavi – Video Editor IPA is a versatile iOS application created for users who want to edit v",
+ "description": "Single-app source for Movavi (com.movavi.clips). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Movavi-8211-Video-Editor-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.movavi.clips",
+   "name": "Movavi",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Movavi – Video Editor IPA is a versatile iOS application created for users who want to edit videos directly on their iPhone",
+   "localizedDescription": "ipaomtk.com | Introduction Movavi – Video Editor IPA is a versatile iOS application created for users who want to edit videos directly on their iPhone",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Movavi-8211-Video-Editor-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.1",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Movavi – Video Editor IPA is a versatile iOS application created for users who want to edit videos directly on their iPhone",
+     "downloadURL": "https://file.ipaomtk.com/Movavi%20-%20Video%20Editor/Movavi-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "4.1.2",
+     "date": "2023-12-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Finding an efficient and user-friendly video editing platform can be a daunting task. Fortunately, Movavi Clips Business IPA for iOS is ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Movavi.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

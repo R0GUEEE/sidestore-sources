@@ -1,0 +1,30 @@
+{
+ "name": "BH Twitter",
+ "identifier": "dev.perapp.com-atebits-tweetie1",
+ "subtitle": "X, turned back into Twitter! (With Tweaks)",
+ "description": "Single-app source for BH Twitter (com.atebits.Tweetie1). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/twitter_2023_07_24-z7.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.atebits.Tweetie1",
+   "name": "BH Twitter",
+   "developerName": "Elon Musk",
+   "subtitle": "X, turned back into Twitter! (With Tweaks)",
+   "localizedDescription": "A tweak for X, bringing back the old look and feel of Twitter, while keeping the new functionality of X. Also has multiple tweaks from BHX++\n\nStatus: ✅🌟🔥",
+   "iconURL": "https://cdn.omnidev.org/twitter_2023_07_24-z7.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1",
+     "date": "2024-09-19T00:00:00Z",
+     "localizedDescription": "A tweak for X, bringing back the old look and feel of Twitter, while keeping the new functionality of X. Also has multiple tweaks from BHX++\n\nStatus: ✅🌟🔥",
+     "downloadURL": "https://cdn.omnidev.org/BH_Twitter_sideloaded_IPA_Edit-pN.ipa",
+     "size": 195238232
+    }
+   ]
+  }
+ ]
+}

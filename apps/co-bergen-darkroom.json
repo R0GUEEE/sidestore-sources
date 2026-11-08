@@ -1,0 +1,30 @@
+{
+ "name": "Darkroom",
+ "identifier": "dev.perapp.co-bergen-darkroom",
+ "subtitle": "Darkroom",
+ "description": "Single-app source for Darkroom (co.bergen.Darkroom). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bergen.Darkroom.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.bergen.Darkroom",
+   "name": "Darkroom",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.bergen.Darkroom.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1.7",
+     "date": "2026-05-10T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/Darkroom_7.1.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 318270602
+    }
+   ]
+  }
+ ]
+}

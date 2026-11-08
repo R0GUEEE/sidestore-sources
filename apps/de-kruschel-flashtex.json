@@ -1,0 +1,30 @@
+{
+ "name": "Flashtex",
+ "identifier": "dev.perapp.de-kruschel-flashtex",
+ "subtitle": "Flashtex",
+ "description": "Single-app source for Flashtex (de.kruschel.flashtex). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.kruschel.flashtex.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.kruschel.flashtex",
+   "name": "Flashtex",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.kruschel.flashtex.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2025-11-16T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2025/Flashtex_2.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 36479685
+    }
+   ]
+  }
+ ]
+}

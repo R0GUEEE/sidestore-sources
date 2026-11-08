@@ -1,0 +1,44 @@
+{
+ "name": "Reels",
+ "identifier": "dev.perapp.com-tetianakolomiichuk-reel-templates",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Reels (com.TetianaKolomiichuk.Reel-Templates). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TetianaKolomiichuk.Reel-Templates",
+   "name": "Reels",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TetianaKolomiichuk.Reel-Templates.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.11.3",
+     "date": "2026-08-11T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Reels Templates & Maker - appstore  🇷🇺 Инструмент для создания эффектных видео с помощью готовых шаблонов. Позволяет быстро адаптировать",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1640-Reels%20Templates%20Maker%20%5Bv3.11.3%5D%28tg@ipa_dark%29.ipa",
+     "size": 151212313
+    },
+    {
+     "version": "3.5.2",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/02-12-2025/Reels_3.5.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 124831525
+    },
+    {
+     "version": "3.5.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-11-2025/Reels_3.5.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 124812248
+    }
+   ]
+  }
+ ]
+}

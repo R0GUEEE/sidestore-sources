@@ -1,0 +1,30 @@
+{
+ "name": "Unsharpened Camera",
+ "identifier": "dev.perapp.bei-wrh",
+ "subtitle": "ipaomtk.com | Unsharp IPA v1.0.8 is an innovative app designed for iOS users who seek to elevate their photography skill",
+ "description": "Single-app source for Unsharpened Camera (bei.wrh). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Unsharp-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "bei.wrh",
+   "name": "Unsharpened Camera",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Unsharp IPA v1.0.8 is an innovative app designed for iOS users who seek to elevate their photography skills by enhancing image sharpness",
+   "localizedDescription": "ipaomtk.com | Unsharp IPA v1.0.8 is an innovative app designed for iOS users who seek to elevate their photography skills by enhancing image sharpness",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Unsharp-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.8",
+     "date": "2024-12-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Unsharp IPA v1.0.8 is an innovative app designed for iOS users who seek to elevate their photography skills by enhancing image sharpness",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Unsharp-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

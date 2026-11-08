@@ -1,0 +1,30 @@
+{
+ "name": "PolyGit",
+ "identifier": "dev.perapp.com-polygitapp-polygit",
+ "subtitle": "PolyGit",
+ "description": "Single-app source for PolyGit (com.polygitapp.polygit). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/2f58de00-ff72-440a-893d-870c1818500a/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.polygitapp.polygit",
+   "name": "PolyGit",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nPolyGit Git Client\n\nPro features unlocked\n\nTweak made by Никита\n\nminimum OS version 13.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/2f58de00-ff72-440a-893d-870c1818500a/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "53.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nPolyGit Git Client\n\nPro features unlocked\n\nTweak made by Никита\n\nminimum OS version 13.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/d1e5c49b-b84b-4949-8a59-e771ca1eb225/PolyGit_Pro_53.0.ipa",
+     "size": 10483870
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "YouTube (YTKACE 1.1.5)",
+ "identifier": "dev.perapp.com-google-ios-youtube",
+ "subtitle": "Tweaks: DontEatMyContent, YouTubeDislikesReturn, VolumeBoostYT +10",
+ "description": "Single-app source for YouTube (YTKACE 1.1.5) (com.google.ios.youtube). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/1181.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube",
+   "name": "YouTube (YTKACE 1.1.5)",
+   "developerName": "@ipavault",
+   "subtitle": "Tweaks: DontEatMyContent, YouTubeDislikesReturn, VolumeBoostYT +10",
+   "localizedDescription": "Tweaks: DontEatMyContent, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, LowContrastMode, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTVideoOverlay, YTKACE +1\n\n@ipavault | Builds of YouTube (YTKACE 1.1.5)\n\n▪Liquid Glass available\nBuilds:\n▪YouTube 21.44.4 (iOS 17+)\n▪YouTube 21.33.6 (iOS 16+)\nAdded Tweaks: \n\nYTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTubeDislike, LowContrastMode, VideoOverlay, YouGetCaption, YouQuality, YouChooseQuality, YTHoldForSpeed, YouGroupSettings\n✅ OpenInYouTube Safari Extension\n✅ Patched\n\nBuild by: @ipavault\n\nYTKACE 1.1.5 by @itzzace0\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/1181.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Tweaks: DontEatMyContent, YouTubeDislikesReturn, VolumeBoostYT, YouGetCaption, YouGroupSettings, LowContrastMode, YouChooseQuality, YouPiP, YouQuality, YTABConfig, YTVideoOverlay, YTKACE +1\n\n@ipavault | Builds of YouTube (YTKACE 1.1.5) ▪Liquid Glass available Builds: ▪YouTube 21.44.4 (iOS 17+) ▪YouTube 21.33.6 (iOS 16+) Added Tweaks…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1181-YouTube%2021.44.4%20%28YTKACE%201.1.5%29%20%5B@ipavault%5D.ipa",
+     "size": 145744027
+    }
+   ]
+  }
+ ]
+}

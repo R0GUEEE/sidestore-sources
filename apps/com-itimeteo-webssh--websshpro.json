@@ -1,0 +1,44 @@
+{
+ "name": "WebSSHPro",
+ "identifier": "dev.perapp.com-itimeteo-webssh",
+ "subtitle": "WebSSHPro by binnichtaktiv's iPA Library",
+ "description": "Single-app source for WebSSHPro (com.itimeteo.webssh). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.itimeteo.webssh.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.itimeteo.webssh",
+   "name": "WebSSHPro",
+   "developerName": "binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.itimeteo.webssh.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.4",
+     "date": "2024-10-16T00:00:00Z",
+     "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 07-31-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebSSHPro/WebSSHPro-26.4.ipa",
+     "size": 34019480
+    },
+    {
+     "version": "26.6",
+     "date": "2024-10-16T00:00:00Z",
+     "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 07-31-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebSSHPro/WebSSHPro-26.6.ipa",
+     "size": 29762304
+    },
+    {
+     "version": "27.0",
+     "date": "2024-10-16T00:00:00Z",
+     "localizedDescription": "A versatile SSH, SFTP, TELNET, and Port Forwarding client that is useful everywhere, anytime, offering functionalities like two-factor authentication, local terminal commands, and secure access with Face ID.\nLast updated: 07-31-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebSSHPro/WebSSHPro-27.0.ipa",
+     "size": 29733439
+    }
+   ]
+  }
+ ]
+}

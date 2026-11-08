@@ -1,0 +1,37 @@
+{
+ "name": "Burger Simulator",
+ "identifier": "dev.perapp.io-supercent-burgersimulator",
+ "subtitle": "ipaomtk.com | What is Burger Simulator! IPA? Burger Simulator! IPA is the iOS installation package of the restaurant man",
+ "description": "Single-app source for Burger Simulator (io.supercent.burgersimulator). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Burger-Simulator-IPA-v20.3.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "io.supercent.burgersimulator",
+   "name": "Burger Simulator",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Burger Simulator! IPA? Burger Simulator! IPA is the iOS installation package of the restaurant management simulation game design",
+   "localizedDescription": "ipaomtk.com | What is Burger Simulator! IPA? Burger Simulator! IPA is the iOS installation package of the restaurant management simulation game design",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Burger-Simulator-IPA-v20.3.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20.3.0",
+     "date": "2026-03-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Burger Simulator! IPA? Burger Simulator! IPA is the iOS installation package of the restaurant management simulation game design",
+     "downloadURL": "https://file.ipaomtk.com/burger-simulator/Burger-Simulator-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "22.4.0",
+     "date": "2026-03-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Burger Simulator! IPA? Burger Simulator! IPA is the iOS installation package of the restaurant management simulation game design",
+     "downloadURL": "https://file.ipaomtk.com/burger-simulator/Burger-Simulator-IPAOMTK.COM.ipa",
+     "size": 99033252
+    }
+   ]
+  }
+ ]
+}

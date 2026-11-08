@@ -1,0 +1,37 @@
+{
+ "name": "HoursTracker",
+ "identifier": "dev.perapp.com-carlosribas-hourstrackerlite",
+ "subtitle": "@riftysIPAlibrary | Hours Tracker: Time Tracking  Tweak: Premium Unlocked  Version: 8.3.1  Patched ✓  @riftysIPAlibrary ",
+ "description": "Single-app source for HoursTracker (com.carlosribas.HoursTrackerLite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8004.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.carlosribas.HoursTrackerLite",
+   "name": "HoursTracker",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Hours Tracker: Time Tracking  Tweak: Premium Unlocked  Version: 8.3.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Mi",
+   "localizedDescription": "@riftysIPAlibrary | Hours Tracker: Time Tracking  Tweak: Premium Unlocked  Version: 8.3.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Mi\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8004.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.3.2",
+     "date": "2026-10-10T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Hours Tracker: Time Tracking  Tweak: Premium Unlocked  Version: 8.3.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Mi",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8306-Hours%20Tracker:%20Time%20Tracking-v8.3.2-riftysipas.ipa",
+     "size": 33242061
+    },
+    {
+     "version": "8.3.1",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Hours Tracker: Time Tracking  Tweak: Premium Unlocked  Version: 8.3.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Mi",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8004-Hours%20Tracker:%20Time%20Tracking-v8.3.1-riftysipas.ipa",
+     "size": 32845250
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Horizon",
+ "identifier": "dev.perapp.com-ketchapp-horizon",
+ "subtitle": "ipaomtk.com | What is Horizon IPA? Horizon IPA is an iOS installation package that allows users to install a fast-paced ",
+ "description": "Single-app source for Horizon (com.ketchapp.horizon). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Horizon-IPA-v1.3.10-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.horizon",
+   "name": "Horizon",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Horizon IPA? Horizon IPA is an iOS installation package that allows users to install a fast-paced arcade-style game on iPhone…",
+   "localizedDescription": "ipaomtk.com | What is Horizon IPA? Horizon IPA is an iOS installation package that allows users to install a fast-paced arcade-style game on iPhone devices outside the App Store, where players navigate a ship through an endless, obstacle-filled environment while aiming to survive as long as possible and achieve high scores. The Purpose Behind Horizon Gameplay Horizon […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Horizon-IPA-v1.3.10-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.13.14",
+     "date": "2026-04-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Horizon IPA? Horizon IPA is an iOS installation package that allows users to install a fast-paced arcade-style game on iPhone…",
+     "downloadURL": "https://file.ipaomtk.com/horizon/Horizon-IPAOMTK.com.ipa",
+     "size": 90997500
+    }
+   ]
+  }
+ ]
+}

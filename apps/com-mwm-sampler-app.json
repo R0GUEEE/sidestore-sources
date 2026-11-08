@@ -1,0 +1,44 @@
+{
+ "name": "BeatMakerPro",
+ "identifier": "dev.perapp.com-mwm-sampler-app",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for BeatMakerPro (com.mwm.sampler-app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mwm.sampler-app",
+   "name": "BeatMakerPro",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.sampler-app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.21.00",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Beat Maker Pro: Music Game  • Bundle ID: com.mwm.sampler-app • Updated to: 4.21.00 • Minimum iOS: 15.0 • Patched • Modifier: Pro Unlocked ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/BeatMakerPro_4.21.00_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 115701205
+    },
+    {
+     "version": "4.20.00",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@blatants | Beat Maker Pro: Music Game  • Bundle ID: com.mwm.sampler-app • Updated to: 4.20.00 • Minimum iOS: 13.0 • Patched • Modifier: Pro Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12812-Beat_Maker_Pro_Music_Game_v4_20_00_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 109387994
+    },
+    {
+     "version": "4.19.00",
+     "date": "2026-10-01T00:00:00Z",
+     "localizedDescription": "@blatants | Beat Maker Pro: Music Game  • Bundle ID: com.mwm.sampler-app • Updated to: 4.19.00 • Minimum iOS: 13.0 • Patched • Modifier: Pro Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12561-Beat_Maker_Pro_Music_Game_v4_19_00_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 109303314
+    }
+   ]
+  }
+ ]
+}

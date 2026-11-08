@@ -1,0 +1,30 @@
+{
+ "name": "Encode",
+ "identifier": "dev.perapp.com-upskew-encode-ios",
+ "subtitle": "Encode",
+ "description": "Single-app source for Encode (com.upskew.encode.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.upskew.encode.ios",
+   "name": "Encode",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.23.0",
+     "date": "2026-09-26T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Encode_6.23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 46546668
+    }
+   ]
+  }
+ ]
+}

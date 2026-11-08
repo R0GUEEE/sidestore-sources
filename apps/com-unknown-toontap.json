@@ -1,0 +1,30 @@
+{
+ "name": "ToonTap",
+ "identifier": "dev.perapp.com-unknown-toontap",
+ "subtitle": "بەرنامەیەک بۆ دەستکاریکردنی وێنەکان بە بەکارهێنانی زیرەکی دەستکرد",
+ "description": "Single-app source for ToonTap (com.unknown.toontap). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/ToonTap.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.toontap",
+   "name": "ToonTap",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک بۆ دەستکاریکردنی وێنەکان بە بەکارهێنانی زیرەکی دەستکرد",
+   "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنەکان بە بەکارهێنانی زیرەکی دەستکرد",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/ToonTap.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.28",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنەکان بە بەکارهێنانی زیرەکی دەستکرد",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/ToonTap._1.28_1737215119.ipa",
+     "size": 36220000
+    }
+   ]
+  }
+ ]
+}

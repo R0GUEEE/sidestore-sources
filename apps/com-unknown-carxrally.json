@@ -1,0 +1,37 @@
+{
+ "name": "CarX Rally",
+ "identifier": "dev.perapp.com-unknown-carxrally",
+ "subtitle": "✅ Free IAP",
+ "description": "Single-app source for CarX Rally (com.unknown.carxrally). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/CarX.Rally.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.carxrally",
+   "name": "CarX Rally",
+   "developerName": "Karbin-Store",
+   "subtitle": "✅ Free IAP",
+   "localizedDescription": "✅ Free IAP",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/CarX.Rally.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "27.202",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "✅ Free IAP",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-1/CarX.Rally.-.27202.ipa",
+     "size": 587330000
+    },
+    {
+     "version": "27202",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Tweaks: FileChekingCore\n\n✅ Free IAP",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-1/CarX.Rally.-.27202.ipa",
+     "size": 615909269
+    }
+   ]
+  }
+ ]
+}

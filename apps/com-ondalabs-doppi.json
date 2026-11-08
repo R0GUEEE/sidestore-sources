@@ -1,0 +1,30 @@
+{
+ "name": "Doppi",
+ "identifier": "dev.perapp.com-ondalabs-doppi",
+ "subtitle": "ipaomtk.com | Doppi IPA v5.1.7 marketed as “the nicest music player” app, is a sleek and user-friendly mobile applicatio",
+ "description": "Single-app source for Doppi (com.ondalabs.doppi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Doppi-the-nicest-music-player.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ondalabs.doppi",
+   "name": "Doppi",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Doppi IPA v5.1.7 marketed as “the nicest music player” app, is a sleek and user-friendly mobile application designed for music enthusias",
+   "localizedDescription": "ipaomtk.com | Doppi IPA v5.1.7 marketed as “the nicest music player” app, is a sleek and user-friendly mobile application designed for music enthusias",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Doppi-the-nicest-music-player.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.7",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Doppi IPA v5.1.7 marketed as “the nicest music player” app, is a sleek and user-friendly mobile application designed for music enthusias",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Doppi_the_nicest_music_player-v5.1.7-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

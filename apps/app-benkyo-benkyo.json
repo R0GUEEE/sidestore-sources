@@ -1,0 +1,30 @@
+{
+ "name": "Benky",
+ "identifier": "dev.perapp.app-benkyo-benkyo",
+ "subtitle": "Benky",
+ "description": "Single-app source for Benky (app.benkyo.Benkyo). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.benkyo.Benkyo",
+   "name": "Benky",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.7",
+     "date": "2026-05-29T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-05-2026/Benky_2.5.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 111691194
+    }
+   ]
+  }
+ ]
+}

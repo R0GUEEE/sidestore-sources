@@ -1,0 +1,37 @@
+{
+ "name": "Idle Slayer",
+ "identifier": "dev.perapp.com-pabloleban-idleslayer",
+ "subtitle": "ipaomtk.com | Idle Slayer is a captivating mobile game that has taken the gaming world by storm. Developed by Hyper Hipp",
+ "description": "Single-app source for Idle Slayer (com.PabloLeban.IdleSlayer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/Idle-Slayer-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.PabloLeban.IdleSlayer",
+   "name": "Idle Slayer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Idle Slayer is a captivating mobile game that has taken the gaming world by storm. Developed by Hyper Hippo Games, this addictive title ",
+   "localizedDescription": "ipaomtk.com | Idle Slayer is a captivating mobile game that has taken the gaming world by storm. Developed by Hyper Hippo Games, this addictive title ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/Idle-Slayer-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.7.3",
+     "date": "2024-07-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Idle Slayer is a captivating mobile game that has taken the gaming world by storm. Developed by Hyper Hippo Games, this addictive title ",
+     "downloadURL": "https://file.ipaomtk.com/Idle%20Slayer/Idle-Slayer-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "7.3.7",
+     "date": "2024-07-07T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Idle Slayer is a captivating mobile game that has taken the gaming world by storm. Developed by Hyper Hippo Games, this addictive title ",
+     "downloadURL": "https://file.ipaomtk.com/Idle%20Slayer/Idle-Slayer-IPAOMTK.COM.ipa",
+     "size": 122446295
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Reveri",
+ "identifier": "dev.perapp.com-reveri-reverihealth",
+ "subtitle": "Reveri",
+ "description": "Single-app source for Reveri (com.reveri.reverihealth). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/6ef536e4-6491-4b23-92ca-e5b383fb51de/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.reveri.reverihealth",
+   "name": "Reveri",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Reveri: Brain Over Pain\n\nTweak: Premium Unlocked\n\nVersion: 3.88.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/6ef536e4-6491-4b23-92ca-e5b383fb51de/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.14.0",
+     "date": "2026-07-30T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1427",
+     "size": 96269775
+    },
+    {
+     "version": "3.88.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Reveri: Brain Over Pain\n\nTweak: Premium Unlocked\n\nVersion: 3.88.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/d4daa636-3ef6-4fdf-8d04-7f4282b8bafa/Reveri__Brain_Over_Pain-v3.88.0-riftysipas.ipa",
+     "size": 147591316
+    },
+    {
+     "version": "3.87.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Reveri: Brain Over Pain\n\nTweak: Premium Unlocked\n\nVersion: 3.87.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/160f0c42-40fc-4223-b942-c4cdbbdf2306/Reveri__Brain_Over_Pain-v3.87.0-riftysipas.ipa",
+     "size": 147196335
+    }
+   ]
+  }
+ ]
+}

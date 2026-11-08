@@ -1,0 +1,45 @@
+{
+ "name": "GearGlimpseRevolution",
+ "identifier": "dev.perapp.me-nabdev-gearglimpserev",
+ "subtitle": "FRC AR Tools for iOS",
+ "description": "Single-app source for GearGlimpseRevolution (me.nabdev.gearglimpserev). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ffde59",
+ "iconURL": "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.nabdev.gearglimpserev",
+   "name": "GearGlimpseRevolution",
+   "developerName": "nab138",
+   "subtitle": "FRC AR Tools for iOS",
+   "localizedDescription": "AR Tools for FRC! Connect to the simulator or robot and view it on the field in real-time. View the field in life-size or miniature!\n\nWorks best on devices with a LIDAR sensor, but other devices are supported.",
+   "iconURL": "https://connect.sidestore.io/public/apps/me.nabdev.gearglimpserev/icon.png",
+   "tintColor": "ffde59",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.4",
+     "date": "2024-07-04T18:31:19.999422+00:00",
+     "localizedDescription": "The following are the highlights of the changes since 0.0.1. For a complete changelog, read the release notes on [github](https://github.com/nab138/GearGlimpseRevolution/releases).\n\nNew Features:\n- Game piece (note) visualization\n- Trajectory visualization\n- View FMS Data & Command scheduler in floating windows above the field\n- Proof-of-concept AprilTag detection (will be used for field alignment in the future)\n- Custom Robots and more defaults\n- Translucent or invisible field options\n- Many, many bug fixes\n-",
+     "downloadURL": "https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.4/me.nabdev.gearglimpserev_0.0.4.ipa",
+     "size": 56509966
+    },
+    {
+     "version": "0.0.1",
+     "date": "2024-05-25T17:29:55.451014+00:00",
+     "localizedDescription": "Initial Release",
+     "downloadURL": "https://github.com/nab138/GearGlimpseRevolution/releases/download/v0.0.1/me.nabdev.gearglimpserev_0.0.1.ipa",
+     "size": 50045250
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Camera is required for AR Experiences",
+     "NSLocalNetworkUsageDescription": "GearGlimpse uses the network to communicate with your robot or simulator.",
+     "NSMotionUsageDescription": "Motion Data is required for AR experiences"
+    }
+   }
+  }
+ ]
+}

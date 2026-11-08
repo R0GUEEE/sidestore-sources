@@ -1,0 +1,40 @@
+{
+ "name": "Vice City Stories",
+ "identifier": "dev.perapp.io-github-vancevcs-vcsmobile",
+ "subtitle": "GTA: Vice City Stories - PC version",
+ "description": "Single-app source for Vice City Stories (io.github.vancevcs.vcsmobile). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#da7fa9",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.vancevcs.vcsmobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.vancevcs.vcsmobile",
+   "name": "Vice City Stories",
+   "developerName": "vancevcs",
+   "subtitle": "GTA: Vice City Stories - PC version",
+   "localizedDescription": "GTA: Vice City Stories - PC version.\n\nGrand Theft Auto: Vice City Stories, the 2006 PSP game, made to play like a PC GTA. You get mouse look and mouse aiming, WASD, controls that change between walking, driving and flying, an HD texture pack, real-time shadows, shaded water and rain-soaked roads, and a GTA-style menu. The game's tutorial messages name your keys instead of PSP buttons.\n\nIt runs on Windows, macOS, Android and iOS. Bring your own copy of the game: no game files are included.\n\nWhat you need:\n\n• One of the following:.\n\nThe iOS build is a pre-release. It has been built and packaged but not yet tested on an iPhone.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.vancevcs.vcsmobile.png",
+   "tintColor": "#da7fa9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.10.15",
+     "date": "2026-10-15T14:36:40Z",
+     "localizedDescription": "Both radio buttons working, a bike's lean, the forklift's forks and a way out of the water on the touch controls, plus the PC build's on-foot zoom and vehicle detail.\n\nThe changes below have not been played on an iPhone yet. Nothing has been tested on older iPhones, whose speed without a JIT is the open question (see below).\n\nNo disc image is included. Bring your own copy of the USA disc (ULUS10160), as .iso or .cso. It needs iOS 15 or later.\n\nWhat is new in this build:\n\n• Both radio buttons work. Only the left one reliably changed the station: the right one kept being let go of by the weapon icon's tap zone. The same fault was behind the forklift's forks not rising and NEXT TARGET while aiming.\n• Wheelie and stoppie buttons on a bike, under SHOOT on the left. Up leans forward, down leans back.\n• Fork buttons on the forklift. It has no radio, so the radio pair makes way for them.\n• A climb-out button in the water. The game climbs you out with its jump control, which on this overlay is a double tap on RUN. Nobody swimming would think to try that, so a button for it appears while you swim.\n• CAM zooms the camera on foot. It only worked in vehicles before.\n• VEHICLE DETAIL. OPTIONS -> DISPLAY SETUP -> ADVANCED -> VEHICLE DETAIL sets how far away cars, bikes and boats keep their full model: PSP at 50 metres, HIGH at 120 (what the Liberty City Stories phone version uses), ULTRA at 240. It starts at HIGH.\n• ARRANGE CONTROLS shows the bike's buttons and SHOOT, so they can be moved.\n• A controller's left stick leans a bike too, with steering at full strength while you lean.\n\nWhat it is:\n\n• The same game as the Android build. Context-aware touch controls (on foot, aiming, driving, flying, the game's own map and stats pages), ARRANGE CONTROLS to drag every button where your thumbs are, the radar in the top-left, the phone-sized menu, and a Bluetooth controller with the PC build's pad layout.\n• The HD texture pack, converted so the phone's GPU can read it. OPTIONS -> DISPLAY SETUP -> ADVANCED -> TEXTURE QUALITY switches between it and the PSP's own.\n• It plays in landscape only, either way up.\n\nSpeed without a JIT:\n\nAn app iOS did not install from the App Store is not allowed to generate code, which is how PPSSPP normally runs a PSP game fast, so a sideloaded install runs on PPSSPP's interpreter instead. Measured on an M1 Mac - whose cores are roughly an iPhone 12's - the interpreter holds the game's full 30 fps both standing in Vice Point and dragged across the bay to the mainland. An older iPhone will be slower, and a phone's GPU and heat are not something a Mac can stand in for.\n\nIf you have a JIT enabler set up for your iOS version, such as StikDebug, starting the game through it makes the interpreter question go away.\n\nSetting it up:\n\nUpdating from 6 October: install the new GTA Vice City Stories.ipa over the old one, with the same tool and Apple ID you used before, and your saves stay. The game files in the zip have not changed, so the memstick folder you copied in last time stays as it is.\n\nThe app and the game files are two separate downloads, as on Android: the zip holds only the game files, and the .ipa is the app on its own.\n\nA fresh install:\n\n• Install GTA Vice City Stories.ipa with a sideloading tool, which signs it with your own Apple ID: AltStore or SideStore on the phone, Sideloadly from a Mac or PC, or TrollStore if your iOS version has it. With a free Apple ID the signature lasts seven days; AltStore and SideStore refresh it for you, and refreshing keeps your saves.\n• Open it once, then close it (swipe it away). That gives it a folder - Vice City Stories under Files -> On My iPhone.\n• Unzip GTA Vice City Stories iOS.zip and copy its memstick folder into that folder, replacing the one the app made. On the phone, the Files app does both; from a Mac, select the phone in Finder, open Files, and drag it onto Vice City Stories.\n• Put your disc image in the same folder, beside memstick.\n• Open the app. The game starts by itsel",
+     "downloadURL": "https://github.com/vancevcs/VCSPC/releases/download/ios-2026.10.15/GTA.Vice.City.Stories.ipa",
+     "size": 32827689
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Your camera may be used to emulate Go!Cam, a camera accessory",
+     "NSLocalNetworkUsageDescription": "Your local network needs to be accessed by PPSSPP for network multiplayer support.",
+     "NSLocationWhenInUseUsageDescription": "Your location may be used to emulate Go!Explore, a GPS accessory",
+     "NSMicrophoneUsageDescription": "Your microphone may be used to emulate Go!Cam/Talkman, a microphone accessory",
+     "NSPhotoLibraryUsageDescription": "Access to your photos is needed to allow setting a background image."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Cercube+",
+ "identifier": "dev.perapp.com-google-ios-youtube-cercube",
+ "subtitle": "Cercube+ for YouTube",
+ "description": "Single-app source for Cercube+ (com.google.ios.youtube.cercube). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1E47D0",
+ "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Cercube/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.cercube",
+   "name": "Cercube+",
+   "developerName": "Majd Alfhaily",
+   "subtitle": "Cercube+ for YouTube",
+   "localizedDescription": "Cercube not only gives you the features that are missing from YouTube, but it also gives you full control over the app.",
+   "iconURL": "https://raw.githubusercontent.com/ytjailed/ytjailed.github.io/main/resources/Cercube/icon.png",
+   "tintColor": "#1E47D0",
+   "screenshots": [
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot1.jpg",
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot2.jpg",
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot3.jpg",
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot4.jpg",
+    "https://apt.alfhaily.me/cdn/assets/cercube-screenshot5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "16.42.3",
+     "date": "2021-10-30T16:25:00Z",
+     "localizedDescription": "Changelog:\n- Update YouTube base to 16.42.3\n\nFor full changelog, visit https://apt.alfhaily.me/changelogs/FDXO5R",
+     "downloadURL": "https://github.com/ytjailed/ytjailed.github.io/releases/download/0.1/Cercube_5-3-3_16-42-3.ipa",
+     "size": 103228234
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "TrollFools",
+ "identifier": "dev.perapp.com-unknown-trollfools",
+ "subtitle": "ئاگاداربە؛ سەپۆرتی ئیساین ناکات پێویستە تڕۆڵ ستۆرت هەبێت ⚠️",
+ "description": "Single-app source for TrollFools (com.unknown.trollfools). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/TrollFools.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.trollfools",
+   "name": "TrollFools",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئاگاداربە؛ سەپۆرتی ئیساین ناکات پێویستە تڕۆڵ ستۆرت هەبێت ⚠️",
+   "localizedDescription": "ئاگاداربە؛ سەپۆرتی ئیساین ناکات پێویستە تڕۆڵ ستۆرت هەبێت ⚠️",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/TrollFools.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "ئاگاداربە؛ سەپۆرتی ئیساین ناکات پێویستە تڕۆڵ ستۆرت هەبێت ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/TrollFools-2.8-16.ipa",
+     "size": 3150000
+    }
+   ]
+  }
+ ]
+}

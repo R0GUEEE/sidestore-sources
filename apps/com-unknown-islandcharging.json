@@ -1,0 +1,30 @@
+{
+ "name": "island + Charging",
+ "identifier": "dev.perapp.com-unknown-islandcharging",
+ "subtitle": "بەرنامەکە کاغەزی دیواری ئەنیمەیشن دابەزێنێت",
+ "description": "Single-app source for island + Charging (com.unknown.islandcharging). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Charging.Wall.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.islandcharging",
+   "name": "island + Charging",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەکە کاغەزی دیواری ئەنیمەیشن دابەزێنێت",
+   "localizedDescription": "بەرنامەکە کاغەزی دیواری ئەنیمەیشن دابەزێنێت",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Charging.Wall.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7.7",
+     "date": "2026-03-25T00:00:00Z",
+     "localizedDescription": "بەرنامەکە کاغەزی دیواری ئەنیمەیشن دابەزێنێت",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/Charging.Wall_3.7.7_3BodSy.ipa",
+     "size": 70120000
+    }
+   ]
+  }
+ ]
+}

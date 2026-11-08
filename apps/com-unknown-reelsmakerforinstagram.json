@@ -1,0 +1,30 @@
+{
+ "name": "Reels Maker for Instagram",
+ "identifier": "dev.perapp.com-unknown-reelsmakerforinstagram",
+ "subtitle": "ئەپێک بۆ دەسکاریکردنی ڕیڵ لە ئینستاگرام",
+ "description": "Single-app source for Reels Maker for Instagram (com.unknown.reelsmakerforinstagram). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Reels.Maker.for.Instagram.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.reelsmakerforinstagram",
+   "name": "Reels Maker for Instagram",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپێک بۆ دەسکاریکردنی ڕیڵ لە ئینستاگرام",
+   "localizedDescription": "ئەپێک بۆ دەسکاریکردنی ڕیڵ لە ئینستاگرام",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Reels.Maker.for.Instagram.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.17.0",
+     "date": "2026-03-07T00:00:00Z",
+     "localizedDescription": "ئەپێک بۆ دەسکاریکردنی ڕیڵ لە ئینستاگرام",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Reels.Maker.for.Instagram.1.17.0.ipa",
+     "size": 118080000
+    }
+   ]
+  }
+ ]
+}

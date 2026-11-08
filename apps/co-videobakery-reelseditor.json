@@ -1,0 +1,30 @@
+{
+ "name": "ReelMaker",
+ "identifier": "dev.perapp.co-videobakery-reelseditor",
+ "subtitle": "ReelMaker",
+ "description": "Single-app source for ReelMaker (co.videobakery.ReelsEditor). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.videobakery.ReelsEditor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.videobakery.ReelsEditor",
+   "name": "ReelMaker",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.videobakery.ReelsEditor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.14",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/ReelMaker_1.4.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 55801293
+    }
+   ]
+  }
+ ]
+}

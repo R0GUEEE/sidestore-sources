@@ -1,0 +1,30 @@
+{
+ "name": "CyPwnStore_7.1",
+ "identifier": "dev.perapp.ed0ardo-cypwnstore",
+ "subtitle": "Download CyPwn Debs and Apps easily",
+ "description": "Single-app source for CyPwnStore_7.1 (Ed0ardo.CyPwnStore). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/CyPwnStore_7.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Ed0ardo.CyPwnStore",
+   "name": "CyPwnStore_7.1",
+   "developerName": "CyPwnStore_7.1 x CyPwn",
+   "subtitle": "Download CyPwn Debs and Apps easily",
+   "localizedDescription": "Download CyPwn Debs and Apps easily\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/CyPwnStore_7.1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Download CyPwn Debs and Apps easily",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/CyPwnStore_7.1.ipa",
+     "size": 875047
+    }
+   ]
+  }
+ ]
+}

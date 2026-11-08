@@ -1,0 +1,30 @@
+{
+ "name": "GoodReaderPro",
+ "identifier": "dev.perapp.com-goodiware-grpro",
+ "subtitle": "Document reading and file managing app. A user requested it so here it is. Last updated: 07-14-2024 Status: ✅",
+ "description": "Single-app source for GoodReaderPro (com.goodiware.grpro). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodiware.grpro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.goodiware.grpro",
+   "name": "GoodReaderPro",
+   "developerName": "N/A",
+   "subtitle": "Document reading and file managing app. A user requested it so here it is. Last updated: 07-14-2024 Status: ✅",
+   "localizedDescription": "Document reading and file managing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.goodiware.grpro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.19.1203",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Document reading and file managing app. A user requested it so here it is. Last updated: 07-14-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoodReaderPro/GoodReaderPro-5.19.1203.ipa",
+     "size": 26873107
+    }
+   ]
+  }
+ ]
+}

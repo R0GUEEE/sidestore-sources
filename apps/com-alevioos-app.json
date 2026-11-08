@@ -1,0 +1,44 @@
+{
+ "name": "AlevioOS",
+ "identifier": "dev.perapp.com-alevioos-app",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for AlevioOS (com.alevioos.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alevioos.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alevioos.app",
+   "name": "AlevioOS",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alevioos.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.7",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-03-2026/AlevioOS_2.4.7_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 28809276
+    },
+    {
+     "version": "2.4.6",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-03-2026/AlevioOS_2.4.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 28808366
+    },
+    {
+     "version": "2.5.1",
+     "date": "2026-05-04T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/AlevioOS_2.5.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 28823274
+    }
+   ]
+  }
+ ]
+}

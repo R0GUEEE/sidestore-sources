@@ -1,0 +1,44 @@
+{
+ "name": "Egg, Inc - (Hacked)",
+ "identifier": "dev.perapp.com-auxbrain-egginc",
+ "subtitle": "Egg, Inc - (Hacked) by sidelix",
+ "description": "Single-app source for Egg, Inc - (Hacked) (com.auxbrain.egginc). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a35964c7792b.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.auxbrain.egginc",
+   "name": "Egg, Inc - (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Features:\r\n\r\n- in app purchase",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a35964c7792b.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.37.2",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
+     "size": 61044521
+    },
+    {
+     "version": "1.37.1",
+     "date": "2026-08-20T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
+     "size": 62089584
+    },
+    {
+     "version": "1.36",
+     "date": "2026-06-19T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
+     "size": 57918000
+    }
+   ]
+  }
+ ]
+}

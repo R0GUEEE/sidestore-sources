@@ -1,0 +1,30 @@
+{
+ "name": "Museum",
+ "identifier": "dev.perapp.jp-oridio-museum",
+ "subtitle": "ipaomtk.com | Introduction TAP! DIG! MY MUSEUM! IPA is a creative and engaging iOS game that gives players control over ",
+ "description": "Single-app source for Museum (jp.oridio.museum). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/TAP-DIG-MY-MUSEUM-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.oridio.museum",
+   "name": "Museum",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction TAP! DIG! MY MUSEUM! IPA is a creative and engaging iOS game that gives players control over their own museum as they excav",
+   "localizedDescription": "ipaomtk.com | Introduction TAP! DIG! MY MUSEUM! IPA is a creative and engaging iOS game that gives players control over their own museum as they excav",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/TAP-DIG-MY-MUSEUM-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.11",
+     "date": "2025-12-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction TAP! DIG! MY MUSEUM! IPA is a creative and engaging iOS game that gives players control over their own museum as they excav",
+     "downloadURL": "https://file.ipaomtk.com/ipa/TAP%21-DIG%21-MY-MUSEUM%21-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

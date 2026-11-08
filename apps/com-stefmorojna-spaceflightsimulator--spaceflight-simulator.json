@@ -1,0 +1,30 @@
+{
+ "name": "Spaceflight Simulator",
+ "identifier": "dev.perapp.com-stefmorojna-spaceflightsimulator",
+ "subtitle": "Spaceflight Simulator by Spaceflight Simulator UK Ltd",
+ "description": "Single-app source for Spaceflight Simulator (com.StefMorojna.SpaceflightSimulator). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/0c/76/b70c7668-64cb-b21b-9b02-a811edb22a8d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.StefMorojna.SpaceflightSimulator",
+   "name": "Spaceflight Simulator",
+   "developerName": "Spaceflight Simulator UK Ltd",
+   "subtitle": "",
+   "localizedDescription": "Spaceflight Simulator - Free iAP (You'll need an IOSGods Account) - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/0c/76/b70c7668-64cb-b21b-9b02-a811edb22a8d/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.10.5",
+     "date": "2025-02-08T00:00:00Z",
+     "localizedDescription": "Spaceflight Simulator - Free iAP (You'll need an IOSGods Account) - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a6a8acab6265a34e09efe6",
+     "size": 44419466
+    }
+   ]
+  }
+ ]
+}

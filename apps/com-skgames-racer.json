@@ -1,0 +1,30 @@
+{
+ "name": "Traffic Racer",
+ "identifier": "dev.perapp.com-skgames-racer",
+ "subtitle": "ipaomtk.com | Traffic Racer IPA is an exciting and adrenaline-pumping ‌racing game that has become‌ a favorite among mob",
+ "description": "Single-app source for Traffic Racer (com.skgames.racer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/traffic-racer-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skgames.racer",
+   "name": "Traffic Racer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Traffic Racer IPA is an exciting and adrenaline-pumping ‌racing game that has become‌ a favorite among mobile gamers. It offers a thrill",
+   "localizedDescription": "ipaomtk.com | Traffic Racer IPA is an exciting and adrenaline-pumping ‌racing game that has become‌ a favorite among mobile gamers. It offers a thrill",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/traffic-racer-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Traffic Racer IPA is an exciting and adrenaline-pumping ‌racing game that has become‌ a favorite among mobile gamers. It offers a thrill",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Traffic-Racer.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

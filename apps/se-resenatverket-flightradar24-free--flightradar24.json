@@ -1,0 +1,30 @@
+{
+ "name": "Flightradar24",
+ "identifier": "dev.perapp.se-resenatverket-flightradar24-free",
+ "subtitle": "@binnichtaktivsipas | Flightradar24 | Flight Tracker Gold unlocked Log in with any account to get Gold features Tweak ma",
+ "description": "Single-app source for Flightradar24 (se.resenatverket.FlightRadar24-Free). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/binnichtaktivsipas/159982.png",
+ "apps": [
+  {
+   "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+   "name": "Flightradar24",
+   "developerName": "@binnichtaktivsipas",
+   "subtitle": "@binnichtaktivsipas | Flightradar24 | Flight Tracker Gold unlocked Log in with any account to get Gold features Tweak made by blatant Minimum OS…",
+   "localizedDescription": "@binnichtaktivsipas | Flightradar24 | Flight Tracker\n\nGold unlocked\n\nLog in with any account to get Gold features\n\nTweak made by blatant\n\nMinimum OS version 16.0\n\nAppStore link | Donate\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/binnichtaktivsipas/159982.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.14.1",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "@binnichtaktivsipas | Flightradar24 | Flight Tracker Gold unlocked Log in with any account to get Gold features Tweak made by blatant Minimum OS…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/binnichtaktivsipas/159982-Flightradar%20Gold%2011.14.1.ipa",
+     "size": 219975605
+    }
+   ]
+  }
+ ]
+}

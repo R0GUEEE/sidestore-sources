@@ -1,0 +1,37 @@
+{
+ "name": "TarteelPremium",
+ "identifier": "dev.perapp.com-iqraapp-iqra",
+ "subtitle": "TarteelPremium by DPixel",
+ "description": "Single-app source for TarteelPremium (com.iqraapp.Iqra). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.iqraapp.Iqra.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iqraapp.Iqra",
+   "name": "TarteelPremium",
+   "developerName": "DPixel",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.iqraapp.Iqra.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.39.7",
+     "date": "2024-10-14T00:00:00Z",
+     "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 04-06-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TarteelPremium/TarteelPremium-5.39.7.ipa",
+     "size": 110919920
+    },
+    {
+     "version": "5.39.5",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Tarteel is the first-ever Quran app powered by AI. Simply tap the microphone, start your recitation, and observe as the verses appear in front of you.\nLast updated: 04-06-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TarteelPremium/TarteelPremium-5.39.5.ipa",
+     "size": 104422933
+    }
+   ]
+  }
+ ]
+}

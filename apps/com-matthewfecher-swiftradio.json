@@ -1,0 +1,30 @@
+{
+ "name": "Swift Radio",
+ "identifier": "dev.perapp.com-matthewfecher-swiftradio",
+ "subtitle": "Swift Radio:  Open-source iOS radio app with a SwiftUI interface. Used by 80+ apps on the App Store.  Looking for Androi",
+ "description": "Single-app source for Swift Radio (com.matthewfecher.SwiftRadio). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.matthewfecher.SwiftRadio.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.matthewfecher.SwiftRadio",
+   "name": "Swift Radio",
+   "developerName": "analogcode",
+   "subtitle": "Swift Radio:  Open-source iOS radio app with a SwiftUI interface. Used by 80+ apps on the App Store.  Looking for Android? See Swift Radio Android. Sa",
+   "localizedDescription": "Swift Radio:  Open-source iOS radio app with a SwiftUI interface. Used by 80+ apps on the App Store.  Looking for Android? See Swift Radio Android. Sa\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.matthewfecher.SwiftRadio.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Swift Radio:  Open-source iOS radio app with a SwiftUI interface. Used by 80+ apps on the App Store.  Looking for Android? See Swift Radio Android. Sa",
+     "downloadURL": "https://github.com/analogcode/Swift-Radio-Pro/releases/download/v4.0.0/swift-radio-v4.0.0-unsigned.ipa",
+     "size": 6564137
+    }
+   ]
+  }
+ ]
+}

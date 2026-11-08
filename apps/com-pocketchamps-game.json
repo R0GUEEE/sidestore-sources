@@ -1,0 +1,37 @@
+{
+ "name": "Pocket Champs",
+ "identifier": "dev.perapp.com-pocketchamps-game",
+ "subtitle": "ipaomtk.com | Pocket Champs IPA a thrilling PVP (Player vs Player) game that has taken the iOS gaming community by storm",
+ "description": "Single-app source for Pocket Champs (com.pocketchamps.game). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/Pocket-Champs-PVP-Racing-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pocketchamps.game",
+   "name": "Pocket Champs",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Pocket Champs IPA a thrilling PVP (Player vs Player) game that has taken the iOS gaming community by storm. In this article, we’ll dive ",
+   "localizedDescription": "ipaomtk.com | Pocket Champs IPA a thrilling PVP (Player vs Player) game that has taken the iOS gaming community by storm. In this article, we’ll dive ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/Pocket-Champs-PVP-Racing-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.3.20",
+     "date": "2023-10-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pocket Champs IPA a thrilling PVP (Player vs Player) game that has taken the iOS gaming community by storm. In this article, we’ll dive ",
+     "downloadURL": "https://file.ipaomtk.com/Pocket-Champs/Pocket-Champs-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "7.11.4",
+     "date": "2023-10-17T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Pocket Champs IPA a thrilling PVP (Player vs Player) game that has taken the iOS gaming community by storm. In this article, we’ll dive ",
+     "downloadURL": "https://file.ipaomtk.com/Pocket-Champs/Pocket-Champs-IPAOMTK.COM.ipa",
+     "size": 200239256
+    }
+   ]
+  }
+ ]
+}

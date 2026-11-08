@@ -1,0 +1,30 @@
+{
+ "name": "Frida Code Manager (Stock Alpha)",
+ "identifier": "dev.perapp.com-sparklechan-swiftysa",
+ "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+ "description": "Single-app source for Frida Code Manager (Stock Alpha) (com.sparklechan.swiftysa). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ab7eaa",
+ "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sparklechan.swiftysa",
+   "name": "Frida Code Manager (Stock Alpha)",
+   "developerName": "fridakitten",
+   "subtitle": "Frida Code Manager - Code/Compile/Install iOS Apps with an App on iOS",
+   "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/FCM-5N.png",
+   "tintColor": "ab7eaa",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6",
+     "date": "2024-10-25T00:00:00Z",
+     "localizedDescription": "Code/Compile/Install iOS Apps with an App on iOS 15.0 - 17.0.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Frida_Code_Manager_stock_alpha1_6-1G.ipa",
+     "size": 66809856
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PicsArt",
+ "identifier": "dev.perapp.synthetic-picsart-75af2bc1",
+ "subtitle": "PicsArt",
+ "description": "Single-app source for PicsArt (synthetic.picsart.75af2bc1). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://ittza7aa.com/aseets/icon/picsart.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.picsart.75af2bc1",
+   "name": "PicsArt",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Pro Unlocked",
+   "iconURL": "https://ittza7aa.com/aseets/icon/picsart.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/picsart.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

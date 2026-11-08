@@ -1,0 +1,30 @@
+{
+ "name": "Dreams (Hacked)",
+ "identifier": "dev.perapp.com-thelostproject-dreams",
+ "subtitle": "Dreams (Hacked) by sidelix",
+ "description": "Single-app source for Dreams (Hacked) (com.thelostproject.dreams). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa39203276f3.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thelostproject.dreams",
+   "name": "Dreams (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Pro Unlocked",
+   "iconURL": "https://appstore.sidelix.vip/images/ritfy_6aa39203276f3.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.0",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2401",
+     "size": 19234839
+    }
+   ]
+  }
+ ]
+}

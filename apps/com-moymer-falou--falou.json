@@ -1,0 +1,44 @@
+{
+ "name": "Falou",
+ "identifier": "dev.perapp.com-moymer-falou",
+ "subtitle": "Injected with Satella",
+ "description": "Single-app source for Falou (com.moymer.falou). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moymer.falou.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.moymer.falou",
+   "name": "Falou",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Satella",
+   "localizedDescription": "Injected with Satella",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moymer.falou.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.386",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Falou_0.0.386_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 112199939
+    },
+    {
+     "version": "0.0.388",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Falou_0.0.388_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 110520819
+    },
+    {
+     "version": "0.0.390",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Satella",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Falou_0.0.390_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 110713287
+    }
+   ]
+  }
+ ]
+}

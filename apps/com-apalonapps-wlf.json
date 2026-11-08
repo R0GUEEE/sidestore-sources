@@ -1,0 +1,30 @@
+{
+ "name": "WeatherLive",
+ "identifier": "dev.perapp.com-apalonapps-wlf",
+ "subtitle": "WeatherLive",
+ "description": "Single-app source for WeatherLive (com.apalonapps.wlf). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.wlf",
+   "name": "WeatherLive",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.24.44",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/WeatherLive_7.24.44_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 179851681
+    }
+   ]
+  }
+ ]
+}

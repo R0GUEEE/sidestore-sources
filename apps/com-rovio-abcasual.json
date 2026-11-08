@@ -1,0 +1,30 @@
+{
+ "name": "Angry Birds",
+ "identifier": "dev.perapp.com-rovio-abcasual",
+ "subtitle": "ipaomtk.com | Angry Birds Journey IPA is an iconic mobile game that has captivated players since its initial launch in 2",
+ "description": "Single-app source for Angry Birds (com.rovio.abcasual). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/angry-birds-journey-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rovio.abcasual",
+   "name": "Angry Birds",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Angry Birds Journey IPA is an iconic mobile game that has captivated players since its initial launch in 2009. Ten years later, Angry Bi",
+   "localizedDescription": "ipaomtk.com | Angry Birds Journey IPA is an iconic mobile game that has captivated players since its initial launch in 2009. Ten years later, Angry Bi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/angry-birds-journey-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.4",
+     "date": "2023-03-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Angry Birds Journey IPA is an iconic mobile game that has captivated players since its initial launch in 2009. Ten years later, Angry Bi",
+     "downloadURL": "https://file.ipaomtk.com/Angry%20Birds%20Journey/Angry-Birds-Journey-v3.8.4-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

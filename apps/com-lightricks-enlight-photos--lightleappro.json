@@ -1,0 +1,30 @@
+{
+ "name": "LightleapPro",
+ "identifier": "dev.perapp.com-lightricks-enlight-photos",
+ "subtitle": "Tweaks: Lightrix, Pro",
+ "description": "Single-app source for LightleapPro (com.lightricks.Enlight-Photos). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Enlight-Photos.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lightricks.Enlight-Photos",
+   "name": "LightleapPro",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "Tweaks: Lightrix, Pro",
+   "localizedDescription": "Tweaks: Lightrix, Pro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lightricks.Enlight-Photos.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.20",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tweaks: Lightrix, Pro\n\n",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightleapPro/LightleapPro-1.9.20.ipa",
+     "size": 247018582
+    }
+   ]
+  }
+ ]
+}

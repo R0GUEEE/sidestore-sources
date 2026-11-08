@@ -1,0 +1,44 @@
+{
+ "name": "SimplySing",
+ "identifier": "dev.perapp.com-joytunes-sing",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for SimplySing (com.joytunes.Sing). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.joytunes.Sing",
+   "name": "SimplySing",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.2",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@blatants | Simply Sing: My Singing App  • Bundle ID: com.joytunes.Sing • Updated to: 3.2.2 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unl",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/SimplySing_3.2.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 115056400
+    },
+    {
+     "version": "3.2.1",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@blatants | Simply Sing: My Singing App  • Bundle ID: com.joytunes.Sing • Updated to: 3.2.1 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unl",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/SimplySing_3.2.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 112765350
+    },
+    {
+     "version": "3.2.0",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@blatants | Simply Sing: My Singing App  • Bundle ID: com.joytunes.Sing • Updated to: 3.2.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unl",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/SimplySing_3.2.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 112751069
+    }
+   ]
+  }
+ ]
+}

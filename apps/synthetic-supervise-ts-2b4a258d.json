@@ -1,0 +1,30 @@
+{
+ "name": "Supervise_TS",
+ "identifier": "dev.perapp.synthetic-supervise-ts-2b4a258d",
+ "subtitle": "Supervise your device.",
+ "description": "Single-app source for Supervise_TS (synthetic.supervise-ts.2b4a258d). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Supervise_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.supervise-ts.2b4a258d",
+   "name": "Supervise_TS",
+   "developerName": "Supervise_TS x CyPwn",
+   "subtitle": "Supervise your device.",
+   "localizedDescription": "Supervise your device.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Supervise_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Supervise your device.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Supervise_TS.ipa",
+     "size": 297175
+    }
+   ]
+  }
+ ]
+}

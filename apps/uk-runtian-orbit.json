@@ -1,0 +1,46 @@
+{
+ "name": "Orbit",
+ "identifier": "dev.perapp.uk-runtian-orbit",
+ "subtitle": "The iPhone app for Orbit: your Mac's chats, live from any network (Cloudflare Tunnel, Tailscale or Wi-Fi), with approval",
+ "description": "Single-app source for Orbit (uk.runtian.orbit). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4f6ef1",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/uk.runtian.orbit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.runtian.orbit",
+   "name": "Orbit",
+   "developerName": "Micropeptide",
+   "subtitle": "The iPhone app for Orbit: your Mac's chats, live from any network (Cloudflare Tunnel, Tailscale or Wi-Fi), with approvals, the queue and scheduled tasks, plus cluster, Crew, helper and shared-project ",
+   "localizedDescription": "Orbit for iPhone:\n\nThe phone app for Orbit, your own AI workspace on your Mac. Orbit runs any model through the real Claude Code or Codex agent, lets chats hand work to each other, keeps going toward a goal, and queues or schedules messages. Your chats, files and the model that answers all stay on the Mac. This app is a live window onto them, from any network with no VPN (through your own Cloudflare Tunnel), over Tailscale, or over your Wi-Fi at home. It also carries the Mac's cluster, Crew, helper and shared-project screens.\n\n• Approvals from the Lock Screen. Allow or Deny a step on the notification itself, without opening the app.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/uk.runtian.orbit.png",
+   "tintColor": "#4f6ef1",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Micropeptide/Orbit-iOS@main/docs/screenshots/welcome.png",
+    "https://cdn.jsdelivr.net/gh/Micropeptide/Orbit-iOS@main/docs/screenshots/chats.png",
+    "https://cdn.jsdelivr.net/gh/Micropeptide/Orbit-iOS@main/docs/screenshots/chat.png",
+    "https://cdn.jsdelivr.net/gh/Micropeptide/Orbit-iOS@main/docs/screenshots/chats-talk.png",
+    "https://cdn.jsdelivr.net/gh/Micropeptide/Orbit-iOS@main/docs/screenshots/scheduled.png"
+   ],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-10-20T08:03:37Z",
+     "localizedDescription": "Orbit for iPhone 1.2.\n\n• Several accounts. Settings → Models & keys: add Claude accounts (each signed in with its own token), choose the main one, test, rename, remove. The same page has two switches for when an account runs out: move to the next by itself, and go back to the main one once its limit has reset. These apply to OpenCode Go accounts too.",
+     "downloadURL": "https://github.com/Micropeptide/Orbit-iOS/releases/download/v1.2/Orbit.ipa",
+     "size": 6733668
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Scanning the pairing QR code on your Mac, and taking photos to send in a chat.",
+     "NSFaceIDUsageDescription": "Unlocking Orbit when you have asked it to lock.",
+     "NSLocalNetworkUsageDescription": "Finding your Mac running Orbit on this network.",
+     "NSPhotoLibraryAddUsageDescription": "Saving a plot or picture from a conversation to your Photos.",
+     "NSPhotoLibraryUsageDescription": "Attaching an image to a conversation."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Osushi - TrollStore",
+ "identifier": "dev.perapp.com-straight-tamago-osushi",
+ "subtitle": "Osushi cho TrollStore là một ứng dụng cho phép thêm một Trung tâm điều khiển mới trên Màn hình chính và Màn hình khóa. Ứ",
+ "description": "Single-app source for Osushi - TrollStore (com.straight-tamago.Osushi). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.straight-tamago.Osushi",
+   "name": "Osushi - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Osushi cho TrollStore là một ứng dụng cho phép thêm một Trung tâm điều khiển mới trên Màn hình chính và Màn hình khóa. Ứng dụng Osushi cũng có thể…",
+   "localizedDescription": "Osushi cho TrollStore là một ứng dụng cho phép thêm một Trung tâm điều khiển mới trên Màn hình chính và Màn hình khóa. Ứng dụng Osushi cũng có thể được đóng ở chế độ nền và vẫn hoạt động. - Chỉ hoạt động khi cài bằng TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Osushi cho TrollStore là một ứng dụng cho phép thêm một Trung tâm điều khiển mới trên Màn hình chính và Màn hình khóa. Ứng dụng Osushi cũng có thể…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Osushi_1.0_TTJB.tipa",
+     "size": 549939
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Subway Surf",
+ "identifier": "dev.perapp.com-unknown-subwaysurf",
+ "subtitle": "دراوی بێسنوور ✅  پاتریی بێسنوور ✅  ناچالاکردنی زیان ✅   کردنەوەی گۆڕەپانەکان ✅",
+ "description": "Single-app source for Subway Surf (com.unknown.subwaysurf). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Subway.Surf.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.subwaysurf",
+   "name": "Subway Surf",
+   "developerName": "Karbin-Store",
+   "subtitle": "دراوی بێسنوور ✅  پاتریی بێسنوور ✅  ناچالاکردنی زیان ✅   کردنەوەی گۆڕەپانەکان ✅",
+   "localizedDescription": "دراوی بێسنوور ✅  پاتریی بێسنوور ✅  ناچالاکردنی زیان ✅   کردنەوەی گۆڕەپانەکان ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Subway.Surf.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.39.0",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "دراوی بێسنوور ✅  پاتریی بێسنوور ✅  ناچالاکردنی زیان ✅   کردنەوەی گۆڕەپانەکان ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Subway.Surf._3.39.0.ipa",
+     "size": 161220000
+    },
+    {
+     "version": "3.40.0",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    کلیلی بێ سنوور ✅  دراوی بێ سنوور ✅  سکەیتبۆرد بێ سنوور ✅  هەموو کاراکتەرەکان + پێشوو ✅  هەموو بۆردەکان + پێشتر ✅  زۆ",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-one/Subway.Surf.-.3.40.0.ipa",
+     "size": 144220000
+    }
+   ]
+  }
+ ]
+}

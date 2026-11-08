@@ -1,0 +1,30 @@
+{
+ "name": "AniHyou",
+ "identifier": "dev.perapp.com-axiel7-anihyou",
+ "subtitle": "AniHyou is an open-source, modern AniList client for iOS.  This build is distributed by a third party not related to axi",
+ "description": "Single-app source for AniHyou (com.axiel7.AniHyou). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.axiel7.AniHyou.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.axiel7.AniHyou",
+   "name": "AniHyou",
+   "developerName": "RipeStore",
+   "subtitle": "AniHyou is an open-source, modern AniList client for iOS.  This build is distributed by a third party not related to axiel7/anihyou.  AniHyou is a nat",
+   "localizedDescription": "AniHyou is an open-source, modern AniList client for iOS.  This build is distributed by a third party not related to axiel7/anihyou.  AniHyou is a nat\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.axiel7.AniHyou.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.7",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "AniHyou is an open-source, modern AniList client for iOS.  This build is distributed by a third party not related to axiel7/anihyou.  AniHyou is a nat",
+     "downloadURL": "https://github.com/RipeStore/AniHyou-iOS/releases/download/v1.8.7-c830fed/AniHyou-v1.8.7-c830fed-unsigned.ipa",
+     "size": 17676366
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "RAW Power",
+ "identifier": "dev.perapp.com-gentlemencoders-rawpower-ios",
+ "subtitle": "ipaomtk.com | RAW Power IPA v3.4.28 is a sophisticated photo editing application designed for iOS devices, catering to b",
+ "description": "Single-app source for RAW Power (com.gentlemencoders.RAWPower.iOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/RAW-Power.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gentlemencoders.RAWPower.iOS",
+   "name": "RAW Power",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | RAW Power IPA v3.4.28 is a sophisticated photo editing application designed for iOS devices, catering to both professional photographers",
+   "localizedDescription": "ipaomtk.com | RAW Power IPA v3.4.28 is a sophisticated photo editing application designed for iOS devices, catering to both professional photographers",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/RAW-Power.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.28",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | RAW Power IPA v3.4.28 is a sophisticated photo editing application designed for iOS devices, catering to both professional photographers",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/RAW_Power-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

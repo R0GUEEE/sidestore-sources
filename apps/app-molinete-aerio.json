@@ -1,0 +1,57 @@
+{
+ "name": "AerioTV",
+ "identifier": "dev.perapp.app-molinete-aerio",
+ "subtitle": "AerioTV — IPTV streaming app for iOS, iPadOS, tvOS, and MacOS (iPad version) with support for Dispatcharr's API, Xtream ",
+ "description": "Single-app source for AerioTV (app.molinete.aerio). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2d70c0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.molinete.aerio.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.molinete.aerio",
+   "name": "AerioTV",
+   "developerName": "jonzey231",
+   "subtitle": "AerioTV — IPTV streaming app for iOS, iPadOS, tvOS, and MacOS (iPad version) with support for Dispatcharr's API, Xtream Codes, and M3U + EPG",
+   "localizedDescription": "AerioTV:\n\nAerioTV is a native IPTV streaming application for iOS, iPadOS, tvOS, and macOS (using the iPad app). It connects to Dispatcharr via API Key, Xtream Codes, and M3U playlist servers to deliver live TV, movies, and series with a full electronic program guide (EPG) when supplied by the user.\n\nDownload via Apple App Store.\n\n• This will usually lag behind the TestFlight version.\n\nDownload via Apple TestFlight.\n\n• This version may have bugs but will always be the latest.\n• This version will occasionally be ahead of the Apple Testflight version.\n\nThe AerioTV Family:\n\nThe Apple and Android apps share one design and feature set. They also work together: cast from an iPhone to AerioTV on Android TV, or AirPlay to an Apple TV.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.molinete.aerio.png",
+   "tintColor": "#2d70c0",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/jonzey231/AerioTV@main/docs/screenshots/iphone/01.png",
+    "https://cdn.jsdelivr.net/gh/jonzey231/AerioTV@main/docs/screenshots/iphone/02.png",
+    "https://cdn.jsdelivr.net/gh/jonzey231/AerioTV@main/docs/screenshots/iphone/03.png",
+    "https://cdn.jsdelivr.net/gh/jonzey231/AerioTV@main/docs/screenshots/iphone/04.png",
+    "https://cdn.jsdelivr.net/gh/jonzey231/AerioTV@main/docs/screenshots/iphone/05.png"
+   ],
+   "versions": [
+    {
+     "version": "1.8.44",
+     "date": "2026-10-16T19:29:33Z",
+     "localizedDescription": "AerioTV 1.8.44.\n\nAdded:\n\n• Dispatcharr radio flag: AerioTV reads the radio flag on every backend. Declared radio channels start as audio at once and open Radio Mode, and admins can Mark as Radio Channel or Unmark as Radio Channel from the long-press menu.\n• Radio Mode shows Channel Unavailable with a 5 s retry, and failed channels are not kept live.\n• Apple TV: Back is a mappable guide key in the Remote Control settings, and one press holds one action.\n• Developer: Dump Audio-Only Segments toggle.\n\nChanged:\n\n• Audio-only channels start fast in Radio Mode and on remembered channels, and join at 3x the target duration so playback begins sooner.\n• The audio-only hold-back is learned on a bursty feed and grows during the session, up to 32 s.\n• The Radio Mode card shares its row with the round Cast button, like the Kept Live card, and the floating Cast button hides while Radio Mode is active.\n• Apple TV: a double Menu press stops Radio Mode, and the hint row shows Double Back Stop.\n• Apple TV: Radio Mode keeps guide focus on the chosen cell and restores it on every stop.\n• Dispatcharr re-login is gated to one attempt per minute and honors server rate limits (429 Retry-After).\n\nFixed:\n\n• Audio-only programs no longer tap or click on radio channels: timestamps are rewritten from a running sample clock.\n• Force HLS direct tiles accept audio-only programs, and \"Channel is stopping\" retries back off.\n• Editing a playlist URL resets the sign-in and server-bound state, so the playlist reloads cleanly.\n• Deleting a playlist no longer crashes or stalls the app.\n• iPhone: the tab bar stays hidden under the full-screen player across Picture in Picture, rotation, and auto-hide.\n• The Favorites group sorted By Number follows the channel order, not the order channels were favorited (jonzey231/AerioTV#100).",
+     "downloadURL": "https://github.com/jonzey231/AerioTV/releases/download/v1.8.44/Aerio_iOS_1.8.44.ipa",
+     "size": 22052718
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "aps-environment",
+     "com.apple.developer.carplay-audio",
+     "com.apple.developer.carplay-video",
+     "com.apple.developer.icloud-container-development-container-identifiers",
+     "com.apple.developer.icloud-container-identifiers",
+     "com.apple.developer.icloud-services",
+     "com.apple.developer.networking.wifi-info",
+     "com.apple.developer.team-identifier",
+     "com.apple.developer.ubiquity-container-identifiers",
+     "com.apple.developer.ubiquity-kvstore-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "AerioTV needs local network access to connect to your media server on your home network, and to find and stream to your AirPlay and Google Cast TVs."
+    }
+   }
+  }
+ ]
+}

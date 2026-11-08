@@ -1,0 +1,30 @@
+{
+ "name": "Magica.io",
+ "identifier": "dev.perapp.io-battleroyale-magicka",
+ "subtitle": "ipaomtk.com | Magica io Battle Royale IPA game that has taken the gaming world by storm. With its captivating gameplay a",
+ "description": "Single-app source for Magica.io (io.battleroyale.magicka). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Magica.io-Battle-Royale-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.battleroyale.magicka",
+   "name": "Magica.io",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Magica io Battle Royale IPA game that has taken the gaming world by storm. With its captivating gameplay and stunning graphics, it offer",
+   "localizedDescription": "ipaomtk.com | Magica io Battle Royale IPA game that has taken the gaming world by storm. With its captivating gameplay and stunning graphics, it offer",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Magica.io-Battle-Royale-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.5",
+     "date": "2024-01-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Magica io Battle Royale IPA game that has taken the gaming world by storm. With its captivating gameplay and stunning graphics, it offer",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Magica-io-Battle-Royale.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

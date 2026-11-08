@@ -1,0 +1,44 @@
+{
+ "name": "Bunny",
+ "identifier": "dev.perapp.com-hammerandchisel-discord",
+ "subtitle": "Bunny by Neoncat-OG IPA Library",
+ "description": "Single-app source for Bunny (com.hammerandchisel.discord). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hammerandchisel.discord",
+   "name": "Bunny",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "350.0",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@ipavault | Discord 350.0 (Rain 0.10.0)  ▪Updated to Discord 350.0 ⚠️ Restart Discord after first launch. Clean install recommended if having issues. ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1051-Discord%20350.0%20%28RainTweak%29%20%5B@ipavault%5D.ipa",
+     "size": 102115430
+    },
+    {
+     "version": "349.0",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@ipavault | Discord 349.0 (Rain 0.10.0)  ▪Updated to Discord 349.0 ⚠️ Restart Discord after first launch. Clean install recommended if having issues. ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/890-Discord%20349.0%20%28RainTweak%29%20%5B@ipavault%5D.ipa",
+     "size": 109148502
+    },
+    {
+     "version": "317.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "BoundTweak Loader. Always been its name. This repository is archived and no longer maintained. After around three years of collaboration, the partners",
+     "downloadURL": "https://github.com/CloudySn0w/BTLoader/releases/download/v317.0/bound.ipa",
+     "size": 91203523
+    }
+   ]
+  }
+ ]
+}

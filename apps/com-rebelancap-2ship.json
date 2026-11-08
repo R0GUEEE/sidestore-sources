@@ -1,0 +1,30 @@
+{
+ "name": "2 Ship 2 Harkinian",
+ "identifier": "dev.perapp.com-rebelancap-2ship",
+ "subtitle": "2 Ship 2 Harkinian for iPhone & Apple Vision Pro:  Play The Legend of Zelda: Majora's Mask on your iPhone and Apple Visi",
+ "description": "Single-app source for 2 Ship 2 Harkinian (com.rebelancap.2ship). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.2ship.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.2ship",
+   "name": "2 Ship 2 Harkinian",
+   "developerName": "rebelancap",
+   "subtitle": "2 Ship 2 Harkinian for iPhone & Apple Vision Pro:  Play The Legend of Zelda: Majora's Mask on your iPhone and Apple Vision Pro — the full three-day cy",
+   "localizedDescription": "2 Ship 2 Harkinian for iPhone & Apple Vision Pro:  Play The Legend of Zelda: Majora's Mask on your iPhone and Apple Vision Pro — the full three-day cy\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.2ship.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "2 Ship 2 Harkinian for iPhone & Apple Vision Pro:  Play The Legend of Zelda: Majora's Mask on your iPhone and Apple Vision Pro — the full three-day cy",
+     "downloadURL": "https://github.com/rebelancap/2ship2harkinian-ios/releases/download/v1.1.2/2ship-1.1.2-iOS.ipa",
+     "size": 12425453
+    }
+   ]
+  }
+ ]
+}

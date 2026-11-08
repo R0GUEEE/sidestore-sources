@@ -1,0 +1,30 @@
+{
+ "name": "Pigment",
+ "identifier": "dev.perapp.com-pixite-pigment",
+ "subtitle": "Pigment",
+ "description": "Single-app source for Pigment (com.pixite.pigment). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pixite.pigment",
+   "name": "Pigment",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.16",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Pigment_3.16_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 147652175
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "iCSM",
+ "identifier": "dev.perapp.com-icsm-client",
+ "subtitle": "A personal CSGO port by BILIBILI @SU_ZeShin for iPhone and iPad, running natively on ARM64 with a Metal rendering backen",
+ "description": "Single-app source for iCSM (com.icsm.client). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.icsm.client.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.icsm.client",
+   "name": "iCSM",
+   "developerName": "zktfjcksxk-spec",
+   "subtitle": "A personal CSGO port by BILIBILI @SU_ZeShin for iPhone and iPad, running natively on ARM64 with a Metal rendering backend",
+   "localizedDescription": "iCSM:\n\nA personal CSGO port by BILIBILI @SU_ZeShin for iPhone and iPad, running natively on ARM64 with a Metal rendering backend. The game modules, SDL, and Metal backend are built from source. Current version: 0.7.2 (Build 200).\n\nFeatures added in this port:\n\n• MetalFX spatial upscaling: render the scene at a lower internal resolution and upscale it to the output resolution, using the scene render scale defined by the graphics presets.\n• MetalFX frame interpolation: targets 60 rendered frames → 120 displayed frames, with low-latency scheduling, weapon animation protection, and adaptive behavior under load. Requires a supported GPU and a 120 Hz display; actual frame rates depend on the device and scene.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.icsm.client.png",
+   "tintColor": "#6058e8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.7.2",
+     "date": "2026-10-12T08:37:15Z",
+     "localizedDescription": "iCSM 0.7.2 · Build 200:\n\nNative ARM64 CSGO for iPhone and iPad, with the Metal backend. This release updates the mobile source, personally re-signable IPA, matching data and Ubuntu x86_64 dedicated-server source together.\n\nV2 packaging revision: the data ZIP and volumes have been renamed; resource bytes and data identity are unchanged. The IPA and source ZIPs include V2 file-sharing auto-detection and legacy filename compatibility. Game version remains Build200. Revision source: cd767a77; the original Build200 tag is retained.\n\n• Import the resulting iCSM-v2.zip from the app's initial screen. Do not import individual parts. The resource identity is unchanged, so existing verified data remain compatible.\n\nChanges:\n\n• Restore recoil, view punch, bot weapon handoff and correct weapon kill icons.\n• Improve touch aiming/movement, sliders and custom buttons; Xbox-standard mapping and separate stick deadzones.\n• Add the available 2019 sticker/glove catalogs, direct sticker replacement and cosmetic/memory optimizations.\n• Keep fonts/UI clear independently of scene resolution; first-successful-data-start announcement lasts ten seconds.\n• Improve MetalFX motion/occlusion filtering. Add Settings → Video → 插帧性能测试 with repeatable three-map quick / twelve-map full tests, per-device recommendations, explicit apply, cancel and interruption recovery.\n\nThe 36-sample quick test on the connected M5 iPad completed without GPU errors. Some high-preset scenes still miss stable 120 FPS; protected weapon animation remains at the native rate. Twelve-map full mode and Build200 iPhone installation were not tested in this update. This is a locally verified release; the full cloud IPA + Data workflow has not been executed. Ubuntu full compilation/linking and all 17 ELF64 x86_64 images/dependencies passed; real Ubuntu deployment/multiplayer gameplay was not run.\n\n• 将 全部11个 iCSM-v2.zip.partNNN 分卷、iCSM-v2.zip.parts.json、join_data.py 下载到同一个目录。Windows 运行 py -3 join_data.py，macOS／Linux 运行 python3 join_data.py。.",
+     "downloadURL": "https://github.com/zktfjcksxk-spec/iCSM/releases/download/v0.7.2-build200/iCSM-Build200-unsigned.ipa",
+     "size": 154432318
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.developer.kernel.increased-memory-limit"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "搜索同一网络上的 iCSM 房间，并连接你指定的私人游戏服务器。"
+    }
+   }
+  }
+ ]
+}

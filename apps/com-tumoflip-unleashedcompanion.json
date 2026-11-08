@@ -1,0 +1,44 @@
+{
+ "name": "TumoCompanion",
+ "identifier": "dev.perapp.com-tumoflip-unleashedcompanion",
+ "subtitle": "A native iOS companion for Flipper Zero — BLE/USB SD file access, screen mirror, Sub-GHz/NFC, a Sber smart-relay failsaf",
+ "description": "Single-app source for TumoCompanion (com.tumoflip.unleashedcompanion). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e66c0d",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tumoflip.unleashedcompanion.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tumoflip.unleashedcompanion",
+   "name": "TumoCompanion",
+   "developerName": "squazaryu",
+   "subtitle": "A native iOS companion for Flipper Zero — BLE/USB SD file access, screen mirror, Sub-GHz/NFC, a Sber smart-relay failsafe, Marauder log analysis, ESP32 firmware flashing, and live Claude Code status o",
+   "localizedDescription": "TumoCompanion:\n\nA native iOS companion for Flipper Zero — BLE/USB SD file access, screen mirror, Sub-GHz/NFC, a Sber smart-relay failsafe, Marauder log analysis, ESP32 firmware flashing, and live Claude Code status on your Flipper.\n\nScreenshots:\n\nOnboarding · Home dashboard · Relay control · Settings (themes + app-icon styles). Home/Relay are shown without a Flipper paired — the live-data screens (device info, files, screen mirror, WiFi/Marauder, AI Radar, Claude Buddy) look best on a connected device.\n\n📱 Device & files:\n\n• Connect over Bluetooth LE for live control, App Bridge, screen mirror and RPC actions.\n• Browse the SD card over BLE or USB SD Mode, create folders, upload files and whole folders, multi-select and move items in bulk; one-tap macOS-junk cleanup (._*, .DS_Store).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tumoflip.unleashedcompanion.png",
+   "tintColor": "#e66c0d",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/squazaryu/TumoCompanion@main/screenshots/onboarding.png",
+    "https://cdn.jsdelivr.net/gh/squazaryu/TumoCompanion@main/screenshots/home.png",
+    "https://cdn.jsdelivr.net/gh/squazaryu/TumoCompanion@main/screenshots/relay.png"
+   ],
+   "versions": [
+    {
+     "version": "1.11.35",
+     "date": "2026-11-06T15:18:10Z",
+     "localizedDescription": "Fix a FW Packages recovery loop after a completed installation. Finish only after exact installed-ledger and fresh device-MD5 proof, with no old/stage copies or pending cleanup; no application files are re-uploaded or deleted by this completion. Serialize recovery, catalog/status checks, installation and cleanup; reject stale journal generations. Normal rollback remains protected for genuinely incomplete installs. Update Feather and install 1.11.35 (288). No firmware or FW Packages update is required. Validated by 702 unit and 22 UI tests, GitHub CI, and an explicitly authorized metadata-only device repair confirmed by the owner.",
+     "downloadURL": "https://github.com/squazaryu/TumoCompanion/releases/download/v1.11.35/TumoCompanion-unsigned.ipa",
+     "size": 26124127
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "TumoCompanion connects to your Flipper Zero over Bluetooth Low Energy to manage files, mirror the screen, run apps and send Sub-GHz signals.",
+     "NSBluetoothPeripheralUsageDescription": "TumoCompanion uses Bluetooth to communicate with your Flipper Zero.",
+     "NSLocalNetworkUsageDescription": "TumoCompanion finds the Mac AI Radar bridge on your local network and sends relay actions to Home Assistant when your Flipper triggers them.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "TumoCompanion shares one position only when your connected Tumoflip requests it over Bluetooth while the app is in the background. It stops location updates immediately after replying. If you explicitly enable Last Known Location, one visible and clearable location is stored on this iPhone.",
+     "NSLocationWhenInUseUsageDescription": "TumoCompanion uses your location for WiFi mapping and for one-shot position requests that you explicitly enable for a connected Tumoflip device."
+    }
+   }
+  }
+ ]
+}

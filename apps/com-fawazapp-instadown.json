@@ -1,0 +1,37 @@
+{
+ "name": "instdown",
+ "identifier": "dev.perapp.com-fawazapp-instadown",
+ "subtitle": "ipaomtk.com | Introduction to InstDown on iOS InstDown is a dedicated iOS application that provides a streamlined way fo",
+ "description": "Single-app source for instdown (com.fawazapp.instadown). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/instdown-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fawazapp.instadown",
+   "name": "instdown",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction to InstDown on iOS InstDown is a dedicated iOS application that provides a streamlined way for iPhone users to save Instagr",
+   "localizedDescription": "ipaomtk.com | Introduction to InstDown on iOS InstDown is a dedicated iOS application that provides a streamlined way for iPhone users to save Instagr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/instdown-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "29",
+     "date": "2026-01-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to InstDown on iOS InstDown is a dedicated iOS application that provides a streamlined way for iPhone users to save Instagr",
+     "downloadURL": "https://file.ipaomtk.com/instdown/instdown-v29-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "31",
+     "date": "2026-01-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to InstDown on iOS InstDown is a dedicated iOS application that provides a streamlined way for iPhone users to save Instagr",
+     "downloadURL": "https://file.ipaomtk.com/instdown/instdown-v29-IPAOMTK.COM.ipa",
+     "size": 13437746
+    }
+   ]
+  }
+ ]
+}

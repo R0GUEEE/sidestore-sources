@@ -1,0 +1,30 @@
+{
+ "name": "Planta",
+ "identifier": "dev.perapp.com-stromming-plants",
+ "subtitle": "Planta",
+ "description": "Single-app source for Planta (com.stromming.Plants). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stromming.Plants",
+   "name": "Planta",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stromming.Plants.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.103.0",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Planta_3.103.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 110576639
+    }
+   ]
+  }
+ ]
+}

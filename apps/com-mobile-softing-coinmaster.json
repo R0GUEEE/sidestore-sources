@@ -1,0 +1,30 @@
+{
+ "name": "CoinMaster",
+ "identifier": "dev.perapp.com-mobile-softing-coinmaster",
+ "subtitle": "CoinMaster",
+ "description": "Single-app source for CoinMaster (com.mobile-softing.coinmaster). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobile-softing.coinmaster.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobile-softing.coinmaster",
+   "name": "CoinMaster",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobile-softing.coinmaster.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.5.2351",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/CoinMaster_3.5.2351_Mods_%40thisismanpreets_apptesters.org.ipa",
+     "size": 107808032
+    }
+   ]
+  }
+ ]
+}

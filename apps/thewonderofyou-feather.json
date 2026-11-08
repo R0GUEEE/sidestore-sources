@@ -1,0 +1,30 @@
+{
+ "name": "Feather",
+ "identifier": "dev.perapp.thewonderofyou-feather",
+ "subtitle": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+ "description": "Single-app source for Feather (thewonderofyou.Feather). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "thewonderofyou.Feather",
+   "name": "Feather",
+   "developerName": "Samara",
+   "subtitle": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+   "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://github.com/khcrysalis/Feather/blob/v1.x/iOS/Resources/Icons/Main/Mac@3x.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.0",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+     "downloadURL": "https://github.com/claration/Feather/releases/download/v2.9.0/Feather.ipa",
+     "size": 14241853
+    }
+   ]
+  }
+ ]
+}

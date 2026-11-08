@@ -1,0 +1,30 @@
+{
+ "name": "GRID Autosport",
+ "identifier": "dev.perapp.com-feralinteractive-gridautosport-ios",
+ "subtitle": "ipaomtk.com | GRID™ Autosport Custom Edition on iOS brings a high-fidelity racing experience to iPhone that clearly targ",
+ "description": "Single-app source for GRID Autosport (com.feralinteractive.gridautosport-ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/GRID%E2%84%A2-Autosport-Custom-Edition.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.feralinteractive.gridautosport-ios",
+   "name": "GRID Autosport",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | GRID™ Autosport Custom Edition on iOS brings a high-fidelity racing experience to iPhone that clearly targets players who value realism,",
+   "localizedDescription": "ipaomtk.com | GRID™ Autosport Custom Edition on iOS brings a high-fidelity racing experience to iPhone that clearly targets players who value realism,",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/GRID%E2%84%A2-Autosport-Custom-Edition.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.4",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | GRID™ Autosport Custom Edition on iOS brings a high-fidelity racing experience to iPhone that clearly targets players who value realism,",
+     "downloadURL": "https://file.ipaomtk.com/GRID-Autosport/GRID-Autosport-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

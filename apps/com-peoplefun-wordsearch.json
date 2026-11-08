@@ -1,0 +1,37 @@
+{
+ "name": "Search",
+ "identifier": "dev.perapp.com-peoplefun-wordsearch",
+ "subtitle": "ipaomtk.com | What is Wordscapes Search – Word Game IPA? Wordscapes Search – Word Game IPA is an iOS puzzle game package",
+ "description": "Single-app source for Search (com.peoplefun.wordsearch). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Wordscapes-Search-8211-Word-game-IPA-v1.49.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.peoplefun.wordsearch",
+   "name": "Search",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Wordscapes Search – Word Game IPA? Wordscapes Search – Word Game IPA is an iOS puzzle game package that allows iPhone users to e",
+   "localizedDescription": "ipaomtk.com | What is Wordscapes Search – Word Game IPA? Wordscapes Search – Word Game IPA is an iOS puzzle game package that allows iPhone users to e",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Wordscapes-Search-8211-Word-game-IPA-v1.49.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.49.0",
+     "date": "2026-04-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Wordscapes Search – Word Game IPA? Wordscapes Search – Word Game IPA is an iOS puzzle game package that allows iPhone users to e",
+     "downloadURL": "https://file.ipaomtk.com/wordscapes-search-word-game/Wordscapes-Search-Word-game-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.57.2",
+     "date": "2026-04-10T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Wordscapes Search – Word Game IPA? Wordscapes Search – Word Game IPA is an iOS puzzle game package that allows iPhone users to e",
+     "downloadURL": "https://file.ipaomtk.com/wordscapes-search-word-game/Wordscapes-Search-Word-game-IPAOMTK.COM.ipa",
+     "size": 178389854
+    }
+   ]
+  }
+ ]
+}

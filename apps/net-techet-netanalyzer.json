@@ -1,0 +1,30 @@
+{
+ "name": "Net Analyzer",
+ "identifier": "dev.perapp.net-techet-netanalyzer",
+ "subtitle": "ipaomtk.com | A Network Analyzer Pro IPA v8.0 is an essential tool for IT professionals and network administrators to mo",
+ "description": "Single-app source for Net Analyzer (net.techet.netanalyzer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Network-Analyzer-Pro.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "net.techet.netanalyzer",
+   "name": "Net Analyzer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | A Network Analyzer Pro IPA v8.0 is an essential tool for IT professionals and network administrators to monitor, analyze, and troublesho",
+   "localizedDescription": "ipaomtk.com | A Network Analyzer Pro IPA v8.0 is an essential tool for IT professionals and network administrators to monitor, analyze, and troublesho",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Network-Analyzer-Pro.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | A Network Analyzer Pro IPA v8.0 is an essential tool for IT professionals and network administrators to monitor, analyze, and troublesho",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Network_Analyzer_Pro-v8.0-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "MoviePilot",
+ "identifier": "dev.perapp.org-moviepilot-app",
+ "subtitle": "MoviePilot 的 iOS 客户端，使用系统原生导航、搜索与快捷面板，业务页面、弹窗和插件界面复用 MoviePilot-Frontend，支持 iOS 26+ 的 Liquid Glass、侧滑返回、卡片长按菜单与前后台恢复。",
+ "description": "Single-app source for MoviePilot (org.moviepilot.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.moviepilot.app",
+   "name": "MoviePilot",
+   "developerName": "jxxghp",
+   "subtitle": "MoviePilot 的 iOS 客户端，使用系统原生导航、搜索与快捷面板，业务页面、弹窗和插件界面复用 MoviePilot-Frontend，支持 iOS 26+ 的 Liquid Glass、侧滑返回、卡片长按菜单与前后台恢复。",
+   "localizedDescription": "MoviePilot 的 iOS 客户端，使用系统原生导航、搜索与快捷面板，业务页面、弹窗和插件界面复用 MoviePilot-Frontend，支持 iOS 26+ 的 Liquid Glass、侧滑返回、卡片长按菜单与前后台恢复。\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilot-App/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.1",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "MoviePilot 的 iOS 客户端，使用系统原生导航、搜索与快捷面板，业务页面、弹窗和插件界面复用 MoviePilot-Frontend，支持 iOS 26+ 的 Liquid Glass、侧滑返回、卡片长按菜单与前后台恢复。",
+     "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.2.1/MoviePilot-1.2.1-unsigned.ipa",
+     "size": 4228943
+    },
+    {
+     "version": "1.1.1",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "MoviePilot 的 iOS 客户端，使用系统原生导航、搜索与快捷面板，业务页面、弹窗和插件界面复用 MoviePilot-Frontend，支持 iOS 26+ 的 Liquid Glass、侧滑返回、卡片长按菜单与前后台恢复。",
+     "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.1.1/MoviePilot-1.1.1-unsigned.ipa",
+     "size": 4210674
+    },
+    {
+     "version": "1.1.2",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "MoviePilot 的 iOS 客户端，使用系统原生导航、搜索与快捷面板，业务页面、弹窗和插件界面复用 MoviePilot-Frontend，支持 iOS 26+ 的 Liquid Glass、侧滑返回、卡片长按菜单与前后台恢复。",
+     "downloadURL": "https://github.com/jxxghp/MoviePilot-App/releases/download/v1.1.2/MoviePilot-1.1.2-unsigned.ipa",
+     "size": 4210730
+    }
+   ]
+  }
+ ]
+}

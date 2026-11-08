@@ -1,0 +1,30 @@
+{
+ "name": "Dynamic Notch",
+ "identifier": "dev.perapp.com-unknown-dynamicnotch",
+ "subtitle": "بەرنامەیەک بۆ فۆڕماتکردنی موبایلەکەت لەگەڵ کاتژمێرەکەت",
+ "description": "Single-app source for Dynamic Notch (com.unknown.dynamicnotch). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Dynamic.Notch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.dynamicnotch",
+   "name": "Dynamic Notch",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک بۆ فۆڕماتکردنی موبایلەکەت لەگەڵ کاتژمێرەکەت",
+   "localizedDescription": "بەرنامەیەک بۆ فۆڕماتکردنی موبایلەکەت لەگەڵ کاتژمێرەکەت",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Dynamic.Notch.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.13",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ فۆڕماتکردنی موبایلەکەت لەگەڵ کاتژمێرەکەت",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Dynamic.Notch._2.9.13_1737137834.ipa",
+     "size": 172120000
+    }
+   ]
+  }
+ ]
+}

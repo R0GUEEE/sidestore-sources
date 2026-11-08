@@ -1,0 +1,49 @@
+{
+ "name": "Stossycord",
+ "identifier": "dev.perapp.com-stossy11-stossycord",
+ "subtitle": "A Custom Client for iPhone, iPad, and Mac",
+ "description": "Single-app source for Stossycord (com.stossy11.Stossycord). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#90d303",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.Stossycord.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stossy11.Stossycord",
+   "name": "Stossycord",
+   "developerName": "Stossycord",
+   "subtitle": "A Custom Client for iPhone, iPad, and Mac",
+   "localizedDescription": "Stossycord Rewrite:\n\nStossycord is a Discord Client Native to iOS Devices. It is made in 100% Swift and SwiftUI for Privacy, Responsiveness and Security.\n\nRequirements:\n\n• iPhone or iPad with iOS 15+.\n\nFeatures:\n\n• Sending messages.\n• Receiving messages (text).\n• Replying to messages.\n• Uploading attachments (images, video, files).\n• Receiving attachments (images, video, audio, files).\n• Receiving Embeds (any).\n• Direct Messages (send & receive).\n\n• User Profiles.\n• Basic channel list and navigation.\n• Forums & Threads.\n• Basic account/session management (login/logout).\n• Showing Typing Indicators.\n• Notifications & Mentions (Notifcations via Local Notifications with Location to keep app in background, no location data is sent anywhere and is just discarded).\n• Custom emojis + FakeNitro Emojis.\n• Favourited GIFs.\n• Reactions (view/add/remove).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.Stossycord.png",
+   "tintColor": "#90d303",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-03T11:19:06Z",
+     "localizedDescription": "• Brand New Login UI with Captcha and 2fa.\n• Overhauled Channel UI with Custom Emojis, Reactions, Favourited GIFs, Loading More Messages, etc.\n• Message Date, Divider between days.\n• FakeNitro Emojis.\n\n• Updated Apple Music RPC.\n• Mentions (Pings) & Notifications (with Push Notification workaround using Location to keep app alive in background).\n• Mentions View (Button to view where you've been pinged).\n• Server List.\n• iOS 15 Support.\n• Updated WebSocket Handling.\n• Loading Screen when Connecting to WebSocket.",
+     "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/1.0/Stossycord.ipa",
+     "size": 4161048
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSAppleMusicUsageDescription": "This will show your currently playing Music as your presence.",
+     "NSDocumentsFolderUsageDescription": "We need access to your documents folder to import files.",
+     "NSFaceIDUsageDescription": "Stossycord needs Face ID to keep your Token safe",
+     "NSFileProviderPresenceUsageDescription": "We need access to your file provider to import files.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "Stossycord can use background location to keep notification delivery active while the app is in the background.",
+     "NSLocationAlwaysUsageDescription": "Stossycord can use background location to keep notification delivery active while the app is in the background.",
+     "NSLocationWhenInUseUsageDescription": "Stossycord can use location while the app is open before enabling background location support.",
+     "NSPhotoLibraryAddUsageDescription": "Stossycord needs access to your Photo library to upload photos and videos to Discord",
+     "NSPhotoLibraryUsageDescription": "Stossycord needs access to your Photo library to upload photos and videos to Discord"
+    }
+   }
+  }
+ ]
+}

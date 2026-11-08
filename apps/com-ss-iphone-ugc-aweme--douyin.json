@@ -1,0 +1,30 @@
+{
+ "name": "Douyin",
+ "identifier": "dev.perapp.com-ss-iphone-ugc-aweme",
+ "subtitle": "Douyin",
+ "description": "Single-app source for Douyin (com.ss.iphone.ugc.Aweme). Converted from owo.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.ss.iphone.ugc.Aweme.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ss.iphone.ugc.Aweme",
+   "name": "Douyin",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with DYYY 2.2-7",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.ss.iphone.ugc.Aweme.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "34.2.0",
+     "date": "2025-05-14T00:00:00Z",
+     "localizedDescription": "Injected with DYYY 2.2-7",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-05-14/Douyin_34.2.0_DYYY_2.2-7_%40repo.owo.network.ipa",
+     "size": 756876088
+    }
+   ]
+  }
+ ]
+}

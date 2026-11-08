@@ -1,0 +1,44 @@
+{
+ "name": "VocaCircle",
+ "identifier": "dev.perapp.com-genau-memorycircle",
+ "subtitle": "VocaCircle",
+ "description": "Single-app source for VocaCircle (com.genau.MemoryCircle). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MemoryCircle.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.genau.MemoryCircle",
+   "name": "VocaCircle",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.MemoryCircle.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.9",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "AI Language Learning Flashcards\r\n\r\nMaster vocabulary faster with AI-powered flashcards.\r\n\r\nThis app uses advanced AI to automatically generate everything you need to truly understand a word — not just memorize it.\r\n\r\nEnter any word and instantly receive clear definitions, natural example sentences, pronunciation guidance, synonyms, related expressions, and word origins. Everything is generated in one place, so you can focus on learning instead of searching.\r\n\r\nExample sentences can be generated based on specific contexts such as office or school situations. You can also choose tone options like formal or casual to better understand how the word is used in different communication styles.\r\n\r\nThe app provides multiple quiz formats to strengthen r",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2171",
+     "size": 22632873
+    },
+    {
+     "version": "3.1.9",
+     "date": "2025-12-30T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/VocaCircle_3.1.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 13632832
+    },
+    {
+     "version": "3.1.7",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/VocaCircle_3.1.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 13155509
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "HDFlix",
+ "identifier": "dev.perapp.com-box-hd-flix-drama-hub",
+ "subtitle": "Tweaks: Adblock",
+ "description": "Single-app source for HDFlix (com.box.hd.flix.drama.hub). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.box.hd.flix.drama.hub",
+   "name": "HDFlix",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "Tweaks: Adblock",
+   "localizedDescription": "Tweaks: Adblock\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tweaks: Adblock\n\n",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlix/HDFlix-3.0.ipa",
+     "size": 21989838
+    }
+   ]
+  }
+ ]
+}

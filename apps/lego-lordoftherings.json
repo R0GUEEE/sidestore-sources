@@ -1,0 +1,30 @@
+{
+ "name": "LEGO The Lord of the Rings (removed from AppStore)",
+ "identifier": "dev.perapp.lego-lordoftherings",
+ "subtitle": "LEGO The Lord of the Rings (removed from AppStore) by sidelix",
+ "description": "Single-app source for LEGO The Lord of the Rings (removed from AppStore) (Lego.LordoftheRings). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1781102161.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "Lego.LordoftheRings",
+   "name": "LEGO The Lord of the Rings (removed from AppStore)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "LEGO The Lord of the Rings – The developers of the game offer a plunge into the world of the Mediterranean, when there was a ruthless war in which the elves, dwarves and people could unite to confront Sauron’s army. You will be able to feel the whole history from three chapters, to pass them all from the beginning to the end.\r\n\r\nGame features:\r\n\r\nMore than 90 game characters\r\nA large number of weapons and magic items\r\nBeautiful graphics",
+   "iconURL": "https://appstore.sidelix.vip/images/1781102161.jpeg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "LEGO The Lord of the Rings – The developers of the game offer a plunge into the world of the Mediterranean, when there was a ruthless war in which the elves, dwarves and people could unite to confront Sauron’s army. You will be able to feel the whole history from three chapters, to pass them all from the beginning to the end.\r\n\r\nGame features:\r\n\r\nMore than 90 game characters\r\nA large number of weapons and magic items\r\nBeautiful graphics",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2014",
+     "size": 1364949728
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "NGLPro",
+ "identifier": "dev.perapp.fun-ask",
+ "subtitle": "Tweaks: anyapp",
+ "description": "Single-app source for NGLPro (fun.ask). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fun.ask",
+   "name": "NGLPro",
+   "developerName": "AbodSyripa",
+   "subtitle": "Tweaks: anyapp",
+   "localizedDescription": "Tweaks: anyapp\n\nAn anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to your NGL profile and begin interacting with you anonymously. A user requested it so here it is.\nLast updated: 07-18-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/fun.ask.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.1.90",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: anyapp\n\nAn anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.90.ipa",
+     "size": 42194610
+    }
+   ]
+  }
+ ]
+}

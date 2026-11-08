@@ -1,0 +1,30 @@
+{
+ "name": "Smarters Player Lite",
+ "identifier": "dev.perapp.com-smarters-smartiptvlite",
+ "subtitle": "ipaomtk.com | Smart IPTV IPA is the latest technology that promises to revolutionize the way we receive our television p",
+ "description": "Single-app source for Smarters Player Lite (com.smarters.smartiptvLite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/smartiptvLite-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.smarters.smartiptvLite",
+   "name": "Smarters Player Lite",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Smart IPTV IPA is the latest technology that promises to revolutionize the way we receive our television programming. It combines the co",
+   "localizedDescription": "ipaomtk.com | Smart IPTV IPA is the latest technology that promises to revolutionize the way we receive our television programming. It combines the co",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/smartiptvLite-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Smart IPTV IPA is the latest technology that promises to revolutionize the way we receive our television programming. It combines the co",
+     "downloadURL": "https://file.ipaomtk.com/ipa/smartiptvLite.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

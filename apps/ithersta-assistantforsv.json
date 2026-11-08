@@ -1,0 +1,30 @@
+{
+ "name": "Assistant",
+ "identifier": "dev.perapp.ithersta-assistantforsv",
+ "subtitle": "ipaomtk.com | The Assistant for Stardew Valley IPA v3.1.0 is an invaluable tool for both seasoned farmers and new player",
+ "description": "Single-app source for Assistant (ithersta.assistantforsv). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Assistant-for-Stardew-Valley-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "ithersta.assistantforsv",
+   "name": "Assistant",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Assistant for Stardew Valley IPA v3.1.0 is an invaluable tool for both seasoned farmers and new players diving into the charming wor",
+   "localizedDescription": "ipaomtk.com | The Assistant for Stardew Valley IPA v3.1.0 is an invaluable tool for both seasoned farmers and new players diving into the charming wor",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Assistant-for-Stardew-Valley-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.0",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Assistant for Stardew Valley IPA v3.1.0 is an invaluable tool for both seasoned farmers and new players diving into the charming wor",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Assistant_for_Stardew_Valley-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

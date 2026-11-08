@@ -1,0 +1,30 @@
+{
+ "name": "Bunny_Discord",
+ "identifier": "dev.perapp.com-hammerandchisel-bunny",
+ "subtitle": "The best discord Client, unfortuantely discontinued.",
+ "description": "Single-app source for Bunny_Discord (com.hammerandchisel.bunny). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/Bunny_Pyoncord_224_0-s8.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hammerandchisel.bunny",
+   "name": "Bunny_Discord",
+   "developerName": "Bunny Development Team",
+   "subtitle": "The best discord Client, unfortuantely discontinued.",
+   "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
+   "iconURL": "https://cdn.omnidev.org/Bunny_Pyoncord_224_0-s8.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "224.0",
+     "date": "2024-04-10T00:00:00Z",
+     "localizedDescription": "Best discord client, unfortunately discontinued. Still working.\n\nStatus: ✅🌟🔥",
+     "downloadURL": "https://cdn.omnidev.org/Bunny_IPA_Edit-H0.ipa",
+     "size": 96468992
+    }
+   ]
+  }
+ ]
+}

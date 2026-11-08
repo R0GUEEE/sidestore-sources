@@ -1,0 +1,30 @@
+{
+ "name": "AI Logo Generator",
+ "identifier": "dev.perapp.com-unknown-ailogogenerator",
+ "subtitle": "AI Logo Generator by Karbin-Store",
+ "description": "Single-app source for AI Logo Generator (com.unknown.ailogogenerator). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/AI.Logo.Generator.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.ailogogenerator",
+   "name": "AI Logo Generator",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/AI.Logo.Generator.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/AI.Logo.Generator_.1.8.ipa",
+     "size": 90520000
+    }
+   ]
+  }
+ ]
+}

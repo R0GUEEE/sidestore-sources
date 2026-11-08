@@ -1,0 +1,30 @@
+{
+ "name": "ChatGPTw15",
+ "identifier": "dev.perapp.com-akuma-chatgptv15",
+ "subtitle": "ChatGPT for iOS 15!",
+ "description": "Single-app source for ChatGPTw15 (com.akuma.chatgptv15). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/ChatGPTw15.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.akuma.chatgptv15",
+   "name": "ChatGPTw15",
+   "developerName": "ChatGPTw15 x CyPwn",
+   "subtitle": "ChatGPT for iOS 15!",
+   "localizedDescription": "ChatGPT for iOS 15!",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/ChatGPTw15.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "ChatGPT for iOS 15!",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/ChatGPTw15.ipa",
+     "size": 2537553
+    }
+   ]
+  }
+ ]
+}

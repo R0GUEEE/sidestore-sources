@@ -1,0 +1,40 @@
+{
+ "name": "Neechan X",
+ "identifier": "dev.perapp.pro-neechan-app-dev",
+ "subtitle": "A native iOS client for the imageboards 2ch (2ch.org / 2ch.life) and 4chan, written in Swift 6 and SwiftUI for iOS 26, u",
+ "description": "Single-app source for Neechan X (pro.neechan.app-dev). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d3a069",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/pro.neechan.app-dev.png",
+ "apps": [
+  {
+   "bundleIdentifier": "pro.neechan.app-dev",
+   "name": "Neechan X",
+   "developerName": "leros1337",
+   "subtitle": "A native iOS client for the imageboards 2ch (2ch.org / 2ch.life) and 4chan, written in Swift 6 and SwiftUI for iOS 26, using Apple's Liquid Glass design system for the navigation layer",
+   "localizedDescription": "Neechan:\n\nA native iOS client for the imageboards 2ch (2ch.org / 2ch.life) and 4chan, written in Swift 6 and SwiftUI for iOS 26, using Apple's Liquid Glass design system for the navigation layer.\n\nUnofficial and unaffiliated with either site.\n\nWhat it does:\n\n• Reading — boards as a catalog or page by page, in list, card or grid layout; threads with reply counts, quote popups, a replies window, in-thread search, and your place kept so a thread reopens where you left it. A post or a whole thread can be translated into your language on the device, and 2ch's likes and dislikes are shown and can be cast.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/pro.neechan.app-dev.png",
+   "tintColor": "#d3a069",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/leros1337/neechan@main/preview-1.png",
+    "https://cdn.jsdelivr.net/gh/leros1337/neechan@main/preview-2.png"
+   ],
+   "versions": [
+    {
+     "version": "2.5.4",
+     "date": "2026-10-31T15:15:18Z",
+     "localizedDescription": "The .ipa below is unsigned. There is no signing certificate in this repository and there should not be one, so it cannot be installed by tapping it: use AltStore, Sideloadly, or your own developer account.\n\nRequires iOS 26 or newer, on iPhone or iPad. Installs as Neechan X (pro.neechan.app-dev) and updates 2.5.3 in place.\n\nTapping a notification opens the thread again, instead of closing the app. Favorites show how many replies to you each thread has.\n\nFavorites:\n\n• Replies to you get their own badge. Next to the count of new posts, a red badge shows how many of them answer your posts, so a thread where someone replied to you stands out from one that is only busy. It counts until you open the thread, and sorting by unread puts these threads first. It needs a post of yours in the thread, and for now it works on 2ch only: 4chan's watcher sees post counts, not the posts themselves.\n\nNotifications:\n\n• A tapped notification no longer crashes the app. Tapping a banner, or its entry in Notification Centre, closed the app instead of opening the thread. The app answered the system's tap from the wrong thread, which iOS does not allow. It now opens the thread at the reply the notification was about, whether the app was already open in the background or not running at all.",
+     "downloadURL": "https://github.com/leros1337/neechan/releases/download/v2.5.4/Neechan-2.5.4.ipa",
+     "size": 15695823
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "Neechan uses Face ID to unlock the app.",
+     "NSPhotoLibraryAddUsageDescription": "Neechan needs permission to add images and videos you save to your photo library."
+    }
+   }
+  }
+ ]
+}

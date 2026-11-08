@@ -1,0 +1,44 @@
+{
+ "name": "Accountit",
+ "identifier": "dev.perapp.designtech-sia-spendit",
+ "subtitle": "@riftysIPAlibrary | Expense Tracker - Accountit  Tweak: Subscription Unlocked  Version: 2.6.13  Notes: press restore onc",
+ "description": "Single-app source for Accountit (DesignTech-SIA.Spendit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7223.png",
+ "apps": [
+  {
+   "bundleIdentifier": "DesignTech-SIA.Spendit",
+   "name": "Accountit",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Expense Tracker - Accountit  Tweak: Subscription Unlocked  Version: 2.6.13  Notes: press restore once then just press X on all the",
+   "localizedDescription": "@riftysIPAlibrary | Expense Tracker - Accountit  Tweak: Subscription Unlocked  Version: 2.6.13  Notes: press restore once then just press X on all the",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7223.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.13",
+     "date": "2026-07-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Expense Tracker - Accountit  Tweak: Subscription Unlocked  Version: 2.6.13  Notes: press restore once then just press X on all the",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7223-Expense%20Tracker%20-%20Accountit-v2.6.13-riftysipas.ipa",
+     "size": 67477141
+    },
+    {
+     "version": "2.6.8",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Accountit_2.6.8_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 56976378
+    },
+    {
+     "version": "2.6.7",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Accountit_2.6.7_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 57413204
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "KKPhoto",
+ "identifier": "dev.perapp.tech-miidii-albummanager",
+ "subtitle": "ipaomtk.com | KK Photo on iOS delivers a flexible and user-friendly photo editing experience tailored for iPhone users w",
+ "description": "Single-app source for KKPhoto (tech.miidii.AlbumManager). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/KK-Photo-IPA-v2.2.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "tech.miidii.AlbumManager",
+   "name": "KKPhoto",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | KK Photo on iOS delivers a flexible and user-friendly photo editing experience tailored for iPhone users who want fast yet polished resu",
+   "localizedDescription": "ipaomtk.com | KK Photo on iOS delivers a flexible and user-friendly photo editing experience tailored for iPhone users who want fast yet polished resu",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/KK-Photo-IPA-v2.2.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@blatants | KK Photo  • Bundle ID: tech.miidii.AlbumManager • Updated to: 2.4 • Minimum iOS: 15 • Patched • Modifier: Free IAP • Tweaked by @blatants ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12802-KK%20Photo%20v2.4%20Free%20IAP%20blatant%20Patched.ipa",
+     "size": 17697166
+    },
+    {
+     "version": "2.3",
+     "date": "2026-09-14T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/KKPhoto_2.3_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 17673174
+    },
+    {
+     "version": "2.2.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-12-2025/KKPhoto_2.2.1_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 16349366
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Luna",
+ "identifier": "dev.perapp.me-cranci-solar",
+ "subtitle": "A modular media player for iOS, tvOS and macOS, under the GPLv3.0 License",
+ "description": "Single-app source for Luna (me.cranci.solar). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.cranci.solar.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.cranci.solar",
+   "name": "Luna",
+   "developerName": "cranci1",
+   "subtitle": "A modular media player for iOS, tvOS and macOS, under the GPLv3.0 License",
+   "localizedDescription": "Luna:\n\nA modular media player for iOS, tvOS and macOS, under the GPLv3.0 License.\n\nWhy Luna?:\n\nLuna has been made to improve speed and stability over the old version, Sora 1 and have a better experience overall.\n\nFeatures:\n\n• [x] TMDB integration.\n• [x] tvOS 17+ support.\n• macOS 13+ support.\n• [x] iOS & iPadOS 15+ support.\n• [x] Customizable Home Sections.\n• [x] Custom mpv based video player.\n• Chromecast and AirPlay support.\n• [x] Bookmarks & Collections for Media Items.\n• [x] Support for personal media servers (Jellyfin, Emby).\n• [x] Background playback and Picture-in-Picture (PiP) support.\n• [x] Services tracking for playback progresses (Trakt & AniList).\n• [x] Support for IntroDBService timestamps (intro, recap, credits, preview).\n• [x] External media player support (VLC, Infuse, Outplayer, nPlayer, SenPlayer, VidHub, TracyPlayer).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.cranci.solar.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [
+    "https://www.cranci.me/screenshots/Luna/home.jpg",
+    "https://www.cranci.me/screenshots/Luna/media.jpg",
+    "https://www.cranci.me/screenshots/Luna/search.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-02-22T16:55:54Z",
+     "localizedDescription": "Luna first release is here and it's packed with plenty of features, that include:\n\n• TMDB support.\n• mpv based player.\n• module settings for customization.\n• Kazen loader for manga to @DawudOsman.\n• Fully working and modular continue watching.\n• AniList & Trakt login with push updates working.\n\nSubtitles in mpv can cause overheating!\n\nother features to come are:\n\n• external subtitles provider.\n• chromecast support for streams.\n\nand more to come!\n\nNew Contributors:\n\n• @50n50 made their first contribution.\n• @SuperFico2100 made their first contribution.\n• @undeaDD made their first contribution.\n• @DawudOsman made their first contribution.\n• @686udjie made their first contribution.",
+     "downloadURL": "https://github.com/cranci1/Luna/releases/download/v1.0.0/Luna.ipa",
+     "size": 16273075
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

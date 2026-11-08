@@ -1,0 +1,44 @@
+{
+ "name": "Soundscape",
+ "identifier": "dev.perapp.com-soundscape-music",
+ "subtitle": "Soundscape",
+ "description": "Single-app source for Soundscape (com.soundscape.music). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.soundscape.music",
+   "name": "Soundscape",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.1.58",
+     "date": "2026-09-05T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
+     "size": 62913054
+    },
+    {
+     "version": "10.1.57",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
+     "size": 63268359
+    },
+    {
+     "version": "10.1.55",
+     "date": "2026-07-30T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
+     "size": 87202016
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "MemrisePremium",
+ "identifier": "dev.perapp.com-memrise-ios-memrisecompanion",
+ "subtitle": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked. Last updated: 07-15-",
+ "description": "Single-app source for MemrisePremium (com.memrise.ios.memrisecompanion). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.memrise.ios.memrisecompanion",
+   "name": "MemrisePremium",
+   "developerName": "AppDB / Strejda603 / Jimbos iPA Library / DPixel",
+   "subtitle": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked. Last updated: 07-15-2024 Status: ⚠️",
+   "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked.\nLast updated: 07-15-2024\nStatus: ⚠️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.memrise.ios.memrisecompanion.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.7.5",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Injected with Premium. Note: As mentioned here, scenario tab is now patched and cannot be unlocked. Last updated: 07-15-2024 Status: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MemrisePremium/MemrisePremium-2024.7.5.ipa",
+     "size": 145324596
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "MailMasterPro",
+ "identifier": "dev.perapp.com-netease-mailmasterpro",
+ "subtitle": "Injected with NoAds",
+ "description": "Single-app source for MailMasterPro (com.netease.mailmasterpro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.netease.mailmasterpro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netease.mailmasterpro",
+   "name": "MailMasterPro",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with NoAds",
+   "localizedDescription": "Injected with NoAds",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.netease.mailmasterpro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.12.1",
+     "date": "2023-10-06T00:00:00Z",
+     "localizedDescription": "Injected with NoAds",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2023-10-06/MailMasterPro_7.12.1_NoAds_@repo.owo.network.ipa",
+     "size": 42788470
+    }
+   ]
+  }
+ ]
+}

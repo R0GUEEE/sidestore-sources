@@ -1,0 +1,30 @@
+{
+ "name": "PlayTally",
+ "identifier": "dev.perapp.com-michaelclay-backtracks",
+ "subtitle": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am c",
+ "description": "Single-app source for PlayTally (com.michaelclay.BackTracks). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michaelclay.BackTracks.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.michaelclay.BackTracks",
+   "name": "PlayTally",
+   "developerName": "N/A",
+   "subtitle": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am considering its removal. Last…",
+   "localizedDescription": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am considering its removal.\nLast updated: 12-08-2022\nStatus: ❌\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.michaelclay.BackTracks.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.9",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Compatibility with TrollStore is limited, and it frequently experiences crashes with newer versions. As a result, I am considering its removal. Last…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PlayTally/PlayTally-1.4.9.ipa",
+     "size": 13254491
+    }
+   ]
+  }
+ ]
+}

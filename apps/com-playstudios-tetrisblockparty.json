@@ -1,0 +1,37 @@
+{
+ "name": "Tetris Block Party",
+ "identifier": "dev.perapp.com-playstudios-tetrisblockparty",
+ "subtitle": "@kamohacks | Tetris® Block Party 🆕  🔩Hack Features🔩 ✅Coins Freeze → prevents coin depletion ✅Energy Freeze → stops energ",
+ "description": "Single-app source for Tetris Block Party (com.playstudios.tetrisblockparty). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16459.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playstudios.tetrisblockparty",
+   "name": "Tetris Block Party",
+   "developerName": "@kamohacks",
+   "subtitle": "@kamohacks | Tetris® Block Party 🆕  🔩Hack Features🔩 ✅Coins Freeze → prevents coin depletion ✅Energy Freeze → stops energy consumption  Don't Abuse The",
+   "localizedDescription": "@kamohacks | Tetris® Block Party 🆕  🔩Hack Features🔩 ✅Coins Freeze → prevents coin depletion ✅Energy Freeze → stops energy consumption  Don't Abuse The",
+   "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16459.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.0",
+     "date": "2026-09-18T00:00:00Z",
+     "localizedDescription": "@kamohacks | Tetris® Block Party 🆕⬆️⬆️  🔩Hack Features🔩 ✅Coins Freeze → prevents coin depletion ✅Energy Freeze → stops energy consumption  Don't Abuse",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16589-Tetris%20Block%20Party%20-%20KamoHacks%20%5B1.10.0%5D.ipa",
+     "size": 191193723
+    },
+    {
+     "version": "1.9.1",
+     "date": "2026-08-26T00:00:00Z",
+     "localizedDescription": "@kamohacks | Tetris® Block Party 🆕  🔩Hack Features🔩 ✅Coins Freeze → prevents coin depletion ✅Energy Freeze → stops energy consumption  Don't Abuse The",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16459-Tetris%20Block%20Party%20-%20KamoHacks%20%5B1.9.1%5D.ipa",
+     "size": 199083770
+    }
+   ]
+  }
+ ]
+}

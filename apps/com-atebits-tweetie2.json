@@ -1,0 +1,69 @@
+{
+ "name": "Twitter",
+ "identifier": "dev.perapp.com-atebits-tweetie2",
+ "subtitle": "A tweak for Twitter that reverts branding to pre-2023, blocks ads, unlocks Twitter Blue features, and more!",
+ "description": "Single-app source for Twitter (com.atebits.Tweetie2). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#209cf0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.atebits.Tweetie2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.atebits.Tweetie2",
+   "name": "Twitter",
+   "developerName": "orionblur",
+   "subtitle": "A tweak for Twitter that reverts branding to pre-2023, blocks ads, unlocks Twitter Blue features, and more!",
+   "localizedDescription": "NeoFreeBird-BHTwitter (tweak):\n\nThe ultimate way to tweak your Twitter/X experience.\n\nThis repository has been archived. All further development has been moved to the NeoFreeBird/app repository.\n\nSupporting the Project:\n\nI welcome all help on NeoFreeBird! Translations, bug fixes, and new features are all welcome. If you do see any issues with the app, feel free to open an issue and follow the templates provided. I also have a Ko-Fi linked in the repo if you wish to support me directly, but by no means is it required! NeoFreeBird will always be open-source and free to use.\n\nUsing your computer:\n\n• Install Theos.\n• Install cyan if you want sideload or TrollStore builds.\n• Clone the NeoFreeBird-BHTwitter repository:.\n\n• Make the build script executable:.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.atebits.Tweetie2.png",
+   "tintColor": "#209cf0",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/orionblur/NeoFreeBird@v7/resources/main/1.png",
+    "https://cdn.jsdelivr.net/gh/orionblur/NeoFreeBird@v7/resources/main/2.png",
+    "https://cdn.jsdelivr.net/gh/orionblur/NeoFreeBird@v7/resources/main/3.png",
+    "https://cdn.jsdelivr.net/gh/orionblur/NeoFreeBird@v7/resources/main/4.png",
+    "https://cdn.jsdelivr.net/gh/orionblur/NeoFreeBird@v7/resources/timeline/timeline1.png"
+   ],
+   "versions": [
+    {
+     "version": "7.1.0",
+     "date": "2026-10-05T04:33:00Z",
+     "localizedDescription": "New Features:\n\n• Added option to see quote and retweet numbers (with an option for unrounded counts).\n• Added an option to play a custom sound (under 7 seconds and with the AAC format) when a tweet is posted.\n\n• NeoFreeBird now has (preliminary!) support for MacOS!\n• Updated X to 12.31.1.\n\nFixes:\n\n• Fixed Spaces not loading.\n• Fixed all web views not loading (including Community Notes, reports, and web replying).\n• Fixed the header switching back to black from dim on iPad.\n• Fixed mute settings not loading.\n• Fixed ads showing up in the Tiktok-like video feed.\n• Fixed verified tweets not showing up in searches and edit histories when the “Hide verified tweets” option was on.\n• dev: Fixed formatting on MacOS.\n• Removed the “Edit Tweet” prompt showing up, this has been server-side for a while.\n• Removed tweet source labels from the codebase, as X has removed it from all API calls.\n• Fixed manual Grok Translate calls.\n• Complete Spanish translation, added localized terminology file.\n• Update Turkish localization and terminology.\n• Updated Croatian ( HR ) translations.\n• Revise Japanese localization strings for clarity.\n• Improve Arabic localization.\n• Update Korean localization.\n\nKnown Issues:\n\n• The option to see quote and retweet numbers is not localized. Most likely will be fixed in the next version.\n\nNew Contributors:\n\n• @polygonMicrosystems made their first contribution.\n• @MarioBarisa made their first contribution.\n• @ipapplus made their first contribution.\n• @hooray804 made their first contribution.",
+     "downloadURL": "https://github.com/orionblur/NeoFreeBird/releases/download/v7.1.0/orionblur-NFB-BHTwitter-sideloaded-Twitter_7.1.0_12.31.1.ipa",
+     "size": 257060615
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "aps-environment",
+     "com.apple.developer.applesignin",
+     "com.apple.developer.associated-appclip-app-identifiers",
+     "com.apple.developer.associated-domains",
+     "com.apple.developer.devicecheck.appattest-environment",
+     "com.apple.developer.networking.carrier-constrained.app-optimized",
+     "com.apple.developer.networking.carrier-constrained.appcategory",
+     "com.apple.developer.pass-type-identifiers",
+     "com.apple.developer.payment-pass-provisioning",
+     "com.apple.developer.siri",
+     "com.apple.developer.team-identifier",
+     "com.apple.developer.usernotifications.communication",
+     "com.apple.developer.usernotifications.time-sensitive",
+     "com.apple.security.application-groups",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCalendarsUsageDescription": "Add events to your calendar from X.",
+     "NSCameraUsageDescription": "Capture and post photos and videos from X.",
+     "NSContactsUsageDescription": "We will securely upload your contacts to our servers to help you connect with friends and suggest users to follow on X.",
+     "NSFaceIDUsageDescription": "Use FaceID to authenticate on X.",
+     "NSLocationUsageDescription": "Enjoy the X experience tailored to your location.",
+     "NSLocationWhenInUseUsageDescription": "Enjoy the X experience tailored to your location.",
+     "NSMicrophoneUsageDescription": "Capture and post videos with sound from X.",
+     "NSPhotoLibraryAddUsageDescription": "This lets you download photos and videos to your Photos.",
+     "NSPhotoLibraryUsageDescription": "Allow access to share photos from your camera roll.",
+     "NSSpeechRecognitionUsageDescription": "Going forward, whenever you choose to share captions on this device, Apple will provide the service. Doing so helps make sure people of all hearing abilities can access your content.",
+     "NSUserTrackingUsageDescription": "This helps X show you more relevant ads."
+    }
+   }
+  }
+ ]
+}

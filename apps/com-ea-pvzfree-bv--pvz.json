@@ -1,0 +1,30 @@
+{
+ "name": "PvZ",
+ "identifier": "dev.perapp.com-ea-pvzfree-bv",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for PvZ (com.ea.pvzfree.bv). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Plants-vs-Zombies-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ea.pvzfree.bv",
+   "name": "PvZ",
+   "developerName": "ipaomtk.com",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Plants vs Zombies IPA Delivers Classic Strategy Fun on iPhone Plants vs Zombies IPA brings one of the most iconic tower defense experiences to iOS, blending humor, strategy, and addictive gameplay into a smooth mobile package. The game challenges players to defend their homes from waves of quirky zombies using an army of powerful plants, […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Plants-vs-Zombies-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.18.0",
+     "date": "2023-02-16T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Plants vs Zombies IPA Delivers Classic Strategy Fun on iPhone Plants vs Zombies IPA brings one of the most iconic tower defense…",
+     "downloadURL": "https://file.ipaomtk.com/Plants-vs-Zombies/PvZ-IPAOMTK.COM.ipa",
+     "size": 129480924
+    }
+   ]
+  }
+ ]
+}

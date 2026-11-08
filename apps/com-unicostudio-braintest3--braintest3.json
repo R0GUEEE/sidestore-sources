@@ -1,0 +1,44 @@
+{
+ "name": "BrainTest3",
+ "identifier": "dev.perapp.com-unicostudio-braintest3",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for BrainTest3 (com.unicostudio.braintest3). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unicostudio.braintest3",
+   "name": "BrainTest3",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.77.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-10-2025/BrainTest3_1.77.0_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 111995342
+    },
+    {
+     "version": "1.76.5",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-08-2025/BrainTest3_1.76.5_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 120397964
+    },
+    {
+     "version": "1.78.0",
+     "date": "2026-05-22T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/BrainTest3_1.78.0_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 126919277
+    }
+   ]
+  }
+ ]
+}

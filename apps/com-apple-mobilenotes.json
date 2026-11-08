@@ -1,0 +1,30 @@
+{
+ "name": "Notes",
+ "identifier": "dev.perapp.com-apple-mobilenotes",
+ "subtitle": "ipaomtk.com | The Notes IPA v1.8 is a versatile digital notepad that comes pre-installed on many smartphones and tablets",
+ "description": "Single-app source for Notes (com.apple.mobilenotes). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Notes.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apple.mobilenotes",
+   "name": "Notes",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Notes IPA v1.8 is a versatile digital notepad that comes pre-installed on many smartphones and tablets, particularly Apple devices. ",
+   "localizedDescription": "ipaomtk.com | The Notes IPA v1.8 is a versatile digital notepad that comes pre-installed on many smartphones and tablets, particularly Apple devices. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Notes.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Notes IPA v1.8 is a versatile digital notepad that comes pre-installed on many smartphones and tablets, particularly Apple devices. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Notes-v2.8.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

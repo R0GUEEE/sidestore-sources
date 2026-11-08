@@ -1,0 +1,30 @@
+{
+ "name": "Airalo -ipaomtk.com",
+ "identifier": "dev.perapp.com-mobillium-airalo",
+ "subtitle": "ipaomtk.com | Traveling abroad can be an exciting and enriching experience, but it often comes with the challenge of sta",
+ "description": "Single-app source for Airalo -ipaomtk.com (com.mobillium.airalo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/unnamed-7-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobillium.airalo",
+   "name": "Airalo -ipaomtk.com",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Traveling abroad can be an exciting and enriching experience, but it often comes with the challenge of staying connected to the internet",
+   "localizedDescription": "ipaomtk.com | Traveling abroad can be an exciting and enriching experience, but it often comes with the challenge of staying connected to the internet",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/unnamed-7-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.56.0",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Traveling abroad can be an exciting and enriching experience, but it often comes with the challenge of staying connected to the internet",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Airalo-ipaomtk.com_1.56.0.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

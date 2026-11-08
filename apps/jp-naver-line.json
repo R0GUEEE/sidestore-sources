@@ -1,0 +1,30 @@
+{
+ "name": "LINE",
+ "identifier": "dev.perapp.jp-naver-line",
+ "subtitle": "Injected with Nothing",
+ "description": "Single-app source for LINE (jp.naver.line). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/jp.naver.line.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.naver.line",
+   "name": "LINE",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing",
+   "localizedDescription": "Injected with Nothing",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/jp.naver.line.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.14.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-09-02/LINE_14.14.0_Nothing_@repo.owo.network.ipa",
+     "size": 141374807
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Shadow Blade+",
+ "identifier": "dev.perapp.com-crescentmoongames-shadowbladearcade",
+ "subtitle": "ipaomtk.com | Shadow Blade is set in a dark and mystical world where you play as Azuma, a ninja assassin. The game featu",
+ "description": "Single-app source for Shadow Blade+ (com.crescentmoongames.shadowbladearcade). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/shadow-blade-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crescentmoongames.shadowbladearcade",
+   "name": "Shadow Blade+",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Shadow Blade is set in a dark and mystical world where you play as Azuma, a ninja assassin. The game features a variety of levels, each ",
+   "localizedDescription": "ipaomtk.com | Shadow Blade is set in a dark and mystical world where you play as Azuma, a ninja assassin. The game features a variety of levels, each ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/shadow-blade-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2023-07-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Shadow Blade is set in a dark and mystical world where you play as Azuma, a ninja assassin. The game features a variety of levels, each ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Shadow-Blade+.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

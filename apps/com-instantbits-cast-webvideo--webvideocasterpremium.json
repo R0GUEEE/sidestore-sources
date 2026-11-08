@@ -1,0 +1,37 @@
+{
+ "name": "WebVideoCasterPremium",
+ "identifier": "dev.perapp.com-instantbits-cast-webvideo",
+ "subtitle": "WebVideoCasterPremium by binnichtaktiv's iPA Library",
+ "description": "Single-app source for WebVideoCasterPremium (com.instantbits.cast.webvideo). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.instantbits.cast.webvideo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.instantbits.cast.webvideo",
+   "name": "WebVideoCasterPremium",
+   "developerName": "binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.instantbits.cast.webvideo.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.40",
+     "date": "2024-10-16T00:00:00Z",
+     "localizedDescription": "App that lets you cast pretty much anything from your phone to your TV. A user requested it so here it is. Note: Install the v1.40, click \"buy\" then install v2.31 over it. Originally found by binnichtaktiv\nLast updated: 08-07-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebVideoCasterPremium/WebVideoCasterPremium-1.40.ipa",
+     "size": 22505251
+    },
+    {
+     "version": "2.31",
+     "date": "2024-10-16T00:00:00Z",
+     "localizedDescription": "App that lets you cast pretty much anything from your phone to your TV. A user requested it so here it is. Note: Install the v1.40, click \"buy\" then install v2.31 over it. Originally found by binnichtaktiv\nLast updated: 08-07-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WebVideoCasterPremium/WebVideoCasterPremium-2.31.ipa",
+     "size": 42115601
+    }
+   ]
+  }
+ ]
+}

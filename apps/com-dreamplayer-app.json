@@ -1,0 +1,30 @@
+{
+ "name": "DreamPlayer",
+ "identifier": "dev.perapp.com-dreamplayer-app",
+ "subtitle": "DreamPlayer:  DreamPlayer is a cross-platform video player for Android, iOS/iPad, and Android TV — built for true Dolby ",
+ "description": "Single-app source for DreamPlayer (com.dreamplayer.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.dreamplayer.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dreamplayer.app",
+   "name": "DreamPlayer",
+   "developerName": "RipeStore",
+   "subtitle": "DreamPlayer:  DreamPlayer is a cross-platform video player for Android, iOS/iPad, and Android TV — built for true Dolby Vision, HDR10/HDR10+, and loss",
+   "localizedDescription": "DreamPlayer:  DreamPlayer is a cross-platform video player for Android, iOS/iPad, and Android TV — built for true Dolby Vision, HDR10/HDR10+, and loss\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.dreamplayer.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "DreamPlayer:  DreamPlayer is a cross-platform video player for Android, iOS/iPad, and Android TV — built for true Dolby Vision, HDR10/HDR10+, and loss",
+     "downloadURL": "https://github.com/RipeStore/dreamplayerbuilder/releases/download/v0.5.0/DreamPlayer-0.5.0.ipa",
+     "size": 21025893
+    }
+   ]
+  }
+ ]
+}

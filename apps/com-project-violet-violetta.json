@@ -1,0 +1,30 @@
+{
+ "name": "Violetta",
+ "identifier": "dev.perapp.com-project-violet-violetta",
+ "subtitle": "Violetta:  An iOS client for the next-gen Violet manga server.  Overview:  Violetta is a modern, native iOS client desig",
+ "description": "Single-app source for Violetta (com.project-violet.violetta). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.project-violet.violetta.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.project-violet.violetta",
+   "name": "Violetta",
+   "developerName": "Cat-Ling",
+   "subtitle": "Violetta:  An iOS client for the next-gen Violet manga server.  Overview:  Violetta is a modern, native iOS client designed to connect seamlessly to y",
+   "localizedDescription": "Violetta:  An iOS client for the next-gen Violet manga server.  Overview:  Violetta is a modern, native iOS client designed to connect seamlessly to y\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.project-violet.violetta.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.5",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Violetta:  An iOS client for the next-gen Violet manga server.  Overview:  Violetta is a modern, native iOS client designed to connect seamlessly to y",
+     "downloadURL": "https://github.com/Cat-Ling/violet-ios/releases/download/v1.1.6/Violetta.ipa",
+     "size": 19924124
+    }
+   ]
+  }
+ ]
+}

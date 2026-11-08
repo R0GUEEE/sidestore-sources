@@ -1,0 +1,30 @@
+{
+ "name": "Dumpy2_2.0.7",
+ "identifier": "dev.perapp.xyz-cypwn-dumpy2",
+ "subtitle": "IPA Dumper/Decrypter",
+ "description": "Single-app source for Dumpy2_2.0.7 (xyz.cypwn.dumpy2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Dumpy2_2.0.7.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.cypwn.dumpy2",
+   "name": "Dumpy2_2.0.7",
+   "developerName": "Dumpy2_2.0.7 x CyPwn",
+   "subtitle": "IPA Dumper/Decrypter",
+   "localizedDescription": "IPA Dumper/Decrypter",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Dumpy2_2.0.7.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.7",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "IPA Dumper/Decrypter",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Dumpy2_2.0.7.ipa",
+     "size": 1562378
+    }
+   ]
+  }
+ ]
+}

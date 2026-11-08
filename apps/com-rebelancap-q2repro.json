@@ -1,0 +1,41 @@
+{
+ "name": "q2repro",
+ "identifier": "dev.perapp.com-rebelancap-q2repro",
+ "subtitle": "Quake II for iPhone & Apple Vision Pro — full campaign, re-release content, and a stereoscopic 3D mode. Built on q2repro",
+ "description": "Single-app source for q2repro (com.rebelancap.q2repro). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#34874b",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.q2repro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.q2repro",
+   "name": "q2repro",
+   "developerName": "rebelancap",
+   "subtitle": "Quake II for iPhone & Apple Vision Pro — full campaign, re-release content, and a stereoscopic 3D mode. Built on q2repro",
+   "localizedDescription": "Quake II (q2repro) for iPhone & Apple Vision Pro:\n\nPlay Quake II on your iPhone and Apple Vision Pro — the full campaign, both mission packs, the 2023 re-release content, Action Quake II, and a stereoscopic 3D mode on Vision Pro that puts the game on a floating screen in your room with real depth. Or go all the way in with VR mode — step inside the level, aim with your hands, and play the whole campaign room-scale.\n\nBuilt on q2repro (Paril's Q2PRO fork with Quake II re-release support), rendering natively on Metal via ANGLE. 100% vibe coded with lots of passion and attention to detail.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.q2repro.png",
+   "tintColor": "#34874b",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rebelancap/q2repro-ios@main/docs/screenshots/visionos-window.png"
+   ],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-09-07T18:09:42Z",
+     "localizedDescription": "visionOS VR (immersive 3D):\n\n• Hand tracking, aim reticle and wheel cursor for the immersive mode.\n• Per-eye lighting fixes: the \"wall dark in one eye\" bug (partial UBO update on the Metal backend) and stale dynamic-light bits.\n• Layer-rate pacing and a GPU frame timer; Render Quality defaults to 1.5.\n• VR settings sheet: HUD Size / Height / Spread (defaults 1.20 / -0.20 / 1.4), Menu Panel Size, FPS counter.\n• Boot config and HUD scale overlay; ffmpeg zero-size packet fix for cinematics.\n\nBuild:\n\n• Clean-clone bootstrap fixes: libcurl script on stock bash 3.2, q2proto submodule now initialised.\n• Public builds compile out the dev remote console and fault-injection commands.\n\nIPAs: q2repro-1.1.0-iOS.ipa, q2repro-1.1.0-visionOS.ipa (dev-signed; install via SideStore/AltStore or your own signing).",
+     "downloadURL": "https://github.com/rebelancap/q2repro-ios/releases/download/v1.1.0/q2repro-1.1.0-iOS.ipa",
+     "size": 8227336
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

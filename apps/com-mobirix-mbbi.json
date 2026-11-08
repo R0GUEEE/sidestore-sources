@@ -1,0 +1,37 @@
+{
+ "name": "mbbi",
+ "identifier": "dev.perapp.com-mobirix-mbbi",
+ "subtitle": "ipaomtk.com | Blade Idle IPA is a iOS simple yet addictive game that allows you to collect and upgrade a variety of powe",
+ "description": "Single-app source for mbbi (com.mobirix.mbbi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/Blade-Idle-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobirix.mbbi",
+   "name": "mbbi",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Blade Idle IPA is a iOS simple yet addictive game that allows you to collect and upgrade a variety of powerful blades. The goal is to de",
+   "localizedDescription": "ipaomtk.com | Blade Idle IPA is a iOS simple yet addictive game that allows you to collect and upgrade a variety of powerful blades. The goal is to de",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/Blade-Idle-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.72.0",
+     "date": "2023-08-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Blade Idle IPA is a iOS simple yet addictive game that allows you to collect and upgrade a variety of powerful blades. The goal is to de",
+     "downloadURL": "https://file.ipaomtk.com/blade-idle/Blade-Idle-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.83.0",
+     "date": "2023-08-23T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Blade Idle IPA is a iOS simple yet addictive game that allows you to collect and upgrade a variety of powerful blades. The goal is to de",
+     "downloadURL": "https://file.ipaomtk.com/blade-idle/Blade-Idle-IPAOMTK.COM.ipa",
+     "size": 454588657
+    }
+   ]
+  }
+ ]
+}

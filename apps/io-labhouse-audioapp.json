@@ -1,0 +1,30 @@
+{
+ "name": "SummaryAI",
+ "identifier": "dev.perapp.io-labhouse-audioapp",
+ "subtitle": "SummaryAI",
+ "description": "Single-app source for SummaryAI (io.labhouse.audioapp). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.labhouse.audioapp",
+   "name": "SummaryAI",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.labhouse.audioapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.3",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/SummaryAI_2.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 112917922
+    }
+   ]
+  }
+ ]
+}

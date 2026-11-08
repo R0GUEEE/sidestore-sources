@@ -1,0 +1,44 @@
+{
+ "name": "LightroomPremium",
+ "identifier": "dev.perapp.com-adobe-lrmobilephone",
+ "subtitle": "LightroomPremium by Manpreet Singh @thisismanpreets",
+ "description": "Single-app source for LightroomPremium (com.adobe.lrmobilephone). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.lrmobilephone",
+   "name": "LightroomPremium",
+   "developerName": "Manpreet Singh @thisismanpreets",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.1",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightroomPremium/LightroomPremium-9.1.1.ipa",
+     "size": 160822525
+    },
+    {
+     "version": "9.2.1",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightroomPremium/LightroomPremium-9.2.1.ipa",
+     "size": 166970182
+    },
+    {
+     "version": "9.3.1",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Injected with Satella. Another popular video/image editor with pro features unlocked. A user requested it so here it is.\nLast updated: 08-14-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LightroomPremium/LightroomPremium-9.3.1.ipa",
+     "size": 186320966
+    }
+   ]
+  }
+ ]
+}

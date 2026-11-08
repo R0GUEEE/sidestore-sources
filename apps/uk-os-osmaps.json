@@ -1,0 +1,30 @@
+{
+ "name": "OSMaps",
+ "identifier": "dev.perapp.uk-os-osmaps",
+ "subtitle": "Tweaks: riftysOSmaps",
+ "description": "Single-app source for OSMaps (uk.os.osmaps). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.os.osmaps.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.os.osmaps",
+   "name": "OSMaps",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: riftysOSmaps",
+   "localizedDescription": "Tweaks: riftysOSmaps\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.os.osmaps.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.4",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: riftysOSmaps\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/OSMaps_5.5.4_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 142512451
+    }
+   ]
+  }
+ ]
+}

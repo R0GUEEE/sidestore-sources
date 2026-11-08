@@ -1,0 +1,44 @@
+{
+ "name": "GymStreak",
+ "identifier": "dev.perapp.com-gymstreak-gymstreakai",
+ "subtitle": "GymStreak",
+ "description": "Single-app source for GymStreak (com.gymstreak.GymStreakAI). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymstreak.GymStreakAI.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gymstreak.GymStreakAI",
+   "name": "GymStreak",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymstreak.GymStreakAI.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.4.0",
+     "date": "2026-08-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1611",
+     "size": 115945292
+    },
+    {
+     "version": "6.2.4",
+     "date": "2026-01-20T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/GymStreak_6.2.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 89759561
+    },
+    {
+     "version": "6.1.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: GymStreak: AI Personal Trainer\n\nTweak: Subscription Unlocked\n\nVersion: 6.1.6\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/b95cebd8-97e2-4f96-beaf-0bf189f0d2d8/GymStreak__AI_Personal_Trainer-v6.1.6-riftysipas.ipa",
+     "size": 45143885
+    }
+   ]
+  }
+ ]
+}

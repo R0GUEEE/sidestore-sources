@@ -1,0 +1,30 @@
+{
+ "name": "Scarlet",
+ "identifier": "dev.perapp.com-debianarch-scarletpersonalxyzzz",
+ "subtitle": "NOTE: The developer does not change the version (1.0), so if you see new features online or if the app stops working, un",
+ "description": "Single-app source for Scarlet (com.DebianArch.ScarletPersonalXYZZZ). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://pbs.twimg.com/profile_images/1367920028813787144/cwvAQV9f_400x400.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
+   "name": "Scarlet",
+   "developerName": "DebianArch",
+   "subtitle": "NOTE: The developer does not change the version (1.0), so if you see new features online or if the app stops working, uninstall and reinstall the app.",
+   "localizedDescription": "NOTE: The developer does not change the version (1.0), so if you see new features online or if the app stops working, uninstall and reinstall the app.",
+   "iconURL": "https://pbs.twimg.com/profile_images/1367920028813787144/cwvAQV9f_400x400.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2023-04-24T00:00:00Z",
+     "localizedDescription": "NOTE: The developer does not change the version (1.0), so if you see new features online or if the app stops working, uninstall and reinstall the app.",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/ScarletAlpha.ipa",
+     "size": 15500000
+    }
+   ]
+  }
+ ]
+}

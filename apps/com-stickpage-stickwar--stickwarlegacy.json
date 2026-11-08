@@ -1,0 +1,44 @@
+{
+ "name": "StickWarLegacy",
+ "identifier": "dev.perapp.com-stickpage-stickwar",
+ "subtitle": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for StickWarLegacy (com.stickpage.stickwar). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stickpage.stickwar.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stickpage.stickwar",
+   "name": "StickWarLegacy",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stickpage.stickwar.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.1.1196",
+     "date": "2026-10-18T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Stick War: Legacy  Tweak: Free iAP  Version: 2026.1.1196  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version:",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8439-Stick%20War:%20Legacy-v2026.1.1196-riftysipas.ipa",
+     "size": 72626175
+    },
+    {
+     "version": "2026.1.1086",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Stick War: Legacy  Tweak: Free iAP  Version: 2026.1.1086  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version:",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8337-Stick%20War:%20Legacy-v2026.1.1086-riftysipas.ipa",
+     "size": 119454129
+    },
+    {
+     "version": "2026.1.983",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Stick War: Legacy  Tweak: Free iAP  Version: 2026.1.983  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8071-Stick%20War:%20Legacy-v2026.1.983-riftysipas.ipa",
+     "size": 119397174
+    }
+   ]
+  }
+ ]
+}

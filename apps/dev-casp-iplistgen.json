@@ -1,0 +1,30 @@
+{
+ "name": "iPlistGen",
+ "identifier": "dev.perapp.dev-casp-iplistgen",
+ "subtitle": "Distribute your iOS Xcode applications without a computer fast.",
+ "description": "Single-app source for iPlistGen (dev.casp.iPlistGen). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/iplistgen-WG.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.casp.iPlistGen",
+   "name": "iPlistGen",
+   "developerName": "Winter Bagley",
+   "subtitle": "Distribute your iOS Xcode applications without a computer fast.",
+   "localizedDescription": "iPlistGen is an app to generate iOS install plists so you can distribute your Xcode apps on the go. \nAll you have to do is fill out the fields and press generate then you can save it and use it without any hassle.\n\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/iplistgen-WG.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-10-31T00:00:00Z",
+     "localizedDescription": "iPlistGen is an app to generate iOS install plists so you can distribute your Xcode apps on the go. \nAll you have to do is fill out the fields and press generate then you can save it and use it without any hassle.\n\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/dev_casp_i_Plist_Gen_1_0-xV.ipa",
+     "size": 389728
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Vidi",
+ "identifier": "dev.perapp.se-plomo-habanero",
+ "subtitle": "ipaomtk.com | Vidi · Media Center IPA Free is revolutionizing the way we consume digital content. This versatile applica",
+ "description": "Single-app source for Vidi (se.plomo.Habanero). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/vidi-media-center-logo-150x150.avif",
+ "apps": [
+  {
+   "bundleIdentifier": "se.plomo.Habanero",
+   "name": "Vidi",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Vidi · Media Center IPA Free is revolutionizing the way we consume digital content. This versatile application serves as a centralized h",
+   "localizedDescription": "ipaomtk.com | Vidi · Media Center IPA Free is revolutionizing the way we consume digital content. This versatile application serves as a centralized h",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/vidi-media-center-logo-150x150.avif",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.0",
+     "date": "2024-10-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Vidi · Media Center IPA Free is revolutionizing the way we consume digital content. This versatile application serves as a centralized h",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Vidi-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

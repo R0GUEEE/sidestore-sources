@@ -1,0 +1,30 @@
+{
+ "name": "SonicDreamTeam",
+ "identifier": "dev.perapp.com-sega-sdt",
+ "subtitle": "ipaomtk.com | Sonic Dream Team IPA is a fun-filled action-adventure game for all ages! With over 80 levels of intense an",
+ "description": "Single-app source for SonicDreamTeam (com.sega.sdt). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Sonic-Dream-Team-IPA-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sega.sdt",
+   "name": "SonicDreamTeam",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sonic Dream Team IPA is a fun-filled action-adventure game for all ages! With over 80 levels of intense and thrilling character-driven g",
+   "localizedDescription": "ipaomtk.com | Sonic Dream Team IPA is a fun-filled action-adventure game for all ages! With over 80 levels of intense and thrilling character-driven g",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Sonic-Dream-Team-IPA-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.3",
+     "date": "2023-12-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sonic Dream Team IPA is a fun-filled action-adventure game for all ages! With over 80 levels of intense and thrilling character-driven g",
+     "downloadURL": "https://file.ipaomtk.com/ipa/SonicDreamTeam.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

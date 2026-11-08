@@ -1,0 +1,44 @@
+{
+ "name": "Infuse",
+ "identifier": "dev.perapp.com-firecore-infuse",
+ "subtitle": "Injected with Plus",
+ "description": "Single-app source for Infuse (com.firecore.infuse). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.firecore.infuse",
+   "name": "Infuse",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Plus",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.8.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here Last updated: 08-09-2024 Status: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.8.1-1.2.0.ipa",
+     "size": 42456684
+    },
+    {
+     "version": "7.8",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here Last updated: 08-09-2024 Status: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.8-1.2.0.ipa",
+     "size": 39678930
+    },
+    {
+     "version": "7.7.7",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Injected with InfusePlus by dayanch96. Fancy media/video player, cracked for premium. Full app description here Last updated: 08-09-2024 Status: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InfusePro/InfusePro-7.7.7-1.2.0.ipa",
+     "size": 42462346
+    }
+   ]
+  }
+ ]
+}

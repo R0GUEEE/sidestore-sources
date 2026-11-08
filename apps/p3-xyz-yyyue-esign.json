@@ -1,0 +1,44 @@
+{
+ "name": "ESign",
+ "identifier": "dev.perapp.p3-xyz-yyyue-esign",
+ "subtitle": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to ",
+ "description": "Single-app source for ESign (p3.xyz.yyyue.esign). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
+ "apps": [
+  {
+   "bundleIdentifier": "p3.xyz.yyyue.esign",
+   "name": "ESign",
+   "developerName": "CyPwn IPA Library / AppDB",
+   "subtitle": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to ",
+   "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to ",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.7.6",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to ",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-18-2023/ESign-4.7.6.ipa",
+     "size": 8608965
+    },
+    {
+     "version": "1.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to ",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ESign.ipa",
+     "size": 8128834
+    },
+    {
+     "version": "4.6.9",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "An app source browser that I personally use alongside TrollStore, that also occasionally gives you free certificates to sign apps with if you wish to ",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/ESign.ipa",
+     "size": 8128834
+    }
+   ]
+  }
+ ]
+}

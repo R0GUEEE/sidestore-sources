@@ -1,0 +1,30 @@
+{
+ "name": "GTA: Vice City",
+ "identifier": "dev.perapp.store-ipa-gtavc-de",
+ "subtitle": "ipaomtk.com | Grand Theft Auto Vice City IPA avid fan of the Grand Theft Auto franchise from back in its original Playst",
+ "description": "Single-app source for GTA: Vice City (store.ipa.gtavc.de). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/grand-theft-auto-vice-city-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "store.ipa.gtavc.de",
+   "name": "GTA: Vice City",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Grand Theft Auto Vice City IPA avid fan of the Grand Theft Auto franchise from back in its original Playstation days, Grand Theft Auto V",
+   "localizedDescription": "ipaomtk.com | Grand Theft Auto Vice City IPA avid fan of the Grand Theft Auto franchise from back in its original Playstation days, Grand Theft Auto V",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/grand-theft-auto-vice-city-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.72.42919648",
+     "date": "2023-06-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Grand Theft Auto Vice City IPA avid fan of the Grand Theft Auto franchise from back in its original Playstation days, Grand Theft Auto V",
+     "downloadURL": "https://file.ipaomtk.com/ipa/GTA-Vice-City-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

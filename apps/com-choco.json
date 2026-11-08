@@ -1,0 +1,30 @@
+{
+ "name": "com.choco",
+ "identifier": "dev.perapp.com-choco",
+ "subtitle": "com.choco",
+ "description": "Single-app source for com.choco (com.choco). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.choco",
+   "name": "com.choco",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAppGroups Checker\n\nSign, install, and open this app to see if your cert is set up right. Quick, simple, and no hassle!\n\nCredits to @brits8882 for making this app.",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAppGroups Checker\n\nSign, install, and open this app to see if your cert is set up right. Quick, simple, and no hassle!\n\nCredits to @brits8882 for making this app.",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/d2d46c91-aa6e-4346-a80b-56055e99c773/AppGroupCheck.ipa",
+     "size": 561986
+    }
+   ]
+  }
+ ]
+}

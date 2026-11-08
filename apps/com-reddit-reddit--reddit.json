@@ -1,0 +1,30 @@
+{
+ "name": "Reddit++",
+ "identifier": "dev.perapp.com-reddit-reddit",
+ "subtitle": "Tweaks: MoesReddit",
+ "description": "Single-app source for Reddit++ (com.reddit.Reddit). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/9d/a1749d85-1061-a0ac-0731-6ea329d668cf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.reddit.Reddit",
+   "name": "Reddit++",
+   "developerName": "Moe",
+   "subtitle": "Tweaks: MoesReddit",
+   "localizedDescription": "Tweaks: MoesReddit\n\nFeatures:\n\n• (Coming soon)\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/74/9d/a1749d85-1061-a0ac-0731-6ea329d668cf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.44.1",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Tweaks: MoesReddit\n\nFeatures: • (Coming soon)",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.1.+.RedditFilter.fixed.ipa",
+     "size": 146915526
+    }
+   ]
+  }
+ ]
+}

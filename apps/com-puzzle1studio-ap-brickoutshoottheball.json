@@ -1,0 +1,30 @@
+{
+ "name": "BrickOut",
+ "identifier": "dev.perapp.com-puzzle1studio-ap-brickoutshoottheball",
+ "subtitle": "Tweaks: iGameGod, SatellaJailed",
+ "description": "Single-app source for BrickOut (com.puzzle1studio.ap.brickoutshoottheball). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.puzzle1studio.ap.brickoutshoottheball",
+   "name": "BrickOut",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: iGameGod, SatellaJailed",
+   "localizedDescription": "Tweaks: iGameGod, SatellaJailed\n\nChức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.puzzle1studio.ap.brickoutshoottheball.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.1212.00",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod, SatellaJailed\n\nChức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/BrickOut_25.1212.00_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 102662260
+    }
+   ]
+  }
+ ]
+}

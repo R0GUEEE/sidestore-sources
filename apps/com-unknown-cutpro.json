@@ -1,0 +1,37 @@
+{
+ "name": "CUTPro",
+ "identifier": "dev.perapp.com-unknown-cutpro",
+ "subtitle": "تایبەتمەندی هاک تێدابەردەستە",
+ "description": "Single-app source for CUTPro (com.unknown.cutpro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/CUTPro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.cutpro",
+   "name": "CUTPro",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی هاک تێدابەردەستە",
+   "localizedDescription": "تایبەتمەندی هاک تێدابەردەستە",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/CUTPro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.17",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی هاک تێدابەردەستە",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Cute.CUT.Pro_2.3_1721596194.ipa",
+     "size": 146740000
+    },
+    {
+     "version": "2.3",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی هاک تێدابەردەستە",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Cute.CUT.Pro_2.3_1721596194.ipa",
+     "size": 153871632
+    }
+   ]
+  }
+ ]
+}

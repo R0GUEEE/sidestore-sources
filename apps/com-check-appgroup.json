@@ -1,0 +1,30 @@
+{
+ "name": "CertificateCheck",
+ "identifier": "dev.perapp.com-check-appgroup",
+ "subtitle": "Ứng dụng kiểm tra quyền của chứng chỉ cài ứng dụng. Nếu có quyền phù hợp sẽ giúp các ứng dụng cài qua chứng chỉ có thể d",
+ "description": "Single-app source for CertificateCheck (com.check.appgroup). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/CertificateCheck.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.check.appgroup",
+   "name": "CertificateCheck",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Ứng dụng kiểm tra quyền của chứng chỉ cài ứng dụng. Nếu có quyền phù hợp sẽ giúp các ứng dụng cài qua chứng chỉ có thể dùng được VPN, Extension…",
+   "localizedDescription": "Ứng dụng kiểm tra quyền của chứng chỉ cài ứng dụng. Nếu có quyền phù hợp sẽ giúp các ứng dụng cài qua chứng chỉ có thể dùng được VPN, Extension, ShareSheet, Widget,.. - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/CertificateCheck.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Ứng dụng kiểm tra quyền của chứng chỉ cài ứng dụng. Nếu có quyền phù hợp sẽ giúp các ứng dụng cài qua chứng chỉ có thể dùng được VPN, Extension…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Certificate.Check_1.0_TTJB.ipa",
+     "size": 684773
+    }
+   ]
+  }
+ ]
+}

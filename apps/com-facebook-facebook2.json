@@ -1,0 +1,30 @@
+{
+ "name": "Facebook 2",
+ "identifier": "dev.perapp.com-facebook-facebook2",
+ "subtitle": "Tweaks: AntiCrash_Ourchase_NoAds, Appstoredata",
+ "description": "Single-app source for Facebook 2 (com.facebook.Facebook2). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.facebook.Facebook2",
+   "name": "Facebook 2",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Tweaks: AntiCrash_Ourchase_NoAds, Appstoredata",
+   "localizedDescription": "Tweaks: AntiCrash_Ourchase_NoAds, Appstoredata\n\nFacebook phiên bản song song với phiên bản gốc. Đã mod không bị trùng data - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "470.1.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: AntiCrash_Ourchase_NoAds, Appstoredata\n\nFacebook phiên bản song song với phiên bản gốc. Đã mod không bị trùng data - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Facebook.2_470.1.0_TTJB.ipa",
+     "size": 141637313
+    }
+   ]
+  }
+ ]
+}

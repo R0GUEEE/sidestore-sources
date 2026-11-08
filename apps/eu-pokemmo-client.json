@@ -1,0 +1,54 @@
+{
+ "name": "PokeMMO",
+ "identifier": "dev.perapp.eu-pokemmo-client",
+ "subtitle": "PokeMMO by PokeMMO",
+ "description": "Single-app source for PokeMMO (eu.pokemmo.client). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "73ACE2",
+ "iconURL": "https://pokemmo.com/build/images/altstore.ba9b8a4e.png",
+ "apps": [
+  {
+   "bundleIdentifier": "eu.pokemmo.client",
+   "name": "PokeMMO",
+   "developerName": "PokeMMO",
+   "subtitle": "",
+   "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+   "iconURL": "https://pokemmo.com/build/images/altstore.ba9b8a4e.png",
+   "tintColor": "73ACE2",
+   "screenshots": [
+    "https://pokemmo.com/build/images/screenshot/c.f3968293.png",
+    "https://pokemmo.com/build/images/screenshot/b.3a233486.png",
+    "https://pokemmo.com/build/images/screenshot/d.4080dd9c.png",
+    "https://pokemmo.com/build/images/screenshot/e.ed0aa85b.png",
+    "https://pokemmo.com/build/images/screenshot/a.debf11f5.png"
+   ],
+   "versions": [
+    {
+     "version": "34995",
+     "date": "2026-11-06T02:53:21+00:00",
+     "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+     "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34995",
+     "size": 133711770
+    },
+    {
+     "version": "34932",
+     "date": "2026-11-02T23:33:57+00:00",
+     "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+     "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34932",
+     "size": 133280699
+    },
+    {
+     "version": "34868",
+     "date": "2026-11-01T06:13:42+00:00",
+     "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+     "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34868",
+     "size": 133306996
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": []
+   }
+  }
+ ]
+}

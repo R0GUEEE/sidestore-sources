@@ -1,0 +1,41 @@
+{
+ "name": "E1547",
+ "identifier": "dev.perapp.net-clynamic-e1547",
+ "subtitle": "A sophisticated e621 browser",
+ "description": "Single-app source for E1547 (net.clynamic.e1547). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d09a1e",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/net.clynamic.e1547.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.clynamic.e1547",
+   "name": "E1547",
+   "developerName": "clynamic",
+   "subtitle": "A sophisticated e621 browser",
+   "localizedDescription": "Features:\n\n• Crossplatform (Android, iOS).\n• Browse posts and pools.\n• Edit posts.\n• Comment on posts.\n\n• Favorite, Up and down vote posts.\n• Follow tags with notifications.\n• Local blacklist.\n• DText parsing.\n• Video support.\n• Multiple logins.\n• Multiple App Themes.\n\nDownload:\n\nAPK and IPA files can be found over at.\n\nA great tool for managing updates for this app is obtainium (see Using Obtainium for a more detailed guide).\n\nTo verify the authenticity of downloaded APK files, you can check the signing certificate fingerprints:\n\n• SHA1: 8B:4B:8C:D7:FF:D6:04:DB:36:69:1B:D2:1A:BD:0E:54:0A:95:C8:28.\n• SHA256: 8D:32:4E:43:4B:97:5A:A3:38:A7:A9:C7:F3:07:7E:1F:C0:DB:F1:30:3E:C5:D9:B9:63:4F:E8:3E:9D:DB:63:80.\n\nvia a tool like AppVerifier.\n\nUsing Obtainium:\n\n• Install and open obtainium from F-Droid or from their Github.\n• Click on \"Add app\" on the bottom app drawer.\n• Hit the add button, next to the App source URL field.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/net.clynamic.e1547.png",
+   "tintColor": "#d09a1e",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/clynamic/e1547@master/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png",
+    "https://cdn.jsdelivr.net/gh/clynamic/e1547@master/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png",
+    "https://cdn.jsdelivr.net/gh/clynamic/e1547@master/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png"
+   ],
+   "versions": [
+    {
+     "version": "21.1.1",
+     "date": "2026-10-21T17:54:06Z",
+     "localizedDescription": "Fixed:\n\n• Image pinch zoom.",
+     "downloadURL": "https://github.com/clynamic/e1547/releases/download/21.1.1%2B105/e1547.ipa",
+     "size": 20027960
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "App can be locked with local authentication",
+     "NSPhotoLibraryAddUsageDescription": "Downloaded images will be saved in the gallery"
+    }
+   }
+  }
+ ]
+}

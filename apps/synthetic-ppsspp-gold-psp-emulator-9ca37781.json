@@ -1,0 +1,30 @@
+{
+ "name": "PPSSPP Gold – PSP emulator",
+ "identifier": "dev.perapp.synthetic-ppsspp-gold-psp-emulator-9ca37781",
+ "subtitle": "PPSSPP Gold – PSP emulator by sidelix",
+ "description": "Single-app source for PPSSPP Gold – PSP emulator (synthetic.ppsspp-gold-psp-emulator.9ca37781). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761852881.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.ppsspp-gold-psp-emulator.9ca37781",
+   "name": "PPSSPP Gold – PSP emulator",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "PPSSPP Gold – PSP emulator allows users to play PSP games on iOS devices in high definition, featuring enhanced performance and additional functionalities. As the original PSP emulator for mobile platforms, it supports nearly all PSP titles. Users can utilize their own PSP games by converting them into .ISO or .CSO files, or explore free homemade games through the built-in Homebrew Store. The app operates independently of Sony and does not include games with the download.",
+   "iconURL": "https://appstore.sidelix.vip/images/1761852881.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.17.3",
+     "date": "2025-10-30T00:00:00Z",
+     "localizedDescription": "PPSSPP Gold – PSP emulator allows users to play PSP games on iOS devices in high definition, featuring enhanced performance and additional functionalities. As the original PSP emulator for mobile platforms, it supports nearly all PSP titles. Users can utilize their own PSP games by converting them into .ISO or .CSO files, or explore free homemade games through the built-in Homebrew Store. The app operates independently of Sony and does not include games with the download.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1893",
+     "size": 19165500
+    }
+   ]
+  }
+ ]
+}

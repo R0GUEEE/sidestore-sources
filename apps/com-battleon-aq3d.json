@@ -1,0 +1,37 @@
+{
+ "name": "AQ3D",
+ "identifier": "dev.perapp.com-battleon-aq3d",
+ "subtitle": "ipaomtk.com | Adventure Quest 3D MMO RPG IPA a captivating massively multiplayer online role-playing game (MMO RPG) that",
+ "description": "Single-app source for AQ3D (com.battleon.aq3d). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/Adventure-Quest-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.battleon.aq3d",
+   "name": "AQ3D",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Adventure Quest 3D MMO RPG IPA a captivating massively multiplayer online role-playing game (MMO RPG) that promises to take you on an un",
+   "localizedDescription": "ipaomtk.com | Adventure Quest 3D MMO RPG IPA a captivating massively multiplayer online role-playing game (MMO RPG) that promises to take you on an un",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/Adventure-Quest-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.158.0",
+     "date": "2023-08-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Adventure Quest 3D MMO RPG IPA a captivating massively multiplayer online role-playing game (MMO RPG) that promises to take you on an un",
+     "downloadURL": "https://file.ipaomtk.com/adventure-quest-3d/Adventure-Quest-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.159.1",
+     "date": "2023-08-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Adventure Quest 3D MMO RPG IPA a captivating massively multiplayer online role-playing game (MMO RPG) that promises to take you on an un",
+     "downloadURL": "https://file.ipaomtk.com/adventure-quest-3d/Adventure-Quest-IPAOMTK.COM.ipa",
+     "size": 109160183
+    }
+   ]
+  }
+ ]
+}

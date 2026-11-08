@@ -1,0 +1,30 @@
+{
+ "name": "Star Fox Enhanced",
+ "identifier": "dev.perapp.com-starfoxenhanced-runtime",
+ "subtitle": "Star Fox Enhanced for iOS:  A native iOS port of the open-source UltraStarFox codebase. It presents at a selectable 20, ",
+ "description": "Single-app source for Star Fox Enhanced (com.starfoxenhanced.runtime). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.starfoxenhanced.runtime.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.starfoxenhanced.runtime",
+   "name": "Star Fox Enhanced",
+   "developerName": "yoshisuga",
+   "subtitle": "Star Fox Enhanced for iOS:  A native iOS port of the open-source UltraStarFox codebase. It presents at a selectable 20, 30, 60, 90, 120, 240, 360, or ",
+   "localizedDescription": "Star Fox Enhanced for iOS:  A native iOS port of the open-source UltraStarFox codebase. It presents at a selectable 20, 30, 60, 90, 120, 240, 360, or\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.starfoxenhanced.runtime.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Star Fox Enhanced for iOS:  A native iOS port of the open-source UltraStarFox codebase. It presents at a selectable 20, 30, 60, 90, 120, 240, 360, or ",
+     "downloadURL": "https://github.com/yoshisuga/starfox-enhanced/releases/download/2026.08.28/StarFoxEnhanced.ipa",
+     "size": 2262896
+    }
+   ]
+  }
+ ]
+}

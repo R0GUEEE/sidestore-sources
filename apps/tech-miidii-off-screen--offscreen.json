@@ -1,0 +1,37 @@
+{
+ "name": "OffScreen",
+ "identifier": "dev.perapp.tech-miidii-off-screen",
+ "subtitle": "OffScreen",
+ "description": "Single-app source for OffScreen (tech.miidii.off-screen). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/bc5d5a00-2a6a-4965-9d1c-2d82393cfe3f/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "tech.miidii.off-screen",
+   "name": "OffScreen",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: OffScreen: Screen Time Control\n\nTweak: Subscription Unlocked\n\nVersion: 3.20\n\nNotes: Some features require trollstore/jailbreak\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/bc5d5a00-2a6a-4965-9d1c-2d82393cfe3f/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.19.7",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1673",
+     "size": 88895330
+    },
+    {
+     "version": "3.20",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: OffScreen: Screen Time Control\n\nTweak: Subscription Unlocked\n\nVersion: 3.20\n\nNotes: Some features require trollstore/jailbreak\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/3a1cc1d0-907b-40b8-bed1-a87414be7ce2/OffScreen__Screen_Time_Control-v3.20-riftysipas.ipa",
+     "size": 61580359
+    }
+   ]
+  }
+ ]
+}

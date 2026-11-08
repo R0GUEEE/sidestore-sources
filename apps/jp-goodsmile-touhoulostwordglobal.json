@@ -1,0 +1,37 @@
+{
+ "name": "Touhou LostWord",
+ "identifier": "dev.perapp.jp-goodsmile-touhoulostwordglobal",
+ "subtitle": "ipaomtk.com | Touhou LostWord IPA is an intriguing mobile game that has garnered⁣ a significant following within⁢ the ga",
+ "description": "Single-app source for Touhou LostWord (jp.goodsmile.touhoulostwordglobal). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Touhou-LostWord-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.goodsmile.touhoulostwordglobal",
+   "name": "Touhou LostWord",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Touhou LostWord IPA is an intriguing mobile game that has garnered⁣ a significant following within⁢ the gaming community, especially amo",
+   "localizedDescription": "ipaomtk.com | Touhou LostWord IPA is an intriguing mobile game that has garnered⁣ a significant following within⁢ the gaming community, especially amo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Touhou-LostWord-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.48.0",
+     "date": "2025-03-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Touhou LostWord IPA is an intriguing mobile game that has garnered⁣ a significant following within⁢ the gaming community, especially amo",
+     "downloadURL": "https://file.ipaomtk.com/touhou-lostword/Touhou-LostWord-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.57.0",
+     "date": "2025-03-25T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Touhou LostWord IPA is an intriguing mobile game that has garnered⁣ a significant following within⁢ the gaming community, especially amo",
+     "downloadURL": "https://file.ipaomtk.com/touhou-lostword/Touhou-LostWord-IPAOMTK.COM.ipa",
+     "size": 112190733
+    }
+   ]
+  }
+ ]
+}

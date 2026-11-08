@@ -1,0 +1,30 @@
+{
+ "name": "Anki",
+ "identifier": "dev.perapp.net-ichi2-anki",
+ "subtitle": "scholars lounge | Anki Paid app: $24.99 Version: 26.10 Bundle ID: net.ichi2.anki AppStore link: https://apps.apple.com/a",
+ "description": "Single-app source for Anki (net.ichi2.anki). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84148.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.ichi2.anki",
+   "name": "Anki",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | Anki Paid app: $24.99 Version: 26.10 Bundle ID: net.ichi2.anki AppStore link: https://apps.apple.com/app/id373493387 Decrypted by…",
+   "localizedDescription": "scholars lounge | Anki\nPaid app: $24.99\nVersion: 26.10\nBundle ID: net.ichi2.anki\nAppStore link: https://apps.apple.com/app/id373493387\nDecrypted by user_hidden\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84148.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.10",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "scholars lounge | Anki Paid app: $24.99 Version: 26.10 Bundle ID: net.ichi2.anki AppStore link: https://apps.apple.com/app/id373493387 Decrypted by…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84148-AnkiMobile%20Flashcards-26.10.ipa",
+     "size": 13474506
+    }
+   ]
+  }
+ ]
+}

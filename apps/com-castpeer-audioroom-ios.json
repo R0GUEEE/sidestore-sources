@@ -1,0 +1,30 @@
+{
+ "name": "SoundLab",
+ "identifier": "dev.perapp.com-castpeer-audioroom-ios",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for SoundLab (com.castpeer.audioroom.ios). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.castpeer.audioroom.ios",
+   "name": "SoundLab",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.11.6",
+     "date": "2026-09-04T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SoundLab_2.11.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 143062024
+    }
+   ]
+  }
+ ]
+}

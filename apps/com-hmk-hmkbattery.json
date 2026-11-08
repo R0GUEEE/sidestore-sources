@@ -1,0 +1,30 @@
+{
+ "name": "Mister Battery",
+ "identifier": "dev.perapp.com-hmk-hmkbattery",
+ "subtitle": "ipaomtk.com | Mister Battery IPA v4.2 is an innovative mobile application designed to help users optimize their smartpho",
+ "description": "Single-app source for Mister Battery (com.hmk.hmkbattery). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Mister-Battery.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hmk.hmkbattery",
+   "name": "Mister Battery",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Mister Battery IPA v4.2 is an innovative mobile application designed to help users optimize their smartphone’s battery life. This user-f",
+   "localizedDescription": "ipaomtk.com | Mister Battery IPA v4.2 is an innovative mobile application designed to help users optimize their smartphone’s battery life. This user-f",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Mister-Battery.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Mister Battery IPA v4.2 is an innovative mobile application designed to help users optimize their smartphone’s battery life. This user-f",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Mister_Battery-v4.2_2024-10-20_17-45-51-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

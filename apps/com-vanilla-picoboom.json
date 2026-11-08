@@ -1,0 +1,30 @@
+{
+ "name": "Picoboom",
+ "identifier": "dev.perapp.com-vanilla-picoboom",
+ "subtitle": "Picoboom",
+ "description": "Single-app source for Picoboom (com.vanilla.picoboom). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vanilla.picoboom.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vanilla.picoboom",
+   "name": "Picoboom",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vanilla.picoboom.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.15",
+     "date": "2025-10-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2025/Picoboom_1.0.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 33578223
+    }
+   ]
+  }
+ ]
+}

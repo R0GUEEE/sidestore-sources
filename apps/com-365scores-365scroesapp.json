@@ -1,0 +1,30 @@
+{
+ "name": "365Scores",
+ "identifier": "dev.perapp.com-365scores-365scroesapp",
+ "subtitle": "365Scores",
+ "description": "Single-app source for 365Scores (com.365scores.365scroesapp). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.365scores.365scroesapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.365scores.365scroesapp",
+   "name": "365Scores",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.365scores.365scroesapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.3.8",
+     "date": "2025-12-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/365Scores_6.3.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 63620488
+    }
+   ]
+  }
+ ]
+}

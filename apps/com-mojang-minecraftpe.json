@@ -1,0 +1,30 @@
+{
+ "name": "Minecraft",
+ "identifier": "dev.perapp.com-mojang-minecraftpe",
+ "subtitle": "Minecraft",
+ "description": "Single-app source for Minecraft (com.mojang.minecraftpe). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mojang.minecraftpe",
+   "name": "Minecraft",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.21.124",
+     "date": "2025-12-09T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Minecraft_1.21.124_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 585589655
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Kino",
+ "identifier": "dev.perapp.camera-lux-kino",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Kino (camera.lux.kino). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/camera.lux.kino.png",
+ "apps": [
+  {
+   "bundleIdentifier": "camera.lux.kino",
+   "name": "Kino",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/camera.lux.kino.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.2",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-03-2026/Kino_1.4.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 30878701
+    },
+    {
+     "version": "1.4.1",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-03-2026/Kino_1.4.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 30877717
+    },
+    {
+     "version": "1.3.2",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/Kino_1.3.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 36404175
+    }
+   ]
+  }
+ ]
+}

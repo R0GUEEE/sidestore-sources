@@ -1,0 +1,30 @@
+{
+ "name": "LensLink",
+ "identifier": "dev.perapp.com-exaltedpixels-lenslinkcamera",
+ "subtitle": "documentation. The iPhone and iPad app is LensLink Camera on the App Store.  Use your iPhone or iPad as a high-quality c",
+ "description": "Single-app source for LensLink (com.exaltedpixels.LensLinkCamera). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.exaltedpixels.LensLinkCamera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.exaltedpixels.LensLinkCamera",
+   "name": "LensLink",
+   "developerName": "MyNamesEMurray",
+   "subtitle": "documentation. The iPhone and iPad app is LensLink Camera on the App Store.  Use your iPhone or iPad as a high-quality camera directly inside OBS Stud",
+   "localizedDescription": "documentation. The iPhone and iPad app is LensLink Camera on the App Store.  Use your iPhone or iPad as a high-quality camera directly inside OBS Stud\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.exaltedpixels.LensLinkCamera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.17.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "documentation. The iPhone and iPad app is LensLink Camera on the App Store.  Use your iPhone or iPad as a high-quality camera directly inside OBS Stud",
+     "downloadURL": "https://github.com/MyNamesEMurray/LensLink/releases/download/v1.17.1/LensLink-unsigned.ipa",
+     "size": 6901185
+    }
+   ]
+  }
+ ]
+}

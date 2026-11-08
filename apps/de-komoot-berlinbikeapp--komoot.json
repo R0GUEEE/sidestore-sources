@@ -1,0 +1,44 @@
+{
+ "name": "Komoot",
+ "identifier": "dev.perapp.de-komoot-berlinbikeapp",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Komoot (de.komoot.berlinbikeapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.komoot.berlinbikeapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.komoot.berlinbikeapp",
+   "name": "Komoot",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.komoot.berlinbikeapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.42.5",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-10-2025/Komoot_2025.42.5_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 168741062
+    },
+    {
+     "version": "2025.42.4",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Komoot_2025.42.4_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 167780555
+    },
+    {
+     "version": "2025.35.2",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/26-08-2025/Komoot_2025.35.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 147358761
+    }
+   ]
+  }
+ ]
+}

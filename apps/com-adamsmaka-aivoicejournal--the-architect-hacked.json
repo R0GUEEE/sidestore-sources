@@ -1,0 +1,30 @@
+{
+ "name": "The Architect (Hacked)",
+ "identifier": "dev.perapp.com-adamsmaka-aivoicejournal",
+ "subtitle": "The Architect (Hacked) by sidelix",
+ "description": "Single-app source for The Architect (Hacked) (com.adamsmaka.aivoicejournal). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a76d40393b7c.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adamsmaka.aivoicejournal",
+   "name": "The Architect (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Pro Unlocked",
+   "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a76d40393b7c.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.15",
+     "date": "2026-08-08T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2368",
+     "size": 55000719
+    }
+   ]
+  }
+ ]
+}

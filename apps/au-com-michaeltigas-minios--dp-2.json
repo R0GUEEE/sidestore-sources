@@ -1,0 +1,37 @@
+{
+ "name": "dp",
+ "identifier": "dev.perapp.au-com-michaeltigas-minios",
+ "subtitle": "dp",
+ "description": "Single-app source for dp (au.com.michaeltigas.MiniOS). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.michaeltigas.MiniOS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "au.com.michaeltigas.MiniOS",
+   "name": "dp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.michaeltigas.MiniOS.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Turn your iPhone into a Dumb Phone.\r\n\r\nDumb Phone™ lets you create your very own minimalist-style phone on iOS.\r\n\r\nReplace colorful app icons, pesky notification badges, and anything that might give you a dopamine hit when you unlock your phone, with simple buttons to open your essential apps - and nothing more.\r\n\r\nKey features:\r\n\r\n• Break out of your existing habits\r\nEvery time you unlock your phone, all you will see is apps that you need, without being coerced into easy distractions from colorful apps on your Home Screen or the App Library.\r\n\r\n• Create a Minimalist Launcher\r\nSelect apps and add Dumb Phone widgets to your Home Screen to blend everything together.\r\n\r\n• Choose your essential apps\r\nSelect apps that you frequently use, so t",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2248",
+     "size": 300402550
+    },
+    {
+     "version": "1.11.1",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/dp_1.11.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 288792197
+    }
+   ]
+  }
+ ]
+}

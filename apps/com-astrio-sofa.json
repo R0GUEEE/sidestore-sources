@@ -1,0 +1,44 @@
+{
+ "name": "Sofa",
+ "identifier": "dev.perapp.com-astrio-sofa",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Sofa (com.astrio.Sofa). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.astrio.Sofa.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.astrio.Sofa",
+   "name": "Sofa",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.astrio.Sofa.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.4",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@blatants | Sofa: Downtime Organizer  • Bundle ID: com.astrio.Sofa • Updated to: 5.4.4 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Sofa_5.4.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 220855946
+    },
+    {
+     "version": "5.4.3",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@blatants | Sofa: Downtime Organizer  • Bundle ID: com.astrio.Sofa • Updated to: 5.4.3 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Sofa_5.4.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 220838727
+    },
+    {
+     "version": "5.4.2",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Sofa_5.4.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 220816237
+    }
+   ]
+  }
+ ]
+}

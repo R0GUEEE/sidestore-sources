@@ -1,0 +1,44 @@
+{
+ "name": "AdobeAcrobatReaderPremium",
+ "identifier": "dev.perapp.com-adobe-adobe-reader",
+ "subtitle": "AdobeAcrobatReaderPremium by binnichtaktiv's iPA Library",
+ "description": "Single-app source for AdobeAcrobatReaderPremium (com.adobe.Adobe-Reader). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.Adobe-Reader.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.Adobe-Reader",
+   "name": "AdobeAcrobatReaderPremium",
+   "developerName": "binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.adobe.Adobe-Reader.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.02.02",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-13-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AdobeAcrobatReaderPremium/AdobeAcrobatReaderPremium-24.02.02.ipa",
+     "size": 161126318
+    },
+    {
+     "version": "24.04.00",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-13-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AdobeAcrobatReaderPremium/AdobeAcrobatReaderPremium-24.04.00.ipa",
+     "size": 159172590
+    },
+    {
+     "version": "24.04.51",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "App to see, share, annotate, comment on, and sign PDF files. A user requested it so here it is.\nLast updated: 07-13-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AdobeAcrobatReaderPremium/AdobeAcrobatReaderPremium-24.04.51.ipa",
+     "size": 163110773
+    }
+   ]
+  }
+ ]
+}

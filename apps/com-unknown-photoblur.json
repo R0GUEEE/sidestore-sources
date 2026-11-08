@@ -1,0 +1,30 @@
+{
+ "name": "Photo Blur",
+ "identifier": "dev.perapp.com-unknown-photoblur",
+ "subtitle": "ئەو ئەپڵیکەیشنە بۆ دانانی تەم و کاڵکردنی بەشەکانی ئەو وێنانەی کە دیاری دەکەیت",
+ "description": "Single-app source for Photo Blur (com.unknown.photoblur). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Photo.Blur.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.photoblur",
+   "name": "Photo Blur",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەو ئەپڵیکەیشنە بۆ دانانی تەم و کاڵکردنی بەشەکانی ئەو وێنانەی کە دیاری دەکەیت",
+   "localizedDescription": "ئەو ئەپڵیکەیشنە بۆ دانانی تەم و کاڵکردنی بەشەکانی ئەو وێنانەی کە دیاری دەکەیت",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Photo.Blur.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.59",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەو ئەپڵیکەیشنە بۆ دانانی تەم و کاڵکردنی بەشەکانی ئەو وێنانەی کە دیاری دەکەیت",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/Photo.Blur_1.0.59_3BodSy.ipa",
+     "size": 31660000
+    }
+   ]
+  }
+ ]
+}

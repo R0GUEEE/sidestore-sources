@@ -1,0 +1,44 @@
+{
+ "name": "Filtru",
+ "identifier": "dev.perapp.com-przemyslawbobak-filtru",
+ "subtitle": "Filtru",
+ "description": "Single-app source for Filtru (com.przemyslawbobak.filtru). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.przemyslawbobak.filtru",
+   "name": "Filtru",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.7.3",
+     "date": "2026-09-12T00:00:00Z",
+     "localizedDescription": "Coffee is more than just a way to wake up in the morning, it's a way of life. With Filtru, you'll make the perfect cup each and every time and learn as you go.\r\n\r\nFiltru is your go-to app for learning and replicating the best way to make your favorite coffee. Gone are the days of pouring water over coffee and throwing in some milk! Filtru will tell you how much coffee to use, when and how much water to pour, how to stir, and so much more. By the time you've tasted a Filtru coffee, you'll wonder how you ever lived without it! Those just starting out will enjoy our augmented reality (AR) gear guides that put new accessories right on your kitchen counter, giving you a chance to take a look before splashing out on a new coffee gadget!\r\n\r\nCoffee fans",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
+     "size": 124556911
+    },
+    {
+     "version": "4.7.2",
+     "date": "2026-08-11T00:00:00Z",
+     "localizedDescription": "Coffee is more than just a way to wake up in the morning, it's a way of life. With Filtru, you'll make the perfect cup each and every time and learn as you go.\r\n\r\nFiltru is your go-to app for learning and replicating the best way to make your favorite coffee. Gone are the days of pouring water over coffee and throwing in some milk! Filtru will tell you how much coffee to use, when and how much water to pour, how to stir, and so much more. By the time you've tasted a Filtru coffee, you'll wonder how you ever lived without it! Those just starting out will enjoy our augmented reality (AR) gear guides that put new accessories right on your kitchen counter, giving you a chance to take a look before splashing out on a new coffee gadget!\r\n\r\nCoffee fans",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
+     "size": 114286558
+    },
+    {
+     "version": "4.5.1",
+     "date": "2025-09-28T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Filtru_4.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 81638637
+    }
+   ]
+  }
+ ]
+}

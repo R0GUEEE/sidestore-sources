@@ -1,0 +1,30 @@
+{
+ "name": "WeatherRadarPro",
+ "identifier": "dev.perapp.de-wetteronline-wetterapppro",
+ "subtitle": "Reliable local weather predictions, alerts, and comprehensive temperature, wind, and lightning radar all in one. A user ",
+ "description": "Single-app source for WeatherRadarPro (de.wetteronline.WetterApppro). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/de.wetteronline.WetterApppro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.wetteronline.WetterApppro",
+   "name": "WeatherRadarPro",
+   "developerName": "N/A",
+   "subtitle": "Reliable local weather predictions, alerts, and comprehensive temperature, wind, and lightning radar all in one. A user requested it so here it is…",
+   "localizedDescription": "Reliable local weather predictions, alerts, and comprehensive temperature, wind, and lightning radar all in one. A user requested it so here it is.\nLast updated: 07-24-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/de.wetteronline.WetterApppro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.7.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Reliable local weather predictions, alerts, and comprehensive temperature, wind, and lightning radar all in one. A user requested it so here it is…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WeatherRadarPro/WeatherRadarPro-2024.7.1.ipa",
+     "size": 161124714
+    }
+   ]
+  }
+ ]
+}

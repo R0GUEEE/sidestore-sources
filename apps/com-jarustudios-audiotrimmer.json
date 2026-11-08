@@ -1,0 +1,30 @@
+{
+ "name": "AudioTrimmer",
+ "identifier": "dev.perapp.com-jarustudios-audiotrimmer",
+ "subtitle": "ipaomtk.com | Audio Trimmer – Music Editor IPA, you’re always on the lookout for powerful yet user-friendly apps that ca",
+ "description": "Single-app source for AudioTrimmer (com.jarustudios.AudioTrimmer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/AudioTrimmer-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jarustudios.AudioTrimmer",
+   "name": "AudioTrimmer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Audio Trimmer – Music Editor IPA, you’re always on the lookout for powerful yet user-friendly apps that can help you unlock the full pot",
+   "localizedDescription": "ipaomtk.com | Audio Trimmer – Music Editor IPA, you’re always on the lookout for powerful yet user-friendly apps that can help you unlock the full pot",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/AudioTrimmer-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.54",
+     "date": "2024-09-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Audio Trimmer – Music Editor IPA, you’re always on the lookout for powerful yet user-friendly apps that can help you unlock the full pot",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AudioTrimmer-ipaomtk.com_1.0.37.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

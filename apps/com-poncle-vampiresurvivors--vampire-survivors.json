@@ -1,0 +1,30 @@
+{
+ "name": "Vampire Survivors",
+ "identifier": "dev.perapp.com-poncle-vampiresurvivors",
+ "subtitle": "Vampire Survivors",
+ "description": "Single-app source for Vampire Survivors (com.poncle.VampireSurvivors). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/aa/20/b1aa201c-ee9c-ecc4-d515-5e658ecb9753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.poncle.VampireSurvivors",
+   "name": "Vampire Survivors",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Vampire Survivors\n⁣\nTweak: Free iAP\n\nVersion: 1.12.108\n\nMade by riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/aa/20/b1aa201c-ee9c-ecc4-d515-5e658ecb9753/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.108",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Vampire Survivors\n⁣\nTweak: Free iAP\n\nVersion: 1.12.108\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/0aa3f174-358e-40b0-86d4-c0ae8529cddb/VampireSurvivors_v1.12.108-riftysipas.ipa",
+     "size": 198314823
+    }
+   ]
+  }
+ ]
+}

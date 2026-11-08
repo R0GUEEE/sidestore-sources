@@ -1,0 +1,30 @@
+{
+ "name": "Couch to 5K",
+ "identifier": "dev.perapp.com-active-c25k",
+ "subtitle": "ipaomtk.com | Couch to 5K Run training IPA couch potato and ready to take on a new challenge? Look no further than the C",
+ "description": "Single-app source for Couch to 5K (com.active.c25k). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Couch-to-5K%C2%AE-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.active.c25k",
+   "name": "Couch to 5K",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Couch to 5K Run training IPA couch potato and ready to take on a new challenge? Look no further than the Couch to 5K Run Training progra",
+   "localizedDescription": "ipaomtk.com | Couch to 5K Run training IPA couch potato and ready to take on a new challenge? Look no further than the Couch to 5K Run Training progra",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Couch-to-5K%C2%AE-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.8.2",
+     "date": "2024-04-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Couch to 5K Run training IPA couch potato and ready to take on a new challenge? Look no further than the Couch to 5K Run Training progra",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Couch-to-5K.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

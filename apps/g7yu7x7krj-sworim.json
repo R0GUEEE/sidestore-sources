@@ -1,0 +1,48 @@
+{
+ "name": "Monal",
+ "identifier": "dev.perapp.g7yu7x7krj-sworim",
+ "subtitle": "Monal for XMPP (iOS and macOS)",
+ "description": "Single-app source for Monal (G7YU7X7KRJ.SworIM). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1bc0d0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/G7YU7X7KRJ.SworIM.png",
+ "apps": [
+  {
+   "bundleIdentifier": "G7YU7X7KRJ.SworIM",
+   "name": "Monal",
+   "developerName": "monal-im",
+   "subtitle": "Monal for XMPP (iOS and macOS)",
+   "localizedDescription": "Monal for XMPP (iOS and macOS).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/G7YU7X7KRJ.SworIM.png",
+   "tintColor": "#1bc0d0",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Build_iOS_1102",
+     "date": "2026-10-26T12:29:56Z",
+     "localizedDescription": "• Added DNSSEC bug warning.\n• Fixed spurious MUC join errors.\n• Fixed playback of received mp3 files.\n\n• Fixed sharing location from Google Maps.\n• Switched from iOS bundled libxml2 to new rust based xml parser to fix crashes.\n• Now only accepting Channel/Group invites from contacts approved to our contact list.\n• Fixed deeply nested xml DoS vector in push notification handler.\n• Fixed several crashes.",
+     "downloadURL": "https://github.com/monal-im/Monal/releases/download/Build_iOS_1102/Monal.ipa",
+     "size": 39970806
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "Monal allows users to take photos and upload to a conversation",
+     "NSLocationUsageDescription": "Monal uses your location when you send a location message in a conversation.",
+     "NSLocationWhenInUseUsageDescription": "Monal uses your location when you send a location message in a conversation.",
+     "NSMicrophoneUsageDescription": "Monal uses the microphone to transmit your voice in audio messages or calls.",
+     "NSPhotoLibraryAddUsageDescription": "Monal allows users to save photos received in conversations.",
+     "NSPhotoLibraryUsageDescription": "Monal allows users to upload photos to recipients in a conversation"
+    }
+   }
+  }
+ ]
+}

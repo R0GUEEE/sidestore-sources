@@ -1,0 +1,30 @@
+{
+ "name": "MyFitnessPal",
+ "identifier": "dev.perapp.synthetic-myfitnesspal-822fe7ca",
+ "subtitle": "MyFitnessPal by Karbin-Store",
+ "description": "Single-app source for MyFitnessPal (synthetic.myfitnesspal.822fe7ca). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/MyFitnessPal.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.myfitnesspal.822fe7ca",
+   "name": "MyFitnessPal",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "ئەپلیکەیشنێک کە یارمەتیت دەدات لە ڕێکخستنی خشتەی خۆراکی و بەدواداچوون بۆ ڕاهێنانەکانت، لەگەڵ هەموو سوودەکانی",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/MyFitnessPal.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.43.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشنێک کە یارمەتیت دەدات لە ڕێکخستنی خشتەی خۆراکی و بەدواداچوون بۆ ڕاهێنانەکانت، لەگەڵ هەموو سوودەکانی",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/MyFitnessPal_24.43.0.ipa",
+     "size": 86170000
+    }
+   ]
+  }
+ ]
+}

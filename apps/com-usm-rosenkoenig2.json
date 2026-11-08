@@ -1,0 +1,30 @@
+{
+ "name": "King Tactics",
+ "identifier": "dev.perapp.com-usm-rosenkoenig2",
+ "subtitle": "ipaomtk.com | King Tactics on iOS offers a focused turn-based strategy experience that feels carefully designed for play",
+ "description": "Single-app source for King Tactics (com.usm.rosenkoenig2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/King-Tactics-IPA-v1.0.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.usm.rosenkoenig2",
+   "name": "King Tactics",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | King Tactics on iOS offers a focused turn-based strategy experience that feels carefully designed for players who enjoy planning, positi",
+   "localizedDescription": "ipaomtk.com | King Tactics on iOS offers a focused turn-based strategy experience that feels carefully designed for players who enjoy planning, positi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/King-Tactics-IPA-v1.0.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-02-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | King Tactics on iOS offers a focused turn-based strategy experience that feels carefully designed for players who enjoy planning, positi",
+     "downloadURL": "https://file.ipaomtk.com/King-Tactics/King-Tactics_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

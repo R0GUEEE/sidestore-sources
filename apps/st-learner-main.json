@@ -1,0 +1,30 @@
+{
+ "name": "Учим слова",
+ "identifier": "dev.perapp.st-learner-main",
+ "subtitle": "@ipa_dark | 🔄 Учи ру | uchi ru  🇷🇺 Обновлённое приложение учи ру, добавленное в appstore под видом другого приложения \"У",
+ "description": "Single-app source for Учим слова (st.learner.main). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1758.png",
+ "apps": [
+  {
+   "bundleIdentifier": "st.learner.main",
+   "name": "Учим слова",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Учи ру | uchi ru  🇷🇺 Обновлённое приложение учи ру, добавленное в appstore под видом другого приложения \"Учим слова\".  💡 Данные для вход",
+   "localizedDescription": "@ipa_dark | 🔄 Учи ру | uchi ru  🇷🇺 Обновлённое приложение учи ру, добавленное в appstore под видом другого приложения \"Учим слова\".  💡 Данные для вход\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1758.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.02",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Учи ру | uchi ru  🇷🇺 Обновлённое приложение учи ру, добавленное в appstore под видом другого приложения \"Учим слова\".  💡 Данные для вход",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1758-%D0%A3%D1%87%D0%B8%D1%80%D1%83%20%5Bv1.02%5D%28tg@ipa_dark%29.ipa",
+     "size": 228465662
+    }
+   ]
+  }
+ ]
+}

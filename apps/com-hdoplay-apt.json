@@ -1,0 +1,30 @@
+{
+ "name": "HdoPlay",
+ "identifier": "dev.perapp.com-hdoplay-apt",
+ "subtitle": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Ne",
+ "description": "Single-app source for HdoPlay (com.hdoplay.apt). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hdoplay.apt.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hdoplay.apt",
+   "name": "HdoPlay",
+   "developerName": "N/A",
+   "subtitle": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+…",
+   "localizedDescription": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles\nLast updated: 09-03-2022\nStatus: ⚠️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.hdoplay.apt.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HdoPlay/HdoPlay.ipa",
+     "size": 23561400
+    }
+   ]
+  }
+ ]
+}

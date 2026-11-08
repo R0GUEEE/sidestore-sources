@@ -1,0 +1,37 @@
+{
+ "name": "Hatch Dragons",
+ "identifier": "dev.perapp.com-runawayplay-dragons",
+ "subtitle": "ipaomtk.com | What is Hatch Dragons IPA? Hatch Dragons IPA is the iOS installation file of the fantasy dragon simulation",
+ "description": "Single-app source for Hatch Dragons (com.runawayplay.dragons). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Hatch-Dragons-IPA-v0.4.14-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.runawayplay.dragons",
+   "name": "Hatch Dragons",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Hatch Dragons IPA? Hatch Dragons IPA is the iOS installation file of the fantasy dragon simulation and strategy game that allows",
+   "localizedDescription": "ipaomtk.com | What is Hatch Dragons IPA? Hatch Dragons IPA is the iOS installation file of the fantasy dragon simulation and strategy game that allows",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Hatch-Dragons-IPA-v0.4.14-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.14",
+     "date": "2026-03-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Hatch Dragons IPA? Hatch Dragons IPA is the iOS installation file of the fantasy dragon simulation and strategy game that allows",
+     "downloadURL": "https://file.ipaomtk.com/hatch-dragons/Hatch-Dragons-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.6.3",
+     "date": "2026-03-02T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Hatch Dragons IPA? Hatch Dragons IPA is the iOS installation file of the fantasy dragon simulation and strategy game that allows",
+     "downloadURL": "https://file.ipaomtk.com/hatch-dragons/Hatch-Dragons-IPAOMTK.COM.ipa",
+     "size": 360182937
+    }
+   ]
+  }
+ ]
+}

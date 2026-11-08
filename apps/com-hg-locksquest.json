@@ -1,0 +1,30 @@
+{
+ "name": "locksquest",
+ "identifier": "dev.perapp.com-hg-locksquest",
+ "subtitle": "ipaomtk.com | If you are an iOS user searching for a fantastic game to play on your iPhone or iPad, look no further than",
+ "description": "Single-app source for locksquest (com.hg.locksquest). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-lock39s-quest-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hg.locksquest",
+   "name": "locksquest",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | If you are an iOS user searching for a fantastic game to play on your iPhone or iPad, look no further than Locks Quest IPA! This highly ",
+   "localizedDescription": "ipaomtk.com | If you are an iOS user searching for a fantastic game to play on your iPhone or iPad, look no further than Locks Quest IPA! This highly ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-lock39s-quest-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.480",
+     "date": "2023-12-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | If you are an iOS user searching for a fantastic game to play on your iPhone or iPad, look no further than Locks Quest IPA! This highly ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Locks-Quest.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

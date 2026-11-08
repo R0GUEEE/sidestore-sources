@@ -1,0 +1,30 @@
+{
+ "name": "Air Twister",
+ "identifier": "dev.perapp.com-ysn-gaw",
+ "subtitle": "ipaomtk.com | Looking for a new IPA experience on your iOS device? Look no further than Air Twister IPA for iOS, the ult",
+ "description": "Single-app source for Air Twister (com.ysn.gaw). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Air-Twister-IPA-2-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ysn.gaw",
+   "name": "Air Twister",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Looking for a new IPA experience on your iOS device? Look no further than Air Twister IPA for iOS, the ultimate app for beer enthusiasts",
+   "localizedDescription": "ipaomtk.com | Looking for a new IPA experience on your iOS device? Look no further than Air Twister IPA for iOS, the ultimate app for beer enthusiasts",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Air-Twister-IPA-2-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.0",
+     "date": "2024-01-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Looking for a new IPA experience on your iOS device? Look no further than Air Twister IPA for iOS, the ultimate app for beer enthusiasts",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Air-Twister.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

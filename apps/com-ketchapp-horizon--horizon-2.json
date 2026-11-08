@@ -1,0 +1,30 @@
+{
+ "name": "Horizon",
+ "identifier": "dev.perapp.com-ketchapp-horizon",
+ "subtitle": "Horizon by Ketchapp",
+ "description": "Single-app source for Horizon (com.ketchapp.horizon). Converted from riftys.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/05/f7/de05f75b-8367-4f3d-5593-ddafa99f02e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.horizon",
+   "name": "Horizon",
+   "developerName": "Ketchapp",
+   "subtitle": "",
+   "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/de/05/f7/de05f75b-8367-4f3d-5593-ddafa99f02e2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.6",
+     "date": "2025-02-10T00:00:00Z",
+     "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a9732c72b77be7cfa3ae62",
+     "size": 85480040
+    }
+   ]
+  }
+ ]
+}

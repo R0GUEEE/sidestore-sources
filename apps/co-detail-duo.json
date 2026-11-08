@@ -1,0 +1,30 @@
+{
+ "name": "Detail",
+ "identifier": "dev.perapp.co-detail-duo",
+ "subtitle": "Detail",
+ "description": "Single-app source for Detail (co.detail.duo). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.detail.duo",
+   "name": "Detail",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.6",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Detail_6.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 222652585
+    }
+   ]
+  }
+ ]
+}

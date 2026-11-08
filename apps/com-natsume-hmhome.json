@@ -1,0 +1,30 @@
+{
+ "name": "HM: HOME",
+ "identifier": "dev.perapp.com-natsume-hmhome",
+ "subtitle": "ipaomtk.com | Harvest Moon IPA, The Harvest Moon series has been a beloved farming simulation game for decades, captivat",
+ "description": "Single-app source for HM: HOME (com.natsume.hmhome). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Harvest-Moon-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.natsume.hmhome",
+   "name": "HM: HOME",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Harvest Moon IPA, The Harvest Moon series has been a beloved farming simulation game for decades, captivating players with its charming ",
+   "localizedDescription": "ipaomtk.com | Harvest Moon IPA, The Harvest Moon series has been a beloved farming simulation game for decades, captivating players with its charming ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Harvest-Moon-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.31",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Harvest Moon IPA, The Harvest Moon series has been a beloved farming simulation game for decades, captivating players with its charming ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Harvest_Moon_Home_IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

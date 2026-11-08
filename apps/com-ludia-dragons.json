@@ -1,0 +1,37 @@
+{
+ "name": "Rise of Berk",
+ "identifier": "dev.perapp.com-ludia-dragons",
+ "subtitle": "ipaomtk.com | Dragons Rise of Berk IPA iOS is an exciting mobile game that allows players to explore the world of dragon",
+ "description": "Single-app source for Rise of Berk (com.ludia.dragons). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/Rise-of-Berk--150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ludia.dragons",
+   "name": "Rise of Berk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Dragons Rise of Berk IPA iOS is an exciting mobile game that allows players to explore the world of dragons and build their very own Ber",
+   "localizedDescription": "ipaomtk.com | Dragons Rise of Berk IPA iOS is an exciting mobile game that allows players to explore the world of dragons and build their very own Ber",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/Rise-of-Berk--150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.105.4",
+     "date": "2023-08-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Dragons Rise of Berk IPA iOS is an exciting mobile game that allows players to explore the world of dragons and build their very own Ber",
+     "downloadURL": "https://file.ipaomtk.com/dragons-rise-of-berk/Dragons-Rise-ofBerk-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.113.5",
+     "date": "2023-08-19T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Dragons Rise of Berk IPA iOS is an exciting mobile game that allows players to explore the world of dragons and build their very own Ber",
+     "downloadURL": "https://file.ipaomtk.com/dragons-rise-of-berk/Dragons-Rise-ofBerk-IPAOMTK.COM.ipa",
+     "size": 765811195
+    }
+   ]
+  }
+ ]
+}

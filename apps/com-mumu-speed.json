@@ -1,0 +1,30 @@
+{
+ "name": "SpeedGG_3.3_Eng",
+ "identifier": "dev.perapp.com-mumu-speed",
+ "subtitle": "Live upload/download speed HUD",
+ "description": "Single-app source for SpeedGG_3.3_Eng (com.mumu.Speed). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/SpeedGG_3.3_Eng.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mumu.Speed",
+   "name": "SpeedGG_3.3_Eng",
+   "developerName": "SpeedGG_3.3_Eng x CyPwn",
+   "subtitle": "Live upload/download speed HUD",
+   "localizedDescription": "Live upload/download speed HUD\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/SpeedGG_3.3_Eng.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Live upload/download speed HUD",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/SpeedGG_3.3_Eng.ipa",
+     "size": 1172261
+    }
+   ]
+  }
+ ]
+}

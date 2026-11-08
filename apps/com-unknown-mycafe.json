@@ -1,0 +1,37 @@
+{
+ "name": "My Cafe",
+ "identifier": "dev.perapp.com-unknown-mycafe",
+ "subtitle": "زۆر گەوهەر ✅  دراوی زۆر ✅  تایمەر نییە بۆ کڕینی کارەبا ✅  زیادکردنی خێرایی یارییەکە ✅",
+ "description": "Single-app source for My Cafe (com.unknown.mycafe). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/My.Cafe.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.mycafe",
+   "name": "My Cafe",
+   "developerName": "Karbin-Store",
+   "subtitle": "زۆر گەوهەر ✅  دراوی زۆر ✅  تایمەر نییە بۆ کڕینی کارەبا ✅  زیادکردنی خێرایی یارییەکە ✅",
+   "localizedDescription": "زۆر گەوهەر ✅  دراوی زۆر ✅  تایمەر نییە بۆ کڕینی کارەبا ✅  زیادکردنی خێرایی یارییەکە ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/My.Cafe.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20225.01",
+     "date": "2025-01-16T00:00:00Z",
+     "localizedDescription": "زۆر گەوهەر ✅  دراوی زۆر ✅  تایمەر نییە بۆ کڕینی کارەبا ✅  زیادکردنی خێرایی یارییەکە ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-spa-1/My.Cafe_2025010.1.642_DEV.ipa",
+     "size": 560720000
+    },
+    {
+     "version": "2025010.1.642",
+     "date": "2025-01-16T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod, NOADS\n\nزۆر گەوهەر ✅  دراوی زۆر ✅  تایمەر نییە بۆ کڕینی کارەبا ✅  زیادکردنی خێرایی یارییەکە ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-spa-1/My.Cafe_2025010.1.642_DEV.ipa",
+     "size": 588038865
+    }
+   ]
+  }
+ ]
+}

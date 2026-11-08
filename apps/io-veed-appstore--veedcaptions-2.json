@@ -1,0 +1,44 @@
+{
+ "name": "VEEDCaptions",
+ "identifier": "dev.perapp.io-veed-appstore",
+ "subtitle": "VEEDCaptions",
+ "description": "Single-app source for VEEDCaptions (io.veed.appstore). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.veed.appstore",
+   "name": "VEEDCaptions",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.15.0",
+     "date": "2026-08-24T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/VEEDLite_8.15.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 168280075
+    },
+    {
+     "version": "8.14.0",
+     "date": "2026-06-15T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2026/VEEDCaptions_8.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 166218704
+    },
+    {
+     "version": "8.13.0",
+     "date": "2026-06-01T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/VEEDCaptions_8.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 161726194
+    }
+   ]
+  }
+ ]
+}

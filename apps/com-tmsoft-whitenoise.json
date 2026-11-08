@@ -1,0 +1,30 @@
+{
+ "name": "White Noise",
+ "identifier": "dev.perapp.com-tmsoft-whitenoise",
+ "subtitle": "ipaomtk.com | The White Noise White Noise IPA v8.0.23 developed by TMSOFT, is a popular sleep and relaxation tool availa",
+ "description": "Single-app source for White Noise (com.tmsoft.WhiteNoise). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/White-Noise.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tmsoft.WhiteNoise",
+   "name": "White Noise",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The White Noise White Noise IPA v8.0.23 developed by TMSOFT, is a popular sleep and relaxation tool available for iOS and Android device",
+   "localizedDescription": "ipaomtk.com | The White Noise White Noise IPA v8.0.23 developed by TMSOFT, is a popular sleep and relaxation tool available for iOS and Android device",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/White-Noise.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0.23",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The White Noise White Noise IPA v8.0.23 developed by TMSOFT, is a popular sleep and relaxation tool available for iOS and Android device",
+     "downloadURL": "https://file.ipaomtk.com/ipa/White_Noise-v8.0.23-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "ByeByeDPI",
+ "identifier": "dev.perapp.com-byedpi-app",
+ "subtitle": "@ipa_dark | 🔄 ByeByeDPI - github  🇷🇺 Утилита для обхода блокировок и DPI-фильтрации, которая изменяет обработку сетевого",
+ "description": "Single-app source for ByeByeDPI (com.byedpi.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1693.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.byedpi.app",
+   "name": "ByeByeDPI",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 ByeByeDPI - github  🇷🇺 Утилита для обхода блокировок и DPI-фильтрации, которая изменяет обработку сетевого трафика, помогая восстановить",
+   "localizedDescription": "@ipa_dark | 🔄 ByeByeDPI - github  🇷🇺 Утилита для обхода блокировок и DPI-фильтрации, которая изменяет обработку сетевого трафика, помогая восстановить",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1693.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.5",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 ByeByeDPI - github  🇷🇺 Утилита для обхода блокировок и DPI-фильтрации, которая изменяет обработку сетевого трафика, помогая восстановить",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1693-ByeByeDPI%20%5Bv0.9.5%5D%28tg@ipa_dark%29.ipa",
+     "size": 3854424
+    }
+   ]
+  }
+ ]
+}

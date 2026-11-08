@@ -1,0 +1,30 @@
+{
+ "name": "Geranium",
+ "identifier": "dev.perapp.live-cclerc-geranium",
+ "subtitle": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore. Last updated: 02-23-202",
+ "description": "Single-app source for Geranium (live.cclerc.geranium). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
+ "apps": [
+  {
+   "bundleIdentifier": "live.cclerc.geranium",
+   "name": "Geranium",
+   "developerName": "c22dev",
+   "subtitle": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore. Last updated: 02-23-2024 Status: ✅",
+   "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore.\nLast updated: 02-23-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.cclerc.geranium.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Serves as a toolbox encompassing LocSim, Daemon Manager, Cleaner, and Supervisor for TrollStore. Last updated: 02-23-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Geranium/Geranium-1.1.ipa",
+     "size": 6032621
+    }
+   ]
+  }
+ ]
+}

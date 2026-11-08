@@ -1,0 +1,44 @@
+{
+ "name": "AirTroller",
+ "identifier": "dev.perapp.net-sourceloc-airtroller",
+ "subtitle": "Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not wo",
+ "description": "Single-app source for AirTroller (net.sourceloc.AirTroller). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.AirTroller.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.sourceloc.AirTroller",
+   "name": "AirTroller",
+   "developerName": "sourcelocation",
+   "subtitle": "Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You nee",
+   "localizedDescription": "Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You nee",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.AirTroller.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You nee",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-27-2022/AirTroller-1.1.1.ipa",
+     "size": 782388
+    },
+    {
+     "version": "1.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You nee",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-26-2022/AirTroller-1.1.ipa",
+     "size": 1207971
+    },
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Since spammers like this are popular, and I already expect multiple people to ask me this question, no, this will not work if you sideload it. You nee",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2022/AirTroller-1.0.ipa",
+     "size": 812269
+    }
+   ]
+  }
+ ]
+}

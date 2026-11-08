@@ -1,0 +1,37 @@
+{
+ "name": "TeamSpeak 3",
+ "identifier": "dev.perapp.com-ipaomtk-teamspeak-3-155429",
+ "subtitle": "ipaomtk.com | What is TeamSpeak 3 IPA? TeamSpeak 3 IPA is an iOS installation package that allows users to install and r",
+ "description": "Single-app source for TeamSpeak 3 (com.ipaomtk.teamspeak.3.155429). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/TeamSpeak-3-IPA-v3.8.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.teamspeak.3.155429",
+   "name": "TeamSpeak 3",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is TeamSpeak 3 IPA? TeamSpeak 3 IPA is an iOS installation package that allows users to install and run the TeamSpeak 3 voice commu",
+   "localizedDescription": "ipaomtk.com | What is TeamSpeak 3 IPA? TeamSpeak 3 IPA is an iOS installation package that allows users to install and run the TeamSpeak 3 voice commu",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/TeamSpeak-3-IPA-v3.8.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-04-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is TeamSpeak 3 IPA? TeamSpeak 3 IPA is an iOS installation package that allows users to install and run the TeamSpeak 3 voice commu",
+     "downloadURL": "https://file.ipaomtk.com/teamspeak-3/TeamSpeak-IPAOMTK.com.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.8.2",
+     "date": "2026-04-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is TeamSpeak 3 IPA? TeamSpeak 3 IPA is an iOS installation package that allows users to install and run the TeamSpeak 3 voice commu",
+     "downloadURL": "https://file.ipaomtk.com/teamspeak-3/TeamSpeak-IPAOMTK.com.ipa",
+     "size": 14732664
+    }
+   ]
+  }
+ ]
+}

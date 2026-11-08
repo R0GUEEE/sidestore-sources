@@ -1,0 +1,30 @@
+{
+ "name": "AIArtaPublic",
+ "identifier": "dev.perapp.com-aiby-aiart",
+ "subtitle": "Free in-app purchases (tap buy, then cancel)",
+ "description": "Single-app source for AIArtaPublic (com.aiby.aiart). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aiby.aiart",
+   "name": "AIArtaPublic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Free in-app purchases (tap buy, then cancel)",
+   "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiby.aiart.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.16",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ) - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/AIArtaPublic_4.16_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 78761420
+    }
+   ]
+  }
+ ]
+}

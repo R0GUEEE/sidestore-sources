@@ -1,0 +1,30 @@
+{
+ "name": "SunVox",
+ "identifier": "dev.perapp.com-yourcompany-isunvox",
+ "subtitle": "ipaomtk.com | SunVox IPA v2.1.2 is a powerful and versatile music creation app that brings a complete modular synthesize",
+ "description": "Single-app source for SunVox (com.yourcompany.isunvox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/SunVox.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yourcompany.isunvox",
+   "name": "SunVox",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | SunVox IPA v2.1.2 is a powerful and versatile music creation app that brings a complete modular synthesizer and pattern-based sequencer ",
+   "localizedDescription": "ipaomtk.com | SunVox IPA v2.1.2 is a powerful and versatile music creation app that brings a complete modular synthesizer and pattern-based sequencer ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/SunVox.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.200",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | SunVox IPA v2.1.2 is a powerful and versatile music creation app that brings a complete modular synthesizer and pattern-based sequencer ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/SunVox-v2.1.2-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

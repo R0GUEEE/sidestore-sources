@@ -1,0 +1,34 @@
+{
+ "name": "Super Smash Flash 2",
+ "identifier": "dev.perapp.com-devz-supersmashflash2",
+ "subtitle": "Unofficial Super Smash Flash 2 iPhone and iPad port with offline Ruffle runtime, customizable touch controls and gamepad",
+ "description": "Single-app source for Super Smash Flash 2 (com.devz.supersmashflash2). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e7180c",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.supersmashflash2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.supersmashflash2",
+   "name": "Super Smash Flash 2",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "Unofficial Super Smash Flash 2 iPhone and iPad port with offline Ruffle runtime, customizable touch controls and gamepad support",
+   "localizedDescription": "Super Smash Flash 2 for iOS:\n\nAn unofficial iPhone and iPad port of Super Smash Flash 2 v1.3.1.2 (Portable), running its original Flash game through Ruffle inside a native iOS app. The game and runtime are bundled for offline play, with a matching touch control deck, controller support, and a customizable layout.\n\nIf you want to support me and remain up-to-date about this and other projects, you can in different ways:\n\nKo-Fi: https://ko-fi.com/dev_zer0\n\nYouTube: https://www.youtube.com/@develop_erZ\n\nFeatures:\n\n• A touch control deck styled around SSF2: an eight-direction D-pad, jump, attack, special, shield, grab, taunt, pause, and Start / OK.\n• Simultaneous touch inputs, diagonal movement, touch feedback, and adjustable control size and opacity.\n• Customizable touch layouts: move, resize, and hide controls, with separate layouts for portrait and landscape.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.supersmashflash2.png",
+   "tintColor": "#e7180c",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.9",
+     "date": "2026-10-15T13:20:30Z",
+     "localizedDescription": "Adds the missing game-input bindings and dedicated C-stick controls.\n\n• KEYS and controller action menus now include C-Up, C-Left, C-Down, C-Right, Jump 2, Shield 2 and Dash. Key bindings may also be left unassigned.\n• The right stick defaults to the four C actions, using T / F / G / H for up / left / down / right. A diagonal tilt selects one C direction. Old unassigned right-stick defaults migrate once; existing custom action and key mappings remain.\n• Adds an adjustable stick dead zone with threshold hysteresis and optional left-stick-strength walk/dash control. Light tilt sends movement; above 75% horizontal tilt adds Dash. This provides two speed levels rather than continuous analog movement.\n\nSet up C-stick attacks:\n\nIn the game's Options → Controls → P1, bind C-Up = T, C-Left = F, C-Down = G, C-Right = H. These slots initially show n/a and must be assigned in the game too. Select each slot and tilt the corresponding right-stick direction to assign it. If your port controller settings previously used Attack on the right stick, change those mappings to the corresponding C actions in CONTROLS → CONTROLLER.\n\nFor optional walk/dash, bind the game's Dash to Shift, disable Auto-Dash and D-Tap Dash, then enable Left-stick strength controls walk / dash in the port. To assign an n/a slot on iPhone, map a controller button to that action, select the slot in the game, and press that button.\n\nThe portable Flash movie disables its desktop controller initialization. The iOS port still uses a GameController-to-keyboard bridge, so the in-game device list remains Keyboard. Native XInput and continuous analog movement are not enabled by this update.\n\nDownload SuperSmashFlash2-1.1.9-unsigned.ipa, sign it and install it. Keep the same signing identity and bundle identifier (com.devz.supersmashflash2) to retain your data.",
+     "downloadURL": "https://github.com/DevZer0D4Y/SSF2-iOS/releases/download/v1.1.9/SuperSmashFlash2-1.1.9-unsigned.ipa",
+     "size": 804899183
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

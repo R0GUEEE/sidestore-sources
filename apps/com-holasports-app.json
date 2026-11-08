@@ -1,0 +1,30 @@
+{
+ "name": "HolaSports-ipaomtk.com",
+ "identifier": "dev.perapp.com-holasports-app",
+ "subtitle": "ipaomtk.com | HolaSports IPA is a comprehensive sports app designed for iOS devices, offering a wide range of features t",
+ "description": "Single-app source for HolaSports-ipaomtk.com (com.holasports.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/HolaSports-IPA-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.holasports.app",
+   "name": "HolaSports-ipaomtk.com",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | HolaSports IPA is a comprehensive sports app designed for iOS devices, offering a wide range of features to enhance your athletic experi",
+   "localizedDescription": "ipaomtk.com | HolaSports IPA is a comprehensive sports app designed for iOS devices, offering a wide range of features to enhance your athletic experi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/HolaSports-IPA-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.1",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | HolaSports IPA is a comprehensive sports app designed for iOS devices, offering a wide range of features to enhance your athletic experi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/HolaSports-ipaomtk.com_4.2.1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

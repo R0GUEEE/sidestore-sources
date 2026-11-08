@@ -1,0 +1,30 @@
+{
+ "name": "Battle Prime",
+ "identifier": "dev.perapp.com-blitzteam-blitzops",
+ "subtitle": "ipaomtk.com | Battle Prime Epic Modern FPS is an intense multiplayer first-person shooter game available for iOS. This t",
+ "description": "Single-app source for Battle Prime (com.blitzteam.blitzops). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-battle-prime-multiplayer-fps-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.blitzteam.blitzops",
+   "name": "Battle Prime",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Battle Prime Epic Modern FPS is an intense multiplayer first-person shooter game available for iOS. This tweaked version, called Battle ",
+   "localizedDescription": "ipaomtk.com | Battle Prime Epic Modern FPS is an intense multiplayer first-person shooter game available for iOS. This tweaked version, called Battle ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-battle-prime-multiplayer-fps-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.1",
+     "date": "2023-10-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Battle Prime Epic Modern FPS is an intense multiplayer first-person shooter game available for iOS. This tweaked version, called Battle ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Battle-Prime.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

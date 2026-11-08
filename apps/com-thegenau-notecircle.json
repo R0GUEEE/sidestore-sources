@@ -1,0 +1,30 @@
+{
+ "name": "NoteCircle",
+ "identifier": "dev.perapp.com-thegenau-notecircle",
+ "subtitle": "NoteCircle",
+ "description": "Single-app source for NoteCircle (com.thegenau.NoteCircle). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thegenau.NoteCircle.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thegenau.NoteCircle",
+   "name": "NoteCircle",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thegenau.NoteCircle.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.49",
+     "date": "2026-01-20T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/NoteCircle_4.49_Plus_%40thisismanpreets_apptesters.org.ipa",
+     "size": 15551457
+    }
+   ]
+  }
+ ]
+}

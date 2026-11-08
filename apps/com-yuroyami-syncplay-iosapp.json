@@ -1,0 +1,30 @@
+{
+ "name": "Synkplay",
+ "identifier": "dev.perapp.com-yuroyami-syncplay-iosapp",
+ "subtitle": "📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Co",
+ "description": "Single-app source for Synkplay (com.yuroyami.syncplay.iosApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.yuroyami.syncplay.iosApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yuroyami.syncplay.iosApp",
+   "name": "Synkplay",
+   "developerName": "yuroyami",
+   "subtitle": "📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syn",
+   "localizedDescription": "📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syn\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.yuroyami.syncplay.iosApp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.26.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "📱 Syncplay Mobile (now Synkplay) is a Syncplay client app for Android and iOS. Watch stuff in sync with your friends. Compatible with the official Syn",
+     "downloadURL": "https://github.com/yuroyami/syncplay-mobile/releases/download/v0.26.0/synkplay-0.26.0-ios.ipa",
+     "size": 94047950
+    }
+   ]
+  }
+ ]
+}

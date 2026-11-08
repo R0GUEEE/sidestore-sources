@@ -1,0 +1,30 @@
+{
+ "name": "DynaWall_TS",
+ "identifier": "dev.perapp.synthetic-dynawall-ts-b51464d1",
+ "subtitle": "Dynamic and Live Wallpaper Generator.",
+ "description": "Single-app source for DynaWall_TS (synthetic.dynawall-ts.b51464d1). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/DynaWall_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.dynawall-ts.b51464d1",
+   "name": "DynaWall_TS",
+   "developerName": "DynaWall_TS x CyPwn",
+   "subtitle": "Dynamic and Live Wallpaper Generator.",
+   "localizedDescription": "Dynamic and Live Wallpaper Generator.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/DynaWall_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Dynamic and Live Wallpaper Generator.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/DynaWall_TS.ipa",
+     "size": 6239027
+    }
+   ]
+  }
+ ]
+}

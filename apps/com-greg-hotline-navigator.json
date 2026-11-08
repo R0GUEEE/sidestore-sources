@@ -1,0 +1,37 @@
+{
+ "name": "Hotline Navigator",
+ "identifier": "dev.perapp.com-greg-hotline-navigator",
+ "subtitle": "Official Website",
+ "description": "Single-app source for Hotline Navigator (com.greg.hotline-navigator). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#579a8e",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.greg.hotline-navigator.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.greg.hotline-navigator",
+   "name": "Hotline Navigator",
+   "developerName": "bourbonicfisky",
+   "subtitle": "Official Website",
+   "localizedDescription": "Hotline Navigator:\n\nOfficial Website.\n\nWhat the hell is Hotline?:\n\nHotline in concept, was to replicate a BBS but for the internet age. Modern users would recongize more as a proto peer-to-peer or a Discord like application.\n\nHotline's Navigator's website has a deeper drive the history of Hotline.\n\nPlatform Support:\n\nRight now the iOS, iPadOS, and Android versions are not in their respective app stores and must be built manually or sideloaded.\n\nThis is a Tauri-based Hotline client that provides a modern, cross-platform experience for the classic Hotline protocol. Built with React and Rust, it offers:\n\n• Cross-Platform: Single codebase for macOS, Windows, Linux, iOS, iPadOS, and Android.\n• Modern Stack: React + TypeScript frontend, Rust backend.\n\n• Native Performance: Tauri's lightweight architecture for fast, efficient apps.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.greg.hotline-navigator.png",
+   "tintColor": "#579a8e",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/bourbonicfisky/Hotline-Navigator@main/doc-media/v0.2.5-dark-mode-discord.png",
+    "https://cdn.jsdelivr.net/gh/bourbonicfisky/Hotline-Navigator@main/doc-media/main-screen.png"
+   ],
+   "versions": [
+    {
+     "version": "0.3.1",
+     "date": "2026-10-28T03:17:45Z",
+     "localizedDescription": "v0.3.1:\n\nThis release cleans up saved logins and date formatting: bookmarks keep their password settings when they cross between Rust and the interface, reconnects retrieve saved credentials, and news timestamps follow your system’s locale and time zone.\n\nNew Features:\n\n• GitHub-hosted builds for every platform — macOS universal, Windows x64, Linux x64 and ARM64, Android, and unsigned iOS / iPadOS packages are available below.\n• Individual platform rebuilds — The Apple and Android workflow can build all three platforms together or retry just macOS, iOS, or Android.\n\nBugfixes and Improvements:\n\n• Dates that follow your system — Threaded news and file-info dates use your locale and time zone instead of a fixed US format.\n• Saved credentials survive reconnects — Bookmark password flags now match the interface’s field names, and manual and automatic reconnects retrieve passwords from encrypted storage. Explicitly empty passwords remain valid.\n\n• Frontend cleanup — Media callbacks update after rendering, icon state initializes before its reset effect, and inline-media preference failures are logged.\n• Consistent mobile versioning — The iOS project template and packaged app both report version 0.3.1.\n\nTechnical:\n\n• Bookmark serialization uses camelCase fields while accepting older snake_case saved files.\n\n• Raw TCP login tests verify password field 106 and the XOR encoding for admin, a, and empty passwords.\n\n• Linux builds use native x64 and ARM64 runners. Android installs its Java, SDK, and NDK dependencies explicitly and includes ARM64, ARMv7, x86, and x64 libraries.\n• Validation includes 151 Rust tests, 98 frontend tests, TypeScript, ESLint, and successful GitHub-hosted builds for every platform. The macOS installer is signed and notarized.\n\nCurrent Limitations:\n\n• Existing bookmarks whose password flag was already lost may need their password re-entered once.\n\n• The iOS / iPadOS IPA is unsigned and requires signing with a sideloading tool before installation.\n• Android currently uses a temporary signing key for each build. Installing over an older APK may require uninstalling it first, which can remove its local app data.\n\nDownload the universal .dmg below for macOS, open it, and drag Hotline Navigator into Applications. It supports Intel and Apple Silicon Macs running macOS Big Sur or later.\n\nWindows users can use the x64 installer. Linux packages are available as .deb and AppImage files for x64 and ARM64. Android users can install the APK; iOS / iPadOS users should extract the IPA from its ZIP and sign it with their sideloading tool.\n\nThis release includes the macOS installer. Windows, Android, iOS / iPadOS, Linux hippies, figure it out;).",
+     "downloadURL": "https://github.com/bourbonicfisky/Hotline-Navigator/releases/download/v0.3.1/hotline-navigator-unsigned.ipa",
+     "size": 10118985
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Find My IP",
+ "identifier": "dev.perapp.synthetic-find-my-ip-d6c73b3e",
+ "subtitle": "ipaomtk.com | When it comes to connecting to the internet, knowing your device’s IP address is essential. The IP address",
+ "description": "Single-app source for Find My IP (synthetic.find-my-ip.d6c73b3e). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/256x256bb-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.find-my-ip.d6c73b3e",
+   "name": "Find My IP",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | When it comes to connecting to the internet, knowing your device’s IP address is essential. The IP address serves as a unique identifier",
+   "localizedDescription": "ipaomtk.com | When it comes to connecting to the internet, knowing your device’s IP address is essential. The IP address serves as a unique identifier",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/256x256bb-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8",
+     "date": "2024-02-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | When it comes to connecting to the internet, knowing your device’s IP address is essential. The IP address serves as a unique identifier",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Find-my-ip.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

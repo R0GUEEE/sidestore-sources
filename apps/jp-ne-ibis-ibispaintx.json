@@ -1,0 +1,44 @@
+{
+ "name": "IbispaintX",
+ "identifier": "dev.perapp.jp-ne-ibis-ibispaintx",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for IbispaintX (jp.ne.ibis.ibisPaintX). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/IbispaintX.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.ne.ibis.ibisPaintX",
+   "name": "IbispaintX",
+   "developerName": "Karbin-Store",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/IbispaintX.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.1.1",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 ibisPaint X - appstore  🇷🇺 Редактор для цифрового рисования с большим выбором кистей, слоёв, фильтров, материалов и инструментов для соз",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1801-ibisPaint%20X%20%5Bv14.1.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 80329660
+    },
+    {
+     "version": "14.1.2",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "@kamohacks | ibis Paint X 🆕⬆️⬆️  🔩Hack Features🔩 ✅Premium unlocked   📄Buy Your Own Certificate Tap Here 🛒Apple ID With Paid Games Tap here 💙Group Chat",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16710-ibisPaint%20X%20-%20KamoHacks%20%5B14.1.2%5D.ipa",
+     "size": 89532258
+    },
+    {
+     "version": "12.1.2",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Popular drawing app. A user requested it so here it is. Last updated: 06-28-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ibisPaintPrime/ibisPaintPrime-12.1.2.ipa",
+     "size": 41099193
+    }
+   ]
+  }
+ ]
+}

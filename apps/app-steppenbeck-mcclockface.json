@@ -1,0 +1,30 @@
+{
+ "name": "McClockface",
+ "identifier": "dev.perapp.app-steppenbeck-mcclockface",
+ "subtitle": "ipaomtk.com | McClockface IPA v5.1.2 is a unique and versatile digital clock application that brings a touch of personal",
+ "description": "Single-app source for McClockface (app.steppenbeck.McClockface). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/McClockface-%E2%80%93-Flip-Clock.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "app.steppenbeck.McClockface",
+   "name": "McClockface",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | McClockface IPA v5.1.2 is a unique and versatile digital clock application that brings a touch of personality to time-telling. This inno",
+   "localizedDescription": "ipaomtk.com | McClockface IPA v5.1.2 is a unique and versatile digital clock application that brings a touch of personality to time-telling. This inno",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/McClockface-%E2%80%93-Flip-Clock.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | McClockface IPA v5.1.2 is a unique and versatile digital clock application that brings a touch of personality to time-telling. This inno",
+     "downloadURL": "https://file.ipaomtk.com/ipa/McClockface%C2%80%C2%93_Flip_Clock-v5.1.2-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

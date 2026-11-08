@@ -1,0 +1,30 @@
+{
+ "name": "Notes Plus X",
+ "identifier": "dev.perapp.com-viettran-notesplusx",
+ "subtitle": "ipaomtk.com | Notes Plus X is an innovative and revolutionary app that belongs to the realm of note-taking applications.",
+ "description": "Single-app source for Notes Plus X (com.viettran.NotesPlusX). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/512x512bb-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.viettran.NotesPlusX",
+   "name": "Notes Plus X",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Notes Plus X is an innovative and revolutionary app that belongs to the realm of note-taking applications. A comprehensive and powerful ",
+   "localizedDescription": "ipaomtk.com | Notes Plus X is an innovative and revolutionary app that belongs to the realm of note-taking applications. A comprehensive and powerful ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/512x512bb-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.13",
+     "date": "2023-03-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Notes Plus X is an innovative and revolutionary app that belongs to the realm of note-taking applications. A comprehensive and powerful ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Note-Plus-X.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

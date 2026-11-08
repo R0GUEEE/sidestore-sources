@@ -1,0 +1,44 @@
+{
+ "name": "Asspp_2.3",
+ "identifier": "dev.perapp.wiki-qaq-asspp",
+ "subtitle": "Multi-account App Store management",
+ "description": "Single-app source for Asspp_2.3 (wiki.qaq.Asspp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Asspp_2.3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "wiki.qaq.Asspp",
+   "name": "Asspp_2.3",
+   "developerName": "Asspp_2.3 x CyPwn",
+   "subtitle": "Multi-account App Store management",
+   "localizedDescription": "Multi-account App Store management",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Asspp_2.3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.2",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Manage multiple Apple IDs across App Store regions: switch stores instantly, browse and download official IPAs from anywhere, and keep a searchable IP",
+     "downloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa",
+     "size": 16458246
+    },
+    {
+     "version": "4.2.0",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Manage multiple Apple IDs across App Store regions: switch stores instantly, browse and download official IPAs from anywhere, and keep a searchable IP",
+     "downloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa",
+     "size": 16458246
+    },
+    {
+     "version": "1.2.9",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024%E2%80%9307-13/Asspp_1.2.9_Nothing_@repo.owo.network.ipa",
+     "size": 6905495
+    }
+   ]
+  }
+ ]
+}

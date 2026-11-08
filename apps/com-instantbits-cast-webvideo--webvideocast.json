@@ -1,0 +1,44 @@
+{
+ "name": "WebVideoCast",
+ "identifier": "dev.perapp.com-instantbits-cast-webvideo",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for WebVideoCast (com.instantbits.cast.webvideo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.instantbits.cast.webvideo",
+   "name": "WebVideoCast",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.instantbits.cast.webvideo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.49",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-12-2025/WebVideoCast_2.49_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 46630646
+    },
+    {
+     "version": "2.48",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-08-2025/WebVideoCast_2.48_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 47665038
+    },
+    {
+     "version": "2.47",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-08-2025/WebVideoCast_2.47_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 46703616
+    }
+   ]
+  }
+ ]
+}

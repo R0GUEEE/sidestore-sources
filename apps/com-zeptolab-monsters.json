@@ -1,0 +1,30 @@
+{
+ "name": "Monsters",
+ "identifier": "dev.perapp.com-zeptolab-monsters",
+ "subtitle": "ipaomtk.com | Pudding Monsters. This charming puzzle adventure from​ ZeptoLab invites players into a whimsically delecta",
+ "description": "Single-app source for Monsters (com.zeptolab.monsters). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Pudding-Monsters-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zeptolab.monsters",
+   "name": "Monsters",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Pudding Monsters. This charming puzzle adventure from​ ZeptoLab invites players into a whimsically delectable world where strategy​ and ",
+   "localizedDescription": "ipaomtk.com | Pudding Monsters. This charming puzzle adventure from​ ZeptoLab invites players into a whimsically delectable world where strategy​ and ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Pudding-Monsters-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.0",
+     "date": "2025-05-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pudding Monsters. This charming puzzle adventure from​ ZeptoLab invites players into a whimsically delectable world where strategy​ and ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Monsters-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

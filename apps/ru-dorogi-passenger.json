@@ -1,0 +1,30 @@
+{
+ "name": "Пассажирам",
+ "identifier": "dev.perapp.ru-dorogi-passenger",
+ "subtitle": "Пассажирам",
+ "description": "Single-app source for Пассажирам (ru.dorogi.passenger). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.dorogi.passenger",
+   "name": "Пассажирам",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nРЖД Пассажирам v1.50\n\n🇷🇺 Приложение от РЖД для пассажиров \n— Приложение из TestFlight \n© Создано: GLESign\n\n🇺🇸 The application from Russian Railways for passengers\n— The app from TestFlight\n© Created: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.50",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nРЖД Пассажирам v1.50\n\n🇷🇺 Приложение от РЖД для пассажиров \n— Приложение из TestFlight \n© Создано: GLESign\n\n🇺🇸 The application from Russian Railways for passengers\n— The app from TestFlight\n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/cf85bbb2-8208-4451-a8b6-630e24d36215/___________v1.50_tg_glesign_.ipa",
+     "size": 31725941
+    }
+   ]
+  }
+ ]
+}

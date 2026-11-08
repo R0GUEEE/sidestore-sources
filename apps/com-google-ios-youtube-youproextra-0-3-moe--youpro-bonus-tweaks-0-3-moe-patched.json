@@ -1,0 +1,30 @@
+{
+ "name": "YouPro + Bonus Tweaks (0.3 - Moe) - Patched",
+ "identifier": "dev.perapp.com-google-ios-youtube-youproextra-0-3-moe",
+ "subtitle": "Tweaks: YouLoop, YouPro, YTClassicVideoQuality +12",
+ "description": "Single-app source for YouPro + Bonus Tweaks (0.3 - Moe) - Patched (com.google.ios.youtube.youproextra.0.3.moe). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youproextra.0.3.moe",
+   "name": "YouPro + Bonus Tweaks (0.3 - Moe) - Patched",
+   "developerName": "YouTube",
+   "subtitle": "Tweaks: YouLoop, YouPro, YTClassicVideoQuality +12",
+   "localizedDescription": "Tweaks: YouLoop, YouPro, YTClassicVideoQuality, YouMute, YTVideoOverlay, YTABConfig, YouQuality, YouChooseQuality, YTUHD, DontEatMyContent, iSponsorBlock, YouGroupSettings +3\n\nThis is a modded version of YouTube.\n This comes with the following tweaks:\nDontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGroupSettings, YouLoop, YouMute, YouPiP, YouQuality, YouSpeed, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTClassicVideoQuality, YTUHD, and YTVideoOverlay.\nThis mod was created by IPAStar and Bonus Tweaks by Moe.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: YouLoop, YouPro, YTClassicVideoQuality, YouMute, YTVideoOverlay, YTABConfig, YouQuality, YouChooseQuality, YTUHD, DontEatMyContent, iSponsorBlock, YouGroupSettings +3\n\nThis is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality…",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.44.4Moe-YouPro0.3Patched.ipa",
+     "size": 143051730
+    }
+   ]
+  }
+ ]
+}

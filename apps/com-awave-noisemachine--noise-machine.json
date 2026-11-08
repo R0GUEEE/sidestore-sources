@@ -1,0 +1,37 @@
+{
+ "name": "Noise Machine",
+ "identifier": "dev.perapp.com-awave-noisemachine",
+ "subtitle": "Noise Machine",
+ "description": "Single-app source for Noise Machine (com.awave.noisemachine). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/07c6cf44-af82-48f3-a753-ce61772aaea8/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.awave.noisemachine",
+   "name": "Noise Machine",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Noise Machine - Brown, White\n\nTweak: Subscription Unlocked\n\nVersion: 6.1.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/07c6cf44-af82-48f3-a753-ce61772aaea8/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.6",
+     "date": "2026-07-05T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2149",
+     "size": 59941991
+    },
+    {
+     "version": "6.1.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Noise Machine - Brown, White\n\nTweak: Subscription Unlocked\n\nVersion: 6.1.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/80615813-57b8-4e0f-97fa-fae15e60b9e6/Noise_Machine_-_Brown__White-v6.1.0-riftysipas.ipa",
+     "size": 15399756
+    }
+   ]
+  }
+ ]
+}

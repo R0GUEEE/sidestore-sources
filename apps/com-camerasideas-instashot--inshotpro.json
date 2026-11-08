@@ -1,0 +1,44 @@
+{
+ "name": "InShotPro",
+ "identifier": "dev.perapp.com-camerasideas-instashot",
+ "subtitle": "InShotPro by AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn’s tweaked IPAs",
+ "description": "Single-app source for InShotPro (com.camerasideas.InstaShot). Converted from swaggy.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.camerasideas.InstaShot",
+   "name": "InShotPro",
+   "developerName": "AppDB / DPixel / iApps / FayezUpdates / Manpreet Singh @thisismanpreets / zxcvbn’s tweaked IPAs",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.70.0",
+     "date": "2023-07-09T00:00:00Z",
+     "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2023/InShotPro-1.70.0.ipa",
+     "size": 104584718
+    },
+    {
+     "version": "1.69.1",
+     "date": "2023-06-25T00:00:00Z",
+     "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InShotPro-1.69.1.ipa",
+     "size": 85111276
+    },
+    {
+     "version": "1.68.1",
+     "date": "2023-06-04T00:00:00Z",
+     "localizedDescription": "Popular video/image editor with pro features unlocked.\nLast updated: 09-05-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InShotPro-1.68.1.ipa",
+     "size": 101692931
+    }
+   ]
+  }
+ ]
+}

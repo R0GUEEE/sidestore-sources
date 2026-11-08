@@ -1,0 +1,37 @@
+{
+ "name": "KinoHome",
+ "identifier": "dev.perapp.com-ipaomtk-kinohome-159852",
+ "subtitle": "ipaomtk.com | What is KinoHome IPA? KinoHome IPA is the iOS installable version of a media-focused app designed to organ",
+ "description": "Single-app source for KinoHome (com.ipaomtk.kinohome.159852). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/KinoHome-150x150.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.kinohome.159852",
+   "name": "KinoHome",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is KinoHome IPA? KinoHome IPA is the iOS installable version of a media-focused app designed to organize and access movie and video",
+   "localizedDescription": "ipaomtk.com | What is KinoHome IPA? KinoHome IPA is the iOS installable version of a media-focused app designed to organize and access movie and video",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/KinoHome-150x150.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is KinoHome IPA? KinoHome IPA is the iOS installable version of a media-focused app designed to organize and access movie and video",
+     "downloadURL": "https://file.ipaomtk.com/kinohome/KinoHome-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.7.0",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is KinoHome IPA? KinoHome IPA is the iOS installable version of a media-focused app designed to organize and access movie and video",
+     "downloadURL": "https://file.ipaomtk.com/kinohome/KinoHome-IPAOMTK.COM.ipa",
+     "size": 74766708
+    }
+   ]
+  }
+ ]
+}

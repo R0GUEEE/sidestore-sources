@@ -1,0 +1,30 @@
+{
+ "name": "TickTick",
+ "identifier": "dev.perapp.com-unknown-ticktick",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    هاوکاتکردنی ئەرک و لیستەکان لە سەرانسەری پلاتفۆرمەکاندا ✅  توانای دروستکردنی ویجتی ئەر",
+ "description": "Single-app source for TickTick (com.unknown.ticktick). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/TickTick.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.ticktick",
+   "name": "TickTick",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    هاوکاتکردنی ئەرک و لیستەکان لە سەرانسەری پلاتفۆرمەکاندا ✅  توانای دروستکردنی ویجتی ئەرکەکان بۆ باشتر بەڕێوەبردنیان ✅",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    هاوکاتکردنی ئەرک و لیستەکان لە سەرانسەری پلاتفۆرمەکاندا ✅  توانای دروستکردنی ویجتی ئەرکەکان بۆ باشتر بەڕێوەبردنیان ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/TickTick.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.3.31",
+     "date": "2026-03-14T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    هاوکاتکردنی ئەرک و لیستەکان لە سەرانسەری پلاتفۆرمەکاندا ✅  توانای دروستکردنی ویجتی ئەرکەکان بۆ باشتر بەڕێوەبردنیان ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/TickTick7.3.31.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

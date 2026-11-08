@@ -1,0 +1,38 @@
+{
+ "name": "Boorusama",
+ "identifier": "dev.perapp.com-degenk-boorusama",
+ "subtitle": "A mobile client for booru sites built with Flutter",
+ "description": "Single-app source for Boorusama (com.degenk.boorusama). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d5a324",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.degenk.boorusama.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.degenk.boorusama",
+   "name": "Boorusama",
+   "developerName": "khoadng",
+   "subtitle": "A mobile client for booru sites built with Flutter",
+   "localizedDescription": "Overview:\n\nBoorusama is an unofficial, cross-platform client for major booru imageboards. It covers all core functionality and gives you total control over your experience with extra features like bulk downloads, favorite tags, advanced blacklisting, and more.\n\nSupported imageboards:\n\n• Gelbooru 0.2.5, Gelbooru 0.1, Gelbooru 0.2.\n• Hydrus Network.\n\nSteps:\n\n• Clone the repository:.\n\n• Install dependencies and generate boilerplate code:.\n\n• Connect to an Android device or emulator and run the app:.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.degenk.boorusama.png",
+   "tintColor": "#d5a324",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.2",
+     "date": "2026-11-02T01:03:57Z",
+     "localizedDescription": "• Fix the shuffled bookmark order changing when bookmarks are updated.\n• Fix the app lock not prompting for biometrics automatically.\n\n• Improve recovery from anti-bot challenges and sites that block HTTP/2.\n• Show a clearer error when a secure connection can't be made, instead of reporting a certificate error.\n• Reduce memory use of side panel previews and smooth tag loading.\n\n• Update Portuguese (Brazil), Russian, and Ukrainian translations.",
+     "downloadURL": "https://github.com/khoadng/Boorusama/releases/download/v4.6.2/boorusama-4.6.2-ios.ipa",
+     "size": 34324791
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Boorusama needs local network access to transfer data between your devices.",
+     "NSPhotoLibraryAddUsageDescription": "Boorusama needs permission to access photos on your device",
+     "NSPhotoLibraryUsageDescription": "Boorusama needs permission to access photos on your device"
+    }
+   }
+  }
+ ]
+}

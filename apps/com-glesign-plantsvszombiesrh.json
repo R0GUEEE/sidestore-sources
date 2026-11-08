@@ -1,0 +1,30 @@
+{
+ "name": "PlantsVsZombiesFusion",
+ "identifier": "dev.perapp.com-glesign-plantsvszombiesrh",
+ "subtitle": "PvZ Fusion là bản Mod của PvZ1 với cách ghép cây rất độc đáo và thú vị. - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for PlantsVsZombiesFusion (com.GLESign.PlantsVsZombiesRH). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/PlantsVsZombiesRH.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.GLESign.PlantsVsZombiesRH",
+   "name": "PlantsVsZombiesFusion",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "PvZ Fusion là bản Mod của PvZ1 với cách ghép cây rất độc đáo và thú vị. - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "PvZ Fusion là bản Mod của PvZ1 với cách ghép cây rất độc đáo và thú vị. - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/PlantsVsZombiesRH.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "PvZ Fusion là bản Mod của PvZ1 với cách ghép cây rất độc đáo và thú vị. - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/PVZ.Fusion.2.0.4RC_TTJB.ipa",
+     "size": 158074210
+    }
+   ]
+  }
+ ]
+}

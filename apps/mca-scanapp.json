@@ -1,0 +1,30 @@
+{
+ "name": "PDF Scanner-ipaomtk.com",
+ "identifier": "dev.perapp.mca-scanapp",
+ "subtitle": "ipaomtk.com | PDF Scanner + IPA is a powerful mobile application that allows you to quickly and efficiently scan documen",
+ "description": "Single-app source for PDF Scanner-ipaomtk.com (mca.scanapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-12-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "mca.scanapp",
+   "name": "PDF Scanner-ipaomtk.com",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | PDF Scanner + IPA is a powerful mobile application that allows you to quickly and efficiently scan documents, receipts, business cards, ",
+   "localizedDescription": "ipaomtk.com | PDF Scanner + IPA is a powerful mobile application that allows you to quickly and efficiently scan documents, receipts, business cards, ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-12-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.2",
+     "date": "2024-09-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | PDF Scanner + IPA is a powerful mobile application that allows you to quickly and efficiently scan documents, receipts, business cards, ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PDF-Scanner-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

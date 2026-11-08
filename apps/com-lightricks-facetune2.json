@@ -1,0 +1,30 @@
+{
+ "name": "Facetune",
+ "identifier": "dev.perapp.com-lightricks-facetune2",
+ "subtitle": "Facetune",
+ "description": "Single-app source for Facetune (com.lightricks.Facetune2). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lightricks.Facetune2",
+   "name": "Facetune",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.37",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2026/Facetune_26.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 388905229
+    }
+   ]
+  }
+ ]
+}

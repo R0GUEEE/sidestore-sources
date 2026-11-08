@@ -1,0 +1,37 @@
+{
+ "name": "Tiny Cafe",
+ "identifier": "dev.perapp.com-nanali-tinycafe-ios",
+ "subtitle": "ipaomtk.com | Embark on a captivating journey with Tiny Cafe IPA a mobile game that invites you to experience the thrill",
+ "description": "Single-app source for Tiny Cafe (com.Nanali.TinyCafe.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/tiny-cafe-ico-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Nanali.TinyCafe.ios",
+   "name": "Tiny Cafe",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Embark on a captivating journey with Tiny Cafe IPA a mobile game that invites you to experience the thrill of running your very own cozy",
+   "localizedDescription": "ipaomtk.com | Embark on a captivating journey with Tiny Cafe IPA a mobile game that invites you to experience the thrill of running your very own cozy",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/tiny-cafe-ico-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.13.1",
+     "date": "2024-10-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Embark on a captivating journey with Tiny Cafe IPA a mobile game that invites you to experience the thrill of running your very own cozy",
+     "downloadURL": "https://file.ipaomtk.com/tiny-cafe/Tiny-Cafe-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.16.3",
+     "date": "2024-10-25T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Embark on a captivating journey with Tiny Cafe IPA a mobile game that invites you to experience the thrill of running your very own cozy",
+     "downloadURL": "https://file.ipaomtk.com/tiny-cafe/Tiny-Cafe-IPAOMTK.COM.ipa",
+     "size": 314261229
+    }
+   ]
+  }
+ ]
+}

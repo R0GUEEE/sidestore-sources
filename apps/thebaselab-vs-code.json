@@ -1,0 +1,30 @@
+{
+ "name": "CodeApp",
+ "identifier": "dev.perapp.thebaselab-vs-code",
+ "subtitle": "CodeApp by Neoncat-OG IPA Library",
+ "description": "Single-app source for CodeApp (thebaselab.VS-Code). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/thebaselab.VS-Code.png",
+ "apps": [
+  {
+   "bundleIdentifier": "thebaselab.VS-Code",
+   "name": "CodeApp",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/thebaselab.VS-Code.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CodeApp/CodeApp-1.9.0.ipa",
+     "size": 233174767
+    }
+   ]
+  }
+ ]
+}

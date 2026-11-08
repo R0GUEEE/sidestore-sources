@@ -1,0 +1,30 @@
+{
+ "name": "MathMaster",
+ "identifier": "dev.perapp.com-appslux-math",
+ "subtitle": "ipaomtk.com | MathMaster Math Solver & Help is an incredible online tool that allows students to learn and practice math",
+ "description": "Single-app source for MathMaster (com.appslux.math). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/download-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.appslux.math",
+   "name": "MathMaster",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MathMaster Math Solver & Help is an incredible online tool that allows students to learn and practice mathematics concepts. This tool pr",
+   "localizedDescription": "ipaomtk.com | MathMaster Math Solver & Help is an incredible online tool that allows students to learn and practice mathematics concepts. This tool pr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/download-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "19.0",
+     "date": "2023-04-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MathMaster Math Solver & Help is an incredible online tool that allows students to learn and practice mathematics concepts. This tool pr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/mathMaster.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

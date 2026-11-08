@@ -1,0 +1,41 @@
+{
+ "name": "Flux",
+ "identifier": "dev.perapp.org-omarchy-flux-ios",
+ "subtitle": "Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more",
+ "description": "Single-app source for Flux (org.omarchy.flux.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#5c73c1",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.omarchy.flux.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.omarchy.flux.ios",
+   "name": "Flux",
+   "developerName": "bjarneo",
+   "subtitle": "Connect an Omarchy computer to your phone: files, clipboard, notifications, media, camera, and more",
+   "localizedDescription": "Flux:\n\nConnect your Omarchy desktop to an Android phone, an iPhone, or a Mac over your local network, or through Tailscale when you are away. Share files, clipboard text, and clipboard images, read phone notifications, control media, and use your phone as a camera or microphone.\n\nFlux includes a CLI, a background daemon, a native Qt window, an Omarchy shell plugin, a native Android app, a native iOS app, and a native macOS app. fluxd listens on 1 TCP port from 12100 to 12108 and on UDP port 12100, and it also opens the connections to the devices itself. So Flux works with the default Omarchy firewall, which blocks inbound traffic, and needs no new inbound rule. See security for what a paired device can do and which settings limit it.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.omarchy.flux.ios.png",
+   "tintColor": "#5c73c1",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.19.1",
+     "date": "2026-10-29T09:47:47Z",
+     "localizedDescription": "• Keep a numbered list at the end of an agent reply in the thread by Bjarne Oeverli (@bjarneo) (c0c831b).",
+     "downloadURL": "https://github.com/bjarneo/flux/releases/download/v0.19.1/flux-ios-0.19.1.ipa",
+     "size": 10583725
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Flux uses the camera to scan text, codes, and pages, to take photos and signatures, and to stream as a webcam to a computer.",
+     "NSFaceIDUsageDescription": "Flux checks that it is you before your iPhone types or replies on a computer, shows the screen of a computer, or approves sudo.",
+     "NSLocalNetworkUsageDescription": "Flux finds and connects to your Omarchy computers on the local network.",
+     "NSMicrophoneUsageDescription": "Flux listens while you dictate, and while you use this iPhone as a microphone for a computer.",
+     "NSPhotoLibraryUsageDescription": "Flux shows your newest photos in the chat of a computer, so that you can send them. Flux also sends your new screenshots and photos to your computers when you turn that on in Settings.",
+     "NSSpeechRecognitionUsageDescription": "Flux changes your speech to text for the computer to type. The iPhone recognizes it on the device when it has the language."
+    }
+   }
+  }
+ ]
+}

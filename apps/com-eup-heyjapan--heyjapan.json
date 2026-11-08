@@ -1,0 +1,44 @@
+{
+ "name": "HeyJapan",
+ "identifier": "dev.perapp.com-eup-heyjapan",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for HeyJapan (com.eup.heyjapan). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eup.heyjapan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.eup.heyjapan",
+   "name": "HeyJapan",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eup.heyjapan.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.12",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-10-2025/HeyJapan_2.1.12_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 131089763
+    },
+    {
+     "version": "2.1.4",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-08-2025/HeyJapan_2.1.4_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 129881180
+    },
+    {
+     "version": "2.1.11",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/09-10-2025/HeyJapan_2.1.11_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 131084687
+    }
+   ]
+  }
+ ]
+}

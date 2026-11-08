@@ -1,0 +1,30 @@
+{
+ "name": "Perfect Piano",
+ "identifier": "dev.perapp.com-unknown-perfectpiano",
+ "subtitle": "کردنەوەی تایبەتمەندی VIP",
+ "description": "Single-app source for Perfect Piano (com.unknown.perfectpiano). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Perfect.Piano.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.perfectpiano",
+   "name": "Perfect Piano",
+   "developerName": "Karbin-Store",
+   "subtitle": "کردنەوەی تایبەتمەندی VIP",
+   "localizedDescription": "کردنەوەی تایبەتمەندی VIP",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Perfect.Piano.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "کردنەوەی تایبەتمەندی VIP",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Perfect.Piano._7.0_1737137341.ipa",
+     "size": 136140000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Open",
+ "identifier": "dev.perapp.com-o-p-e-n-open",
+ "subtitle": "Open",
+ "description": "Single-app source for Open (com.o-p-e-n.open). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.o-p-e-n.open.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.o-p-e-n.open",
+   "name": "Open",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.o-p-e-n.open.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.37",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
+     "size": 228661226
+    },
+    {
+     "version": "26.36",
+     "date": "2026-09-07T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
+     "size": 152755038
+    },
+    {
+     "version": "26.32.1",
+     "date": "2026-08-08T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2153",
+     "size": 225871718
+    }
+   ]
+  }
+ ]
+}

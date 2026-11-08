@@ -1,0 +1,44 @@
+{
+ "name": "BeRealBea",
+ "identifier": "dev.perapp.alexisbarreyat-bereal",
+ "subtitle": "BeRealBea by yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
+ "description": "Single-app source for BeRealBea (AlexisBarreyat.BeReal). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png",
+ "apps": [
+  {
+   "bundleIdentifier": "AlexisBarreyat.BeReal",
+   "name": "BeRealBea",
+   "developerName": "yandevelop / zxcvbn's tweaked IPAs / Ed0.ipa",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/AlexisBarreyat.BeReal.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0-0.36.2",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.0-0.36.2.ipa",
+     "size": 25156227
+    },
+    {
+     "version": "1.1-0.36.3",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.1-0.36.3.ipa",
+     "size": 25439241
+    },
+    {
+     "version": "1.2.2-1.5",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.2.2-1.5.ipa",
+     "size": 41168244
+    }
+   ]
+  }
+ ]
+}

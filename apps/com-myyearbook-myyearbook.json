@@ -1,0 +1,30 @@
+{
+ "name": "MeetMe",
+ "identifier": "dev.perapp.com-myyearbook-myyearbook",
+ "subtitle": "ipaomtk.com | Ever wanted to connect with friends and family but had difficulty finding a suitable way? MeetMe IPA for i",
+ "description": "Single-app source for MeetMe (com.myYearbook.MyYearbook). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-meetme-chat-amp-meet-new-people-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.myYearbook.MyYearbook",
+   "name": "MeetMe",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Ever wanted to connect with friends and family but had difficulty finding a suitable way? MeetMe IPA for iOS enables users to reach out ",
+   "localizedDescription": "ipaomtk.com | Ever wanted to connect with friends and family but had difficulty finding a suitable way? MeetMe IPA for iOS enables users to reach out ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-meetme-chat-amp-meet-new-people-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.59.1",
+     "date": "2023-11-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Ever wanted to connect with friends and family but had difficulty finding a suitable way? MeetMe IPA for iOS enables users to reach out ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MeetMe.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

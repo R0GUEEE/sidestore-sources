@@ -1,0 +1,44 @@
+{
+ "name": "VivaCut",
+ "identifier": "dev.perapp.com-vivacut-videoeditor",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for VivaCut (com.vivacut.videoeditor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vivacut.videoeditor",
+   "name": "VivaCut",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.8",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-09-2025/VivaCut_4.4.8_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 219042808
+    },
+    {
+     "version": "4.4.5",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-08-2025/VivaCut_4.4.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 220275697
+    },
+    {
+     "version": "4.4.4",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-08-2025/VivaCut_4.4.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 220277420
+    }
+   ]
+  }
+ ]
+}

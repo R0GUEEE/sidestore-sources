@@ -1,0 +1,44 @@
+{
+ "name": "LocketWidgetGold",
+ "identifier": "dev.perapp.com-locket-locket",
+ "subtitle": "LocketWidgetGold by ipalibrary.me",
+ "description": "Single-app source for LocketWidgetGold (com.locket.Locket). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.locket.Locket.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.locket.Locket",
+   "name": "LocketWidgetGold",
+   "developerName": "ipalibrary.me",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.locket.Locket.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.63.0",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.63.0.ipa",
+     "size": 91019398
+    },
+    {
+     "version": "1.65.0",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.65.0.ipa",
+     "size": 91041698
+    },
+    {
+     "version": "1.67.0",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Injected with Gold. Widget app that displays real-time photos from your closest friends directly on your Home Screen. Every time you unlock your phone, you and your best friends will discover new photos from one another.\nLast updated: 08-15-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LocketWidgetGold/LocketWidgetGold-1.67.0.ipa",
+     "size": 93639386
+    }
+   ]
+  }
+ ]
+}

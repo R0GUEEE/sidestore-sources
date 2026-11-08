@@ -1,0 +1,44 @@
+{
+ "name": "Kwit",
+ "identifier": "dev.perapp.geeo-kwit",
+ "subtitle": "Kwit",
+ "description": "Single-app source for Kwit (geeo.Kwit). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/geeo.Kwit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "geeo.Kwit",
+   "name": "Kwit",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/geeo.Kwit.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.35.0",
+     "date": "2026-08-26T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2378",
+     "size": 123229896
+    },
+    {
+     "version": "4.30.0",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Kwit_4.30.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 101560840
+    },
+    {
+     "version": "4.27.8",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Quit Smoking for Good - Kwit\n\nTweak: Premium Unlocked\n\nVersion: 4.27.8\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/385fc4b0-9268-48fb-a8cf-2004d3673f24/Quit_smoking_for_good_-_Kwit-v4.27.8-riftysipas.ipa",
+     "size": 317672204
+    }
+   ]
+  }
+ ]
+}

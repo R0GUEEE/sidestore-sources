@@ -1,0 +1,36 @@
+{
+ "name": "Bo1ZPocket",
+ "identifier": "dev.perapp.com-soltheman-pocketlab",
+ "subtitle": "Engine experiments",
+ "description": "Single-app source for Bo1ZPocket (com.soltheman.pocketlab). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#c93b3b",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.soltheman.pocketlab.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.soltheman.pocketlab",
+   "name": "Bo1ZPocket",
+   "developerName": "soltheman",
+   "subtitle": "Engine experiments",
+   "localizedDescription": "🎯 What is this?:\n\nA port of the open-source IW4L engine to iOS. It does not contain the game: it reads the game files you already own on PC. Think of it as a new player for files you have.\n\n📊 Where it stands:\n\n• ✅ Runs natively on iPhone (Rust + Bevy + Metal).\n• ✅ Reaches the main menu. Touch works as a click and a PS4 controller works.\n• ✅ On an iPhone 17 Pro Max (6 GB granted to the app) full matches with bots run: watch the clip, by treuenten.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.soltheman.pocketlab.png",
+   "tintColor": "#c93b3b",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.46",
+     "date": "2026-10-20T02:30:31Z",
+     "localizedDescription": "Bo1ZPocket 0.3.46: download Bo1ZPocket.ipa below and install it over the app you have.\n\n• Shooting feels instant: blood shows the frame you fire, gibs and deaths land a tick sooner, and the muzzle flash no longer stops after ~120 shots.\n• Zombies die with BO1's own varied death animations, and bodies disappear a few seconds after they fall.\n• Going down no longer makes the zombie on top of you spaz out; with Quick Revive they walk off as in BO1.\n\nFull history: CHANGELOG.md.",
+     "downloadURL": "https://github.com/soltheman/pocket-lab/releases/download/v0.3.46/Bo1ZPocket.ipa",
+     "size": 54003912
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Co-op reaches the game server on your Wi-Fi network."
+    }
+   }
+  }
+ ]
+}

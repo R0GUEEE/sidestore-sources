@@ -1,0 +1,30 @@
+{
+ "name": "Spark",
+ "identifier": "dev.perapp.com-readdle-smartemail",
+ "subtitle": "Spark",
+ "description": "Single-app source for Spark (com.readdle.smartemail). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.smartemail.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.readdle.smartemail",
+   "name": "Spark",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.smartemail.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.10.8",
+     "date": "2024-12-04T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-12-2024/Spark_3.10.8_%40thisismanpreets_apptesters.org.ipa",
+     "size": 188453383
+    }
+   ]
+  }
+ ]
+}

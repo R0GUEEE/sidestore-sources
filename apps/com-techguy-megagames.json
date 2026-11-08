@@ -1,0 +1,37 @@
+{
+ "name": "MegaGames",
+ "identifier": "dev.perapp.com-techguy-megagames",
+ "subtitle": "MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to",
+ "description": "Single-app source for MegaGames (com.techguy.megagames). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/TechGuy541/MegaGames/blob/main/App/Assets.xcassets/AppIcon.appiconset/logo%201.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.techguy.megagames",
+   "name": "MegaGames",
+   "developerName": "Tech Guy",
+   "subtitle": "MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, Mega",
+   "localizedDescription": "MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, Mega",
+   "iconURL": "https://github.com/TechGuy541/MegaGames/blob/main/App/Assets.xcassets/AppIcon.appiconset/logo%201.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, Mega",
+     "downloadURL": "https://github.com/TechGuy541/MegaGames/releases/download/1.0/MegaGames.ipa",
+     "size": 35600000
+    },
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "MegaGames, the ultimate collection of fun and addictive mini-games! Whether you’re a fan of fast-paced action or want to unleash your creativity, Mega",
+     "downloadURL": "https://github.com/TechGuy541/MegaGames/releases/download/1.0/MegaGames.ipa",
+     "size": 37313356
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Star Fox Enhanced",
+ "identifier": "dev.perapp.com-starfox-enhanced",
+ "subtitle": "Star Fox Enhanced source and portable platform builds (Assisted by Codex AI)",
+ "description": "Single-app source for Star Fox Enhanced (com.starfox.enhanced). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#679944",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.starfox.enhanced.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.starfox.enhanced",
+   "name": "Star Fox Enhanced",
+   "developerName": "kandowontu2",
+   "subtitle": "Star Fox Enhanced source and portable platform builds (Assisted by Codex AI)",
+   "localizedDescription": "Star Fox Enhanced:\n\nA native C++/SDL3 port of UltraStarFox, with Original Star Fox and Star Fox EX experiences, high-frame-rate presentation, widescreen support, and optional visual enhancements using Codex AI (5.6 Sol, 6 Astra, 6 Sol).\n\nTHIS PROJECT WAS PORTED AND CODED BY AI/CODEX:\n\nAI disclosure: This project is made with AI assistance, including OpenAI Codex and AI tools used for programming, testing, documentation and some visual assets.\n\nThis is an alpha release, not a cycle-accurate SNES emulator. A supported, unmodified retail ROM supplied by you is required. No retail ROM is included.\n\nGet started:\n\n• Launch the game. On desktop, place your supported .sfc/.smc ROM beside the executable, or set STARFOX_RETAIL_ROM to its path. Mobile apps provide a first-launch file picker.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.starfox.enhanced.png",
+   "tintColor": "#679944",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.8.8.3",
+     "date": "2026-11-01T19:05:56Z",
+     "localizedDescription": "Star Fox Enhanced 0.0.8.8.3:\n\nChanges since 0.0.8.8.2. Supply your own supported retail ROM; no ROM or private game data is included. Nintendo 3DS remains paused and is not packaged.\n\nSmaller downloads and new icons:\n\n• Converted enhanced backgrounds to lossless PNG: the embedded artwork drops from about 179 MB to 61 MB with the same decoded pixels and dimensions.\n\n• Added the new Star Fox Enhanced application icon across desktop, mobile and supported console packages.\n\nIncludes the merged MODERN renderer update by CarltonCracker (PR #64):\n\n• DYNAMIC LIGHTING adds coloured weapon/explosion/bomb lights and engine glow. Ray-traced sun shadows support the landscape, models, corridors and Space Armada boss room. Dynamic lighting is optional and off by default.\n• Added optional HIGH POLY ARWINGS, including broken-wing variants, without changing simulation collision shapes or timing.\n• Added MODERN output for SBS, over-under, interlaced, anaglyph and cross-view stereo. Leia SR continues to use its existing dedicated presentation path.\n• Added MODERN build support for Android and PS5, plus a 3D Space Armada boss room, corridor/background accuracy fixes, 2D filters and level-select audio corrections. Android/PS5 device acceptance remains hardware-dependent.\n• Renamed the renderer MODERN - VERY FAST and marked settings it does not implement as GPU ONLY, rather than suggesting those settings are active.\n\nCompatibility fixes:\n\n• #32: prevented retained exterior cruisers from drawing through Space Armada's final corridor/boss room across flat and shared stereo/VR paths. Kept the source object-removal correction and preserved outdoor ships.\n• #49: added automatic host cartridge composition for Windows AMD/Radeon Vulkan while keeping GPU geometry/effects enabled. Live graphics-setting changes retire prior GPU work once before reconfiguration. This mitigates the reported driver-loss path; confirmation on the affected Radeon hardware is still needed, and this is not a claim that every AMD hang is resolved.\n• Kept enhanced ground and enhanced sky/backgrounds independent of ray tracing. Reflections and ray-traced shadows retain their own requirements.\n\nUpdates and installation:\n\n• Preserved the full 0.0.8.8.3 version in the in-game updater, including upgrades from 0.0.8.8.2. The updater selects the game package, never the optional DLSS add-on. Automatic installation remains for portable Windows x64/x86 and Linux x64; other platforms keep their existing update methods.\n\nPlatform packages are published only after the release build gates, Windows Defender package scans and checksum inventory pass. Build success is not a claim of hardware acceptance for every console, VR headset or graphics driver.",
+     "downloadURL": "https://github.com/kandowontu2/starfox-enhanced/releases/download/v0.0.8.8.3/StarFoxEnhanced-0.0.8.8.3-ios-arm64-unsigned.ipa",
+     "size": 68540810
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

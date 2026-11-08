@@ -1,0 +1,32 @@
+{
+ "name": "Suffuse3",
+ "identifier": "dev.perapp.com-firecore-infuse",
+ "subtitle": "Suffuse3 by Suffuse3 x CyPwn",
+ "description": "Single-app source for Suffuse3 (com.firecore.infuse). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Suffuse3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.firecore.infuse",
+   "name": "Suffuse3",
+   "developerName": "Suffuse3 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Infuse 7 with Pro unlocked",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Suffuse3.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Suffuse3/Suffuse3-0.png"
+   ],
+   "versions": [
+    {
+     "version": "7.5.8",
+     "date": "2023-07-12T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Suffuse3.ipa",
+     "size": 43432017
+    }
+   ]
+  }
+ ]
+}

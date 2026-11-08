@@ -1,0 +1,44 @@
+{
+ "name": "Tappy",
+ "identifier": "dev.perapp.cameronnazemi-tappy",
+ "subtitle": "Tappy",
+ "description": "Single-app source for Tappy (cameronnazemi.Tappy). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/0f47000b-7543-4238-84d8-77a331a28a5a/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "cameronnazemi.Tappy",
+   "name": "Tappy",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Tappy: Self Care Fidgeter\n\nTweak: Subscription Unlocked\n\nVersion: 4.10.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/0f47000b-7543-4238-84d8-77a331a28a5a/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6.3",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2124",
+     "size": 246937917
+    },
+    {
+     "version": "4.10.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Tappy: Self Care Fidgeter\n\nTweak: Subscription Unlocked\n\nVersion: 4.10.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/6e60bcdb-2a1e-427d-bdec-7214ba9e053b/Tappy__Self_Care_Fidgeter-v4.10.0-riftysipas.ipa",
+     "size": 211414219
+    },
+    {
+     "version": "4.8.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Tappy: Self Care Fidgeter\n\nTweak: Subscription Unlocked\n\nVersion: 4.8.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/f88e6fae-0b80-4c02-93cd-fa5db51b7342/Tappy__Self_Care_Fidgeter-v4.8.0-riftysipas.ipa",
+     "size": 211408631
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "真果鉴",
+ "identifier": "dev.perapp.com-duanju-duanjuapp",
+ "subtitle": "Injected with Nothing",
+ "description": "Single-app source for 真果鉴 (com.duanju.duanjuApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.duanju.duanjuApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.duanju.duanjuApp",
+   "name": "真果鉴",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing",
+   "localizedDescription": "Injected with Nothing\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.duanju.duanjuApp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.64+71",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/_0.2.64-71/_0.2.64+71_Nothing_@repo.owo.network.ipa",
+     "size": 30436576
+    },
+    {
+     "version": "0.2.64",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/_0.2.64-71/_0.2.64+71_Nothing_@repo.owo.network.ipa",
+     "size": 30436576
+    }
+   ]
+  }
+ ]
+}

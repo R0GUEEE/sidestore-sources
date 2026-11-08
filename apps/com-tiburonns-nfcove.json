@@ -1,0 +1,34 @@
+{
+ "name": "NFCove",
+ "identifier": "dev.perapp.com-tiburonns-nfcove",
+ "subtitle": "Read. Build. Automate",
+ "description": "Single-app source for NFCove (com.tiburonns.NFCove). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1977bc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tiburonns.NFCove.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tiburonns.NFCove",
+   "name": "NFCove",
+   "developerName": "tiburonns",
+   "subtitle": "Read. Build. Automate",
+   "localizedDescription": "NFCove:\n\nRead. Build. Automate.\n\nNFCove is a native NFC utility for iPhone focused on a reliable NDEF workflow: read, inspect, save, create, write, and verify compatible NFC tags.\n\nDocumentation: English · Español.\n\nCurrent development version: 0.4.0 (build 8). Tagged releases are produced from the same tested IPA pipeline used by CI.\n\nCurrent foundation:\n\n• Native SwiftUI interface.\n• Core NFC NDEF reader using the current TAG NFC entitlement.\n• NDEF writer for Text, URL, Email, Phone, SMS, and Location records.\n• Human-readable payload parser.\n• Scan results can be saved as reusable library entries with the original NDEF TNF, type, identifier, payload, and record order when available.\n• Local library stored atomically in Application Support, with migration from the earlier preferences-backed format.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tiburonns.NFCove.png",
+   "tintColor": "#1977bc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.0",
+     "date": "2026-10-15T06:13:27Z",
+     "localizedDescription": "• Add in-app feedback and suggestions.",
+     "downloadURL": "https://github.com/tiburonns/NFCove/releases/download/altstore-0.4.0-8-3/NFCove-unsigned.ipa",
+     "size": 1617223
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

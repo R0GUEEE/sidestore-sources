@@ -1,0 +1,30 @@
+{
+ "name": "Yacine IPTV Player",
+ "identifier": "dev.perapp.com-yacine-yacineegybestiptv",
+ "subtitle": "ipaomtk.com | Yacine Player TV M3U IPTV IPA is a powerful and versatile multimedia application designed for iOS devices.",
+ "description": "Single-app source for Yacine IPTV Player (com.yacine.YacineEgybestIPTV). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Yacine-Player-TV-M3U-IPTV-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yacine.YacineEgybestIPTV",
+   "name": "Yacine IPTV Player",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Yacine Player TV M3U IPTV IPA is a powerful and versatile multimedia application designed for iOS devices. It allows you to stream live ",
+   "localizedDescription": "ipaomtk.com | Yacine Player TV M3U IPTV IPA is a powerful and versatile multimedia application designed for iOS devices. It allows you to stream live ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Yacine-Player-TV-M3U-IPTV-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2024-10-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Yacine Player TV M3U IPTV IPA is a powerful and versatile multimedia application designed for iOS devices. It allows you to stream live ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Yacine-IPTV-Player_ipaomtk.com-1.1.1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

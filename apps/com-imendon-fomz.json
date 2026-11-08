@@ -1,0 +1,30 @@
+{
+ "name": "Fomz",
+ "identifier": "dev.perapp.com-imendon-fomz",
+ "subtitle": "ipaomtk.com | Fomz IPA, a vintage analog camera app ⁣designed to capture the essence of yesteryear, allowing users to im",
+ "description": "Single-app source for Fomz (com.imendon.fomz). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Fomz-8211-Vintage-Analog-Camera-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.imendon.fomz",
+   "name": "Fomz",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Fomz IPA, a vintage analog camera app ⁣designed to capture the essence of yesteryear, allowing users to immerse themselves ⁤in ⁢the ‌cha",
+   "localizedDescription": "ipaomtk.com | Fomz IPA, a vintage analog camera app ⁣designed to capture the essence of yesteryear, allowing users to immerse themselves ⁤in ⁢the ‌cha",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Fomz-8211-Vintage-Analog-Camera-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.7",
+     "date": "2025-04-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Fomz IPA, a vintage analog camera app ⁣designed to capture the essence of yesteryear, allowing users to immerse themselves ⁤in ⁢the ‌cha",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Fomz-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

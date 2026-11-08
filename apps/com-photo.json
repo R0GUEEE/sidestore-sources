@@ -1,0 +1,37 @@
+{
+ "name": "Photo Lab",
+ "identifier": "dev.perapp.com-photo",
+ "subtitle": "@ipa_dark | 🔄 ИИ фото редактор Photo Lab - appstore  🇷🇺 Фоторедактор с инструментами искусственного интеллекта для обраб",
+ "description": "Single-app source for Photo Lab (com.photo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1614.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.photo",
+   "name": "Photo Lab",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 ИИ фото редактор Photo Lab - appstore  🇷🇺 Фоторедактор с инструментами искусственного интеллекта для обработки изображений, создания худ",
+   "localizedDescription": "@ipa_dark | 🔄 ИИ фото редактор Photo Lab - appstore  🇷🇺 Фоторедактор с инструментами искусственного интеллекта для обработки изображений, создания худ",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1614.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.12.121",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 ИИ фото редактор Photo Lab - appstore  🇷🇺 Фоторедактор с инструментами искусственного интеллекта для обработки изображений, создания худ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1614-Photo%20Lab%20VIP%20%5Bv3.12.121%5D%28tg@ipa_dark%29.ipa",
+     "size": 114742964
+    },
+    {
+     "version": "3.12.68",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Photo Lab Pro IPA Download For iOS Photo Lab Pro IPA is a stunning photo editor that provides you with a comprehensive range of creative",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Photo-Lab.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

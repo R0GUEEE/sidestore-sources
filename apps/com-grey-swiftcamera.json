@@ -1,0 +1,44 @@
+{
+ "name": "NoFusion",
+ "identifier": "dev.perapp.com-grey-swiftcamera",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for NoFusion (com.grey.swiftcamera). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.grey.swiftcamera",
+   "name": "NoFusion",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.61",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@blatants | No Fusion-Powerful Pro Cam  • Bundle ID: com.grey.swiftcamera • Updated to: 2.5.61 • Minimum iOS: 16.6 • Patched • Modifier: Pro Unlocked ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/NoFusion_2.5.61_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 117431260
+    },
+    {
+     "version": "2.5.60",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@blatants | No Fusion-Powerful Pro Cam  • Bundle ID: com.grey.swiftcamera • Updated to: 2.5.60 • Minimum iOS: 16.6 • Patched • Modifier: Pro Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12911-No_Fusion_Powerful_Pro_Cam_v2_5_60_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 116871605
+    },
+    {
+     "version": "2.5.59",
+     "date": "2026-10-04T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/NoFusion_2.5.59_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 128739094
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Balls?",
+ "identifier": "dev.perapp.com-tdmbest-balls",
+ "subtitle": "Balls?",
+ "description": "Single-app source for Balls? (com.TDMbest.balls). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/88dc81f6-9c4b-47c8-a56f-9b1371cbe888/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TDMbest.balls",
+   "name": "Balls?",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nBalls? by dani Ported to iOS!\n(Reupload for zx repo)\n- Only port of this game to IOS. \nAlso my first unity port took me like what since august I thought unity was light work to learn",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/88dc81f6-9c4b-47c8-a56f-9b1371cbe888/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.13",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nBalls? by dani Ported to iOS!\n(Reupload for zx repo)\n- Only port of this game to IOS. \nAlso my first unity port took me like what since august I thought unity was light work to learn",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/83e41b59-0215-40f2-817d-bc8183e9df69/Balls_-TDMbest.ipa",
+     "size": 27483272
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "FastingPremium",
+ "identifier": "dev.perapp.com-leapfitness-fasting",
+ "subtitle": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits Last updated: 08-12-2024 Statu",
+ "description": "Single-app source for FastingPremium (com.leapfitness.fasting). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leapfitness.fasting.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leapfitness.fasting",
+   "name": "FastingPremium",
+   "developerName": "Paisseon / iApps",
+   "subtitle": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits Last updated: 08-12-2024 Status: ✅ ⭐",
+   "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits Last updated: 08-12-2024 Status: ✅ ⭐",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.leapfitness.fasting.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.6",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits Last updated: 08-12-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FastingPremium/FastingPremium-1.7.6.ipa",
+     "size": 258779592
+    },
+    {
+     "version": "1.7.5",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits Last updated: 08-12-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FastingPremium/FastingPremium-1.7.5.ipa",
+     "size": 258741608
+    },
+    {
+     "version": "1.7.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Intuitive fasting tracking app to guide you to a self-determined life with healthy habits Last updated: 08-12-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FastingPremium/FastingPremium-1.7.1.ipa",
+     "size": 258561188
+    }
+   ]
+  }
+ ]
+}

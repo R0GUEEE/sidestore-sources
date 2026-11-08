@@ -1,0 +1,44 @@
+{
+ "name": "Streamer",
+ "identifier": "dev.perapp.com-streamer-ios",
+ "subtitle": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for strea",
+ "description": "Single-app source for Streamer (com.streamer.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.streamer.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.streamer.ios",
+   "name": "Streamer",
+   "developerName": "StreamerApp",
+   "subtitle": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast ",
+   "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast ",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.streamer.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.34",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast ",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Streamer/Streamer-1.2.34.ipa",
+     "size": 36489010
+    },
+    {
+     "version": "1.2.41",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast ",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Streamer/Streamer-1.2.41.ipa",
+     "size": 35381345
+    },
+    {
+     "version": "1.2.40",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "The app for iOS and tvOS allows you to stream movies and TV shows from various sources. It supports Chromecast for streaming to FireTV and Chromecast ",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Streamer/Streamer-1.2.40.ipa",
+     "size": 38036090
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Celeste + Virtual Controller",
+ "identifier": "dev.perapp.gay-rooot-celestemeowvc",
+ "subtitle": "Celeste iOS - hacky ios port of celeste",
+ "description": "Single-app source for Celeste + Virtual Controller (gay.rooot.celestemeowvc). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "b192ce",
+ "iconURL": "https://cdn.omnidev.org/celeste-f4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "gay.rooot.celestemeowvc",
+   "name": "Celeste + Virtual Controller",
+   "developerName": "RoootTheFox, Maddy Makes Games Inc., Extremely OK Games, Ltd.",
+   "subtitle": "Celeste iOS - hacky ios port of celeste",
+   "localizedDescription": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/celeste-f4.png",
+   "tintColor": "b192ce",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-10-29T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/Celeste_VC-Tp.ipa",
+     "size": 883716096
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "AeroStore",
+ "identifier": "dev.perapp.com-aero-aerostore-s32z3hmyvq",
+ "subtitle": "AeroStore is a fork of SideStore - but with JIT on local device",
+ "description": "Single-app source for AeroStore (com.aero.aerostore.S32Z3HMYVQ). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2478fc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aero.aerostore.S32Z3HMYVQ.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aero.aerostore.S32Z3HMYVQ",
+   "name": "AeroStore",
+   "developerName": "Leviidev",
+   "subtitle": "AeroStore is a fork of SideStore - but with JIT on local device",
+   "localizedDescription": "AeroStore:\n\nA community-driven alternative app store for iOS. Sideload, manage, and refresh apps on your device — no jailbreak required.\n\nPairing File:\n\nOn first launch, AeroStore needs a pairing file to communicate with your device for installing and refreshing apps.\n\nGetting a pairing file:\n\n• AltServer — Connect your device to a computer running AltServer; the pairing file is generated automatically.\n• MobileDevicePairing — Use tools like idevicepair to generate one.\n• iLoader — Can fetch and import a pairing file directly on-device.\n• SideStore — If you already have SideStore set up, it can export its pairing file.\n\nYou can also tap Browse without pairing to explore available sources — add the pairing file later in Settings when you're ready to install or refresh.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aero.aerostore.S32Z3HMYVQ.png",
+   "tintColor": "#2478fc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.5",
+     "date": "2026-07-25T21:34:46Z",
+     "localizedDescription": "App Refresh & Install (AFC):\n\n• Fixed: AFC directory creation failure — A path parsing bug caused the staging folder on-device to never be created correctly, causing all IPA transfers to fail.\n• Improved: AFC error message — The \"AFC was unable to manage files\" error now includes a clear explanation and actionable steps instead of a cryptic one-liner.\n\n• Fixed: RPPairing support — Apps can now be fully installed and refreshed using the new RPPairing format required by iOS 26 and later.\n\nDevice Discovery & VPN:\n\n• Fixed: VPN peer IP discovery — AeroStore now reads the device IP directly from the kernel (ifa_dstaddr on the utun interface) instead of guessing via subnet math. This fixes device discovery for LocalDevVPN, IKEv2, and WireGuard on all iOS versions.\n• Fixed: TunnelConfig binding — VPN configuration settings (override IP, fake IP) were being ignored and replaced with hardcoded values. Now your actual settings are used.\n• Fixed: Pre-existing VPN tunnels not recognized — If LocalDevVPN was already active before AeroStore launched, it would not be detected. AeroStore now retargets the muxer address at startup to pick up already-active tunnels.\n• Fixed: Default VPN IP — The default override IP is now correctly set to 10.7.0.1 for all iOS versions (was incorrectly set to 192.168.1.50 on iOS 17.4+).\n\nUDID & Signing:\n\n• Fixed: \"Could not determine device UUID\" — fetchUDID() now falls back to reading the UDID from Info.plist if the minimuxer engine returns nil, preventing spurious \"unknown UDID\" errors during refresh.\n\nJIT (Just-In-Time Compilation):\n\n• New: JIT tab — JIT is now a first-class tab in the main tab bar (⚡️), no longer hidden as a button inside My Apps.\n• Fixed: JIT crash on launch — Pressing the JIT button would crash the app with \"Device mount check (Rust isMounted / isPairing)\". This was caused by StikJIT looking for its pairing file in a different location than where AeroStore stores it. AeroStore now syncs the pairing file to StikJIT's expected path at startup.\n\n🔧 Other Improvements:\n\n• Fixed: Crash recovery loop on IPA install — Fixed an infinite crash loop triggered by database corruption during app installation.\n• Fixed: UI rendering artifacts — Removed broken custom tab bar background code that caused black/white boxes to appear in the tab bar on certain devices.\n• Version: 1.1.5.",
+     "downloadURL": "https://github.com/Leviidev/AeroStore/releases/download/v1.1.5/AeroStore.ipa",
+     "size": 36086078
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.security.application-groups",
+     "com.apple.security.network.client",
+     "com.apple.security.network.server"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "aerostore uses the local network to find and communicate with your device.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "aerostore uses location sparingly in the background to help keep the on-device JIT tunnel alive while you debug apps.",
+     "NSLocationWhenInUseUsageDescription": "aerostore uses location to keep the JIT debugging session active when the app is in use."
+    }
+   }
+  }
+ ]
+}

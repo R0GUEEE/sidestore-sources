@@ -1,0 +1,46 @@
+{
+ "name": "Theta_1.5",
+ "identifier": "dev.perapp.com-burbn-instagram",
+ "subtitle": "Theta_1.5 by Theta_1.5 x CyPwn",
+ "description": "Single-app source for Theta_1.5 (com.burbn.instagram). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Theta_1.5.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.burbn.instagram",
+   "name": "Theta_1.5",
+   "developerName": "Theta_1.5 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Instagram tweak by objc_msgSend",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Theta_1.5.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Theta_1.5/Theta_1.5-0.png"
+   ],
+   "versions": [
+    {
+     "version": "380.0.0",
+     "date": "2025-05-18T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Theta_1.5.ipa",
+     "size": 234807623
+    },
+    {
+     "version": "370.0.0",
+     "date": "2025-03-11T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Theta_1_4.ipa",
+     "size": 206181498
+    },
+    {
+     "version": "351.0.1",
+     "date": "2024-10-03T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Regram_1.0-b10_351.0.1.ipa",
+     "size": 174011187
+    }
+   ]
+  }
+ ]
+}

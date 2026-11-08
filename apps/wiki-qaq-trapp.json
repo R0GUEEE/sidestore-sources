@@ -1,0 +1,44 @@
+{
+ "name": "TRApp",
+ "identifier": "dev.perapp.wiki-qaq-trapp",
+ "subtitle": "TRApp by Neoncat-OG IPA Library",
+ "description": "Single-app source for TRApp (wiki.qaq.trapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "wiki.qaq.trapp",
+   "name": "TRApp",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/wiki.qaq.trapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7-422.",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/TRApp-2.7-422.tipa",
+     "size": 4877044
+    },
+    {
+     "version": "1.9.8-236",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5€ license.",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollRecorder/TrollRecorder-1.9.8-236.ipa",
+     "size": 3356655
+    },
+    {
+     "version": "1.9.3-166",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Advanced audio recorder with TrollStore. Basic features are available at no cost, advanced features can be unlocked with the purchase of a 5€ license.",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollRecorder/TrollRecorder-1.9.3-166.ipa",
+     "size": 3237518
+    }
+   ]
+  }
+ ]
+}

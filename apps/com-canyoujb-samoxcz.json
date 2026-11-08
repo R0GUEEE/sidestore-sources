@@ -1,0 +1,30 @@
+{
+ "name": "CanYouJB",
+ "identifier": "dev.perapp.com-canyoujb-samoxcz",
+ "subtitle": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is. Last updated: 03-26-",
+ "description": "Single-app source for CanYouJB (com.CanYouJB.SamoXcZ). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.CanYouJB.SamoXcZ.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.CanYouJB.SamoXcZ",
+   "name": "CanYouJB",
+   "developerName": "SamoXcZ",
+   "subtitle": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is. Last updated: 03-26-2024 Status: ✅",
+   "localizedDescription": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is. Last updated: 03-26-2024 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.CanYouJB.SamoXcZ.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "A straightforward Jailbreak Detector. Supports iOS 15.0 to 17.0. A user requested it so here it is. Last updated: 03-26-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CanYouJB/CanYouJB-3.0.ipa",
+     "size": 394796
+    }
+   ]
+  }
+ ]
+}

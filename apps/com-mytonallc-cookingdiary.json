@@ -1,0 +1,44 @@
+{
+ "name": "CookingDiary",
+ "identifier": "dev.perapp.com-mytonallc-cookingdiary",
+ "subtitle": "@ipa_dark | 🔄 Cooking Diary - appstore  🇷🇺 Казуальный симулятор ресторана, где нужно готовить блюда, обслуживать посетит",
+ "description": "Single-app source for CookingDiary (com.mytonallc.cookingdiary). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1634.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mytonallc.cookingdiary",
+   "name": "CookingDiary",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Cooking Diary - appstore  🇷🇺 Казуальный симулятор ресторана, где нужно готовить блюда, обслуживать посетителей, улучшать кухонное оборуд",
+   "localizedDescription": "@ipa_dark | 🔄 Cooking Diary - appstore  🇷🇺 Казуальный симулятор ресторана, где нужно готовить блюда, обслуживать посетителей, улучшать кухонное оборуд",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1634.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.59.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Cooking Diary - appstore  🇷🇺 Казуальный симулятор ресторана, где нужно готовить блюда, обслуживать посетителей, улучшать кухонное оборуд",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1856-CookingDiary%20%5Bv2.59.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 520160821
+    },
+    {
+     "version": "2.58.2",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Cooking Diary - appstore  🇷🇺 Казуальный симулятор ресторана, где нужно готовить блюда, обслуживать посетителей, улучшать кухонное оборуд",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1853-CookingDiary%20%5Bv2.58.2%5D%28tg@ipa_dark%29.ipa",
+     "size": 481113925
+    },
+    {
+     "version": "2.58.1",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Cooking Diary - appstore  🇷🇺 Казуальный симулятор ресторана, где нужно готовить блюда, обслуживать посетителей, улучшать кухонное оборуд",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1825-CookingDiary%20%5Bv2.58.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 480877491
+    }
+   ]
+  }
+ ]
+}

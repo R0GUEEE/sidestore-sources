@@ -1,0 +1,43 @@
+{
+ "name": "Ozen",
+ "identifier": "dev.perapp.com-arbelonson-ozen-ozen",
+ "subtitle": "Free, open-source live captions for people who are deaf or hard of hearing, on iPhone, iPad and Android. Runs on the pho",
+ "description": "Single-app source for Ozen (com.arbelonson.ozen.Ozen). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#527d37",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.arbelonson.ozen.Ozen.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.arbelonson.ozen.Ozen",
+   "name": "Ozen",
+   "developerName": "arbelonson-source",
+   "subtitle": "Free, open-source live captions for people who are deaf or hard of hearing, on iPhone, iPad and Android. Runs on the phone, in Hebrew, English and 10 more languages",
+   "localizedDescription": "Ozen (the word means \"ear\") turns what the people around you say into large, steady captions on your phone, as they speak. It was built for one grandmother with hearing loss, who found every existing transcription app either unreliable with external microphones or too shallow to trust.\n\n• Captions that hold still. Words settle in place instead of jumping around, and a name shows who is talking.\n• Private by design. No account and no company server: nothing leaves the phone unless you choose to send it.\n• Alerts she won't miss. The doorbell, a smoke alarm or her own name makes the phone buzz, even in a pocket; alarms flash the whole screen.\n• Talk back. Type a reply and the phone says it out loud, or shows it in huge letters.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.arbelonson.ozen.Ozen.png",
+   "tintColor": "#527d37",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/arbelonson-source/ozen@master/docs/gallery/captions.png",
+    "https://cdn.jsdelivr.net/gh/arbelonson-source/ozen@master/docs/gallery/captions-light.png",
+    "https://cdn.jsdelivr.net/gh/arbelonson-source/ozen@master/docs/gallery/settings.png",
+    "https://cdn.jsdelivr.net/gh/arbelonson-source/ozen@master/docs/gallery/history.png"
+   ],
+   "versions": [
+    {
+     "version": "0.3.127",
+     "date": "2026-11-06T19:56:16Z",
+     "localizedDescription": "Ozen.ipa is the iPhone and iPad app: an unsigned device build for sideloading (Impactor, SideStore or AltStore re-sign it with your own Apple ID; it won't install any other way). Ozen.apk is the Android app, for Android 8 or later: open it on the phone and allow installing from that source when asked. Built from commit 14a03e0128243a2083da2d233343630dd6e67d48; Settings shows 127 in brackets after the version on the iPhone, and 0.3.127 as the version on Android.\n\nChanges since build 126:\n\n• Both phones: the quoted model name is isolated in its Hebrew sentence.\n• Both phones: Hebrew sentences name a speech model as \"the model\" plus its name in quotes.\n• Both phones: a word the model was unsure of stays marked after a word fix.\n• Both phones: a word fix in Latin letters after a Hebrew prefix takes a maqaf.\n• iPhone: a word fix longer than 40 letters cannot be added in Settings.\n• Android: Settings device tests pick the word box and the dialog's Delete exactly.\n• Android: Settings device tests pick the word box and the dialog's Delete exactly.\n• Android: the Wi-Fi-wait card test keeps the running model on the phone.\n• Android: the Wi-Fi-wait card test keeps the running model on the phone.\n• iPhone: at 100 word fixes, a fix for a word already listed can still replace it.\n• iPhone: speech-model names in the app's language.\n• Android: the lighter-model card's Wi-Fi wait in the new Hebrew wording.\n• iPhone: Test this phone keeps only the timing of the model now chosen.\n• Both phones: natural Hebrew throughout.\n• Android: fixing a word in History uses the latest text, says when it failed, and keeps queued fixes.\n• Android: word fixes handle Hebrew marks, combining marks, rare Han, phrases and the fix limit.\n• Android: lighter-model offer rejects a too-slow fallback, waits visibly, rechecks on return.\n• Version 0.3.0.\n\n• Android: the dark/light device test samples empty background.\n• Android: the fix-a-word device tests use the new dialog.\n• Android: the lighter-model card test reads the size with the no-break space the app writes.\n• Translations: drop four keys no screen uses after both word-fix changes.\n• Android: show the lighter-model offer whenever captions are stopped, and judge it only on counted passes.\n• iPhone: save the fit timing on the stop action, not the walkthrough exit.\n• iPhone: show the lighter-model offer whenever captions are stopped, and judge it only on cool passes.\n• Android: word fixes keep up with the iPhone ones.\n• iPhone: fix two word-fix tests (case-only fix, clock-dependent line).\n• iPhone: do not offer a lighter model the person already put away.\n• iPhone: word fixes keep up with late text, Chinese, long entries and failed saves.\n• iPhone: word fixes only on finished lines, stricter fix list, History fix always saved.\n• Android: word fixes only on finished lines, stricter fix list, safer saves.\n• Android: a model chosen by hand against the warning is never offered a swap.\n• Android: offer a lighter speech model when the running one falls behind in use.\n• Android: a hand-fixed word changes the shown line itself.\n• iPhone: offer a lighter speech model when captions keep running late.\n• iPhone: fix a wrong word on the spot, and keep word fixes.\n• Android: make the picker scroll-reach test check the language really chosen.\n• Android: keep Translations.json formatting, add only the new keys.\n• Android: word fixes (always write a heard word the way you set).\n• Android: make the recording language picker finger-sized and scrollable.",
+     "downloadURL": "https://github.com/arbelonson-source/ozen/releases/download/v0.3.127/Ozen.ipa",
+     "size": 18640504
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Ozen can send the microphone to your own computer at home, which captions faster than the phone.",
+     "NSMicrophoneUsageDescription": "Ozen needs the microphone to caption conversation live.",
+     "NSSpeechRecognitionUsageDescription": "Ozen uses Apple’s speech recognition to caption conversation live. It stays on the phone unless you turn on “Allow processing on Apple’s servers” in Ozen’s settings."
+    }
+   }
+  }
+ ]
+}

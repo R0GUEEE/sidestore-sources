@@ -1,0 +1,30 @@
+{
+ "name": "Galaxiga",
+ "identifier": "dev.perapp.com-unknown-galaxiga",
+ "subtitle": "Hacke Future",
+ "description": "Single-app source for Galaxiga (com.unknown.galaxiga). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/Galaxiga.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.galaxiga",
+   "name": "Galaxiga",
+   "developerName": "Karbin-Store",
+   "subtitle": "Hacke Future",
+   "localizedDescription": "Hacke Future",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/Galaxiga.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.20",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Hacke Future",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-spa-1/Galaxiga_25.20_DEV.ipa",
+     "size": 212990000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "iPGMail",
+ "identifier": "dev.perapp.com-theingersolls-ipgmail",
+ "subtitle": "ipaomtk.com | In an age where digital communication reigns supreme, teh need for secure messaging has never been more cr",
+ "description": "Single-app source for iPGMail (com.theingersolls.ipgmail). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/iPGMail-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.theingersolls.ipgmail",
+   "name": "iPGMail",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | In an age where digital communication reigns supreme, teh need for secure messaging has never been more critical. For iOS users seeking ",
+   "localizedDescription": "ipaomtk.com | In an age where digital communication reigns supreme, teh need for secure messaging has never been more critical. For iOS users seeking ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/iPGMail-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.19.1",
+     "date": "2025-02-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | In an age where digital communication reigns supreme, teh need for secure messaging has never been more critical. For iOS users seeking ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iPGMail-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

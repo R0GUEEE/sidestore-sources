@@ -1,0 +1,30 @@
+{
+ "name": "HunterAssassin",
+ "identifier": "dev.perapp.com-rubygames-assassin",
+ "subtitle": "Tweaks: NetworkBlocker",
+ "description": "Single-app source for HunterAssassin (com.rubygames.assassin). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rubygames.assassin.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rubygames.assassin",
+   "name": "HunterAssassin",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: NetworkBlocker",
+   "localizedDescription": "Tweaks: NetworkBlocker\n\nChức năng đã thêm: noads - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rubygames.assassin.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.033",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: NetworkBlocker\n\nChức năng đã thêm: noads - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/HunterAssassin_2.033_noads_@thisismanpreets_apptesters.org.ipa",
+     "size": 139054599
+    }
+   ]
+  }
+ ]
+}

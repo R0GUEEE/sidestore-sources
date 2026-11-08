@@ -1,0 +1,30 @@
+{
+ "name": "TABS Pocket Edition (paid app)",
+ "identifier": "dev.perapp.com-landfall-tabspocketedition",
+ "subtitle": "TABS Pocket Edition (paid app) by sidelix",
+ "description": "Single-app source for TABS Pocket Edition (paid app) (com.landfall.tabspocketedition). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a34557c881d2.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.landfall.tabspocketedition",
+   "name": "TABS Pocket Edition (paid app)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Be the leader of red and blue wobblers from ancient lands, spooky places and fantasy worlds. Watch them fight in simulations made with the wobbliest physics system ever created. \r\n\r\nWhen you grow tired of the 100+ wobblers at your disposal you can make new ones in the unit creator.\r\n\r\nYou can also send your wobblers to fight your friends or strangers in online multiplayer!\r\n\r\nFeatures:\r\n\r\n    -Campaigns\r\n    -Multiplayer\r\n    -Sandbox mode\r\n    -Unit Possession\r\n    -A bunch of silly units",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a34557c881d2.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.06",
+     "date": "2026-06-18T00:00:00Z",
+     "localizedDescription": "Be the leader of red and blue wobblers from ancient lands, spooky places and fantasy worlds. Watch them fight in simulations made with the wobbliest physics system ever created. \r\n\r\nWhen you grow tired of the 100+ wobblers at your disposal you can make new ones in the unit creator.\r\n\r\nYou can also send your wobblers to fight your friends or strangers in online multiplayer!\r\n\r\nFeatures:\r\n\r\n    -Campaigns\r\n    -Multiplayer\r\n    -Sandbox mode\r\n    -Unit Possession\r\n    -A bunch of silly units",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2079",
+     "size": 1009350374
+    }
+   ]
+  }
+ ]
+}

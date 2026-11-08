@@ -1,0 +1,44 @@
+{
+ "name": "CollaNote",
+ "identifier": "dev.perapp.net-quochuywdm-collanote496",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for CollaNote (net.quochuywdm.collanote496). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.quochuywdm.collanote496",
+   "name": "CollaNote",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.1",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@blatants | CollaNote: Notes & PDF Markup  • Bundle ID: net.quochuywdm.collanote496 • Updated to: 5.1.1 • Minimum iOS: 18.6 • Patched • Modifier: Pro ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/CollaNote_5.1.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 146511522
+    },
+    {
+     "version": "5.1.0",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@blatants | CollaNote: Notes & PDF Markup  • Bundle ID: net.quochuywdm.collanote496 • Updated to: 5.1.0 • Minimum iOS: 18.6 • Patched • Modifier: Pro ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/CollaNote_5.1.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 143712119
+    },
+    {
+     "version": "5.0.9",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/CollaNote_5.0.9_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 143364360
+    }
+   ]
+  }
+ ]
+}

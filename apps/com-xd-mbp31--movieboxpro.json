@@ -1,0 +1,44 @@
+{
+ "name": "MovieBoxPro",
+ "identifier": "dev.perapp.com-xd-mbp31",
+ "subtitle": "MovieBoxPro by AppDB / DPixel / IPA Fire",
+ "description": "Single-app source for MovieBoxPro (com.xd.mbp31). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.xd.mbp31",
+   "name": "MovieBoxPro",
+   "developerName": "AppDB / DPixel / IPA Fire",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.8",
+     "date": "2026-07-29T00:00:00Z",
+     "localizedDescription": "Watch free movies from anywhere - you require an invite code we do giveaways stay tuned by checking https://nabzclan.vip/raffles/",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/330",
+     "size": 50991729
+    },
+    {
+     "version": "13.3",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MovieBoxPro/MovieBoxPro-13.3.ipa",
+     "size": 36150824
+    },
+    {
+     "version": "12.5",
+     "date": "2023-05-24T00:00:00Z",
+     "localizedDescription": "MovieBoxPro, without ads\nLast updated: 01-20-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-24-2023/MovieBoxPro-12.5.ipa",
+     "size": 139758301
+    }
+   ]
+  }
+ ]
+}

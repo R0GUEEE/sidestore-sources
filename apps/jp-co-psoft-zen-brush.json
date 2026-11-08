@@ -1,0 +1,30 @@
+{
+ "name": "Zen Brush",
+ "identifier": "dev.perapp.jp-co-psoft-zen-brush",
+ "subtitle": "Zen Brush",
+ "description": "Single-app source for Zen Brush (jp.co.psoft.Zen-Brush). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.co.psoft.Zen-Brush",
+   "name": "Zen Brush",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nZen Brush v1.38  \n\n🇷🇺 Приложение для рисования в японском стиле, позволяющее создавать уникальные художественные работы.  \n— Платное приложение из AppStore  \n© Создано: GLESign\n\n🇺🇸 A drawing app in Japanese style, allowing you to create unique artistic works.  \n— Paid app from AppStore  \n© Created: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.38",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nZen Brush v1.38  \n\n🇷🇺 Приложение для рисования в японском стиле, позволяющее создавать уникальные художественные работы.  \n— Платное приложение из AppStore  \n© Создано: GLESign\n\n🇺🇸 A drawing app in Japanese style, allowing you to create unique artistic works.  \n— Paid app from AppStore  \n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/fbf68668-45c6-45bf-871c-547adf2b39f1/Zen_Brush_v1.38_tg_glesign_.ipa",
+     "size": 42664255
+    }
+   ]
+  }
+ ]
+}

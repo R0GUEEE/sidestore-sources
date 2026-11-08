@@ -1,0 +1,42 @@
+{
+ "name": "LANreader",
+ "identifier": "dev.perapp.com-jif-lanreader-3",
+ "subtitle": "LANreader is an iOS manga reader for LANraragi",
+ "description": "Single-app source for LANreader (com.jif.LANreader.3). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#79a9ca",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jif.LANreader.3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jif.LANreader.3",
+   "name": "LANreader",
+   "developerName": "Doraemoe",
+   "subtitle": "LANreader is an iOS manga reader for LANraragi",
+   "localizedDescription": "LANreader:\n\nLANreader is an iOS/macOS(Apple silicon) manga reader for LANraragi.\n\nThe AppStore version is a paid app. You can still follow Test on your device section to install it on your device for free.\n\nDeep links:\n\nOther apps and shortcuts can open LANreader with links in the form lanreader://?=. Percent-encode every value.\n\nArchive IDs come from the LANraragi server LANreader is connected to.\n\nAltStore:\n\n• Use AltStore Classic to install on your device.\n\nSource Code:\n\n• Clone this project.\n• Open it in Xcode.\n\nUse the repository commands so local development and Continuous Integration (CI) exercise the same checks:\n\n• ./scripts/verify-changes selects the quickest safe verification tier for the current diff.\n• ./scripts/verify runs repository validation, strict SwiftLint, and the complete iOS test suite.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jif.LANreader.3.png",
+   "tintColor": "#79a9ca",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/e2a77035-e221-4f6c-8331-769ec88fc467",
+    "https://github.com/user-attachments/assets/bb114a8b-8e1f-4afe-807f-e148c5d2fe07",
+    "https://github.com/user-attachments/assets/024223ab-b9d3-4dab-885e-6f17c277f191",
+    "https://github.com/user-attachments/assets/fa027b1a-9569-4f3d-8466-388e155ba809",
+    "https://github.com/user-attachments/assets/a15492ab-2103-4e30-a44e-7d7c73b0ab46"
+   ],
+   "versions": [
+    {
+     "version": "3.11.7",
+     "date": "2026-11-06T21:53:43Z",
+     "localizedDescription": "• Drop the image end-marker check and fix a flaky reader test.\n• Remove dead code.\n• Keep finished upload jobs for a day and refresh jobs before expiring them.\n\n• Clear unused tables once and merge page image fallback.\n• Reorganize AGENTS.md and add a code review section.\n• Keep the reader page on layout changes and fit search suggestions to the safe area.\n• Add automatic reader page layout.\n• Show automatic spreads only when they fill more of the reader.",
+     "downloadURL": "https://github.com/Doraemoe/LANreader/releases/download/3.11.7-273/LANreader.ipa",
+     "size": 12066757
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "We need to unlock your App"
+    }
+   }
+  }
+ ]
+}

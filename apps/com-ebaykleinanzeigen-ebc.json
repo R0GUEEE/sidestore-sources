@@ -1,0 +1,30 @@
+{
+ "name": "KleinanzeigenPlus",
+ "identifier": "dev.perapp.com-ebaykleinanzeigen-ebc",
+ "subtitle": "Tweaks: Adblock, KleinanzeigenShareURLonly",
+ "description": "Single-app source for KleinanzeigenPlus (com.ebaykleinanzeigen.ebc). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ebaykleinanzeigen.ebc.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ebaykleinanzeigen.ebc",
+   "name": "KleinanzeigenPlus",
+   "developerName": "binnichtaktiv's iPA Library / jkhsjdhjs",
+   "subtitle": "Tweaks: Adblock, KleinanzeigenShareURLonly",
+   "localizedDescription": "Tweaks: Adblock, KleinanzeigenShareURLonly\n\nApp to buy and sell on Germany's No. 1 online marketplace. A user requested it so here it is. Note: It is injected with an Adblocker and a second tweak to remove any text or unnecessary URL query parameters when sharing items.\nLast updated: 08-10-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ebaykleinanzeigen.ebc.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "100.16.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tweaks: Adblock, KleinanzeigenShareURLonly\n\nApp to buy and sell on Germany's No. 1 online marketplace. A user requested it so here it is. Note: It is injected with an Adblocker and a second…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/KleinanzeigenPlus/KleinanzeigenPlus-100.16.0.ipa",
+     "size": 178228936
+    }
+   ]
+  }
+ ]
+}

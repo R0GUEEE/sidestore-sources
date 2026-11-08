@@ -1,0 +1,37 @@
+{
+ "name": "Five Nights at Freddy's: Sister Location",
+ "identifier": "dev.perapp.com-scottgames-sisterlocation",
+ "subtitle": "Five Nights at Freddy's: Sister Location - Point and click surivival horror",
+ "description": "Single-app source for Five Nights at Freddy's: Sister Location (com.scottgames.sisterlocation). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "545bf8",
+ "iconURL": "https://cdn.omnidev.org/sisterlocation-YQ.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scottgames.sisterlocation",
+   "name": "Five Nights at Freddy's: Sister Location",
+   "developerName": "Scott Games & Clickteam LLC",
+   "subtitle": "Five Nights at Freddy's: Sister Location - Point and click surivival horror",
+   "localizedDescription": "Five Nights at Freddy's: Sister Location is a 2016 point-and-click survival horror video game developed and published by Scott Cawthon. It is the fifth main installment in the Five Nights at Freddy's series and the sixth game overall.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/sisterlocation-YQ.png",
+   "tintColor": "545bf8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.4",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "Welcome to Circus Baby's Pizza World, where family fun and interactivity go beyond anything you've seen at those *other* pizza places! With cutting-edge animatronic entertainers that will knock your kids' socks off, as well as customized pizza catering, no party is complete without Circus Baby and the gang!\r\n\r\nNow hiring: Late night technician. Must enjoy cramped spaces and be comfortable around active machinery. Not responsible for death or dismemberment.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1822",
+     "size": 292008317
+    },
+    {
+     "version": "2.0.3",
+     "date": "2024-11-06T00:00:00Z",
+     "localizedDescription": "Five Nights at Freddy's: Sister Location is a 2016 point-and-click survival horror video game developed and published by Scott Cawthon. It is the fifth main installment in the Five Nights at Freddy's series and the sixth game overall.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_SL_v2_0_3-Hu.ipa",
+     "size": 289501184
+    }
+   ]
+  }
+ ]
+}

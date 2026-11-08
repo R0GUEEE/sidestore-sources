@@ -1,0 +1,40 @@
+{
+ "name": "DaggerPad",
+ "identifier": "dev.perapp.com-chrissotraidis-daggerpad",
+ "subtitle": "The Elder Scrolls II: Daggerfall via Daggerfall Unity, rebuilt for iPad",
+ "description": "Single-app source for DaggerPad (com.chrissotraidis.daggerpad). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6273ba",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.daggerpad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chrissotraidis.daggerpad",
+   "name": "DaggerPad",
+   "developerName": "chrissotraidis",
+   "subtitle": "The Elder Scrolls II: Daggerfall via Daggerfall Unity, rebuilt for iPad",
+   "localizedDescription": "DaggerPad:\n\nVersion 10 running on a 12.9-inch iPad Pro: native landscape gameplay, contextual controls, and the original Daggerfall world.\n\nDaggerPad brings Daggerfall Unity as a native iPadOS app. It renders through Metal, imports your classic Daggerfall files through Files, and adds a landscape touch interface designed for movement, looking, combat, conversations, inventory, and the original game's dense UI.\n\nThe mobile baseline comes from Vwing's Daggerfall Unity Android fork, with iPadOS integration, native pointer input, Files import, lifecycle handling, and DaggerPad's touch layouts maintained in this repository. It does not contain Daggerfall, Bethesda game data, or a prepared playable archive.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.daggerpad.png",
+   "tintColor": "#6273ba",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/daggerpad@main/docs/images/readme/physical-ipad-snowy-town.jpeg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/daggerpad@main/docs/images/readme/physical-ipad-control-editor.jpeg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/daggerpad@main/docs/images/readme/physical-ipad-inventory.jpeg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/daggerpad@main/docs/images/readme/physical-ipad-conversation.jpeg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/daggerpad@main/docs/images/readme/physical-ipad-interior.jpeg"
+   ],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-08-18T16:04:10Z",
+     "localizedDescription": "DaggerPad v0.1.0-preview.1:\n\nThis is the first public DaggerPad IPA preview.\n\nDownload:\n\nDaggerPad-0.1.0-preview.1-unsigned.ipa.\n\nSHA-256: d14544e950c8aee756822fbc4bc03f8922644173aa433bae5d7c09d0787de067.\n\nThe IPA is unsigned. Re-sign it with your own Apple ID and a compatible provisioning profile before sideloading it onto an iPad running iPadOS 15 or later.\n\nVerified:\n\n• ZIP integrity, arm64 architecture, com.chrissotraidis.daggerpad identity, version 0.1.0 build 1, and iOS 15 minimum.\n• No embedded signature, provisioning profile, Daggerfall game data, saves, or temporary input-trace instrumentation.\n\n• The existing 36-file save tree was byte-for-byte unchanged after the update.\n\nImportant:\n\nDaggerPad does not include Daggerfall. Supply your own legally obtained game files through the in-app Files import. This preview is not an App Store or TestFlight release, and broader physical-input, thermal, and long-session acceptance remains open.",
+     "downloadURL": "https://github.com/chrissotraidis/daggerpad/releases/download/v0.1.0-preview.1/DaggerPad-0.1.0-preview.1-unsigned.ipa",
+     "size": 61116938
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

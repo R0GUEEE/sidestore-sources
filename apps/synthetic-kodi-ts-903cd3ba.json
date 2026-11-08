@@ -1,0 +1,30 @@
+{
+ "name": "Kodi_TS",
+ "identifier": "dev.perapp.synthetic-kodi-ts-903cd3ba",
+ "subtitle": "Kodi 18.9 - currently this is the latest version that works on TS due to a switch from python2 to python3 in 19.X",
+ "description": "Single-app source for Kodi_TS (synthetic.kodi-ts.903cd3ba). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Kodi_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.kodi-ts.903cd3ba",
+   "name": "Kodi_TS",
+   "developerName": "Kodi_TS x CyPwn",
+   "subtitle": "Kodi 18.9 - currently this is the latest version that works on TS due to a switch from python2 to python3 in 19.X",
+   "localizedDescription": "Kodi 18.9 - currently this is the latest version that works on TS due to a switch from python2 to python3 in 19.X",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Kodi_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18.9",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Kodi 18.9 - currently this is the latest version that works on TS due to a switch from python2 to python3 in 19.X",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Kodi_TS.ipa",
+     "size": 92966748
+    }
+   ]
+  }
+ ]
+}

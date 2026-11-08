@@ -1,0 +1,30 @@
+{
+ "name": "Reddit++",
+ "identifier": "dev.perapp.syto203-reddit-pp",
+ "subtitle": "The Reddit you know and love but with all the premium features you have always wanted.  • Absolutely no ads. • Access to",
+ "description": "Single-app source for Reddit++ (syto203.reddit.pp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/1YJO4aW.png",
+ "apps": [
+  {
+   "bundleIdentifier": "syto203.reddit.pp",
+   "name": "Reddit++",
+   "developerName": "syto203",
+   "subtitle": "The Reddit you know and love but with all the premium features you have always wanted.  • Absolutely no ads. • Access to r/lounge • And more!",
+   "localizedDescription": "The Reddit you know and love but with all the premium features you have always wanted.  • Absolutely no ads. • Access to r/lounge • And more!",
+   "iconURL": "https://i.imgur.com/1YJO4aW.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2020.12.0",
+     "date": "2020-01-12T00:00:00Z",
+     "localizedDescription": "The Reddit you know and love but with all the premium features you have always wanted.  • Absolutely no ads. • Access to r/lounge • And more!",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Reddit++.ipa",
+     "size": 55538241
+    }
+   ]
+  }
+ ]
+}

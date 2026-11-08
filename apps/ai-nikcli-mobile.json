@@ -1,0 +1,40 @@
+{
+ "name": "nikcli",
+ "identifier": "dev.perapp.ai-nikcli-mobile",
+ "subtitle": "Nikcli is a fork of OpenCode — the open source coding agent",
+ "description": "Single-app source for nikcli (ai.nikcli.mobile). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ai.nikcli.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.nikcli.mobile",
+   "name": "nikcli",
+   "developerName": "nikcli",
+   "subtitle": "Nikcli is a fork of OpenCode — the open source coding agent",
+   "localizedDescription": "Nikcli:\n\nNikcli is a fork of OpenCode — the open source coding agent. AI-powered development tool: CLI, TUI, server, web, mobile, bots.\n\nNikcli is a fork of OpenCode, the open source coding agent (the repo previously lived at sst/opencode — same project, same org). All credit for the original project goes to the OpenCode authors and its community — nikcli exists only because that work is open source, and every part of nikcli that came from OpenCode remains theirs.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ai.nikcli.mobile.png",
+   "tintColor": "#6058e8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.434.0",
+     "date": "2026-10-22T01:48:25Z",
+     "localizedDescription": "No notable changes.",
+     "downloadURL": "https://github.com/nikcli/nikcli/releases/download/v1.434.0/nikcli-1.434.0-985-unsigned.ipa",
+     "size": 17479424
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Nikcli uses the camera to scan the pairing QR shown on your computer.",
+     "NSFaceIDUsageDescription": "Nikcli uses Face ID to unlock the app and confirm sensitive actions.",
+     "NSLocalNetworkUsageDescription": "Nikcli connects to the local CLI server running on your computer.",
+     "NSMicrophoneUsageDescription": "Allow nikcli to access your microphone",
+     "NSPhotoLibraryUsageDescription": "Allow nikcli to access your photos"
+    }
+   }
+  }
+ ]
+}

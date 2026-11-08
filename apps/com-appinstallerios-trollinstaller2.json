@@ -1,0 +1,30 @@
+{
+ "name": "TrollInstaller2",
+ "identifier": "dev.perapp.com-appinstallerios-trollinstaller2",
+ "subtitle": "ipaomtk.com | TrollStore is a fresh, no revoke Sign IPA permanently feature now available for versions iOS 14.0, 15.0-16",
+ "description": "Single-app source for TrollInstaller2 (com.AppInstalleriOS.TrollInstaller2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/trollstore-logo-150x150.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AppInstalleriOS.TrollInstaller2",
+   "name": "TrollInstaller2",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | TrollStore is a fresh, no revoke Sign IPA permanently feature now available for versions iOS 14.0, 15.0-16.6.1, and iOS 17.0. With the j",
+   "localizedDescription": "ipaomtk.com | TrollStore is a fresh, no revoke Sign IPA permanently feature now available for versions iOS 14.0, 15.0-16.6.1, and iOS 17.0. With the j",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/trollstore-logo-150x150.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2023-03-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | TrollStore is a fresh, no revoke Sign IPA permanently feature now available for versions iOS 14.0, 15.0-16.6.1, and iOS 17.0. With the j",
+     "downloadURL": "https://file.ipaomtk.com/ipa/TrollInstaller2.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

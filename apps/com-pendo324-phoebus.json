@@ -1,0 +1,45 @@
+{
+ "name": "Phoebus",
+ "identifier": "dev.perapp.com-pendo324-phoebus",
+ "subtitle": "Radiant Reddit Browsing",
+ "description": "Single-app source for Phoebus (com.pendo324.Phoebus). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e59f14",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.pendo324.Phoebus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pendo324.Phoebus",
+   "name": "Phoebus",
+   "developerName": "pendo324",
+   "subtitle": "Radiant Reddit Browsing",
+   "localizedDescription": "Phoebus:\n\nPhoebus is a native iOS Reddit client that recreates the experience of.\n\nthe Apollo Reborn tweak, built entirely on Linux with xtool. It began as an attempt to rebuild Apollo's UX with modern tooling, as a standalone app, so that it can keep existing more sustainably.\n\n• The core app is written from scratch in SwiftUI, following Apollo's design. It contains none of Apollo's code.\n\nPhoebus is not affiliated with Apollo Reborn. It has no connection with, and is not endorsed or supported by, Apollo Reborn or its maintainers, Christian Selig or Apollo, or Reddit. Please don't contact any of them about Phoebus or ask them for help with it; open an issue in this repository instead.\n\nPhoebus is a personal, non-commercial project. It is not sold or advertised.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.pendo324.Phoebus.png",
+   "tintColor": "#e59f14",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/1442f8e9-9508-4ee4-8c67-565bbaf25e46",
+    "https://github.com/user-attachments/assets/79e2ac8a-8d91-42a1-9464-3c813cbffa25",
+    "https://github.com/user-attachments/assets/063dbb59-e0df-471a-a37b-5ef079a10e2a",
+    "https://github.com/user-attachments/assets/e758d005-c89c-4394-8f99-8b1d97d987a5",
+    "https://github.com/user-attachments/assets/e6898fc2-fe43-4ca2-90b6-1ab3af53d9f6"
+   ],
+   "versions": [
+    {
+     "version": "0.2.1",
+     "date": "2026-11-07T05:06:22Z",
+     "localizedDescription": "Fixes since 0.2.0.\n\nFixes:\n\n• Images behind a post's \"Processing img\" placeholders now load, including PNGs and GIFs.\n• Collapsing or expanding comments in threads with link cards or embeds no longer jumps or draws a gap.\n• Collapsed comment headers that run past the bottom of the screen no longer rise through the rows below.",
+     "downloadURL": "https://github.com/pendo324/Phoebus/releases/download/v0.2.1/Phoebus-v0.2.1-simulator.ipa",
+     "size": 73040157
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCrossWebsiteTrackingUsageDescription": "Lets the YouTube player use the YouTube account you sign in to, for Premium, watch history and age-restricted videos.",
+     "NSLocalNetworkUsageDescription": "Used to reach a notification backend or Bark server you host on your own network.",
+     "NSLocationWhenInUseUsageDescription": "Your approximate location is checked once to calculate sunset and sunrise for automatic theme switching. It is not shared or sent.",
+     "NSPhotoLibraryAddUsageDescription": "Used to save images, GIFs, and videos you choose to your Photos library."
+    }
+   }
+  }
+ ]
+}

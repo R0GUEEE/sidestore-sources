@@ -1,0 +1,30 @@
+{
+ "name": "Moody",
+ "identifier": "dev.perapp.com-tbd-moody",
+ "subtitle": "Moody",
+ "description": "Single-app source for Moody (com.tbd.Moody). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/17c4ae68-2512-4eb5-8f92-d7bf1bd04d09/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tbd.Moody",
+   "name": "Moody",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Moody: Mood Tracker & Journal\n\nTweak: Premium Unlocked\n\nVersion: 1.6.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/17c4ae68-2512-4eb5-8f92-d7bf1bd04d09/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Moody: Mood Tracker & Journal\n\nTweak: Premium Unlocked\n\nVersion: 1.6.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/1fabf7f3-7359-4f7d-9889-eb7d57abaafc/Moody__Mood_Tracker___Journal-v1.6.1-riftysipas.ipa",
+     "size": 49296721
+    }
+   ]
+  }
+ ]
+}

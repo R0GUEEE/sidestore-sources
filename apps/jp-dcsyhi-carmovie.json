@@ -1,0 +1,30 @@
+{
+ "name": "CarMovie",
+ "identifier": "dev.perapp.jp-dcsyhi-carmovie",
+ "subtitle": "Enables users to play their preferred videos through CarPlay. A demo illustrating video customization is accessible, wit",
+ "description": "Single-app source for CarMovie (jp.dcsyhi.CarMovie). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jp.dcsyhi.CarMovie.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.dcsyhi.CarMovie",
+   "name": "CarMovie",
+   "developerName": "Dcsyhi1998",
+   "subtitle": "Enables users to play their preferred videos through CarPlay. A demo illustrating video customization is accessible, with forthcoming features encompa",
+   "localizedDescription": "Enables users to play their preferred videos through CarPlay. A demo illustrating video customization is accessible, with forthcoming features encompa",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jp.dcsyhi.CarMovie.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Enables users to play their preferred videos through CarPlay. A demo illustrating video customization is accessible, with forthcoming features encompa",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarMovie/CarMovie-1.2.ipa",
+     "size": 2232733
+    }
+   ]
+  }
+ ]
+}

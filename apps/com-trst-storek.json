@@ -1,0 +1,30 @@
+{
+ "name": "TSStore",
+ "identifier": "dev.perapp.com-trst-storek",
+ "subtitle": "Another app that gathers some Trollstore compatible apps Last updated: 10-17-2022 Status: ✅",
+ "description": "Single-app source for TSStore (com.trst.storek). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.trst.storek.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.trst.storek",
+   "name": "TSStore",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "Another app that gathers some Trollstore compatible apps Last updated: 10-17-2022 Status: ✅",
+   "localizedDescription": "Another app that gathers some Trollstore compatible apps Last updated: 10-17-2022 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.trst.storek.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Another app that gathers some Trollstore compatible apps Last updated: 10-17-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TSStore-3.0.1.ipa",
+     "size": 8840479
+    }
+   ]
+  }
+ ]
+}

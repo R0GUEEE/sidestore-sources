@@ -1,0 +1,44 @@
+{
+ "name": "VPN Satoshi",
+ "identifier": "dev.perapp.com-vpnsatoshi-vpnsatoshiapp",
+ "subtitle": "VPN Satoshi",
+ "description": "Single-app source for VPN Satoshi (com.vpnsatoshi.vpnsatoshiapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/b0f8e1cd-3bec-44b6-bb3f-26bda8b85e30/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vpnsatoshi.vpnsatoshiapp",
+   "name": "VPN Satoshi",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nVPN Satoshi\n\nPremium features unlocked\n\n⚠️ only works with Trollstore / Jailbreak. VPN doesnt want to connect. \nIf you find a way to use it without Trollstore then please let me know.\n\nMinimum OS version 15.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/b0f8e1cd-3bec-44b6-bb3f-26bda8b85e30/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 03-27-2024\nStatus: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/VPNSatoshi/VPNSatoshi-2.4.ipa",
+     "size": 36949562
+    },
+    {
+     "version": "3.5.8",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nVPN Satoshi\n\nPremium features unlocked\n\n⚠️ only works with Trollstore / Jailbreak. VPN doesnt want to connect. \nIf you find a way to use it without Trollstore then please let me know.\n\nMinimum OS version 15.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4cdbb5a0-a12b-478c-ab47-6e0fcdb25635/VPN_Satoshi_Premium_3.5.8.ipa",
+     "size": 91845991
+    },
+    {
+     "version": "3.5.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nVPN Satoshi\n\nPremium features unlocked\n\n⚠️ only works with Trollstore / Jailbreak. VPN doesnt want to connect. \nIf you find a way to use it without Trollstore then please let me know.\n\nMinimum OS version 15.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/cd2946c6-788e-44c6-8f21-40e010a2eded/VPN_Satoshi_Premium_3.5.4.ipa",
+     "size": 106920238
+    }
+   ]
+  }
+ ]
+}

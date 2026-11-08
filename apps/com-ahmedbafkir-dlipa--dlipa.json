@@ -1,0 +1,30 @@
+{
+ "name": "DLiPA",
+ "identifier": "dev.perapp.com-ahmedbafkir-dlipa",
+ "subtitle": "An iOS app inspired by ipatool. Sign in with your Apple ID to search the App Store, download any app as an IPA, includin",
+ "description": "Single-app source for DLiPA (com.ahmedbafkir.dlipa). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ahmedbafkir.dlipa",
+   "name": "DLiPA",
+   "developerName": "Ahmed Bafkir",
+   "subtitle": "An iOS app inspired by ipatool. Sign in with your Apple ID to search the App Store, download any app as an IPA, including older versions, and…",
+   "localizedDescription": "An iOS app inspired by ipatool. Sign in with your Apple ID to search the App Store, download any app as an IPA, including older versions, and install or share it without a jailbreak.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/DLiPA/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "An iOS app inspired by ipatool. Sign in with your Apple ID to search the App Store, download any app as an IPA, including older versions, and…",
+     "downloadURL": "https://github.com/AhmedBafkir/DLiPA/releases/download/v1.4/DLiPA_v1.4.ipa",
+     "size": 534245
+    }
+   ]
+  }
+ ]
+}

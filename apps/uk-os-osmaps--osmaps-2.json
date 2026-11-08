@@ -1,0 +1,44 @@
+{
+ "name": "OSMaps",
+ "identifier": "dev.perapp.uk-os-osmaps",
+ "subtitle": "OSMaps",
+ "description": "Single-app source for OSMaps (uk.os.osmaps). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.os.osmaps.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.os.osmaps",
+   "name": "OSMaps",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.os.osmaps.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6.1",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2294",
+     "size": 290721007
+    },
+    {
+     "version": "5.5.4",
+     "date": "2025-12-15T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/OSMaps_5.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 142512451
+    },
+    {
+     "version": "5.4.7",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: OS Maps: Walk, Hike, Run, Bike\n\nTweak: Premium Unlocked\n\nVersion: 5.4.7\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c14123e6-562d-4a70-96ec-31b4f129d3ce/OS_Maps__Walk__Hike__Run__Bike-v5.4.7-riftysipas.ipa",
+     "size": 93074209
+    }
+   ]
+  }
+ ]
+}

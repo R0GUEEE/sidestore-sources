@@ -1,0 +1,30 @@
+{
+ "name": "Respring",
+ "identifier": "dev.perapp.com-respring-app",
+ "subtitle": "Respring by Holloway",
+ "description": "Single-app source for Respring (com.respring.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380067.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.respring.app",
+   "name": "Respring",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Enhanced version of Respring with premium features unlocked.",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380067.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.1",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Enhanced version of Respring with premium features unlocked.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1629",
+     "size": 585243
+    }
+   ]
+  }
+ ]
+}

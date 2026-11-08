@@ -1,0 +1,107 @@
+{
+ "name": "Spotify++",
+ "identifier": "dev.perapp.com-spotify-client",
+ "subtitle": "Spotify with free premium, and extra UI features",
+ "description": "Single-app source for Spotify++ (com.spotify.client). Converted from quantumsource.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1c843c",
+ "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client",
+   "name": "Spotify++",
+   "developerName": "iJulioVerne",
+   "subtitle": "Spotify with free premium, and extra UI features",
+   "localizedDescription": "Spotify++ contants a tweak that activates Premium. As well as a number of tweaks to customise the UI and improve the overall user experience.\n\nHere are the following tweaks:\n\n• Spotilife - Premium for free.\n\n• Sposify - A Tweak to customize your Spotify App UI and expand functionalities.\n\n• Volify - Adds a volume slider to Spotify.\n\n• SpotifyAllowSetting - Allows you to access all of the settings in Spotify that are normally disabled when someone else is playing music from another device.\n\n• SpotifyNoPodcasts - Hides Podcasts from from Home and Library\n\n• SpotifyHighQuality - Enables ’Very High’ Quality in Audio Quality settings\n\n•TrueShuffle - Enables true random shuffling (Spotify prioritizes Songs you have listened to more often by default)\n\n• Spoticentre - Centres the song/artist in now playing (Only working on some devices)\n",
+   "iconURL": "https://img.ipa4fun.com/ef/cd/d4/324684580-logo.jpg",
+   "tintColor": "#1c843c",
+   "screenshots": [
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-1.jpg",
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-2.jpg",
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-3.jpg",
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-4.jpg",
+    "https://img.ipa4fun.com/ef/cd/d4/324684580-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "8.9.38",
+     "date": "2024-05-10T00:00:00Z",
+     "localizedDescription": "• EeveeSpotify now supports LRCLIB and Musixmatch time-synced lyrics sources! You can select your preferred source in the tweak settings\n• Lyrics colors are now normalized\n• Fixed Genius issue where the tweak would pick a translation instead of the original lyrics",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.38.+.Eevee.v3.0.ipa",
+     "size": 68800000
+    },
+    {
+     "version": "8.9.36",
+     "date": "2024-05-08T00:00:00Z",
+     "localizedDescription": "• Fixed app crashing when opening the player\n• EeveeSpotify now replaces Spotify monthly limited lyrics with Genius!\n• Updated Spotify to v8.9.36",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.36.+.Eevee.v2.1.ipa",
+     "size": 69100000
+    },
+    {
+     "version": "8.9.34",
+     "date": "2024-04-30T00:00:00Z",
+     "localizedDescription": "• Replaced Spotify v8.6.42 (Spotilife) with Spotify v8.9.34 (Eevee)",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v8.9.34.+.Eevee.v1.4.1.ipa",
+     "size": 65900000
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "AppleMusic",
+      "usageDescription": "This will let you play your imported music on Spotify."
+     },
+     {
+      "name": "BluetoothAlways",
+      "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
+     },
+     {
+      "name": "BluetoothPeripheral",
+      "usageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth."
+     },
+     {
+      "name": "Camera",
+      "usageDescription": "This lets you scan Spotify Codes."
+     },
+     {
+      "name": "FaceID",
+      "usageDescription": "This lets you set access restrictions using Face ID."
+     },
+     {
+      "name": "HealthShare",
+      "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
+     },
+     {
+      "name": "HealthUpdate",
+      "usageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts."
+     },
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files."
+     },
+     {
+      "name": "Microphone",
+      "usageDescription": "This lets you control Spotify using your voice."
+     },
+     {
+      "name": "Motion",
+      "usageDescription": "We will use this to understand which audio motivates you most."
+     },
+     {
+      "name": "PhotoLibraryAdd",
+      "usageDescription": "This lets you save images to your Photo Library."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "This lets you select images from your Photo Library."
+     },
+     {
+      "name": "UserTracking",
+      "usageDescription": "Your data will be used to deliver personalized ads or content to you."
+     }
+    ]
+   }
+  }
+ ]
+}

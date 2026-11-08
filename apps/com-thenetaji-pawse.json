@@ -1,0 +1,44 @@
+{
+ "name": "Pawse",
+ "identifier": "dev.perapp.com-thenetaji-pawse",
+ "subtitle": "🐾 A free, open-source music and video app for iPhone, Android and computers. YouTube Music and YouTube without Shorts or",
+ "description": "Single-app source for Pawse (com.thenetaji.pawse). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.thenetaji.pawse.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thenetaji.pawse",
+   "name": "Pawse",
+   "developerName": "thenetaji",
+   "subtitle": "🐾 A free, open-source music and video app for iPhone, Android and computers. YouTube Music and YouTube without Shorts or ads: lyrics, offline songs, SponsorBlock, DeArrow and a cat in your Dynamic Isl",
+   "localizedDescription": "What it does:\n\nAlso: word-by-word lyrics, crossfade, a sleep timer, the same loudness for every song, songs that keep playing offline, and a little mouse that keeps teasing the cat.\n\nMusic and videos share one Home and one Search. It's YouTube the way you'd want it:\n\n• A Home that ends. Pick up the video or song you left, see who you follow with a dot for anything new, then the latest from your channels, your mixes and your likes. Then it says you're caught up. YouTube's own suggestions stay off unless you switch them on, and Edit Home turns any section on or off and changes the order.\n• No Shorts, no ads, no mixes. Search has a YouTube filter for videos and channels. Block channels, and words in titles, and they're gone everywhere.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.thenetaji.pawse.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/thenetaji/pawse-music@main/docs/images/now-playing.png",
+    "https://cdn.jsdelivr.net/gh/thenetaji/pawse-music@main/docs/images/home.png",
+    "https://cdn.jsdelivr.net/gh/thenetaji/pawse-music@main/docs/images/explore.png",
+    "https://cdn.jsdelivr.net/gh/thenetaji/pawse-music@main/docs/images/search.png",
+    "https://cdn.jsdelivr.net/gh/thenetaji/pawse-music@main/docs/images/library.png"
+   ],
+   "versions": [
+    {
+     "version": "1.14.0",
+     "date": "2026-11-06T10:56:16Z",
+     "localizedDescription": "Added:\n\n• Share a song from Shazam to Pawse. After Shazam finds a song, tap Share and pick Pawse: it finds the song and plays it. If it can't be sure which upload is the right one, it opens the search instead of guessing.\n\nChanged:\n\n• For you follows YouTube's ranking when you're signed in. Videos no longer shuffle YouTube's top picks, and on Home YouTube Music's own shelves come first.\n• More thumbnails fit on a big screen. On desktop, tiles stay about the same size and more fit across, on Videos, Home and channel pages. Search results become rows with a thumbnail beside the title.\n• Play buttons no longer stretch across the window on desktop, on search, album and artist pages. Channel banners stay short, and short song lists spread evenly across columns.\n\nFixed:\n\n• Pawse didn't notice when YouTube stopped accepting your sign-in and quietly showed a feed that wasn't yours. Home and Videos now tell you and offer to sign in again. Videos also says when YouTube sends your account no suggestions.\n• Changing region or language didn't reach the video feed until Pawse restarted.\n• Pictures could stay blank on desktop after they had loaded. They now show as soon as they arrive, without the fade.\n• Some albums said \"Watch\" and opened the video player when most of their songs came as music videos. Albums now always play.\n• Switches sat above the middle of their row on iPhone. They now line up with their labels everywhere.\n\nWhich file do I need?:\n\nYou need one file: the one for your device. The version is in the release title. Full steps: https://github.com/thenetaji/pawse-music#install",
+     "downloadURL": "https://github.com/thenetaji/pawse-music/releases/download/v1.14.0/Pawse.ipa",
+     "size": 22672408
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSAlarmKitUsageDescription": "Pawse uses alarms to wake you up with your music.",
+     "NSLocalNetworkUsageDescription": "Expo Dev Launcher uses the local network to discover and connect to development servers running on your computer.",
+     "NSMotionUsageDescription": "Allow Pawse to access your device motion"
+    }
+   }
+  }
+ ]
+}

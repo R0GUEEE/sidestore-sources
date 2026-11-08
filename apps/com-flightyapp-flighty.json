@@ -1,0 +1,30 @@
+{
+ "name": "FlightyPro",
+ "identifier": "dev.perapp.com-flightyapp-flighty",
+ "subtitle": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all inclu",
+ "description": "Single-app source for FlightyPro (com.flightyapp.flighty). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.flightyapp.flighty.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.flightyapp.flighty",
+   "name": "FlightyPro",
+   "developerName": "zxcvbn’s tweaked IPAs",
+   "subtitle": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all included. It's an excellent…",
+   "localizedDescription": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all included. It's an excellent flight tracker that even provides you with the weather for your flight 10 days in advance. A user requested it so here it is.\nLast updated: 03-18-2024\nStatus: ⚠️ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.flightyapp.flighty.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.2",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Offers real-time tracking of an upcoming flight's status. Delays, cancellations, and even boarding details are all included. It's an excellent…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/FlightyPro/FlightyPro-3.4.2.ipa",
+     "size": 136173483
+    }
+   ]
+  }
+ ]
+}

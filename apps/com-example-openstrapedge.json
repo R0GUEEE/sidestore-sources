@@ -1,0 +1,30 @@
+{
+ "name": "Edge",
+ "identifier": "dev.perapp.com-example-openstrapedge",
+ "subtitle": "A health app for your wearables. No subscription, no fees, private by default.  As featured in Hackaday and Adafruit.  D",
+ "description": "Single-app source for Edge (com.example.openstrapEdge). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.example.openstrapEdge.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.example.openstrapEdge",
+   "name": "Edge",
+   "developerName": "OpenStrap",
+   "subtitle": "A health app for your wearables. No subscription, no fees, private by default.  As featured in Hackaday and Adafruit.  Devices:  Supported: WHOOP 4.0,",
+   "localizedDescription": "A health app for your wearables. No subscription, no fees, private by default.  As featured in Hackaday and Adafruit.  Devices:  Supported: WHOOP 4.0,\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.example.openstrapEdge.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.3",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "A health app for your wearables. No subscription, no fees, private by default.  As featured in Hackaday and Adafruit.  Devices:  Supported: WHOOP 4.0,",
+     "downloadURL": "https://github.com/OpenStrap/edge/releases/download/v0.11.3/openstrap-edge-v0.11.3-unsigned.ipa",
+     "size": 20888222
+    }
+   ]
+  }
+ ]
+}

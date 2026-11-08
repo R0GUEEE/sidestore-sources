@@ -1,0 +1,30 @@
+{
+ "name": "Math Learner",
+ "identifier": "dev.perapp.com-fungames-mathapp",
+ "subtitle": "ipaomtk.com | MathPlus IPA is a new iOS application that is designed to help students learn math more quickly and effici",
+ "description": "Single-app source for Math Learner (com.fungames.mathapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-mathplus-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fungames.mathapp",
+   "name": "Math Learner",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MathPlus IPA is a new iOS application that is designed to help students learn math more quickly and efficiently. The app, released in 20",
+   "localizedDescription": "ipaomtk.com | MathPlus IPA is a new iOS application that is designed to help students learn math more quickly and efficiently. The app, released in 20",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-mathplus-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.1",
+     "date": "2023-10-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MathPlus IPA is a new iOS application that is designed to help students learn math more quickly and efficiently. The app, released in 20",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MathPlus.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Noteful",
+ "identifier": "dev.perapp.com-noteful-technologies-noteful",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for Noteful (com.noteful-technologies.noteful). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.noteful-technologies.noteful",
+   "name": "Noteful",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.31",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Noteful_1.4.31_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 94056033
+    }
+   ]
+  }
+ ]
+}

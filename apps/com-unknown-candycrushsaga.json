@@ -1,0 +1,30 @@
+{
+ "name": "Candy Crush Saga",
+ "identifier": "dev.perapp.com-unknown-candycrushsaga",
+ "subtitle": "ژیانی بێ سنوور ✅  بووستەری بێ سنوور ✅",
+ "description": "Single-app source for Candy Crush Saga (com.unknown.candycrushsaga). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Candy.Crush.Saga.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.candycrushsaga",
+   "name": "Candy Crush Saga",
+   "developerName": "Karbin-Store",
+   "subtitle": "ژیانی بێ سنوور ✅  بووستەری بێ سنوور ✅",
+   "localizedDescription": "ژیانی بێ سنوور ✅  بووستەری بێ سنوور ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Candy.Crush.Saga.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.293.4",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "ژیانی بێ سنوور ✅  بووستەری بێ سنوور ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Candy.Crush.Saga._1.293.4_1737232375.ipa",
+     "size": 118220000
+    }
+   ]
+  }
+ ]
+}

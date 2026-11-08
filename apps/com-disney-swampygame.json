@@ -1,0 +1,30 @@
+{
+ "name": "Where's My Water?",
+ "identifier": "dev.perapp.com-disney-swampygame",
+ "subtitle": "Where's My Water? by sidelix",
+ "description": "Single-app source for Where's My Water? (com.disney.SwampyGame). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6903d4845c653.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.disney.SwampyGame",
+   "name": "Where's My Water?",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Get the GAME OF THE YEAR award-winning puzzler!\r\n\r\nHelp Swampy by guiding water to his broken shower. Each level is a challenging physics-based puzzle with amazing life-like mechanics. Cut through dirt to guide fresh water, dirty water, toxic water, steam, and ooze through increasingly challenging scenarios! Every drop counts!\r\n• Original Stories & Characters – Play through 4 unique stories featuring Swampy, Allie, Cranky and Mystery Duck. That’s over 500 amazing puzzles!\r\n• Innovative Mechanic – See water in various forms and use your creativity to solve the puzzles – totally stimulating! \r\n• Collectibles, Challenges, and Bonus Levels – Collect special items uniquely designed for each character and complete cool challenges to un",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6903d4845c653.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.18.8",
+     "date": "2025-10-30T00:00:00Z",
+     "localizedDescription": "Get the GAME OF THE YEAR award-winning puzzler!\r\n\r\nHelp Swampy by guiding water to his broken shower. Each level is a challenging physics-based puzzle with amazing life-like mechanics. Cut through dirt to guide fresh water, dirty water, toxic water, steam, and ooze through increasingly challenging scenarios! Every drop counts!\r\n• Original Stories & Characters – Play through 4 unique stories featuring Swampy, Allie, Cranky and Mystery Duck. That’s over 500 amazing puzzles!\r\n• Innovative Mechanic – See water in various forms and use your creativity to solve the puzzles – totally stimulating! \r\n• Collectibles, Challenges, and Bonus Levels – Collect special items uniquely designed for each character and complete cool challenges to un",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1923",
+     "size": 67326628
+    }
+   ]
+  }
+ ]
+}

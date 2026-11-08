@@ -1,0 +1,30 @@
+{
+ "name": "NightSky",
+ "identifier": "dev.perapp.com-icandiapps-nightsky",
+ "subtitle": "NightSky",
+ "description": "Single-app source for NightSky (com.icandiapps.nightsky). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icandiapps.nightsky.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.icandiapps.nightsky",
+   "name": "NightSky",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.icandiapps.nightsky.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "27.2",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/NightSky_27.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+     "size": 310391446
+    }
+   ]
+  }
+ ]
+}

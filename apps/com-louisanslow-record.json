@@ -1,0 +1,37 @@
+{
+ "name": "Rewound",
+ "identifier": "dev.perapp.com-louisanslow-record",
+ "subtitle": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
+ "description": "Single-app source for Rewound (com.louisanslow.record). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/LfIRxqb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.louisanslow.record",
+   "name": "Rewound",
+   "developerName": "Louis Anslow",
+   "subtitle": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
+   "localizedDescription": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
+   "iconURL": "https://i.imgur.com/LfIRxqb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2019.8",
+     "date": "2020-03-24T00:00:00Z",
+     "localizedDescription": "Rewound turns your smartphone into your favourite MP3 player from the early 2000s. Access your whole Apple Music library with the swipe of a clickywhe",
+     "downloadURL": "https://github.com/Randomblock1/randomsource/releases/download/assets/Rewound.ipa",
+     "size": 11133277
+    },
+    {
+     "version": "2019.7",
+     "date": "2019-12-09T00:00:00Z",
+     "localizedDescription": "Rewound uses your Apple Music library and displays it in the nostalgic style of an old spin-wheel iPod.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Rewound.ipa",
+     "size": 5628716
+    }
+   ]
+  }
+ ]
+}

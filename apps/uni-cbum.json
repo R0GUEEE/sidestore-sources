@@ -1,0 +1,44 @@
+{
+ "name": "Stndrd",
+ "identifier": "dev.perapp.uni-cbum",
+ "subtitle": "@blatants | STNDRD Workout & Fitness Plans  • Bundle ID: uni.cbum • Updated to: 4.1.50 • Minimum iOS: 15.6 • Patched • M",
+ "description": "Single-app source for Stndrd (uni.cbum). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11419.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uni.cbum",
+   "name": "Stndrd",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | STNDRD Workout & Fitness Plans  • Bundle ID: uni.cbum • Updated to: 4.1.50 • Minimum iOS: 15.6 • Patched • Modifier: Subscription Unlocked",
+   "localizedDescription": "@blatants | STNDRD Workout & Fitness Plans  • Bundle ID: uni.cbum • Updated to: 4.1.50 • Minimum iOS: 15.6 • Patched • Modifier: Subscription Unlocked",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11419.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.63",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | STNDRD Workout & Fitness Plans  • Bundle ID: uni.cbum • Updated to: 4.1.63 • Minimum iOS: 15.6 • Patched • Modifier: Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Stndrd_4.1.63_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 148202630
+    },
+    {
+     "version": "4.1.62",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@blatants | STNDRD Workout & Fitness Plans  • Bundle ID: uni.cbum • Updated to: 4.1.62 • Minimum iOS: 15.6 • Patched • Modifier: Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Stndrd_4.1.62_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 147784338
+    },
+    {
+     "version": "4.1.61",
+     "date": "2026-10-05T00:00:00Z",
+     "localizedDescription": "@blatants | STNDRD Workout & Fitness Plans  • Bundle ID: uni.cbum • Updated to: 4.1.61 • Minimum iOS: 15.6 • Patched • Modifier: Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/Stndrd_4.1.61_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 144941417
+    }
+   ]
+  }
+ ]
+}

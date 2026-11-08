@@ -1,0 +1,30 @@
+{
+ "name": "Pansy",
+ "identifier": "dev.perapp.opensource-pansy",
+ "subtitle": "PANSY.  English | 简体中文.  A beautiful illustration clients, support mac, windows, linux, ios, Android.  Discovery and Ran",
+ "description": "Single-app source for Pansy (opensource.pansy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/opensource.pansy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "opensource.pansy",
+   "name": "Pansy",
+   "developerName": "niuhuan",
+   "subtitle": "PANSY.  English | 简体中文.  A beautiful illustration clients, support mac, windows, linux, ios, Android.  Discovery and Ranks:  !!  Illustration info:  !",
+   "localizedDescription": "PANSY.  English | 简体中文.  A beautiful illustration clients, support mac, windows, linux, ios, Android.  Discovery and Ranks:  !!  Illustration info:  !\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/opensource.pansy.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.11",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "PANSY.  English | 简体中文.  A beautiful illustration clients, support mac, windows, linux, ios, Android.  Discovery and Ranks:  !!  Illustration info:  !",
+     "downloadURL": "https://github.com/niuhuan/pansy/releases/download/v0.0.11/pansy-v0.0.11-nosign.ipa",
+     "size": 21080885
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "PREQUEL",
+ "identifier": "dev.perapp.com-aiarlabs-prequel",
+ "subtitle": "@blatants | Prequel: Photo & Video Editor  • Bundle ID: com.aiarlabs.prequel • Updated to: 2.97 • Minimum iOS: 16.0 • Pa",
+ "description": "Single-app source for PREQUEL (com.aiarlabs.prequel). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11459.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aiarlabs.prequel",
+   "name": "PREQUEL",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | Prequel: Photo & Video Editor  • Bundle ID: com.aiarlabs.prequel • Updated to: 2.97 • Minimum iOS: 16.0 • Patched • Modifier: Subscription",
+   "localizedDescription": "@blatants | Prequel: Photo & Video Editor  • Bundle ID: com.aiarlabs.prequel • Updated to: 2.97 • Minimum iOS: 16.0 • Patched • Modifier: Subscription",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11459.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.104.1",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "@blatants | Prequel: Photo & Video Editor • Bundle ID: com.aiarlabs.prequel • Updated to: 2.104.1 • Minimum iOS: 16.0 • Patched • Modifier…",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/PREQUEL_2.104.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 239268727
+    },
+    {
+     "version": "2.104.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@blatants | Prequel: Photo & Video Editor  • Bundle ID: com.aiarlabs.prequel • Updated to: 2.104.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscript",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/PREQUEL_2.104.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 239228205
+    },
+    {
+     "version": "2.103.0",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@blatants | Prequel: Photo & Video Editor  • Bundle ID: com.aiarlabs.prequel • Updated to: 2.103.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscript",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/PREQUEL_2.103.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 257840677
+    }
+   ]
+  }
+ ]
+}

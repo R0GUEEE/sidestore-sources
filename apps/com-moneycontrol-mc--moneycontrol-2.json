@@ -1,0 +1,30 @@
+{
+ "name": "Moneycontrol",
+ "identifier": "dev.perapp.com-moneycontrol-mc",
+ "subtitle": "Moneycontrol",
+ "description": "Single-app source for Moneycontrol (com.moneycontrol.mc). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.moneycontrol.mc",
+   "name": "Moneycontrol",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with NoAds",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moneycontrol.mc.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.0.3",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with NoAds",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Moneycontrol_10.0.3_NoAds_%40thisismanpreets_apptesters.org.ipa",
+     "size": 78357266
+    }
+   ]
+  }
+ ]
+}

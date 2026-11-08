@@ -1,0 +1,30 @@
+{
+ "name": "DebToIPA_TS",
+ "identifier": "dev.perapp.synthetic-debtoipa-ts-8baebbdb",
+ "subtitle": "v1.0.2 - Convert debs to ipas for TrollStore. Only for debs containing Applications.",
+ "description": "Single-app source for DebToIPA_TS (synthetic.debtoipa-ts.8baebbdb). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/DebToIPA_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.debtoipa-ts.8baebbdb",
+   "name": "DebToIPA_TS",
+   "developerName": "DebToIPA_TS x CyPwn",
+   "subtitle": "v1.0.2 - Convert debs to ipas for TrollStore. Only for debs containing Applications.",
+   "localizedDescription": "v1.0.2 - Convert debs to ipas for TrollStore. Only for debs containing Applications.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/DebToIPA_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "v1.0.2 - Convert debs to ipas for TrollStore. Only for debs containing Applications.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/DebToIPA_TS.ipa",
+     "size": 2495610
+    }
+   ]
+  }
+ ]
+}

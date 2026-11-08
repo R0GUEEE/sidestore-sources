@@ -1,0 +1,44 @@
+{
+ "name": "Mercury",
+ "identifier": "dev.perapp.com-tripleglazedstudios-weather",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Mercury (com.tripleglazedstudios.Weather). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tripleglazedstudios.Weather",
+   "name": "Mercury",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.1",
+     "date": "2026-10-10T00:00:00Z",
+     "localizedDescription": "@blatants | Mercury Weather  • Bundle ID: com.tripleglazedstudios.Weather • Updated to: 3.8.1 • Minimum iOS: 16.0 • Patched • Modifier: Premium Unlock",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12735-Mercury%20Weather%20v3.8.1%20Premium%20Unlocked%20blatant%20Patched.ipa",
+     "size": 79986643
+    },
+    {
+     "version": "3.8",
+     "date": "2026-10-09T00:00:00Z",
+     "localizedDescription": "@blatants | Mercury Weather  • Bundle ID: com.tripleglazedstudios.Weather • Updated to: 3.8 • Minimum iOS: 16.0 • Patched • Modifier: Premium Unlocked",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12710-Mercury%20Weather%20v3.8%20Premium%20Unlocked%20blatant%20Patched.ipa",
+     "size": 79958177
+    },
+    {
+     "version": "3.7.2",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "@blatants | Mercury Weather  • Bundle ID: com.tripleglazedstudios.Weather • Updated to: 3.7.2 • Minimum iOS: 16.0 • Patched • Modifier: Premium Unlock",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12396-Mercury%20Weather%20v3.7.2%20Premium%20Unlocked%20blatant%20Patched.ipa",
+     "size": 79620166
+    }
+   ]
+  }
+ ]
+}

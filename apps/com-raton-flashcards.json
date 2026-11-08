@@ -1,0 +1,30 @@
+{
+ "name": "Kavi",
+ "identifier": "dev.perapp.com-raton-flashcards",
+ "subtitle": "Kavi (Flashcards):  Kavi is a native, local-first iOS study and flashcards app built for fast card creation, focused rev",
+ "description": "Single-app source for Kavi (com.raton.flashcards). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.raton.flashcards.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.raton.flashcards",
+   "name": "Kavi",
+   "developerName": "RipeStore",
+   "subtitle": "Kavi (Flashcards):  Kavi is a native, local-first iOS study and flashcards app built for fast card creation, focused revision, and full ownership of y",
+   "localizedDescription": "Kavi (Flashcards):  Kavi is a native, local-first iOS study and flashcards app built for fast card creation, focused revision, and full ownership of y\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.raton.flashcards.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Kavi (Flashcards):  Kavi is a native, local-first iOS study and flashcards app built for fast card creation, focused revision, and full ownership of y",
+     "downloadURL": "https://github.com/RipeStore/flashcardsbuilder/releases/download/v3.1.0/Kavi-3.1.0.ipa",
+     "size": 7051768
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "YTKACE (1.1.5) - Bonus Tweaks (Moe) - Patched",
+ "identifier": "dev.perapp.com-google-ios-youtube-ytkace-1-1-5-bonus-moe-patched",
+ "subtitle": "Tweaks: YTClassicVideoQuality, YouMute, YTABConfig +8",
+ "description": "Single-app source for YTKACE (1.1.5) - Bonus Tweaks (Moe) - Patched (com.google.ios.youtube.ytkace.1.1.5.bonus.moe.patched). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.ytkace.1.1.5.bonus.moe.patched",
+   "name": "YTKACE (1.1.5) - Bonus Tweaks (Moe) - Patched",
+   "developerName": "YouTube",
+   "subtitle": "Tweaks: YTClassicVideoQuality, YouMute, YTABConfig +8",
+   "localizedDescription": "Tweaks: YTClassicVideoQuality, YouMute, YTABConfig, YouQuality, YTKACE, DontEatMyContent, YTVideoOverlay, YouSpeed, YouGroupSettings, YouTubeNativeShare, YouPiP\n\nThis is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, YouChooseQuality, YouGroupSettings, YouLoop, YouMute, You\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: YTClassicVideoQuality, YouMute, YTABConfig, YouQuality, YTKACE, DontEatMyContent, YTVideoOverlay, YouSpeed, YouGroupSettings, YouTubeNativeShare, YouPiP\n\nThis is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, YouChooseQuality, YouGroupSettings, YouLoop, YouMute, You",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.44.4Moe-YTKACE1.1.5Patched.ipa",
+     "size": 144983242
+    }
+   ]
+  }
+ ]
+}

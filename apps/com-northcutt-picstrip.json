@@ -1,0 +1,46 @@
+{
+ "name": "PicStrip",
+ "identifier": "dev.perapp.com-northcutt-picstrip",
+ "subtitle": "Simple iOS application to view and strip EXIF and other potentially sensitive metadata from photos before sharing",
+ "description": "Single-app source for PicStrip (com.northcutt.PicStrip). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#25a772",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.northcutt.PicStrip.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.northcutt.PicStrip",
+   "name": "PicStrip",
+   "developerName": "northcutted",
+   "subtitle": "Simple iOS application to view and strip EXIF and other potentially sensitive metadata from photos before sharing",
+   "localizedDescription": "PicStrip:\n\nYour photos, your privacy. Strip metadata and redact sensitive text — 100% on your device.\n\nPicStrip removes EXIF location data, camera metadata, and visually redacts personally identifiable information (PII) from photos and videos before you share them. Scanning and image processing use Apple frameworks on the device. PicStrip has no developer photo server, analytics or advertising SDK. User-selected imports, saves and shares follow the chosen service settings; optional Apple models may need a download.\n\nWhat PicStrip Does:\n\nAvailable in English and 16 more localizations, including separate Spanish for Spain and Latin America.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.northcutt.PicStrip.png",
+   "tintColor": "#25a772",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-10-07T00:57:07Z",
+     "localizedDescription": "1.7.0 (2026-10-07):\n\n• accessibility and Liquid Glass pass over every screen (31e7b1c).\n• add an isolated manual Rust signing canary (31fba7e).\n• adopt the final simulator recovery adapter (a6a1f0b).\n• consolidate repository guides and retire legacy tooling (ab3f88d).\n• declare the staged 1.7.0 draft build 105.1 as the one being replaced (b878e10).\n• finalize review flows and localized store evidence (973fd64).\n• include effective token bypass permission in diagnostics (f5f5262).\n\n• isolate screenshot devices on fresh runners (8be9c45).\n• new store screenshots in all 17 locales (29364e3).\n• pin platform with isolated hosted fixture policy (37e8d46).\n• pin the final native CLI canary revision (87dc9df).\n• pin the simulator recovery toolkit (e4c10d2).\n• pin the verified toolkit implementation (d09d642).\n\n• remove dead code, orphaned strings and stray files (922ad5a).\n• retain synthetic UI failure diagnostics (f4d3d8a).\n\n• share risk colours and category symbols (e5fe1cf).\n\n• store screenshots with the video editor, in all 17 locales (7afb4d7).\n• use the packaged Python iOS toolkit (f3504de).\n• batch: open photos and videos from files as one batch (871073e).\n• ci: adopt shared tools and native QA (21c092f).\n• core: share the metadata-only video clean with the extension (8d9715f).\n• home: describe each gradient blob as a value (9b169a8).\n• project: keep Xcode's ordering for the PhotoLibraryWriter entries (7bae20f).\n• screenshots: fictional photos and a street video drawn in code (1b980fd).\n• screenshots: keep the flyer's cover on the flyer (28831b1).\n• screenshots: recapture all 17 locales and store them in Git LFS (559a03e).\n• screenshots: scroll the video editor back from below its timeline (4c787e8).\n• screenshots: six store scenes that show what PicStrip does (b47d085).\n• share: cover the handoff notification and both actions (77ebbba).\n• share: drop the support code only the actions used (f1b7a39).\n• share: remove the Strip Metadata and Edit in PicStrip actions (1528f11).\n• store: new screenshot order and benefit headlines (d312cae).\n\nFeatures:\n\n• a video store screenshot; camera controls on the black, never half over the picture (6e4fb25).\n• before/after, saved summary, screenshots, videos and Live Photos (ae28a30).\n• cover regions with an emoji (b95cce4).\n• localize name detection and the live viewfinder (f58e62f).\n• partial covering, purpose presets and Always Cover (be9b2fe).\n• about: a Rate PicStrip row (8f965d3).\n• batch: clean batches to HEIC by default (f45228b).\n• camera: localize \"Take Photo\" into all 15 locales (9e0722e).\n• camera: name, track and steady the live viewfinder's findings (11ae062).\n• camera: record video at the Camera app's quality; home and store listing for 1.7 (a8de06e).\n• camera: show live in the viewfinder what will be redacted (af2043a).\n• camera: show match strength in the live viewfinder (affe65f).\n• camera: take a photo straight into the editor (380327a).\n• detection: find people's names with the on-device language model (619dbf6).\n• editor: preview every redaction in its real style, live (b82c6ac).\n• home: drift a mesh gradient behind the home screen (33a65fc).\n• home: lead with Take Photo (45156ab).\n• home: one Camera, one library button, and batches with videos (6f7816d).\n• home: only offer Paste while the pasteboard holds an image (2b7cf76).\n• home: show every way to import at once (1b8dc6c).\n• home: tell the hero's story with a little photo (27b77ce).\n• l10n: split Spanish into Spain (es) and Latin America (es-419) (c84c617).\n• redaction: add a blur style; fail closed when a pixel pass cannot run (3e1bada).\n• redaction: adjustable blur and pixelate strength; crosshatch that reads as crosshatch (862382a).\n\n• redaction: tap an object to redact it, with consent for the model (463e8ca).\n• review: a session-only gate for the App Store rating request (20939b7).\n• review: ask for a rating after clean saves, batches and videos (acd957c).\n• scan: real progress, a better scan animation, and nothin",
+     "downloadURL": "https://github.com/northcutted/picstrip/releases/download/v1.7.0-build-107.1/application.ipa",
+     "size": 11119468
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "PicStrip uses the camera to capture documents, photos and videos you want to clean. Captures are processed on your device.",
+     "NSMicrophoneUsageDescription": "PicStrip records sound with the videos you take in the app. Recordings stay on your device until you save or share a cleaned copy.",
+     "NSPhotoLibraryAddUsageDescription": "PicStrip saves cleaned photos and videos to your photo library.",
+     "NSPhotoLibraryUsageDescription": "PicStrip needs access to your photo library to replace an original photo or video when you ask it to."
+    }
+   }
+  }
+ ]
+}

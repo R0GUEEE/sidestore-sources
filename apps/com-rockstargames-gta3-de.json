@@ -1,0 +1,44 @@
+{
+ "name": "GTA III",
+ "identifier": "dev.perapp.com-rockstargames-gta3-de",
+ "subtitle": "ipaomtk.com | What is GTA III – Definitive IPA? GTA III – Definitive IPA is an iOS action-adventure game package that al",
+ "description": "Single-app source for GTA III (com.rockstargames.gta3.de). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/GTA-III-%E2%80%93-Definitive-IPA-v1.84.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.gta3.de",
+   "name": "GTA III",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is GTA III – Definitive IPA? GTA III – Definitive IPA is an iOS action-adventure game package that allows iPhone users to experienc",
+   "localizedDescription": "ipaomtk.com | What is GTA III – Definitive IPA? GTA III – Definitive IPA is an iOS action-adventure game package that allows iPhone users to experienc",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/GTA-III-%E2%80%93-Definitive-IPA-v1.84.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.72.42919648",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Việt Hóa. Đã mở khoá không cần tài khoản - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://archive.org/download/gta-vh-ttjb/GTA%20III_1.72.42919648_VH_TTJB.ipa",
+     "size": 1513175995
+    },
+    {
+     "version": "1.84.2",
+     "date": "2026-04-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is GTA III – Definitive IPA? GTA III – Definitive IPA is an iOS action-adventure game package that allows iPhone users to experienc",
+     "downloadURL": "https://file.ipaomtk.com/gta-iii-definitive/GTA-III-Definitive-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.72.429",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "🟠 Free  🟠 Unlimited Cash  🟠 Unlimited Ammo  🟠 Never Die",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/GTA.III.-.RCS.v1.72.42919648.2.ipa",
+     "size": 1451120000
+    }
+   ]
+  }
+ ]
+}

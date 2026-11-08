@@ -1,0 +1,43 @@
+{
+ "name": "BetterAttend",
+ "identifier": "dev.perapp.au-ingo-betterattend",
+ "subtitle": "A native client for Hack Club Attend",
+ "description": "Single-app source for BetterAttend (au.ingo.betterattend). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f05466",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/au.ingo.betterattend.png",
+ "apps": [
+  {
+   "bundleIdentifier": "au.ingo.betterattend",
+   "name": "BetterAttend",
+   "developerName": "ingoau",
+   "subtitle": "A native client for Hack Club Attend",
+   "localizedDescription": "BetterAttend:\n\nA Hack Club Attend client for Android and iOS Faster, native, and offline-first.\n\nBetterAttend is an unofficial app, not made by Hack Club: native rewrites of Hack Club's Attend mobile app (Play Store):\n\n• android/ — Kotlin, Jetpack Compose and Material 3 Expressive.\n• ios/ — Swift and SwiftUI (iOS 18+, Liquid Glass on iOS 26), with WidgetKit widgets,ios/README.md.\n\nBoth use the same backend (hackclub/attend) and sign in with the same Hack Club OAuth client as the official app, so any existing Attend account works. They show up as BetterAttend and install alongside the official app.\n\nWhat's in it:\n\nFor organizers.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/au.ingo.betterattend.png",
+   "tintColor": "#f05466",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ingoau/better-attend@main/docs/screenshots/home-light.png",
+    "https://cdn.jsdelivr.net/gh/ingoau/better-attend@main/docs/screenshots/scan-light.png",
+    "https://cdn.jsdelivr.net/gh/ingoau/better-attend@main/docs/screenshots/people-light.png",
+    "https://cdn.jsdelivr.net/gh/ingoau/better-attend@main/docs/screenshots/participant-light.png",
+    "https://cdn.jsdelivr.net/gh/ingoau/better-attend@main/docs/screenshots/travel-light.png"
+   ],
+   "versions": [
+    {
+     "version": "1.9.0",
+     "date": "2026-11-07T02:07:03Z",
+     "localizedDescription": "Android: most phones want BetterAttend-1.9.0-arm64-v8a.apk; -universal.apk runs on everything.\n\niOS: BetterAttend-1.9.0-unsigned.ipa installs with AltStore or SideStore, which sign it with your own Apple ID. With a free Apple ID the app needs refreshing every 7 days (the tool does this for you), and widgets and NFC may not work.\n\n• List scan points in Attend's order (sync with hackclub/attend).\n• Android: support Android 7.0+ (minSdk 24).",
+     "downloadURL": "https://github.com/ingoau/better-attend/releases/download/v1.9.0/BetterAttend-1.9.0-unsigned.ipa",
+     "size": 3101522
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "BetterAttend uses the camera to scan ticket QR codes.",
+     "NSPhotoLibraryAddUsageDescription": "BetterAttend saves stat cards you create to your photo library."
+    }
+   }
+  }
+ ]
+}

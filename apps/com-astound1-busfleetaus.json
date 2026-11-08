@@ -1,0 +1,30 @@
+{
+ "name": "CNC VMC-ipaomtk",
+ "identifier": "dev.perapp.com-astound1-busfleetaus",
+ "subtitle": "ipaomtk.com | CNC-VMC IPA MOD, Computer Numerical Control (CNC) and Vertical Machining Centers (VMCs) are two of the mos",
+ "description": "Single-app source for CNC VMC-ipaomtk (com.astound1.busfleetaus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/CNC-VMC-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.astound1.busfleetaus",
+   "name": "CNC VMC-ipaomtk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | CNC-VMC IPA MOD, Computer Numerical Control (CNC) and Vertical Machining Centers (VMCs) are two of the most advanced technologies revolu",
+   "localizedDescription": "ipaomtk.com | CNC-VMC IPA MOD, Computer Numerical Control (CNC) and Vertical Machining Centers (VMCs) are two of the most advanced technologies revolu",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/CNC-VMC-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-08-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | CNC-VMC IPA MOD, Computer Numerical Control (CNC) and Vertical Machining Centers (VMCs) are two of the most advanced technologies revolu",
+     "downloadURL": "https://file.ipaomtk.com/ipa/CNC-VMC.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

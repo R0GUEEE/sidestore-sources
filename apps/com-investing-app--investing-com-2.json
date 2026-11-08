@@ -1,0 +1,30 @@
+{
+ "name": "Investing.com",
+ "identifier": "dev.perapp.com-investing-app",
+ "subtitle": "Investing.com",
+ "description": "Single-app source for Investing.com (com.investing.app). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.investing.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.investing.app",
+   "name": "Investing.com",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with NoAds",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.investing.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.50.0",
+     "date": "2025-03-04T00:00:00Z",
+     "localizedDescription": "Injected with NoAds",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Investing.com_6.50.0_NoAds_%40thisismanpreets_apptesters.org.ipa",
+     "size": 139300019
+    }
+   ]
+  }
+ ]
+}

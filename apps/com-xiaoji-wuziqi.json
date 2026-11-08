@@ -1,0 +1,30 @@
+{
+ "name": "Egg3DS",
+ "identifier": "dev.perapp.com-xiaoji-wuziqi",
+ "subtitle": "3DS emulator for iOS, apparently needs a special controller to work, test at your own discretion Last updated: 09-23-202",
+ "description": "Single-app source for Egg3DS (com.xiaoji.wuziqi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xiaoji.wuziqi.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.xiaoji.wuziqi",
+   "name": "Egg3DS",
+   "developerName": "EGG-3DS",
+   "subtitle": "3DS emulator for iOS, apparently needs a special controller to work, test at your own discretion Last updated: 09-23-2023 Status: ⚠️",
+   "localizedDescription": "3DS emulator for iOS, apparently needs a special controller to work, test at your own discretion Last updated: 09-23-2023 Status: ⚠️",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xiaoji.wuziqi.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "3DS emulator for iOS, apparently needs a special controller to work, test at your own discretion Last updated: 09-23-2023 Status: ⚠️",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-19-2023/Egg3DS-1.0.ipa",
+     "size": 102336206
+    }
+   ]
+  }
+ ]
+}

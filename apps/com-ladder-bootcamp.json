@@ -1,0 +1,30 @@
+{
+ "name": "Ladder",
+ "identifier": "dev.perapp.com-ladder-bootcamp",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Ladder (com.ladder.bootcamp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ladder.bootcamp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ladder.bootcamp",
+   "name": "Ladder",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ladder.bootcamp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.1",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/Ladder_4.6.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 121103631
+    }
+   ]
+  }
+ ]
+}

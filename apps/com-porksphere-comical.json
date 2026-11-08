@@ -1,0 +1,41 @@
+{
+ "name": "Comical (dev)",
+ "identifier": "dev.perapp.com-porksphere-comical",
+ "subtitle": "A cross-platform comic reader for iOS, Android, desktop, and the web",
+ "description": "Single-app source for Comical (dev) (com.porksphere.comical). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.porksphere.comical.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.porksphere.comical",
+   "name": "Comical (dev)",
+   "developerName": "porksphere",
+   "subtitle": "A cross-platform comic reader for iOS, Android, desktop, and the web",
+   "localizedDescription": "Getting started · Install.\n\nFeatures:\n\n• Paged and long-strip readers.\n• Library, collections and groups.\n\n• New-chapter feed, with notifications.\n• AniList and MyAnimeList tracking.\n• Sync between your phones and computer.\n\niOS:\n\nInstall through SideStore or AltStore.\n\nAndroid:\n\nInstall.\n\ndirectly.\n\nWindows & Linux:\n\nInstall.\n\non Windows. On Linux, use the.\n\nor the.\n\nWarning: the installers aren't code-signed, so Windows SmartScreen will warn on first run.\n\nWeb:\n\nThe frontend and backend can be run as two Docker containers. See.\n\nA demo on sample data runs at porksphere.github.io/comical-app/demo.\n\nHow it works:\n\nRegistry → bridge → series.\n\n• A registry is a list of bridges you add in Settings. Public ones are listed under the comical-registry topic on GitHub.\n\n• Series are what a bridge sources, and what you browse and read.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.porksphere.comical.png",
+   "tintColor": "#6058e8",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/porksphere/comical-app@main/docs/media/01-browse.png",
+    "https://cdn.jsdelivr.net/gh/porksphere/comical-app@main/docs/media/02-series.png",
+    "https://cdn.jsdelivr.net/gh/porksphere/comical-app@main/docs/media/03-reader.png"
+   ],
+   "versions": [
+    {
+     "version": "0.8.0.260",
+     "date": "2026-11-08T00:06:27Z",
+     "localizedDescription": "Development-client shell (Debug + expo-dev-client). Carries the same com.porksphere.comical bundle id as the release and PR builds, so it shares their data and REPLACES whatever Comical is installed.\n\nInstall via source (recommended): add this URL in SideStore/AltStore → Sources → +.\n\nThen run bun run dev:device on your PC and connect from the app's launcher. Rebuild (re-run this workflow) only when native code changes — a native module, a config plugin, an SDK bump. Pure JS/TS iterates over Metro with no rebuild at all.",
+     "downloadURL": "https://github.com/porksphere/comical-app/releases/download/ios-devclient/comical-devclient.ipa",
+     "size": 48390141
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Comical uses the camera to scan the pairing code shown by Comical on your computer.",
+     "NSLocalNetworkUsageDescription": "Expo Dev Launcher uses the local network to discover and connect to development servers running on your computer."
+    }
+   }
+  }
+ ]
+}

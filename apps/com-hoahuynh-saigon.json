@@ -1,0 +1,30 @@
+{
+ "name": "SaiGon",
+ "identifier": "dev.perapp.com-hoahuynh-saigon",
+ "subtitle": "ipaomtk.com | What is SaiGon15 IPA? SaiGon15 IPA is the iOS installable version of a streaming-focused media application",
+ "description": "Single-app source for SaiGon (com.hoahuynh.SaiGon). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/SaiGo-15-Jb-logo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hoahuynh.SaiGon",
+   "name": "SaiGon",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is SaiGon15 IPA? SaiGon15 IPA is the iOS installable version of a streaming-focused media application that provides access to live ",
+   "localizedDescription": "ipaomtk.com | What is SaiGon15 IPA? SaiGon15 IPA is the iOS installable version of a streaming-focused media application that provides access to live ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/SaiGo-15-Jb-logo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9~beta9",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is SaiGon15 IPA? SaiGon15 IPA is the iOS installable version of a streaming-focused media application that provides access to live ",
+     "downloadURL": "https://file.ipaomtk.com/saigon15/SaiGon15-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

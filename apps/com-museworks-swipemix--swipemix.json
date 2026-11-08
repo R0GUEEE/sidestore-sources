@@ -1,0 +1,44 @@
+{
+ "name": "SwipeMix",
+ "identifier": "dev.perapp.com-museworks-swipemix",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for SwipeMix (com.museworks.swipemix). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.museworks.swipemix",
+   "name": "SwipeMix",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.14.0",
+     "date": "2026-09-04T00:00:00Z",
+     "localizedDescription": "@blatants | Carousel Post Collage SwipeMix  • Bundle ID: com.museworks.swipemix • Updated to: 2.14.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscri",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11977-Carousel_Post_Collage_SwipeMix_v2_14_0_Subscription_Unlocked_blatant.ipa",
+     "size": 78602062
+    },
+    {
+     "version": "2.13.1",
+     "date": "2026-08-21T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/SwipeMix_2.13.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 76792623
+    },
+    {
+     "version": "2.11.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-12-2025/SwipeMix_2.11.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 352721815
+    }
+   ]
+  }
+ ]
+}

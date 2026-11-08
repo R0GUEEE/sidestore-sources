@@ -1,0 +1,30 @@
+{
+ "name": "KKPhoto",
+ "identifier": "dev.perapp.tech-miidii-albummanager",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for KKPhoto (tech.miidii.AlbumManager). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tech.miidii.AlbumManager",
+   "name": "KKPhoto",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/KKPhoto_2.4_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 17697166
+    }
+   ]
+  }
+ ]
+}

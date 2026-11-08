@@ -1,0 +1,30 @@
+{
+ "name": "Master Duel",
+ "identifier": "dev.perapp.jp-konami-masterduel",
+ "subtitle": "@kamohacks | Yu-Gi-Oh! Master Duel 🆕  🔩Hack Features🔩 ✅ All Cards Face up → reveal opponent's hand and field  ✅Always Wi",
+ "description": "Single-app source for Master Duel (jp.konami.masterduel). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16895.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.konami.masterduel",
+   "name": "Master Duel",
+   "developerName": "@kamohacks",
+   "subtitle": "@kamohacks | Yu-Gi-Oh! Master Duel 🆕  🔩Hack Features🔩 ✅ All Cards Face up → reveal opponent's hand and field  ✅Always Win → automatic victory in duels",
+   "localizedDescription": "@kamohacks | Yu-Gi-Oh! Master Duel 🆕  🔩Hack Features🔩 ✅ All Cards Face up → reveal opponent's hand and field  ✅Always Win → automatic victory in duels\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16895.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@kamohacks | Yu-Gi-Oh! Master Duel 🆕  🔩Hack Features🔩 ✅ All Cards Face up → reveal opponent's hand and field  ✅Always Win → automatic victory in duels",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16895-Master%20Duel%20-%20KamoHacks%20%5B2.9.0%5D.ipa",
+     "size": 242565767
+    }
+   ]
+  }
+ ]
+}

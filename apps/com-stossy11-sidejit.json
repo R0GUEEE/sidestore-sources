@@ -1,0 +1,50 @@
+{
+ "name": "SideJIT",
+ "identifier": "dev.perapp.com-stossy11-sidejit",
+ "subtitle": "Wireless JIT on iOS 17 (Windows or Mac) with SideJITServer",
+ "description": "Single-app source for SideJIT (com.stossy11.SideJIT). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stossy11.SideJIT",
+   "name": "SideJIT",
+   "developerName": "Stossy11 | nythepegasus",
+   "subtitle": "Wireless JIT on iOS 17 (Windows or Mac) with SideJITServer",
+   "localizedDescription": "Its an app to enable JIT on iOS 17 with macOS or Windows without needing to interact with the computer at all. using nythepegasus SideJITServer you can find [it here](https://github.com/nythepegasus/SideJITServer)",
+   "iconURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.4",
+     "date": "2024-04-16T03:03:34.811286+00:00",
+     "localizedDescription": "Updated images on SideStore Connect this update will not come to the Github and will be skipped on github too",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+     "size": 634794
+    },
+    {
+     "version": "0.0.3",
+     "date": "2024-04-15T04:31:28.706830+00:00",
+     "localizedDescription": "1. New icon \n2. New Accent Colours\n3. Fixed Notifications\n4. Added Version in settings (doesnt work rn will get fixed next update lol\n5. Added https:// autocorrect \n6. a bit more that I forgot\n7. Fixed app not showing error when it cannot connect to the server",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+     "size": 634794
+    },
+    {
+     "version": "0.0.1",
+     "date": "2024-04-15T00:46:28.430668+00:00",
+     "localizedDescription": "1st Release",
+     "downloadURL": "https://connect.sidestore.io/public/apps/com.stossy11.SideJIT/app.ipa",
+     "size": 128529
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Local network access is required to use the app."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Xina2_2.1.6~f1",
+ "identifier": "dev.perapp.com-xina-jailbreak",
+ "subtitle": "Xina2… but better",
+ "description": "Single-app source for Xina2_2.1.6~f1 (com.xina.jailbreak). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Xina2_2.1.6~f1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.xina.jailbreak",
+   "name": "Xina2_2.1.6~f1",
+   "developerName": "Xina2_2.1.6~f1 x CyPwn",
+   "subtitle": "Xina2… but better",
+   "localizedDescription": "Xina2… but better",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Xina2_2.1.6~f1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.6~f1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Xina2… but better",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Xina2_2.1.6~f1.ipa",
+     "size": 59936604
+    }
+   ]
+  }
+ ]
+}

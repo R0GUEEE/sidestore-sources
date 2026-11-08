@@ -1,0 +1,30 @@
+{
+ "name": "BoardBattleTeamFight",
+ "identifier": "dev.perapp.com-ensareray-bbtf",
+ "subtitle": "Mods",
+ "description": "Single-app source for BoardBattleTeamFight (com.EnsarEray.bbtf). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.EnsarEray.bbtf.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.EnsarEray.bbtf",
+   "name": "BoardBattleTeamFight",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Mods",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.EnsarEray.bbtf.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.98",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/BoardBattleTeamFight_0.98_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 91460285
+    }
+   ]
+  }
+ ]
+}

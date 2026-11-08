@@ -1,0 +1,30 @@
+{
+ "name": "PandolifeApp_TS",
+ "identifier": "dev.perapp.synthetic-pandolifeapp-ts-0d568b3a",
+ "subtitle": "Pandolife App v1.6 - This should only be installed if you have Pandora with Pandolife tweak injected. This add-on is a s",
+ "description": "Single-app source for PandolifeApp_TS (synthetic.pandolifeapp-ts.0d568b3a). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/PandolifeApp_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.pandolifeapp-ts.0d568b3a",
+   "name": "PandolifeApp_TS",
+   "developerName": "PandolifeApp_TS x CyPwn",
+   "subtitle": "Pandolife App v1.6 - This should only be installed if you have Pandora with Pandolife tweak injected. This add-on is a separate app to play and manage",
+   "localizedDescription": "Pandolife App v1.6 - This should only be installed if you have Pandora with Pandolife tweak injected. This add-on is a separate app to play and manage",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/PandolifeApp_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Pandolife App v1.6 - This should only be installed if you have Pandora with Pandolife tweak injected. This add-on is a separate app to play and manage",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/PandolifeApp_TS.ipa",
+     "size": 5494538
+    }
+   ]
+  }
+ ]
+}

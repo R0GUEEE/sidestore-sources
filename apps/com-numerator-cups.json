@@ -1,0 +1,30 @@
+{
+ "name": "Grams",
+ "identifier": "dev.perapp.com-numerator-cups",
+ "subtitle": "ipaomtk.com | I know how crucial it is to have accurate measurements and conversions while preparing delicious meals and",
+ "description": "Single-app source for Grams (com.numerator.cups). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/Converter-Kitchen-Baker-Units-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.numerator.cups",
+   "name": "Grams",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | I know how crucial it is to have accurate measurements and conversions while preparing delicious meals and treats. The Converter Kitchen",
+   "localizedDescription": "ipaomtk.com | I know how crucial it is to have accurate measurements and conversions while preparing delicious meals and treats. The Converter Kitchen",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/Converter-Kitchen-Baker-Units-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0",
+     "date": "2024-02-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | I know how crucial it is to have accurate measurements and conversions while preparing delicious meals and treats. The Converter Kitchen",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Converter-Kitchen-Baker-Units.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

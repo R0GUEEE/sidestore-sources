@@ -1,0 +1,30 @@
+{
+ "name": "Magiceraser",
+ "identifier": "dev.perapp.com-unknown-magiceraser",
+ "subtitle": "بەرنامەیەک بۆ سڕینەیەوەی شتە زیادەکان لەسەر وێنە",
+ "description": "Single-app source for Magiceraser (com.unknown.magiceraser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Magiceraser.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.magiceraser",
+   "name": "Magiceraser",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک بۆ سڕینەیەوەی شتە زیادەکان لەسەر وێنە",
+   "localizedDescription": "بەرنامەیەک بۆ سڕینەیەوەی شتە زیادەکان لەسەر وێنە",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Magiceraser.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.1",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ سڕینەیەوەی شتە زیادەکان لەسەر وێنە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/MagicEraser.3.4.1.ipa",
+     "size": 233720000
+    }
+   ]
+  }
+ ]
+}

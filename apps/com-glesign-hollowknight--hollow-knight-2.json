@@ -1,0 +1,30 @@
+{
+ "name": "Hollow Knight",
+ "identifier": "dev.perapp.com-glesign-hollowknight",
+ "subtitle": "Hollow Knight",
+ "description": "Single-app source for Hollow Knight (com.GLESign.HollowKnight). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.GLESign.HollowKnight",
+   "name": "Hollow Knight",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nHollow Knight v1.5.78.11833b5\n\n🇷🇺 Погрузитесь в атмосферный мир Hollow Knight на iOS: исследуйте тайные королевства, сражайтесь с врагами и открывайте новые способности в этом эпическом приключении!  \n— Портировано на iOS  \n— Требуется iOS 11.0  \n— Исправлены вылеты в некоторых катсценах\n© Создано: GLESign\n\n🇺🇸 Dive into the atmospheric world of Hollow Knight on iOS: explore hidden kingdoms, battle foes, and unlock new abilities in this epic adventure!  \n— Ported to iOS  \n— Requires iOS 11.0\n— Fixed crashes in some cutscenes\n© Created by: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.78.11833",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nHollow Knight v1.5.78.11833b5\n\n🇷🇺 Погрузитесь в атмосферный мир Hollow Knight на iOS: исследуйте тайные королевства, сражайтесь с врагами и открывайте новые способности в этом эпическом приключении!  \n— Портировано на iOS  \n— Требуется iOS 11.0  \n— Исправлены вылеты в некоторых катсценах\n© Создано: GLESign\n\n🇺🇸 Dive into the atmospheric world of Hollow Knight on iOS: explore hidden kingdoms, battle foes, and unlock new abilities in this epic adventure!  \n— Ported to iOS  \n— Requires iOS 11.0\n— Fixed crashes in some cutscenes\n© Created by: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/970b7a72-c1e2-413f-9e59-1c56268d7a9c/Hollow_Knight_v1.5.78.11833b5_tg_glesign_.ipa",
+     "size": 1063797384
+    }
+   ]
+  }
+ ]
+}

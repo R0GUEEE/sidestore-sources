@@ -1,0 +1,30 @@
+{
+ "name": "Hiwidget",
+ "identifier": "dev.perapp.com-zerone-hidesktop",
+ "subtitle": "Hiwidget",
+ "description": "Single-app source for Hiwidget (com.zerone.hidesktop). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zerone.hidesktop",
+   "name": "Hiwidget",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.90",
+     "date": "2025-03-04T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Hiwidget_4.1.90_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 338643940
+    }
+   ]
+  }
+ ]
+}

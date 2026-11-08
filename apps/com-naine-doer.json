@@ -1,0 +1,30 @@
+{
+ "name": "Doer",
+ "identifier": "dev.perapp.com-naine-doer",
+ "subtitle": "Features:  • [x] Linux.do browsing — Latest, top, categories, tags, and search, all rendered with native UIKit. • [x] To",
+ "description": "Single-app source for Doer (com.naine.doer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.naine.doer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.naine.doer",
+   "name": "Doer",
+   "developerName": "moliango",
+   "subtitle": "Features:  • [x] Linux.do browsing — Latest, top, categories, tags, and search, all rendered with native UIKit. • [x] Topic detail — Cooked HTML rende",
+   "localizedDescription": "Features:  • [x] Linux.do browsing — Latest, top, categories, tags, and search, all rendered with native UIKit. • [x] Topic detail — Cooked HTML rende\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.naine.doer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.6",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Features:  • [x] Linux.do browsing — Latest, top, categories, tags, and search, all rendered with native UIKit. • [x] Topic detail — Cooked HTML rende",
+     "downloadURL": "https://github.com/moliango/doer/releases/download/v1.8.6/doer-unsigned.ipa",
+     "size": 28095758
+    }
+   ]
+  }
+ ]
+}

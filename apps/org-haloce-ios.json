@@ -1,0 +1,30 @@
+{
+ "name": "Halo: CE",
+ "identifier": "dev.perapp.org-haloce-ios",
+ "subtitle": "Halo: CE for iPhone and iPad:  Halo: Combat Evolved running natively on iPhone and iPad. It's a port of the Halo decompi",
+ "description": "Single-app source for Halo: CE (org.haloce.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.haloce.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.haloce.ios",
+   "name": "Halo: CE",
+   "developerName": "NicholasDominici",
+   "subtitle": "Halo: CE for iPhone and iPad:  Halo: Combat Evolved running natively on iPhone and iPad. It's a port of the Halo decompilation projects (see credits),",
+   "localizedDescription": "Halo: CE for iPhone and iPad:  Halo: Combat Evolved running natively on iPhone and iPad. It's a port of the Halo decompilation projects (see credits),\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.haloce.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Halo: CE for iPhone and iPad:  Halo: Combat Evolved running natively on iPhone and iPad. It's a port of the Halo decompilation projects (see credits),",
+     "downloadURL": "https://github.com/NicholasDominici/halo-ce-ios/releases/download/v0.1.2-ios/Halo-CE-iOS-unsigned.ipa",
+     "size": 5663938
+    }
+   ]
+  }
+ ]
+}

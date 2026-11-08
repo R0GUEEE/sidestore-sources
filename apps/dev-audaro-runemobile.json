@@ -1,0 +1,46 @@
+{
+ "name": "RuneMobile",
+ "identifier": "dev.perapp.dev-audaro-runemobile",
+ "subtitle": "Unofficial native iOS and Android client that runs real RuneLite — the full, unmodified plugin ecosystem — on an on-devi",
+ "description": "Single-app source for RuneMobile (dev.audaro.runemobile). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#9d6734",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.audaro.runemobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.audaro.runemobile",
+   "name": "RuneMobile",
+   "developerName": "audaro",
+   "subtitle": "Unofficial native iOS and Android client that runs real RuneLite — the full, unmodified plugin ecosystem — on an on-device OpenJDK 21 JVM. Sideload only; not affiliated with or endorsed by Jagex or Ru",
+   "localizedDescription": "RuneLite on Mobile — iOS & Android (unofficial):\n\n⚠️ Unofficial fan project. Not affiliated with, endorsed, sponsored, or approved by Jagex Ltd or the RuneLite project. This is a sideload-only, personal / technical build. It is not on Jagex's approved-client list and not on the App Store, Google Play, TestFlight, or F-Droid. Logging into live Old School RuneScape with an unapproved third-party client can violate Jagex's Terms of Service and carries a real risk of an account ban — use a throwaway account you can afford to lose, never your main. Provided as-is, without warranty, at your own risk. See Legal notice and Risk & disclaimer.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.audaro.runemobile.png",
+   "tintColor": "#9d6734",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/audaro/runemobile@master/docs/screenshots/quest-helper.jpg",
+    "https://cdn.jsdelivr.net/gh/audaro/runemobile@master/docs/screenshots/shortest-path.jpg",
+    "https://cdn.jsdelivr.net/gh/audaro/runemobile@master/docs/screenshots/plugin-hub.jpg",
+    "https://cdn.jsdelivr.net/gh/audaro/runemobile@master/docs/screenshots/menu.jpg",
+    "https://cdn.jsdelivr.net/gh/audaro/runemobile@master/docs/screenshots/menu-entry-swapper.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.9.0",
+     "date": "2026-11-08T03:13:17Z",
+     "localizedDescription": "Everything since v0.8.0. New in this release: the game has sound on both apps, the iPhone app eases off when the phone gets hot, and new iPhone installs start on lighter settings. Still on RuneLite 1.13.6 and the current game revision.\n\nReporting a problem: tap Share logs (About screen; on iPhone also top right of the start screen) and attach the file to your report. Read it first if you like; it is plain text.\n\nAdded:\n\n• The game has sound. Music, sound effects and area sounds now play on both apps, and so do plugins that bring their own sounds. They mix with anything else you're playing, and they stop when you leave the app and come back when you return. Volumes are in the game's own settings, and Game settings > Sound > Game sound turns it all off. On iPhone the game also plays with the Ring/Silent switch on silent, so use Game sound to quiet it.\n• iPhone: the game eases off when the phone gets hot. It lowers the frame rate as the phone warms up, on every renderer, and goes back up once it has cooled. Low Power Mode holds it to 30 fps.\n• iPhone: Share logs shows heat, battery, frame timing and memory readings, a line a minute, to help with reports of a hot phone or of the app closing by itself. The memory readings survive the app being closed, so a report from the next launch still has them.\n\nChanged:\n\n• iPhone: new installs start on GPU instead of 117 HD. It runs much lighter on the phone, and 117 HD is still in the plugins panel. If you're already set up, nothing changes, and you can switch by hand.\n• iPhone: new installs start on lighter settings. The frame rate is capped at 30 fps, with a shorter draw distance, and 117 HD starts with simpler shadows and lighting at a lower resolution. You can raise any of it in Game settings or the plugins panel. If you're already set up, your settings stay as they are.\n\nFixed:\n\n• Android: 117 HD no longer stays blurry after the app is closed on a hot phone. The lowered resolution could stick and replace your own setting. A resolution scale you change while the phone is hot now sticks too. If yours is already stuck low, set it back once in the 117 HD settings.\n\nKnown issues:\n\n• Reconnect is a re-login, not a seamless resume. A network drop beyond the in-game reconnect window returns you to the login screen; logging back in restores the session. No game state is lost server-side.\n• Backgrounding on Android can drop the game session. In the background the Android app idles at a slow tick to save battery, and the connection may be cut; on return the automatic re-login runs, and the first resume-login can occasionally need one retry. iOS keeps the game running in the background (a silent audio session plus Picture-in-Picture) while you're logged in.\n• A hot phone runs lighter. Under thermal pressure the 117HD renderer steps its scene-resolution scale down and restores it on cooldown, and on iOS every renderer also lowers its frame rate as the phone warms and goes back up once it cools; Low Power Mode holds it to 30 fps (by design — keeps the phone usable).\n• iOS can close a long session for using too much memory. Seen twice on an iPhone 16 Pro on the GPU renderer, after about 50 minutes each time; the cause isn't known yet. Reopen the app and attach StikDebug as usual. A Share logs report made after it happens includes the memory readings that will help find it.\n• JIT attach (iOS only). iOS requires re-attaching the debugger (StikDebug) per launch to enable JIT; this is an OS constraint, not a bug.\n• The CPU renderer slows as the phone heats up. It draws the whole game in software, so its frame rate is set by how hot the phone is: on a Pixel 7a the same build ran at about 37 fps cool and about 12 fps hot and charging. Use the GPU renderer where your phone supports it.\n\nThis is an unofficial, fan-made client. It is not affiliated with, endorsed by, or sponsored by Jagex or the RuneLite project, and it is not on Jagex's approved-client list.\n\n• Account-ban risk. Logging into live Old School R",
+     "downloadURL": "https://github.com/audaro/RuneMobile/releases/download/v0.9.0/RuneMobile-0.9.0.ipa",
+     "size": 132302227
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.developer.kernel.increased-memory-limit"
+    ],
+    "privacy": {
+     "NSMicrophoneUsageDescription": "RuneLite's audio system enumerates audio devices at startup; this app does not record.",
+     "NSPhotoLibraryAddUsageDescription": "Save your in-game screenshots to your photo library.",
+     "NSPhotoLibraryUsageDescription": "Organize your in-game screenshots into a dedicated RuneLite album."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Risk Of Rain",
+ "identifier": "dev.perapp.com-tdmbest-ror1",
+ "subtitle": "Risk Of Rain",
+ "description": "Single-app source for Risk Of Rain (com.tdmbest.ROR1). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/2eb7ccb3-9acb-43f2-b911-0d6107e41411/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tdmbest.ROR1",
+   "name": "Risk Of Rain",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nRisk of Rain ported to iOS!\n(Reupload for zx repo)\n- Toncho_’s risk of rain android port ported to iOS\n- PDAlife\n- Steam",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/2eb7ccb3-9acb-43f2-b911-0d6107e41411/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nRisk of Rain ported to iOS!\n(Reupload for zx repo)\n- Toncho_’s risk of rain android port ported to iOS\n- PDAlife\n- Steam",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/422383f5-7f60-4c8e-ada1-89a4d29df3df/Risk_of_Rain_1-TDMbest_d.ipa",
+     "size": 26372128
+    }
+   ]
+  }
+ ]
+}

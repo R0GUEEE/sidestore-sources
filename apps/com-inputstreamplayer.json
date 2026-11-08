@@ -1,0 +1,34 @@
+{
+ "name": "ISPlayer",
+ "identifier": "dev.perapp.com-inputstreamplayer",
+ "subtitle": "A player for your own playlists of live TV, movies and series on iPhone,",
+ "description": "Single-app source for ISPlayer (com.InputStreamPlayer). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#098355",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.InputStreamPlayer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.InputStreamPlayer",
+   "name": "ISPlayer",
+   "developerName": "jopsis",
+   "subtitle": "A player for your own playlists of live TV, movies and series on iPhone,",
+   "localizedDescription": "InputStream Player:\n\nA player for your own playlists of live TV, movies and series on iPhone, iPad, Apple TV, Mac and Android/Google TV. In app launchers it appears as ISPlayer.\n\nisplayer.joplabs.app · Español.\n\nIt ships no playlists, credentials or third-party keys. It is meant for content you are entitled to access.\n\nThis repository is for distribution only: verifiable releases, documentation, sample playlists and issues.\n\nSideStore:\n\nOn the iPhone, tap the button; or in SideStore → Sources → +: https://jopsis.github.io/InputStreamPlayer/sidestore/apps.json.\n\nWith LiveContainer, turn on “Fix file picker” in the app's settings, or importing a playlist from a file will do nothing.\n\nWhat it does:\n\n• Live TV with a guide (XMLTV), remote-control zapping and catch-up.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.InputStreamPlayer.png",
+   "tintColor": "#098355",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.75",
+     "date": "2026-11-07T11:11:22Z",
+     "localizedDescription": "Los títulos de «Ver más tarde» y de las listas de Trakt ya no muestran el año bajo el nombre.",
+     "downloadURL": "https://github.com/jopsis/InputStreamPlayer/releases/download/v0.9.75/InputStreamPlayer-iOS-0.9.75-129-unsigned.ipa",
+     "size": 17348206
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

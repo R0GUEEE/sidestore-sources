@@ -1,0 +1,37 @@
+{
+ "name": "Aventuras",
+ "identifier": "dev.perapp.com-karelian-aventura",
+ "subtitle": "A frontend for LLM-based text adventure",
+ "description": "Single-app source for Aventuras (com.karelian.aventura). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3d78bc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.karelian.aventura.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.karelian.aventura",
+   "name": "Aventuras",
+   "developerName": "AventurasTeam",
+   "subtitle": "A frontend for LLM-based text adventure",
+   "localizedDescription": "Aventuras:\n\nInteractive fiction with an AI that remembers. Play a text adventure or write collaboratively, on desktop and Android, with any LLM provider you like — cloud or running on your own machine.\n\nAventuras keeps the story straight: chapters are summarized as you play, a lorebook feeds the right entries into the right scene, an agent tidies that lorebook behind you, and the world state — who is present, where you are, what you carry — is tracked turn by turn.\n\nHighlights:\n\n• Two modes — Adventure, with multiple-choice actions and world tracking; Creative Writing, freeform with AI suggestions. First/second/third person, past or present tense.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.karelian.aventura.png",
+   "tintColor": "#3d78bc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.7.12",
+     "date": "2026-10-09T23:20:00Z",
+     "localizedDescription": "👋 New Contributors:\n\n• @TheDWz made their first contribution in #541.\n\n💥 Breaking:\n\n• Prompt Pack: default templates changed (Lore Management, Interactive Lorebook, Adventure Mode, Creative Writing Mode, Action Choices, Opening Generation and Opening Refinement (Adventure, Creative Writing)). Only the built-in pack updates itself. If you've edited these, use a custom or imported pack, or have a story system prompt using {{ lengthInstruction }}, check the linked PRs for update steps (#528, #534, #577, #530, #538).\n\n✨ Features:\n\n• iOS and iPadOS (16.4+): an unsigned .ipa for sideloading with AltStore, Sideloadly or TrollStore, plus fixes for iPad detection, backup restore and ComfyUI (#541, #559).\n• Story time: a Timeline tab flags time anomalies and lets you anchor, edit and reconcile entry times. New stories and scenarios start at a time you set (#530).\n• Chapter banners in the story view (Interface → Show Chapter Banners), with chapter starts in the navigation panel (#575).\n• Entry numbers on Memory panel chapters (click to jump) and, via Appearance → Show Entry Number and Time, on each narration (#520).\n• Edit a story's title, genre and description from its library card, and pick a genre badge colour (#526).\n• Lore Management reads the just-written chapter in full and continues from its end (#528, #534, #590).\n• Vault assistant knows the current state of the character, lorebook or scenario it was opened from (#577).\n• Gallery newest-first toggle (#589).\n\n🐛 Fixes:\n\n• Stories set to Text Only, or with no saved image mode, no longer generate images (#554).\n• The story wizard keeps the Response Length and Narrator Reinforcement you pick (#570).\n• Fixed crashes on a character with a repeated trait and on wizard results with duplicate names. Repeated traits, aliases and keywords now merge regardless of case (#585, #587).\n• Fixed importing a Vault lorebook into a story, and a lorebook file import now writes to the open branch, not main (#587, #588).\n• Scene-analysis portraits show up right away, respect branches, and don't overwrite one you set (#564).\n• Vault assistant tool calls show their own pending changes when several run together (#576).\n• Hover-only buttons that were invisible but tappable on touch devices are now shown, touchscreen laptops included (#553, #558).\n• Android: the keyboard no longer covers the page, and edge swipes no longer eat taps on the panel button and Send (#521).\n\n🔧 Improvements:\n\n• Exported Vault characters, scenarios and lorebooks import back exactly, with no AI call (#539).\n• The activity report says why each step failed, request by request, and keeps the last 20 turns (#569).\n• The Style Reviewer ignores image prompts, HTML and headers, so it stops advising the narrator on markup (#560).\n• Response Length wording comes from the prompt pack (#538).\n• In-story years and days count from 1, so existing times read one higher (#530).\n• OLED theme accent is light grey; icon buttons get screen-reader labels (#575, #589).",
+     "downloadURL": "https://github.com/AventurasTeam/Aventuras/releases/download/v0.7.12/Aventuras_v0.7.12_ios-arm64-unsigned.ipa",
+     "size": 17620831
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Scan QR codes to pair devices for local story sync.",
+     "NSLocalNetworkUsageDescription": "Aventuras uses the local network to sync stories directly between your devices."
+    }
+   }
+  }
+ ]
+}

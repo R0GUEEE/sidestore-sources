@@ -1,0 +1,30 @@
+{
+ "name": "Chess Universe+",
+ "identifier": "dev.perapp.com-kingsofgames-chessuniverseplus",
+ "subtitle": "Chess Universe+ by sidelix",
+ "description": "Single-app source for Chess Universe+ (com.kingsofgames.chessuniverseplus). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a96fab5a812e.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kingsofgames.chessuniverseplus",
+   "name": "Chess Universe+",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Are you a chess enthusiast looking to improve your skills and play against players worldwide? Look no further than Chess Universe+! Our app is the ultimate destination for chess players of all levels, providing a fun and engaging environment to learn and play chess.\r\n\r\nWith Chess Universe+, you'll have access to a vast library of tutorials, lessons, and interactive challenges designed to help you master the game of chess. From beginners learning the basics to advanced players honing their skills, Chess Universe+ has something for everyone.\r\n\r\nBut that's not all! Chess Universe+ also connects you to a community of chess players worldwide, allowing you to play against opponents from different countries and improve your skills. Whether you're looki",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a96fab5a812e.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.27.4",
+     "date": "2026-09-01T00:00:00Z",
+     "localizedDescription": "Are you a chess enthusiast looking to improve your skills and play against players worldwide? Look no further than Chess Universe+! Our app is the ultimate destination for chess players of all levels, providing a fun and engaging environment to learn and play chess.\r\n\r\nWith Chess Universe+, you'll have access to a vast library of tutorials, lessons, and interactive challenges designed to help you master the game of chess. From beginners learning the basics to advanced players honing their skills, Chess Universe+ has something for everyone.\r\n\r\nBut that's not all! Chess Universe+ also connects you to a community of chess players worldwide, allowing you to play against opponents from different countries and improve your skills. Whether you're looki",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2390",
+     "size": 78566554
+    }
+   ]
+  }
+ ]
+}

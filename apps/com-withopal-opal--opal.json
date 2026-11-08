@@ -1,0 +1,44 @@
+{
+ "name": "Opal",
+ "identifier": "dev.perapp.com-withopal-opal",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Opal (com.withopal.opal). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.withopal.opal.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.withopal.opal",
+   "name": "Opal",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.withopal.opal.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.142",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Opal_3.142_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 159317797
+    },
+    {
+     "version": "3.69",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Surpassing Apple's Screen Time, Opal boosts your focus, empowering you to fully seize every day. Last updated: 07-18-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OpalPro/OpalPro-3.69.ipa",
+     "size": 136303513
+    },
+    {
+     "version": "3.56",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Surpassing Apple's Screen Time, Opal boosts your focus, empowering you to fully seize every day. Last updated: 07-18-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OpalPro/OpalPro-3.56.ipa",
+     "size": 85467018
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "OnceWorld",
+ "identifier": "dev.perapp.work-ponix-onceworld",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for OnceWorld (work.ponix.onceworld). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/OnceWorld-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "work.ponix.onceworld",
+   "name": "OnceWorld",
+   "developerName": "ipaomtk.com",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Introduction OnceWorld IPA is an immersive iOS game that invites players into a thoughtfully designed universe filled with exploration, creativity, and narrative-driven gameplay. Built for iPhone and iPad users who enjoy discovering new worlds at their own pace, OnceWorld focuses on atmosphere and engagement rather than rushed mechanics. The game delivers a calm yet intriguing […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/OnceWorld-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.6",
+     "date": "2025-12-15T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Introduction OnceWorld IPA is an immersive iOS game that invites players into a thoughtfully designed universe filled with…",
+     "downloadURL": "https://file.ipaomtk.com/OnceWorld/OnceWorld-IPAOMTK.COM.ipa",
+     "size": 136309100
+    }
+   ]
+  }
+ ]
+}

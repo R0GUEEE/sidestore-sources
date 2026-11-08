@@ -1,0 +1,37 @@
+{
+ "name": "Border Wars",
+ "identifier": "dev.perapp.com-zalmayapps-borderwars",
+ "subtitle": "ipaomtk.com | Border Wars: Army Games RTS on iOS Border Wars: Army Games RTS on iOS brings classic real-time strategy (R",
+ "description": "Single-app source for Border Wars (com.zalmayapps.borderwars). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Border-Wars-Army-Games-RTS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zalmayapps.borderwars",
+   "name": "Border Wars",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Border Wars: Army Games RTS on iOS Border Wars: Army Games RTS on iOS brings classic real-time strategy (RTS) gameplay to mobile devices",
+   "localizedDescription": "ipaomtk.com | Border Wars: Army Games RTS on iOS Border Wars: Army Games RTS on iOS brings classic real-time strategy (RTS) gameplay to mobile devices",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Border-Wars-Army-Games-RTS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.2",
+     "date": "2026-01-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Border Wars: Army Games RTS on iOS Border Wars: Army Games RTS on iOS brings classic real-time strategy (RTS) gameplay to mobile devices",
+     "downloadURL": "https://file.ipaomtk.com/border-wars-army-games-rts/Border-Wars-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "14.0",
+     "date": "2025-04-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Military games Border Wars IPA for iOS ⁣is an engaging strategy and action game ⁣that immerses players ⁢into intense border ⁢conflicts. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Military_Games-Border_Wars_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

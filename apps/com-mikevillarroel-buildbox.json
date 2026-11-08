@@ -1,0 +1,44 @@
+{
+ "name": "BuildBox",
+ "identifier": "dev.perapp.com-mikevillarroel-buildbox",
+ "subtitle": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificat",
+ "description": "Single-app source for BuildBox (com.mikevillarroel.buildbox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mikevillarroel.buildbox",
+   "name": "BuildBox",
+   "developerName": "MikeBuilds",
+   "subtitle": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle",
+   "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://mikevillarroel.github.io/mikebuilds-source/icons/buildbox.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.7",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full…",
+     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.7/BuildBox-2.1.7.ipa",
+     "size": 15942746
+    },
+    {
+     "version": "2.1.6",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle",
+     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.6/BuildBox-2.1.6.ipa",
+     "size": 15597600
+    },
+    {
+     "version": "2.1.5",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "Compile Swift apps straight from your iPhone (GitHub Actions backend), then sign them on-device with your own certificate and install - the full cycle",
+     "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.5/BuildBox-2.1.5.ipa",
+     "size": 15597885
+    }
+   ]
+  }
+ ]
+}

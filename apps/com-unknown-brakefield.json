@@ -1,0 +1,30 @@
+{
+ "name": "Brakefield",
+ "identifier": "dev.perapp.com-unknown-brakefield",
+ "subtitle": "Unlock Premium",
+ "description": "Single-app source for Brakefield (com.unknown.brakefield). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Brakefield.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.brakefield",
+   "name": "Brakefield",
+   "developerName": "Karbin-Store",
+   "subtitle": "Unlock Premium",
+   "localizedDescription": "Unlock Premium",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Brakefield.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.40",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "Unlock Premium",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Brakefield.ipa",
+     "size": 73110000
+    }
+   ]
+  }
+ ]
+}

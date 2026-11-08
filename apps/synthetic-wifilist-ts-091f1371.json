@@ -1,0 +1,30 @@
+{
+ "name": "WifiList_TS",
+ "identifier": "dev.perapp.synthetic-wifilist-ts-091f1371",
+ "subtitle": "View and share Wifi passwords.",
+ "description": "Single-app source for WifiList_TS (synthetic.wifilist-ts.091f1371). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/WifiList_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.wifilist-ts.091f1371",
+   "name": "WifiList_TS",
+   "developerName": "WifiList_TS x CyPwn",
+   "subtitle": "View and share Wifi passwords.",
+   "localizedDescription": "View and share Wifi passwords.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/WifiList_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "View and share Wifi passwords.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/WifiList_TS.ipa",
+     "size": 927815
+    }
+   ]
+  }
+ ]
+}

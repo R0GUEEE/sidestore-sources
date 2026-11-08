@@ -1,0 +1,30 @@
+{
+ "name": "Shark_Arsenal_4.0.14",
+ "identifier": "dev.perapp.com-blackshark-peripheral-community",
+ "subtitle": "Control Black Shark gear on iOS",
+ "description": "Single-app source for Shark_Arsenal_4.0.14 (com.blackshark.peripheral.community). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Shark_Arsenal_4.0.14.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.blackshark.peripheral.community",
+   "name": "Shark_Arsenal_4.0.14",
+   "developerName": "Shark_Arsenal_4.0.14 x CyPwn",
+   "subtitle": "Control Black Shark gear on iOS",
+   "localizedDescription": "Control Black Shark gear on iOS",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Shark_Arsenal_4.0.14.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.14",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Control Black Shark gear on iOS",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Shark_Arsenal_4.0.14.ipa",
+     "size": 79754690
+    }
+   ]
+  }
+ ]
+}

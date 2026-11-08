@@ -1,0 +1,30 @@
+{
+ "name": "ReminiPro",
+ "identifier": "dev.perapp.com-bigwinepot-nwdn-international",
+ "subtitle": "Tweaks: ipafire",
+ "description": "Single-app source for ReminiPro (com.bigwinepot.nwdn.international). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bigwinepot.nwdn.international",
+   "name": "ReminiPro",
+   "developerName": "Aboalaouy97",
+   "subtitle": "Tweaks: ipafire",
+   "localizedDescription": "Tweaks: ipafire\n\nRemini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended loading time. Tweak is highly experimental.\nLast updated: 07-17-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.77",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: ipafire\n\nRemini, Enhance the quality of old and low-resolution photos, with pro features unlocked. Note: First launch may result in crashing and extended…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReminiPro/ReminiPro-2.9.77.ipa",
+     "size": 179064805
+    }
+   ]
+  }
+ ]
+}

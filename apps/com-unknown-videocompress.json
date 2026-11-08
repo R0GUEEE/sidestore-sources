@@ -1,0 +1,30 @@
+{
+ "name": "Video Compress",
+ "identifier": "dev.perapp.com-unknown-videocompress",
+ "subtitle": "ئەپلیکەیشنەکە بۆ پاڵەپەستۆکردنی ڤیدیۆ کلیپەکان و کەمکردنەوەی قەبارەیان بە شێوەیەکی بەرچاو دروستکراوە",
+ "description": "Single-app source for Video Compress (com.unknown.videocompress). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Video.Compress.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.videocompress",
+   "name": "Video Compress",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپلیکەیشنەکە بۆ پاڵەپەستۆکردنی ڤیدیۆ کلیپەکان و کەمکردنەوەی قەبارەیان بە شێوەیەکی بەرچاو دروستکراوە",
+   "localizedDescription": "ئەپلیکەیشنەکە بۆ پاڵەپەستۆکردنی ڤیدیۆ کلیپەکان و کەمکردنەوەی قەبارەیان بە شێوەیەکی بەرچاو دروستکراوە",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Video.Compress.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.10",
+     "date": "2026-03-23T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشنەکە بۆ پاڵەپەستۆکردنی ڤیدیۆ کلیپەکان و کەمکردنەوەی قەبارەیان بە شێوەیەکی بەرچاو دروستکراوە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/karbin-ipa-six/Video.Compressor_2.0.10_3BodSy.ipa",
+     "size": 16010000
+    }
+   ]
+  }
+ ]
+}

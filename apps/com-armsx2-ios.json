@@ -1,0 +1,44 @@
+{
+ "name": "ARMSX2",
+ "identifier": "dev.perapp.com-armsx2-ios",
+ "subtitle": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on",
+ "description": "Single-app source for ARMSX2 (com.armsx2.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.armsx2.ios",
+   "name": "ARMSX2",
+   "developerName": "ARMSX2",
+   "subtitle": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming han",
+   "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming han\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/ARMSX2/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.0-nightly.20261107.1455",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming…",
+     "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261107/ARMSX2-nightly-20261107-acfe231f4a-iOS-arm64.ipa",
+     "size": 40589664
+    },
+    {
+     "version": "2.6.0-nightly.20261106.1507",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming han",
+     "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261106/ARMSX2-nightly-20261106-afd93842f9-iOS-arm64.ipa",
+     "size": 40577893
+    },
+    {
+     "version": "2.6.0-nightly.20261104.1113",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming han",
+     "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261104/ARMSX2-nightly-20261104-720f409f00-iOS-arm64.ipa",
+     "size": 40568716
+    }
+   ]
+  }
+ ]
+}

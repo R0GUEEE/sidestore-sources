@@ -1,0 +1,30 @@
+{
+ "name": "Nado TV",
+ "identifier": "dev.perapp.com-nadotv-nadotv",
+ "subtitle": "ipaomtk.com | What is Nado TV IPA? Nado TV IPA is the iOS installable version of a lightweight media player designed for",
+ "description": "Single-app source for Nado TV (com.nadotv.nadoTv). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Nado-Tv-IPA-v1.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nadotv.nadoTv",
+   "name": "Nado TV",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Nado TV IPA? Nado TV IPA is the iOS installable version of a lightweight media player designed for streaming video content throu",
+   "localizedDescription": "ipaomtk.com | What is Nado TV IPA? Nado TV IPA is the iOS installable version of a lightweight media player designed for streaming video content throu",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Nado-Tv-IPA-v1.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.4",
+     "date": "2026-04-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Nado TV IPA? Nado TV IPA is the iOS installable version of a lightweight media player designed for streaming video content throu",
+     "downloadURL": "https://file.ipaomtk.com/nado-tv/Nado-Tv-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

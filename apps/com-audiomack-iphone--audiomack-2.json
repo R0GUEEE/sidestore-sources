@@ -1,0 +1,30 @@
+{
+ "name": "Audiomack",
+ "identifier": "dev.perapp.com-audiomack-iphone",
+ "subtitle": "Audiomack",
+ "description": "Single-app source for Audiomack (com.audiomack.iphone). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.audiomack.iphone",
+   "name": "Audiomack",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Offline",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.audiomack.iphone.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.10.0",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Offline",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Audiomack_7.10.0_Offline_%40thisismanpreets_apptesters.org.ipa",
+     "size": 164435290
+    }
+   ]
+  }
+ ]
+}

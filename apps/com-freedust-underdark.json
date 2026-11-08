@@ -1,0 +1,30 @@
+{
+ "name": "UnderDark",
+ "identifier": "dev.perapp.com-freedust-underdark",
+ "subtitle": "ipaomtk.com | Welcome to the captivating world of UnderDark Defense IPA , a thrilling game that combines the best elemen",
+ "description": "Single-app source for UnderDark (com.FreeDust.UnderDark). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Underdark-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.FreeDust.UnderDark",
+   "name": "UnderDark",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Welcome to the captivating world of UnderDark Defense IPA , a thrilling game that combines the best elements of tower defense and role-p",
+   "localizedDescription": "ipaomtk.com | Welcome to the captivating world of UnderDark Defense IPA , a thrilling game that combines the best elements of tower defense and role-p",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Underdark-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.0",
+     "date": "2024-09-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Welcome to the captivating world of UnderDark Defense IPA , a thrilling game that combines the best elements of tower defense and role-p",
+     "downloadURL": "https://file.ipaomtk.com/UnderDark%20Defense/Underdark-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "iMovie Old",
+ "identifier": "dev.perapp.synthetic-imovie-old-a82c84bc",
+ "subtitle": "iMovie Old",
+ "description": "Single-app source for iMovie Old (synthetic.imovie-old.a82c84bc). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://ittza7aa.com/aseets/icon/imovie.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.imovie-old.a82c84bc",
+   "name": "iMovie Old",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Appleid VIP",
+   "iconURL": "https://ittza7aa.com/aseets/icon/imovie.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Appleid VIP",
+     "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/imovie.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

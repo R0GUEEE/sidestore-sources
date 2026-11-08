@@ -1,0 +1,48 @@
+{
+ "name": "Moonfin",
+ "identifier": "dev.perapp.org-moonfin-app",
+ "subtitle": "A premium Jellyfin Client for Android Mobile, Android TV, iOS, Linux, MacOS, tvOS, Web, and Windows",
+ "description": "Single-app source for Moonfin (org.moonfin.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4c7cc6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.moonfin.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.moonfin.app",
+   "name": "Moonfin",
+   "developerName": "Moonfin-Client",
+   "subtitle": "A premium Jellyfin Client for Android Mobile, Android TV, iOS, Linux, MacOS, tvOS, Web, and Windows",
+   "localizedDescription": "← Back to main Moonfin project.\n\nMoonfin is a media client for Jellyfin, Emby, Plex and Silo servers, built with Flutter. One shared codebase powers phones and tablets, Windows, macOS, and Linux, Android TV, Fire TV, and Apple TV, and the browser. It's made for people who want a modern, customizable experience on every screen they own.\n\nSilo:\n\nSign-in with a password or a code, Home, libraries, search, favorites, watched state, ratings, collections, playback, skip intro and credits, trickplay, household profiles with their PINs, and downloads with offline progress sync all work.\n\nRequests use Silo's own requests feature in place of Seerr, and Watch Together uses Silo's Watch Party in place of SyncPlay. Settings sync, admin defaults, server messages, custom themes and MDBList and TMDB ratings need the Moonbase plugin installed in Silo.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.moonfin.app.png",
+   "tintColor": "#4c7cc6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Moonfin-Client/Moonfin-Core@main/assets/images/phone/1-home.png",
+    "https://cdn.jsdelivr.net/gh/Moonfin-Client/Moonfin-Core@main/assets/images/phone/2-playback.png",
+    "https://cdn.jsdelivr.net/gh/Moonfin-Client/Moonfin-Core@main/assets/images/phone/3-details.png",
+    "https://cdn.jsdelivr.net/gh/Moonfin-Client/Moonfin-Core@main/assets/images/phone/4-mediabars.png",
+    "https://cdn.jsdelivr.net/gh/Moonfin-Client/Moonfin-Core@main/assets/images/phone/7-navigation.png"
+   ],
+   "versions": [
+    {
+     "version": "3.0.0",
+     "date": "2026-10-30T16:36:59Z",
+     "localizedDescription": "The same release notes as 2.8.0 are below::\n\nMoonfin 3.0.0 is a big one, with about 750 commits since 2.7.0 and a whole UI refresh.\n\nMoonfin can now sign in to Plex. On desktop, a new mini player keeps your video going while you browse. Every player can show two subtitles at once, and servers that require a client certificate work now. The music player, the EPUB reader and the admin panel were all rebuilt, and the admin panel works on Emby too. Libraries come in new styles, Live TV can rewind, Apple devices play Dolby Vision Profile 7 FEL, and game libraries can link a RomM account.\n\nThere are plenty of fixes too. The server no longer re-encodes 4K HDR just because the audio needs converting. Bitstreamed audio survives a refresh rate switch on Android TV, and artwork keeps loading after a few missing images.\n\nMoonfin 3.0.0 needs iOS or iPadOS 18, tvOS 18 or macOS 15 Sequoia. Devices on iOS 16 or 17, tvOS 17 or macOS 14 Sonoma can't install it and will stay on 2.7.0.\n\nPlex:\n\n• Sign in with Plex. Choose Sign in with Plex in Add Server. Then enter the four-character code at plex.tv/link, scan the QR code on TV or open the page right from your phone or desktop. Your Plex email or username and password work too, two-step verification included. Typing a Plex server's address, or picking one found on your network, also takes you to Plex sign-in.\n• Plex Home users. Your Plex Home members show up on the server's user screen, and each one signs in with their own access to the server. Members with a PIN are checked against plex.tv.\n• The best address, every time. Each time Moonfin starts, it tries every address your server lists at once, local first and relays last. A relay picked at sign-in doesn't stick, so the connection follows you between home and away. If your router blocks plex.direct names, Moonfin falls back to the plain local address.\n\n• Playback. Anything the device can decode plays directly. Everything else goes through Plex's HLS transcoder, with the same device limits Moonfin sends to Jellyfin and Emby. Every audio and subtitle format plays, resume points and watched state sync, and if Plex refuses a stream you'll see its reason on screen. Skip intro and credits, chapter images, seek bar previews, multi-part movies, trailers and extras, series theme songs and Cinema Mode's trailers and pre-roll all come from Plex.\n• Music. Artist and album pages are in the right order, and lyrics come from .lrc files and LyricFind. Instant Mix uses Plex's sonic analysis when your server has it, and matching genres when it doesn't.\n• Live TV and DVR. The guide and playback cover your server's tuners and Plex's free channels. You can also set one-off and series recordings on your own tuners.\n\n• It stays in step with your other Plex apps. When you pause or finish something on another Plex device, resume points, watched marks and unwatched counts update here too.\n• And the rest. You also get subtitle search through Plex's OpenSubtitles, Auto quality, and Hide from Continue Watching, which keeps your resume point. Favorites are saved as Plex's loved rating. Server owners get Refresh, Identify and Change artwork, plus Delete if the server allows deleting.\n• Plex doesn't get anything that needs the Moonbase plugin, like Settings Sync, Seerr and custom rows. The admin panel and Watch Together aren't available on Plex either.\n\nDesktop Mini Player:\n\n• Keep watching while you browse. On macOS, Windows and Linux, a new Minimize player button sits in the player's top bar. It shrinks the video into a bar along the bottom of the app. Click the thumbnail to go back to the full player right where you left off.\n\n• HDR stays HDR on Windows. The native HDR window moves behind the thumbnail, so your display stays in HDR mode.\n• Autoplay and intro skipping keep working while the player is minimized, and the screensaver stays off. Opening a trailer, photo, book or game pauses the video, and the bar comes back when you're done. Signing out or switching users stops",
+     "downloadURL": "https://github.com/Moonfin-Client/Moonfin-Core/releases/download/3.0.0/Moonfin_iOS_v3.0.0.ipa",
+     "size": 64202357
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Moonfin needs camera access to let you capture images for media artwork and metadata.",
+     "NSLocalNetworkUsageDescription": "Moonfin uses your local network to discover Jellyfin and Emby servers.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "Moonfin does not track your location; this access is only used to read location metadata stored in images you choose for media artwork.",
+     "NSLocationWhenInUseUsageDescription": "Moonfin does not track your location; this access is only used to read location metadata stored in images you choose for media artwork.",
+     "NSMicrophoneUsageDescription": "Moonfin needs microphone access for voice search.",
+     "NSPhotoLibraryUsageDescription": "Moonfin needs access to your photo library so you can choose images to upload for media artwork and metadata.",
+     "NSSpeechRecognitionUsageDescription": "Moonfin needs speech recognition access for voice search."
+    }
+   }
+  }
+ ]
+}

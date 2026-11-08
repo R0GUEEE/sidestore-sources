@@ -1,0 +1,30 @@
+{
+ "name": "Racing Limits",
+ "identifier": "dev.perapp.com-sbkgames-racinglimits",
+ "subtitle": "ipaomtk.com | Racing Limits IPA Game is a thrilling 3D racing game that puts you in the driver’s seat and challenges you",
+ "description": "Single-app source for Racing Limits (com.sbkgames.racinglimits). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/racing-limits-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sbkgames.racinglimits",
+   "name": "Racing Limits",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Racing Limits IPA Game is a thrilling 3D racing game that puts you in the driver’s seat and challenges your driving and competitive gami",
+   "localizedDescription": "ipaomtk.com | Racing Limits IPA Game is a thrilling 3D racing game that puts you in the driver’s seat and challenges your driving and competitive gami",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/racing-limits-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.8",
+     "date": "2023-03-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Racing Limits IPA Game is a thrilling 3D racing game that puts you in the driver’s seat and challenges your driving and competitive gami",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Racing-Limits.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

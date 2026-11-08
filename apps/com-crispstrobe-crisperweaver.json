@@ -1,0 +1,40 @@
+{
+ "name": "CrisperWeaver",
+ "identifier": "dev.perapp.com-crispstrobe-crisperweaver",
+ "subtitle": "On-device speech recognition + text-to-speech",
+ "description": "Single-app source for CrisperWeaver (com.crispstrobe.crisperweaver). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4b75c2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.crispstrobe.crisperweaver.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crispstrobe.crisperweaver",
+   "name": "CrisperWeaver",
+   "developerName": "CrispStrobe",
+   "subtitle": "On-device speech recognition + text-to-speech",
+   "localizedDescription": "CrisperWeaver:\n\nOn-device speech recognition + text-to-speech. No cloud required. 40+ model families, one app.\n\nWhat you can do:\n\n• Transcribe any audio file — WAV / MP3 / FLAC decoded on-device, no ffmpeg required.\n• Batch-process multiple files — drop many onto the window or onto the Batch Queue card, \"Transcribe all\" drains serially; each run lands in History.\n• Record from the mic and transcribe live.\n\n• Drag and drop files onto the transcription screen (desktop) or directly on the batch queue.\n• Receive shared audio from the OS share sheet (Android / iOS / macOS).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.crispstrobe.crisperweaver.png",
+   "tintColor": "#4b75c2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.14.3",
+     "date": "2026-10-17T13:24:49Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/CrispStrobe/CrisperWeaver/releases/download/v0.14.3/crisper_weaver-ios-unsigned.ipa",
+     "size": 24303749
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSDocumentsFolderUsageDescription": "This app needs access to documents to save and load audio files and transcriptions.",
+     "NSDownloadsFolderUsageDescription": "This app needs access to downloads to import audio files for transcription.",
+     "NSLocalNetworkUsageDescription": "CrisperWeaver needs this only if you turn on its built-in transcription server, so other apps can send it audio. The server is off by default and accepts connections from this device unless you change its address.",
+     "NSMicrophoneUsageDescription": "This app needs access to the microphone to record audio for transcription.",
+     "NSPhotoLibraryUsageDescription": "This app needs access to photo library to import media files for transcription."
+    }
+   }
+  }
+ ]
+}

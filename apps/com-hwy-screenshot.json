@@ -1,0 +1,30 @@
+{
+ "name": "CutEdge",
+ "identifier": "dev.perapp.com-hwy-screenshot",
+ "subtitle": "ipaomtk.com | CutEdge- Add Bezels on iOS CutEdge- Add Bezels on iOS is designed for anyone who wants to showcase screens",
+ "description": "Single-app source for CutEdge (com.hwy.screenshot). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/CutEdge-Add-Bezels-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hwy.screenshot",
+   "name": "CutEdge",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | CutEdge- Add Bezels on iOS CutEdge- Add Bezels on iOS is designed for anyone who wants to showcase screenshots, app previews, or videos ",
+   "localizedDescription": "ipaomtk.com | CutEdge- Add Bezels on iOS CutEdge- Add Bezels on iOS is designed for anyone who wants to showcase screenshots, app previews, or videos ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/CutEdge-Add-Bezels-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7.1",
+     "date": "2026-01-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | CutEdge- Add Bezels on iOS CutEdge- Add Bezels on iOS is designed for anyone who wants to showcase screenshots, app previews, or videos ",
+     "downloadURL": "https://file.ipaomtk.com/cutedge-add-bezels/CutEdge-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

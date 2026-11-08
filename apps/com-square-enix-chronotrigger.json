@@ -1,0 +1,30 @@
+{
+ "name": "CHRONO -OMTK",
+ "identifier": "dev.perapp.com-square-enix-chronotrigger",
+ "subtitle": "ipaomtk.com | something a bit special – the newly released Chrono Trigger IPA MOD. Chrono Trigger APK Labeled “the evolu",
+ "description": "Single-app source for CHRONO -OMTK (com.square-enix.chronotrigger). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/CHRONO-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.square-enix.chronotrigger",
+   "name": "CHRONO -OMTK",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | something a bit special – the newly released Chrono Trigger IPA MOD. Chrono Trigger APK Labeled “the evolution of the legendary cafe col",
+   "localizedDescription": "ipaomtk.com | something a bit special – the newly released Chrono Trigger IPA MOD. Chrono Trigger APK Labeled “the evolution of the legendary cafe col",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/CHRONO-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2023-12-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | something a bit special – the newly released Chrono Trigger IPA MOD. Chrono Trigger APK Labeled “the evolution of the legendary cafe col",
+     "downloadURL": "https://file.ipaomtk.com/ipa/CHRONO-TRIGGER.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

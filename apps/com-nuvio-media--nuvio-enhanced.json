@@ -1,0 +1,44 @@
+{
+ "name": "Nuvio Enhanced",
+ "identifier": "dev.perapp.com-nuvio-media",
+ "subtitle": "scholars lounge | Nuvio Version: 0.4.2 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Enhanced This custom variant ",
+ "description": "Single-app source for Nuvio Enhanced (com.nuvio.media). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/69279.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nuvio.media",
+   "name": "Nuvio Enhanced",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | Nuvio Version: 0.4.2 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Enhanced This custom variant includes experimental features",
+   "localizedDescription": "scholars lounge | Nuvio Version: 0.4.2 Bundle ID: com​.nuvio​.media App by tapframe  Nuvio Enhanced This custom variant includes experimental features",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/69279.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.6.9",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "scholars lounge | Nuvio Enhanced Version: 0.6.9 Bundle ID: com​.nuvio​.media Fork by luqmanfadlli  Nuvio Enhanced This custom variant includes experim",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84316-nuvio-0.6.9-enhanced-release.ipa",
+     "size": 74916328
+    },
+    {
+     "version": "0.6.8",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "scholars lounge | Nuvio Enhanced Version: 0.6.8 Bundle ID: com​.nuvio​.media Fork by luqmanfadlli  Nuvio Enhanced This custom variant includes experim",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84187-nuvio-0.6.8-enhanced-release.ipa",
+     "size": 74191271
+    },
+    {
+     "version": "0.6.7",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Nuvio 0.6.7  Builds: ▪Nuvio 0.6.7 Full Release ▪Nuvio 0.6.7 Enhanced Release  A free, open-source media player for your phone, y",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83654-nuvio-0.6.7-enhanced-release.ipa",
+     "size": 73889101
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Shinobi",
+ "identifier": "dev.perapp.com-shinobiapp-shinobi",
+ "subtitle": "Shinobi",
+ "description": "Single-app source for Shinobi (com.shinobiapp.shinobi). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shinobiapp.shinobi",
+   "name": "Shinobi",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.0",
+     "date": "2026-09-26T00:00:00Z",
+     "localizedDescription": "- unlocked subscription\r\n\r\nwarning: restart app if subscription isn't unlocked\r\n\r\nLearn Japanese through illustrated stories, native audio, shadowing, quizzes, and interactive reading tools.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2238",
+     "size": 58788507
+    },
+    {
+     "version": "1.4.7",
+     "date": "2026-09-14T00:00:00Z",
+     "localizedDescription": "- unlocked subscription\r\n\r\nwarning: restart app if subscription isn't unlocked\r\n\r\nLearn Japanese through illustrated stories, native audio, shadowing, quizzes, and interactive reading tools.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2238",
+     "size": 59800274
+    },
+    {
+     "version": "1.4.4",
+     "date": "2026-08-14T00:00:00Z",
+     "localizedDescription": "- unlocked subscription\r\n\r\nwarning: restart app if subscription isn't unlocked\r\n\r\nLearn Japanese through illustrated stories, native audio, shadowing, quizzes, and interactive reading tools.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2238",
+     "size": 58028158
+    }
+   ]
+  }
+ ]
+}

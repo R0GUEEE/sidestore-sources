@@ -1,0 +1,30 @@
+{
+ "name": "Сириус",
+ "identifier": "dev.perapp.com-sm-flowtime",
+ "subtitle": "@ipa_dark | 🔄 ВТБ (Сириус)  🇷🇺 Обновлённое приложение ВТБ банка, добавленное в appstore под видом другого приложения \"Си",
+ "description": "Single-app source for Сириус (com.sm.FlowTime). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1653.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sm.FlowTime",
+   "name": "Сириус",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 ВТБ (Сириус)  🇷🇺 Обновлённое приложение ВТБ банка, добавленное в appstore под видом другого приложения \"Сириус\".  ℹ️ Особенности: ▎Удале",
+   "localizedDescription": "@ipa_dark | 🔄 ВТБ (Сириус)  🇷🇺 Обновлённое приложение ВТБ банка, добавленное в appstore под видом другого приложения \"Сириус\".  ℹ️ Особенности: ▎Удале",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1653.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2026-08-18T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 ВТБ (Сириус)  🇷🇺 Обновлённое приложение ВТБ банка, добавленное в appstore под видом другого приложения \"Сириус\".  ℹ️ Особенности: ▎Удале",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1653-%D0%92%D0%A2%D0%91%20%D0%A1%D0%B8%D1%80%D0%B8%D1%83%D1%81%20%5Bv2.0.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 377090966
+    }
+   ]
+  }
+ ]
+}

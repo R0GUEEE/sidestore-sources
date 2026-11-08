@@ -1,0 +1,30 @@
+{
+ "name": "GTA V",
+ "identifier": "dev.perapp.com-macport-gtav",
+ "subtitle": "@ipa_dark | GTA 5 - (РУССКАЯ ОЗВУЧКА инструкция)  🇷🇺 Порт гта 5 на iPhone, можно добавить русскую озвучку  ⚠️ Минимальны",
+ "description": "Single-app source for GTA V (com.macport.gtav). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1848.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.macport.gtav",
+   "name": "GTA V",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | GTA 5 - (РУССКАЯ ОЗВУЧКА инструкция)  🇷🇺 Порт гта 5 на iPhone, можно добавить русскую озвучку  ⚠️ Минимальные системные требования: ОЗУ: 4",
+   "localizedDescription": "@ipa_dark | GTA 5 - (РУССКАЯ ОЗВУЧКА инструкция)  🇷🇺 Порт гта 5 на iPhone, можно добавить русскую озвучку  ⚠️ Минимальные системные требования: ОЗУ: 4\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1848.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@ipa_dark | GTA 5 - (РУССКАЯ ОЗВУЧКА инструкция)  🇷🇺 Порт гта 5 на iPhone, можно добавить русскую озвучку  ⚠️ Минимальные системные требования: ОЗУ: 4",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1848-GTA5Port%20Launcher%20%28tg@ipa_dark%29.ipa",
+     "size": 34572918
+    }
+   ]
+  }
+ ]
+}

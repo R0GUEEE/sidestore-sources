@@ -1,0 +1,30 @@
+{
+ "name": "ASJTube (1.4.0)",
+ "identifier": "dev.perapp.com-google-ios-youtube-asjtube-1-4-0",
+ "subtitle": "This is a modded version of YouTube. This mod was created by asjrx. You can read more about it here: https://github.com/",
+ "description": "Single-app source for ASJTube (1.4.0) (com.google.ios.youtube.asjtube.1.4.0). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.asjtube.1.4.0",
+   "name": "ASJTube (1.4.0)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. This mod was created by asjrx. You can read more about it here: https://github.com/asjrx/ASJTube",
+   "localizedDescription": "This is a modded version of YouTube.\nThis mod was created by asjrx.\n You can read more about it here: https://github.com/asjrx/ASJTube\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.39.4",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This mod was created by asjrx. You can read more about it here: https://github.com/asjrx/ASJTube",
+     "downloadURL": "https://repo.ballermc.com/tubevault/ASJTube-1.4_21.39.4.ipa",
+     "size": 147923687
+    }
+   ]
+  }
+ ]
+}

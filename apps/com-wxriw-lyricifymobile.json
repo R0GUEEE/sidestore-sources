@@ -1,0 +1,30 @@
+{
+ "name": "LyricifyMobile",
+ "identifier": "dev.perapp.com-wxriw-lyricifymobile",
+ "subtitle": "A very pretty chinese scroll lyrics for Spotify! Last updated: 07-06-2024 Status: ✅",
+ "description": "Single-app source for LyricifyMobile (com.wxriw.LyricifyMobile). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wxriw.LyricifyMobile",
+   "name": "LyricifyMobile",
+   "developerName": "Lyricify-App",
+   "subtitle": "A very pretty chinese scroll lyrics for Spotify! Last updated: 07-06-2024 Status: ✅",
+   "localizedDescription": "A very pretty chinese scroll lyrics for Spotify!\nLast updated: 07-06-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wxriw.LyricifyMobile.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.3",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "A very pretty chinese scroll lyrics for Spotify! Last updated: 07-06-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LyricifyMobile/LyricifyMobile-1.4.3.ipa",
+     "size": 23887689
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "UsagePro",
+ "identifier": "dev.perapp.com-olegst-usage",
+ "subtitle": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring",
+ "description": "Single-app source for UsagePro (com.olegst.usage). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.olegst.usage.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.olegst.usage",
+   "name": "UsagePro",
+   "developerName": "AbodSyripa",
+   "subtitle": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highl",
+   "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highl",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.olegst.usage.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.20.5",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highl",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/UsagePro/UsagePro-4.20.5.ipa",
+     "size": 20484617
+    },
+    {
+     "version": "4.20.3",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "App that allows you to keep an eye on your device's activity, data consumption, connection velocity, and more, featuring 21 Home Screen widgets, highl",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/UsagePro/UsagePro-4.20.3.ipa",
+     "size": 19232013
+    }
+   ]
+  }
+ ]
+}

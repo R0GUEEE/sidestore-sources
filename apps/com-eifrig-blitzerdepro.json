@@ -1,0 +1,30 @@
+{
+ "name": "BlitzerdePRO",
+ "identifier": "dev.perapp.com-eifrig-blitzerdepro",
+ "subtitle": "BlitzerdePRO",
+ "description": "Single-app source for BlitzerdePRO (com.eifrig.blitzerdepro). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.eifrig.blitzerdepro",
+   "name": "BlitzerdePRO",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "400.3.5",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/BlitzerdePRO_400.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 54665905
+    }
+   ]
+  }
+ ]
+}

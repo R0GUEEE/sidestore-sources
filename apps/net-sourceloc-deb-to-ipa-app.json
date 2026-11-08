@@ -1,0 +1,37 @@
+{
+ "name": "DebToIPA",
+ "identifier": "dev.perapp.net-sourceloc-deb-to-ipa-app",
+ "subtitle": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include ",
+ "description": "Single-app source for DebToIPA (net.sourceloc.deb-to-ipa-app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.sourceloc.deb-to-ipa-app",
+   "name": "DebToIPA",
+   "developerName": "sourcelocation / AppDB",
+   "subtitle": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, et",
+   "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, et",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.sourceloc.deb-to-ipa-app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, et",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DebToIPA/DebToIPA.ipa",
+     "size": 3537264
+    },
+    {
+     "version": "1.0.2",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "App that converts .deb files into IPA files, given that the deb is actually an application with a GUI. Examples include Filza, Apps Manager, Sonic, et",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DebToIPA/DebToIPA.ipa",
+     "size": 3537264
+    }
+   ]
+  }
+ ]
+}

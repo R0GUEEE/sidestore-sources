@@ -1,0 +1,30 @@
+{
+ "name": "Sonic Runners",
+ "identifier": "dev.perapp.com-gameloft-sonicrunner",
+ "subtitle": "ipaomtk.com | Sonic Runners Adventure IPA (Paid Free) iOS is an exhilarating side-scrolling endless runner game that bri",
+ "description": "Single-app source for Sonic Runners (com.gameloft.sonicrunner). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Sonic-Runners-Adventure.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gameloft.sonicrunner",
+   "name": "Sonic Runners",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sonic Runners Adventure IPA (Paid Free) iOS is an exhilarating side-scrolling endless runner game that brings the iconic blue hedgehog t",
+   "localizedDescription": "ipaomtk.com | Sonic Runners Adventure IPA (Paid Free) iOS is an exhilarating side-scrolling endless runner game that brings the iconic blue hedgehog t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Sonic-Runners-Adventure.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.10",
+     "date": "2024-10-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sonic Runners Adventure IPA (Paid Free) iOS is an exhilarating side-scrolling endless runner game that brings the iconic blue hedgehog t",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Sonic_Runners_Adventure-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

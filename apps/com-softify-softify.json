@@ -1,0 +1,36 @@
+{
+ "name": "Softify",
+ "identifier": "dev.perapp.com-softify-softify",
+ "subtitle": "Ad-free, paywall-free Android music streaming app built with Flutter. 320kbps studio masters, synced lyrics, Spotify imp",
+ "description": "Single-app source for Softify (com.softify.softify). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.softify.softify.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.softify.softify",
+   "name": "Softify",
+   "developerName": "Sarthak-Cyb3r",
+   "subtitle": "Ad-free, paywall-free Android music streaming app built with Flutter. 320kbps studio masters, synced lyrics, Spotify importer, and offline playback",
+   "localizedDescription": "Softify:\n\nAn ad-free, paywall-free, high-fidelity mobile music streaming application for Android & iOS built with Flutter, Clean Architecture, and 320 kbps Studio Audio.\n\nThis project is built for educational purposes and personal use. It is not affiliated with, endorsed by, or connected to Spotify, YouTube, or JioSaavn. No copyrighted content is hosted on this app.\n\nBeta Status: Softify is currently in Beta, and several features are pending. If bugs are found or you have suggestions, please contact the developer or submit an issue.\n\n📖 Overview:\n\nSoftify brings the premium music listening experience back to the listener. It delivers unrestricted, high-fidelity music streaming, instant search, synchronized lyrics, custom playlists, and offline downloads without subscriptions, audio or visual advertisements, or account paywalls.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.softify.softify.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Sarthak-Cyb3r/softify@main/assets/screenshots/02_search.png"
+   ],
+   "versions": [
+    {
+     "version": "3.0.0",
+     "date": "2026-10-23T13:30:59Z",
+     "localizedDescription": "🌌 Softify v3.0.0: Minimalist Frosted Glass Overhaul & Precision Catalog Engine:\n\nSoftify v3.0.0 introduces an extensive visual and architectural transformation, featuring a refined Aurora Glass frosted design system built to strict minimalist-ui editorial standards, fine-tuned classic UI surfaces with crisp architectural hairline borders, multi-source composite lyrics resilience, and precision movie sequel album matching.\n\n• 🎨 Minimalist Aurora Glass Overhaul (minimalist-ui):.\n\n• Warm Obsidian & Studio Palette: Purged generic AI electric violet (#7C5CFF), neon cyan (#4FD1FF/#00D2FF), and hot magenta (#FF7AC6); established a refined canvas of warm obsidian charcoal (#0E0E11), graphite surface (#16161A), Studio Sage Mint (#34D399), Titanium Alabaster (#F4F4F6), Muted Terracotta (#E57373), and neutral zinc typography (#F4F4F6 primary, #A1A1AA secondary, #71717A muted).\n• Atmospheric Aura Backdrop: Replaced chaotic 4-node neon bubbles with a single, gentle ambient artwork glow (alpha 0.14 → 0.04 → transparent) shifting across deep obsidian gradients without distracting visual noise.\n• High-Contrast Glass Components:.\n\n• Filter chips, search chips, and primary pill buttons now feature crisp solid Studio White fills with deep black typography when active.\n• FullScreenPlayer lyrics toggle redesigned with solid white active state and quiet translucent glass inactive state.\n• MiniPlayer and FullScreenPlayer progress indicators unified to Studio Sage Mint (#34D399).\n• Zero-bloom, ultra-diffuse ambient drop shadows (Color(0x33000000), blur 16) replacing loud neon glows.\n\n• 📐 Fine-Tuned Normal / Classic UI:.\n\n• Architectural Bento-Grid Hairlines: Standardized all cards (MediaCard, ArtistCard), dialogs (AppDialog), notifications (AppToast), sheets, and the desktop sidebar with crisp 1px solid rgba(255, 255, 255, 0.08–0.12) hairline borders (tokens.divider).\n• Tactile Micro-UIs & Badges:.\n\n• Unselected filter chips and secondary buttons now feature subtle tactile borders for elevated contrast on dark backgrounds.\n• Desktop Up Next rail spacebar shortcut rendered as a physical key with monospace typography.\n• Purged 14+ ad-hoc hardcoded hex colors from Home Screen and Up Next rail in favor of central design tokens.\n• Unified navigation icon contrast and tabular figures across all timestamps.\n\n• 🎯 Movie Sequel Number Parity in Album Matching:.\n\n• Strict Number Parity: Enforced strict sequel number and roman numeral extraction and parity checks across catalog matching algorithms.\n\n• 🎶 Cross-Catalog Composite Lyrics Engine:.\n\n• Eliminated Missing Lyrics: Fixed missing lyrics for songs across multi-catalog searches with normalized multi-source fallbacks (LrcLib, synced lyrics, and clean string matching).\n• Lyrics Desync Fix: Resolved scroll offset jumping and race conditions during rapid seek and crossfade transitions.\n\n• 🔍 Pure Studio Search Isolation (Zero YouTube Contamination):.\n\n• Purged YouTube Search Leaks: Completely eliminated YouTube video scraping and Piped fallback calls in catalog search.\n• Strict Studio Catalog Routing: Search strictly surfaces official studio audio masters from Spotify, JioSaavn, Apple iTunes, and Deezer with multi-layered!track.isYoutube defense across the catalog repository, linear reranker, and search UI.\n\n• ⚡ Core Engine & Reliability Fixes:.\n\n• Audio Handler & Concurrency: Eliminated audio stream race condition during rapid skipping (<100ms) with clean debounce and instant gapless transition.\n\n📦 Downloads & Installation:\n\n• Android APK: Optimized 64-bit universal APK (Softify-v3.0.0-Android.apk) for Android 8.0+.\n• Linux Desktop: Portable standalone binary tarball (Softify-Linux-x64.tar.gz).\n• iOS IPA: Universal sideloadable IPA (Softify-iOS-Universal.ipa).\n• Checksums: SHA256 checksums available in SHA256SUMS.txt.\n\nAndroid Package (Android 8.0+):\n\n• Softify Android APK (~19 MB): Highly optimized 64-bit APK for modern Android devices running Android 8.0+.\n\nAndroid Package (Android 8.0+):\n\n• Softify Android AP",
+     "downloadURL": "https://github.com/Sarthak-Cyb3r/softify/releases/download/v3.0.0/Softify-iOS-Universal.ipa",
+     "size": 12162883
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

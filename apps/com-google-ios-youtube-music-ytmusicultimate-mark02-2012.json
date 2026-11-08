@@ -1,0 +1,44 @@
+{
+ "name": "YTMusicUltimate",
+ "identifier": "dev.perapp.com-google-ios-youtube-music-ytmusicultimate-mark02-2012",
+ "subtitle": "This is a modded version of YouTube Music with just a modded version of YTMusicUltimate. You can see more information ab",
+ "description": "Single-app source for YTMusicUltimate (com.google.ios.youtube.music.ytmusicultimate.mark02.2012). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimate.mark02.2012",
+   "name": "YTMusicUltimate",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube Music with just a modded version of YTMusicUltimate. You can see more information about the mod at: https://github",
+   "localizedDescription": "This is a modded version of YouTube Music with just a modded version of YTMusicUltimate. You can see more information about the mod at: https://github\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.43.2",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music with just a modded version of YTMusicUltimate. You can see more information about the mod at: https://github",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate_2.4.1_9.43.2.ipa",
+     "size": 107718684
+    },
+    {
+     "version": "9.42.2",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music with just a modded version of YTMusicUltimate. You can see more information about the mod at: https://github",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate_2.4.1_9.42.2.ipa",
+     "size": 107055118
+    },
+    {
+     "version": "9.41.2",
+     "date": "2026-10-16T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music with just a modded version of YTMusicUltimate. You can see more information about the mod at: https://github",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTMusicUltimate_2.4.1_9.41.2.ipa",
+     "size": 107055118
+    }
+   ]
+  }
+ ]
+}

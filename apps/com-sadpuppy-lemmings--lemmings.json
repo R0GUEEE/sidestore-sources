@@ -1,0 +1,37 @@
+{
+ "name": "Lemmings",
+ "identifier": "dev.perapp.com-sadpuppy-lemmings",
+ "subtitle": "Lemmings",
+ "description": "Single-app source for Lemmings (com.sadpuppy.lemmings). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/01/d1/c201d1c9-1e71-07b9-26ac-13c12964cd52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sadpuppy.lemmings",
+   "name": "Lemmings",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Lemmings: Strategy & Puzzle\n⁣\nTweak: Free iAP\n\nVersion: 8.00\n\nMade by riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c2/01/d1/c201d1c9-1e71-07b9-26ac-13c12964cd52/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.4.3",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2148",
+     "size": 131573488
+    },
+    {
+     "version": "8.00",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Lemmings: Strategy & Puzzle\n⁣\nTweak: Free iAP\n\nVersion: 8.00\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/bfa52bae-e373-4b8d-94c3-d5fe5c016789/Lemmings_v8.00-riftysipas.ipa",
+     "size": 121177282
+    }
+   ]
+  }
+ ]
+}

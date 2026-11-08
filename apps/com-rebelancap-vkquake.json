@@ -1,0 +1,44 @@
+{
+ "name": "vkQuake",
+ "identifier": "dev.perapp.com-rebelancap-vkquake",
+ "subtitle": "Play Quake on your iPhone and Apple Vision Pro — the full campaign, the mission",
+ "description": "Single-app source for vkQuake (com.rebelancap.vkquake). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#9c6b49",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.vkquake.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.vkquake",
+   "name": "vkQuake",
+   "developerName": "rebelancap",
+   "subtitle": "Play Quake on your iPhone and Apple Vision Pro — the full campaign, the mission",
+   "localizedDescription": "vkQuake for iPhone & Apple Vision Pro:\n\nPlay Quake on your iPhone and Apple Vision Pro — the full campaign, the mission packs, custom mods, a stereoscopic 3D mode that puts the game on a floating screen in your room with real depth, and a full VR mode that puts you inside it at life scale with a gun in each hand. 100% vibe coded with lots of passion and attention to detail.\n\nBuilt on vkQuake, the Vulkan-powered engine, running natively through Metal.\n\nvkQuake ships with no game content — you must own Quake and provide your own files. Copy one of these into the app's folder:\n\n• Original Quake — pak0.pak + pak1.pak.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.vkquake.png",
+   "tintColor": "#9c6b49",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rebelancap/vkQuake-ios@main/screenshots/vision-pro.png",
+    "https://cdn.jsdelivr.net/gh/rebelancap/vkQuake-ios@main/screenshots/vr.png"
+   ],
+   "versions": [
+    {
+     "version": "1.2.3",
+     "date": "2026-11-04T20:19:42Z",
+     "localizedDescription": "vkQuake 1.2.3: fixes the console spam on every mouse click introduced in 1.2.2.\n\nAdd one URL to SideStore / AltStore and vkQuake installs and updates itself when new versions ship:\n\n• iPhone / iPad: https://raw.githubusercontent.com/rebelancap/quake-ports/main/apps-ios.json (Quake ports) or https://raw.githubusercontent.com/rebelancap/all-ports/main/apps-ios.json (All ports).\n• Apple Vision Pro: https://raw.githubusercontent.com/rebelancap/quake-ports/main/apps-visionos.json (Quake ports) or https://raw.githubusercontent.com/rebelancap/all-ports/main/apps-visionos.json (All ports).\n\nOr download and sideload manually:\n\n• vkQuake-1.2.3-iOS.ipa — iPhone / iPad (iOS 16+).\n• vkQuake-1.2.3-visionOS.ipa — Apple Vision Pro (visionOS 2+).",
+     "downloadURL": "https://github.com/rebelancap/vkQuake-ios/releases/download/v1.2.3/vkQuake-1.2.3-iOS.ipa",
+     "size": 5327779
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "vkQuake uses the local network to find and join multiplayer games on your LAN."
+    }
+   }
+  }
+ ]
+}

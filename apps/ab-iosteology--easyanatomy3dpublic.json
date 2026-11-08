@@ -1,0 +1,30 @@
+{
+ "name": "EasyAnatomy3DPublic",
+ "identifier": "dev.perapp.ab-iosteology",
+ "subtitle": "Free in-app purchases (tap buy, then cancel)",
+ "description": "Single-app source for EasyAnatomy3DPublic (AB.iOsteology). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
+ "apps": [
+  {
+   "bundleIdentifier": "AB.iOsteology",
+   "name": "EasyAnatomy3DPublic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Free in-app purchases (tap buy, then cancel)",
+   "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.24.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ) - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2025/EasyAnatomy3DPublic_5.24.2_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 1206734753
+    }
+   ]
+  }
+ ]
+}

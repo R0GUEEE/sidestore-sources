@@ -1,0 +1,40 @@
+{
+ "name": "Hand Mouse",
+ "identifier": "dev.perapp.com-handtracker-mouse",
+ "subtitle": "a program for tracking hand data for motion capture and 3D modeling software",
+ "description": "Single-app source for Hand Mouse (com.handtracker.mouse). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#37803b",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.handtracker.mouse.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.handtracker.mouse",
+   "name": "Hand Mouse",
+   "developerName": "alexandermulholland92",
+   "subtitle": "a program for tracking hand data for motion capture and 3D modeling software",
+   "localizedDescription": "Hand Tracker:\n\nReal-time tracking of both hands from a webcam (MediaPipe Hands, 21 landmarks per hand), with a live 3D view, gesture and finger-curl readouts, motion capture export in 8 formats, video recording, and a video converter that opens nearly any video format and exports 36 formats. Runs as a Windows or Linux desktop app, an Android app, or in a browser.\n\nRun it:\n\nWindows app: double-click dist/HandTracker-1.1.0-portable.exe. Nothing to install; it works offline.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.handtracker.mouse.png",
+   "tintColor": "#37803b",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-11-07T18:12:39Z",
+     "localizedDescription": "Built from f9a2a4a on main. Windows: HandTracker--portable.exe (no install). Mac: HandTracker--mac-arm64.dmg (Apple silicon) or HandTracker--mac-x64.dmg (Intel); the first time, open it from System Settings → Privacy & Security → Open Anyway. Linux: hand-tracker_amd64.deb (sudo apt install ./hand-trackeramd64.deb). Raspberry Pi 4/5 and other 64-bit ARM Linux: hand-trackerarm64.deb. Android: HandTracker-.apk. iPhone and iPad: HandTracker--ios-unsigned.ipa, installed with Sideloadly or AltStore and your Apple ID (re-install every 7 days with a free Apple ID). Chrome (the hand mouse for web pages): HandTracker--chrome-extension.zip, unzipped and loaded in chrome://extensions with Developer mode on (Load unpacked). Apps of their own, for each of these the same way: Hand Mouse (the hand mouse alone): HandMouse-; Remote Recording (controlling camera rigs, or being one): RemoteRecording-; Recording Converter (opening and converting recordings and videos): RecordingConverter-; on Linux hand-mouse.deb, remote-recording_.deb and recording-converter_*.deb.",
+     "downloadURL": "https://github.com/alexandermulholland92/hand-tracker/releases/download/latest-build/HandMouse-1.1.0-ios-unsigned.ipa",
+     "size": 14625619
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "Hand Tracker reaches a computer's remote recording over Bluetooth when there's no network between them.",
+     "NSCameraUsageDescription": "Hand Mouse follows your hand with the camera.",
+     "NSLocalNetworkUsageDescription": "Hand Tracker reaches the computers on your network that you control or record with.",
+     "NSMicrophoneUsageDescription": "Hand Tracker records sound with your videos, if you choose to.",
+     "NSPhotoLibraryAddUsageDescription": "Hand Tracker saves your recordings to Photos when you share them there."
+    }
+   }
+  }
+ ]
+}

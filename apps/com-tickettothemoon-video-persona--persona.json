@@ -1,0 +1,44 @@
+{
+ "name": "Persona",
+ "identifier": "dev.perapp.com-tickettothemoon-video-persona",
+ "subtitle": "@riftysIPAlibrary | Persona: Beauty Camera  Tweak: Subscription Unlocked  Version: 1.16.4  Notes: Restart app if subscri",
+ "description": "Single-app source for Persona (com.tickettothemoon.video.persona). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7350.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tickettothemoon.video.persona",
+   "name": "Persona",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Persona: Beauty Camera  Tweak: Subscription Unlocked  Version: 1.16.4  Notes: Restart app if subscription isn't unlocked  Patched ",
+   "localizedDescription": "@riftysIPAlibrary | Persona: Beauty Camera  Tweak: Subscription Unlocked  Version: 1.16.4  Notes: Restart app if subscription isn't unlocked  Patched ",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7350.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.17.2",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Persona: Beauty Camera  Tweak: Subscription Unlocked  Version: 10.17.2  Notes: Restart app if subscription isn't unlocked  Patched",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8826-Persona:%20Beauty%20Camera-v10.17.2-riftysipas.ipa",
+     "size": 197319453
+    },
+    {
+     "version": "10.17.0",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Persona: Beauty Camera  Tweak: Subscription Unlocked  Version: 10.17.0  Notes: Restart app if subscription isn't unlocked  Patched",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8340-Persona:%20Beauty%20Camera-v10.17.0-riftysipas.ipa",
+     "size": 199611745
+    },
+    {
+     "version": "10.16.10",
+     "date": "2026-09-26T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Persona: Beauty Camera  Tweak: Subscription Unlocked  Version: 10.16.10  Notes: Restart app if subscription isn't unlocked  Patche",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8091-Persona:%20Beauty%20Camera-v10.16.10-riftysipas.ipa",
+     "size": 199296749
+    }
+   ]
+  }
+ ]
+}

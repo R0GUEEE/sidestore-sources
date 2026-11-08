@@ -1,0 +1,44 @@
+{
+ "name": "Instagram",
+ "identifier": "dev.perapp.com-burbn-instagram",
+ "subtitle": "Instagram",
+ "description": "Single-app source for Instagram (com.burbn.instagram). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.burbn.instagram",
+   "name": "Instagram",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "454.1.0",
+     "date": "2026-11-05T18:44:56+00:00",
+     "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 454.1.\n- Settings rebuilt: new Search to find any setting, faster, new layout, one place per setting, setting links and \"New\" tags.\n- New update check: new versions show at the top of Settings, Update opens your installer app (Feather, AltStore, Sileo...). Can be turned off.\n- Privacy: hide your followers & following lists from others, and hide yourself from other people's lists. Saved on your IG account, so it works for everyone.\n- iPhone Duo support: Tab Bar editor, feed header button and story buttons now work, folded or unfolded.\n- Profile Analyzer rewritten: new native dashboard, one list screen with search, filters, notes & tags, batch follow/unfollow with safety caps, scan history timeline + compare, Growth page (iOS 16+), ghost followers and export.\n- Stories Archive rewrite: new Insights (vs the period before, audience, best story & time, top viewers), Story trends charts (iOS 16+), People list with verified & private marks, new viewer profile (seen strip, follow status, timeline filters), saves sticker reactions & votes.\n- Reels: Picture in Picture When Leaving — leave IG while a reel plays and it keeps playing in a floating window (IG's own player).\n- Feed: Floating Stories Bar (iOS 26+) — a hidden IG feature Regram turns on: the stories bar shrinks into a floating bubble as you scroll; tap it to watch.\n- IG Feature Flags (Tools): turn IG's hidden features on/off, search ~38k flags, share links; Try These page of tested picks (e.g. Extra Story Text Styles); crash guard undoes bad changes. Account-security flags are read-only.\n- Shortcuts & Links (App Utilities): links that open Regram screens or turn any setting on/off from Shortcuts; asks first unless Skip Confirmation is on. Setting links now work on jailbreak too.\n- Media Vault: new photo & video editor, Info screen, Post to IG, rebuilt folders (nested, smart, locked), Date filter and more tools..\n- New Show Reel Date (Settings > Reels): see when a reel was posted, above the author; tap for the full date. Custom date format.\n- New Show Repost Date (Settings > Reels): tap a repost's avatar on a post or reel to see when they reposted it, when their note expires, and all reposts.\n- New Backups: back up Regram's data to Google Drive (on a schedule) or a file, then restore or reset each feature on its own. Older exports still open in Older Backups.\n- New Storage & Files: see what takes space, browse IG's folders, clean up caches and set auto clear.\n- New IG API page (Settings > App): requests per feature, cache hits, hourly & daily limits, and a live \"Paused until…\" when IG rate limits or flags the account. Pauses survive relaunch; your own taps are never stopped.\n- Background checks (watchlist, follow requests, Media Watch, Save All) now share one paced queue: no burst of requests when IG opens. Checks you start yourself still run at once.\n- Chats: action button now also on photos & videos opened in a chat (normal and disappearing): save to Vault, share, expand, repost and more. Same menu as view-once media.\n- New Hide in Stories Bar (Ads & Clutter > Stories): hide suggested accounts and recent highlights from the stories bar.\n- New video player (Vault, Downloads, Expand): pinch to zoom, double-tap left/right to skip, hold for 2x, speed menu, exact-frame scrubbing, Picture in Picture, AirPlay and Save Frame (to Photos or Vault).\n- Clear Cache moved into Storage & Files (Clean Up and Auto Clear). Your Auto Clear schedule carries over.\n- Hide UI in Screenshots: now also hides the Quick Controls button in chats and the glass background of all Regram buttons (iOS 26+).\n- Feed & profile action buttons: glass now matches IG's buttons (stays solid when Liquid Glass is set to Clear) and bounces when tapped or held.\n- New Activity Status button in the chats list: turn your online status on or off in one tap, hold it for more options. Also in Quick Controls.\n- Stories action button: new L",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793904697142-0iyxm/com.burbn.instagram_454.1.0_regram_7.0_sl_noplugs.ipa",
+     "size": 323388251
+    },
+    {
+     "version": "454.0.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+     "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/43d6c872-d02a-4cc5-8dee-274cd2dd053R.ipa",
+     "size": 91750400
+    },
+    {
+     "version": "453.0.0",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+     "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.36/eaa7335b-876d-47c8-9d7c-b98331e7c3R2.ipa",
+     "size": 91750400
+    }
+   ]
+  }
+ ]
+}

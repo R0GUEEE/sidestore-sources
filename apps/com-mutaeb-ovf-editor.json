@@ -1,0 +1,44 @@
+{
+ "name": "OVFEditor",
+ "identifier": "dev.perapp.com-mutaeb-ovf-editor",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for OVFEditor (com.mutaeb.OVF-Editor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mutaeb.OVF-Editor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mutaeb.OVF-Editor",
+   "name": "OVFEditor",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mutaeb.OVF-Editor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OVFEditorPremium/OVFEditorPremium-5.0.1.ipa",
+     "size": 41848347
+    },
+    {
+     "version": "6.1.2",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/OVFEditor_6.1.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 20061873
+    },
+    {
+     "version": "6.1.0",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-03-2026/OVFEditor_6.1.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 19938842
+    }
+   ]
+  }
+ ]
+}

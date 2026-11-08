@@ -1,0 +1,30 @@
+{
+ "name": "Offline Player",
+ "identifier": "dev.perapp.io-tuhien-app",
+ "subtitle": "ipaomtk.com | offline music player and browser IPA Music has become an integral part of our daily lives, with many of us",
+ "description": "Single-app source for Offline Player (io.tuhien.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/512x512bb-2-2-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "io.tuhien.app",
+   "name": "Offline Player",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | offline music player and browser IPA Music has become an integral part of our daily lives, with many of us relying on streaming services",
+   "localizedDescription": "ipaomtk.com | offline music player and browser IPA Music has become an integral part of our daily lives, with many of us relying on streaming services",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/512x512bb-2-2-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2023-04-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | offline music player and browser IPA Music has become an integral part of our daily lives, with many of us relying on streaming services",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Offline-Player.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

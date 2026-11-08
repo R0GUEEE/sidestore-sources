@@ -1,0 +1,37 @@
+{
+ "name": "MoeMulti (11.1) - Patched",
+ "identifier": "dev.perapp.com-google-ios-youtube-moemulti-11-1-patched",
+ "subtitle": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks:",
+ "description": "Single-app source for MoeMulti (11.1) - Patched (com.google.ios.youtube.moemulti.11.1.patched). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.moemulti.11.1.patched",
+   "name": "MoeMulti (11.1) - Patched",
+   "developerName": "YouTube",
+   "subtitle": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD",
+   "localizedDescription": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: MoeMulti, Alderis\n\nThis is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.44.4Moe-Multi11.1Patched.ipa",
+     "size": 229108771
+    },
+    {
+     "version": "21.43.5",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.43.5Moe-Multi11.1Patched.ipa",
+     "size": 227917461
+    }
+   ]
+  }
+ ]
+}

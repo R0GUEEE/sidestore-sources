@@ -1,0 +1,43 @@
+{
+ "name": "Omni for pyLoad",
+ "identifier": "dev.perapp.com-downloader-omniforpyload",
+ "subtitle": "Omni is an app to manage downloads for your pyLoad instance",
+ "description": "Single-app source for Omni for pyLoad (com.downloader.omniForPyload). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3385b5",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.downloader.omniForPyload.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.downloader.omniForPyload",
+   "name": "Omni for pyLoad",
+   "developerName": "Sab44",
+   "subtitle": "Omni is an app to manage downloads for your pyLoad instance",
+   "localizedDescription": "About Omni:\n\nOmni is an app to manage downloads for your pyLoad instance. It is available for both Android and iOS.\n\nThis app is in beta. If you encounter a bug, check the known issues section first and create.\n\nA pyLoad version of 0.5.0b3.dev98 or newer is required. You need to create an API key before you can add a server.\n\nSupport development:\n\nA lot of work has gone into building this app. It is provided for free and open-source. If you like it, please consider donating to support the development. Ideally, I would like to publish the app on the App Store but for enrolling in Apple's developer program there is a fee of 99$ per year.\n\nFeatures:\n\n• Manage multiple instances.\n• All views will periodically auto-refresh, no manual refreshing required.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.downloader.omniForPyload.png",
+   "tintColor": "#3385b5",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Sab44/omni-for-pyload@main/assets/screenshots/overview_light.png",
+    "https://cdn.jsdelivr.net/gh/Sab44/omni-for-pyload@main/assets/screenshots/downloads_light.png",
+    "https://cdn.jsdelivr.net/gh/Sab44/omni-for-pyload@main/assets/screenshots/add_links_light.png",
+    "https://cdn.jsdelivr.net/gh/Sab44/omni-for-pyload@main/assets/screenshots/overview_dark.png",
+    "https://cdn.jsdelivr.net/gh/Sab44/omni-for-pyload@main/assets/screenshots/downloads_dark.png"
+   ],
+   "versions": [
+    {
+     "version": "0.3.0",
+     "date": "2026-10-19T13:15:24Z",
+     "localizedDescription": "• A server can now be added by scanning the QR code in pyLoad's API key pop-up.\n• Server configuration can now be edited in the overview.\n• iOS: detect if local network permission is missing, if yes send users to settings.\n• Improve error handling across the app.\n• A lot of other fixes and stability improvements.\n\nNote: The iOS IPA is unsigned. You need AltStore or a similar sideloading tool to install it.",
+     "downloadURL": "https://github.com/Sab44/omni-for-pyload/releases/download/v0.3.0/omni_for_pyload-0.3.0.ipa",
+     "size": 7922327
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "App uses the camera to scan the QR code of a pyLoad server.",
+     "NSLocalNetworkUsageDescription": "App uses local network to communicate with pyLoad."
+    }
+   }
+  }
+ ]
+}

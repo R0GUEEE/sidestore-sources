@@ -1,0 +1,30 @@
+{
+ "name": "Fladder",
+ "identifier": "dev.perapp.nl-jknaapen-fladder",
+ "subtitle": "Key Features:  • Play media – Stream or sync content locally to your device. • Manage your library – Refresh content and",
+ "description": "Single-app source for Fladder (nl.jknaapen.fladder). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/nl.jknaapen.fladder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nl.jknaapen.fladder",
+   "name": "Fladder",
+   "developerName": "DonutWare",
+   "subtitle": "Key Features:  • Play media – Stream or sync content locally to your device. • Manage your library – Refresh content and edit metadata. • Multiple pro",
+   "localizedDescription": "Key Features:  • Play media – Stream or sync content locally to your device. • Manage your library – Refresh content and edit metadata. • Multiple pro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/nl.jknaapen.fladder.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Key Features:  • Play media – Stream or sync content locally to your device. • Manage your library – Refresh content and edit metadata. • Multiple pro",
+     "downloadURL": "https://github.com/DonutWare/Fladder/releases/download/v0.11.1/Fladder-iOS-0.11.1.ipa",
+     "size": 41137245
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "StravaPremium",
+ "identifier": "dev.perapp.com-strava-stravaride",
+ "subtitle": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build commun",
+ "description": "Single-app source for StravaPremium (com.strava.stravaride). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.strava.stravaride.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.strava.stravaride",
+   "name": "StravaPremium",
+   "developerName": "Dell",
+   "subtitle": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, en",
+   "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, en",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.strava.stravaride.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "365.0.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, en",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StravaPremium/StravaPremium-365.0.0.ipa",
+     "size": 134058088
+    },
+    {
+     "version": "357.0.1",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, en",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StravaPremium/StravaPremium-357.0.1.ipa",
+     "size": 139654227
+    },
+    {
+     "version": "375.0.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "App that transforms fitness tracking into a social hub, enabling you to record activities, discover routes, build community support, train smarter, en",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/StravaPremium/StravaPremium-375.0.0.ipa",
+     "size": 139887266
+    }
+   ]
+  }
+ ]
+}

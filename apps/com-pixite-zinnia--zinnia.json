@@ -1,0 +1,44 @@
+{
+ "name": "Zinnia",
+ "identifier": "dev.perapp.com-pixite-zinnia",
+ "subtitle": "Zinnia",
+ "description": "Single-app source for Zinnia (com.pixite.Zinnia). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/52037256-2cc4-44e6-b83d-b9888838e3b1/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pixite.Zinnia",
+   "name": "Zinnia",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Zinnia: Planner & Journal\n\nTweak: Pro Unlocked\n\nVersion: 1.41.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/52037256-2cc4-44e6-b83d-b9888838e3b1/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.48.1",
+     "date": "2026-08-16T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1539",
+     "size": 86849759
+    },
+    {
+     "version": "1.48",
+     "date": "2026-08-04T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1539",
+     "size": 87350523
+    },
+    {
+     "version": "1.41.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Zinnia: Planner & Journal\n\nTweak: Pro Unlocked\n\nVersion: 1.41.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/9f37ca26-3a6d-4235-9aef-d6e1b478721f/Zinnia__Planner___Journal-v1.41.3-riftysipas.ipa",
+     "size": 93862009
+    }
+   ]
+  }
+ ]
+}

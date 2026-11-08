@@ -1,0 +1,37 @@
+{
+ "name": "Paper Comic",
+ "identifier": "dev.perapp.de-wiredframe-comicreader",
+ "subtitle": "Paper Comic Reader — a focused iOS comic reader",
+ "description": "Single-app source for Paper Comic (de.wiredframe.comicreader). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d6bb00",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/de.wiredframe.comicreader.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.wiredframe.comicreader",
+   "name": "Paper Comic",
+   "developerName": "Wiredframe",
+   "subtitle": "Paper Comic Reader — a focused iOS comic reader",
+   "localizedDescription": "Paper Comic Reader:\n\nA lean, native comic reader for iPhone and iPad that makes pages read like ink on paper instead of a backlit screen. Download on the App Store · Landing page · Mac version.\n\nPaper Comic Reader opens CBZ archives, keeps a library with reading progress and bookmarks, and can render every page with a realistic paper effect (ported from the Simple Comic fork) — a warm tonal remap plus a fine paper grain, so pages read like they were printed.\n\nBuilt with SwiftUI and a UIKit reader core, Core Image and Metal for the paper effect. Everything runs on-device: no accounts, no network requests, no tracking or analytics.\n\nProject setup:\n\nThe Xcode project is generated with XcodeGen from project.yml, so file and target changes stay easy to review and merge.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/de.wiredframe.comicreader.png",
+   "tintColor": "#d6bb00",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Wiredframe/paper-comic-reader@main/docs/screenshot.jpg",
+    "https://cdn.jsdelivr.net/gh/Wiredframe/paper-comic-reader@main/docs/screenshot-paper.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.4.4",
+     "date": "2026-11-02T22:35:56Z",
+     "localizedDescription": "Unsigned .ipa for sideloading (AltStore / Sideloadly / TrollStore).\n\nRequires iOS 26 or later. On anything older the install fails with an unhelpful error rather than saying why.\n\niOS can't install this directly — see the README for how to sideload it and re-sign it with your own Apple ID.\n\nWhat changed:\n\n• App Store screenshots with the new sample comics (en, de, it).\n• Ignore build-appstore.\n• Six new sample comics, Version 1.4.4 (Build 33).\n• README: point to the Mac version.\n• Import SwiftData where views read the model context.",
+     "downloadURL": "https://github.com/Wiredframe/paper-comic-reader/releases/download/v1.4.4/PaperComicReader-1.4.4.ipa",
+     "size": 6610676
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

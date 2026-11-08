@@ -1,0 +1,30 @@
+{
+ "name": "OneCast",
+ "identifier": "dev.perapp.com-onecast-ios",
+ "subtitle": "OneCast",
+ "description": "Single-app source for OneCast (com.onecast.ios). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/0d/b5/300db541-b462-14c3-f9d7-3a68cb90bf81/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.onecast.ios",
+   "name": "OneCast",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nOneCast v2.22  \n\n🇷🇺 Приложение для потоковой трансляции контента с устройства на Xbox. Играй и наслаждайся играм на большом экране.  \n— Платное приложение из AppStore  \n© Создано: GLESign\n\n🇺🇸 An app for streaming content from your device to Xbox. Play and enjoy games on the big screen.  \n— Paid app from AppStore  \n© Created: GLESign",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/0d/b5/300db541-b462-14c3-f9d7-3a68cb90bf81/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.22",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nOneCast v2.22  \n\n🇷🇺 Приложение для потоковой трансляции контента с устройства на Xbox. Играй и наслаждайся играм на большом экране.  \n— Платное приложение из AppStore  \n© Создано: GLESign\n\n🇺🇸 An app for streaming content from your device to Xbox. Play and enjoy games on the big screen.  \n— Paid app from AppStore  \n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/e1603185-a677-4b49-861d-bb391550f191/OneCast_v2.22_tg_glesign_.ipa",
+     "size": 4840715
+    }
+   ]
+  }
+ ]
+}

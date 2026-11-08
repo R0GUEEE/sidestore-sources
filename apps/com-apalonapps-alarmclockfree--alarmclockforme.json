@@ -1,0 +1,44 @@
+{
+ "name": "AlarmClockforMe",
+ "identifier": "dev.perapp.com-apalonapps-alarmclockfree",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for AlarmClockforMe (com.apalonapps.alarmclockfree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.alarmclockfree",
+   "name": "AlarmClockforMe",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.alarmclockfree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.19.23",
+     "date": "2026-08-19T00:00:00Z",
+     "localizedDescription": "@blatants | Alarm Clock for Me - Wake Up!  • Bundle ID: com.apalonapps.alarmclockfree • Updated to: 3.19.23 • Minimum iOS: 13 • Patched • Modifier: Pr",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11669-Alarm_Clock_for_Me_Wake_Up%21_v3_19_23_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 76502010
+    },
+    {
+     "version": "3.19.20",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-10-2025/AlarmClockforMe_3.19.20_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 74516532
+    },
+    {
+     "version": "3.19.19",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-10-2025/AlarmClockforMe_3.19.19_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 74515980
+    }
+   ]
+  }
+ ]
+}

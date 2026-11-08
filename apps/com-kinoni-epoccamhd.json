@@ -1,0 +1,30 @@
+{
+ "name": "EpocCam Pro",
+ "identifier": "dev.perapp.com-kinoni-epoccamhd",
+ "subtitle": "ipaomtk.com | EpocCam Webcamera for Computer IPA v2024.2 is a versatile mobile application that transforms your smartpho",
+ "description": "Single-app source for EpocCam Pro (com.kinoni.epoccamhd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/EpocCam-Webcamera-for-Computer.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kinoni.epoccamhd",
+   "name": "EpocCam Pro",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | EpocCam Webcamera for Computer IPA v2024.2 is a versatile mobile application that transforms your smartphone into a high-quality webcam ",
+   "localizedDescription": "ipaomtk.com | EpocCam Webcamera for Computer IPA v2024.2 is a versatile mobile application that transforms your smartphone into a high-quality webcam ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/EpocCam-Webcamera-for-Computer.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | EpocCam Webcamera for Computer IPA v2024.2 is a versatile mobile application that transforms your smartphone into a high-quality webcam ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/EpocCam_Webcamera_for_Computer-v2024.2-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

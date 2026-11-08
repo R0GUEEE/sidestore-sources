@@ -1,0 +1,44 @@
+{
+ "name": "Feather",
+ "identifier": "dev.perapp.kh-crysalis-feather",
+ "subtitle": "Injected with Nothing",
+ "description": "Single-app source for Feather (kh.crysalis.feather). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/kh.crysalis.feather.png",
+ "apps": [
+  {
+   "bundleIdentifier": "kh.crysalis.feather",
+   "name": "Feather",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing",
+   "localizedDescription": "Injected with Nothing",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/kh.crysalis.feather.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.3",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Feather/feather_v1.1.3.ipa",
+     "size": 12494811
+    },
+    {
+     "version": "2.9.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/Feather_2.9.0/Feather_2.9.0_Nothing_@repo.owo.network.ipa",
+     "size": 14241853
+    },
+    {
+     "version": "1.0.2.",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Feather/Feather-1.0.2.tipa",
+     "size": 12500831
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "VidList_0.5.1",
+ "identifier": "dev.perapp.synthetic-vidlist-0-5-1-baee5ed5",
+ "subtitle": "NSFW",
+ "description": "Single-app source for VidList_0.5.1 (synthetic.vidlist-0-5-1.baee5ed5). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/VidList_0.5.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.vidlist-0-5-1.baee5ed5",
+   "name": "VidList_0.5.1",
+   "developerName": "VidList_0.5.1 x CyPwn",
+   "subtitle": "NSFW",
+   "localizedDescription": "NSFW",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/VidList_0.5.1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "NSFW",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/VidList_0.5.1.ipa",
+     "size": 5326766
+    }
+   ]
+  }
+ ]
+}

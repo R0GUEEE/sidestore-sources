@@ -1,0 +1,30 @@
+{
+ "name": "DPixelTV",
+ "identifier": "dev.perapp.com-dpixel-dpixeltv",
+ "subtitle": "DPixelTV",
+ "description": "Single-app source for DPixelTV (com.dpixel.DPixelTV). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dpixel.DPixelTV",
+   "name": "DPixelTV",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from: @dpixel",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from: @dpixel",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/75a2a2a2-5c54-4873-a81c-78a4ed66561b/DPixelTV_3.0.ipa",
+     "size": 4336258
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Lifesum",
+ "identifier": "dev.perapp.com-sillens-ishape",
+ "subtitle": "Lifesum",
+ "description": "Single-app source for Lifesum (com.sillens.iShape). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sillens.iShape",
+   "name": "Lifesum",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.0.0",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Lifesum_24.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 133416849
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Tiny Thief Original",
+ "identifier": "dev.perapp.se-spyg-tinytheif",
+ "subtitle": "@spyg_vault | Tiny theif ported to modern ios I have also upscaled the assets to HD, locally with AI. I will also releas",
+ "description": "Single-app source for Tiny Thief Original (se.spyg.tinytheif). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/spyg-vault/194.png",
+ "apps": [
+  {
+   "bundleIdentifier": "se.spyg.tinytheif",
+   "name": "Tiny Thief Original",
+   "developerName": "@spyg_vault",
+   "subtitle": "@spyg_vault | Tiny theif ported to modern ios I have also upscaled the assets to HD, locally with AI. I will also release web version soon! Ported By ",
+   "localizedDescription": "@spyg_vault | Tiny theif ported to modern ios I have also upscaled the assets to HD, locally with AI. I will also release web version soon! Ported By\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/spyg-vault/194.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.2",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@spyg_vault | Tiny theif ported to modern ios I have also upscaled the assets to HD, locally with AI. I will also release web version soon! Ported By ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/spyg-vault/194-TinyThief64-0.1.2-Original-unsigned_spy_g.ipa",
+     "size": 72451429
+    }
+   ]
+  }
+ ]
+}

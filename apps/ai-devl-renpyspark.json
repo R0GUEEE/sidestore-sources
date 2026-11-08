@@ -1,0 +1,42 @@
+{
+ "name": "Spark",
+ "identifier": "dev.perapp.ai-devl-renpyspark",
+ "subtitle": "Play Your Ren'Py Visual Novels",
+ "description": "Single-app source for Spark (ai.devl.RenPySpark). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7b8fbb",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ai.devl.RenPySpark.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.devl.RenPySpark",
+   "name": "Spark",
+   "developerName": "RipeStore",
+   "subtitle": "Play Your Ren'Py Visual Novels",
+   "localizedDescription": "Spark: The Essential Tool for Managing Ren'Py Visual Novels.\n\nSpark is an independent utility for organizing and launching Ren'Py visual novels. It is not affiliated with or supported by the official Ren'Py project. For any issues with this app, please contact Spark support, not the Ren'Py team.\n\nLaunch and Play Your Novels with Ease Import and start your favorite Ren'Py visual novels directly in Spark. Once added, your titles are ready to launch with a tap, so you can focus on reading and playing instead of manual setup.\n\nTailored Compatibility for Each Novel Choose from multiple Ren'Py engine versions to match your novel and improve stability: 8.x: 8.5.2, 8.5.0, 8.4.1, 8.3.7, 8.3.4, 8.2.3, 8.1.3, 8.0.3 7.x: 7.8.8, 7.8.4, 7.7.3, 7.6.3, 7.5.3, 7.4.11.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/ai.devl.RenPySpark.png",
+   "tintColor": "#7b8fbb",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/RipeStore/icons@main/SPARK/s1_230x499bb.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/icons@main/SPARK/s2_230x499bb.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/icons@main/SPARK/s3_230x499bb.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/icons@main/SPARK/s4_230x499bb.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/icons@main/SPARK/s5_230x499bb.webp"
+   ],
+   "versions": [
+    {
+     "version": "1.4.0",
+     "date": "2026-08-19T03:07:25Z",
+     "localizedDescription": "• School Game Fix.\n• Eden (Choice Feature) Fix.\n• Sofia Partner Fix.",
+     "downloadURL": "https://github.com/RipeStore/spark/releases/download/v1.4.0/ai.devl.RenPySpark_1.4.ipa",
+     "size": 365610512
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "To authenticate and provide access to the app."
+    }
+   }
+  }
+ ]
+}

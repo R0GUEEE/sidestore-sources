@@ -1,0 +1,37 @@
+{
+ "name": "Bird Chaser",
+ "identifier": "dev.perapp.com-wyatthoutz-birding",
+ "subtitle": "Self-contained iPhone app for personal eBird target tracking (Capacitor, sideloaded via AltStore)",
+ "description": "Single-app source for Bird Chaser (com.wyatthoutz.birding). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7cadd2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.wyatthoutz.birding.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wyatthoutz.birding",
+   "name": "Bird Chaser",
+   "developerName": "WyattHoutz",
+   "subtitle": "Self-contained iPhone app for personal eBird target tracking (Capacitor, sideloaded via AltStore)",
+   "localizedDescription": "Bird Chaser (iOS):\n\nA self-contained iPhone app for personal eBird target tracking, built with Capacitor. It is a native app you sideload onto your own device — no App Store, no paid Apple Developer account.\n\n🐍 Looking for the Python pipeline, the backlog, or the release runbook? They live in the sibling repository birding (private).\n\nTwo repositories, and why:\n\nThe project is split in two, and you can land in either one. Here is the map.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.wyatthoutz.birding.png",
+   "tintColor": "#7cadd2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.184.0",
+     "date": "2026-11-07T15:05:01Z",
+     "localizedDescription": "v1.184.0 — clearer setup, refined alerts and accessible WATCH colours:\n\n• F1251: eBird account connection announces Please wait immediately and clears its pending state when the actual connection attempt settles.\n• F1252: initial acquisition precedes the final setup summary. A separate result box honestly distinguishes verified data from partial or unavailable groups; Start birding opens Home.\n• F1253: measured source recovery and diagnostics preserve successful/partial data without pretending a blocked provider succeeded. Leaderboard counts distinguish acquisition, parsing, retention, grouping and rendering.\n• F1254: Getting Ready shows actual initial-source activity and automatic continuation, rather than an unexplained lingering loading screen.\n• F1255: Full and Recent Busy alerts use actual inclusive five-times-usual qualification, not a rounded display multiplier. The ordinary Busy menu is unchanged.\n• F1256: category controls show icons, counts and status; complete category names remain in accessible labels. Filtering and selected-state feedback are retained.\n• F1257: Full and Recent Migration alerts retain verified High only. The dedicated Migration section and its source classifications remain unchanged.\n• F1258: Recent timestamps occupy a reserved right-hand column on the first text row. Long names wrap within their available space without extra grid-row height or smaller type/touch targets.\n• F1259: local wizard/source/taxonomy/leaderboard diagnostics retain safe counts, lifecycle and first/latest blockers. Debug collection, storage, display, Dump, copy and package metadata omit/redact structured personal/location/raw-body information.\n• F1260: initial acquisition makes one bounded failed-source recovery pass, reuses successful sources and automatically continues to the final summary after settled partial results. No mandatory Retry or extra prefetch Continue.\n• F1261: automatic account/key/Home/seen-list work has immediate wait feedback. Skip explicitly identifies the seen-list check; its longer label may wrap without clipping or smaller text.\n• F1262: both Stakeout views display the official PLVI code for Plumbeous Vireo while preserving plsvir for provider requests and actions.\n• F1263: setup's initial-data count/loading/retry presentation stays inside the wizard, never on Home after Close or completion. Ordinary refresh and retained caches continue normally.\n• F1265: Add Watch uses bluish green #009E73; Remove Watch uses vermillion #D55E00. Black text/borders and explicit Add/Remove labels remain. Measured normal-text contrast is 6.14:1 and 5.43:1; these meet AA, not the superseded lighter-fill 7:1 target.\n\nLimits and installation:\n\nThe downloadable BirdChaser-unsigned.ipa is for sideloading with AltStore/AltServer; it is not the signed TestFlight installation. Signed delivery, Apple processing, internal-testing eligibility and owner-account visibility are separate observations.\n\nPhysical-device interactions not explicitly confirmed are unverified, not hidden successes. F1264's lower WATCH-action placement is queued separately. F1247 stays paused and F1248 parked; none is implemented by this release.",
+     "downloadURL": "https://github.com/WyattHoutz/birding-app/releases/download/v1.184.0/BirdChaser-unsigned.ipa",
+     "size": 143430098
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "Bird Chaser uses your location to find birding hotspots near you for a quick outing.",
+     "NSLocationWhenInUseUsageDescription": "Bird Chaser uses your location to find birding hotspots near you for a quick outing."
+    }
+   }
+  }
+ ]
+}

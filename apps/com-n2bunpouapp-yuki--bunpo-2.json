@@ -1,0 +1,44 @@
+{
+ "name": "Bunpo",
+ "identifier": "dev.perapp.com-n2bunpouapp-yuki",
+ "subtitle": "Bunpo",
+ "description": "Single-app source for Bunpo (com.N2BunpouApp.yuki). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.N2BunpouApp.yuki.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.N2BunpouApp.yuki",
+   "name": "Bunpo",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.N2BunpouApp.yuki.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.20.0",
+     "date": "2026-08-10T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2217",
+     "size": 82317993
+    },
+    {
+     "version": "3.0.1",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Bunpo_3.0.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 389382794
+    },
+    {
+     "version": "2.29.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Bunpo: Learn Japanese\n\nTweak: Platinum Unlocked\n\nVersion: 2.29.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/9602f3b8-30ef-44fb-8f2f-c138051bd390/Bunpo__Learn_Japanese-v2.29.0-riftysipas.ipa",
+     "size": 211410064
+    }
+   ]
+  }
+ ]
+}

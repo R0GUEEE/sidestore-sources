@@ -1,0 +1,37 @@
+{
+ "name": "Block Pals",
+ "identifier": "dev.perapp.io-voodoo-blockpals",
+ "subtitle": "ipaomtk.com | What is Block Pals IPA? Block Pals IPA is the iOS installation package of the colorful puzzle and construc",
+ "description": "Single-app source for Block Pals (io.voodoo.blockpals). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Block-Pals-IPA-v1.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "io.voodoo.blockpals",
+   "name": "Block Pals",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Block Pals IPA? Block Pals IPA is the iOS installation package of the colorful puzzle and construction-based mobile game designe",
+   "localizedDescription": "ipaomtk.com | What is Block Pals IPA? Block Pals IPA is the iOS installation package of the colorful puzzle and construction-based mobile game designe",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Block-Pals-IPA-v1.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-03-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Block Pals IPA? Block Pals IPA is the iOS installation package of the colorful puzzle and construction-based mobile game designe",
+     "downloadURL": "https://file.ipaomtk.com/block-pals/Block-Pals-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.1.0",
+     "date": "2026-03-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Block Pals IPA? Block Pals IPA is the iOS installation package of the colorful puzzle and construction-based mobile game designe",
+     "downloadURL": "https://file.ipaomtk.com/block-pals/Block-Pals-IPAOMTK.COM.ipa",
+     "size": 307370658
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Network",
+ "identifier": "dev.perapp.net-doublerew-networkutilitypro",
+ "subtitle": "Network by Holloway",
+ "description": "Single-app source for Network (net.doublerew.NetworkUtilityPro). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380756.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.doublerew.NetworkUtilityPro",
+   "name": "Network",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380756.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.10.3",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1713",
+     "size": 6018875
+    }
+   ]
+  }
+ ]
+}

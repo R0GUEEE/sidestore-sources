@@ -1,0 +1,30 @@
+{
+ "name": "Paste",
+ "identifier": "dev.perapp.com-wiheads-paste",
+ "subtitle": "Paste",
+ "description": "Single-app source for Paste (com.wiheads.paste). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wiheads.paste",
+   "name": "Paste",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.5",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Paste_7.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 128658339
+    }
+   ]
+  }
+ ]
+}

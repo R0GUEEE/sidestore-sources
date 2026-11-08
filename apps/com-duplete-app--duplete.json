@@ -1,0 +1,37 @@
+{
+ "name": "Duplete",
+ "identifier": "dev.perapp.com-duplete-app",
+ "subtitle": "Duplete",
+ "description": "Single-app source for Duplete (com.duplete.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/a226025c-6293-448d-ba10-69aed0b3d03c/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.duplete.app",
+   "name": "Duplete",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Delete Similar Photos: Duplete\n\nTweak: Subscription Unlocked\n\nVersion: 1.8\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/a226025c-6293-448d-ba10-69aed0b3d03c/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Delete Similar Photos: Duplete\n\nTweak: Subscription Unlocked\n\nVersion: 1.8\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/2fe04081-7217-4432-a82f-1679f11071bd/Photo_Delete_Swipe__Duplete-v1.8-riftysipas.ipa",
+     "size": 4757170
+    },
+    {
+     "version": "1.7",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Delete Similar Photos: Duplete\n\nTweak: Subscription Unlocked\n\nVersion: 1.7\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/fc85a33d-6c28-4b17-8c7d-4481b9c2ee70/photo_delete_swipe_duplete-v1.7-riftysipas.ipa",
+     "size": 4554964
+    }
+   ]
+  }
+ ]
+}

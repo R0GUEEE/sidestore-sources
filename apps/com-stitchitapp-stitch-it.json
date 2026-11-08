@@ -1,0 +1,30 @@
+{
+ "name": "Stitch It!-OMTK",
+ "identifier": "dev.perapp.com-stitchitapp-stitch-it",
+ "subtitle": "ipaomtk.com | Snapping screenshots on your iPhone is easy, but editing them can be a hassle. That’s why we created Stitc",
+ "description": "Single-app source for Stitch It!-OMTK (com.stitchitapp.Stitch-It). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/Stitch-It-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stitchitapp.Stitch-It",
+   "name": "Stitch It!-OMTK",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Snapping screenshots on your iPhone is easy, but editing them can be a hassle. That’s why we created Stitch It IPA the most powerful scr",
+   "localizedDescription": "ipaomtk.com | Snapping screenshots on your iPhone is easy, but editing them can be a hassle. That’s why we created Stitch It IPA the most powerful scr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/Stitch-It-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.0",
+     "date": "2023-04-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Snapping screenshots on your iPhone is easy, but editing them can be a hassle. That’s why we created Stitch It IPA the most powerful scr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Stitch-It.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

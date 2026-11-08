@@ -1,0 +1,30 @@
+{
+ "name": "Bobby",
+ "identifier": "dev.perapp.com-yummygum-billy",
+ "subtitle": "ipaomtk.com | Bobby Track subscription IPA Do you find yourself overwhelmed by the many subscriptions you need to manage",
+ "description": "Single-app source for Bobby (com.yummygum.Billy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/Bobby-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yummygum.Billy",
+   "name": "Bobby",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Bobby Track subscription IPA Do you find yourself overwhelmed by the many subscriptions you need to manage each month? Or do you forget ",
+   "localizedDescription": "ipaomtk.com | Bobby Track subscription IPA Do you find yourself overwhelmed by the many subscriptions you need to manage each month? Or do you forget ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/Bobby-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.9.6",
+     "date": "2023-04-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Bobby Track subscription IPA Do you find yourself overwhelmed by the many subscriptions you need to manage each month? Or do you forget ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Bobby.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

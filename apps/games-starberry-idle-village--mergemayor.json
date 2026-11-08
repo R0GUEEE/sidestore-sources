@@ -1,0 +1,30 @@
+{
+ "name": "MergeMayor",
+ "identifier": "dev.perapp.games-starberry-idle-village",
+ "subtitle": "MergeMayor",
+ "description": "Single-app source for MergeMayor (games.starberry.idle-village). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.starberry.idle-village.png",
+ "apps": [
+  {
+   "bundleIdentifier": "games.starberry.idle-village",
+   "name": "MergeMayor",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with FreezeEnergy",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.starberry.idle-village.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.15.533",
+     "date": "2024-12-07T00:00:00Z",
+     "localizedDescription": "Injected with FreezeEnergy",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/MergeMayor_4.15.533_FreezeEnergy_%40thisismanpreets_apptesters.org.ipa",
+     "size": 234087524
+    }
+   ]
+  }
+ ]
+}

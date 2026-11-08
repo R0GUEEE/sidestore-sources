@@ -1,0 +1,30 @@
+{
+ "name": "Speedtest",
+ "identifier": "dev.perapp.com-ookla-speedtest",
+ "subtitle": "Speedtest",
+ "description": "Single-app source for Speedtest (com.ookla.speedtest). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ookla.speedtest",
+   "name": "Speedtest",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.2",
+     "date": "2026-04-30T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/Speedtest_7.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 55150720
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Mirarr (Hacked)",
+ "identifier": "dev.perapp.com-example-mirarr",
+ "subtitle": "Mirarr (Hacked) by sidelix",
+ "description": "Single-app source for Mirarr (Hacked) (com.example.mirarr). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a5d4a3fdc69e.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.example.mirarr",
+   "name": "Mirarr (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Modified app with premium features unlocked.",
+   "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a5d4a3fdc69e.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.2",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Modified app with premium features unlocked.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2309",
+     "size": 29585657
+    }
+   ]
+  }
+ ]
+}

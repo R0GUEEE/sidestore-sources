@@ -1,0 +1,37 @@
+{
+ "name": "Dead Cells+",
+ "identifier": "dev.perapp.com-playdigious-deadcells-applearcade",
+ "subtitle": "Dead Cells+ - Dead Cells but with all DLCS",
+ "description": "Single-app source for Dead Cells+ (com.playdigious.deadcells.applearcade). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "08f9f9",
+ "iconURL": "https://cdn.omnidev.org/Dead_Cells_768x768-VH.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playdigious.deadcells.applearcade",
+   "name": "Dead Cells+",
+   "developerName": "Motion Twin and Evil Empire",
+   "subtitle": "Dead Cells+ - Dead Cells but with all DLCS",
+   "localizedDescription": "Dead Cells is a 2018 roguelike-Metroidvania game developed by Motion Twin and Evil Empire, and published by Motion Twin. The player takes the role of an amorphous creature called the Prisoner. As the Prisoner, the player must fight their way out of a diseased island in order to slay the island's King.\nStatus: ✅🌟",
+   "iconURL": "https://cdn.omnidev.org/Dead_Cells_768x768-VH.png",
+   "tintColor": "08f9f9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.5.6",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Play as a failed alchemic experiment and explore the sprawling, ever-changing castle to find out what happened on this gloomy island…! \r\nThat is, assuming you’re able to fight your way past its keepers.\r\n\r\nDead Cells+ is a roguevania action platformer that will require you to master frantic 2D combat with a wide variety of weapons and skills against merciless minions and boss.\r\n\r\nThe indie hit Dead Cells+ is now slaying foes on Apple Arcade!\r\n\r\nMain Features\r\n\r\n• ONLY ON APPLE ARCADE - New daily leaderboards : Test your skills against players all over the world!\r\n\r\n• Roguevania: The progressive exploration of an interconnected world, with the replayability of a rogue-lite and the adrenaline pumping threat of permadeath\r\n\r\n• Frantic and",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2081",
+     "size": 1273808136
+    },
+    {
+     "version": "3.3.2",
+     "date": "2024-11-06T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/Dead_Cells_plus_v3_3_2-bd.ipad",
+     "size": 1369145344
+    }
+   ]
+  }
+ ]
+}

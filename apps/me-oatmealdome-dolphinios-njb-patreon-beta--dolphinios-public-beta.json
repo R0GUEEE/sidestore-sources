@@ -1,0 +1,37 @@
+{
+ "name": "DolphiniOS (Public Beta)",
+ "identifier": "dev.perapp.me-oatmealdome-dolphinios-njb-patreon-beta",
+ "subtitle": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii softw",
+ "description": "Single-app source for DolphiniOS (Public Beta) (me.oatmealdome.DolphiniOS-njb-patreon-beta). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+   "name": "DolphiniOS (Public Beta)",
+   "developerName": "OatmealDome",
+   "subtitle": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like hig",
+   "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like hig",
+   "iconURL": "https://cdn.oatmealdome.me/dolphinios/AppIcon.appiconset/BetaAppStore.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "DolphiniOS:  DolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.  This is ",
+     "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+     "size": 17963367
+    },
+    {
+     "version": "5.0.0b6",
+     "date": "2026-06-20T00:00:00Z",
+     "localizedDescription": "DolphiniOS is a port of the popular Dolphin emulator to iOS. Dolphin lets you play your favourite GameCube and Wii software with enhancements like hig",
+     "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b6/Non-Jailbroken.ipa",
+     "size": 17963367
+    }
+   ]
+  }
+ ]
+}

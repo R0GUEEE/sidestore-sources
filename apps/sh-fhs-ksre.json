@@ -1,0 +1,30 @@
+{
+ "name": "KSRE",
+ "identifier": "dev.perapp.sh-fhs-ksre",
+ "subtitle": "Mirror of the KSRE repo. Note that this is just a mirror - we don't work with pull requests on github. To contribute, pl",
+ "description": "Single-app source for KSRE (sh.fhs.ksre). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/sh.fhs.ksre.png",
+ "apps": [
+  {
+   "bundleIdentifier": "sh.fhs.ksre",
+   "name": "KSRE",
+   "developerName": "fleetingheart",
+   "subtitle": "Mirror of the KSRE repo. Note that this is just a mirror - we don't work with pull requests on github. To contribute, please visit repo's website.",
+   "localizedDescription": "Mirror of the KSRE repo. Note that this is just a mirror - we don't work with pull requests on github. To contribute, please visit repo's website.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/sh.fhs.ksre.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.4",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Mirror of the KSRE repo. Note that this is just a mirror - we don't work with pull requests on github. To contribute, please visit repo's website.",
+     "downloadURL": "https://github.com/fleetingheart/ksre/releases/download/v2.0.4/KSRE-ios.ipa",
+     "size": 1485058455
+    }
+   ]
+  }
+ ]
+}

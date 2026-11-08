@@ -1,0 +1,30 @@
+{
+ "name": "Opaline",
+ "identifier": "dev.perapp.com-verback-ytlite",
+ "subtitle": "Opaline:  A lightweight, native YouTube client for iOS 12+. No ads, no tracking, no dependencies.  Opaline was released ",
+ "description": "Single-app source for Opaline (com.verback.YTLite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.verback.YTLite.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.verback.YTLite",
+   "name": "Opaline",
+   "developerName": "verback2308",
+   "subtitle": "Opaline:  A lightweight, native YouTube client for iOS 12+. No ads, no tracking, no dependencies.  Opaline was released as YTLite until August. It was",
+   "localizedDescription": "Opaline:  A lightweight, native YouTube client for iOS 12+. No ads, no tracking, no dependencies.  Opaline was released as YTLite until August. It was\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.verback.YTLite.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Opaline:  A lightweight, native YouTube client for iOS 12+. No ads, no tracking, no dependencies.  Opaline was released as YTLite until August. It was",
+     "downloadURL": "https://github.com/verback2308/Opaline/releases/download/1.12.0/Opaline_1.12.0.ipa",
+     "size": 6685919
+    }
+   ]
+  }
+ ]
+}

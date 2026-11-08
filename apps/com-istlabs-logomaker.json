@@ -1,0 +1,30 @@
+{
+ "name": "LogoMaker",
+ "identifier": "dev.perapp.com-istlabs-logomaker",
+ "subtitle": "ipaomtk.com | Logo Maker – Logo Design Shop IPA, small business owner, or creative professional looking to design a prof",
+ "description": "Single-app source for LogoMaker (com.ISTLabs.LogoMaker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Logo-Maker-Logo-Design-Shop-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ISTLabs.LogoMaker",
+   "name": "LogoMaker",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Logo Maker – Logo Design Shop IPA, small business owner, or creative professional looking to design a professional-grade logo for your b",
+   "localizedDescription": "ipaomtk.com | Logo Maker – Logo Design Shop IPA, small business owner, or creative professional looking to design a professional-grade logo for your b",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Logo-Maker-Logo-Design-Shop-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.6",
+     "date": "2024-10-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Logo Maker – Logo Design Shop IPA, small business owner, or creative professional looking to design a professional-grade logo for your b",
+     "downloadURL": "https://file.ipaomtk.com/ipa/LogoMaker_2.2.6_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "LumaFusion",
+ "identifier": "dev.perapp.com-luma-touch-lumafusion",
+ "subtitle": "LumaFusion",
+ "description": "Single-app source for LumaFusion (com.luma-touch.LumaFusion). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.luma-touch.LumaFusion",
+   "name": "LumaFusion",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.4",
+     "date": "2026-04-01T00:00:00Z",
+     "localizedDescription": "LumaFusion: The Ultimate Storytelling Experience for Video Editing\r\n \r\nWelcome to the App Store’s “App of the Year” for 2021 and the recipient of the Editors’ Choice Award! The gold standard for storytellers worldwide. Offering a fluid, intuitive, touch-screen editing experience.\r\n \r\nPROFESSIONAL EDITING MADE EASY\r\n• Six video/audio or graphic tracks: Create multiple layer edits with smooth handling of 4K ProRes and HDR media.\r\n• Six Additional audio tracks: Build your soundscape.\r\n• The ultimate Timeline: Fluent editing using the world’s most flexible track-based AND magnetic timeline.\r\n• Loads of transitions: Keep your story moving.\r\n• External Monitor Preview: View on a big screen.\r\n• Markers, tags and notes: Stay organi",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1950",
+     "size": 171217365
+    },
+    {
+     "version": "5.4.3",
+     "date": "2026-02-18T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-02-2026/LumaFusion_5.4.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 169466521
+    },
+    {
+     "version": "5.3.4",
+     "date": "2025-10-30T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2025/LumaFusion_5.3.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 166132272
+    }
+   ]
+  }
+ ]
+}

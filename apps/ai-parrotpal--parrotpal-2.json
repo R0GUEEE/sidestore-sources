@@ -1,0 +1,44 @@
+{
+ "name": "ParrotPal",
+ "identifier": "dev.perapp.ai-parrotpal",
+ "subtitle": "ParrotPal",
+ "description": "Single-app source for ParrotPal (ai.parrotpal). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.parrotpal.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.parrotpal",
+   "name": "ParrotPal",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.parrotpal.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "199",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2293",
+     "size": 137592720
+    },
+    {
+     "version": "175",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/ParrotPal_175_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 108016344
+    },
+    {
+     "version": "154",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: AI Calorie Counter: ParrotPal\n\nTweak: Subscription Unlocked\n\nVersion: 4.0.9\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/1974b843-7b40-48b7-8065-81df93192de3/AI_Calorie_Counter__ParrotPal-v4.0.9-riftysipas.ipa",
+     "size": 63498303
+    }
+   ]
+  }
+ ]
+}

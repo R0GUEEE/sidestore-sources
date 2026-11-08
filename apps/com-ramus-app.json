@@ -1,0 +1,41 @@
+{
+ "name": "ramus",
+ "identifier": "dev.perapp.com-ramus-app",
+ "subtitle": "A genre-first hierarchical music client for Plex",
+ "description": "Single-app source for ramus (com.ramus.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f3686d",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ramus.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ramus.app",
+   "name": "ramus",
+   "developerName": "1337raspberry",
+   "subtitle": "A genre-first hierarchical music client for Plex",
+   "localizedDescription": "Features:\n\n• Album-Art focused - Browse by an album art grid instead of boring ol' text lists, and enjoy auto-extracted background and accent colours across the whole interface, making your entire music listening experience cohesive and aesthetic.\n• Waveform Seeking - If you have Sonic Analysis enabled on your server, you already have all this wonderful data. Skip past the 6 minute ambient intro straight to the good stuff.\n• Track popularity data - See the top tracks in an album based on crowdsourced popularity data supplied directly via Plex and obtained via users starring their own libraries, or see a unique popularity chart over an albums track listing to get the full picture.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ramus.app.png",
+   "tintColor": "#f3686d",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/1337raspberry/ramus@main/docs/screenshots/mobile-library.webp",
+    "https://cdn.jsdelivr.net/gh/1337raspberry/ramus@main/docs/screenshots/mobile-np.webp",
+    "https://cdn.jsdelivr.net/gh/1337raspberry/ramus@main/docs/screenshots/artist.webp",
+    "https://cdn.jsdelivr.net/gh/1337raspberry/ramus@main/docs/screenshots/mobile-np-lyrics.webp"
+   ],
+   "versions": [
+    {
+     "version": "2.1.0",
+     "date": "2026-10-08T20:48:16Z",
+     "localizedDescription": "New Features:\n\n• brand new \"pulsar\" visualiser. i spent loads of time and lots of music tweaking it to be super responsive and hypnotic to watch. I always loved visualisers, and i always loved the one that inspired this, and i think i've made it as good as it could be imo. give it a try!\n• visualisers are now real time too. no more precompute. this means we've got em on iOS too. No android yet, sorry droiders. Soon maybe.\n• a \"clear screen\" mode that just showcases the visualiser, good for a second monitor or casting to a tv. it also has an optional kind of karaoke sing-along type lyrics display if the song you're listening to has timed lyrics.\n• cast to other plex players such as plexamp or anything else that can accept plex casting. This might be because i am working on an apple TV app, maybe.\n\nImprovements:\n\n• Discovery crates are supported on desktop now.\n• background gradients are much smoother, no more banding at all as far as i can tell. even under worst possible case scenarios. just smooth all around.\n• vastly reduced battery usage on ios (all) and gpu usage on macos 26.\n\nFixes:\n\n• fixed a bug that was inflating local play counts (didnt touch your scrobbles or server play counts).\n• fixed macOS title bar double click to maximise.\n\nAvailable Binaries::\n\n• macOS (Universal) - *_universal.dmg (works on Intel + Apple Silicon).\n• Linux (x86_64) - *_amd64.AppImage / *_amd64.deb / *.x86_64.rpm.\n• Linux (arm64) - *_aarch64.AppImage / *_arm64.deb / *.aarch64.rpm.\n• Windows - *_x64-setup.exe (NSIS) or *_x64_en-US.msi (MSI).\n• Android - .apk (sideload).\n• iOS (iPhone) - *_ios-adhoc.ipa (sideload).\n\nThese builds are unsigned, so you'll get a warning the first time you open the app:\n\n• macOS: right-click the app > Open, then if it tells you it's damaged (thanks MacOS), go to System Settings > Privacy & Security > Scroll Down > Run Anyway. Or run xattr -dr com.apple.quarantine /Applications/ramus.app from your terminal to clear the quarantine flag.\n• Windows: SmartScreen will show \"Unknown publisher\" - click \"More info\" > \"Run anyway\".\n• Android: enable \"Install unknown apps\" for your file manager / browser, then tap the .apk.\n• iOS (iPhone Only): sideload however you like, or use sidestore source https://1337raspberry.github.io/ramus.json to grab this automatically.\n\nFeedback very welcome.",
+     "downloadURL": "https://github.com/1337raspberry/ramus/releases/download/v2.1.0/ramus_2.1.0_ios-adhoc.ipa",
+     "size": 21245702
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "ramus needs local network access to find Plex servers on your home network."
+    }
+   }
+  }
+ ]
+}

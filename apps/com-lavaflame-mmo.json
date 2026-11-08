@@ -1,0 +1,30 @@
+{
+ "name": "Legends of Idleon",
+ "identifier": "dev.perapp.com-lavaflame-mmo",
+ "subtitle": "ipaomtk.com | IdleOn Idle MMO IPA is a modified version of the popular iOS game that offers unlimited resources and enha",
+ "description": "Single-app source for Legends of Idleon (com.lavaflame.MMO). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-idleon-idle-game-mmo-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lavaflame.MMO",
+   "name": "Legends of Idleon",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | IdleOn Idle MMO IPA is a modified version of the popular iOS game that offers unlimited resources and enhanced gameplay experiences. Thi",
+   "localizedDescription": "ipaomtk.com | IdleOn Idle MMO IPA is a modified version of the popular iOS game that offers unlimited resources and enhanced gameplay experiences. Thi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-idleon-idle-game-mmo-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.901.0",
+     "date": "2023-10-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | IdleOn Idle MMO IPA is a modified version of the popular iOS game that offers unlimited resources and enhanced gameplay experiences. Thi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Legends-of-Idleon.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

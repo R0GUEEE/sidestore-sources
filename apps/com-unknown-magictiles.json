@@ -1,0 +1,37 @@
+{
+ "name": "MagicTiles",
+ "identifier": "dev.perapp.com-unknown-magictiles",
+ "subtitle": "MagicTiles by Karbin-Store",
+ "description": "Single-app source for MagicTiles (com.unknown.magictiles). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/MagicTiles.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.magictiles",
+   "name": "MagicTiles",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/MagicTiles.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.113",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/MagicTiles3-v11.113.101.ipa",
+     "size": 142120000
+    },
+    {
+     "version": "11.113.101",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/MagicTiles3-v11.113.101.ipa",
+     "size": 193854626
+    }
+   ]
+  }
+ ]
+}

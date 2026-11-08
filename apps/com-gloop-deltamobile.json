@@ -1,0 +1,30 @@
+{
+ "name": "Roblox",
+ "identifier": "dev.perapp.com-gloop-deltamobile",
+ "subtitle": "Mods",
+ "description": "Single-app source for Roblox (com.gloop.deltamobile). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gloop.deltamobile",
+   "name": "Roblox",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Mods",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gloop.deltamobile.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.686.866",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Roblox_2.686.866_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 119944660
+    }
+   ]
+  }
+ ]
+}

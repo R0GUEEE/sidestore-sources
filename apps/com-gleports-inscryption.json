@@ -1,0 +1,30 @@
+{
+ "name": "Inscryption",
+ "identifier": "dev.perapp.com-gleports-inscryption",
+ "subtitle": "ipaomtk.com | Inscryption on iOS brings a unique blend of card strategy, puzzle solving, and psychological horror to iPh",
+ "description": "Single-app source for Inscryption (com.GLEPorts.Inscryption). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/inscryption-square-768x768-1-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.GLEPorts.Inscryption",
+   "name": "Inscryption",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Inscryption on iOS brings a unique blend of card strategy, puzzle solving, and psychological horror to iPhone users. Unlike traditional ",
+   "localizedDescription": "ipaomtk.com | Inscryption on iOS brings a unique blend of card strategy, puzzle solving, and psychological horror to iPhone users. Unlike traditional ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/inscryption-square-768x768-1-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1",
+     "date": "2026-02-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Inscryption on iOS brings a unique blend of card strategy, puzzle solving, and psychological horror to iPhone users. Unlike traditional ",
+     "downloadURL": "https://file.ipaomtk.com/Inscryption/Inscryption-v0.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

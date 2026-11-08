@@ -1,0 +1,30 @@
+{
+ "name": "FaceApp Pro",
+ "identifier": "dev.perapp.synthetic-faceapp-pro-db355657",
+ "subtitle": "FaceApp Pro by Karbin-Store",
+ "description": "Single-app source for FaceApp Pro (synthetic.faceapp-pro.db355657). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/FaceApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.faceapp-pro.db355657",
+   "name": "FaceApp Pro",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Active Premium",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/FaceApp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.4.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Active Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/FaceApp.Pro.-.11.4.0.ipa",
+     "size": 18820000
+    }
+   ]
+  }
+ ]
+}

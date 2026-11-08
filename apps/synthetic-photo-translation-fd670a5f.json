@@ -1,0 +1,30 @@
+{
+ "name": "Photo Translation",
+ "identifier": "dev.perapp.synthetic-photo-translation-fd670a5f",
+ "subtitle": "Photo Translation by Karbin-Store",
+ "description": "Single-app source for Photo Translation (synthetic.photo-translation.fd670a5f). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Photo.Translation.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.photo-translation.fd670a5f",
+   "name": "Photo Translation",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "✅All features are unlocked \n✅Translate texts from pictures ",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Photo.Translation.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.7",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "✅All features are unlocked \n✅Translate texts from pictures ",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Photo.Translator.4.0.7.ipa",
+     "size": 58520000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Friday Night Funkin'",
+ "identifier": "dev.perapp.com-funkin-fnf",
+ "subtitle": "Friday Night Funkin' iOS - Outdated port of FNF",
+ "description": "Single-app source for Friday Night Funkin' (com.funkin.fnf). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "26a6f8",
+ "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.funkin.fnf",
+   "name": "Friday Night Funkin'",
+   "developerName": "FunkinCrew",
+   "subtitle": "Friday Night Funkin' iOS - Outdated port of FNF",
+   "localizedDescription": "A rhythm game made with HaxeFlixel\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
+   "tintColor": "26a6f8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "v0.4.1-patch-1",
+     "date": "2024-10-29T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/Funkin_0_4_1_patch1-ZU.ipa",
+     "size": 507664411
+    }
+   ]
+  }
+ ]
+}

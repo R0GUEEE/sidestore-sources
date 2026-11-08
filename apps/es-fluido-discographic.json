@@ -1,0 +1,30 @@
+{
+ "name": "Discographic",
+ "identifier": "dev.perapp.es-fluido-discographic",
+ "subtitle": "ipaomtk.com | Discographic for Discogs Overview on iPhone Discographic for Discogs is an iOS companion-style application",
+ "description": "Single-app source for Discographic (es.fluido.Discographic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Discographic-for-Discogs-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "es.fluido.Discographic",
+   "name": "Discographic",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Discographic for Discogs Overview on iPhone Discographic for Discogs is an iOS companion-style application designed for music collectors",
+   "localizedDescription": "ipaomtk.com | Discographic for Discogs Overview on iPhone Discographic for Discogs is an iOS companion-style application designed for music collectors",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Discographic-for-Discogs-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.9",
+     "date": "2024-10-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Discographic for Discogs Overview on iPhone Discographic for Discogs is an iOS companion-style application designed for music collectors",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Discographic_for_Discogs-IPAOMTK.COM-v4.9.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

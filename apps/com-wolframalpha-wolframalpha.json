@@ -1,0 +1,30 @@
+{
+ "name": "WolframAlpha",
+ "identifier": "dev.perapp.com-wolframalpha-wolframalpha",
+ "subtitle": "Use the power of Wolfram's computational intelligence to answer your questions. Building on 30+ years of development led",
+ "description": "Single-app source for WolframAlpha (com.wolframalpha.wolframalpha). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/1MsjN5j.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wolframalpha.wolframalpha",
+   "name": "WolframAlpha",
+   "developerName": "Wolfram Group, LLC",
+   "subtitle": "Use the power of Wolfram's computational intelligence to answer your questions. Building on 30+ years of development led by Stephen Wolfram, Wolfram|A",
+   "localizedDescription": "Use the power of Wolfram's computational intelligence to answer your questions. Building on 30+ years of development led by Stephen Wolfram, Wolfram|A",
+   "iconURL": "https://i.imgur.com/1MsjN5j.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.5",
+     "date": "2019-11-26T00:00:00Z",
+     "localizedDescription": "Use the power of Wolfram's computational intelligence to answer your questions. Building on 30+ years of development led by Stephen Wolfram, Wolfram|A",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/WolframAlpha.ipa?dl=1",
+     "size": 39855086
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "iMe Ai",
+ "identifier": "dev.perapp.com-unknown-imeai",
+ "subtitle": "مفتوح الاشتراك الكامل ✅   اشتراك تطبيق iMe وليس المميز ✅",
+ "description": "Single-app source for iMe Ai (com.unknown.imeai). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/iMe.AI.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.imeai",
+   "name": "iMe Ai",
+   "developerName": "Karbin-Store",
+   "subtitle": "مفتوح الاشتراك الكامل ✅   اشتراك تطبيق iMe وليس المميز ✅",
+   "localizedDescription": "مفتوح الاشتراك الكامل ✅   اشتراك تطبيق iMe وليس المميز ✅",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/iMe.AI.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "مفتوح الاشتراك الكامل ✅   اشتراك تطبيق iMe وليس المميز ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/iMe.11.0.ipa",
+     "size": 115610000
+    }
+   ]
+  }
+ ]
+}

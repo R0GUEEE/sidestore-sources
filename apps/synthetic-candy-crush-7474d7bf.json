@@ -1,0 +1,30 @@
+{
+ "name": "Candy_Crush",
+ "identifier": "dev.perapp.synthetic-candy-crush-7474d7bf",
+ "subtitle": "Candy Crush modded",
+ "description": "Single-app source for Candy_Crush (synthetic.candy-crush.7474d7bf). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Candy_Crush.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.candy-crush.7474d7bf",
+   "name": "Candy_Crush",
+   "developerName": "Candy_Crush x CyPwn",
+   "subtitle": "Candy Crush modded",
+   "localizedDescription": "Candy Crush modded",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Candy_Crush.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.226.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Candy Crush modded",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Candy_Crush.ipa",
+     "size": 80069263
+    }
+   ]
+  }
+ ]
+}

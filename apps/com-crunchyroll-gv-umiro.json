@@ -1,0 +1,30 @@
+{
+ "name": "Umiro",
+ "identifier": "dev.perapp.com-crunchyroll-gv-umiro",
+ "subtitle": "ipaomtk.com | Crunchyroll: Umiro on iOS Crunchyroll: Umiro on iOS offers a refreshing change from fast-paced mobile game",
+ "description": "Single-app source for Umiro (com.crunchyroll.gv.umiro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Crunchyroll-Umiro-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crunchyroll.gv.umiro",
+   "name": "Umiro",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Crunchyroll: Umiro on iOS Crunchyroll: Umiro on iOS offers a refreshing change from fast-paced mobile games by focusing on atmosphere, l",
+   "localizedDescription": "ipaomtk.com | Crunchyroll: Umiro on iOS Crunchyroll: Umiro on iOS offers a refreshing change from fast-paced mobile games by focusing on atmosphere, l",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Crunchyroll-Umiro-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-01-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Crunchyroll: Umiro on iOS Crunchyroll: Umiro on iOS offers a refreshing change from fast-paced mobile games by focusing on atmosphere, l",
+     "downloadURL": "https://file.ipaomtk.com/crunchyroll-umiro/Crunchyroll-Umiro-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

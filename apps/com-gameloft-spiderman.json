@@ -1,0 +1,30 @@
+{
+ "name": "Spiderman",
+ "identifier": "dev.perapp.com-gameloft-spiderman",
+ "subtitle": "ipaomtk.com | SpiderMan IPA is an incredibly unique application that has been designed to provide users with an entertai",
+ "description": "Single-app source for Spiderman (com.gameloft.Spiderman). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Spiderman-IPA-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gameloft.Spiderman",
+   "name": "Spiderman",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | SpiderMan IPA is an incredibly unique application that has been designed to provide users with an entertaining and interactive way to in",
+   "localizedDescription": "ipaomtk.com | SpiderMan IPA is an incredibly unique application that has been designed to provide users with an entertaining and interactive way to in",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Spiderman-IPA-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.0",
+     "date": "2023-12-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | SpiderMan IPA is an incredibly unique application that has been designed to provide users with an entertaining and interactive way to in",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Spiderman.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

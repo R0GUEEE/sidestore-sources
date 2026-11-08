@@ -1,0 +1,44 @@
+{
+ "name": "Breeze",
+ "identifier": "dev.perapp.com-basenji-mood",
+ "subtitle": "Breeze",
+ "description": "Single-app source for Breeze (com.basenji.mood). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.basenji.mood.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.basenji.mood",
+   "name": "Breeze",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.basenji.mood.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6.2",
+     "date": "2026-08-11T00:00:00Z",
+     "localizedDescription": "Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2300",
+     "size": 196994807
+    },
+    {
+     "version": "3.4.2",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Breeze_3.4.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 238940095
+    },
+    {
+     "version": "3.3.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Breeze: Start Self-Discovery\n\nTweak: Subscription Unlocked\n\nVersion: 3.3.4\n\nNotes: restart app if subscription isn't unlocked\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/e6109c54-faac-424e-86fd-cbeda159b71e/Breeze__Start_Self-Discovery-v3.3.4-riftysipas.ipa",
+     "size": 183319000
+    }
+   ]
+  }
+ ]
+}

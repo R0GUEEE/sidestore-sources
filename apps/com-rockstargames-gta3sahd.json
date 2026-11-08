@@ -1,0 +1,37 @@
+{
+ "name": "GTA Kurdish",
+ "identifier": "dev.perapp.com-rockstargames-gta3sahd",
+ "subtitle": "GTA Kurdish by KaraStore",
+ "description": "Single-app source for GTA Kurdish (com.rockstargames.gta3sahd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA.kurdish.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.gta3sahd",
+   "name": "GTA Kurdish",
+   "developerName": "KaraStore",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA.kurdish.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.17",
+     "date": "2026-07-07T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://archive.org/download/gta-kurdish-2.2-1721599938/GTA%20Kurdish_2.2_1721599938.ipa",
+     "size": 300244174
+    },
+    {
+     "version": "2.2",
+     "date": "2026-07-07T00:00:00Z",
+     "localizedDescription": "Tweaks: AhmadCloud\n\n",
+     "downloadURL": "https://archive.org/download/gta-kurdish-2.2-1721599938/GTA%20Kurdish_2.2_1721599938.ipa",
+     "size": 2147483647
+    }
+   ]
+  }
+ ]
+}

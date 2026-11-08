@@ -1,0 +1,44 @@
+{
+ "name": "Stremio-2.0.7",
+ "identifier": "dev.perapp.com-stremio-pal",
+ "subtitle": "Stremio-2.0.7 by Stremio-2.0.7 x CyPwn",
+ "description": "Single-app source for Stremio-2.0.7 (com.stremio.pal). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.7.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stremio.pal",
+   "name": "Stremio-2.0.7",
+   "developerName": "Stremio-2.0.7 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.7.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Stremio 2.1.1 b25  Builds: ▪Stremio 2.1.1 b25 (iOS) ▪Stremio 2.1.1 b25 (tvOS)  Stremio offers a secure, modern and seamless ente",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1136-Stremio%202.1.1%20b25%20%28iOS%29.ipa",
+     "size": 84752072
+    },
+    {
+     "version": "2.1.0",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Stremio 2.1.0 b24  Builds: ▪Stremio 2.1.0 b24 (iOS) ▪Stremio 2.1.0 b24 (tvOS)  Stremio offers a secure, modern and seamless ente",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/980-Stremio%202.1.0%20b24%20%28iOS%29.ipa",
+     "size": 85213656
+    },
+    {
+     "version": "2.0.8",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Stremio 2.0.8  Builds: ▪Stremio 2.0.8 (iOS) ▪Stremio 2.0.8 (tvOS)  Stremio offers a secure, modern and seamless entertainment ex",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/955-Stremio%202.0.8%20iOS.ipa",
+     "size": 78506200
+    }
+   ]
+  }
+ ]
+}

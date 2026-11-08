@@ -1,0 +1,30 @@
+{
+ "name": "BillionAir",
+ "identifier": "dev.perapp.com-rogueharbour-billionair-airport",
+ "subtitle": "ipaomtk.com | The Airport BillionAir Idle Tycoon is a highly engaging mobile game that allows players to experience the ",
+ "description": "Single-app source for BillionAir (com.rogueharbour.billionair.airport). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/09/airport-billionair-idle-tycoon-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rogueharbour.billionair.airport",
+   "name": "BillionAir",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Airport BillionAir Idle Tycoon is a highly engaging mobile game that allows players to experience the excitement of running their ve",
+   "localizedDescription": "ipaomtk.com | The Airport BillionAir Idle Tycoon is a highly engaging mobile game that allows players to experience the excitement of running their ve",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/09/airport-billionair-idle-tycoon-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.18.3",
+     "date": "2023-09-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Airport BillionAir Idle Tycoon is a highly engaging mobile game that allows players to experience the excitement of running their ve",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Airport-BillionAir.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "GTA: VC - Netflix VH",
+ "identifier": "dev.perapp.com-netflix-ngp-gtavcdefinitiveedition",
+ "subtitle": "Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi",
+ "description": "Single-app source for GTA: VC - Netflix VH (com.netflix.NGP.GTAVCDefinitiveEdition). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVCDEN.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netflix.NGP.GTAVCDefinitiveEdition",
+   "name": "GTA: VC - Netflix VH",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi",
+   "localizedDescription": "Chức năng đã thêm: Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVCDEN.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.72.42919648",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Việt Hóa. Yêu cầu có tài khoản Netflix đã đăng kí gói để chơi - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://archive.org/download/gta-trilogy-viet-hoa-ios-ipados-ttjb/GTA:%20Vice%20City_1.72.42919648_1702703370.ipa",
+     "size": 2147483647
+    }
+   ]
+  }
+ ]
+}

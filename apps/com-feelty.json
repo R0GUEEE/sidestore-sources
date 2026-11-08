@@ -1,0 +1,44 @@
+{
+ "name": "FLTR",
+ "identifier": "dev.perapp.com-feelty",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for FLTR (com.feelty). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.feelty",
+   "name": "FLTR",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.22.1",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@blatants | Presets for Lightroom - FLTR  • Bundle ID: com.feelty • Updated to: 4.22.1 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/FLTR_4.22.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 113962139
+    },
+    {
+     "version": "4.18.14",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/04-08-2025/FLTR_4.18.14_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 94271411
+    },
+    {
+     "version": "4.22.0",
+     "date": "2026-07-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2026/FLTR_4.22.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 117570958
+    }
+   ]
+  }
+ ]
+}

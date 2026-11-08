@@ -1,0 +1,37 @@
+{
+ "name": "Survivor.io",
+ "identifier": "dev.perapp.com-dxx-firenow",
+ "subtitle": "ipaomtk.com | Survivor.io IPA is a strategic survival game where players must explore, build, and survive the elements o",
+ "description": "Single-app source for Survivor.io (com.dxx.firenow). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/survivor-io-ipa-v4-5-0-enemy-wont-attack-ios-appstore-icon-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dxx.firenow",
+   "name": "Survivor.io",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Survivor.io IPA is a strategic survival game where players must explore, build, and survive the elements of a hostile open world. Player",
+   "localizedDescription": "ipaomtk.com | Survivor.io IPA is a strategic survival game where players must explore, build, and survive the elements of a hostile open world. Player",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/survivor-io-ipa-v4-5-0-enemy-wont-attack-ios-appstore-icon-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.0",
+     "date": "2023-03-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Survivor.io IPA is a strategic survival game where players must explore, build, and survive the elements of a hostile open world. Player",
+     "downloadURL": "https://file.ipaomtk.com/Survivor-io/Survivor.io-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "5.0.1",
+     "date": "2023-03-05T00:00:00Z",
+     "localizedDescription": "Tweaks: ThamerScreen\n\nipaomtk.com | Survivor.io IPA is a strategic survival game where players must explore, build, and survive the elements of a hostile open world. Player",
+     "downloadURL": "https://file.ipaomtk.com/Survivor-io/Survivor.io-IPAOMTK.COM.ipa",
+     "size": 861230049
+    }
+   ]
+  }
+ ]
+}

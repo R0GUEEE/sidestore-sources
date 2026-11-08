@@ -1,0 +1,30 @@
+{
+ "name": "CryptoMiner",
+ "identifier": "dev.perapp.com-mysterytag-cryptominer",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for CryptoMiner (com.mysterytag.cryptominer). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/com.mysterytag.cryptominer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mysterytag.cryptominer",
+   "name": "CryptoMiner",
+   "developerName": "CryptoMiner x CyPwn",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nFree iAP - SatellaJailed\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/com.mysterytag.cryptominer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nFree iAP - SatellaJailed",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/com.mysterytag.cryptominer.ipa",
+     "size": 68972344
+    }
+   ]
+  }
+ ]
+}

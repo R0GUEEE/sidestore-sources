@@ -1,0 +1,30 @@
+{
+ "name": "Pocket8",
+ "identifier": "dev.perapp.com-jevon-pocket8",
+ "subtitle": "https://github.com/user-attachments/assets/ec24f92e-d29a-4319-8293-439487d60b35  Features:  • Native Engine: Runs flawle",
+ "description": "Single-app source for Pocket8 (com.jevon.pocket8). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jevon.pocket8.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jevon.pocket8",
+   "name": "Pocket8",
+   "developerName": "jevonlipsey",
+   "subtitle": "https://github.com/user-attachments/assets/ec24f92e-d29a-4319-8293-439487d60b35  Features:  • Native Engine: Runs flawlessly on iOS, due to the offici",
+   "localizedDescription": "https://github.com/user-attachments/assets/ec24f92e-d29a-4319-8293-439487d60b35  Features:  • Native Engine: Runs flawlessly on iOS, due to the offici\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.jevon.pocket8.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "https://github.com/user-attachments/assets/ec24f92e-d29a-4319-8293-439487d60b35  Features:  • Native Engine: Runs flawlessly on iOS, due to the offici",
+     "downloadURL": "https://github.com/jevonlipsey/pico-ios/releases/download/v1.6.2/pocket8.ipa",
+     "size": 19479747
+    }
+   ]
+  }
+ ]
+}

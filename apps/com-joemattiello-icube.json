@@ -1,0 +1,48 @@
+{
+ "name": "iCube SL",
+ "identifier": "dev.perapp.com-joemattiello-icube",
+ "subtitle": "Dolphin for iOS, re-reborn",
+ "description": "Single-app source for iCube SL (com.joemattiello.iCube). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8347f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.joemattiello.iCube.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.joemattiello.iCube",
+   "name": "iCube SL",
+   "developerName": "Provenance-Emu",
+   "subtitle": "Dolphin for iOS, re-reborn",
+   "localizedDescription": "DolphiniOS:\n\nDolphiniOS is a port of the Dolphin Emulator to iOS and iPadOS. For installation instructions and downloads, check our website.\n\nThis is the repository for the new DolphiniOS codebase.\n\nJIT on iOS 26 (Trusted Execution Monitor):\n\niCube runs the JIT recompiler again on iOS 26. TXM will not execute a freshly written code page until a debugger has written to that page, so iCube asks an attached broker to touch every page of its 288 MB code region once at startup. After that the broker can detach and the region stays usable for the life of the process.\n\n• Users: see JIT & Performance for how to turn it on with StikDebug, what to expect without it, and troubleshooting.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.joemattiello.iCube.png",
+   "tintColor": "#8347f6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-11-07T06:36:02Z",
+     "localizedDescription": "Immutable snapshot of alpha build 463 (509d410).\n\nThis tag exists so the sideload feed can link bytes that never change. Its Non-Jailbroken.ipa carries CFBundleVersion 463, matching the tag name. For the newest build, use the rolling.\n\nPruned automatically; only the most recent few are kept.",
+     "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-463/Non-Jailbroken.ipa",
+     "size": 104595971
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.developer.activities",
+     "com.apple.developer.icloud-container-identifiers",
+     "com.apple.developer.icloud-services",
+     "com.apple.developer.kernel.increased-memory-limit",
+     "com.apple.security.application-groups",
+     "com.apple.security.cs.allow-jit",
+     "com.apple.security.cs.allow-unsigned-executable-memory",
+     "get-task-allow"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "iCube uses your local network to discover DSU controllers, to share your library with nearby devices, and to hand a game off to another device. Transfers between devices are not encrypted.",
+     "NSMicrophoneUsageDescription": "The microphone stands in for the GameCube Microphone and Wii Speak in games that support them.",
+     "NSMotionUsageDescription": "Headphone motion keeps spatial game audio anchored while you turn your head.",
+     "NSPhotoLibraryAddUsageDescription": "Used to save gameplay clips you record with Instant Replay."
+    }
+   }
+  }
+ ]
+}

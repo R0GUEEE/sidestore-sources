@@ -1,0 +1,30 @@
+{
+ "name": "Photo Blend",
+ "identifier": "dev.perapp.com-unknown-photoblend",
+ "subtitle": "ئەپلیکەیشنێک بۆ دانانی فڕێم لەسەر وێنەکان",
+ "description": "Single-app source for Photo Blend (com.unknown.photoblend). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Photo.Blend.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.photoblend",
+   "name": "Photo Blend",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپلیکەیشنێک بۆ دانانی فڕێم لەسەر وێنەکان",
+   "localizedDescription": "ئەپلیکەیشنێک بۆ دانانی فڕێم لەسەر وێنەکان",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Photo.Blend.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشنێک بۆ دانانی فڕێم لەسەر وێنەکان",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/Photo.Blend.Collge.Maker_4.6_3BodSy.ipa",
+     "size": 57820000
+    }
+   ]
+  }
+ ]
+}

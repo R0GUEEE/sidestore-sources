@@ -1,0 +1,44 @@
+{
+ "name": "Stretch",
+ "identifier": "dev.perapp.breakthroughapps-com-stretch",
+ "subtitle": "Stretch",
+ "description": "Single-app source for Stretch (breakthroughapps.com.stretch). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/1da6ce76-2a70-4883-91eb-e20432fec1c0/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "breakthroughapps.com.stretch",
+   "name": "Stretch",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Stretch: Stretching & Mobility\n\nTweak: Subscription Unlocked\n\nVersion: 6.5.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/1da6ce76-2a70-4883-91eb-e20432fec1c0/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.9.8",
+     "date": "2026-08-14T00:00:00Z",
+     "localizedDescription": "Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2371",
+     "size": 76792848
+    },
+    {
+     "version": "6.5.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Stretch: Stretching & Mobility\n\nTweak: Subscription Unlocked\n\nVersion: 6.5.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/d17d49da-d7fc-472e-af41-7494c2e6a27a/Stretch__Stretching___Mobility-v6.5.1-riftysipas.ipa",
+     "size": 60865252
+    },
+    {
+     "version": "6.5.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Stretch: Stretching & Mobility\n\nTweak: Subscription Unlocked\n\nVersion: 6.5\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/50dd2669-86f4-44d1-bb1e-81f0ce5041e8/Stretch__Stretching___Mobility-v6.5-riftysipas.ipa",
+     "size": 62300214
+    }
+   ]
+  }
+ ]
+}

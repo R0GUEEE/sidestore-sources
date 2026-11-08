@@ -1,0 +1,37 @@
+{
+ "name": "FishingLife",
+ "identifier": "dev.perapp.com-nexelon-fishinglife",
+ "subtitle": "ipaomtk.com | Fishing and Life IPA MOD iOS, a mobile game that seamlessly blends the tranquility of fishing with the cha",
+ "description": "Single-app source for FishingLife (com.nexelon.fishinglife). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/09/Fishing-and-Life-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nexelon.fishinglife",
+   "name": "FishingLife",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Fishing and Life IPA MOD iOS, a mobile game that seamlessly blends the tranquility of fishing with the challenges of life. Developed by ",
+   "localizedDescription": "ipaomtk.com | Fishing and Life IPA MOD iOS, a mobile game that seamlessly blends the tranquility of fishing with the challenges of life. Developed by ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/09/Fishing-and-Life-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.278",
+     "date": "2023-09-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Fishing and Life IPA MOD iOS, a mobile game that seamlessly blends the tranquility of fishing with the challenges of life. Developed by ",
+     "downloadURL": "https://file.ipaomtk.com/fishing-and-life-ipa/Fishing-and-life-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "0.0.304",
+     "date": "2023-09-02T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Fishing and Life IPA MOD iOS, a mobile game that seamlessly blends the tranquility of fishing with the challenges of life. Developed by ",
+     "downloadURL": "https://file.ipaomtk.com/fishing-and-life-ipa/Fishing-and-life-IPAOMTK.COM.ipa",
+     "size": 112861196
+    }
+   ]
+  }
+ ]
+}

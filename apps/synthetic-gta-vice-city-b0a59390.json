@@ -1,0 +1,30 @@
+{
+ "name": "GTA: Vice City",
+ "identifier": "dev.perapp.synthetic-gta-vice-city-b0a59390",
+ "subtitle": "GTA: Vice City",
+ "description": "Single-app source for GTA: Vice City (synthetic.gta-vice-city.b0a59390). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://ittza7aa.com/aseets/icon/gtavice.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.gta-vice-city.b0a59390",
+   "name": "GTA: Vice City",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Appleid VIP",
+   "iconURL": "https://ittza7aa.com/aseets/icon/gtavice.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Appleid VIP",
+     "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/gtavicecity.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Messenger",
+ "identifier": "dev.perapp.com-facebook-messenger",
+ "subtitle": "@compiledipas | MSGPlusX v1.1 Messenger v573.0.0  MSGPlusX by @dens0r",
+ "description": "Single-app source for Messenger (com.facebook.Messenger). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1312.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.facebook.Messenger",
+   "name": "Messenger",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | MSGPlusX v1.1 Messenger v573.0.0  MSGPlusX by @dens0r",
+   "localizedDescription": "@compiledipas | MSGPlusX v1.1 Messenger v573.0.0  MSGPlusX by @dens0r",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1312.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "586.0.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Tweaks: MSGPlusX\n\n@ipavault | Messenger 586.0.0 (MSGPlusX)  Follow these instructions if having issues logging in: https://t.me/ipavault/177 Steps to access MSGPlusX se",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1208-Messenger%20586.0.0%20%28MSGPlusX%29%20%5B@ipavault%5D.ipa",
+     "size": 276434262
+    },
+    {
+     "version": "446.0.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Block ads, seen messages and story view notifications but it's marred by bugs like call issues and crashes and lacks customizable settings. Note: I ha",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MessengerLSN/MessengerLSN-446.0.ipa",
+     "size": 69454501
+    },
+    {
+     "version": "585.0.0",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Messenger 585.0.0  ▪Updated to Messenger 585.0.0 Follow these instructions if having issues logging in: https://t.me/ipavault/17",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1097-Messenger%20585.0.0%20%28MSGPlusX%29%20%5B@ipavault%5D.ipa",
+     "size": 126239167
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "PilotPro",
+ "identifier": "dev.perapp.synthetic-pilotpro-668b3353",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for PilotPro (synthetic.pilotpro.668b3353). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.pilotpro.668b3353",
+   "name": "PilotPro",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.46.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-11-2025/PilotPro_5.46.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 28095845
+    },
+    {
+     "version": "5.43.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/04-09-2025/PilotPro_5.43.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 29410897
+    },
+    {
+     "version": "5.50.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-12-2025/PilotPro_5.50.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 27600873
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "AIMarvels",
+ "identifier": "dev.perapp.com-hitpaw-photoenhancer",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for AIMarvels (com.hitpaw.photoenhancer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hitpaw.photoenhancer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hitpaw.photoenhancer",
+   "name": "AIMarvels",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hitpaw.photoenhancer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.93.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-12-2025/AIMarvels_1.93.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 164924419
+    },
+    {
+     "version": "1.92.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-12-2025/AIMarvels_1.92.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 162368056
+    },
+    {
+     "version": "1.91.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-12-2025/AIMarvels_1.91.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 168537729
+    }
+   ]
+  }
+ ]
+}

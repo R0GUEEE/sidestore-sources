@@ -1,0 +1,44 @@
+{
+ "name": "Dark Noise",
+ "identifier": "dev.perapp.com-charliemchapman-dark-noise",
+ "subtitle": "Dark Noise",
+ "description": "Single-app source for Dark Noise (com.charliemchapman.dark-noise). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/2c40f314-bbd4-48bb-b3d1-c3d452c76c2f/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.charliemchapman.dark-noise",
+   "name": "Dark Noise",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Dark Noise: Ambient Sounds\n\nTweak: Subscription Unlocked\n\nVersion: 3.4.6\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/2c40f314-bbd4-48bb-b3d1-c3d452c76c2f/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.3",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1661",
+     "size": 178704495
+    },
+    {
+     "version": "3.2.6",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "App to play ambient noise to help you sleep, focus, or relax.\nLast updated: 04-15-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DarkNoisePro/DarkNoisePro-3.2.6.ipa",
+     "size": 38006205
+    },
+    {
+     "version": "3.4.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Dark Noise: Ambient Sounds\n\nTweak: Subscription Unlocked\n\nVersion: 3.4.6\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/0596da10-7ed4-4b1d-aa1b-859b94954278/Dark_Noise__Ambient_Sounds-v3.4.6-riftysipas.ipa",
+     "size": 196198312
+    }
+   ]
+  }
+ ]
+}

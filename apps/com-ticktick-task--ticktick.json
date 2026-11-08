@@ -1,0 +1,44 @@
+{
+ "name": "TickTick",
+ "identifier": "dev.perapp.com-ticktick-task",
+ "subtitle": "@blatants | TickTick:To-Do List & Calendar  • Bundle ID: com.TickTick.task • Updated to: 8.1.40 • Minimum iOS: 15.5 • Pa",
+ "description": "Single-app source for TickTick (com.TickTick.task). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11348.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TickTick.task",
+   "name": "TickTick",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | TickTick:To-Do List & Calendar  • Bundle ID: com.TickTick.task • Updated to: 8.1.40 • Minimum iOS: 15.5 • Patched • Modifier: Subscription",
+   "localizedDescription": "@blatants | TickTick:To-Do List & Calendar  • Bundle ID: com.TickTick.task • Updated to: 8.1.40 • Minimum iOS: 15.5 • Patched • Modifier: Subscription",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11348.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.2.41",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@blatants | TickTick:To-Do List & Calendar  • Bundle ID: com.TickTick.task • Updated to: 8.2.41 • Minimum iOS: 15.5 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13189-TickTick_To_Do_List_&_Calendar_v8_2_41_Subscription_Unlocked_blatant.ipa",
+     "size": 113741145
+    },
+    {
+     "version": "8.2.40",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@blatants | TickTick:To-Do List & Calendar  • Bundle ID: com.TickTick.task • Updated to: 8.2.40 • Minimum iOS: 15.5 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13139-TickTick_To_Do_List_&_Calendar_v8_2_40_Subscription_Unlocked_blatant.ipa",
+     "size": 113737320
+    },
+    {
+     "version": "8.2.30",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@blatants | TickTick:To-Do List & Calendar  • Bundle ID: com.TickTick.task • Updated to: 8.2.30 • Minimum iOS: 15.5 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12942-TickTick_To_Do_List_&_Calendar_v8_2_30_Subscription_Unlocked_blatant.ipa",
+     "size": 114555482
+    }
+   ]
+  }
+ ]
+}

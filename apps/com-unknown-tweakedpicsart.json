@@ -1,0 +1,30 @@
+{
+ "name": "Tweaked: Picsart",
+ "identifier": "dev.perapp.com-unknown-tweakedpicsart",
+ "subtitle": "Tweaked verison of PicsArt",
+ "description": "Single-app source for Tweaked: Picsart (com.unknown.tweakedpicsart). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://files.ipaspot.app/img/593.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.tweakedpicsart",
+   "name": "Tweaked: Picsart",
+   "developerName": "SamHub",
+   "subtitle": "Tweaked verison of PicsArt",
+   "localizedDescription": "Tweaked verison of PicsArt\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://files.ipaspot.app/img/593.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "23.1.2",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "Tweaked verison of PicsArt",
+     "downloadURL": "https://files.ipaspot.app/picsart.ipa",
+     "size": 72351744
+    }
+   ]
+  }
+ ]
+}

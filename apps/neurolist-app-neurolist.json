@@ -1,0 +1,30 @@
+{
+ "name": "neurolist",
+ "identifier": "dev.perapp.neurolist-app-neurolist",
+ "subtitle": "neurolist",
+ "description": "Single-app source for neurolist (neurolist.app.neurolist). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/dc/19/20dc19e2-404e-3720-81f0-8a13f96d2517/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "neurolist.app.neurolist",
+   "name": "neurolist",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Neurolist: AI Planner for ADHD\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.32\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/dc/19/20dc19e2-404e-3720-81f0-8a13f96d2517/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.49",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Neurolist: AI Planner for ADHD\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.32\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/09e7c691-c5d6-4593-b3f3-4142f0aae18c/neurolist__AI_Planner_for_ADHD-v1.0.32-riftysipas.ipa",
+     "size": 35024062
+    }
+   ]
+  }
+ ]
+}

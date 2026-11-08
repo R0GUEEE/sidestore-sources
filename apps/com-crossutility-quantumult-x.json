@@ -1,0 +1,30 @@
+{
+ "name": "QuantumultX",
+ "identifier": "dev.perapp.com-crossutility-quantumult-x",
+ "subtitle": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no wa",
+ "description": "Single-app source for QuantumultX (com.crossutility.quantumult-x). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crossutility.quantumult-x",
+   "name": "QuantumultX",
+   "developerName": "iOS Tutorials + App Cracks",
+   "subtitle": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this…",
+   "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this requirement.\nLast updated: 12-12-2023\nStatus: ⚠️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.crossutility.quantumult-x.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.2",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Note: Filters cannot be used without the receipt linked to the corresponding App ID used for the purchase; there's no way to bypass this…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuantumultX/QuantumultX-1.4.2.ipa",
+     "size": 16180965
+    }
+   ]
+  }
+ ]
+}

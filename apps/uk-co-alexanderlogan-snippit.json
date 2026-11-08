@@ -1,0 +1,37 @@
+{
+ "name": "Snippit",
+ "identifier": "dev.perapp.uk-co-alexanderlogan-snippit",
+ "subtitle": "ipaomtk.com | Snippit, IPA an innovative AI-powered snippets manager developed exclusively for iOS. This app aims​ to re",
+ "description": "Single-app source for Snippit (uk.co.alexanderlogan.snippit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Snippit-8211-AI-Snippets-Manager-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.co.alexanderlogan.snippit",
+   "name": "Snippit",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Snippit, IPA an innovative AI-powered snippets manager developed exclusively for iOS. This app aims​ to revolutionize how users create,s",
+   "localizedDescription": "ipaomtk.com | Snippit, IPA an innovative AI-powered snippets manager developed exclusively for iOS. This app aims​ to revolutionize how users create,s",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Snippit-8211-AI-Snippets-Manager-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.3",
+     "date": "2025-06-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Snippit, IPA an innovative AI-powered snippets manager developed exclusively for iOS. This app aims​ to revolutionize how users create,s",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Snippit-AI-Snippets-Manager-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.1.8",
+     "date": "2023-05-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Snippit Code Snippet Manager Free For IOS free code snippet manager for iOS devices designed to help programmers manage the code snippet",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Snippit.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

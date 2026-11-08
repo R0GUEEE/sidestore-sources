@@ -1,0 +1,30 @@
+{
+ "name": "Travel Twon",
+ "identifier": "dev.perapp.com-unknown-traveltwon",
+ "subtitle": "تایبەتمەندی هاک؛ بەستنی وزە",
+ "description": "Single-app source for Travel Twon (com.unknown.traveltwon). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Travel.Town.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.traveltwon",
+   "name": "Travel Twon",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی هاک؛ بەستنی وزە",
+   "localizedDescription": "تایبەتمەندی هاک؛ بەستنی وزە",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Travel.Town.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.12.870",
+     "date": "2026-04-26T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی هاک؛ بەستنی وزە",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Travel.Town._2.12.870.ipa",
+     "size": 157880000
+    }
+   ]
+  }
+ ]
+}

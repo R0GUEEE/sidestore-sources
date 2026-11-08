@@ -1,0 +1,44 @@
+{
+ "name": "MagicEraser",
+ "identifier": "dev.perapp.com-hhp-magiceraser",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for MagicEraser (com.hhp.magicEraser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hhp.magicEraser",
+   "name": "MagicEraser",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hhp.magicEraser.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.10.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-11-2025/MagicEraser_3.10.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 244810927
+    },
+    {
+     "version": "3.14.0",
+     "date": "2026-06-02T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/MagicEraser_3.14.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 244828839
+    },
+    {
+     "version": "3.15.0",
+     "date": "2026-05-18T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/MagicEraser_3.15.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 257597030
+    }
+   ]
+  }
+ ]
+}

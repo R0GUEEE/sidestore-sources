@@ -1,0 +1,30 @@
+{
+ "name": "WOT Guide",
+ "identifier": "dev.perapp.com-kostykentertainment-guideforworldoftanks",
+ "subtitle": "ipaomtk.com | Guide for World of Tanks IPA v6.0.1 is a comprehensive mobile application designed to help players master ",
+ "description": "Single-app source for WOT Guide (com.kostykentertainment.GuideforWorldofTanks). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Guide-for-World-of-Tanks.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kostykentertainment.GuideforWorldofTanks",
+   "name": "WOT Guide",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Guide for World of Tanks IPA v6.0.1 is a comprehensive mobile application designed to help players master the popular multiplayer online",
+   "localizedDescription": "ipaomtk.com | Guide for World of Tanks IPA v6.0.1 is a comprehensive mobile application designed to help players master the popular multiplayer online",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Guide-for-World-of-Tanks.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Guide for World of Tanks IPA v6.0.1 is a comprehensive mobile application designed to help players master the popular multiplayer online",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Guide_for_World_of_Tanks-v6.0.0-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

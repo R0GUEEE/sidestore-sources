@@ -1,0 +1,30 @@
+{
+ "name": "Spectre",
+ "identifier": "dev.perapp.com-chromanoir-spectre",
+ "subtitle": "ipaomtk.com | Spectre Camera IPA is an app that lets its users take stunning pictures with just the tap of a button. Usi",
+ "description": "Single-app source for Spectre (com.chromanoir.spectre). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Spectre-Camera-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chromanoir.spectre",
+   "name": "Spectre",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Spectre Camera IPA is an app that lets its users take stunning pictures with just the tap of a button. Using an advanced AI technology, ",
+   "localizedDescription": "ipaomtk.com | Spectre Camera IPA is an app that lets its users take stunning pictures with just the tap of a button. Using an advanced AI technology, ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Spectre-Camera-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.11",
+     "date": "2023-02-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Spectre Camera IPA is an app that lets its users take stunning pictures with just the tap of a button. Using an advanced AI technology, ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Spectre-Camerai.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Wappear",
+ "identifier": "dev.perapp.com-unknown-wappear",
+ "subtitle": "تایبەتمەندی پڕایم کراوەتۆ",
+ "description": "Single-app source for Wappear (com.unknown.wappear). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Wappear.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.wappear",
+   "name": "Wappear",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی پڕایم کراوەتۆ",
+   "localizedDescription": "تایبەتمەندی پڕایم کراوەتۆ",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Wappear.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.6",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی پڕایم کراوەتۆ",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Wappear-1.0.6.ipa",
+     "size": 19320000
+    }
+   ]
+  }
+ ]
+}

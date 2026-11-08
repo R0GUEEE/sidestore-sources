@@ -1,0 +1,44 @@
+{
+ "name": "TranslateNow",
+ "identifier": "dev.perapp.solutions-wzp-translator",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for TranslateNow (solutions.wzp.translator). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png",
+ "apps": [
+  {
+   "bundleIdentifier": "solutions.wzp.translator",
+   "name": "TranslateNow",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/solutions.wzp.translator.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.9.48",
+     "date": "2026-10-03T00:00:00Z",
+     "localizedDescription": "@blatants | Translate Now - AI Translator  • Bundle ID: solutions.wzp.translator • Updated to: 2026.9.48 • Minimum iOS: 16.6 • Patched • Modifier: Sub",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12599-Translate_Now_AI_Translator_v2026_9_48_Subscription_Unlocked_blatant.ipa",
+     "size": 100678476
+    },
+    {
+     "version": "2026.9.27",
+     "date": "2026-09-19T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/TranslateNow_2026.9.27_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 191614932
+    },
+    {
+     "version": "2026.9.25",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/TranslateNow_2026.9.25_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 222149727
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "GoingBalls",
+ "identifier": "dev.perapp.com-pronetis-ironballride2",
+ "subtitle": "GoingBalls",
+ "description": "Single-app source for GoingBalls (com.pronetis.ironballride2). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pronetis.ironballride2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pronetis.ironballride2",
+   "name": "GoingBalls",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pronetis.ironballride2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.11",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with noads",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/GoingBalls_1.4.11_noads_%40thisismanpreets_apptesters.org.ipa",
+     "size": 264481109
+    }
+   ]
+  }
+ ]
+}

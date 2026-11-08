@@ -1,0 +1,30 @@
+{
+ "name": "Ourpact",
+ "identifier": "dev.perapp.com-parentsware-ourpact",
+ "subtitle": "Ourpact",
+ "description": "Single-app source for Ourpact (com.parentsware.ourpact). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parentsware.ourpact.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.parentsware.ourpact",
+   "name": "Ourpact",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parentsware.ourpact.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.15.3",
+     "date": "2024-12-18T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Ourpact_9.15.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 15991369
+    }
+   ]
+  }
+ ]
+}

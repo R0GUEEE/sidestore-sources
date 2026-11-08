@@ -1,0 +1,30 @@
+{
+ "name": "Serbian TV+",
+ "identifier": "dev.perapp.com-kanta-serbiantv",
+ "subtitle": "ipaomtk.com | Serbian TV+ IPA v11.0.12 is a comprehensive streaming platform that brings the best of Serbian television ",
+ "description": "Single-app source for Serbian TV+ (com.kanta.serbiantv). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Serbian-TV.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kanta.serbiantv",
+   "name": "Serbian TV+",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Serbian TV+ IPA v11.0.12 is a comprehensive streaming platform that brings the best of Serbian television content to viewers worldwide. ",
+   "localizedDescription": "ipaomtk.com | Serbian TV+ IPA v11.0.12 is a comprehensive streaming platform that brings the best of Serbian television content to viewers worldwide. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Serbian-TV.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.0.12",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Serbian TV+ IPA v11.0.12 is a comprehensive streaming platform that brings the best of Serbian television content to viewers worldwide. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Serbian_TV-v11.0.12-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

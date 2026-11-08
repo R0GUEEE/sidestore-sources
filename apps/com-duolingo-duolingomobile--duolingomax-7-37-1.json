@@ -1,0 +1,32 @@
+{
+ "name": "DuolingoMax_7.37.1",
+ "identifier": "dev.perapp.com-duolingo-duolingomobile",
+ "subtitle": "DuolingoMax_7.37.1 by DuolingoMax_7.37.1 x CyPwn",
+ "description": "Single-app source for DuolingoMax_7.37.1 (com.duolingo.DuolingoMobile). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/DuolingoMax_7.37.1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.duolingo.DuolingoMobile",
+   "name": "DuolingoMax_7.37.1",
+   "developerName": "DuolingoMax_7.37.1 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Duolingo Max unlocked",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/DuolingoMax_7.37.1.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/DuolingoMax_7.37.1/DuolingoMax_7.37.1-0.png"
+   ],
+   "versions": [
+    {
+     "version": "7.37.1",
+     "date": "2024-09-13T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/DuolingoMax_7.37.1.ipa",
+     "size": 111914516
+    }
+   ]
+  }
+ ]
+}

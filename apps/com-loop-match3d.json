@@ -1,0 +1,30 @@
+{
+ "name": "Match 3D",
+ "identifier": "dev.perapp.com-loop-match3d",
+ "subtitle": "ipaomtk.com | Match 3D is a fun and addictive match-3 puzzle game. The game features simple and addictive gameplay, over",
+ "description": "Single-app source for Match 3D (com.loop.match3d). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/match-3d-matching-puzzle-game-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.loop.match3d",
+   "name": "Match 3D",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Match 3D is a fun and addictive match-3 puzzle game. The game features simple and addictive gameplay, over 1000 levels, a variety of pow",
+   "localizedDescription": "ipaomtk.com | Match 3D is a fun and addictive match-3 puzzle game. The game features simple and addictive gameplay, over 1000 levels, a variety of pow",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/match-3d-matching-puzzle-game-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1245.82.0",
+     "date": "2023-07-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Match 3D is a fun and addictive match-3 puzzle game. The game features simple and addictive gameplay, over 1000 levels, a variety of pow",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Match-3D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "YTPlusYTweaks (6.0 - iOS SDK 16.5)",
+ "identifier": "dev.perapp.com-google-ios-youtube-ytplusytweaks-ios-sdk-16-5-latest",
+ "subtitle": "Tweaks: YTLite, DontEatMyContent, YouTubeDislikesReturn +7",
+ "description": "Single-app source for YTPlusYTweaks (6.0 - iOS SDK 16.5) (com.google.ios.youtube.ytplusytweaks.ios.sdk.16.5.latest). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.ytplusytweaks.ios.sdk.16.5.latest",
+   "name": "YTPlusYTweaks (6.0 - iOS SDK 16.5)",
+   "developerName": "YouTube",
+   "subtitle": "Tweaks: YTLite, DontEatMyContent, YouTubeDislikesReturn +7",
+   "localizedDescription": "Tweaks: YTLite, DontEatMyContent, YouTubeDislikesReturn, YTABConfig, YouGroupSettings, YouPiP, YouQuality, YTUHD, YTVideoOverlay, YTweaks\n\nThis is a modded version of YouTube with the following tweaks:\nDontEatMyContent, YouGroupSettings, YouPiP, YouQuality, Return-YouTube-Dislikes, YTABConfig, YTUHD, YTVideoOverlay, YTweaks, and OpenInYouTube Safari Extension.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Tweaks: YTLite, DontEatMyContent, YouTubeDislikesReturn, YTABConfig, YouGroupSettings, YouPiP, YouQuality, YTUHD, YTVideoOverlay, YTweaks\n\nThis is a modded version of YouTube with the following tweaks: DontEatMyContent, YouGroupSettings, YouPiP, YouQuality, Return-YouTube-Dislikes…",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTPlusYTweaks_custom_SDK16.5_v21.44.4.ipa",
+     "size": 151984742
+    }
+   ]
+  }
+ ]
+}

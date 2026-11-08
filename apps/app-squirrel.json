@@ -1,0 +1,37 @@
+{
+ "name": "Squirrel",
+ "identifier": "dev.perapp.app-squirrel",
+ "subtitle": "Native apps for iPhone, Android, Mac and Windows that run yt-dlp on your own device",
+ "description": "Single-app source for Squirrel (app.squirrel). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#dc9c79",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.squirrel.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.squirrel",
+   "name": "Squirrel",
+   "developerName": "NatanRA",
+   "subtitle": "Native apps for iPhone, Android, Mac and Windows that run yt-dlp on your own device",
+   "localizedDescription": "Squirrel:\n\nNative apps for iPhone, Android, Mac and Windows that run the real yt-dlp on your own device, with no server involved. Paste or share a link, pick a quality (up to 4K) or audio only, and the file is saved: to Photos or the Gallery on a phone, or to your Downloads folder on a computer. A small browser extension sends links to the desktop app.\n\nNone of this can go in the App Store or Google Play: both stores reject apps that download from YouTube. The apps are sideloaded instead, as described below.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.squirrel.png",
+   "tintColor": "#dc9c79",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.0",
+     "date": "2026-10-05T21:13:36Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/NatanRA/squirrel/releases/download/v1.10.0/Squirrel.ipa",
+     "size": 27015763
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "Save downloaded videos to your photo library.",
+     "NSPhotoLibraryUsageDescription": "Put each playlist's videos in an album of its own, and delete videos from your photo library when you delete them in Squirrel."
+    }
+   }
+  }
+ ]
+}

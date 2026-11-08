@@ -1,0 +1,40 @@
+{
+ "name": "LastStats",
+ "identifier": "dev.perapp.com-example-laststatsmobile",
+ "subtitle": "A modern, multiplatform Flutter and Material You application to visualize and analyze your real-time Last.fm listening s",
+ "description": "Single-app source for LastStats (com.example.laststatsMobile). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.example.laststatsMobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.example.laststatsMobile",
+   "name": "LastStats",
+   "developerName": "SanoBld",
+   "subtitle": "A modern, multiplatform Flutter and Material You application to visualize and analyze your real-time Last.fm listening statistics",
+   "localizedDescription": "LastStats:\n\nLastStats is a free app that shows what you really listen to. It reads your Last.fm history and turns it into stats, rankings, recaps and animated artist pages. It's built with Flutter and Material 3 Expressive, and runs on Android, Windows, macOS, Linux and iOS.\n\nWe make it independently, in our free time. If you like it, a star on the repo helps a lot.\n\nWhat you can do with it:\n\nSee your listening at a glance. The dashboard shows what's playing now, your recent tracks, your friends' activity and a calendar of the last 60 days. You can reorder the sections and pick which cards to show.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.example.laststatsMobile.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/SanoBld/LastStats@master/docs/screenshots/dashboard.png",
+    "https://cdn.jsdelivr.net/gh/SanoBld/LastStats@master/docs/screenshots/weekly_recap.png",
+    "https://cdn.jsdelivr.net/gh/SanoBld/LastStats@master/docs/screenshots/rankings.png",
+    "https://cdn.jsdelivr.net/gh/SanoBld/LastStats@master/docs/screenshots/history.png",
+    "https://cdn.jsdelivr.net/gh/SanoBld/LastStats@master/docs/screenshots/artist_detail.png"
+   ],
+   "versions": [
+    {
+     "version": "4.3.0",
+     "date": "2026-10-31T22:46:40Z",
+     "localizedDescription": "LastStats v4.3.0:\n\nSettings and backups.\n\n• Lyrics: LRCLIB search is now used when the exact match fails, titles with \"feat.\" / \"Remastered\" are retried in a clean form, and synced-only lyrics are shown as plain text.\n• Fixed: with \"colour from the music\", the greyed-out base accent (and the day/night accent) is never used any more.\n• Fixed: cached images no longer flash a placeholder when a list redraws (they are now kept in memory, and the cache index is written less often).\n• Artist page: the Popular / Recent switch now uses the Material You segmented button.\n• Fixed: with \"colour from the music\", the colour chosen for when nothing plays is used again at app start and by the widgets (it fell back to the default accent).\n• Backups now also include the update channel, the auto-update check, the scrobble sync options and the year recap share option; restoring a backup refreshes the widgets.\n\nWidgets.\n\n• New option \"Widget background\": Poster (theme shapes), Plain (black or white following light/dark) or None (transparent).\n• Theme changes (colours, style, light/dark) now reach the widgets right away instead of after the next data refresh.\n• New calendar widget: one square per day, like GitHub, in the app colours; today's number refreshes on its own.\n• All logos removed from the widgets.\n• Widgets use the app font, ask Last.fm only for what they show and redraw less often to save battery.\n• The stats logo is now centred in widgets and notifications.\n\nNews and notifications.\n\n• \"Mark all as read\" in the news page; unread items have a coloured frame and are marked read when opened.\n• \"Mark all as read\" on a notification now also clears the other LastStats notifications and the update notification.\n\nApp icon.\n\n• Real adaptive icons for each icon variant (better on Nothing Phone launchers).\n\nShare images.\n\n• Year recap: new layout using the full 9:16 height, bigger stat tiles, picture ending in the middle of the tiles.\n• Artist, album, track and friend posters are now 9:16 instead of square-ish.\n• Smaller gap between \"LastStats\" and the logo on every share image.\n\nUpdates.\n\n• Fixed the notification bell: it now stays lit while an update is available and also shows for any new message, even when the stats could not be loaded.\n\nImages and covers.\n\n• Recommended: clear the image cache after updating (Settings > Cache) so every cover and photo is fetched again with the new matching rules.\n• Fixed missing covers for tracks and albums credited under another form of the artist name (for example \"Maître Gims\" and \"GIMS\"): the artist is accepted when it shares all its words with the credited one, while the title must still match exactly.\n• Fixed wrong album and track covers: titles must now match exactly (editions like \"Deluxe\" or \"Remastered\" are still accepted) and the artist is checked on every source; cached covers are refreshed once.\n• Fixed wrong artist photos: artist names are now matched exactly (no more \"Drake\" getting \"Drake Bell\"), the most popular artist with that exact name is picked, and previously cached artist photos are refreshed once.\n• Fixed wrong images for the recent tracks of an artist, which now match the exact artist.\n\nSharing and exports.\n\n• Every share image now uses the same style: Material shapes, same stat tiles, rank badges and section labels, flat single-colour background and rounded corners.\n• The LastStats name and logo have the same font and size on every share image, sit in the bottom-right corner, are bigger, and no longer appear twice on chart exports.\n• Chart export: the image is built from the chart data instead of a screenshot, so no buttons, zoom controls or tap-only info appear on it.\n• Chart export: scrobble progression shows both \"by month\" and \"cumulative\" with the peak labelled; weekday, artist, album and genre charts show counts and percentages directly on the image.\n• Chart export: soft Material shapes behind the chart, no gradient and no dark box, a bigger cookie-shaped logo in the header, an",
+     "downloadURL": "https://github.com/SanoBld/LastStats/releases/download/v4.3.0/LastStats-ios.ipa",
+     "size": 25609504
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

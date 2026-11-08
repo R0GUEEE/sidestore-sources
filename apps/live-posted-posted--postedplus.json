@@ -1,0 +1,30 @@
+{
+ "name": "PostedPlus",
+ "identifier": "dev.perapp.live-posted-posted",
+ "subtitle": "App to follow your package(s) in real time with your tracking number. Note: Use trollfools to fix widgets. Last updated:",
+ "description": "Single-app source for PostedPlus (live.posted.Posted). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.posted.Posted.png",
+ "apps": [
+  {
+   "bundleIdentifier": "live.posted.Posted",
+   "name": "PostedPlus",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "App to follow your package(s) in real time with your tracking number. Note: Use trollfools to fix widgets. Last updated: 08-09-2024 Status: ✅ ⭐",
+   "localizedDescription": "App to follow your package(s) in real time with your tracking number. Note: Use trollfools to fix widgets.\nLast updated: 08-09-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/live.posted.Posted.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.3",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "App to follow your package(s) in real time with your tracking number. Note: Use trollfools to fix widgets. Last updated: 08-09-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PostedPlus/PostedPlus-1.4.3.ipa",
+     "size": 36957318
+    }
+   ]
+  }
+ ]
+}

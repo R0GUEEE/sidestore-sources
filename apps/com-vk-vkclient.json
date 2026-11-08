@@ -1,0 +1,37 @@
+{
+ "name": "OrwellVK",
+ "identifier": "dev.perapp.com-vk-vkclient",
+ "subtitle": "Features: - Download everything you love: videos, episodes, clips, songs, stories, and even voice messages - Incognito M",
+ "description": "Single-app source for OrwellVK (com.vk.vkclient). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vk.vkclient",
+   "name": "OrwellVK",
+   "developerName": "dvntm",
+   "subtitle": "Features: - Download everything you love: videos, episodes, clips, songs, stories, and even voice messages - Incognito Mode: Become invisible. Browse ",
+   "localizedDescription": "Features: - Download everything you love: videos, episodes, clips, songs, stories, and even voice messages - Incognito Mode: Become invisible. Browse ",
+   "iconURL": "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.183",
+     "date": "2026-08-08T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 VK  🇷🇺 Социальная сеть ВКонтакте  ℹ️ Особенности:  ▎Удалено с AppStore  ▎Оригинальное приложение, не мод  ⚠️ Если приложение запрашивает",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1638-vk%20%5Bv8.183%5D%28tg@ipa_dark%29.ipa",
+     "size": 230135939
+    },
+    {
+     "version": "8.144.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Features: - Download everything you love: videos, episodes, clips, songs, stories, and even voice messages - Incognito Mode: Become invisible. Browse ",
+     "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.2+8.144.1.ipa",
+     "size": 209551943
+    }
+   ]
+  }
+ ]
+}

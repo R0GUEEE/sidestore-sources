@@ -1,0 +1,30 @@
+{
+ "name": "KOF ALLSTAR",
+ "identifier": "dev.perapp.com-netmarble-kofg",
+ "subtitle": "ipaomtk.com | The King of Fighters ALLSTAR IPA MOD iOS, a thrilling mobile game that has captivated the hearts of fighti",
+ "description": "Single-app source for KOF ALLSTAR (com.netmarble.kofg). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/The-King-of-Fighters-ALLSTAR-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netmarble.kofg",
+   "name": "KOF ALLSTAR",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The King of Fighters ALLSTAR IPA MOD iOS, a thrilling mobile game that has captivated the hearts of fighting game fans around the globe.",
+   "localizedDescription": "ipaomtk.com | The King of Fighters ALLSTAR IPA MOD iOS, a thrilling mobile game that has captivated the hearts of fighting game fans around the globe.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/The-King-of-Fighters-ALLSTAR-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.16.4",
+     "date": "2024-05-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The King of Fighters ALLSTAR IPA MOD iOS, a thrilling mobile game that has captivated the hearts of fighting game fans around the globe.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/KOF-ALLSTAR.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

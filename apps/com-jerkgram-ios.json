@@ -1,0 +1,37 @@
+{
+ "name": "Jerkgram",
+ "identifier": "dev.perapp.com-jerkgram-ios",
+ "subtitle": "@ipa_dark | 🔄 Jerkgram - мод Telegram  🇷🇺 Телеграмм клиент с расширенным функционалом  ℹ️ Особенности:  🔕  Уведомления н",
+ "description": "Single-app source for Jerkgram (com.jerkgram.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1707.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jerkgram.ios",
+   "name": "Jerkgram",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Jerkgram - мод Telegram  🇷🇺 Телеграмм клиент с расширенным функционалом  ℹ️ Особенности:  🔕  Уведомления не работают ▎Режим призрака - м",
+   "localizedDescription": "@ipa_dark | 🔄 Jerkgram - мод Telegram  🇷🇺 Телеграмм клиент с расширенным функционалом  ℹ️ Особенности:  🔕  Уведомления не работают ▎Режим призрака - м\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1707.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.0",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Jerkgram - мод Telegram  🇷🇺 Телеграмм клиент с расширенным функционалом  ℹ️ Особенности:  🔕  Уведомления не работают ▎Режим призрака - м",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1835-Jerkgram%20%5Bv13.0%20v1.1.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 93852251
+    },
+    {
+     "version": "12.9.2",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Jerkgram - мод Telegram  🇷🇺 Телеграмм клиент с расширенным функционалом  ℹ️ Особенности:  🔕  Уведомления не работают ▎Режим призрака - м",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1707-Jerkgram%20%5Bv1.0.2,%20v12.9.2%5D%28tg@ipa_dark%29.ipa",
+     "size": 87505188
+    }
+   ]
+  }
+ ]
+}

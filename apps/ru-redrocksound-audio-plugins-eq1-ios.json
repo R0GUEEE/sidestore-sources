@@ -1,0 +1,30 @@
+{
+ "name": "RRS EQ560",
+ "identifier": "dev.perapp.ru-redrocksound-audio-plugins-eq1-ios",
+ "subtitle": "ipaomtk.com | What is EQ560 IPA? EQ560 IPA is the iOS installation file of a graphic equalizer app inspired by classic s",
+ "description": "Single-app source for RRS EQ560 (ru.redrocksound.audio.plugins.eq1.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/EQ560-IPA-v3.0.3-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.redrocksound.audio.plugins.eq1.ios",
+   "name": "RRS EQ560",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is EQ560 IPA? EQ560 IPA is the iOS installation file of a graphic equalizer app inspired by classic studio hardware. It provides pr",
+   "localizedDescription": "ipaomtk.com | What is EQ560 IPA? EQ560 IPA is the iOS installation file of a graphic equalizer app inspired by classic studio hardware. It provides pr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/EQ560-IPA-v3.0.3-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.0",
+     "date": "2026-04-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is EQ560 IPA? EQ560 IPA is the iOS installation file of a graphic equalizer app inspired by classic studio hardware. It provides pr",
+     "downloadURL": "https://file.ipaomtk.com/eq560/RRS-EQ560-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

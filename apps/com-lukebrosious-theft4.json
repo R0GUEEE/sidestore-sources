@@ -1,0 +1,36 @@
+{
+ "name": "Theft4",
+ "identifier": "dev.perapp.com-lukebrosious-theft4",
+ "subtitle": "Experimental static AOT recompilation of GTA IV's Xbox 360 build for ARM64 iOS and iPadOS. No game files included",
+ "description": "Single-app source for Theft4 (com.lukebrosious.theft4). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#648dac",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.lukebrosious.theft4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lukebrosious.theft4",
+   "name": "Theft4",
+   "developerName": "KoreanSeats1",
+   "subtitle": "Experimental static AOT recompilation of GTA IV's Xbox 360 build for ARM64 iOS and iPadOS. No game files included",
+   "localizedDescription": "Thank you to everyone behind the unprecedented work on LibertyRecomp and the ReXGlue SDK. Without their foundation, Theft4 would have taken much, much longer to reach this point. Please support their projects and the upstream developers who made this work possible.\n\nHelp improve Theft4 on your device: capture a slow or problematic scene with the built-in Long Performance Capture, export the saved log, and upload it with your survey answers and screenshots. Smooth runs are useful comparisons too. Follow the capture, export, and submission instructions below.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.lukebrosious.theft4.png",
+   "tintColor": "#648dac",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/KoreanSeats1/Theft4@main/docs/images/capture-interface.png"
+   ],
+   "versions": [
+    {
+     "version": "0.3.2",
+     "date": "2026-10-14T18:59:19Z",
+     "localizedDescription": "Theft4 0.3.2 — potential BC texture preparation fix:\n\nVersion 0.3.2 · build 144 · iPhone and iPad · 2026-10-14.\n\nI don't have an older phone, so I cannot test these changes on one. Your mileage may vary (YMMV).\n\nGetting “No BC textures found”? Check this first:\n\nThe first thing to check is a missing or misplaced aes_key.bin. This has now been confirmed in a 0.3.2 user log. Your game files can be present, but Theft4 needs this small file to read the texture archives. If the log says “Archive AES key is unavailable,” the app did not load the required key; this does not establish a phone/GPU problem.\n\nCopy aes_key.bin from your validated, prepared game folder into the same folder as default.xex and default.xexp on your device. It should be named exactly aes_key.bin and be 32 bytes. Do not put it inside an extra nested folder.\n\nIf you use LiveContainer, make sure the file is in the game folder used by the copy of Theft4 inside LiveContainer.\n\nThen close and reopen Theft4 and retry texture preparation. Version 0.3.2 will rescan after the key is restored. If it still fails, export a new log using System → Download Latest Log Capture and include your device model, iOS/app version and exact error.\n\nWhat changed:\n\n• A scan that finds zero textures is scanned again on retry instead of repeatedly reusing a failed result.\n• Restoring or replacing aes_key.bin invalidates the saved source scan. Older scan identities are refreshed once; existing converted textures can still be reused by their content keys.\n• Empty-scan errors now show the source-file count, resources decoded, warning count and first underlying archive/resource warning.\n\nUpdate and retry:\n\n• Update the existing app in place. Do not delete it: deletion removes its private saves and caches.\n• Open Theft4, check the game files, and retry texture preparation if your GPU requires it. Allow a fresh source scan; completed conversion files remain reusable.\n• Keep Theft4 open during preparation, preferably on power. Allow roughly 2.4 GB for prepared textures plus additional free working space. Pause/resume retains completed conversions.\n\nBug reports need logs and information:\n\n• Exact device model, iOS/iPadOS version, and Theft4 version/build.\n• Exact error text or a screenshot, the failing setup step, and whether retry changes it.\n• Game platform/region/media ID, base version, exact TU8 source/patch hash, and how the game folder was staged and transferred. Do not upload game files or the AES key.\n• Free device storage and steps needed to reproduce the problem.\n\nValidation and limitations:\n\nIPA SHA-256: 8f7d3a2865a10f34af0cdd736ee66677ac2614207651d60267d61a47cced9f57.\n\nNo physical iPhone 12 Pro, iPhone 13 Pro, or other older-phone test was performed for this release. Host tests and compilation do not confirm the initial cause on an affected phone. Please provide diagnostics if the issue persists.",
+     "downloadURL": "https://github.com/KoreanSeats1/Theft4/releases/download/v0.3.2/Theft4-0.3.2-144-ios-arm64.ipa",
+     "size": 51642084
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

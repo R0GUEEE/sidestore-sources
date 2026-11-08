@@ -1,0 +1,37 @@
+{
+ "name": "Dr. Driving",
+ "identifier": "dev.perapp.com-ipaomtk-dr-driving-151907",
+ "subtitle": "ipaomtk.com | What is Dr. Driving IPA? Dr. Driving IPA is the iOS installation package of the popular driving simulation",
+ "description": "Single-app source for Dr. Driving (com.ipaomtk.dr.driving.151907). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Dr.-Driving-IPA-v1.70-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.dr.driving.151907",
+   "name": "Dr. Driving",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Dr. Driving IPA? Dr. Driving IPA is the iOS installation package of the popular driving simulation game that focuses on realisti",
+   "localizedDescription": "ipaomtk.com | What is Dr. Driving IPA? Dr. Driving IPA is the iOS installation package of the popular driving simulation game that focuses on realisti",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Dr.-Driving-IPA-v1.70-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-03-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Dr. Driving IPA? Dr. Driving IPA is the iOS installation package of the popular driving simulation game that focuses on realisti",
+     "downloadURL": "https://file.ipaomtk.com/dr-driving/drdriving-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.70",
+     "date": "2026-03-25T00:00:00Z",
+     "localizedDescription": "Tweaks: ModIAP\n\nipaomtk.com | What is Dr. Driving IPA? Dr. Driving IPA is the iOS installation package of the popular driving simulation game that focuses on realisti",
+     "downloadURL": "https://file.ipaomtk.com/dr-driving/drdriving-IPAOMTK.COM.ipa",
+     "size": 11476067
+    }
+   ]
+  }
+ ]
+}

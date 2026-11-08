@@ -1,0 +1,53 @@
+{
+ "name": "Absorb",
+ "identifier": "dev.perapp.com-barnabas-absorb",
+ "subtitle": "A cross platform Audiobookshelf client for Android and iOS",
+ "description": "Single-app source for Absorb (com.barnabas.absorb). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3cc1b6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.barnabas.absorb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.barnabas.absorb",
+   "name": "Absorb",
+   "developerName": "pounat",
+   "subtitle": "A cross platform Audiobookshelf client for Android and iOS",
+   "localizedDescription": "Absorb:\n\nA modern audiobookshelf client with a card-based player experience.\n\nA note on AI: Absorb is developed by a human with AI assistance (mostly Claude Code) helping write, refactor, and review code. It's not \"vibe coded\" or auto-generated, every change is reviewed, tested, and shipped intentionally. That said, I'm all in on AI as a development tool. It massively speeds up the work and lets a solo developer ship features and fixes at a pace that wouldn't be possible otherwise. I'm sharing this openly so you know what's behind the app.\n\nFeatures:\n\n• Card-based player — full-screen \"Absorbing\" cards replace the traditional player screen.\n• Audiobookshelf integration — connects to your self-hosted audiobookshelf server.\n\n• Podcast support — chaptered podcasts with rich HTML descriptions.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.barnabas.absorb.png",
+   "tintColor": "#3cc1b6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/pounat/absorb@main/screenshots/absorbing.png",
+    "https://cdn.jsdelivr.net/gh/pounat/absorb@main/screenshots/library.png",
+    "https://cdn.jsdelivr.net/gh/pounat/absorb@main/screenshots/details.png",
+    "https://cdn.jsdelivr.net/gh/pounat/absorb@main/screenshots/fullScreen.png",
+    "https://cdn.jsdelivr.net/gh/pounat/absorb@main/screenshots/stats.png"
+   ],
+   "versions": [
+    {
+     "version": "1.12.0",
+     "date": "2026-10-15T17:30:53Z",
+     "localizedDescription": "Read along:\n\n• New - Read along: the narration is highlighted in the ebook as the audiobook plays, word by word or a sentence at a time, and the pages turn themselves. Turn pages freely and tap Back to narration to return.\n• New - Live transcript on the card for podcasts and books without an ebook, on streamed books too.\n\nEbook reader:\n\n• New - Scroll mode, left-aligned text, and an option to keep the title bar on screen.\n• New - Picture-only ebooks open in the comic reader, which now has bookmarks.\n• New - The reader's player opens chapters, sleep timer, bookmarks, equalizer, cast and more.\n\n• Fix - Books open where you left off after reading on the web or in another app.\n\nBookOrbit:\n\n• New - Sign in to BookOrbit servers, including SSO and magic links.\n\n• New - Filter the library by reading status.\n\nPlayback:\n\n• New - Speed up to 5x, and on Android the loudness boost really raises the volume.\n• New - Choose what the notification, lock screen, Android Auto and CarPlay show on each line.\n• New - Keep the screen on in the player and car mode.\n\n• Fix - Play picks up the newer spot from another device, and progress that fails to send is kept and sent later.\n\nQueue and series:\n\n• New - Adding to Absorbing asks whether it plays next or goes to the end.\n• New - The series sheet opens on the covers around your next book, with series stats and an up next button.\n• Fix - The series queue plays the actual next book and works past book 100.\n\nCar:\n\n• New - Car settings with sort options, and Collections and Playlists in the car library.\n• Fix - Android Auto no longer restarts the book when you switch to the radio.\n\nLibrary:\n\n• New - New Collection and New Playlist buttons in the Lists tab, and search across bookmarks and highlights.\n• New - Sort series by total duration or last book added, and upload files into an existing book.\n• New - Find the start in the chapter editor listens around a marker for where the chapter really begins.\n\nSign-in:\n\n• Improved - SSO sign-in returns to absorb://oauth. Server admins need to allow it under Settings, Authentication, Mobile redirect URIs (#417).\n\nOther:\n\n• Fix - Book details use each library's cover shape and show every genre and tag, and authors without a photo no longer trip fail2ban (#418).\n• Fix - Settings sync no longer wakes the phone every 45 seconds in the background (#409).",
+     "downloadURL": "https://github.com/pounat/absorb/releases/download/v1.12.0/absorb-1.12.0-297.ipa",
+     "size": 46137587
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "Absorb does not use the camera. This entry is required because a third-party library Absorb depends on references the camera API.",
+     "NSLocationWhenInUseUsageDescription": "Absorb does not use your location. This entry is required because a third-party library Absorb depends on references the location API.",
+     "NSMicrophoneUsageDescription": "Absorb may use the microphone for audio features.",
+     "NSMotionUsageDescription": "Absorb uses motion to detect shaking, which can reset or extend your sleep timer.",
+     "NSPhotoLibraryUsageDescription": "Absorb needs access to your photo library to save or select images."
+    }
+   }
+  }
+ ]
+}

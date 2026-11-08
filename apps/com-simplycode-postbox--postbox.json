@@ -1,0 +1,36 @@
+{
+ "name": "PostBox",
+ "identifier": "dev.perapp.com-simplycode-postbox",
+ "subtitle": "The latest jailbreak news at your fingertips",
+ "description": "Single-app source for PostBox (com.simplycode.PostBox). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "b3b3b3",
+ "iconURL": "https://static.appdb.to/images/cydia-102005202-icon-1661962646.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.simplycode.PostBox",
+   "name": "PostBox",
+   "developerName": "PostBox Team",
+   "subtitle": "The latest jailbreak news at your fingertips",
+   "localizedDescription": "• A pool of feeds. Enjoy a lively feed of various sources to always stay connected with the jailbreak scene. Sources are updated frequently so you don't miss out!\n\n• Powered externally. PostBox enables support for third-party jailbreak sources such as r/jailbreak and iDownloadBlog. More content will be coming soon in the future.\n\n• Repositories are libraries of packages. PostBox contains over 200 repos for centralization and provides a system for efficient repo finding. You can now effortlessly look for information that will previously require painstaking work.\n\n• Intuitive design. Buttons with different contrast prompts users for interaction. Animations, haptics and color changes enable engaging feedback when selected.\n\n• Review packages. The ability to review packages creates new opportunities for users and developers alike. Any package can be reviewed regardless of repository or depiction differences.",
+   "iconURL": "https://static.appdb.to/images/cydia-102005202-icon-1661962646.png",
+   "tintColor": "b3b3b3",
+   "screenshots": [
+    "https://www.postbox.news/assets/images/thumbPhone.webp",
+    "https://www.postbox.news/assets/images/newsPhone.webp",
+    "https://www.postbox.news/assets/images/extractPhone.webp",
+    "https://www.postbox.news/assets/images/repoPhone.webp",
+    "https://www.postbox.news/assets/images/reviewPhone.webp"
+   ],
+   "versions": [
+    {
+     "version": "0.8.1",
+     "date": "2023-05-14T00:00:00Z",
+     "localizedDescription": "• Added PostBox v0.8.1",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PostBox.v0.8.1.ipa",
+     "size": 8080000
+    }
+   ]
+  }
+ ]
+}

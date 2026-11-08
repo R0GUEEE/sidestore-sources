@@ -1,0 +1,34 @@
+{
+ "name": "Ultimate Mortal Kombat 3",
+ "identifier": "dev.perapp.com-devz-umk3",
+ "subtitle": "Native iOS and Windows ports of SSF2T, UMK3, Slam 'n Jam 96 and THPS2",
+ "description": "Single-app source for Ultimate Mortal Kombat 3 (com.devz.umk3). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#a96115",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.umk3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.umk3",
+   "name": "Ultimate Mortal Kombat 3",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "Native iOS and Windows ports of SSF2T, UMK3, Slam 'n Jam 96 and THPS2",
+   "localizedDescription": "NativePorts for iOS and Windows:\n\nNative iPhone, iPad and Windows ports of five classic games, each running its original program through an embedded emulator core. They share the frontend of my NBA Hangtime port: touch and controller support, a NewPixie CRT filter and a customizable touch layout.\n\nYou need your own copy of each game. ROMs and disc images are not included.\n\nIf you want to support me and remain up-to-date about this and other projects, you can in different ways:\n\nKo-Fi: https://ko-fi.com/dev_zer0\n\nYouTube: https://www.youtube.com/@develop_erZ\n\nFeatures:\n\n• On-screen touch controls with a floating stick, haptics and a customizable layout. Each port has its own six action buttons, labelled for its game (punches and kicks, ollie, flip, grind and grab, and so on).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.umk3.png",
+   "tintColor": "#a96115",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.6",
+     "date": "2026-10-19T18:51:27Z",
+     "localizedDescription": "NBA Showtime now uses the arcade/MAME edition on iOS and Windows, replacing the previous PlayStation edition. Import your own nbashowt.zip and matching nbashowt.chd; game data is not included.\n\nShowtime iPhone changes:\n\n• Move emulation off the UI thread and pace it using a monotonic deadline.\n• Batch two signature-checked MIPS polling/copy loops while preserving guest cycles, RAM semantics and interrupt boundaries.\n• Bound queued audio latency; fade starvation/recovery and transition across dropped audio to reduce crackles.\n• Reduce CRT drawable workload under thermal pressure. CRT remains on by default and can be toggled.\n\nIncludes all pending source changes for the other four ports, including their rendering, camera, CRT and version-resource updates.\n\nDownloads:\n\n• SSF2T 0.4.2, UMK3 0.4.2, Slam n Jam 96 0.4.2, THPS2 0.4.3, NBA Showtime 0.4.6 unsigned iOS IPAs.\n• NativePorts-Windows-x64.zip contains all five Windows builds and required DLLs.\n\nValidation: iOS and Windows builds passed; 15,000 randomized MIPS-loop comparisons passed with sanitizers; audio, worker-thread, game import, rendering and camera regression tests passed. The latest separate Showtime iPhone test build was reported to run well by the device owner. Sustained coverage of every scene and physical four-player testing remain pending. Showtime arcade widescreen projection is not implemented; native arcade proportions are retained.",
+     "downloadURL": "https://github.com/DevZer0D4Y/NativePorts/releases/download/v0.4.6/UMK3-0.4.2-unsigned.ipa",
+     "size": 3937224
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

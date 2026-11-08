@@ -1,0 +1,30 @@
+{
+ "name": "SideloadKeychainFix",
+ "identifier": "dev.perapp.org-apptesters-repo-sideloadkeychainfix",
+ "subtitle": "SideloadKeychainFix",
+ "description": "Single-app source for SideloadKeychainFix (org.apptesters.repo.sideloadkeychainfix). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "org.apptesters.repo.sideloadkeychainfix",
+   "name": "SideloadKeychainFix",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "SideloadKeychainFix",
+   "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-12-06T00:00:00Z",
+     "localizedDescription": "SideloadKeychainFix",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/SideloadKeychainFix_1.0_%40chocolatefluffy_apptesters.org.dylib",
+     "size": 70224
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "AMap",
+ "identifier": "dev.perapp.com-autonavi-amap",
+ "subtitle": "Injected with TuCeng 1.0.4",
+ "description": "Single-app source for AMap (com.autonavi.amap). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.autonavi.amap.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.autonavi.amap",
+   "name": "AMap",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with TuCeng 1.0.4",
+   "localizedDescription": "Injected with TuCeng 1.0.4",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.autonavi.amap.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.13.0",
+     "date": "2024-07-10T00:00:00Z",
+     "localizedDescription": "Injected with TuCeng 1.0.4",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-07-10/AMap_13.13.0_TuCeng_1.0.4_@repo.owo.network.ipa",
+     "size": 271373403
+    }
+   ]
+  }
+ ]
+}

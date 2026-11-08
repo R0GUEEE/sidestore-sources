@@ -1,0 +1,30 @@
+{
+ "name": "Noir",
+ "identifier": "dev.perapp.nl-jeffreykuiken-noirapp",
+ "subtitle": "Noir",
+ "description": "Single-app source for Noir (nl.jeffreykuiken.NoirApp). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nl.jeffreykuiken.NoirApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
+   "name": "Noir",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nl.jeffreykuiken.NoirApp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.2.8",
+     "date": "2025-12-30T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Noir_2025.2.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 11839363
+    }
+   ]
+  }
+ ]
+}

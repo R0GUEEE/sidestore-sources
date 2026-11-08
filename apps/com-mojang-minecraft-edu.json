@@ -1,0 +1,37 @@
+{
+ "name": "Minecraft Education",
+ "identifier": "dev.perapp.com-mojang-minecraft-edu",
+ "subtitle": "Minecraft Education",
+ "description": "Single-app source for Minecraft Education (com.mojang.minecraft-edu). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/84/97/19849762-c97e-94d3-bc41-d39e0cc9a08a/AppIcon-edu-0-0-1x_U007emarketing-0-3-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mojang.minecraft-edu",
+   "name": "Minecraft Education",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nMinecraft Education Beta v1.21.90.1\n\n🇷🇺 Бета версия Minecraft Education Edition\n— Приложение из TestFlight  \n© Создано: MCPreview Decrypted\n\n🇺🇸 The beta version of Minecraft Education Edition\n— App from TestFlight  \n© Created: MCPreview Decrypted",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/19/84/97/19849762-c97e-94d3-bc41-d39e0cc9a08a/AppIcon-edu-0-0-1x_U007emarketing-0-3-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.21.90",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nMinecraft Education Beta v1.21.90.1\n\n🇷🇺 Бета версия Minecraft Education Edition\n— Приложение из TestFlight  \n© Создано: MCPreview Decrypted\n\n🇺🇸 The beta version of Minecraft Education Edition\n— App from TestFlight  \n© Created: MCPreview Decrypted",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4704659f-39cf-4bf4-be86-0ad952465240/Minecraft_Education_v1.21.90_tg_glesign_.ipa",
+     "size": 613153000
+    },
+    {
+     "version": "1.21.8",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nMinecraft Education Beta v1.21.8\n\n🇷🇺 Бета версия Minecraft Education Edition\n— Приложение из TestFlight  \n© Создано: MCPreview Decrypted\n\n🇺🇸 The beta version of Minecraft Education Edition\n— App from TestFlight  \n© Created: MCPreview Decrypted",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/9fef4d1a-8b7b-4839-8054-0bd8bf4cbea0/Minecraft_Education_v1.21.8_tg_glesign_.ipa",
+     "size": 904130247
+    }
+   ]
+  }
+ ]
+}

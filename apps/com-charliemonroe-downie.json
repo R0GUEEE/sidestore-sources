@@ -1,0 +1,44 @@
+{
+ "name": "Downie",
+ "identifier": "dev.perapp.com-charliemonroe-downie",
+ "subtitle": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only co",
+ "description": "Single-app source for Downie (com.charliemonroe.Downie). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemonroe.Downie.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.charliemonroe.Downie",
+   "name": "Downie",
+   "developerName": "TestFlight",
+   "subtitle": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.",
+   "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.charliemonroe.Downie.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0-95",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Downie/Downie-1.0-95.ipa",
+     "size": 22818818
+    },
+    {
+     "version": "1.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Downie/Downie-1.0-95.ipa",
+     "size": 22818818
+    },
+    {
+     "version": "1.0-92",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "A simple, powerful, and fast youtube video downloader now for iOS. Note: Beta version decrypted from TestFlight: Only compatible with iOS17 and later.",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Downie/Downie-1.0-92.ipa",
+     "size": 20571776
+    }
+   ]
+  }
+ ]
+}

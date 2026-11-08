@@ -1,0 +1,30 @@
+{
+ "name": "TubePod",
+ "identifier": "dev.perapp.com-byteapp-tubepod",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for TubePod (com.byteapp.tubepod). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.byteapp.tubepod.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.byteapp.tubepod",
+   "name": "TubePod",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.byteapp.tubepod.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/TubePod_3.7_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 56100026
+    }
+   ]
+  }
+ ]
+}

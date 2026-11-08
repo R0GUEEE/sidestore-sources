@@ -1,0 +1,30 @@
+{
+ "name": "RookTV",
+ "identifier": "dev.perapp.com-rooktvmedia-saras",
+ "subtitle": "ipaomtk.com | Introduction to RookTV RookTV IPA is a feature-rich video playback application designed specifically for i",
+ "description": "Single-app source for RookTV (com.rooktvmedia.saras). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/512x512bb-21-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rooktvmedia.saras",
+   "name": "RookTV",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction to RookTV RookTV IPA is a feature-rich video playback application designed specifically for iOS users who want to enjoy mov",
+   "localizedDescription": "ipaomtk.com | Introduction to RookTV RookTV IPA is a feature-rich video playback application designed specifically for iOS users who want to enjoy mov",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/512x512bb-21-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2025-08-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to RookTV RookTV IPA is a feature-rich video playback application designed specifically for iOS users who want to enjoy mov",
+     "downloadURL": "https://file.ipaomtk.com/ipa/RookTV-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

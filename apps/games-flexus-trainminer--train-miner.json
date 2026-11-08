@@ -1,0 +1,37 @@
+{
+ "name": "Train Miner",
+ "identifier": "dev.perapp.games-flexus-trainminer",
+ "subtitle": "Train Miner",
+ "description": "Single-app source for Train Miner (games.flexus.trainminer). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/f4/21/08f42134-7c77-e2d6-c69d-fa557c64102c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "games.flexus.trainminer",
+   "name": "Train Miner",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Train Miner: Idle Railway Game\n\nTweak: no ads\n\nVersion: 2.4.16\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/08/f4/21/08f42134-7c77-e2d6-c69d-fa557c64102c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.3",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "no ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2297",
+     "size": 112790695
+    },
+    {
+     "version": "2.4.16",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Train Miner: Idle Railway Game\n\nTweak: no ads\n\nVersion: 2.4.16\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/6a4210c9-ee7b-4b4e-b353-68a01987172f/Train_Miner__Idle_Railway_Game-v2.4.16-riftysipas.ipa",
+     "size": 76753770
+    }
+   ]
+  }
+ ]
+}

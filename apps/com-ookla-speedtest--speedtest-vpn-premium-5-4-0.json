@@ -1,0 +1,32 @@
+{
+ "name": "Speedtest_VPN_Premium_5.4.0",
+ "identifier": "dev.perapp.com-ookla-speedtest",
+ "subtitle": "Speedtest_VPN_Premium_5.4.0 by Speedtest_VPN_Premium_5.4.0 x CyPwn",
+ "description": "Single-app source for Speedtest_VPN_Premium_5.4.0 (com.ookla.speedtest). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Speedtest_VPN_Premium_5.4.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ookla.speedtest",
+   "name": "Speedtest_VPN_Premium_5.4.0",
+   "developerName": "Speedtest_VPN_Premium_5.4.0 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Premium unlimited VPN",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Speedtest_VPN_Premium_5.4.0.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Speedtest_VPN_Premium_5.4.0/Speedtest_VPN_Premium_5.4.0-0.png"
+   ],
+   "versions": [
+    {
+     "version": "5.4.0",
+     "date": "2024-06-04T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Speedtest_VPN_Premium_5.4.0.ipa",
+     "size": 55144611
+    }
+   ]
+  }
+ ]
+}

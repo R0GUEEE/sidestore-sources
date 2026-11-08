@@ -1,0 +1,30 @@
+{
+ "name": "TorBrowserPremium",
+ "identifier": "dev.perapp.ch-b-eng-tor",
+ "subtitle": "TorBrowserPremium",
+ "description": "Single-app source for TorBrowserPremium (ch.b-eng.tor). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ch.b-eng.tor",
+   "name": "TorBrowserPremium",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ch.b-eng.tor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.21",
+     "date": "2024-10-14T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TorBrowserPremium/TorBrowserPremium-3.4.21.ipa",
+     "size": 124682319
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Wallcraft",
+ "identifier": "dev.perapp.com-wallpaperscraft-wallpapers",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Wallcraft (com.wallpaperscraft.wallpapers). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+   "name": "Wallcraft",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wallpaperscraft.wallpapers.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.43",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@blatants | Wallcraft – Wallpapers, live  • Bundle ID: com.wallpaperscraft.wallpapers • Updated to: 3.43 • Minimum iOS: 15.0 • Patched • Modifier: Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/Wallcraft_3.43_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 129650639
+    },
+    {
+     "version": "3.42",
+     "date": "2026-10-17T00:00:00Z",
+     "localizedDescription": "@blatants | Wallcraft – Wallpapers, live  • Bundle ID: com.wallpaperscraft.wallpapers • Updated to: 3.42 • Minimum iOS: 15.0 • Patched • Modifier: Pro",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12852-Wallcraft_%E2%80%93_Wallpapers,_live_v3_42_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 129617920
+    },
+    {
+     "version": "3.41",
+     "date": "2026-09-18T00:00:00Z",
+     "localizedDescription": "@blatants | Wallcraft – Wallpapers, live  • Bundle ID: com.wallpaperscraft.wallpapers • Updated to: 3.41 • Minimum iOS: 15.0 • Patched • Modifier: Pro",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12279-Wallcraft_%E2%80%93_Wallpapers,_live_v3_41_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 118227622
+    }
+   ]
+  }
+ ]
+}

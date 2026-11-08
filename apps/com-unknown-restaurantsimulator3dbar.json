@@ -1,0 +1,37 @@
+{
+ "name": "Restaurant Simulator 3D BAr",
+ "identifier": "dev.perapp.com-unknown-restaurantsimulator3dbar",
+ "subtitle": "Free Store ( Turn on from the menu )",
+ "description": "Single-app source for Restaurant Simulator 3D BAr (com.unknown.restaurantsimulator3dbar). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Restaurant.Simulator.3D.BAr.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.restaurantsimulator3dbar",
+   "name": "Restaurant Simulator 3D BAr",
+   "developerName": "Karbin-Store",
+   "subtitle": "Free Store ( Turn on from the menu )",
+   "localizedDescription": "Free Store ( Turn on from the menu )",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Restaurant.Simulator.3D.BAr.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "Free Store ( Turn on from the menu )",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Restaurant.Simulator.3D.Bar.v1.2_BabyloniPA.ipa",
+     "size": 98320000
+    },
+    {
+     "version": "1.0",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "Tweaks: BabylonCheatEngine\n\nFree Store ( Turn on from the menu )",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Restaurant.Simulator.3D.Bar.v1.2_BabyloniPA.ipa",
+     "size": 103124525
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SubwaySurf",
+ "identifier": "dev.perapp.com-kiloo-subwaysurfers",
+ "subtitle": "Mods",
+ "description": "Single-app source for SubwaySurf (com.kiloo.subwaysurfers). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kiloo.subwaysurfers",
+   "name": "SubwaySurf",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Mods",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kiloo.subwaysurfers.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.51.0",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/SubwaySurf_3.51.0_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 166626765
+    }
+   ]
+  }
+ ]
+}

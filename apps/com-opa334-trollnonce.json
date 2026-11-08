@@ -1,0 +1,44 @@
+{
+ "name": "TrollNonce",
+ "identifier": "dev.perapp.com-opa334-trollnonce",
+ "subtitle": "ipaomtk.com | If you’re an iOS device user, you’ve probably heard the term “nonce” thrown around in discussions about de",
+ "description": "Single-app source for TrollNonce (com.opa334.trollnonce). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/Icon-2-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.opa334.trollnonce",
+   "name": "TrollNonce",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | If you’re an iOS device user, you’ve probably heard the term “nonce” thrown around in discussions about device security. But what exactl",
+   "localizedDescription": "ipaomtk.com | If you’re an iOS device user, you’ve probably heard the term “nonce” thrown around in discussions about device security. But what exactl",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/Icon-2-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Nonce setter for jailed devices Last updated: 11-12-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2022/TrollNonce-1.1.1.ipa",
+     "size": 253564
+    },
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Nonce setter for jailed devices Last updated: 11-12-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TrollNonce.ipa",
+     "size": 217175
+    },
+    {
+     "version": "1.1.2",
+     "date": "2024-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | If you’re an iOS device user, you’ve probably heard the term “nonce” thrown around in discussions about device security. But what exactl",
+     "downloadURL": "https://file.ipaomtk.com/Trollstore/TrollNonce.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

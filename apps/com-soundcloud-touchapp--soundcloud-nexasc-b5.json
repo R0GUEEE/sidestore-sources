@@ -1,0 +1,30 @@
+{
+ "name": "SoundCloud (NexaSC b5)",
+ "identifier": "dev.perapp.com-soundcloud-touchapp",
+ "subtitle": "Tweaks: NexaSC",
+ "description": "Single-app source for SoundCloud (NexaSC b5) (com.soundcloud.TouchApp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/1252.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.soundcloud.TouchApp",
+   "name": "SoundCloud (NexaSC b5)",
+   "developerName": "@ipavault",
+   "subtitle": "Tweaks: NexaSC",
+   "localizedDescription": "Tweaks: NexaSC\n\n@ipavault | SoundCloud 8.85.0 (NexaSC-b5)\n\nBuilds:\n▪SoundCloud 8.85.0 (iOS 16.4+)\n▪SoundCloud 7.68.1 (iOS 16.0-16.3): https://t.me/ipavaultchat/13370\nSteps to unlock SoundCloud Go+ and Downloading Songs:\n\n1.) Open SoundCloud\n2.) Press and hold the Home button on the bottom-left corner of the tab bar.\nOR tap the Messages 💬 icon on the top right, then tap NexaSC\n3.) Tap Settings ⚙️ on the bottom\n4.) Toggle on: Unlock Plus Subscription, Download Songs\n5.) Tap the checkmark 🔗 icon on the top-right corner and click Restart Now\nSteps to Download Songs:\n\n1.) Play any song\n2.) Tap the white Download icon ⬇️ to download the song\n3.) Swipe down to exit the song\n4.) Press and hold the Home button on the bottom-left corner of the tab bar. OR tap the Messages 💬 icon on the top right, then tap NexaSC\n5.) Tap the downloaded song to play it\n6.) Swipe down to exit the song\n7.) Swipe from right-to-left on the downloaded song you want to export\n8.) Tap Save to Files, choose where you want to save the song, then tap Save\n✅ Patched\n✅ Liquid Glass\n\nBuild by: @ipavault\n\nCredits: \nNexaSC b5 by @VAXMG\nDecrypted by @FastDecryptBot\n\nNeed a certificate? 📲\nSupport me on Ko-Fi 😘\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/1252.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.85.0",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Tweaks: NexaSC\n\n@ipavault | SoundCloud 8.85.0 (NexaSC-b5) Builds: ▪SoundCloud 8.85.0 (iOS 16.4+) ▪SoundCloud 7.68.1 (iOS 16.0-16.3): https://t.me/ipavaultchat/13370…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1252-SoundCloud%208.85.0%20%28NexaSC-b5%29%20%5B@ipavault%5D.ipa",
+     "size": 238030566
+    }
+   ]
+  }
+ ]
+}

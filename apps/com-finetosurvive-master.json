@@ -1,0 +1,44 @@
+{
+ "name": "Lost Prison",
+ "identifier": "dev.perapp.com-finetosurvive-master",
+ "subtitle": "ipaomtk.com | Introduction Lost Prison – Shelter Survival IPA is a gripping iOS survival game that places players inside",
+ "description": "Single-app source for Lost Prison (com.finetosurvive.master). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Lost-Prison-8211-Shelter-Survival-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.finetosurvive.master",
+   "name": "Lost Prison",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Lost Prison – Shelter Survival IPA is a gripping iOS survival game that places players inside a harsh prison environment wh",
+   "localizedDescription": "ipaomtk.com | Introduction Lost Prison – Shelter Survival IPA is a gripping iOS survival game that places players inside a harsh prison environment wh",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Lost-Prison-8211-Shelter-Survival-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.0",
+     "date": "2025-12-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Lost Prison – Shelter Survival IPA is a gripping iOS survival game that places players inside a harsh prison environment wh",
+     "downloadURL": "https://file.ipaomtk.com/Lost-Prison-Shelter-Survival/Lost-Prison-Shelter-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.21.0",
+     "date": "2025-12-25T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Introduction Lost Prison – Shelter Survival IPA is a gripping iOS survival game that places players inside a harsh prison environment wh",
+     "downloadURL": "https://file.ipaomtk.com/Lost-Prison-Shelter-Survival/Lost-Prison-Shelter-IPAOMTK.COM.ipa",
+     "size": 203833781
+    },
+    {
+     "version": "1.10.0",
+     "date": "2025-12-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Fine to Survive – Zombie Idle IPA is an exciting iOS survival game that combines idle mechanics with zombie apocalypse acti",
+     "downloadURL": "https://file.ipaomtk.com/Fine%20to%20Survive/Fine-to-Survive-Zombie-Idle-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

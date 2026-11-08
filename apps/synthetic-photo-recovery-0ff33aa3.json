@@ -1,0 +1,30 @@
+{
+ "name": "Photo Recovery",
+ "identifier": "dev.perapp.synthetic-photo-recovery-0ff33aa3",
+ "subtitle": "Photo Recovery by Karbin-Store",
+ "description": "Single-app source for Photo Recovery (synthetic.photo-recovery.0ff33aa3). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Photo.Recovery.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.photo-recovery.0ff33aa3",
+   "name": "Photo Recovery",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "✅ MOD:Recover deleted photos \n ✅ MOD:Activate premium",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Photo.Recovery.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.5",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "✅ MOD:Recover deleted photos \n ✅ MOD:Activate premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Photo.Recovery.5.2.5.ipa",
+     "size": 77120000
+    }
+   ]
+  }
+ ]
+}

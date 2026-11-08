@@ -1,0 +1,30 @@
+{
+ "name": "MediaConvert",
+ "identifier": "dev.perapp.com-verycoolapp-mediaconvert",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for MediaConvert (com.verycoolapp.mediaconvert). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.verycoolapp.mediaconvert",
+   "name": "MediaConvert",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.17",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/MediaConvert_4.17_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 65356195
+    }
+   ]
+  }
+ ]
+}

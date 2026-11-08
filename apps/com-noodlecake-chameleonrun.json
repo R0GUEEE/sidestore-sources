@@ -1,0 +1,30 @@
+{
+ "name": "Chameleon",
+ "identifier": "dev.perapp.com-noodlecake-chameleonrun",
+ "subtitle": "@ipa_dark | 🔄 Chameleon Run - appstore  🇷🇺 Динамичный платформер с видом от первого лица, где нужно быстро переключать ц",
+ "description": "Single-app source for Chameleon (com.noodlecake.chameleonrun). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1624.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.noodlecake.chameleonrun",
+   "name": "Chameleon",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Chameleon Run - appstore  🇷🇺 Динамичный платформер с видом от первого лица, где нужно быстро переключать цвета персонажа, преодолевать п",
+   "localizedDescription": "@ipa_dark | 🔄 Chameleon Run - appstore  🇷🇺 Динамичный платформер с видом от первого лица, где нужно быстро переключать цвета персонажа, преодолевать п",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1624.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.5",
+     "date": "2026-07-29T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Chameleon Run - appstore  🇷🇺 Динамичный платформер с видом от первого лица, где нужно быстро переключать цвета персонажа, преодолевать п",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1624-Chameleon%20Run%20%5Bv1.9%5D%28tg@ipa_dark%29.ipa",
+     "size": 79889231
+    }
+   ]
+  }
+ ]
+}

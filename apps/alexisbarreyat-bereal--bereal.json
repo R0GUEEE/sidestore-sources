@@ -1,0 +1,50 @@
+{
+ "name": "BeReal++",
+ "identifier": "dev.perapp.alexisbarreyat-bereal",
+ "subtitle": "See your friends BeReals without posting anything!",
+ "description": "Single-app source for BeReal++ (AlexisBarreyat.BeReal). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#363636",
+ "iconURL": "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "AlexisBarreyat.BeReal",
+   "name": "BeReal++",
+   "developerName": "Avangelista",
+   "subtitle": "See your friends BeReals without posting anything!",
+   "localizedDescription": "Unblur your friends’ posts on BeReal, even when you haven't posted. All functions of the app work as normal.",
+   "iconURL": "https://img.ipa4fun.com/74/cd/6c/1459645446-logo.jpg",
+   "tintColor": "#363636",
+   "screenshots": [
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-1.jpg",
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-2.jpg",
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-3.jpg",
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-4.jpg",
+    "https://img.ipa4fun.com/74/cd/6c/1459645446-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "2.14.2",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "• Updated BeReal to v2.14.2\n• Updated Bea to v1.3.8",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BeReal.v2.14.2.+.Bea.v1.3.8.ipa",
+     "size": 63800000
+    },
+    {
+     "version": "1.3.1-1.10.0",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.1-1.10.0.ipa",
+     "size": 32893347
+    },
+    {
+     "version": "1.3.1-1.10.1",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "BeReal, injected with the tweak Bea. Same as Unblur with more features, full tweak description here.\nLast updated: 08-02-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BeRealBea/BeRealBea-1.3.1-1.10.1.ipa",
+     "size": 39284072
+    }
+   ]
+  }
+ ]
+}

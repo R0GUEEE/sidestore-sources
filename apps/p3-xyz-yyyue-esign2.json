@@ -1,0 +1,37 @@
+{
+ "name": "ESign-Omtk",
+ "identifier": "dev.perapp.p3-xyz-yyyue-esign2",
+ "subtitle": "ipaomtk.com | Esign IPA Signer is a powerful and user-friendly tool designed to streamline the process of code signing f",
+ "description": "Single-app source for ESign-Omtk (p3.xyz.yyyue.esign2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/esign-ipa-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "p3.xyz.yyyue.esign2",
+   "name": "ESign-Omtk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Esign IPA Signer is a powerful and user-friendly tool designed to streamline the process of code signing for iOS applications. As an iOS",
+   "localizedDescription": "ipaomtk.com | Esign IPA Signer is a powerful and user-friendly tool designed to streamline the process of code signing for iOS applications. As an iOS",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/esign-ipa-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.8.0.1",
+     "date": "2024-12-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Esign IPA Signer is a powerful and user-friendly tool designed to streamline the process of code signing for iOS applications. As an iOS",
+     "downloadURL": "https://file.ipaomtk.com/Esign/Esign-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "5.0.2",
+     "date": "2024-12-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Esign IPA Signer is a powerful and user-friendly tool designed to streamline the process of code signing for iOS applications. As an iOS",
+     "downloadURL": "https://file.ipaomtk.com/Esign/Esign-IPAOMTK.COM.ipa",
+     "size": 7522792
+    }
+   ]
+  }
+ ]
+}

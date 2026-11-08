@@ -1,0 +1,30 @@
+{
+ "name": "Remini",
+ "identifier": "dev.perapp.com-bigwinepot-nwdn-international",
+ "subtitle": "Remini",
+ "description": "Single-app source for Remini (com.bigwinepot.nwdn.international). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bigwinepot.nwdn.international",
+   "name": "Remini",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bigwinepot.nwdn.international.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.10.206",
+     "date": "2026-06-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2026/Remini_2.10.206_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 119830175
+    }
+   ]
+  }
+ ]
+}

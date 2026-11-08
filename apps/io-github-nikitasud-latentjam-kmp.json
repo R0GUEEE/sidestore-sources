@@ -1,0 +1,41 @@
+{
+ "name": "LatentJam",
+ "identifier": "dev.perapp.io-github-nikitasud-latentjam-kmp",
+ "subtitle": "A local music player that understands what your library sounds like: on-device neural shuffle and rediscovery for the mu",
+ "description": "Single-app source for LatentJam (io.github.nikitasud.latentjam.kmp). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4a6eb6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.nikitasud.latentjam.kmp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.nikitasud.latentjam.kmp",
+   "name": "LatentJam",
+   "developerName": "Nikita-sud",
+   "subtitle": "A local music player that understands what your library sounds like: on-device neural shuffle and rediscovery for the music you already own. Android + iOS, Kotlin Multiplatform, Apache-2.0",
+   "localizedDescription": "F-Droid · iPhone (sideload, not on the App Store) No account · no analytics · no ads · no internet permission on Android · Support · Privacy · Install guide.\n\nShuffle on a local player is a dice roll. Pick a song in LatentJam and SMART, its shuffle, queues up others from your own library that sound like they belong next to it. For You brings back the records you own and forgot. Edit your tags, follow synced lyrics, see your library as a map. The models that listen to your music run on the phone itself, so nothing about your listening ever leaves it.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.nikitasud.latentjam.kmp.png",
+   "tintColor": "#4a6eb6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Nikita-sud/latentjam@main/docs/media/player.png",
+    "https://cdn.jsdelivr.net/gh/Nikita-sud/latentjam@main/docs/media/for-you.png",
+    "https://cdn.jsdelivr.net/gh/Nikita-sud/latentjam@main/docs/media/lyrics.png",
+    "https://cdn.jsdelivr.net/gh/Nikita-sud/latentjam@main/docs/media/playlists.png"
+   ],
+   "versions": [
+    {
+     "version": "0.9.4",
+     "date": "2026-11-05T08:52:50Z",
+     "localizedDescription": "Your Last.fm history imported straight from a CSV file, sorting by date added and date modified, and SMART queues that fit better: cleaner, with artist names merged and every genre and language of a track counted. Crossfade no longer restarts the next song. Still fully on-device: no account, no catalogue, no network.\n\nNew:\n\n• 📥 Import your Last.fm history from a CSV file, for example one made with last.fm-to-csvor a Last.fm CSV (Settings → Local backup → Import listening history).\n• ↕️ Sort by date added or date modified, newest or oldest first, in Tracks and in Foldersannounce the chosen order and direction.\n• 📂 Open an M3U playlist from a file manager and LatentJam offers to import it.\n\nSMART:\n\n• Fewer spoken-word clips, fragments and novelty tracks dropped into a queue.\n• Names of one artist written differently count as one artist, and untagged \"Unknown\" tracks are no longer repeated.\n• Every genre and every language of a track counts, not just the first one. Queues from libraries with detailed multi-genre tags stay in their genre much better.\n\nFixed:\n\n• Crossfade: the next song no longer starts over after the overlap.\n• Adding a song from the queue to a playlist no longer makes the queue flicker.\n• The lock-screen player asks for the permission it needs instead of silently not showing.\n• The widget keeps its rounded corners after a phone restart.\n• Analysis of large libraries is faster and steadier.\n• Many smaller fixes.\n\n⚠️ iOS, first start after the update: files you imported into the app may be analysed once again. Your history, playlists and settings stay.\n\nDownload LatentJam-v0.9.4-arm64.apk (about 37 MB). It's right for virtually every phone from the last decade, so if unsure, pick this one. LatentJam-v0.9.4-armv7.apk exists for old 32-bit devices.\n\nOpen the file on your phone. It upgrades any earlier release from here in place, and your history, playlists and settings stay. You'll need to allow installing unknown apps and tap through Play Protect's sideload warning. Requires Android 7.0+.\n\nLatentJam-v0.9.4-unsigned.ipa is an unsigned build. Sideload it with AltStore, Sideloadly or similar, which re-sign it with your Apple ID. AltStore and SideStore users can also add the LatentJam source from the README to get updates. Built for iOS 15.1+, arm64.\n\nF-Droid:\n\nLatentJam is on F-Droid. F-Droid builds this version from source on its own schedule.\n\nThat build is signed with F-Droid's key, not the one used here, so the two can't upgrade each other. To switch:\n\n• Export your data (Settings → Local backup).\n• Uninstall the app.\n• Install from F-Droid and restore the backup.\n\nBeta, pre-1.0. Screens and settings can still change between releases. Tag editing writes to your real files, so back up the music you care about before a big edit. Found a bug?\n\nImport your Last.fm history from a CSV file. Sort Tracks and Folders by date added or date modified. SMART: fewer spoken and fragment inserts, artist names merged, genres and languages as sets, better queues for multi-genre tags. Crossfade no longer restarts the next track. The queue no longer flickers when you add a track to a playlist. Faster, steadier analysis for large libraries. Widget corners stay round after a reboot. Many fixes.",
+     "downloadURL": "https://github.com/Nikita-sud/latentjam/releases/download/v0.9.4/LatentJam-v0.9.4-unsigned.ipa",
+     "size": 46060442
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSAppleMusicUsageDescription": "LatentJam uses your on-device music library to organize tracks and make private recommendations locally."
+    }
+   }
+  }
+ ]
+}

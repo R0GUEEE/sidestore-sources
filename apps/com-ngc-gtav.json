@@ -1,0 +1,30 @@
+{
+ "name": "GTA 5 Mobile - (Fan made)",
+ "identifier": "dev.perapp.com-ngc-gtav",
+ "subtitle": "GTA 5 Mobile - (Fan made) by sidelix",
+ "description": "Single-app source for GTA 5 Mobile - (Fan made) (com.NGC.GTAV). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1783825764.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.NGC.GTAV",
+   "name": "GTA 5 Mobile - (Fan made)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "GTA 5 Mobile by 'New Games Corporation' studios",
+   "iconURL": "https://appstore.sidelix.vip/images/1783825764.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "GTA 5 Mobile by 'New Games Corporation' studios",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2223",
+     "size": 1463351297
+    }
+   ]
+  }
+ ]
+}

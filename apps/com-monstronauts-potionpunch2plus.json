@@ -1,0 +1,30 @@
+{
+ "name": "Potion Punch 2+",
+ "identifier": "dev.perapp.com-monstronauts-potionpunch2plus",
+ "subtitle": "@ipa_dark | 🔄 Potion Punch 2+ - appstore  🇷🇺 Казуальный симулятор приготовления зелий, где нужно быстро обслуживать посе",
+ "description": "Single-app source for Potion Punch 2+ (com.monstronauts.potionpunch2plus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1671.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.monstronauts.potionpunch2plus",
+   "name": "Potion Punch 2+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Potion Punch 2+ - appstore  🇷🇺 Казуальный симулятор приготовления зелий, где нужно быстро обслуживать посетителей, смешивать ингредиенты",
+   "localizedDescription": "@ipa_dark | 🔄 Potion Punch 2+ - appstore  🇷🇺 Казуальный симулятор приготовления зелий, где нужно быстро обслуживать посетителей, смешивать ингредиенты",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1671.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.40.01",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Potion Punch 2+ - appstore  🇷🇺 Казуальный симулятор приготовления зелий, где нужно быстро обслуживать посетителей, смешивать ингредиенты",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1671-Potion%20Punch%202%20%5Bv1.40.01%5D%28tg@ipa_dark%29.ipa",
+     "size": 564635580
+    }
+   ]
+  }
+ ]
+}

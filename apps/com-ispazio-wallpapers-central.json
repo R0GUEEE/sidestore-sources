@@ -1,0 +1,30 @@
+{
+ "name": "WallpapersCentral",
+ "identifier": "dev.perapp.com-ispazio-wallpapers-central",
+ "subtitle": "WallpapersCentral",
+ "description": "Single-app source for WallpapersCentral (com.ispazio.Wallpapers-Central). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ispazio.Wallpapers-Central.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ispazio.Wallpapers-Central",
+   "name": "WallpapersCentral",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ispazio.Wallpapers-Central.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.6",
+     "date": "2025-09-26T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2025/WallpapersCentral_2.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 19902893
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "BilibiliIntl",
+ "identifier": "dev.perapp.com-bilibili-inter",
+ "subtitle": "Injected with Nothing",
+ "description": "Single-app source for BilibiliIntl (com.bilibili.inter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.bilibili.inter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bilibili.inter",
+   "name": "BilibiliIntl",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing",
+   "localizedDescription": "Injected with Nothing",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.bilibili.inter.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.20.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-07-04/BilibiliIntl_3.20.1_Nothing_@repo.owo.network.ipa",
+     "size": 186959725
+    }
+   ]
+  }
+ ]
+}

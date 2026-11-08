@@ -1,0 +1,30 @@
+{
+ "name": "SizeSnap",
+ "identifier": "dev.perapp.synthetic-sizesnap-b2b9fecc",
+ "subtitle": "SizeSnap by Karbin-Store",
+ "description": "Single-app source for SizeSnap (synthetic.sizesnap.b2b9fecc). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/SizeSnap.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.sizesnap.b2b9fecc",
+   "name": "SizeSnap",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "بەرنامە بۆ دەستکاریکردنی وێنەکان",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/SizeSnap.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.10.0",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "بەرنامە بۆ دەستکاریکردنی وێنەکان",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/SizeSnap_2.10.0_3BodSy.ipa",
+     "size": 20220000
+    }
+   ]
+  }
+ ]
+}

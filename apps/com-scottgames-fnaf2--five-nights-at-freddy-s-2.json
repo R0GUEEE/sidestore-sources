@@ -1,0 +1,37 @@
+{
+ "name": "Five Nights at Freddy's 2",
+ "identifier": "dev.perapp.com-scottgames-fnaf2",
+ "subtitle": "Five Nights at Freddy's 2 - Point and click surivival horror",
+ "description": "Single-app source for Five Nights at Freddy's 2 (com.scottgames.fnaf2). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "920100",
+ "iconURL": "https://cdn.omnidev.org/fivenights2-GY.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scottgames.fnaf2",
+   "name": "Five Nights at Freddy's 2",
+   "developerName": "Scott Games & Clickteam LLC",
+   "subtitle": "Five Nights at Freddy's 2 - Point and click surivival horror",
+   "localizedDescription": "Five Nights at Freddy's 2 is a 2014 point-and-click survival horror game developed and published by Scott Cawthon. It is the second installment in the Five Nights at Freddy's series.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/fivenights2-GY.png",
+   "tintColor": "920100",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.5",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "Welcome back to the new and improved Freddy Fazbear's Pizza!\r\n\r\nIn Five Nights at Freddy's 2, the old and aging animatronics are joined by a new cast of characters. They are kid-friendly, updated with the latest in facial recognition technology, tied into local criminal databases, and promise to put on a safe and entertaining show for kids and grown-ups alike!\r\n\r\nWhat could go wrong?\r\n\r\nAs the new security guard working nights, your job is to monitor cameras and make sure nothing goes wrong after-hours. The previous guard has complained about the characters trying to get into the office (he has since been moved to day-shift). So",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1744",
+     "size": 118323988
+    },
+    {
+     "version": "2.0.4",
+     "date": "2024-11-06T00:00:00Z",
+     "localizedDescription": "Five Nights at Freddy's 2 is a 2014 point-and-click survival horror game developed and published by Scott Cawthon. It is the second installment in the Five Nights at Freddy's series.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Five_Nights_at_Freddys_2_v_2_0_4-xJ.ipa",
+     "size": 116584448
+    }
+   ]
+  }
+ ]
+}

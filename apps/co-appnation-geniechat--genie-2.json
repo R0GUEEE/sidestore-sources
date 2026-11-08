@@ -1,0 +1,30 @@
+{
+ "name": "Genie",
+ "identifier": "dev.perapp.co-appnation-geniechat",
+ "subtitle": "Genie",
+ "description": "Single-app source for Genie (co.appnation.geniechat). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.geniechat.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.appnation.geniechat",
+   "name": "Genie",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.appnation.geniechat.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.7.1",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Genie_7.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 66010760
+    }
+   ]
+  }
+ ]
+}

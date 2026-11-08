@@ -1,0 +1,44 @@
+{
+ "name": "Flashscore",
+ "identifier": "dev.perapp.eu-livesport-flashscore-com",
+ "subtitle": "Flashscore",
+ "description": "Single-app source for Flashscore (eu.livesport.FlashScore-com). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/4e970956-1fd7-4801-86cc-2164141765d6/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "eu.livesport.FlashScore-com",
+   "name": "Flashscore",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flashscore: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 25.9.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/4e970956-1fd7-4801-86cc-2164141765d6/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.9.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flashscore: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 25.9.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/db1aae19-3094-4c11-8193-b7ec368859bb/Flashscore__Live_Scores___News-v25.9.0-riftysipas.ipa",
+     "size": 60478573
+    },
+    {
+     "version": "25.8.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flashscore: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 25.8.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4af6669f-cf6e-4ee5-a878-2aa327f4616b/Flashscore__Live_Scores___News-v25.8.0-riftysipas.ipa",
+     "size": 59275773
+    },
+    {
+     "version": "25.7.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flashscore: Live Scores & News\n\nTweak: Subscription Unlocked\n\nVersion: 25.7.1\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/daa2ea62-6f37-453d-b4e2-1abfd4aabfb3/Flashscore__Live_Scores___News-v25.7.1-riftysipas.ipa",
+     "size": 57919904
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "!Habits",
+ "identifier": "dev.perapp.com-andyworks-streaks",
+ "subtitle": "@blatants | (Not Boring) Habits  • Bundle ID: com.andyworks.streaks • Updated to: 3.35 • Minimum iOS: 18.0 • Patched • M",
+ "description": "Single-app source for !Habits (com.andyworks.streaks). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11205.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.andyworks.streaks",
+   "name": "!Habits",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | (Not Boring) Habits  • Bundle ID: com.andyworks.streaks • Updated to: 3.35 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocked",
+   "localizedDescription": "@blatants | (Not Boring) Habits  • Bundle ID: com.andyworks.streaks • Updated to: 3.35 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocked",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11205.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.38",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Habits  • Bundle ID: com.andyworks.streaks • Updated to: 3.38 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocked",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13202-Not_Boring_Habits_v3_38_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 248826313
+    },
+    {
+     "version": "3.37",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Habits  • Bundle ID: com.andyworks.streaks • Updated to: 3.37 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocked",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12979-Not_Boring_Habits_v3_37_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 248825395
+    },
+    {
+     "version": "3.36",
+     "date": "2026-09-12T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Habits  • Bundle ID: com.andyworks.streaks • Updated to: 3.36 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocked",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12139-Not_Boring_Habits_v3_36_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 248763625
+    }
+   ]
+  }
+ ]
+}

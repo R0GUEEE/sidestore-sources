@@ -1,0 +1,44 @@
+{
+ "name": "365Scores",
+ "identifier": "dev.perapp.com-365scores-365scroesapp",
+ "subtitle": "365Scores",
+ "description": "Single-app source for 365Scores (com.365scores.365scroesapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.365scores.365scroesapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.365scores.365scroesapp",
+   "name": "365Scores",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.365scores.365scroesapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.6.5",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "Be the 1st to Know! 365Scores helps you become an EXPERT OF THE GAME with Live Scores, Pre-Game Stats, In-Depth Data, News Updates, Upcoming Fixtures, Lineups - and everything else you need to stay connected to your favorite players, teams, and competitions.\r\n\r\nJoin over 150 million sports fans who rely on 365Scores for real-time updates and pre-game stats.\r\n\r\n* EXTENSIVE SPORTS COVERAGE\r\nFollow the NFL, NBA, MLB, NHL, MLS, UEFA Champions League, English Premier League, and 2000+ global sports competitions in 10 different types of sports, including top football, soccer, basketball, tennis events and much more – all in one live scores app.\r\n\r\n* LIVE SOCCER RESULTS\r\nGet all the latest soccer news and updates, right at your fingertips! Follow you",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2234",
+     "size": 99530917
+    },
+    {
+     "version": "6.6.3",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "Be the 1st to Know! 365Scores helps you become an EXPERT OF THE GAME with Live Scores, Pre-Game Stats, In-Depth Data, News Updates, Upcoming Fixtures, Lineups - and everything else you need to stay connected to your favorite players, teams, and competitions.\r\n\r\nJoin over 150 million sports fans who rely on 365Scores for real-time updates and pre-game stats.\r\n\r\n* EXTENSIVE SPORTS COVERAGE\r\nFollow the NFL, NBA, MLB, NHL, MLS, UEFA Champions League, English Premier League, and 2000+ global sports competitions in 10 different types of sports, including top football, soccer, basketball, tennis events and much more – all in one live scores app.\r\n\r\n* LIVE SOCCER RESULTS\r\nGet all the latest soccer news and updates, right at your fingertips! Follow you",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2234",
+     "size": 94177945
+    },
+    {
+     "version": "6.3.8",
+     "date": "2025-12-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/365Scores_6.3.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 63620488
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "ImmortalizerTS.1.0b",
+ "identifier": "dev.perapp.com-sergy-immortalizerts",
+ "subtitle": "Immortalizer for TrollStore",
+ "description": "Single-app source for ImmortalizerTS.1.0b (com.sergy.immortalizerts). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/ImmortalizerTS.1.0b.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sergy.immortalizerts",
+   "name": "ImmortalizerTS.1.0b",
+   "developerName": "ImmortalizerTS.1.0b x CyPwn",
+   "subtitle": "Immortalizer for TrollStore",
+   "localizedDescription": "Immortalizer for TrollStore",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/ImmortalizerTS.1.0b.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Immortalizer for TrollStore",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/ImmortalizerTS.1.0b.ipa",
+     "size": 86794
+    }
+   ]
+  }
+ ]
+}

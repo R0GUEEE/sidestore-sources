@@ -1,0 +1,30 @@
+{
+ "name": "SpeakaBoo",
+ "identifier": "dev.perapp.app-speakaboo-com",
+ "subtitle": "@ipa_dark | 🔄 Сбербанк Kids  🇷🇺 Обновлённое приложение сбера для детей, добавленное в appstore под видом другого приложе",
+ "description": "Single-app source for SpeakaBoo (app.speakaboo.com). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1749.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.speakaboo.com",
+   "name": "SpeakaBoo",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Сбербанк Kids  🇷🇺 Обновлённое приложение сбера для детей, добавленное в appstore под видом другого приложения \"Speakaboo\".  ℹ️ Особеннос",
+   "localizedDescription": "@ipa_dark | 🔄 Сбербанк Kids  🇷🇺 Обновлённое приложение сбера для детей, добавленное в appstore под видом другого приложения \"Speakaboo\".  ℹ️ Особеннос\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1749.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Сбербанк Kids  🇷🇺 Обновлённое приложение сбера для детей, добавленное в appstore под видом другого приложения \"Speakaboo\".  ℹ️ Особеннос",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1749-Sber%20kids%20speakaboo%20%28tg@ipa_dark%29.ipa",
+     "size": 123498746
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SMPRO",
+ "identifier": "dev.perapp.com-plusblog-smpro",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for SMPRO (com.plusblog.smpro). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/81/76/a68176c8-8a49-5d9c-b614-8c17b6a49507/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.plusblog.smpro",
+   "name": "SMPRO",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Promở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a6/81/76/a68176c8-8a49-5d9c-b614-8c17b6a49507/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Promở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/smpro_5.6_TTJB.ipa",
+     "size": 284004702
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "QuicheBrowser",
+ "identifier": "dev.perapp.org-quiche-browser",
+ "subtitle": "QuicheBrowser",
+ "description": "Single-app source for QuicheBrowser (org.quiche.Browser). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.quiche.Browser",
+   "name": "QuicheBrowser",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.quiche.Browser.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.71",
+     "date": "2026-07-15T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2178",
+     "size": 93226995
+    },
+    {
+     "version": "1.68.3",
+     "date": "2026-01-20T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/QuicheBrowser_1.68.3_Plus_%40thisismanpreets_apptesters.org.ipa",
+     "size": 86624203
+    }
+   ]
+  }
+ ]
+}

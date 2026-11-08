@@ -1,0 +1,44 @@
+{
+ "name": "YouMod (2.0.0) + Bonus Tweaks (Jayden)",
+ "identifier": "dev.perapp.com-google-ios-youtube-youmod-2-0-0-jayden",
+ "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+ "description": "Single-app source for YouMod (2.0.0) + Bonus Tweaks (Jayden) (com.google.ios.youtube.youmod.2.0.0.jayden). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.jayden",
+   "name": "YouMod (2.0.0) + Bonus Tweaks (Jayden)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+   "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888. Bonus Tweaks include: DontEatMyContent, Gonerino, UncappedAVPlayer, Volume",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.44.4_v2.0.0%5Bjayden%5D.ipa",
+     "size": 133379232
+    },
+    {
+     "version": "21.39.4",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.39.4_v2.0.0%5Bjayden%5D.ipa",
+     "size": 130616843
+    },
+    {
+     "version": "21.38.3",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.38.3_v2.0.0%5Bjayden%5D.ipa",
+     "size": 130739886
+    }
+   ]
+  }
+ ]
+}

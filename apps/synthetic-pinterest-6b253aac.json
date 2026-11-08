@@ -1,0 +1,44 @@
+{
+ "name": "Pinterest",
+ "identifier": "dev.perapp.synthetic-pinterest-6b253aac",
+ "subtitle": "Pinterest",
+ "description": "Single-app source for Pinterest (synthetic.pinterest.6b253aac). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.pinterest.6b253aac",
+   "name": "Pinterest",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.35",
+     "date": "2026-09-10T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- Download Videos, \r\n\r\n- Sponsored Pins Removed",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+     "size": 184236931
+    },
+    {
+     "version": "14.34",
+     "date": "2026-09-04T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- Download Videos, \r\n\r\n- Sponsored Pins Removed",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+     "size": 147364879
+    },
+    {
+     "version": "14.33",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- Download Videos, \r\n\r\n- Sponsored Pins Removed",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+     "size": 151913344
+    }
+   ]
+  }
+ ]
+}

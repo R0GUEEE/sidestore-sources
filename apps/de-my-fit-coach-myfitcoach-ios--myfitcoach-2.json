@@ -1,0 +1,30 @@
+{
+ "name": "Myfitcoach",
+ "identifier": "dev.perapp.de-my-fit-coach-myfitcoach-ios",
+ "subtitle": "Myfitcoach",
+ "description": "Single-app source for Myfitcoach (de.my-fit-coach.myfitcoach-ios). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.my-fit-coach.myfitcoach-ios",
+   "name": "Myfitcoach",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.17.3",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Myfitcoach_1.17.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 175296570
+    }
+   ]
+  }
+ ]
+}

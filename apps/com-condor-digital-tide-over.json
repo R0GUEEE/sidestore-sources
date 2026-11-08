@@ -1,0 +1,30 @@
+{
+ "name": "TideGuide",
+ "identifier": "dev.perapp.com-condor-digital-tide-over",
+ "subtitle": "TideGuide",
+ "description": "Single-app source for TideGuide (com.condor.digital.Tide-Over). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.condor.digital.Tide-Over",
+   "name": "TideGuide",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.3",
+     "date": "2025-09-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/TideGuide_7.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 145243390
+    }
+   ]
+  }
+ ]
+}

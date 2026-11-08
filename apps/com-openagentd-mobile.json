@@ -1,0 +1,43 @@
+{
+ "name": "OpenAgentd",
+ "identifier": "dev.perapp.com-openagentd-mobile",
+ "subtitle": "Open-source desktop app for a local coding agent. Watch every tool call, diff, and terminal command. Bring your own mode",
+ "description": "Single-app source for OpenAgentd (com.openagentd.mobile). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#5ba9e4",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.openagentd.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.openagentd.mobile",
+   "name": "OpenAgentd",
+   "developerName": "lthoangg",
+   "subtitle": "Open-source desktop app for a local coding agent. Watch every tool call, diff, and terminal command. Bring your own models; sessions stay on your machine",
+   "localizedDescription": "Install · Tour ·.\n\nContribute.\n\nOpenAgentd is a desktop app for running a coding agent on your own machine. You give it a folder and a task. It plans, reads, edits, runs your tests, and shows you every step: each tool call with its arguments and timing, every diff, and what each turn costs. You can steer it mid-turn, review its changes before you commit, and use the models and keys you already have.\n\nA real session, unedited: the agent added rate limiting to a small Bun service, ran the suite, and left the changes uncommitted for review.\n\nWhy OpenAgentd:\n\n• Nothing happens off-screen. Tool calls, reasoning, shell output, file edits, todos, tokens and cost stream into one transcript. Collapse it to just the answers with Reader mode when you only want the result.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.openagentd.mobile.png",
+   "tintColor": "#5ba9e4",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/lthoangg/OpenAgentd@main/documents/assets/readme/plan-light.webp",
+    "https://cdn.jsdelivr.net/gh/lthoangg/OpenAgentd@main/documents/assets/readme/subagents-light.webp"
+   ],
+   "versions": [
+    {
+     "version": "3.48.0",
+     "date": "2026-11-06T04:26:31Z",
+     "localizedDescription": "Phone:\n\n• Dialogs and menus open as iOS-style sheets that you can drag between half and full height, with iOS-style alerts for confirmations.\n• Text and touch targets follow Apple's sizes on a phone. The composer is a step more compact, so the message box and run deck take less of the screen.\n• Review opens as its own page, and Tasks as a sheet.\n• Code / Plan is a single toggle, which leaves room for the model chip on narrow screens.\n\nAccounts and limits:\n\n• When a session locked to one account hits that account's usage limit, it now continues on your next available account and returns to the locked account once it resets. It only waits when every account is at its limit.\n• The run picker shows which account is actually serving the session and each of its limits (5-hour, weekly, credits). A limit that has been hit is red, and one above 90% is orange, with reset times on hover. The Auto row is gone.\n\nChat:\n\n• Steering with a different model or thinking level now takes effect from the step that reads the steer, instead of waiting for the next turn.\n• Jump to latest shows only when you have scrolled away from the end. Opening or closing tool rows at the end keeps following the reply.\n• A patch or read row's menu opens the files it touched, and an open web_fetch row shows the full URL.\n• Status labels, dates, close buttons, and menus look the same everywhere, and menus show their keyboard shortcuts.\n\nPerformance:\n\n• The workspace file list updates faster after a change, using half as many git processes.\n• The Server dialog, the task list, and the MCP server list in the + menu load only when you open them, so the app starts faster.",
+     "downloadURL": "https://github.com/lthoangg/OpenAgentd/releases/download/v3.48.0/OpenAgentd_3.48.0_iOS.ipa",
+     "size": 6111803
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.security.application-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "OpenAgentd connects to local OpenAgentd servers on your network.",
+     "NSMicrophoneUsageDescription": "OpenAgentd uses the microphone for voice input.",
+     "NSSpeechRecognitionUsageDescription": "OpenAgentd uses speech recognition to convert your voice input into text."
+    }
+   }
+  }
+ ]
+}

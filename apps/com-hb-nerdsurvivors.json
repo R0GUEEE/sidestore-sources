@@ -1,0 +1,30 @@
+{
+ "name": "Nerd Survivors",
+ "identifier": "dev.perapp.com-hb-nerdsurvivors",
+ "subtitle": "ipaomtk.com | Nerd Survivors IPA v1.0.20240612 is an engaging mobile game that combines elements of roguelike and surviv",
+ "description": "Single-app source for Nerd Survivors (com.hb.nerdsurvivors). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Nerd-Survivors.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hb.nerdsurvivors",
+   "name": "Nerd Survivors",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Nerd Survivors IPA v1.0.20240612 is an engaging mobile game that combines elements of roguelike and survival genres with a quirky, nerdy",
+   "localizedDescription": "ipaomtk.com | Nerd Survivors IPA v1.0.20240612 is an engaging mobile game that combines elements of roguelike and survival genres with a quirky, nerdy",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Nerd-Survivors.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.20240612",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Nerd Survivors IPA v1.0.20240612 is an engaging mobile game that combines elements of roguelike and survival genres with a quirky, nerdy",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Nerd_Survivors-v1.0.20240612-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

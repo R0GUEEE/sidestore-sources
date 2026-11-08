@@ -1,0 +1,30 @@
+{
+ "name": "VivaVideo",
+ "identifier": "dev.perapp.com-quvideo-xiaoying",
+ "subtitle": "VivaVideo by Holloway",
+ "description": "Single-app source for VivaVideo (com.quvideo.XiaoYing). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761379928.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.quvideo.XiaoYing",
+   "name": "VivaVideo",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://appstore.sidelix.vip/images/1761379928.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.27.0",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1609",
+     "size": 124614837
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Shoof",
+ "identifier": "dev.perapp.com-unknown-shoof",
+ "subtitle": "ئەپڵیکەیشنێک بۆ سەیرکردنی یارییەکان و بەرنامە تەلەفزیۆنییەکان ✅  بەبێ ڕیکلام ✅",
+ "description": "Single-app source for Shoof (com.unknown.shoof). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/shoof.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.shoof",
+   "name": "Shoof",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپڵیکەیشنێک بۆ سەیرکردنی یارییەکان و بەرنامە تەلەفزیۆنییەکان ✅  بەبێ ڕیکلام ✅",
+   "localizedDescription": "ئەپڵیکەیشنێک بۆ سەیرکردنی یارییەکان و بەرنامە تەلەفزیۆنییەکان ✅  بەبێ ڕیکلام ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/shoof.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.12",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "ئەپڵیکەیشنێک بۆ سەیرکردنی یارییەکان و بەرنامە تەلەفزیۆنییەکان ✅  بەبێ ڕیکلام ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/Shoof_2.0.12_DEV.ipa",
+     "size": 20990000
+    }
+   ]
+  }
+ ]
+}

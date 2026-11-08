@@ -1,0 +1,44 @@
+{
+ "name": "Lake",
+ "identifier": "dev.perapp.com-lake-coloring",
+ "subtitle": "@blatants | Lake: Coloring Book for Adults  • Bundle ID: com.lake.coloring • Updated to: 4.30.0 • Minimum iOS: 18.0 • Pa",
+ "description": "Single-app source for Lake (com.lake.coloring). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11397.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lake.coloring",
+   "name": "Lake",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | Lake: Coloring Book for Adults  • Bundle ID: com.lake.coloring • Updated to: 4.30.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscription",
+   "localizedDescription": "@blatants | Lake: Coloring Book for Adults  • Bundle ID: com.lake.coloring • Updated to: 4.30.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscription",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11397.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.0",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@blatants | Lake: Coloring Book for Adults  • Bundle ID: com.lake.coloring • Updated to: 5.0.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscription ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12953-Lake_Coloring_Book_for_Adults_v5_0_0_Subscription_Unlocked_blatant.ipa",
+     "size": 212783233
+    },
+    {
+     "version": "4.32.0",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "@blatants | Lake: Coloring Book for Adults  • Bundle ID: com.lake.coloring • Updated to: 4.32.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12382-Lake_Coloring_Book_for_Adults_v4_32_0_Subscription_Unlocked_blatant.ipa",
+     "size": 207585084
+    },
+    {
+     "version": "4.31.1",
+     "date": "2026-08-29T00:00:00Z",
+     "localizedDescription": "@blatants | Lake: Coloring Book for Adults  • Bundle ID: com.lake.coloring • Updated to: 4.31.1 • Minimum iOS: 18.0 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11854-Lake_Coloring_Book_for_Adults_v4_31_1_Subscription_Unlocked_blatant.ipa",
+     "size": 207044655
+    }
+   ]
+  }
+ ]
+}

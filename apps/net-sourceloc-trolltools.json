@@ -1,0 +1,44 @@
+{
+ "name": "TrollTools",
+ "identifier": "dev.perapp.net-sourceloc-trolltools",
+ "subtitle": "In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa Last updated: 01-04-20",
+ "description": "Single-app source for TrollTools (net.sourceloc.TrollTools). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.sourceloc.TrollTools",
+   "name": "TrollTools",
+   "developerName": "sourcelocation",
+   "subtitle": "In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa Last updated: 01-04-2023 Status: ✅",
+   "localizedDescription": "In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa Last updated: 01-04-2023 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa Last updated: 01-04-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.ipa",
+     "size": 4372418
+    },
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa Last updated: 01-04-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TrollTools.ipa",
+     "size": 1592733
+    },
+    {
+     "version": "2.1.2",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "In short, an alternative to Mugunghwa. Use this if the other one gives you issues, and vice versa Last updated: 01-04-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TrollTools.ipa",
+     "size": 1592733
+    }
+   ]
+  }
+ ]
+}

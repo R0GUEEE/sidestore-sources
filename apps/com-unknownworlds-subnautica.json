@@ -1,0 +1,37 @@
+{
+ "name": "Subnautica",
+ "identifier": "dev.perapp.com-unknownworlds-subnautica",
+ "subtitle": "ipaomtk.com | Subnautica IPA v1.23 has captivated gamers‍ worldwide with its immersive underwater survival​ experience, ",
+ "description": "Single-app source for Subnautica (com.UnknownWorlds.Subnautica). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Subnautica-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.UnknownWorlds.Subnautica",
+   "name": "Subnautica",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Subnautica IPA v1.23 has captivated gamers‍ worldwide with its immersive underwater survival​ experience, and now⁣ it brings ⁤its depths",
+   "localizedDescription": "ipaomtk.com | Subnautica IPA v1.23 has captivated gamers‍ worldwide with its immersive underwater survival​ experience, and now⁣ it brings ⁤its depths",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Subnautica-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.22.83813",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Subnatica - appstore  🇷🇺 Приключенческая игра на выживание в открытом подводном мире, где нужно исследовать океан чужой планеты, собират",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1830-Subnatica%20%5Bv1.2.6%5D%28tg@ipa_dark%29.ipa",
+     "size": 1852761755
+    },
+    {
+     "version": "1.21.82924",
+     "date": "2025-07-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Subnautica IPA v1.23 has captivated gamers‍ worldwide with its immersive underwater survival​ experience, and now⁣ it brings ⁤its depths",
+     "downloadURL": "https://file.ipaomtk.com/subnautica/Subnautica-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

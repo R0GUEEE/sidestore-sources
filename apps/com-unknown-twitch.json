@@ -1,0 +1,30 @@
+{
+ "name": "Twitch",
+ "identifier": "dev.perapp.com-unknown-twitch",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️   لابردنی ڕیکلام لە بەرنامەکا ✅  توانای ستریم کردنی یارییە ئۆنلاین و ئۆفلاینەکان ✅  توانا",
+ "description": "Single-app source for Twitch (com.unknown.twitch). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Twitch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.twitch",
+   "name": "Twitch",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️   لابردنی ڕیکلام لە بەرنامەکا ✅  توانای ستریم کردنی یارییە ئۆنلاین و ئۆفلاینەکان ✅  توانای ئەرشیفکردنی ڤیدیۆ ✅  توانای ",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️   لابردنی ڕیکلام لە بەرنامەکا ✅  توانای ستریم کردنی یارییە ئۆنلاین و ئۆفلاینەکان ✅  توانای ئەرشیفکردنی ڤیدیۆ ✅  توانای ",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Twitch.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.8",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️   لابردنی ڕیکلام لە بەرنامەکا ✅  توانای ستریم کردنی یارییە ئۆنلاین و ئۆفلاینەکان ✅  توانای ئەرشیفکردنی ڤیدیۆ ✅  توانای ",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Twitch21.8.ipa",
+     "size": 87370000
+    }
+   ]
+  }
+ ]
+}

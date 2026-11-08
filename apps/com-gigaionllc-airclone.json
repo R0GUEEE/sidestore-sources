@@ -1,0 +1,43 @@
+{
+ "name": "Airclone",
+ "identifier": "dev.perapp.com-gigaionllc-airclone",
+ "subtitle": "Airclone - Rclone UI. A modern, cross-platform desktop and mobile interface for rclone: browse, transfer, sync, back up ",
+ "description": "Single-app source for Airclone (com.gigaionllc.airclone). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2072c7",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.gigaionllc.airclone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gigaionllc.airclone",
+   "name": "Airclone",
+   "developerName": "GigaionLLC",
+   "subtitle": "Airclone - Rclone UI. A modern, cross-platform desktop and mobile interface for rclone: browse, transfer, sync, back up and mount 70+ cloud storage systems, or serve the whole app to a browser. Free, ",
+   "localizedDescription": "🚧 New project, still in beta:\n\nAirclone is young software, and we are working through making every feature stable on every platform it ships to.\n\nIssues are welcome, and encouraged — [open one.\n\n(Settings → Diagnostics → Problem report → Copy report): it names your version, platform and package, and secrets are stripped as it is recorded. For a security problem, please use Report a vulnerability under the Security tab instead of a public issue.\n\nQuestions, ideas and how-tos go in Discussions — ask how to set up a remote, suggest a feature, or show what you built with it. Issues stay for things that are broken.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.gigaionllc.airclone.png",
+   "tintColor": "#2072c7",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/GigaionLLC/Airclone@main/docs/screenshots/webui-phone.png",
+    "https://cdn.jsdelivr.net/gh/GigaionLLC/Airclone@main/docs/screenshots/android-files.png",
+    "https://cdn.jsdelivr.net/gh/GigaionLLC/Airclone@main/docs/screenshots/android-browser.png",
+    "https://cdn.jsdelivr.net/gh/GigaionLLC/Airclone@main/docs/screenshots/android-automation.png",
+    "https://cdn.jsdelivr.net/gh/GigaionLLC/Airclone@main/docs/screenshots/android-backup-wizard.png"
+   ],
+   "versions": [
+    {
+     "version": "0.31.1",
+     "date": "2026-11-06T22:32:23Z",
+     "localizedDescription": "The rclone engine moves to 1.76.0:\n\nAirclone now ships rclone 1.76.0, which is mostly a security and data-safety update. Nothing changes in how you use the app, and your remotes keep working as they are.\n\n• Security: rclone is built with Go 1.27.3 and updated network and compression libraries, which fix several published vulnerabilities. A redirect from HTTPS to plain HTTP is now refused, and sign-in details no longer follow a redirect to another host on the storage types that leaked them. Local file operations can no longer be tricked by a planted symlink into deleting or changing files outside the folder you chose.\n• Don't lose files on rename: renaming a file so that only its letter case or Unicode form changes, or moving a file onto its own name, could delete it. Both are fixed.\n\n• New storage types: Dosya and Infomaniak kDrive appear in the Add remote list.\n\nNotes:\n\n• In filters, now negates a character set and [^.] no longer matches /. If you wrote a filter that relied on the old meaning, check it.\n• A server that redirects from HTTPS down to plain HTTP now fails instead of being followed. Moving that server to HTTPS is the fix.\n• The new rclone index command is blocked in the in-app console for now, because it writes listing files into a remote.",
+     "downloadURL": "https://github.com/GigaionLLC/Airclone/releases/download/v0.31.1/airclone-ios-unsigned.ipa",
+     "size": 44529408
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Airclone uses the camera only to scan a configuration QR code you generate yourself. Nothing is recorded or sent anywhere.",
+     "NSFaceIDUsageDescription": "Airclone uses Face ID to unlock your encrypted rclone configuration on this device."
+    }
+   }
+  }
+ ]
+}

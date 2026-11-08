@@ -1,0 +1,41 @@
+{
+ "name": "NeoBili",
+ "identifier": "dev.perapp.com-elsterlee-neobili",
+ "subtitle": "A SwiftUI Bilibili client for iOS 26+, powered by MPVKit",
+ "description": "Single-app source for NeoBili (com.elsterlee.NeoBili). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#fd79b5",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.elsterlee.NeoBili.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.elsterlee.NeoBili",
+   "name": "NeoBili",
+   "developerName": "Fab1e2000",
+   "subtitle": "A SwiftUI Bilibili client for iOS 26+, powered by MPVKit",
+   "localizedDescription": "NeoBili:\n\nA native, third-party Bilibili client for iPhone.\n\nBuilt with SwiftUI · Liquid Glass on iOS 26 · Powered by MPVKit.\n\nScreenshots:\n\nNeoBili is an unofficial client developed independently by an individual. It is not affiliated with, authorized, or endorsed by Bilibili. It is free, for personal and educational use only, and may not be used commercially. Please read the Disclaimer before use.\n\nWhy NeoBili:\n\nBilibili is one of the largest video and live-streaming communities in China. NeoBili is an iPhone client for it written entirely in SwiftUI and Swift 6. It follows iOS conventions and Liquid Glass instead of mirroring a cross-platform design, and it collects no data.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.elsterlee.NeoBili.png",
+   "tintColor": "#fd79b5",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Fab1e2000/NeoBili@main/docs/images/home.webp",
+    "https://cdn.jsdelivr.net/gh/Fab1e2000/NeoBili@main/docs/images/following.webp",
+    "https://cdn.jsdelivr.net/gh/Fab1e2000/NeoBili@main/docs/images/live.webp",
+    "https://cdn.jsdelivr.net/gh/Fab1e2000/NeoBili@main/docs/images/video.webp"
+   ],
+   "versions": [
+    {
+     "version": "1.3.2",
+     "date": "2026-11-03T03:14:15Z",
+     "localizedDescription": "构建信息：提交 617b2a6，Xcode 27.1 Build version 27A9275，由 GitHub Actions 构建。.",
+     "downloadURL": "https://github.com/Fab1e2000/NeoBili/releases/download/v1.3.2/NeoBili-v1.3.2-unsigned.ipa",
+     "size": 134891889
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "保存登录二维码到相册，便于在哔哩哔哩 App 的扫一扫里从相册识别登录。"
+    }
+   }
+  }
+ ]
+}

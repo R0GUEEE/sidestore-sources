@@ -1,0 +1,30 @@
+{
+ "name": "YouTube.MUCIC",
+ "identifier": "dev.perapp.synthetic-youtube-mucic-38527d55",
+ "subtitle": "YouTube.MUCIC by Karbin-Store",
+ "description": "Single-app source for YouTube.MUCIC (synthetic.youtube-mucic.38527d55). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/YouTube.MUCIC.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.youtube-mucic.38527d55",
+   "name": "YouTube.MUCIC",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "➜ Delete the original and then download PLUS                                                                          ➜ playback and download music and all the features work ",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/YouTube.MUCIC.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.24.2",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "➜ Delete the original and then download PLUS                                                                          ➜ playback and download music and all the features work ",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Y-MUSIC.7.24.2.ipa",
+     "size": 70260000
+    }
+   ]
+  }
+ ]
+}

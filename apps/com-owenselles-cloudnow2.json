@@ -1,0 +1,39 @@
+{
+ "name": "CloudNow2",
+ "identifier": "dev.perapp.com-owenselles-cloudnow2",
+ "subtitle": "A native GeForce NOW client for Apple TV and Apple Vision Pro. Stream your entire PC game library directly on tvOS and V",
+ "description": "Single-app source for CloudNow2 (com.owenselles.CloudNow2). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.owenselles.CloudNow2",
+   "name": "CloudNow2",
+   "developerName": "owenselles",
+   "subtitle": "A native GeForce NOW client for Apple TV and Apple Vision Pro. Stream your entire PC game library directly on tvOS and VisionOS with full controller support, no browser, no workarounds",
+   "localizedDescription": "CloudNow:\n\nCloudNow is a native cloud gaming app for Apple TV. GeForce NOW and Xbox Cloud Gaming run as separate provider modes behind one tvOS interface. Each provider keeps its own account, catalog, settings, session, signaling, quality, and input behavior.\n\nIndependent, unofficial client. This project is not affiliated with, endorsed by, or sponsored by NVIDIA or Microsoft. NVIDIA and GeForce NOW are trademarks of NVIDIA Corporation. Microsoft, Xbox, and Xbox Cloud Gaming are trademarks of the Microsoft group of companies. CloudNow is distributed through TestFlight, release IPA files, and source builds. It is not available from the App Store.\n\nJoin the public beta without sideloading or Xcode:\n\nJoin TestFlight Beta.\n\nOption B: Pre-built IPA:\n\nDownload the latest CloudNow.ipa from.\n\nwith Sideloadly or AltServer. Sideloadly can sign the IPA with a free Apple ID.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/owenselles/CloudNow@main/App%20Store%20Media/Screenshot%201.png"
+   ],
+   "versions": [
+    {
+     "version": "2026.10.29",
+     "date": "2026-10-29T14:14:27Z",
+     "localizedDescription": "• GFN fix: Restore native streaming capabilities.",
+     "downloadURL": "https://github.com/owenselles/CloudNow/releases/download/v2026.10.29-4042dbd/CloudNow.ipa",
+     "size": 16375748
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "CloudNow does not use the camera. This string is required because a linked SDK references camera APIs.",
+     "NSMicrophoneUsageDescription": "CloudNow uses the microphone for voice chat during game sessions."
+    }
+   }
+  }
+ ]
+}

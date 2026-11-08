@@ -1,0 +1,30 @@
+{
+ "name": "Drift",
+ "identifier": "dev.perapp.com-roadburngames-driftrunner",
+ "subtitle": "ipaomtk.com | Looking for an adrenaline-filled racing game that will keep you hooked for hours? Look no further than Dri",
+ "description": "Single-app source for Drift (com.RoadburnGames.DriftRunner). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Drift-Runner-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.RoadburnGames.DriftRunner",
+   "name": "Drift",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Looking for an adrenaline-filled racing game that will keep you hooked for hours? Look no further than Drift Runner IPA for iOS. This ex",
+   "localizedDescription": "ipaomtk.com | Looking for an adrenaline-filled racing game that will keep you hooked for hours? Look no further than Drift Runner IPA for iOS. This ex",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Drift-Runner-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.016",
+     "date": "2024-01-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Looking for an adrenaline-filled racing game that will keep you hooked for hours? Look no further than Drift Runner IPA for iOS. This ex",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Drift-Runner.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

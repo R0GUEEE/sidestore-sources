@@ -1,0 +1,44 @@
+{
+ "name": "ShowMania",
+ "identifier": "dev.perapp.com-showmania-co",
+ "subtitle": "Yet another HDO Play under a different name, modded for no ads Last updated: 06-25-2023 Status: ⚠️",
+ "description": "Single-app source for ShowMania (com.showmania.co). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.showmania.co.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.showmania.co",
+   "name": "ShowMania",
+   "developerName": "DPixel / Manpreet Singh @thisismanpreets",
+   "subtitle": "Yet another HDO Play under a different name, modded for no ads Last updated: 06-25-2023 Status: ⚠️",
+   "localizedDescription": "Yet another HDO Play under a different name, modded for no ads Last updated: 06-25-2023 Status: ⚠️",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.showmania.co.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Yet another HDO Play under a different name, modded for no ads Last updated: 06-25-2023 Status: ⚠️",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/ShowMania-2.0.ipa",
+     "size": 10786654
+    },
+    {
+     "version": "1.2",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Yet another HDO Play under a different name, modded for no ads Last updated: 06-25-2023 Status: ⚠️",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2023/ShowMania-1.2.ipa",
+     "size": 19160142
+    },
+    {
+     "version": "1.0.5",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Yet another HDO Play under a different name, modded for no ads Last updated: 06-25-2023 Status: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ShowMania/ShowMania-1.0.5.ipa",
+     "size": 17483418
+    }
+   ]
+  }
+ ]
+}

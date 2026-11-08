@@ -1,0 +1,44 @@
+{
+ "name": "ApolloICA",
+ "identifier": "dev.perapp.com-christianselig-apollo",
+ "subtitle": "ApolloICA by zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
+ "description": "Single-app source for ApolloICA (com.christianselig.Apollo). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.christianselig.Apollo",
+   "name": "ApolloICA",
+   "developerName": "zxcvbn's tweaked IPAs / JeffreyCA / Balackburn",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.christianselig.Apollo.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15.11-1.0.10",
+     "date": "2024-10-08T00:00:00Z",
+     "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: ✅ ❔",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ApolloICA/ApolloICA-1.15.11-1.0.10.ipa",
+     "size": 108157865
+    },
+    {
+     "version": "1.15.11-1.1.2",
+     "date": "2024-10-08T00:00:00Z",
+     "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: ✅ ❔",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ApolloICA/ApolloICA-1.15.11-1.1.2.ipa",
+     "size": 108281915
+    },
+    {
+     "version": "1.15.11-1.1.4",
+     "date": "2024-10-08T00:00:00Z",
+     "localizedDescription": "Apollo + Apollo-ImprovedCustomApi, resolves any issues with Imgur loading that may have been caused by other tweaks. Note: I added this app upon request but I'm not familiar with its usage at all so if you come across any issues with the app, I won't be able to provide assistance.\nLast updated: 08-02-2024\nStatus: ✅ ❔",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ApolloICA/ApolloICA-1.15.11-1.1.4.ipa",
+     "size": 108282533
+    }
+   ]
+  }
+ ]
+}

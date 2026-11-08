@@ -1,0 +1,30 @@
+{
+ "name": "TikTok",
+ "identifier": "dev.perapp.com-zhiliaoapp-musically",
+ "subtitle": "TikTok",
+ "description": "Single-app source for TikTok (com.zhiliaoapp.musically). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zhiliaoapp.musically",
+   "name": "TikTok",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with BHTikTokPlus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "38.4.0",
+     "date": "2025-02-07T00:00:00Z",
+     "localizedDescription": "Injected with BHTikTokPlus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/TikTok_38.4.0_BHTikTokPlus_%40thisismanpreets_apptesters.org.ipa",
+     "size": 377625876
+    }
+   ]
+  }
+ ]
+}

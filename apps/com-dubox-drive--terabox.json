@@ -1,0 +1,44 @@
+{
+ "name": "TeraBox",
+ "identifier": "dev.perapp.com-dubox-drive",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for TeraBox (com.dubox.drive). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dubox.drive",
+   "name": "TeraBox",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dubox.drive.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.8.5",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-11-2025/TeraBox_4.8.5_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 191279728
+    },
+    {
+     "version": "4.7.1",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-10-2025/TeraBox_4.7.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 190246445
+    },
+    {
+     "version": "4.3.9",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-08-2025/TeraBox_4.3.9_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 140381600
+    }
+   ]
+  }
+ ]
+}

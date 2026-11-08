@@ -1,0 +1,42 @@
+{
+ "name": "PKG Sender",
+ "identifier": "dev.perapp.com-pkgsender-app",
+ "subtitle": "PKG Sender is a native iOS app for managing and sending PS4 PKG files",
+ "description": "Single-app source for PKG Sender (com.pkgsender.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#456cca",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.pkgsender.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pkgsender.app",
+   "name": "PKG Sender",
+   "developerName": "T2oDna11",
+   "subtitle": "PKG Sender is a native iOS app for managing and sending PS4 PKG files",
+   "localizedDescription": "Send PS4 PKG files directly from your iPhone — over Network or USB.:\n\nPKG Sender is a native iOS app for managing and sending PS4 PKG files. It supports traditional local-network transfers through Remote Package Installer and USB transfers using the built-in Payload v1.0.\n\niOS 16+ · Arabic & English · Network + USB transfer.\n\nFeatures:\n\n• USB PKG transfer with built-in Payload v1.0.\n• Network PKG transfer through PS4 Remote Package Installer.\n• GAME, UPDATE, and DLC package support.\n• Built-in PKG Library with metadata and artwork.\n• Game Hub with per-game Network / USB transfer selection.\n• Transfer queue with live progress, speed, and ETA.\n• Transfer History with:.\n\n• Completed and cancelled transfers.\n• Transfer type — USB / Network.\n• Average speed.\n• Peak speed.\n• Transfer time.\n• Package metadata.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.pkgsender.app.png",
+   "tintColor": "#456cca",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/T2oDna11/PKGSender@main/assets/home-network.jpg",
+    "https://cdn.jsdelivr.net/gh/T2oDna11/PKGSender@main/assets/home-usb.jpg",
+    "https://cdn.jsdelivr.net/gh/T2oDna11/PKGSender@main/assets/library.jpg",
+    "https://cdn.jsdelivr.net/gh/T2oDna11/PKGSender@main/assets/game-hub.jpg",
+    "https://cdn.jsdelivr.net/gh/T2oDna11/PKGSender@main/assets/history-usb.jpg"
+   ],
+   "versions": [
+    {
+     "version": "2.0.0",
+     "date": "2026-10-30T03:59:20Z",
+     "localizedDescription": "PKG Sender v2.0.0:\n\nA major update to PKG Sender for iOS.\n\nPKG Sender now supports both USB and Network PKG transfers to PS4, along with a redesigned Library, Game Hub, improved transfer history, and more.\n\nWhat's New:\n\n• 🔌 USB PKG Transfer.\n\n• Built-in Payload v1.0.\n• Direct USB transfer from iPhone/iPad to PS4.\n• No network required for USB transfers.\n\n🌐 Network Transfer.\n\n• Remote Package Installer (RPI) mode remains available.\n• Easily switch between Network and USB.\n\n🎮 Game Hub.\n\n• Dedicated page for each game.\n• Base Game, Updates and DLCs grouped together.\n• Send directly using Network or USB.\n\n📚 Library.\n\n• Redesigned PKG library.\n• Game artwork and package metadata.\n• GAME / UPDATE / DLC organization.\n• Local file availability tracking.\n\n📊 Improved Transfer History.\n\n• USB / Network transfer type.\n• Average speed.\n• Peak speed.\n• Transfer duration.\n• Package information and status.\n\n🛠 Tools & Improvements.\n\n• FTP tools.\n• Updated interface and appearance options.\n• Arabic and English support.\n• Stability and UI improvements.\n\nUSB Performance:\n\nTested with large PKG files.\n\n57.6 GB completed transfer.\n\n• Average: 21.8 MB/s.\n• Peak: 26.2 MB/s.\n• Time: 45m 45s.\n\nPeak speeds of up to 28.3 MB/s were also observed during testing.\n\nTransfer performance may vary depending on the device, USB connection, PS4 and system conditions.\n\nRequirements:\n\n• iOS 16 or later.\n• Compatible PS4 environment.\n• TrollStore or another compatible IPA installation/signing method.\n\nFor Network mode, Remote Package Installer must be running on the PS4.\n\nFor USB mode, use the included Payload v1.0 from inside PKG Sender.\n\nDownload PKGSender-unsigned.ipa from the Assets section below and install it using your preferred compatible method.\n\nThis release represents a major upgrade from PKG Sender v1.0.0 while keeping Network transfer available alongside the new USB workflow.\n\nThe previous v1.0.0 release remains available for rollback.",
+     "downloadURL": "https://github.com/T2oDna11/PKGSender/releases/download/v2.0.0/PKGSender.ipa",
+     "size": 4855911
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "PKG Sender needs local network access to communicate with your PlayStation."
+    }
+   }
+  }
+ ]
+}

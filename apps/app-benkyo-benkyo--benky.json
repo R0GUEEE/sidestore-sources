@@ -1,0 +1,44 @@
+{
+ "name": "Benky",
+ "identifier": "dev.perapp.app-benkyo-benkyo",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Benky (app.benkyo.Benkyo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.benkyo.Benkyo",
+   "name": "Benky",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.benkyo.Benkyo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Learn Japanese Kanji: Benkyō 🧸 Min.iOS: [15.0+] 🧀 App version: [2.7] !upd  🪼 App Store: https://apps.apple.com/app/id1541592138 📮 Notes: ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15631-%E2%80%8E%20Benky%C5%8D_v2.7_tg@Sa1y0miii.ipa",
+     "size": 117021071
+    },
+    {
+     "version": "2.5.1",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-11-2025/Benky_2.5.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 109855952
+    },
+    {
+     "version": "2.4.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Benky_2.4.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 104453539
+    }
+   ]
+  }
+ ]
+}

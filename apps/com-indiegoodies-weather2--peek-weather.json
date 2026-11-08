@@ -1,0 +1,44 @@
+{
+ "name": "Peek Weather",
+ "identifier": "dev.perapp.com-indiegoodies-weather2",
+ "subtitle": "Peek Weather",
+ "description": "Single-app source for Peek Weather (com.indiegoodies.Weather2). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/aa878a84-bb67-4592-b4cf-2aa929b9de2d/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.indiegoodies.Weather2",
+   "name": "Peek Weather",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Peek Weather - Rain Forecast\n\nTweak: Subscription Unlocked\n\nVersion: 1.4.2\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/aa878a84-bb67-4592-b4cf-2aa929b9de2d/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.1",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1663",
+     "size": 227752305
+    },
+    {
+     "version": "1.4.2",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Peek Weather - Rain Forecast\n\nTweak: Subscription Unlocked\n\nVersion: 1.4.2\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/b26baa6b-39e3-4b6a-8e26-990b9d12c53a/Peek_Weather_-_Rain_Forecast-v1.4.2-riftysipas.ipa",
+     "size": 228539359
+    },
+    {
+     "version": "1.4.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Peek Weather - Rain Forecast\n\nTweak: Subscription Unlocked\n\nVersion: 1.4.0\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/bbc4dbf6-d89b-4d03-9056-625ca6cf0376/peek_weather_rain_forecast-v1.4.0-riftysipas.ipa",
+     "size": 227957578
+    }
+   ]
+  }
+ ]
+}

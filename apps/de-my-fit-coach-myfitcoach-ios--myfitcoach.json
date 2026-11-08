@@ -1,0 +1,44 @@
+{
+ "name": "MyFitCoach",
+ "identifier": "dev.perapp.de-my-fit-coach-myfitcoach-ios",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for MyFitCoach (de.my-fit-coach.myfitcoach-ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.my-fit-coach.myfitcoach-ios",
+   "name": "MyFitCoach",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.my-fit-coach.myfitcoach-ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.18.5",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-08-2025/MyFitCoach_1.18.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 206049231
+    },
+    {
+     "version": "1.20.2",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-12-2025/MyFitCoach_1.20.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 175288351
+    },
+    {
+     "version": "1.18.4",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-08-2025/MyFitCoach_1.18.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 178184059
+    }
+   ]
+  }
+ ]
+}

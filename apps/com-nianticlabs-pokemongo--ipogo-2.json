@@ -1,0 +1,30 @@
+{
+ "name": "ipogo",
+ "identifier": "dev.perapp.com-nianticlabs-pokemongo",
+ "subtitle": "ipogo by ipogo",
+ "description": "Single-app source for ipogo (com.nianticlabs.pokemongo). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nianticlabs.pokemongo",
+   "name": "ipogo",
+   "developerName": "ipogo",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.nianticlabs.pokemongo.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6.0",
+     "date": "2024-11-14T00:00:00Z",
+     "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-15-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/ipogo-3.6.0.ipa",
+     "size": 149124005
+    }
+   ]
+  }
+ ]
+}

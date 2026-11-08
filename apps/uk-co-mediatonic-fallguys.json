@@ -1,0 +1,37 @@
+{
+ "name": "Fall Guys",
+ "identifier": "dev.perapp.uk-co-mediatonic-fallguys",
+ "subtitle": "Fall Guys, outside of the EU!",
+ "description": "Single-app source for Fall Guys (uk.co.mediatonic.fallguys). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-ky.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.co.mediatonic.fallguys",
+   "name": "Fall Guys",
+   "developerName": "Epic Games",
+   "subtitle": "Fall Guys, outside of the EU!",
+   "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/fall_guys_mobile_icon_v0_d3n68howgkhd1-ky.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.3.0",
+     "date": "2026-01-01T00:00:00Z",
+     "localizedDescription": "Sideloading allows for this to be played outside of the EU! Unlike Fortnite, no special entitlements are required.\n\nStatus: ✅🔥",
+     "downloadURL": "https://github.com/FilipinoRepo/The-Filipino-Repository/releases/download/fall-guys/FallGuys-11.3.0.ipa",
+     "size": 195238232
+    },
+    {
+     "version": "11.2.0",
+     "date": "2024-08-24T18:34:10Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/atellies/EpicGamesStoreIPA/releases/download/meoww/Fall.Guys-11.2.0.ipa",
+     "size": 1712640000
+    }
+   ]
+  }
+ ]
+}

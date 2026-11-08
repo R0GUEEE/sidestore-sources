@@ -1,0 +1,30 @@
+{
+ "name": "Hero Adventure",
+ "identifier": "dev.perapp.com-unknown-heroadventure",
+ "subtitle": "تایبەتمەندیەکانی هاککردن: دراوی بێ سنوور",
+ "description": "Single-app source for Hero Adventure (com.unknown.heroadventure). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Hero.Adventure.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.heroadventure",
+   "name": "Hero Adventure",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندیەکانی هاککردن: دراوی بێ سنوور",
+   "localizedDescription": "تایبەتمەندیەکانی هاککردن: دراوی بێ سنوور",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Hero.Adventure.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.66.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "تایبەتمەندیەکانی هاککردن: دراوی بێ سنوور",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Hero.Adventure_0.66.0_DEV.ipa",
+     "size": 315550000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Cuda",
+ "identifier": "dev.perapp.com-veikkaheiskanen-cuda",
+ "subtitle": "An Apple Silicon music player with a Liquid Glass-inspired interface, Spotify playback, YouTube and SoundCloud, a person",
+ "description": "Single-app source for Cuda (com.veikkaheiskanen.Cuda). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#30bd94",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.veikkaheiskanen.Cuda.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.veikkaheiskanen.Cuda",
+   "name": "Cuda",
+   "developerName": "veikkaheiskanen",
+   "subtitle": "An Apple Silicon music player with a Liquid Glass-inspired interface, Spotify playback, YouTube and SoundCloud, a personal Shelf, and a native equalizer. Built by veikkaheiskanen",
+   "localizedDescription": "Cuda:\n\nYour music. A little more calm.\n\nCuda is a music player for Apple Silicon, built by veikkaheiskanen. A native SwiftUI interface with Apple’s actual Liquid Glass brings Spotify, YouTube, YouTube Music, SoundCloud, optional Audius, and your own audio files into one place.\n\nBuilt with help from ChatGPT.\n\nKeep Mac and iPhone together with Settings → Device sync: one-time QR/link pairing, automatic offline audio transfer, and two-way playlists and favourites. Sync uses an authenticated encrypted local connection; the same pairing automatically connects iPhone YouTube and SoundCloud playback, with no separate companion command. Setup.\n\nA place for every song:\n\n• Home, made personal. Recommendations, recently played music, and playlists are always close by. Genres come from your listening history; recent listening, favourites and playlists shape what appears next.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.veikkaheiskanen.Cuda.png",
+   "tintColor": "#30bd94",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/veikkaheiskanen/Cuda@main/docs/images/cuda-native-home.png",
+    "https://cdn.jsdelivr.net/gh/veikkaheiskanen/Cuda@main/docs/images/cuda-native-shelf.png",
+    "https://cdn.jsdelivr.net/gh/veikkaheiskanen/Cuda@main/docs/images/cuda-native-player.png",
+    "https://cdn.jsdelivr.net/gh/veikkaheiskanen/Cuda@main/docs/images/cuda-native-promo-shelf.png",
+    "https://cdn.jsdelivr.net/gh/veikkaheiskanen/Cuda@main/docs/images/cuda-native-promo-player.png"
+   ],
+   "versions": [
+    {
+     "version": "1.1.4",
+     "date": "2026-10-12T08:11:06Z",
+     "localizedDescription": "Home learns your music. Turn services on or off, choose a genre from Last played, and discover new recordings with fewer repeats.\n\n• Streaming service choices apply to this iPhone or iPad. Disabled sources stay out of search and automatic playback, while offline music remains usable.\n• Optional Audius catalog and playback through the paired Mac. Update the Mac to Cuda 1.0.11 for the new discovery and service controls.\n\n• Adaptive genre controls keep Home readable with large text and on small screens.\n\nInstallation: this is an unsigned IPA for Sideloadly. Downloading an update cannot install it automatically: Sideloadly still needs to sign and install it. Your existing Shelf is retained when updating the same installed bundle ID. Spotify playback still requires separate authorization in Spotify and a correctly registered installed bundle ID.\n\nValidation: 22 unit and integration checks, a native playback/UI test, and 12 iPhone/iPad layout captures. Physical-device Spotify authorization is not verified by the simulator.",
+     "downloadURL": "https://github.com/veikkaheiskanen/Cuda/releases/download/ios-v1.1.4/Cuda-1.1.4-ios-unsigned.ipa",
+     "size": 3788113
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Sync favourites, playlists and offline songs with your paired Cuda Mac, and connect to its audio companion."
+    }
+   }
+  }
+ ]
+}

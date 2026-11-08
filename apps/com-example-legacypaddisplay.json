@@ -1,0 +1,36 @@
+{
+ "name": "LegacyPadDisplay",
+ "identifier": "dev.perapp.com-example-legacypaddisplay",
+ "subtitle": "Built and running for real on an iPad Air (Model A1475, iOS 12.5.8), over a Lightning cable and over Wi-Fi",
+ "description": "Single-app source for LegacyPadDisplay (com.example.legacypaddisplay). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#57a7ed",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.example.legacypaddisplay.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.example.legacypaddisplay",
+   "name": "LegacyPadDisplay",
+   "developerName": "cuongpham1",
+   "subtitle": "Built and running for real on an iPad Air (Model A1475, iOS 12.5.8), over a Lightning cable and over Wi-Fi",
+   "localizedDescription": "Turn an iPad or iPhone stuck on iOS 12 into a second display for your Mac (macOS 26), over Lightning or Wi-Fi — free, self-hosted:\n\nBuilt and running for real on an iPad Air (Model A1475, iOS 12.5.8), over a Lightning cable and over Wi-Fi. H.264 video, touch, two-finger scroll, and a real mouse cursor all work.\n\nSame Wi-Fi is enough. Plug in a Lightning cable for better speed and quality: the Mac prefers USB (lower, steadier latency) and falls back to Wi-Fi when the cable is pulled.\n\niPhone uses the same project. Pick it as the Xcode destination. The screen is smaller, so an iPad is the useful case. Minimum iOS is 12.0 (iOS/project.yml → deploymentTarget), tested on iOS 12.5.8.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.example.legacypaddisplay.png",
+   "tintColor": "#57a7ed",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.1",
+     "date": "2026-10-12T02:33:25Z",
+     "localizedDescription": "Unsigned IPA for iOS 12. Install with Sideloadly; see README Step 2.",
+     "downloadURL": "https://github.com/cuongpham1/ipad-iphone-second-monitor-ios12-free/releases/download/v0.1.1/LegacyPadDisplay.ipa",
+     "size": 17736449
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "LegacyPadDisplay listens on the local network / USB so your Mac can send it a video stream."
+    }
+   }
+  }
+ ]
+}

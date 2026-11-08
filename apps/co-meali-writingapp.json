@@ -1,0 +1,30 @@
+{
+ "name": "Writing Space",
+ "identifier": "dev.perapp.co-meali-writingapp",
+ "subtitle": "ipaomtk.com | What is Writing Space: Books & Scripts IPA? Writing Space: Books & Scripts IPA is the iOS installation fil",
+ "description": "Single-app source for Writing Space (co.meali.writingapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Writing-Space-Books-038-Scripts-IPA-v3.5-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "co.meali.writingapp",
+   "name": "Writing Space",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Writing Space: Books & Scripts IPA? Writing Space: Books & Scripts IPA is the iOS installation file of a writing-focused applica",
+   "localizedDescription": "ipaomtk.com | What is Writing Space: Books & Scripts IPA? Writing Space: Books & Scripts IPA is the iOS installation file of a writing-focused applica",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Writing-Space-Books-038-Scripts-IPA-v3.5-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.5.0",
+     "date": "2026-04-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Writing Space: Books & Scripts IPA? Writing Space: Books & Scripts IPA is the iOS installation file of a writing-focused applica",
+     "downloadURL": "https://file.ipaomtk.com/writing-space-books-scripts/Writing-Space-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

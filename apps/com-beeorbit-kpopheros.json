@@ -1,0 +1,37 @@
+{
+ "name": "케이팝히어로즈",
+ "identifier": "dev.perapp.com-beeorbit-kpopheros",
+ "subtitle": "ipaomtk.com | What is KPOP Heroes : RPG IPA? KPOP Heroes : RPG IPA is an iOS role-playing game package that allows iPhon",
+ "description": "Single-app source for 케이팝히어로즈 (com.beeorbit.kpopheros). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/KPOP-Heroes-RPG-IPA-v1.0.22-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.beeorbit.kpopheros",
+   "name": "케이팝히어로즈",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is KPOP Heroes : RPG IPA? KPOP Heroes : RPG IPA is an iOS role-playing game package that allows iPhone users to experience a unique",
+   "localizedDescription": "ipaomtk.com | What is KPOP Heroes : RPG IPA? KPOP Heroes : RPG IPA is an iOS role-playing game package that allows iPhone users to experience a unique",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/KPOP-Heroes-RPG-IPA-v1.0.22-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.22",
+     "date": "2026-04-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is KPOP Heroes : RPG IPA? KPOP Heroes : RPG IPA is an iOS role-playing game package that allows iPhone users to experience a unique",
+     "downloadURL": "https://file.ipaomtk.com/kpop-heroes-rpg/KPOP-Heroes-RPG-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.39",
+     "date": "2026-04-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is KPOP Heroes : RPG IPA? KPOP Heroes : RPG IPA is an iOS role-playing game package that allows iPhone users to experience a unique",
+     "downloadURL": "https://file.ipaomtk.com/kpop-heroes-rpg/KPOP-Heroes-RPG-IPAOMTK.COM.ipa",
+     "size": 120494520
+    }
+   ]
+  }
+ ]
+}

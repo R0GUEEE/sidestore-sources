@@ -1,0 +1,32 @@
+{
+ "name": "Nicegram_1.6.2",
+ "identifier": "dev.perapp.app-nicegram",
+ "subtitle": "Nicegram_1.6.2 by Nicegram_1.6.2 x CyPwn",
+ "description": "Single-app source for Nicegram_1.6.2 (app.nicegram). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Nicegram_1.6.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.nicegram",
+   "name": "Nicegram_1.6.2",
+   "developerName": "Nicegram_1.6.2 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Nicegram Premium for free!",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Nicegram_1.6.2.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Nicegram_1.6.2/Nicegram_1.6.2-0.png"
+   ],
+   "versions": [
+    {
+     "version": "1.6.2",
+     "date": "2024-05-06T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Nicegram_1.6.2.ipa",
+     "size": 93228892
+    }
+   ]
+  }
+ ]
+}

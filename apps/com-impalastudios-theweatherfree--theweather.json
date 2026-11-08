@@ -1,0 +1,44 @@
+{
+ "name": "TheWeather",
+ "identifier": "dev.perapp.com-impalastudios-theweatherfree",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for TheWeather (com.impalastudios.theweatherfree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.impalastudios.theweatherfree",
+   "name": "TheWeather",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.impalastudios.theweatherfree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.18",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "@blatants | Weather ۬  • Bundle ID: com.impalastudios.theweatherfree • Updated to: 2.0.18 • Minimum iOS: 15.0 • Patched • Modifier: Subscription Unloc",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12928-Weather%20%DB%AC%20v2.0.18%20Subscription%20Unlocked%20blatant%20Patched.ipa",
+     "size": 233319851
+    },
+    {
+     "version": "2.0.11",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/11-08-2025/TheWeather_2.0.11_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 143960796
+    },
+    {
+     "version": "2.0.14",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-01-2026/TheWeather_2.0.14_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 144046261
+    }
+   ]
+  }
+ ]
+}

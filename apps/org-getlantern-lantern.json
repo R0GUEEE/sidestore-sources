@@ -1,0 +1,46 @@
+{
+ "name": "Lantern",
+ "identifier": "dev.perapp.org-getlantern-lantern",
+ "subtitle": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and ",
+ "description": "Single-app source for Lantern (org.getlantern.lantern). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#14b3b4",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.getlantern.lantern.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.getlantern.lantern",
+   "name": "Lantern",
+   "developerName": "getlantern",
+   "subtitle": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux",
+   "localizedDescription": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.getlantern.lantern.png",
+   "tintColor": "#14b3b4",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.0.5",
+     "date": "2026-11-02T20:19:12Z",
+     "localizedDescription": "Security & Privacy:\n\n• Removed certificate-verification bypass from private server imports to strengthen security.\n• Redacted helper-related outbound tags and addresses from client diagnostics and logs.\n• Implemented protection against cross-origin redirects on widget signaling.\n\nBug Fixes:\n\n• Resolved private server configuration and connectivity problems.\n• Improved handling of helper pairing room restarts and ticket expiry.\n• Fixed domain fronting provider race conditions and canceled request tracking.\n\nImprovements:\n\n• Extended CloudKit outage tolerance when stapling to better handle temporary service interruptions.\n• Implemented native volunteer ICE checks and tuning via Radiance update.\n• Enhanced helper pairing system with ticket management and renewal.\n• Improved diagnostics by filtering and redacting sensitive connection data.\n\nInfrastructure:\n\n• Restored branch nightly uploads and Slack notifications in CI/CD pipeline.\n\nThis is a production release from commit 617abf1.\n\nBranch: v10.0.5.\n\n• iOS: Uploaded to TestFlight.",
+     "downloadURL": "https://github.com/getlantern/lantern/releases/download/v10.0.5/lantern-installer.ipa",
+     "size": 92004200
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.networking.networkextension",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "This app needs camera access to scan QR codes",
+     "NSPhotoLibraryUsageDescription": "This app needs photo library access so you can attach screenshots to issue reports.",
+     "NSUserNotificationAlertUsageDescription": "We use notifications to keep you informed."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Sackboy",
+ "identifier": "dev.perapp.com-exient-sackboy",
+ "subtitle": "ipaomtk.com | Fans of the popular LittleBigPlanet are about to see an upgrade with the release of Ultimate Sackboy IPA G",
+ "description": "Single-app source for Sackboy (com.exient.sackboy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/ultimate-sackboy-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.exient.sackboy",
+   "name": "Sackboy",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Fans of the popular LittleBigPlanet are about to see an upgrade with the release of Ultimate Sackboy IPA Game. This exciting and challen",
+   "localizedDescription": "ipaomtk.com | Fans of the popular LittleBigPlanet are about to see an upgrade with the release of Ultimate Sackboy IPA Game. This exciting and challen",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/ultimate-sackboy-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.2",
+     "date": "2023-04-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Fans of the popular LittleBigPlanet are about to see an upgrade with the release of Ultimate Sackboy IPA Game. This exciting and challen",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sackboy.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

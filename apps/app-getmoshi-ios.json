@@ -1,0 +1,30 @@
+{
+ "name": "Moshi",
+ "identifier": "dev.perapp.app-getmoshi-ios",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Moshi (app.getmoshi.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.getmoshi.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.getmoshi.ios",
+   "name": "Moshi",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.getmoshi.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.2",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-04-2026/Moshi_2.8.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 26837884
+    }
+   ]
+  }
+ ]
+}

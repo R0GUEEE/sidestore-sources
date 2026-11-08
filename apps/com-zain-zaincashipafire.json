@@ -1,0 +1,30 @@
+{
+ "name": "ZainCash Iraq",
+ "identifier": "dev.perapp.com-zain-zaincashipafire",
+ "subtitle": "ipaomtk.com | ZainCash is a licensed mobile wallet in Iraq. Pay your bills, book your tickets, transfer money, recharge ",
+ "description": "Single-app source for ZainCash Iraq (com.zain.zaincashipafire). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/zaincash-%D8%B2%D9%8A%D9%86-%D9%83%D8%A7%D8%B4-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zain.zaincashipafire",
+   "name": "ZainCash Iraq",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | ZainCash is a licensed mobile wallet in Iraq. Pay your bills, book your tickets, transfer money, recharge your mobile, shop, and much mo",
+   "localizedDescription": "ipaomtk.com | ZainCash is a licensed mobile wallet in Iraq. Pay your bills, book your tickets, transfer money, recharge your mobile, shop, and much mo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/zaincash-%D8%B2%D9%8A%D9%86-%D9%83%D8%A7%D8%B4-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.5",
+     "date": "2023-08-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | ZainCash is a licensed mobile wallet in Iraq. Pay your bills, book your tickets, transfer money, recharge your mobile, shop, and much mo",
+     "downloadURL": "https://file.ipaomtk.com/ipa/ZainCashiraq.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

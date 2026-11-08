@@ -1,0 +1,30 @@
+{
+ "name": "CARROT",
+ "identifier": "dev.perapp.com-grailr-carrotweather",
+ "subtitle": "CARROT",
+ "description": "Single-app source for CARROT (com.grailr.CARROTweather). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.grailr.CARROTweather",
+   "name": "CARROT",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.9.3",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/CARROT_6.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 310888998
+    }
+   ]
+  }
+ ]
+}

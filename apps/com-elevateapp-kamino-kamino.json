@@ -1,0 +1,44 @@
+{
+ "name": "Balance",
+ "identifier": "dev.perapp.com-elevateapp-kamino-kamino",
+ "subtitle": "@riftysIPAlibrary | Balance: Meditation & Sleep  Tweak: Subscription Unlocked  Version: 1.207.0  Patched ✓  @riftysIPAli",
+ "description": "Single-app source for Balance (com.elevateapp.kamino.kamino). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7335.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.elevateapp.kamino.kamino",
+   "name": "Balance",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Balance: Meditation & Sleep  Tweak: Subscription Unlocked  Version: 1.207.0  Patched ✓  @riftysIPAlibrary  Additional Information ",
+   "localizedDescription": "@riftysIPAlibrary | Balance: Meditation & Sleep  Tweak: Subscription Unlocked  Version: 1.207.0  Patched ✓  @riftysIPAlibrary  Additional Information ",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7335.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.214.0",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@blatants | Balance: Meditation & Sleep  • Bundle ID: com.elevateapp.kamino.kamino • Updated to: 1.214.0 • Minimum iOS: 16.0 • Patched • Modifier: Sub",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Balance_1.214.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 129344063
+    },
+    {
+     "version": "1.213.0",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@blatants | Balance: Meditation & Sleep  • Bundle ID: com.elevateapp.kamino.kamino • Updated to: 1.213.0 • Minimum iOS: 16.0 • Patched • Modifier: Sub",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Balance_1.213.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 129322088
+    },
+    {
+     "version": "1.212.0",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/Balance_1.212.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 124403207
+    }
+   ]
+  }
+ ]
+}

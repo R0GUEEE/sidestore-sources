@@ -1,0 +1,30 @@
+{
+ "name": "Vampire Survivors",
+ "identifier": "dev.perapp.com-unknown-vampiresurvivors",
+ "subtitle": "چەندکەری زیان ✅  بەرگری فرە یاریزان ✅  دراوی بێسنوور -> هەندێکیان خەرج بکە ✅   هەموو چەکەکان قفڵ نەکراون بکەوە -> سەردان",
+ "description": "Single-app source for Vampire Survivors (com.unknown.vampiresurvivors). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Vampire.Survivors.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.vampiresurvivors",
+   "name": "Vampire Survivors",
+   "developerName": "Karbin-Store",
+   "subtitle": "چەندکەری زیان ✅  بەرگری فرە یاریزان ✅  دراوی بێسنوور -> هەندێکیان خەرج بکە ✅   هەموو چەکەکان قفڵ نەکراون بکەوە -> سەردانی Options بکە و دوگمەی Sounds ",
+   "localizedDescription": "چەندکەری زیان ✅  بەرگری فرە یاریزان ✅  دراوی بێسنوور -> هەندێکیان خەرج بکە ✅   هەموو چەکەکان قفڵ نەکراون بکەوە -> سەردانی Options بکە و دوگمەی Sounds ",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Vampire.Survivors.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.108",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "چەندکەری زیان ✅  بەرگری فرە یاریزان ✅  دراوی بێسنوور -> هەندێکیان خەرج بکە ✅   هەموو چەکەکان قفڵ نەکراون بکەوە -> سەردانی Options بکە و دوگمەی Sounds ",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-4/Vampire.Survivors.-.1.12.108.ipa",
+     "size": 213990000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Exposed",
+ "identifier": "dev.perapp.com-vysgames-exposed",
+ "subtitle": "ipaomtk.com | Exposed IPA is a new social game app that has recently been released for iOS devices. It’s the perfect way",
+ "description": "Single-app source for Exposed (com.vysgames.Exposed). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-exposed-play-with-friends-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vysgames.Exposed",
+   "name": "Exposed",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Exposed IPA is a new social game app that has recently been released for iOS devices. It’s the perfect way for iOS users to connect with",
+   "localizedDescription": "ipaomtk.com | Exposed IPA is a new social game app that has recently been released for iOS devices. It’s the perfect way for iOS users to connect with",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-exposed-play-with-friends-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.10",
+     "date": "2023-11-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Exposed IPA is a new social game app that has recently been released for iOS devices. It’s the perfect way for iOS users to connect with",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Exposed.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

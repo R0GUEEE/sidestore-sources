@@ -1,0 +1,30 @@
+{
+ "name": "GitHub",
+ "identifier": "dev.perapp.com-github-stormbreaker-prod",
+ "subtitle": "ipaomtk.com | Introduction When it comes to software development and collaboration, GitHub IPA is one of the most essent",
+ "description": "Single-app source for GitHub (com.github.stormbreaker.prod). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/github-IPA-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.github.stormbreaker.prod",
+   "name": "GitHub",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction When it comes to software development and collaboration, GitHub IPA is one of the most essential platforms in the world. It",
+   "localizedDescription": "ipaomtk.com | Introduction When it comes to software development and collaboration, GitHub IPA is one of the most essential platforms in the world. It",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/github-IPA-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.224.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction When it comes to software development and collaboration, GitHub IPA is one of the most essential platforms in the world. It",
+     "downloadURL": "https://file.ipaomtk.com/ipa/GitHub-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

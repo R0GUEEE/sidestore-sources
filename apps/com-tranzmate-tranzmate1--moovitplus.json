@@ -1,0 +1,44 @@
+{
+ "name": "MoovitPlus",
+ "identifier": "dev.perapp.com-tranzmate-tranzmate1",
+ "subtitle": "MoovitPlus by IAppsBestLibrary",
+ "description": "Single-app source for MoovitPlus (com.tranzmate.tranzmate1). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tranzmate.tranzmate1",
+   "name": "MoovitPlus",
+   "developerName": "IAppsBestLibrary",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tranzmate.tranzmate1.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.146.1",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.146.1.ipa",
+     "size": 85759040
+    },
+    {
+     "version": "5.149.0",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.149.0.ipa",
+     "size": 85840031
+    },
+    {
+     "version": "5.151.1",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Moovit is the leading urban mobility app globally, offering all local transit options in one platform: buses, trains, subways, bikes, scooters, Uber, Lyft, and more.\nLast updated: 07-16-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoovitPlus/MoovitPlus-5.151.1.ipa",
+     "size": 85453645
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+ "name": "Emerald Tablet",
+ "identifier": "dev.perapp.com-chrissotraidis-emeraldtablet",
+ "subtitle": "Pharaoh + Cleopatra for iOS and iPadOS",
+ "description": "Single-app source for Emerald Tablet (com.chrissotraidis.emeraldtablet). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#247d37",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.emeraldtablet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chrissotraidis.emeraldtablet",
+   "name": "Emerald Tablet",
+   "developerName": "chrissotraidis",
+   "subtitle": "Pharaoh + Cleopatra for iOS and iPadOS",
+   "localizedDescription": "Emerald Tablet:\n\nEmerald Tablet brings the original 1999 Pharaoh + Cleopatra to Apple devices through the open-source Akhenaten engine. Its primary experience is landscape iPadOS, with touch navigation, Apple Pencil construction, crisp scaling, native game-speed controls, and a small persistent controls menu. The same source also builds for iPhone and Apple Silicon Mac.\n\nThis repository contains the Apple integration, ordered Akhenaten patch queue, tests, and reproducible build scripts. It does not contain Pharaoh, Cleopatra, saved games, or any other original game data. You must supply your own legally obtained compatible files.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.emeraldtablet.png",
+   "tintColor": "#247d37",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/emeraldtablet@main/assets/screenshots/emerald-tablet-gameplay-ipad.png"
+   ],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-08-24T19:21:07Z",
+     "localizedDescription": "Emerald Tablet 0.1.0 Preview 1:\n\nThe first Emerald Tablet developer preview brings the original 1999 Pharaoh + Cleopatra to iPhone and iPad through the open-source Akhenaten engine, with an iPad-first touch and Apple Pencil experience.\n\nWhat is included:\n\n• Native arm64 iPhoneOS app for iOS and iPadOS 15.0 or later.\n• Touch navigation, pinch zoom, construction, and long-press or two-finger cancellation.\n• Apple Pencil mode with finger-only navigation.\n• Persistent native controls for pause, game speed, build cancellation, crisp scaling, options, and help.\n• Native Files picker for importing your own compatible game installation.\n• Background autosave and preservation-safe in-place update support.\n• Emerald Tablet app icon and full-screen iPad presentation.\n\nThe IPA is unsigned. Re-sign it with your own Apple ID using AltStore Classic with AltServer or another compatible sideloading workflow. It is not an App Store, TestFlight, or AltStore PAL release.\n\nEmerald Tablet contains no Pharaoh or Cleopatra game data. You must supply your own legally obtained copy of the original 1999 Pharaoh + Cleopatra release after installation. Pharaoh: A New Era is not compatible.\n\nCurrent preview boundary:\n\nPhysical iPad testing accepts Apple Pencil movement, build-tool cancellation, Hunting Lodge, Road, Granary, and Bazaar placement, visible game-speed controls, and the Save Game flow. Physical-iPhone acceptance, audible-output and interruption checks, long-session performance, and broad campaign completion remain open.\n\nIntegrity:\n\nEmeraldTablet-0.1.0-preview.1-unsigned.ipa.\n\nSHA-256: 9acc46de667c99681c15f39789321102bce2ca86980e67d225335398d2107372.\n\nThe package is an arm64 iPhoneOS build. The release audit rejects Simulator products and confirms that original game data, saves, the maintainer provisioning profile, and the maintainer code signature are absent.",
+     "downloadURL": "https://github.com/chrissotraidis/emeraldtablet/releases/download/v0.1.0-preview.1/EmeraldTablet-0.1.0-preview.1-unsigned.ipa",
+     "size": 15512532
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Browser",
+ "identifier": "dev.perapp.com-timi2506-browser",
+ "subtitle": "Browser - visionOS Style Browser Built with SwiftUI and WebView",
+ "description": "Single-app source for Browser (com.timi2506.Browser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/Browser.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.timi2506.Browser",
+   "name": "Browser",
+   "developerName": "timi2506",
+   "subtitle": "Browser - visionOS Style Browser Built with SwiftUI and WebView",
+   "localizedDescription": "Browser - visionOS Style Browser Built with SwiftUI and WebView",
+   "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/Browser.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5b",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "Browser - visionOS Style Browser Built with SwiftUI and WebView",
+     "downloadURL": "https://github.com/timi2506/Browser/releases/download/0.5/Browser-0.5-beta-iOS.ipa",
+     "size": 287000
+    },
+    {
+     "version": "0.5",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "Browser - visionOS Style Browser Built with SwiftUI and WebView",
+     "downloadURL": "https://github.com/timi2506/Browser/releases/download/0.5/Browser-0.5-beta-iOS.ipa",
+     "size": 3008565
+    }
+   ]
+  }
+ ]
+}

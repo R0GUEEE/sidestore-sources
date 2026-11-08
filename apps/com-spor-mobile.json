@@ -1,0 +1,41 @@
+{
+ "name": "Spor",
+ "identifier": "dev.perapp.com-spor-mobile",
+ "subtitle": "Modern Danish public transit companion for Android, iOS & Desktop. Real-time DSB, Metro, bus routes & platform tracking ",
+ "description": "Single-app source for Spor (com.spor.mobile). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3e74ac",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.spor.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spor.mobile",
+   "name": "Spor",
+   "developerName": "gwj0323",
+   "subtitle": "Modern Danish public transit companion for Android, iOS & Desktop. Real-time DSB, Metro, bus routes & platform tracking via Rejseplanen API",
+   "localizedDescription": "English:\n\nSpor is an open-source public transit app for Denmark, available on Android, iOS, and desktop (Windows / macOS / Linux).\n\nIt integrates directly with the official Rejseplanen REST API, covering nationwide passenger rail (DSB, Arriva), Copenhagen S-tog, Copenhagen Metro (M1–M4), regional and municipal buses (Movia, Midttrafik, etc.), and domestic ferries.\n\nFeatures:\n\n• Route Planning: Search journeys with departure/arrival time filters, transit mode selection, platform numbers, walking transfers, and live delay info.\n• Commute Suggestions & Habit Ranking:.\n\n• Suggests frequent and return routes based on your usual travel times, recent searches, and nearby stations.\n• Ranks journey results based on your transit habits (duration, transfers, walking, Metro/S-tog/Train/Bus) and highlights the recommended route with a 1-tap Preferred order toggle.\n• Tight Transfer Warnings: Highlights short or delayed connections where transfer time is tight.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.spor.mobile.png",
+   "tintColor": "#3e74ac",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/fbef798e-a80f-4849-870d-b24aa5450f40"
+   ],
+   "versions": [
+    {
+     "version": "1.2.5",
+     "date": "2026-10-17T16:32:19Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/gwj0323/spor-app/releases/download/v1.2.5/spor-ios-release.ipa",
+     "size": 25317476
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCalendarsFullAccessUsageDescription": "Spor bruger din kalender til at tilføje rejser og påmindelser.",
+     "NSCalendarsUsageDescription": "Spor bruger din kalender til at tilføje rejser og påmindelser.",
+     "NSCalendarsWriteOnlyAccessUsageDescription": "Spor bruger din kalender til at tilføje rejser og påmindelser.",
+     "NSLocationWhenInUseUsageDescription": "Spor bruger din placering til at finde stoppesteder og stationer i nærheden."
+    }
+   }
+  }
+ ]
+}

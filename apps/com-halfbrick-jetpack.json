@@ -1,0 +1,30 @@
+{
+ "name": "Jetpack",
+ "identifier": "dev.perapp.com-halfbrick-jetpack",
+ "subtitle": "Jetpack",
+ "description": "Single-app source for Jetpack (com.halfbrick.jetpack). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.halfbrick.jetpack",
+   "name": "Jetpack",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.halfbrick.jetpack.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.103.2",
+     "date": "2025-12-15T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Jetpack_1.103.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 276005940
+    }
+   ]
+  }
+ ]
+}

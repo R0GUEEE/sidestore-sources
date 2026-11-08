@@ -1,0 +1,42 @@
+{
+ "name": "KeyPhone",
+ "identifier": "dev.perapp.io-github-larchk7-ios",
+ "subtitle": "A classic Series 40-style keypad phone for Mac and iPhone: real calls, SMS, contacts, camera, music, alarms and J2ME Jav",
+ "description": "Single-app source for KeyPhone (io.github.larchk7.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6058e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.larchk7.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.larchk7.ios",
+   "name": "KeyPhone",
+   "developerName": "harkhowalia-1",
+   "subtitle": "A classic Series 40-style keypad phone for Mac and iPhone: real calls, SMS, contacts, camera, music, alarms and J2ME Java games. Retro Nokia-style feature phone, play in your browser",
+   "localizedDescription": "KeyPhone:\n\nA Series 40–style keypad phone that runs on your Mac and iPhone. The phone's keypad, menus and screen are one HTML file; the Mac and iPhone apps wrap it and connect it to the system, so calls, messages, contacts, photos and alarms are real.\n\nWebsite: https://harkhowalia-1.github.io/KeyPhone/ Play in your browser: https://harkhowalia-1.github.io/KeyPhone/play/\n\nFeatures:\n\n• Calls and VoIP: dial through the iPhone, or make real calls over your own SIP/VoIP account (WebRTC), with hold, mute, keypad tones and a call log.\n• Messages and contacts: multi-tap, predictive text, the Messenger's keyboard or the iPhone keyboard; Names is your device's address book.\n• Camera, Gallery and Recorder: a live viewfinder, photos saved exactly as framed, your Photos library, voice memos.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.larchk7.ios.png",
+   "tintColor": "#6058e8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.4",
+     "date": "2026-10-14T23:29:11Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/harkhowalia-1/KeyPhone/releases/download/v1.12.4/KeyPhone.ipa",
+     "size": 1036941
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSAppleMusicUsageDescription": "KeyPhone's music player plays the songs in your music library.",
+     "NSCameraUsageDescription": "KeyPhone uses the camera to take photos for its Gallery.",
+     "NSContactsUsageDescription": "KeyPhone shows and edits your iPhone contacts in the phone's Names list.",
+     "NSLocationWhenInUseUsageDescription": "KeyPhone shows the weather where you are.",
+     "NSMicrophoneUsageDescription": "KeyPhone uses the microphone for VoIP calls, the Recorder and video.",
+     "NSPhotoLibraryAddUsageDescription": "Photos and videos taken with KeyPhone's camera are saved to your library.",
+     "NSPhotoLibraryUsageDescription": "KeyPhone's Gallery shows your photos and videos, and its camera saves pictures to your library."
+    }
+   }
+  }
+ ]
+}

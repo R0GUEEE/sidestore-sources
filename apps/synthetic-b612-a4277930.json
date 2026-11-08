@@ -1,0 +1,30 @@
+{
+ "name": "B612",
+ "identifier": "dev.perapp.synthetic-b612-a4277930",
+ "subtitle": "B612 by Karbin-Store",
+ "description": "Single-app source for B612 (synthetic.b612.a4277930). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/b612.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.b612.a4277930",
+   "name": "B612",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "بۆ دەستکاریکردنی وێنە و ڤیدیۆ، پشتگیری لە زیرەکی دەستکرد دەکات",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/b612.jpeg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.6.11",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "بۆ دەستکاریکردنی وێنە و ڤیدیۆ، پشتگیری لە زیرەکی دەستکرد دەکات",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/B612_13.6.11_DEV.ipa",
+     "size": 117770000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Terraria_4.5.0",
+ "identifier": "dev.perapp.com-505games-terraria",
+ "subtitle": "Terraria 4.5.0",
+ "description": "Single-app source for Terraria_4.5.0 (com.505games.terraria). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Terraria_4.5.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.505games.terraria",
+   "name": "Terraria_4.5.0",
+   "developerName": "Terraria_4.5.0 x CyPwn",
+   "subtitle": "Terraria 4.5.0",
+   "localizedDescription": "Terraria 4.5.0\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Terraria_4.5.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Terraria 4.5.0",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Terraria_4.5.0.ipa",
+     "size": 189283070
+    }
+   ]
+  }
+ ]
+}

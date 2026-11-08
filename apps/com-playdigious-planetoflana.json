@@ -1,0 +1,37 @@
+{
+ "name": "PlanetofLana",
+ "identifier": "dev.perapp.com-playdigious-planetoflana",
+ "subtitle": "ipaomtk.com | Planet of Lana on iOS brings a story-driven puzzle adventure experience to iPhone, blending platforming ga",
+ "description": "Single-app source for PlanetofLana (com.playdigious.planetoflana). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Planet-of-Lana-IPA-v1.0.4-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playdigious.planetoflana",
+   "name": "PlanetofLana",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Planet of Lana on iOS brings a story-driven puzzle adventure experience to iPhone, blending platforming gameplay with emotional storytel",
+   "localizedDescription": "ipaomtk.com | Planet of Lana on iOS brings a story-driven puzzle adventure experience to iPhone, blending platforming gameplay with emotional storytel",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Planet-of-Lana-IPA-v1.0.4-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.4",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Planet of Lana - appstore  🇷🇺 Атмосферное приключение с элементами платформера и головоломки, где героиня вместе с необычным спутником и",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1706-Planet%20of%20Lana%20%5Bv1.0.4%5D%28tg@ipa_dark%29.ipa",
+     "size": 1841685219
+    },
+    {
+     "version": "1.6.0",
+     "date": "2026-02-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Planet of Lana on iOS brings a story-driven puzzle adventure experience to iPhone, blending platforming gameplay with emotional storytel",
+     "downloadURL": "https://file.ipaomtk.com/Planet-of-Lana/Planet-of-Lana-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

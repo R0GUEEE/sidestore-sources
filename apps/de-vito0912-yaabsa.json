@@ -1,0 +1,43 @@
+{
+ "name": "Yaabsa",
+ "identifier": "dev.perapp.de-vito0912-yaabsa",
+ "subtitle": "An unofficial cross-platform app for Audiobookshelf",
+ "description": "Single-app source for Yaabsa (de.vito0912.yaabsa). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4562ec",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/de.vito0912.yaabsa.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.vito0912.yaabsa",
+   "name": "Yaabsa",
+   "developerName": "Vito0912",
+   "subtitle": "An unofficial cross-platform app for Audiobookshelf",
+   "localizedDescription": "yaabsa:\n\nAn unofficial cross-platform app for Audiobookshelf.\n\nUsage of AI:\n\nAs I myself criticize the lack of disclosure about AI, which most ABS apps now use, I want to be clear that later in the making of the app, AI/LLMs were used in the development process. I still know the API endpoints used very well and have already helped a ton of people with API usage.\n\nBelow is a list of all features, but I want to highlight a few, as this client has features that are only and or very rarely found in other clients:\n\n• First client that supports Android Automotive (AAOS) for Audiobookshelf (ABS).\n• Basic eBook/PDF support with syncable annotations.\n• subtitle support with karaoke-style highlighting support (later planned to be extended like Whispersync).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/de.vito0912.yaabsa.png",
+   "tintColor": "#4562ec",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Vito0912/yaabsa@master/.github/images/mobile-full.webp",
+    "https://cdn.jsdelivr.net/gh/Vito0912/yaabsa@master/.github/images/mobile-minimalistic.webp",
+    "https://cdn.jsdelivr.net/gh/Vito0912/yaabsa@master/.github/images/mobile-minimalistic-menu.webp"
+   ],
+   "versions": [
+    {
+     "version": "1.16.0",
+     "date": "2026-10-26T09:41:51Z",
+     "localizedDescription": "Added:\n\n• Added chapter editor.\n• Added file details.\n• Added search within EPUB and PDF books.\n• Added third party TTS provider.\n• Integrated playback with media player.\n• Added an in-app changelog.\n\nFixed:\n\n• Listening progress now retries loading when the server becomes reachable after an offline or failed startup.\n• Improved final progress syncing when a book finishes or playback moves to the next queued item.\n\nChanged:\n\n• Redesign of the ebook reader.\n• Redesign of the book details page.\n• Improved the item editor layout to match new Audiobookshelf design.\n• Integrated read-aloud and embedded book narration with player controls and sleep timers.\n\nThis release has been automatically generated from commit 45474f01e86e7d4df5adeff75cf340d128597521.\n\nYou can download the built artifacts from the \"Assets\" section below.",
+     "downloadURL": "https://github.com/Vito0912/yaabsa/releases/download/v1.16.0/ios-sideload-build-yaabsa_v1.16.0_unsigned.ipa",
+     "size": 23436336
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSAppleMusicUsageDescription": "Runner needs access to audio files to add the possibility of uploading them to the server.",
+     "NSCameraUsageDescription": "yaabsa uses the camera to scan Authentication Code QR codes.",
+     "NSLocalNetworkUsageDescription": "Runner uses the local network to discover Cast-enabled devices on your WiFi network.",
+     "NSPhotoLibraryUsageDescription": "Runner needs access to covers to add the possibility of uploading covers to the server."
+    }
+   }
+  }
+ ]
+}

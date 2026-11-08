@@ -1,0 +1,34 @@
+{
+ "name": "COD4iOS",
+ "identifier": "dev.perapp.com-devz-cod4ios",
+ "subtitle": "Call of Duty 4 port for iOS, Android, Nintendo Switch and New Nintendo 3DS",
+ "description": "Single-app source for COD4iOS (com.devz.cod4ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#61762d",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.cod4ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.cod4ios",
+   "name": "COD4iOS",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "Call of Duty 4 port for iOS, Android, Nintendo Switch and New Nintendo 3DS",
+   "localizedDescription": "Only the iOS version is ready for now!!:\n\nCall of Duty 4: Modern Warfare on iPhone and iPad, based on KisakCOD.\n\nCOD4iOS includes single-player and CoD4x multiplayer in one app, with touch controls and Xbox-style controller support. This source release is 1.0.3, build 4. The port is still in development, so expect bugs and differences between devices and servers.\n\nYou need your own copy of the original PC game, Call of Duty 4: Modern Warfare (2007). Modern Warfare Remastered files will not work. The source and IPA do not include the retail game data.\n\nIf you want to support me and remain up-to-date about this and other projects, you can in different ways:\n\nKo-Fi: https://ko-fi.com/dev_zer0\n\nYouTube: https://www.youtube.com/@develop_erZ\n\nWhat you need:\n\n• An iPhone or iPad running iOS/iPadOS 17 or later.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.cod4ios.png",
+   "tintColor": "#61762d",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "R5_FINAL",
+     "date": "2026-10-16T17:14:53Z",
+     "localizedDescription": "R5 — COD4iOS 1.0.4 build 13:\n\nFixes the pointer corruption identified in the supplied build 12 War Pig crash log. This is an unsigned pre-release IPA;.\n\nCampaign crash:\n\nAll three build 12 crashes resolve to Path_UpdateBrushBadPlaceCount, reading entity angles at pointer + 0xec. The bad pointer contains float radius bits 0x43aad91d in its upper half. Path_MakeBrushBadPlace wrote the radius through arc.origin[1] at byte 4 of a union containing an 8-byte entity pointer. It now initializes the union and writes brush.radius at its correct native offset. The AI danger zone remains active, with its pointer and radius preserved.\n\nA regression runs the production initializer and actual union layouts under AddressSanitizer/UndefinedBehaviorSanitizer. The old write reproduces the exact supplied fault address 0x43aad91d0604b8f4; the corrected initializer passes. This addresses the reported signature without disabling mission AI or swallowing crashes. Other historical crash signatures in the accumulated log are not claimed fixed by this change.\n\nBlack surfaces / fog:\n\nBuild 12 only preserved zero masks for MUL/MAD instructions writing directly to a colour output. Fog can first be calculated in temporary registers and then copied or selected into the output. The correction now covers Metal pixel-shader MUL/MAD in those temporary registers too.\n\nThe expanded GPU test reproduces the gap: build 12 fails 96 channels across 160 cases; build 13 has 0 incorrect channels. It covers direct/temporary destinations, MUL/MAD, both operand orders, signed zero, finite controls and NaN/Inf. All 299 saved representative shaders translate and compile successfully. GLES/GLSL source fingerprints remain unchanged; no Android APK was produced.\n\nThe affected War Pig scene has not been run on the tester's device here. The black-surface cause and full campaign continuation still require on-device confirmation. These GPU tests do not establish device frame-rate performance.\n\nPackage:\n\nSP and MP arm64 iPhoneOS engines rebuilt; embedded binaries match build outputs. Bundle, watermark and diagnostics all report build 13. ZIP integrity, exported symbols and temporary ad-hoc signature checks pass; signatures are removed for signing with your usual tool. No retail game files or saves are included.\n\nInstall as an update to the same com.devz.cod4ios installation. Keep your existing players folder. If War Pig still fails, provide the new build 13 diagnostics/native-crash.txt and campaign-events.txt; if the surfaces remain black, also provide kisakcod.log.\n\nCode and IPA are committed under this release tag. The corresponding source archive contains the actual local build sources, including earlier uncommitted work; the new code commit is scoped to the changes above.",
+     "downloadURL": "https://github.com/DevZer0D4Y/ReCoD4/releases/download/R5_FINAL/COD4iOS-1.0.4-build13-performance_stats_enabled-unsigned.ipa",
+     "size": 9692131
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

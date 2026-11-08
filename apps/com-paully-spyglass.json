@@ -1,0 +1,30 @@
+{
+ "name": "Spyglass",
+ "identifier": "dev.perapp.com-paully-spyglass",
+ "subtitle": "ipaomtk.com | Spyglass IPA, a multifaceted⁤ platform ⁤designed to enhance ‌how we‍ interact with ‌data, manage our⁤ task",
+ "description": "Single-app source for Spyglass (com.paully.spyglass). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Spyglass-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.paully.spyglass",
+   "name": "Spyglass",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Spyglass IPA, a multifaceted⁤ platform ⁤designed to enhance ‌how we‍ interact with ‌data, manage our⁤ tasks, and stay informed. This art",
+   "localizedDescription": "ipaomtk.com | Spyglass IPA, a multifaceted⁤ platform ⁤designed to enhance ‌how we‍ interact with ‌data, manage our⁤ tasks, and stay informed. This art",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Spyglass-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.31.5",
+     "date": "2025-05-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Spyglass IPA, a multifaceted⁤ platform ⁤designed to enhance ‌how we‍ interact with ‌data, manage our⁤ tasks, and stay informed. This art",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Spyglass-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "FindShip",
+ "identifier": "dev.perapp.co-findship-findship-lite",
+ "subtitle": "ipaomtk.com | Introduction FindShip – Track Vessels IPA is a specialized iOS application designed to help users monitor ",
+ "description": "Single-app source for FindShip (co.findship.FindShip-Lite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/FindShip-8211-Track-vessels-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "co.findship.FindShip-Lite",
+   "name": "FindShip",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction FindShip – Track Vessels IPA is a specialized iOS application designed to help users monitor and track ships and maritime t",
+   "localizedDescription": "ipaomtk.com | Introduction FindShip – Track Vessels IPA is a specialized iOS application designed to help users monitor and track ships and maritime t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/FindShip-8211-Track-vessels-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.33",
+     "date": "2025-12-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction FindShip – Track Vessels IPA is a specialized iOS application designed to help users monitor and track ships and maritime t",
+     "downloadURL": "https://file.ipaomtk.com/FindShip/FindShip-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

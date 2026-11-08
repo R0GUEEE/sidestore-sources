@@ -1,0 +1,30 @@
+{
+ "name": "LFssh",
+ "identifier": "dev.perapp.com-llloooggg-letsflutssh",
+ "subtitle": "LetsFLUTssh:  Disclaimer: This is a functional neuroslop pet project — built with AI assistance under the supervision an",
+ "description": "Single-app source for LFssh (com.llloooggg.letsflutssh). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.llloooggg.letsflutssh.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.llloooggg.letsflutssh",
+   "name": "LFssh",
+   "developerName": "Llloooggg",
+   "subtitle": "LetsFLUTssh:  Disclaimer: This is a functional neuroslop pet project — built with AI assistance under the supervision and direction of a real develope",
+   "localizedDescription": "LetsFLUTssh:  Disclaimer: This is a functional neuroslop pet project — built with AI assistance under the supervision and direction of a real develope\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.llloooggg.letsflutssh.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.5.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "LetsFLUTssh:  Disclaimer: This is a functional neuroslop pet project — built with AI assistance under the supervision and direction of a real develope",
+     "downloadURL": "https://github.com/Llloooggg/LetsFLUTssh/releases/download/v8.5.1/letsflutssh-8.5.1-ios-unsigned.ipa",
+     "size": 26552015
+    }
+   ]
+  }
+ ]
+}

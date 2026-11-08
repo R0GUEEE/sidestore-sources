@@ -1,0 +1,30 @@
+{
+ "name": "Metronome",
+ "identifier": "dev.perapp.com-xiaoyixiang-prometronome",
+ "subtitle": "Metronome",
+ "description": "Single-app source for Metronome (com.xiaoyixiang.prometronome). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/b9/a4/18b9a413-f849-94b6-def9-afd741426931/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.xiaoyixiang.prometronome",
+   "name": "Metronome",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Pro Metronome - Tempo & Tuner\n⁣\nTweak: Subscription Unlocked \n\nVersion: 4.3.5\n\nMade by riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/b9/a4/18b9a413-f849-94b6-def9-afd741426931/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.5",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Pro Metronome - Tempo & Tuner\n⁣\nTweak: Subscription Unlocked \n\nVersion: 4.3.5\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/dc936e87-6d82-4c30-ba61-14fa1642ae34/Metronome_v4.3.5-riftysipas.ipa",
+     "size": 19726799
+    }
+   ]
+  }
+ ]
+}

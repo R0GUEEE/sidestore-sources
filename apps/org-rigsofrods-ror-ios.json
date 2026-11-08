@@ -1,0 +1,34 @@
+{
+ "name": "Rigs of Rods",
+ "identifier": "dev.perapp.org-rigsofrods-ror-ios",
+ "subtitle": "Rigs of Rods на iPhone",
+ "description": "Single-app source for Rigs of Rods (org.rigsofrods.ror-ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e28e26",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.rigsofrods.ror-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.rigsofrods.ror-ios",
+   "name": "Rigs of Rods",
+   "developerName": "wayl-t",
+   "subtitle": "Rigs of Rods на iPhone",
+   "localizedDescription": "English summary:\n\nUnofficial native iOS (arm64) port of Rigs of Rods, built from the full upstream source on free GitHub Actions macOS runners. Touch controls, a compact HUD with light and indicator lamps, and a sideloadable IPA. Download the latest build from the latest-ipa release and install it with SideStore, Sideloadly, or ESIGN. Rigs of Rods itself is GPLv3 software by the Rigs of Rods Team; this repository only adds the iOS port and build pipeline.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.rigsofrods.ror-ios.png",
+   "tintColor": "#e28e26",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-26T04:43:31Z",
+     "localizedDescription": "An .app whose bundle contains a top-level directory named resources (or Resources) is refused by the iOS installer with the generic “Unable to Install”, while the very same directory under any other name (zzz/, Base.lproj/, rorres/) installs and runs. The packaging step therefore ships game data in RoR.app/rorres instead of resources.\n\nA truncated download makes every installer fail, and the error looks like a build problem (“Truncated input file”, “Unable to Install”). Compare the byte size of the file you downloaded with the list below; if it differs by even one byte, download the file again.",
+     "downloadURL": "https://github.com/wayl-t/Rigs-of-Rods-for-iOS/releases/download/latest-ipa/RoR-ios-tiny.ipa",
+     "size": 37864
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "BG Eraaer",
+ "identifier": "dev.perapp.com-unknown-bgeraaer",
+ "subtitle": "ئەپلیکەیشنێک بۆ لابردنی شتە زیادەکان لە وێنەکان",
+ "description": "Single-app source for BG Eraaer (com.unknown.bgeraaer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/BG.Eraaer.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.bgeraaer",
+   "name": "BG Eraaer",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپلیکەیشنێک بۆ لابردنی شتە زیادەکان لە وێنەکان",
+   "localizedDescription": "ئەپلیکەیشنێک بۆ لابردنی شتە زیادەکان لە وێنەکان",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/BG.Eraaer.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.217",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشنێک بۆ لابردنی شتە زیادەکان لە وێنەکان",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/BG.Eraser_1.0.217_3BodSy.ipa",
+     "size": 16980000
+    }
+   ]
+  }
+ ]
+}

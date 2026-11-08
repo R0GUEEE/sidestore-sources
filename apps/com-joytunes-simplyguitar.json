@@ -1,0 +1,30 @@
+{
+ "name": "SimplyGuitar",
+ "identifier": "dev.perapp.com-joytunes-simplyguitar",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for SimplyGuitar (com.joytunes.SimplyGuitar). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.joytunes.SimplyGuitar",
+   "name": "SimplyGuitar",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.31",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/SimplyGuitar_10.31_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 167888218
+    }
+   ]
+  }
+ ]
+}

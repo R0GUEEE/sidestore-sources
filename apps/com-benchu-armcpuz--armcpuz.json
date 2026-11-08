@@ -1,0 +1,44 @@
+{
+ "name": "ARMCPUZ",
+ "identifier": "dev.perapp.com-benchu-armcpuz",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for ARMCPUZ (com.benchu.ARMCPUZ). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.benchu.ARMCPUZ",
+   "name": "ARMCPUZ",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benchu.ARMCPUZ.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.3",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-09-2025/ARMCPUZ_1.7.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 8292090
+    },
+    {
+     "version": "1.8.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-09-2025/ARMCPUZ_1.8.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 8585073
+    },
+    {
+     "version": "1.8.3",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/ARMCPUZ_1.8.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 8555589
+    }
+   ]
+  }
+ ]
+}

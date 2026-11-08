@@ -1,0 +1,30 @@
+{
+ "name": "Electra",
+ "identifier": "dev.perapp.org-coolstar-electra1141",
+ "subtitle": "Jailbreak iOS 11.0 - 11.4.1 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Electra (org.coolstar.electra1141). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/Electra.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.coolstar.electra1141",
+   "name": "Electra",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Jailbreak iOS 11.0 - 11.4.1 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Jailbreak iOS 11.0 - 11.4.1 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/Electra.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Jailbreak iOS 11.0 - 11.4.1 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=coolstar/electra-ipas/raw/master/Electra1141-2.0.ipa",
+     "size": 52200691
+    }
+   ]
+  }
+ ]
+}

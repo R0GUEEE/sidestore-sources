@@ -1,0 +1,30 @@
+{
+ "name": "Fontcandy",
+ "identifier": "dev.perapp.com-aaronray-fontcandy",
+ "subtitle": "Fontcandy",
+ "description": "Single-app source for Fontcandy (com.aaronray.fontcandy). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aaronray.fontcandy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aaronray.fontcandy",
+   "name": "Fontcandy",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aaronray.fontcandy.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.2",
+     "date": "2024-12-13T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2024/Fontcandy_6.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 98016368
+    }
+   ]
+  }
+ ]
+}

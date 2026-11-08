@@ -1,0 +1,30 @@
+{
+ "name": "Ai Chat",
+ "identifier": "dev.perapp.com-unknown-aichat",
+ "subtitle": "ئەپێک بۆ چاتکردن بە زیرەکی دەستکرد 🧠",
+ "description": "Single-app source for Ai Chat (com.unknown.aichat). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Ai.Chat.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.aichat",
+   "name": "Ai Chat",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپێک بۆ چاتکردن بە زیرەکی دەستکرد 🧠",
+   "localizedDescription": "ئەپێک بۆ چاتکردن بە زیرەکی دەستکرد 🧠",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/Ai.Chat.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپێک بۆ چاتکردن بە زیرەکی دەستکرد 🧠",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/GemAI_.AI.Chat.AI.Assistant_2.0.1_3BodSy.ipa",
+     "size": 36020000
+    }
+   ]
+  }
+ ]
+}

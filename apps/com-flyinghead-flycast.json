@@ -1,0 +1,30 @@
+{
+ "name": "Flycast",
+ "identifier": "dev.perapp.com-flyinghead-flycast",
+ "subtitle": "Emulator that supports multiple platforms, including Sega Dreamcast, Naomi, Naomi 2, and Atomiswave, and it is developed",
+ "description": "Single-app source for Flycast (com.flyinghead.Flycast). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.flyinghead.Flycast.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.flyinghead.Flycast",
+   "name": "Flycast",
+   "developerName": "flyinghead",
+   "subtitle": "Emulator that supports multiple platforms, including Sega Dreamcast, Naomi, Naomi 2, and Atomiswave, and it is developed from reicast. A user…",
+   "localizedDescription": "Emulator that supports multiple platforms, including Sega Dreamcast, Naomi, Naomi 2, and Atomiswave, and it is developed from reicast. A user requested it so here it is.\nLast updated: 03-17-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.flyinghead.Flycast.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "v2.3",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Emulator that supports multiple platforms, including Sega Dreamcast, Naomi, Naomi 2, and Atomiswave, and it is developed from reicast. A user…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Flycast/Flycast-2.3.ipa",
+     "size": 16799249
+    }
+   ]
+  }
+ ]
+}

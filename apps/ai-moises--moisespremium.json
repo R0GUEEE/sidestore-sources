@@ -1,0 +1,30 @@
+{
+ "name": "MoisesPremium",
+ "identifier": "dev.perapp.ai-moises",
+ "subtitle": "Tweaks: MoisePremium",
+ "description": "Single-app source for MoisesPremium (ai.moises). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.moises",
+   "name": "MoisesPremium",
+   "developerName": "Manpreet Singh @thisismanpreeets",
+   "subtitle": "Tweaks: MoisePremium",
+   "localizedDescription": "Tweaks: MoisePremium\n\nRemoved from the repo: Patched.\nLast updated: 06-23-2024\nStatus: ❌\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/ai.moises.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.47.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: MoisePremium\n\nRemoved from the repo: Patched. Last updated: 06-23-2024 Status: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoisesPremium/MoisesPremium-2.47.0.ipa",
+     "size": 61724090
+    }
+   ]
+  }
+ ]
+}

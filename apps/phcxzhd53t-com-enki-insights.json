@@ -1,0 +1,30 @@
+{
+ "name": "Enki",
+ "identifier": "dev.perapp.phcxzhd53t-com-enki-insights",
+ "subtitle": "Enki",
+ "description": "Single-app source for Enki (PHCXZHD53T.com.enki.insights). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png",
+ "apps": [
+  {
+   "bundleIdentifier": "PHCXZHD53T.com.enki.insights",
+   "name": "Enki",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PHCXZHD53T.com.enki.insights.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.40.13",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Enki_2.40.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 23290551
+    }
+   ]
+  }
+ ]
+}

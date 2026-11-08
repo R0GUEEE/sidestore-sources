@@ -1,0 +1,37 @@
+{
+ "name": "TrollStar",
+ "identifier": "dev.perapp.com-34306-trollforce",
+ "subtitle": "TrollStar, which functions primarily as a TrollStore installer, offers a notably more dependable installation process co",
+ "description": "Single-app source for TrollStar (com.34306.trollforce). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.34306.trollforce.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.34306.trollforce",
+   "name": "TrollStar",
+   "developerName": "34306",
+   "subtitle": "TrollStar, which functions primarily as a TrollStore installer, offers a notably more dependable installation process compared to Misaka. A tutorial m",
+   "localizedDescription": "TrollStar, which functions primarily as a TrollStore installer, offers a notably more dependable installation process compared to Misaka. A tutorial m",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.34306.trollforce.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "TrollStar, which functions primarily as a TrollStore installer, offers a notably more dependable installation process compared to Misaka. A tutorial m",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollStar/TrollStar-1.2.ipa",
+     "size": 1155049
+    },
+    {
+     "version": "1.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "TrollStar, which functions primarily as a TrollStore installer, offers a notably more dependable installation process compared to Misaka. A tutorial m",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollStar/TrollStar-1.1.ipa",
+     "size": 1155628
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Train of Hope",
+ "identifier": "dev.perapp.com-samfinaco-tos",
+ "subtitle": "ipaomtk.com | Introduction Train of Hope Survival IPA is an immersive iOS game that puts players in a post-apocalyptic w",
+ "description": "Single-app source for Train of Hope (com.samfinaco.tos). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/Train-of-Hope-Survival-Game-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.samfinaco.tos",
+   "name": "Train of Hope",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Train of Hope Survival IPA is an immersive iOS game that puts players in a post-apocalyptic world where survival depends on",
+   "localizedDescription": "ipaomtk.com | Introduction Train of Hope Survival IPA is an immersive iOS game that puts players in a post-apocalyptic world where survival depends on",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/Train-of-Hope-Survival-Game-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.16.0",
+     "date": "2025-02-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Train of Hope Survival IPA is an immersive iOS game that puts players in a post-apocalyptic world where survival depends on",
+     "downloadURL": "https://file.ipaomtk.com/train-of-hope-survival-game/Train-of-Hope-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.26.0",
+     "date": "2025-02-25T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Introduction Train of Hope Survival IPA is an immersive iOS game that puts players in a post-apocalyptic world where survival depends on",
+     "downloadURL": "https://file.ipaomtk.com/train-of-hope-survival-game/Train-of-Hope-IPAOMTK.COM.ipa",
+     "size": 198191556
+    }
+   ]
+  }
+ ]
+}

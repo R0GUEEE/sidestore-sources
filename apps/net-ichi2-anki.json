@@ -1,0 +1,44 @@
+{
+ "name": "AnkiMobile",
+ "identifier": "dev.perapp.net-ichi2-anki",
+ "subtitle": "AnkiMobile by Neoncat-OG IPA Library",
+ "description": "Single-app source for AnkiMobile (net.ichi2.anki). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.ichi2.anki.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.ichi2.anki",
+   "name": "AnkiMobile",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.ichi2.anki.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.10",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "scholars lounge | Anki Paid app: $24.99 Version: 26.10 Bundle ID: net.ichi2.anki AppStore link: https://apps.apple.com/app/id373493387 Decrypted by us",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84148-AnkiMobile%20Flashcards-26.10.ipa",
+     "size": 13474506
+    },
+    {
+     "version": "24.08",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnkiMobile/AnkiMobile-24.08.ipa",
+     "size": 16413736
+    },
+    {
+     "version": "24.04",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AnkiMobile Flashcards IPA MOD iOS, the go-to app for enhancing your learning experience. AnkiMobile Flashcards iOS is a powerful and ver",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Ankimobile.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

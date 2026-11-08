@@ -1,0 +1,30 @@
+{
+ "name": "Tiny Decisions",
+ "identifier": "dev.perapp.com-nixwang-decision",
+ "subtitle": "Subscription unlocked. TrollStore/Jailbreak only",
+ "description": "Single-app source for Tiny Decisions (com.nixwang.decision). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/13265.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nixwang.decision",
+   "name": "Tiny Decisions",
+   "developerName": "@blatants",
+   "subtitle": "Subscription unlocked. TrollStore/Jailbreak only",
+   "localizedDescription": "@blatants | Tiny Decisions: Spin Wheel\n\n• Bundle ID: com.nixwang.decision\n• Updated to: 26.13.1\n• Minimum iOS: 17.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\nTrollStore/Jailbreak only.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/13265.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.13.1",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@blatants | Tiny Decisions: Spin Wheel • Bundle ID: com.nixwang.decision • Updated to: 26.13.1 • Minimum iOS: 17.0 • Patched • Modifier…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13265-Tiny_Decisions_Spin_Wheel_v26_13_1_Subscription_Unlocked_blatant.ipa",
+     "size": 87521397
+    }
+   ]
+  }
+ ]
+}

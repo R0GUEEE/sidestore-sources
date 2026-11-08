@@ -1,0 +1,30 @@
+{
+ "name": "Flipclock",
+ "identifier": "dev.perapp.com-cuilingshi-flipclock",
+ "subtitle": "Flipclock",
+ "description": "Single-app source for Flipclock (com.cuilingshi.flipclock). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cuilingshi.flipclock",
+   "name": "Flipclock",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.flipclock.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.6",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Flipclock_6.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 38721114
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "name": "Lighthouse",
+ "identifier": "dev.perapp.com-rebelancap-lighthouse",
+ "subtitle": "Play Banjo-Kazooie on your iPhone and Apple Vision Pro — the full adventure with the",
+ "description": "Single-app source for Lighthouse (com.rebelancap.lighthouse). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#516dcf",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.lighthouse.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.lighthouse",
+   "name": "Lighthouse",
+   "developerName": "rebelancap",
+   "subtitle": "Play Banjo-Kazooie on your iPhone and Apple Vision Pro — the full adventure with the",
+   "localizedDescription": "Lighthouse for iPhone & Apple Vision Pro:\n\nPlay Banjo-Kazooie on your iPhone and Apple Vision Pro — the full adventure with the Lighthouse enhancements menu, the randomizer, online co-op, game controllers and a tunable touch layout, and on Vision Pro a stereoscopic 3D mode that puts Spiral Mountain on a world-locked panel floating in your room with real depth.\n\nBuilt on Lighthouse (Harbour Masters' native Banjo-Kazooie port) and libultraship, rendering natively on Metal — no translation layer. 100% vibe coded with lots of passion and attention to detail.\n\nBanjo-Kazooie on Apple Vision Pro — a freely resizable window floating in your room, rendering at true 4K, with the on-screen touch layout. The same build also runs in stereoscopic 3D.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.lighthouse.png",
+   "tintColor": "#516dcf",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rebelancap/Lighthouse-ios@main/docs/screenshots/visionos-window.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.1.3",
+     "date": "2026-10-30T02:55:10Z",
+     "localizedDescription": "Rebased on Lighthouse 1.2.2 \"Montauk Charlie\": N64 mipmaps and live texture filtering, Tooie-style flight, smoother frame pacing, online co-op fixes and a round of thread-safety and gameplay fixes, rebuilt with Xcode 27.1.\n\nNew from upstream Lighthouse 1.2.1 and 1.2.2.\n\n• N64 mipmaps: the game's own mipmapped textures are now drawn with their mip levels, so distant surfaces shimmer less. Toggle with Settings → Enable Mipmaps (on by default).\n• Texture Filter now applies live; it no longer needs a reload.\n• Tooie flight backports (Enhancements): Banjo-Tooie's Beak Bomb (hold B to fly past the usual range), Beak Bomb Aiming, and a Press L to Fly Anywhere cheat.\n• Frame pacing: each frame is now blended for the moment it is actually shown, and a tick stops presenting at its last on-time frame, so motion between the game's 30 ticks per second is smoother.\n• Online co-op (Anchor): team save fixes (you are asked before a team save overwrites progress in the loaded file, and sync pauses until a mismatch is resolved), toasts when the connection drops and comes back, Save Editor changes (jiggies, unlocked moves) sync to teammates, retries wait between failed connection attempts, and a crash on exit with a controller connected is fixed.\n• Thread safety: menu and co-op changes are now applied on the game thread, and the task list lock can no longer hand one slot to two threads.\n• Fixes: map-load events fire once per load; a new randomizer file is refused if its spoiler log won't load; removing a dated (outdated) archive now works; egg and feather pickups report correctly; a Cosmetics Editor shading bug; controller bindings wrap onto a new row when they don't fit.\n• ROM extraction (Torch): a music-loop decode hang is fixed, and mipmapped textures are extracted properly.\n\nIf you are upgrading from 1.1.2.\n\n• No \"Outdated ROM Archives\" popup this time. Lighthouse compares the archive's major.minor version, and the bk.o2r that 1.1.2 extracted (1.2.0) passes, so the app starts straight into the game. Saves are untouched.\n• If you want the extraction fixes above (music-loop decode, mipmap textures) in your archive, delete bk.o2r from the Lighthouse folder in Files; the next launch re-extracts it from your ROM (a few seconds). If your ROM is no longer in the Lighthouse folder, the file picker opens so you can choose it again.\n\niPhone & iPad.\n\n• The port's own HD-texture mip handling (used for texture packs) was reconciled with upstream's new N64 mipmap path, so the two don't rebuild each other's textures.\n• Built with Xcode 27.1 and the iOS 27 SDK.\n\nApple Vision Pro.\n\n• Everything above applies here too. The 2D window was verified on the visionOS simulator with this build, and 3D mode with a developer build of the same 1.2.2 source; neither was tested in the headset.\n\nThis public build does not include the developer console.\n\nBuilt on Lighthouse 1.2.2 \"Montauk Charlie\". Bring your own Banjo-Kazooie ROM (.z64, US v1.0, US v1.1, Japan or PAL); the app extracts it on device and ships no game content.\n\nOr install the IPA below manually through SideStore/AltStore (iPhone can also use Sideloadly).\n\nRequirements:\n\n• iPhone on iOS 15+, or Apple Vision Pro (visionOS 2+).",
+     "downloadURL": "https://github.com/rebelancap/Lighthouse-ios/releases/download/v1.1.3/lighthouse-1.1.3-iOS.ipa",
+     "size": 5910422
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Lighthouse uses the local network to host or join co-op (Anchor) sessions with players on your network, and for the developer console when you enable it."
+    }
+   }
+  }
+ ]
+}

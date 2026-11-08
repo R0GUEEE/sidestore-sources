@@ -1,0 +1,30 @@
+{
+ "name": "Sideload Bypass (1)",
+ "identifier": "dev.perapp.com-realmzer-sideloadbypass1",
+ "subtitle": "Easily make it so your sideloading it undetectable.",
+ "description": "Single-app source for Sideload Bypass (1) (com.realmzer.sideloadbypass1). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "690ff5",
+ "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.realmzer.sideloadbypass1",
+   "name": "Sideload Bypass (1)",
+   "developerName": "Realmzer",
+   "subtitle": "Easily make it so your sideloading it undetectable.",
+   "localizedDescription": "Blocks some apps sideloading protections.\nStatus: ✅✨",
+   "iconURL": "https://cdn.omnidev.org/tweakicon-Zk.png",
+   "tintColor": "690ff5",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-10-18T00:00:00Z",
+     "localizedDescription": "Blocks some apps sideloading protections.\nStatus: ✅✨",
+     "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-Dylibs/Sideloadbypass1.dylib",
+     "size": 204800
+    }
+   ]
+  }
+ ]
+}

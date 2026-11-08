@@ -1,0 +1,30 @@
+{
+ "name": "PerfectAIPublic",
+ "identifier": "dev.perapp.comai-redrawart-iosapp",
+ "subtitle": "Free in-app purchases (tap buy, then cancel)",
+ "description": "Single-app source for PerfectAIPublic (comai.redrawart.iosapp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "comai.redrawart.iosapp",
+   "name": "PerfectAIPublic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Free in-app purchases (tap buy, then cancel)",
+   "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/comai.redrawart.iosapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.8",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ) - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2025/PerfectAIPublic_1.1.8_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 157224705
+    }
+   ]
+  }
+ ]
+}

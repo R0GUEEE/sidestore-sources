@@ -1,0 +1,37 @@
+{
+ "name": "Freddy Fazbear's Pizzeria Simulator",
+ "identifier": "dev.perapp.com-clickteam-freddyfazbearspizzeriasimulator",
+ "subtitle": "Five Nights at Freddy's: Pizzeria Simulator - Point and click surivival horror",
+ "description": "Single-app source for Freddy Fazbear's Pizzeria Simulator (com.clickteam.freddyfazbearspizzeriasimulator). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "9818ad",
+ "iconURL": "https://cdn.omnidev.org/fnafps-ph.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.clickteam.freddyfazbearspizzeriasimulator",
+   "name": "Freddy Fazbear's Pizzeria Simulator",
+   "developerName": "Scott Games & Clickteam LLC",
+   "subtitle": "Five Nights at Freddy's: Pizzeria Simulator - Point and click surivival horror",
+   "localizedDescription": "Freddy Fazbear's Pizzeria Simulator, commonly abbreviated to FFPS and also known as FNaF 6: Pizzeria Simulator, is an indie point-and-click survival horror video game developed and published by Scottgames and is the sixth installment of the Five Nights at Freddy's series.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/fnafps-ph.png",
+   "tintColor": "9818ad",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2026-06-20T00:00:00Z",
+     "localizedDescription": "NOTE: A device with at least 2 GB of RAM is required for this game to run properly.\r\n\r\nProspective owner of a Freddy Fazbear's Pizza franchised restaurant, we want you!\r\n\r\nWhat starts out as a simple pizza tossing fun turns into something much, much more. Push through the glitchy arcade game to reveal that you are at your own Freddy Fazbear's Pizzeria!\r\n\r\nBrowse our catalogs and purchase your first attractions and animatronics, customize your decorations, and above all make sure that all the equipment is working properly before opening the doors of your brand new Freddy Fazbear's Pizzeria!\r\n\r\nAfter a busy day, wrap up the paperwork and shut down your business (often late into the night as you build your own business!) Be careful, however, of wha",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2107",
+     "size": 162790111
+    },
+    {
+     "version": "1.0.2",
+     "date": "2024-11-06T00:00:00Z",
+     "localizedDescription": "Freddy Fazbear's Pizzeria Simulator, commonly abbreviated to FFPS and also known as FNaF 6: Pizzeria Simulator, is an indie point-and-click survival horror video game developed and published by Scottgames and is the sixth installment of the Five Nights at Freddy's series.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/FNAF_6_Pizzeria_simulator-7t.ipa",
+     "size": 163811328
+    }
+   ]
+  }
+ ]
+}

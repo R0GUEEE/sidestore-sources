@@ -1,0 +1,30 @@
+{
+ "name": "Wallpapers",
+ "identifier": "dev.perapp.com-skollabs-wallpaper",
+ "subtitle": "ipaomtk.com | 4K Wallpapers IPA is a group of 4K stay wallpapers to make your telecellsmartphone display extra brilliant",
+ "description": "Single-app source for Wallpapers (com.skollabs.wallpaper). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/wallpaper-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skollabs.wallpaper",
+   "name": "Wallpapers",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | 4K Wallpapers IPA is a group of 4K stay wallpapers to make your telecellsmartphone display extra brilliant and delightful than ever. The",
+   "localizedDescription": "ipaomtk.com | 4K Wallpapers IPA is a group of 4K stay wallpapers to make your telecellsmartphone display extra brilliant and delightful than ever. The",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/wallpaper-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.0",
+     "date": "2023-04-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | 4K Wallpapers IPA is a group of 4K stay wallpapers to make your telecellsmartphone display extra brilliant and delightful than ever. The",
+     "downloadURL": "https://file.ipaomtk.com/ipa/wallpaper.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

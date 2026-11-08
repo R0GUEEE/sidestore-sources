@@ -1,0 +1,44 @@
+{
+ "name": "Clover",
+ "identifier": "dev.perapp.com-wachanga-womancalendar",
+ "subtitle": "@ipa_dark | 🔄 Clover: Мой календарь месячных - appstore  🇷🇺 Приложение помогает отслеживать менструальный цикл, симптомы",
+ "description": "Single-app source for Clover (com.wachanga.womancalendar). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1655.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wachanga.womancalendar",
+   "name": "Clover",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Clover: Мой календарь месячных - appstore  🇷🇺 Приложение помогает отслеживать менструальный цикл, симптомы и настроение. Встроенные функ",
+   "localizedDescription": "@ipa_dark | 🔄 Clover: Мой календарь месячных - appstore  🇷🇺 Приложение помогает отслеживать менструальный цикл, симптомы и настроение. Встроенные функ",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1655.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.26.1",
+     "date": "2026-10-11T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Clover: Мой календарь месячных - appstore  🇷🇺 Приложение помогает отслеживать менструальный цикл, симптомы и настроение. Встроенные функ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1809-Clover%20Premium%20%5Bv6.26.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 169822257
+    },
+    {
+     "version": "6.25.0",
+     "date": "2026-09-22T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Clover: Мой календарь месячных - appstore  🇷🇺 Приложение помогает отслеживать менструальный цикл, симптомы и настроение. Встроенные функ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1735-Clover%20Premium%20%5Bv6.25.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 158544398
+    },
+    {
+     "version": "6.22.0",
+     "date": "2026-08-19T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Clover: Мой календарь месячных - appstore  🇷🇺 Приложение помогает отслеживать менструальный цикл, симптомы и настроение. Встроенные функ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1655-Clover%20Premium%20%5Bv6.22.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 159056268
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "AddonsPro",
+ "identifier": "dev.perapp.com-qingbin-addons",
+ "subtitle": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocki",
+ "description": "Single-app source for AddonsPro (com.qingbin.Addons). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.qingbin.Addons.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.qingbin.Addons",
+   "name": "AddonsPro",
+   "developerName": "Paisseon",
+   "subtitle": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and mu",
+   "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and mu",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.qingbin.Addons.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Powerful Safari browser extension!",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Addons_3.2.ipa",
+     "size": 28426895
+    },
+    {
+     "version": "3.8",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and mu",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.8.ipa",
+     "size": 29133138
+    },
+    {
+     "version": "3.6",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Robust Safari browser extension that offers a variety of features, including support for Tampermonkey scripts, ad blocking, intelligent search, and mu",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AddonsPro/AddonsPro-3.6.ipa",
+     "size": 29020552
+    }
+   ]
+  }
+ ]
+}

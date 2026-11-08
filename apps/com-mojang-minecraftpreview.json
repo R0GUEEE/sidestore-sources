@@ -1,0 +1,44 @@
+{
+ "name": "Minecraft Preview",
+ "identifier": "dev.perapp.com-mojang-minecraftpreview",
+ "subtitle": "scholars lounge | Minecraft Preview (Beta) Version: 1.26.50 (22) Bundle ID: com.mojang.minecraftpreview TestFlight: http",
+ "description": "Single-app source for Minecraft Preview (com.mojang.minecraftpreview). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68433.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mojang.minecraftpreview",
+   "name": "Minecraft Preview",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | Minecraft Preview (Beta) Version: 1.26.50 (22) Bundle ID: com.mojang.minecraftpreview TestFlight: https://testflight.apple.com/join/",
+   "localizedDescription": "scholars lounge | Minecraft Preview (Beta) Version: 1.26.50 (22) Bundle ID: com.mojang.minecraftpreview TestFlight: https://testflight.apple.com/join/",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68433.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.26.70",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "scholars lounge | Minecraft Preview (Beta) Version: 1.26.70 (20) Bundle ID: com.mojang.minecraftpreview TestFlight: https://testflight.apple.com/join/",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/79755-Minecraft%20Preview-1.26.70.ipa",
+     "size": 719285205
+    },
+    {
+     "version": "1.26.60",
+     "date": "2026-09-04T00:00:00Z",
+     "localizedDescription": "scholars lounge | Minecraft Preview (Beta) Version: 1.26.60 (21) Bundle ID: com.mojang.minecraftpreview TestFlight: https://testflight.apple.com/join/",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/72990-Minecraft%20Preview-1.26.60.ipa",
+     "size": 709920848
+    },
+    {
+     "version": "1.26.50",
+     "date": "2026-07-29T00:00:00Z",
+     "localizedDescription": "scholars lounge | Minecraft Preview (Beta) Version: 1.26.50 (22) Bundle ID: com.mojang.minecraftpreview TestFlight: https://testflight.apple.com/join/",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/68433-Minecraft%20Preview-1.26.50.ipa",
+     "size": 695253168
+    }
+   ]
+  }
+ ]
+}

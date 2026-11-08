@@ -1,0 +1,30 @@
+{
+ "name": "The Last Survivor",
+ "identifier": "dev.perapp.com-unknown-thelastsurvivor",
+ "subtitle": "Hack Features",
+ "description": "Single-app source for The Last Survivor (com.unknown.thelastsurvivor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/The.Last.Survivor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.thelastsurvivor",
+   "name": "The Last Survivor",
+   "developerName": "Karbin-Store",
+   "subtitle": "Hack Features",
+   "localizedDescription": "Hack Features",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/The.Last.Survivor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.8",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Hack Features",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Last_Survivor.ipa",
+     "size": 295920000
+    }
+   ]
+  }
+ ]
+}

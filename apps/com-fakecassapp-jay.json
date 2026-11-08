@@ -1,0 +1,30 @@
+{
+ "name": "Cash App - v5 trial",
+ "identifier": "dev.perapp.com-fakecassapp-jay",
+ "subtitle": "Cash App - v5 trial by sidelix",
+ "description": "Single-app source for Cash App - v5 trial (com.fakecassapp.jay). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_68fc477d36b35.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fakecassapp.jay",
+   "name": "Cash App - v5 trial",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Fake prop app\r\n\r\nOnly use to prank",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_68fc477d36b35.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "v5 trial",
+     "date": "2026-06-18T00:00:00Z",
+     "localizedDescription": "Fake prop app\r\n\r\nOnly use to prank",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/335",
+     "size": 9485118
+    }
+   ]
+  }
+ ]
+}

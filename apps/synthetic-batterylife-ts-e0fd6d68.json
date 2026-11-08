@@ -1,0 +1,30 @@
+{
+ "name": "BatteryLife_TS",
+ "identifier": "dev.perapp.synthetic-batterylife-ts-e0fd6d68",
+ "subtitle": "Advanced battery health, info, and statistics.",
+ "description": "Single-app source for BatteryLife_TS (synthetic.batterylife-ts.e0fd6d68). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/BatteryLife_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.batterylife-ts.e0fd6d68",
+   "name": "BatteryLife_TS",
+   "developerName": "BatteryLife_TS x CyPwn",
+   "subtitle": "Advanced battery health, info, and statistics.",
+   "localizedDescription": "Advanced battery health, info, and statistics.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/BatteryLife_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Advanced battery health, info, and statistics.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/BatteryLife_TS.ipa",
+     "size": 40475033
+    }
+   ]
+  }
+ ]
+}

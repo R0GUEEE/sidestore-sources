@@ -1,0 +1,30 @@
+{
+ "name": "whatsapp",
+ "identifier": "dev.perapp.net-whatsapp-whatsapp",
+ "subtitle": "whatsapp",
+ "description": "Single-app source for whatsapp (net.whatsapp.WhatsApp). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsApp",
+   "name": "whatsapp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Watusi 1.2.58",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.3.80",
+     "date": "2025-03-04T00:00:00Z",
+     "localizedDescription": "Injected with Watusi 1.2.58",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/whatsapp_25.3.80_Watusi_1.2.58_%40thisismanpreets_apptesters.org.ipa",
+     "size": 118336671
+    }
+   ]
+  }
+ ]
+}

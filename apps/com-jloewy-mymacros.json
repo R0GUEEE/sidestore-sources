@@ -1,0 +1,30 @@
+{
+ "name": "My Macros+",
+ "identifier": "dev.perapp.com-jloewy-mymacros",
+ "subtitle": "ipaomtk.com | Introduction My Macros+ Diet & Calories IPA is a nutrition-focused iOS application created for users who w",
+ "description": "Single-app source for My Macros+ (com.jloewy.mymacros). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/My-Macros-Diet-Calories-Macro-Tracker-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jloewy.mymacros",
+   "name": "My Macros+",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction My Macros+ Diet & Calories IPA is a nutrition-focused iOS application created for users who want precise control over their",
+   "localizedDescription": "ipaomtk.com | Introduction My Macros+ Diet & Calories IPA is a nutrition-focused iOS application created for users who want precise control over their",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/My-Macros-Diet-Calories-Macro-Tracker-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.18",
+     "date": "2024-10-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction My Macros+ Diet & Calories IPA is a nutrition-focused iOS application created for users who want precise control over their",
+     "downloadURL": "https://file.ipaomtk.com/ipa/My-Macros-Diet-Calories-v2024.8-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

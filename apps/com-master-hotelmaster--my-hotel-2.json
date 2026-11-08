@@ -1,0 +1,30 @@
+{
+ "name": "My Hotel",
+ "identifier": "dev.perapp.com-master-hotelmaster",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for My Hotel (com.master.hotelmaster). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/My-Perfect-Hotel-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.master.hotelmaster",
+   "name": "My Hotel",
+   "developerName": "ipaomtk.com",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nipaomtk.com | My Perfect Hotel IPA you’ll have the opportunity to showcase your creativity, business acumen, and attention to detail as you construct and manage your very own hotel. This game offers a unique blend of simulation, strategy, and problem-solving, giving you the chance to design and operate a hotel that caters to the whims and desires […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/07/My-Perfect-Hotel-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.39.0",
+     "date": "2024-07-17T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nipaomtk.com | My Perfect Hotel IPA you’ll have the opportunity to showcase your creativity, business acumen, and attention to detail as you…",
+     "downloadURL": "https://file.ipaomtk.com/my-perfect-hotel/My-Perfect-IPAOMTK.COM.ipa",
+     "size": 202730623
+    }
+   ]
+  }
+ ]
+}

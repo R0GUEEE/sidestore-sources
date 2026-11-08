@@ -1,0 +1,30 @@
+{
+ "name": "Online",
+ "identifier": "dev.perapp.com-inv-gen",
+ "subtitle": "@ipa_dark | 🔄 Сбербанк  🇷🇺 Обновлённое приложение сбера, добавленное в appstore под видом другого приложения \"Семейный О",
+ "description": "Single-app source for Online (com.inv.gen). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1750.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inv.gen",
+   "name": "Online",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Сбербанк  🇷🇺 Обновлённое приложение сбера, добавленное в appstore под видом другого приложения \"Семейный Онлайн\".  ℹ️ Особенности: ▎Удал",
+   "localizedDescription": "@ipa_dark | 🔄 Сбербанк  🇷🇺 Обновлённое приложение сбера, добавленное в appstore под видом другого приложения \"Семейный Онлайн\".  ℹ️ Особенности: ▎Удал\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1750.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "17.6.1",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Сбербанк  🇷🇺 Обновлённое приложение сбера, добавленное в appstore под видом другого приложения \"Семейный Онлайн\".  ℹ️ Особенности: ▎Удал",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1750-Sberbank%20Family%20Online%28tg@ipa_dark%29.ipa",
+     "size": 272593470
+    }
+   ]
+  }
+ ]
+}

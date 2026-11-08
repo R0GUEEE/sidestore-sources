@@ -1,0 +1,30 @@
+{
+ "name": "Outlanders",
+ "identifier": "dev.perapp.com-pomelogames-kingdomsgame",
+ "subtitle": "ipaomtk.com | Outlanders IPA v44 is a captivating city-building simulation game that challenges players to lead a group ",
+ "description": "Single-app source for Outlanders (com.pomelogames.KingdomsGame). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Outlanders.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pomelogames.KingdomsGame",
+   "name": "Outlanders",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Outlanders IPA v44 is a captivating city-building simulation game that challenges players to lead a group of settlers in establishing an",
+   "localizedDescription": "ipaomtk.com | Outlanders IPA v44 is a captivating city-building simulation game that challenges players to lead a group of settlers in establishing an",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Outlanders.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Outlanders IPA v44 is a captivating city-building simulation game that challenges players to lead a group of settlers in establishing an",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Outlanders-v44-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

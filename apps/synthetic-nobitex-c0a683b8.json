@@ -1,0 +1,30 @@
+{
+ "name": "Nobitex",
+ "identifier": "dev.perapp.synthetic-nobitex-c0a683b8",
+ "subtitle": "Nobitex by Karbin-Store",
+ "description": "Single-app source for Nobitex (synthetic.nobitex.c0a683b8). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/market.nobitex.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.nobitex.c0a683b8",
+   "name": "Nobitex",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "ئاڵوگۆڕی ئۆنلاین - کڕین و فرۆشتنی دراوی دیجیتاڵی",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/market.nobitex.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "ئاڵوگۆڕی ئۆنلاین - کڕین و فرۆشتنی دراوی دیجیتاڵی",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Nobitex3.3.0.ipa",
+     "size": 24550000
+    }
+   ]
+  }
+ ]
+}

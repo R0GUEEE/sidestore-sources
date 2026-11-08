@@ -1,0 +1,30 @@
+{
+ "name": "Tarteel",
+ "identifier": "dev.perapp.com-iqraapp-iqra",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for Tarteel (com.iqraapp.Iqra). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iqraapp.Iqra",
+   "name": "Tarteel",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iqraapp.Iqra.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.70.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Tarteel_5.70.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 121944397
+    }
+   ]
+  }
+ ]
+}

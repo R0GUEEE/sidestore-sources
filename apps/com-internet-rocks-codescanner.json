@@ -1,0 +1,44 @@
+{
+ "name": "QrCode",
+ "identifier": "dev.perapp.com-internet-rocks-codescanner",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for QrCode (com.internet-rocks.codescanner). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.internet-rocks.codescanner",
+   "name": "QrCode",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.11.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | QR Code Reader，Barcode Scanner  • Bundle ID: com.internet-rocks.codescanner • Updated to: 2026.11.1 • Minimum iOS: 16.6 • Patched • Modifi",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/QrCode_2026.11.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 60260311
+    },
+    {
+     "version": "2026.10.12",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@blatants | QR Code Reader，Barcode Scanner  • Bundle ID: com.internet-rocks.codescanner • Updated to: 2026.10.12 • Minimum iOS: 16.6 • Patched • Modif",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/QrCode_2026.10.12_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 60084643
+    },
+    {
+     "version": "2026.10.10",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@blatants | QR Code Reader，Barcode Scanner  • Bundle ID: com.internet-rocks.codescanner • Updated to: 2026.10.10 • Minimum iOS: 16.6 • Patched • Modif",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/QrCode_2026.10.10_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 59701333
+    }
+   ]
+  }
+ ]
+}

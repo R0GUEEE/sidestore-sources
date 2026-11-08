@@ -1,0 +1,30 @@
+{
+ "name": "Deltarune",
+ "identifier": "dev.perapp.com-jockelholm-undertaledr",
+ "subtitle": "Deltarune - IOS Port",
+ "description": "Single-app source for Deltarune (com.jockelholm.undertaledr). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.omnidev.org/deltarune-QI.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jockelholm.undertaledr",
+   "name": "Deltarune",
+   "developerName": "Toby Fox & jockeholm",
+   "subtitle": "Deltarune - IOS Port",
+   "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...! Chapter 2 has not been added.\n Status: ✅",
+   "iconURL": "https://cdn.omnidev.org/deltarune-QI.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "Fight (or spare) alongside new characters in UNDERTALE's parallel story, DELTARUNE...! Chapter 2 has not been added.\n Status: ✅",
+     "downloadURL": "https://github.com/Realmzer/Realmzer.github.io/releases/download/All-IPAS/deltarune.ipa",
+     "size": 70279168
+    }
+   ]
+  }
+ ]
+}

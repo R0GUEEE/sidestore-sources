@@ -1,0 +1,30 @@
+{
+ "name": "PureStatus",
+ "identifier": "dev.perapp.com-damtechdesigns-wa-story",
+ "subtitle": "PureStatus",
+ "description": "Single-app source for PureStatus (com.damtechdesigns.wa.story). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.damtechdesigns.wa.story",
+   "name": "PureStatus",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.12",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/PureStatus_2026.12_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 79650207
+    }
+   ]
+  }
+ ]
+}

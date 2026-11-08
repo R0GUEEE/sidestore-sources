@@ -1,0 +1,30 @@
+{
+ "name": "AIDA64",
+ "identifier": "dev.perapp.com-finalwire-aida64",
+ "subtitle": "ipaomtk.com | AIDA64 IPA has long been recognized as one of the most powerful system information and diagnostic tools ac",
+ "description": "Single-app source for AIDA64 (com.finalwire.aida64). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-17-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.finalwire.aida64",
+   "name": "AIDA64",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | AIDA64 IPA has long been recognized as one of the most powerful system information and diagnostic tools across multiple platforms. With ",
+   "localizedDescription": "ipaomtk.com | AIDA64 IPA has long been recognized as one of the most powerful system information and diagnostic tools across multiple platforms. With ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-17-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.61",
+     "date": "2025-09-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AIDA64 IPA has long been recognized as one of the most powerful system information and diagnostic tools across multiple platforms. With ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AIDA64_IAP_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

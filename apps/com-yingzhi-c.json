@@ -1,0 +1,30 @@
+{
+ "name": "CForIos",
+ "identifier": "dev.perapp.com-yingzhi-c",
+ "subtitle": "ipaomtk.com | C/C++-LLVM Clang IPA v2.1 for iOS represents a powerful tool for developers looking to leverage the capabi",
+ "description": "Single-app source for CForIos (com.yingzhi.c). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/CC-LLVM-Clang-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yingzhi.c",
+   "name": "CForIos",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | C/C++-LLVM Clang IPA v2.1 for iOS represents a powerful tool for developers looking to leverage the capabilities of LLVM in conjunction ",
+   "localizedDescription": "ipaomtk.com | C/C++-LLVM Clang IPA v2.1 for iOS represents a powerful tool for developers looking to leverage the capabilities of LLVM in conjunction ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/CC-LLVM-Clang-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "29",
+     "date": "2024-12-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | C/C++-LLVM Clang IPA v2.1 for iOS represents a powerful tool for developers looking to leverage the capabilities of LLVM in conjunction ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/CC-LLVM_Clang-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

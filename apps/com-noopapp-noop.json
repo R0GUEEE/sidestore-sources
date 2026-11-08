@@ -1,0 +1,46 @@
+{
+ "name": "NOOP",
+ "identifier": "dev.perapp.com-noopapp-noop",
+ "subtitle": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no sub",
+ "description": "Single-app source for NOOP (com.noopapp.noop). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#05d18c",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.noopapp.noop.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.noopapp.noop",
+   "name": "NOOP",
+   "developerName": "ryanbr",
+   "subtitle": "Offline WHOOP companion — pair your strap over Bluetooth, keep all data on your own device. No cloud, no account, no subscription",
+   "localizedDescription": "Raw data capture ·.\n\nFirst launch on macOS. NOOP is not notarized by Apple — notarization needs a paid Apple Developer ID tied to a real identity, which doesn't fit an anonymous, free project. The app is sandboxed and ad-hoc code-signed, and the full source is here to inspect. Because it isn't notarized, macOS Gatekeeper blocks it on first open (you may see \"damaged\" or \"unverified developer\" — that's the download quarantine flag, not real damage). To open it, do one of these once:\n\n• Terminal (most reliable): drag NOOP.app to Applications, then run xattr -dr com.apple.quarantine /Applications/NOOP.app and open NOOP normally.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.noopapp.noop.png",
+   "tintColor": "#05d18c",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ryanbr/noop@main/docs/assets/shot-ios-today.png",
+    "https://cdn.jsdelivr.net/gh/ryanbr/noop@main/docs/assets/shot-android-today.png",
+    "https://cdn.jsdelivr.net/gh/ryanbr/noop@main/docs/assets/shot-android-trend.png"
+   ],
+   "versions": [
+    {
+     "version": "12.1.0",
+     "date": "2026-10-25T18:24:37Z",
+     "localizedDescription": "Rolling latest testing build — refreshed in place, so this tag is always the newest. NOOP main + ryanbr's open PRs + vetted community PRs, built with the NOOP Staging identity. Android and macOS install beside the official app; the iOS ipa carries the production bundle id, so it replaces an installed official app and uses its data. Filenames carry the base app version (v12.1.0).\n\n• Android (debug) — NOOP-android-debug-v12.1.0.apk — debuggable build. com.noop.whoop.debug.\n• macOS — NOOP-macos-v12.1.0.zip — unzip, then right-click → Open (ad-hoc signed, not notarized; Gatekeeper warns once). If it says \"damaged\", run xattr -dr com.apple.quarantine /Applications/NOOP.app.\n• iOS — NOOP-ios-unsigned-v12.1.0.ipa — sideload via AltStore / Sideloadly (re-signs on-device). Replaces an installed official app (production bundle id, shared data), so back up first if you have one. Embedded watch app stripped, widget extension retained for Home/Lock-Screen widgets and Live Activities.\n\nBase app version 12.1.0 · built 2026-10-25 · b450dfb.",
+     "downloadURL": "https://github.com/ryanbr/noop/releases/download/testing-latest/NOOP-ios-unsigned-v12.1.0.ipa",
+     "size": 21938257
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "NOOP connects directly to your WHOOP strap over Bluetooth to read heart rate, R-R intervals, battery, and sensor data locally on your iPhone. Nothing leaves your device.",
+     "NSHealthShareUsageDescription": "NOOP reads your own Apple Health data on-device to compute recovery, strain, and sleep. Nothing leaves your device.",
+     "NSHealthUpdateUsageDescription": "NOOP writes the metrics it computes from your strap back into Apple Health, on-device and only when you allow it.",
+     "NSLocationWhenInUseUsageDescription": "NOOP records your route during an outdoor workout to show distance, pace, and a map, and keeps recording while the screen is off. The route stays on your device. Nothing leaves it.",
+     "NSMicrophoneUsageDescription": "NOOP uses the microphone to let you ask the coach a question by voice. The audio is transcribed on-device and never leaves your iPhone.",
+     "NSMotionUsageDescription": "NOOP reads your iPhone's step count for a walking or running workout to show steps in the activity summary. It stays on your device. Nothing leaves it.",
+     "NSSpeechRecognitionUsageDescription": "NOOP transcribes your question on-device so you can ask the coach out loud instead of typing. Audio never leaves your iPhone."
+    }
+   }
+  }
+ ]
+}

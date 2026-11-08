@@ -1,0 +1,37 @@
+{
+ "name": "OpusIPTVPublic",
+ "identifier": "dev.perapp.com-handy-optus",
+ "subtitle": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for OpusIPTVPublic (com.handy.optus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.handy.optus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.handy.optus",
+   "name": "OpusIPTVPublic",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.handy.optus.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-10-2025/OpusIPTVPublic_1.7.2_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 57328682
+    },
+    {
+     "version": "1.7.4",
+     "date": "2024-09-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction IPTV – Opus Player IPA is an iOS application developed for users who want a smooth and reliable IPTV viewing experience on ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Opus-IPTV-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "EverybodyRPG",
+ "identifier": "dev.perapp.com-nomadgames-everybodyrpgpay",
+ "subtitle": "ipaomtk.com | Everybody’s RPG IPA is an innovative mobile game that blends traditional role-playing elements with casual",
+ "description": "Single-app source for EverybodyRPG (com.nomadgames.everybodyrpgpay). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Everybodys-RPG-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nomadgames.everybodyrpgpay",
+   "name": "EverybodyRPG",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Everybody’s RPG IPA is an innovative mobile game that blends traditional role-playing elements with casual, accessible gameplay. This un",
+   "localizedDescription": "ipaomtk.com | Everybody’s RPG IPA is an innovative mobile game that blends traditional role-playing elements with casual, accessible gameplay. This un",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Everybodys-RPG-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.92",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Everybody’s RPG IPA is an innovative mobile game that blends traditional role-playing elements with casual, accessible gameplay. This un",
+     "downloadURL": "https://file.ipaomtk.com/everybodys-rpg/Everybodys-RPG-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "6.05",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Everybody’s RPG IPA is an innovative mobile game that blends traditional role-playing elements with casual, accessible gameplay. This un",
+     "downloadURL": "https://file.ipaomtk.com/everybodys-rpg/Everybodys-RPG-IPAOMTK.COM.ipa",
+     "size": 123999890
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "VlogNow",
+ "identifier": "dev.perapp.com-frontrow-vlog",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for VlogNow (com.frontrow.vlog). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.frontrow.vlog",
+   "name": "VlogNow",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.22.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/VlogNow_2.22.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 469751907
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Voice Dream",
+ "identifier": "dev.perapp.com-voicedream-voice-dream-reader",
+ "subtitle": "ipaomtk.com | Have you ever wished you could have your favorite books and documents read to you? With Voice Dream Read A",
+ "description": "Single-app source for Voice Dream (com.voicedream.Voice-Dream-Reader). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-4-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.voicedream.Voice-Dream-Reader",
+   "name": "Voice Dream",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Have you ever wished you could have your favorite books and documents read to you? With Voice Dream Read Aloud IPA iOS, you can turn thi",
+   "localizedDescription": "ipaomtk.com | Have you ever wished you could have your favorite books and documents read to you? With Voice Dream Read Aloud IPA iOS, you can turn thi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/download-4-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.17.5",
+     "date": "2023-05-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Have you ever wished you could have your favorite books and documents read to you? With Voice Dream Read Aloud IPA iOS, you can turn thi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Voice-Dream-Reader.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "One4Wall",
+ "identifier": "dev.perapp.one4studio-wallpaper-one4wall",
+ "subtitle": "One4Wall",
+ "description": "Single-app source for One4Wall (one4studio.wallpaper.one4wall). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/one4studio.wallpaper.one4wall.png",
+ "apps": [
+  {
+   "bundleIdentifier": "one4studio.wallpaper.one4wall",
+   "name": "One4Wall",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/one4studio.wallpaper.one4wall.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.9",
+     "date": "2025-10-29T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/One4Wall_4.1.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 76525383
+    }
+   ]
+  }
+ ]
+}

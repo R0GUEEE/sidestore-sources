@@ -1,0 +1,30 @@
+{
+ "name": "Overdrop",
+ "identifier": "dev.perapp.com-weather-overdrop",
+ "subtitle": "Overdrop",
+ "description": "Single-app source for Overdrop (com.weather.overdrop). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.weather.overdrop",
+   "name": "Overdrop",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.weather.overdrop.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.0",
+     "date": "2026-06-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-06-2026/Overdrop_2.3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 222534887
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Planimeter",
+ "identifier": "dev.perapp.com-zero-app-planimeter",
+ "subtitle": "ipaomtk.com | The Planimeter Map Measure IPA v3.3 for iOS is an innovative tool designed for those who require precise m",
+ "description": "Single-app source for Planimeter (com.zero.app.planimeter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Planimeter-Map-Measure-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zero.app.planimeter",
+   "name": "Planimeter",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Planimeter Map Measure IPA v3.3 for iOS is an innovative tool designed for those who require precise measurements of geographic area",
+   "localizedDescription": "ipaomtk.com | The Planimeter Map Measure IPA v3.3 for iOS is an innovative tool designed for those who require precise measurements of geographic area",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Planimeter-Map-Measure-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3",
+     "date": "2024-12-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Planimeter Map Measure IPA v3.3 for iOS is an innovative tool designed for those who require precise measurements of geographic area",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Planimeter_Map_Measure-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "com.intsig.CamScannerLite",
+ "identifier": "dev.perapp.com-intsig-camscannerlite",
+ "subtitle": "com.intsig.CamScannerLite",
+ "description": "Single-app source for com.intsig.CamScannerLite (com.intsig.CamScannerLite). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.intsig.CamScannerLite",
+   "name": "com.intsig.CamScannerLite",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with VIP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intsig.CamScannerLite.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.28.5",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "Injected with VIP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/_7.28.5_VIP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 214336750
+    },
+    {
+     "version": "4.3.6",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/_4.3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 245261473
+    },
+    {
+     "version": "4.3.5",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/_4.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 245269962
+    }
+   ]
+  }
+ ]
+}

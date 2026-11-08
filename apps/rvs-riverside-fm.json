@@ -1,0 +1,30 @@
+{
+ "name": "Riverside",
+ "identifier": "dev.perapp.rvs-riverside-fm",
+ "subtitle": "Riverside",
+ "description": "Single-app source for Riverside (RVS-Riverside.fm). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/RVS-Riverside.fm.png",
+ "apps": [
+  {
+   "bundleIdentifier": "RVS-Riverside.fm",
+   "name": "Riverside",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/RVS-Riverside.fm.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.5",
+     "date": "2025-12-16T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Riverside_4.5.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 104548419
+    }
+   ]
+  }
+ ]
+}

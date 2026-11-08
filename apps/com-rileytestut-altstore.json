@@ -1,0 +1,72 @@
+{
+ "name": "AltStore",
+ "identifier": "dev.perapp.com-rileytestut-altstore",
+ "subtitle": "AltStore by Riley Testut",
+ "description": "Single-app source for AltStore (com.rileytestut.AltStore). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "018084",
+ "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.AltStore",
+   "name": "AltStore",
+   "developerName": "Riley Testut",
+   "subtitle": "",
+   "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
+   "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+   "tintColor": "018084",
+   "screenshots": [
+    "https://user-images.githubusercontent.com/705880/277757391-76c02f48-be2a-485a-ba75-277480c99356.jpeg",
+    "https://user-images.githubusercontent.com/705880/277757303-ee0b7695-0e7d-4a93-8b25-4fbbbd3cb745.PNG",
+    "https://user-images.githubusercontent.com/705880/277757263-ef612879-0314-4464-a8f4-103e1f22fbb1.png",
+    "https://user-images.githubusercontent.com/705880/277757445-450618d1-6005-445e-bfd4-7c75387e990b.PNG",
+    "https://user-images.githubusercontent.com/705880/277757220-ebbf42dc-5153-4e2d-9ff4-4c25ad367941.PNG"
+   ],
+   "versions": [
+    {
+     "version": "2.3.2",
+     "date": "2026-10-28T13:00:00-04:00Z",
+     "localizedDescription": "This update fixes 503 and -80046 errors when sideloading and refreshing apps.\n\n⚠️ You may need to manually install this update by re-installing AltStore with AltServer. You do NOT need to delete AltStore first.",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_2.ipa",
+     "size": 40614848
+    },
+    {
+     "version": "2.3.1",
+     "date": "2026-10-21T11:00:00-04:00Z",
+     "localizedDescription": "This update fixes error -80045 when sideloading and refreshing apps.\n\n⚠️ You may need to manually install this update by re-installing AltStore with AltServer. You do NOT need to delete AltStore first.",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_1.ipa",
+     "size": 40614481
+    },
+    {
+     "version": "2.3",
+     "date": "2026-09-14T12:00:00-04:00Z",
+     "localizedDescription": "NEW\n\nRemote AltServer\n• Supports sideloading apps without a computer\n• Install, refresh, and (de-)activate apps from anywhere with a WiFi connection\n• Tap “Set up Remote AltServer” in AltStore settings to get started\n• Thanks @jkcoxson and the entire SideStore team for making this possible!\n\nLiquid Glass UI\n• Updated design to fit at home on iOS 26\n\nIMPROVED\n• Includes `ALT_CLASSIC_VER` header with current build version when fetching sources\n\nFIXED\n• Fixed unreadable text in light mode for some news alerts (thanks @partyknightsdev!)\n• Fixed showing empty text view for updates with no description\n• Fixed extra space above version description for app updates\n• Fixed category cells not being accessible with VoiceOver\n• Fixed My Apps tab badge count showing incorrect number of app updates",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3.ipa",
+     "size": 40649417
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     {
+      "name": "get-task-allow"
+     },
+     {
+      "name": "com.apple.security.application-groups"
+     },
+     {
+      "name": "aps-environment"
+     },
+     {
+      "name": "com.apple.developer.siri"
+     }
+    ],
+    "privacy": [
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "AltStore uses the local network to find and communicate with AltServer."
+     }
+    ]
+   }
+  }
+ ]
+}

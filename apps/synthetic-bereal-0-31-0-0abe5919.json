@@ -1,0 +1,30 @@
+{
+ "name": "BeReal_0.31.0",
+ "identifier": "dev.perapp.synthetic-bereal-0-31-0-0abe5919",
+ "subtitle": "BeRealUnBlur",
+ "description": "Single-app source for BeReal_0.31.0 (synthetic.bereal-0-31-0.0abe5919). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/BeReal_0.31.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.bereal-0-31-0.0abe5919",
+   "name": "BeReal_0.31.0",
+   "developerName": "BeReal_0.31.0 x CyPwn",
+   "subtitle": "BeRealUnBlur",
+   "localizedDescription": "BeRealUnBlur",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/BeReal_0.31.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.31.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "BeRealUnBlur",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/BeReal_0.31.0.ipa",
+     "size": 21904752
+    }
+   ]
+  }
+ ]
+}

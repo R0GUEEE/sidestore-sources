@@ -1,0 +1,37 @@
+{
+ "name": "Pro Baseball",
+ "identifier": "dev.perapp.com-haegin-kbo",
+ "subtitle": "ipaomtk.com | What is 2026 프로야구GO! IPA? 2026 프로야구GO! IPA is the iOS installation package of a Korean professional baseba",
+ "description": "Single-app source for Pro Baseball (com.haegin.kbo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/2026-go-thumbnail-50014939-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.haegin.kbo",
+   "name": "Pro Baseball",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is 2026 프로야구GO! IPA? 2026 프로야구GO! IPA is the iOS installation package of a Korean professional baseball simulation game that allows",
+   "localizedDescription": "ipaomtk.com | What is 2026 프로야구GO! IPA? 2026 프로야구GO! IPA is the iOS installation package of a Korean professional baseball simulation game that allows",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/2026-go-thumbnail-50014939-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.2",
+     "date": "2026-04-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is 2026 프로야구GO! IPA? 2026 프로야구GO! IPA is the iOS installation package of a Korean professional baseball simulation game that allows",
+     "downloadURL": "https://file.ipaomtk.com/2026-go/Pro-Baseball-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.9.0",
+     "date": "2026-04-19T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is 2026 프로야구GO! IPA? 2026 프로야구GO! IPA is the iOS installation package of a Korean professional baseball simulation game that allows",
+     "downloadURL": "https://file.ipaomtk.com/2026-go/Pro-Baseball-IPAOMTK.COM.ipa",
+     "size": 994794963
+    }
+   ]
+  }
+ ]
+}

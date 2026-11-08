@@ -1,0 +1,30 @@
+{
+ "name": "Coinsnap",
+ "identifier": "dev.perapp.com-coinidentifier-identifycoins",
+ "subtitle": "Coinsnap",
+ "description": "Single-app source for Coinsnap (com.coinidentifier.identifycoins). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coinidentifier.identifycoins.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.coinidentifier.identifycoins",
+   "name": "Coinsnap",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coinidentifier.identifycoins.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15.3",
+     "date": "2025-02-12T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/Coinsnap_1.15.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 98745859
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "PlantSnap",
+ "identifier": "dev.perapp.net-plantsnap-freemium",
+ "subtitle": "PlantSnap",
+ "description": "Single-app source for PlantSnap (net.plantsnap.freemium). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.plantsnap.freemium",
+   "name": "PlantSnap",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0.2",
+     "date": "2026-09-01T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/831",
+     "size": 86817383
+    },
+    {
+     "version": "8.0.0",
+     "date": "2026-08-06T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/831",
+     "size": 86695719
+    },
+    {
+     "version": "7.6.5",
+     "date": "2026-04-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/PlantSnap_7.6.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 57352627
+    }
+   ]
+  }
+ ]
+}

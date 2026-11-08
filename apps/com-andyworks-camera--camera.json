@@ -1,0 +1,44 @@
+{
+ "name": "Camera",
+ "identifier": "dev.perapp.com-andyworks-camera",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Camera (com.andyworks.camera). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.camera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.andyworks.camera",
+   "name": "Camera",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.camera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.61",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Camera  • Bundle ID: com.andyworks.camera • Updated to: 1.61 • Minimum iOS: 18.2 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12923-Not_Boring_Camera_v1_61_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 184801779
+    },
+    {
+     "version": "1.60",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Camera  • Bundle ID: com.andyworks.camera • Updated to: 1.60 • Minimum iOS: 18.2 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Camera_1.60_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 184734952
+    },
+    {
+     "version": "1.59",
+     "date": "2026-09-16T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Camera  • Bundle ID: com.andyworks.camera • Updated to: 1.59 • Minimum iOS: 18.2 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12236-Not_Boring_Camera_v1_59_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 184677506
+    }
+   ]
+  }
+ ]
+}

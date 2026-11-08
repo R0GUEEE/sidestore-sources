@@ -1,0 +1,37 @@
+{
+ "name": "Infantry Attack",
+ "identifier": "dev.perapp.com-unknown-infantryattack",
+ "subtitle": "Hack Features",
+ "description": "Single-app source for Infantry Attack (com.unknown.infantryattack). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Infantry.Attack.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.infantryattack",
+   "name": "Infantry Attack",
+   "developerName": "Karbin-Store",
+   "subtitle": "Hack Features",
+   "localizedDescription": "Hack Features",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Infantry.Attack.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "28.4",
+     "date": "2026-05-31T00:00:00Z",
+     "localizedDescription": "Hack Features",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Infantry_Attack__28_4_.ipa",
+     "size": 241880000
+    },
+    {
+     "version": "1.28.4",
+     "date": "2026-05-31T00:00:00Z",
+     "localizedDescription": "Hack Features",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Infantry_Attack__28_4_.ipa",
+     "size": 253567613
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Jellify",
+ "identifier": "dev.perapp.com-cosmonautical-jellify",
+ "subtitle": "A cross-platform, free and open source music player for Jellyfin, powered by React Native",
+ "description": "Single-app source for Jellify (com.cosmonautical.jellify). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#62b7e6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.cosmonautical.jellify.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cosmonautical.jellify",
+   "name": "Jellify",
+   "developerName": "Jellify-Music",
+   "subtitle": "A cross-platform, free and open source music player for Jellyfin, powered by React Native",
+   "localizedDescription": "?logo=ko-fi&logoColor=white&color=rgb(243%2C110%2C60)).\n\nInfo:\n\njellify (verb) - to make gelatinous see also.\n\nJellify is a free and open source music player for the Jellyfin Media Server. Built with React Native, it is available for both iOS and Android.\n\nShowcasing the artwork of your library, it has a user interface congruent to what the big guys do. Jellify also provides algorithmic curation of your music, driven by Jellyfin's Instant Mix and Suggestions APIs.\n\nThis app was designed with me and my dad in mind. I wanted us to have a sleek, one stop shop for live recordings of bands we like (read: the Grateful Dead). The UI was designed so that we'd find it instantly familiar and useful. CarPlay / Android Auto support was also a must for us, as we both use CarPlay religiously.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.cosmonautical.jellify.png",
+   "tintColor": "#62b7e6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Jellify-Music/App@main/screenshots/home.png",
+    "https://cdn.jsdelivr.net/gh/Jellify-Music/App@main/screenshots/library_artists.png",
+    "https://cdn.jsdelivr.net/gh/Jellify-Music/App@main/screenshots/library_albums.PNG",
+    "https://cdn.jsdelivr.net/gh/Jellify-Music/App@main/screenshots/library_downloaded_tracks.PNG",
+    "https://cdn.jsdelivr.net/gh/Jellify-Music/App@main/screenshots/artist.png"
+   ],
+   "versions": [
+    {
+     "version": "1.4.0",
+     "date": "2026-11-07T19:17:39Z",
+     "localizedDescription": "Welcome to Jellify 1.4.0.\n\nI am so excited to share all the wonderful improvements we have packed into this latest version! We have introduced some amazing new features like CarPlay support and several polish updates to your favorite interface elements. This update is all about making your music experience smoother, faster, and more enjoyable for everyone.\n\n• We have officially added CarPlay support, which includes a dedicated library tab for your road trips. We also introduced a new Your Playlists section and renamed the Add to Queue button to Play Later to make the app even more intuitive.\n\n• You will notice much faster loading times when browsing your music library thanks to some significant performance optimizations. We also upgraded our internal caching system to ensure your favorite playlists are always ready to play.\n\nIssues addressed:\n\n• [FEATURE] Add Ability to Switch App Icons (#370).\n• [BUG] Failed to \"Play Next\" with an Empty Queue (#551).\n• [BUG] Server Version not updating (#745).\n• [BUG] OGG Vorbis transcode even when streaming quality is set to original (#828).\n• [FEATURE] Add Library Tab to CarPlay (#1176).\n• [BUG] Seeking on a Transcoded Track Doesn't Work (#1308).\n• [BUG] Skipping next on the last track ignores \"Repeat All\" and stops playback (#1467).\n• [BUG] lyrics on white background (#1491).\n• [FEATURE] Centralized caches for user and public playlists (#1572).\n• [BUG] Shuffle toggle is slow — icon lags because tracks are removed one-by-one over the bridge (#1592).\n\nPull requests:\n\n• Inline lyrics in the player, fix lyrics readability on light artwork (#1545).\n• Fix server version not updating (#745) (#1546).\n• Direct play Ogg Opus on iOS (#828) (#1547).\n• Fix skip next ignoring Repeat All on the last track (#1549).\n• Fix Play Next / Add to Queue doing nothing when the queue is empty (#1550).\n• Fix seeking on transcoded tracks on Android (#1551).\n\n• Wrap to last track when skipping back from the first with Repeat All (#1553).\n• chore(deps): bump the tamagui group across 1 directory with 4 updates (#1557)[bot].\n• chore(deps-dev): bump @types/node from 26.6.5 to 26.6.6 in the types group across 1 directory (#1560)[bot].\n• chore(deps-dev): bump openai from 7.43.0 to 7.45.1 (#1562)[bot].\n• chore(deps): bump @legendapp/list from 3.6.0 to 3.7.0 (#1563)[bot].\n• Revert iOS Ogg Opus direct play (#1564).\n• ci: delete App-Bundles PR branches when a PR is closed (#1566).\n• Replace deprecated TanStack Query imperative methods (#1575).\n• Centralize user and public playlist caches (#1576).\n• Refactor lyric line item tap gesture and adjust horizontal margins (#1577).\n• fix(lyrics): initial scroll lands above the viewport (#1580).\n• fix(ci): fail OTA workflows when a platform fails to publish (#1581).\n• chore(deps): migrate to @jellyfin/sdk 1.0.2 (#1582).\n• chore: refactor query layer and reorganize services (#1584).\n• chore: move isExplicit util, fix Android Auto Favorites label (#1590).\n• perf(user-data): seed favorite state lazily from item user data (#1591).\n• Queue albums and playlists; rename Add to Queue to Play Later (#1594).\n• chore(deps): bump @sentry/react-native from 8.32.0 to 8.33.0 (#1601)[bot].\n• Refactor context menu components for albums, artists, and playlists (#1604).\n• Refactor ContextSheetHeader to use SizableText for consistency (#1605).\n• fix: make shuffle toggle instant by using native batch queue ops (#1608).\n\n• Sort Add to Playlist sheet by most recently updated playlists (#1613).\n• Add Recent Playlists section and refactor item list for scrolling (#1614).\n• chore(deps): bump the tanstack group across 1 directory with 3 updates (#1616)[bot].\n• chore(deps-dev): bump openai from 7.45.1 to 7.47.0 (#1619)[bot].\n• chore(deps): bump the react-native group across 1 directory with 12 updates (#1620)[bot].\n• chore(deps-dev): bump globals from 17.13.0 to 17.14.0 (#1621)[bot].\n• refactor: extract SwipeableRow gestures into useSwipeableRowGesture hook (#1623).\n• feat: CarPlay through react-native-nitro-player",
+     "downloadURL": "https://github.com/Jellify-Music/App/releases/download/1.4.0/Jellify-1.4.0.ipa",
+     "size": 38242006
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.carplay-audio",
+     "com.apple.developer.group-session",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Jellify uses the local network to connect to Jellyfin and stream music"
+    }
+   }
+  }
+ ]
+}

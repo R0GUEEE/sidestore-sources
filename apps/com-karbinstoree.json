@@ -1,0 +1,44 @@
+{
+ "name": "Omega Royale",
+ "identifier": "dev.perapp.com-karbinstoree",
+ "subtitle": "ئۆمیگا ڤی پی ئەکتیڤە ✅  هەمیشە دەتوانێت کاست سکیل (تەنانەت کاتێک لەسەر کوڵداون بێت) ✅",
+ "description": "Single-app source for Omega Royale (com.karbinstoree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/kara-img-7/Omega.Royale.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.karbinstoree",
+   "name": "Omega Royale",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئۆمیگا ڤی پی ئەکتیڤە ✅  هەمیشە دەتوانێت کاست سکیل (تەنانەت کاتێک لەسەر کوڵداون بێت) ✅",
+   "localizedDescription": "ئۆمیگا ڤی پی ئەکتیڤە ✅  هەمیشە دەتوانێت کاست سکیل (تەنانەت کاتێک لەسەر کوڵداون بێت) ✅",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/kara-img-7/Omega.Royale.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "ئۆمیگا ڤی پی ئەکتیڤە ✅  هەمیشە دەتوانێت کاست سکیل (تەنانەت کاتێک لەسەر کوڵداون بێت) ✅",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/kata-ipa-7/Omega.Royale._1.0.0_1739289271.ipa",
+     "size": 212040000
+    },
+    {
+     "version": "5.1.5",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "نرخی ئەم بەرنامە لە ئەپستۆر $29.99",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/kata-ipa-7/LumaFusion.R_5.1.5_1739271736.ipa",
+     "size": 161170000
+    },
+    {
+     "version": "1.2.8",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی یاری⚙️    پارەی بێسنوور ✅  گەوهەرە بێسنوورەکان ✅  هەموو نەخشەکان قفڵیان کردۆتەوە ✅  دڵە بێسنوورەکان ✅  وردکردنی بەستوو ✅",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/kata-ipa-7/Cooking.Trendy._1.2.8_1739368177.ipa",
+     "size": 152880000
+    }
+   ]
+  }
+ ]
+}

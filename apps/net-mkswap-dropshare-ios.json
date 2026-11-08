@@ -1,0 +1,44 @@
+{
+ "name": "Dropshare",
+ "identifier": "dev.perapp.net-mkswap-dropshare-ios",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Dropshare (net.mkswap.Dropshare-iOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.mkswap.Dropshare-iOS",
+   "name": "Dropshare",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.mkswap.Dropshare-iOS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.66",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@blatants | Dropshare - File Sharing Tool  • Bundle ID: net.mkswap.Dropshare-iOS • Updated to: 3.66 • Minimum iOS: 16.0 • Patched • Modifier: Subscrip",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Dropshare_3.66_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 74213557
+    },
+    {
+     "version": "3.65.2",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@blatants | Dropshare - File Sharing Tool  • Bundle ID: net.mkswap.Dropshare-iOS • Updated to: 3.65.2 • Minimum iOS: 15.0 • Patched • Modifier: Subscr",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Dropshare_3.65.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 74296589
+    },
+    {
+     "version": "3.65.1",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | Dropshare - File Sharing Tool  • Bundle ID: net.mkswap.Dropshare-iOS • Updated to: 3.65.1 • Minimum iOS: 15.0 • Patched • Modifier: Subscr",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13043-Dropshare_File_Sharing_Tool_v3_65_1_Subscription_Unlocked_blatant.ipa",
+     "size": 74296992
+    }
+   ]
+  }
+ ]
+}

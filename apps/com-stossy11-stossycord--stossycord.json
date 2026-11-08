@@ -1,0 +1,37 @@
+{
+ "name": "StossyCord",
+ "identifier": "dev.perapp.com-stossy11-stossycord",
+ "subtitle": "A Swift based discord client by Stossy11 Status: ✅",
+ "description": "Single-app source for StossyCord (com.stossy11.Stossycord). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://files.catbox.moe/l9tlpa.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stossy11.Stossycord",
+   "name": "StossyCord",
+   "developerName": "Stossy11",
+   "subtitle": "A Swift based discord client by Stossy11 Status: ✅",
+   "localizedDescription": "A Swift based discord client by Stossy11 Status: ✅",
+   "iconURL": "https://files.catbox.moe/l9tlpa.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Stossycord Rewrite:  Stossycord is a Discord Client Native to iOS Devices. It is made in 100% Swift and SwiftUI for Privacy, Responsiveness and Securi",
+     "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/1.0/Stossycord.ipa",
+     "size": 4161048
+    },
+    {
+     "version": "224.0",
+     "date": "2024-09-26T00:00:00Z",
+     "localizedDescription": "A Swift based discord client by Stossy11 Status: ✅",
+     "downloadURL": "https://github.com/Stossycord/Stossycord/releases/download/0.1.1/Stossycord.ipa",
+     "size": 96468992
+    }
+   ]
+  }
+ ]
+}

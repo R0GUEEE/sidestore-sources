@@ -1,0 +1,37 @@
+{
+ "name": "Provenance",
+ "identifier": "dev.perapp.com-provenance-emu-provenance",
+ "subtitle": "Provenance supports 60+ retro gaming systems including NES, SNES, N64, Genesis, PlayStation, GBA, and many more. Feature",
+ "description": "Single-app source for Provenance (com.provenance-emu.provenance). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Assets.xcassets/AppIcon.appiconset/appicon-1024.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.provenance-emu.provenance",
+   "name": "Provenance",
+   "developerName": "Provenance-EMU",
+   "subtitle": "Provenance supports 60+ retro gaming systems including NES, SNES, N64, Genesis, PlayStation, GBA, and many more. Features iCloud sync, controller skin",
+   "localizedDescription": "Provenance supports 60+ retro gaming systems including NES, SNES, N64, Genesis, PlayStation, GBA, and many more. Features iCloud sync, controller skin",
+   "iconURL": "https://raw.githubusercontent.com/Provenance-Emu/Provenance/develop/Provenance/Assets.xcassets/AppIcon.appiconset/appicon-1024.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.0",
+     "date": "2026-07-30T00:00:00Z",
+     "localizedDescription": "Provenance supports 60+ retro gaming systems including NES, SNES, N64, Genesis, PlayStation, GBA, and many more. Features iCloud sync, controller skin",
+     "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/3.3.0/Provenance-3.3.0-iOS.ipa",
+     "size": 1076407494
+    },
+    {
+     "version": "1.4",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "Relive the golden age of gaming.  Provenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPa",
+     "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/Provenance/Provenance.ipa?raw=true",
+     "size": 23191552
+    }
+   ]
+  }
+ ]
+}

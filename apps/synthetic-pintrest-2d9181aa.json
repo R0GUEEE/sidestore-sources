@@ -1,0 +1,30 @@
+{
+ "name": "Pintrest",
+ "identifier": "dev.perapp.synthetic-pintrest-2d9181aa",
+ "subtitle": "Pintrest by Pintrest",
+ "description": "Single-app source for Pintrest (synthetic.pintrest.2d9181aa). Converted from merged.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/9c/06/4b9c062c-b164-9837-68f1-237fb2cd4ac2/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.pintrest.2d9181aa",
+   "name": "Pintrest",
+   "developerName": "Pintrest",
+   "subtitle": "",
+   "localizedDescription": "Pintrest.",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/9c/06/4b9c062c-b164-9837-68f1-237fb2cd4ac2/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/100x100bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.0",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "Pintrest.",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/6784b91727a00ba08d0735df",
+     "size": 100546569
+    }
+   ]
+  }
+ ]
+}

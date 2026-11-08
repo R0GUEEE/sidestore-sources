@@ -1,0 +1,30 @@
+{
+ "name": "Mediaconvert",
+ "identifier": "dev.perapp.com-verycoolapp-mediaconvert",
+ "subtitle": "Mediaconvert",
+ "description": "Single-app source for Mediaconvert (com.verycoolapp.mediaconvert). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.verycoolapp.mediaconvert",
+   "name": "Mediaconvert",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Professional",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.verycoolapp.mediaconvert.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.26",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Professional",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Mediaconvert_3.26_Professional_%40thisismanpreets_apptesters.org.ipa",
+     "size": 66429977
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Dict Plus",
+ "identifier": "dev.perapp.com-unknown-dictplus",
+ "subtitle": "فەرهەنگ و وەرگێڕی عەرەبی-ئینگلیزی بریتییە لە: زیاتر لە ٥٠ هەزار وشە و زاراوە کە پێویستیان پێی نییە هێڵی ئینتەرنێت    تەو",
+ "description": "Single-app source for Dict Plus (com.unknown.dictplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Dict.Plus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.dictplus",
+   "name": "Dict Plus",
+   "developerName": "Karbin-Store",
+   "subtitle": "فەرهەنگ و وەرگێڕی عەرەبی-ئینگلیزی بریتییە لە: زیاتر لە ٥٠ هەزار وشە و زاراوە کە پێویستیان پێی نییە هێڵی ئینتەرنێت    تەواوی تایبەتمەندیە قوفڵ کراوەکان",
+   "localizedDescription": "فەرهەنگ و وەرگێڕی عەرەبی-ئینگلیزی بریتییە لە: زیاتر لە ٥٠ هەزار وشە و زاراوە کە پێویستیان پێی نییە هێڵی ئینتەرنێت    تەواوی تایبەتمەندیە قوفڵ کراوەکان",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Dict.Plus.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.8.17",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "فەرهەنگ و وەرگێڕی عەرەبی-ئینگلیزی بریتییە لە: زیاتر لە ٥٠ هەزار وشە و زاراوە کە پێویستیان پێی نییە هێڵی ئینتەرنێت    تەواوی تایبەتمەندیە قوفڵ کراوەکان",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Dict.Plus._5.8_1737319256.ipa",
+     "size": 67420000
+    },
+    {
+     "version": "5.8",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "فەرهەنگ و وەرگێڕی عەرەبی-ئینگلیزی بریتییە لە: زیاتر لە ٥٠ هەزار وشە و زاراوە کە پێویستیان پێی نییە هێڵی ئینتەرنێت    تەواوی تایبەتمەندیە قوفڵ کراوەکان",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Dict.Plus._5.8_1737319256.ipa",
+     "size": 70683192
+    }
+   ]
+  }
+ ]
+}

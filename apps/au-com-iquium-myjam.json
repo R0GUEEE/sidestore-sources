@@ -1,0 +1,30 @@
+{
+ "name": "StringMaster Jam",
+ "identifier": "dev.perapp.au-com-iquium-myjam",
+ "subtitle": "ipaomtk.com | StringMaster Jam IPA v4.0.3 is an innovative mobile application designed for musicians looking to enhance ",
+ "description": "Single-app source for StringMaster Jam (au.com.iquium.MyJam). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/StringMaster-Jam.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "au.com.iquium.MyJam",
+   "name": "StringMaster Jam",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | StringMaster Jam IPA v4.0.3 is an innovative mobile application designed for musicians looking to enhance their skills on stringed instr",
+   "localizedDescription": "ipaomtk.com | StringMaster Jam IPA v4.0.3 is an innovative mobile application designed for musicians looking to enhance their skills on stringed instr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/StringMaster-Jam.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.3",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | StringMaster Jam IPA v4.0.3 is an innovative mobile application designed for musicians looking to enhance their skills on stringed instr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/StringMaster_Jam-v4.0.3-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

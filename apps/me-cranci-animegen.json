@@ -1,0 +1,36 @@
+{
+ "name": "AnimeGen",
+ "identifier": "dev.perapp.me-cranci-animegen",
+ "subtitle": "A simple way to enjoy anime art",
+ "description": "Single-app source for AnimeGen (me.cranci.AnimeGen). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.cranci.AnimeGen.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.cranci.AnimeGen",
+   "name": "AnimeGen",
+   "developerName": "cranci1",
+   "subtitle": "A simple way to enjoy anime art",
+   "localizedDescription": "Index:\n\n• Third Party Software.\n\nScreenshot:\n\nYeah i need to add them.\n\nDownload:\n\nYou can download the IPA file for installation via TrollStore, AltStore, or Sideloadly. Alternatively, you can install the app via TestFlight. Please note that the nightly-IPA may be unstable. The Testflight beta build is recommended.\n\n• Testflight beta.\n\nAPIs:\n\nThanks to all the Developer that are providing this apis for public use! By cliccking the name of each API, you will be able to see the API website. Without them this project wouldn't exist, so thanks very much to all of them!\n\nIf you want to build the app yourself, follow these steps:\n\n• Ensure you have Xcode installed on your machine.\n• Clone the repo:.\n\n• Navigate to the directory:.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.cranci.AnimeGen.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.0",
+     "date": "2025-03-04T19:52:04Z",
+     "localizedDescription": "Finally AnimeGen v3.0.0. is here!:\n\nTook me a bit but i finally recoded the app completely. No new sources but they were all improved a lot. Some sources got removed since they were not working at lot for a lot of time.\n\nThe UI now is more simple and made to work all on the bottom of the screen. The app size is now 3 times smaller. The only real issue anyone could find is that it cant save .gif images yet.\n\nYou can either sideload the ipa or install AnimeGen via TestFlight.\n\nThe NSFW option has been removed and it will never return back.",
+     "downloadURL": "https://github.com/cranci1/AnimeGen/releases/download/v3.0.0/AnimeGen.ipa",
+     "size": 3026218
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryUsageDescription": "AnimeGen needs this to save images on the Photo Library."
+    }
+   }
+  }
+ ]
+}

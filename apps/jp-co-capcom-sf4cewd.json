@@ -1,0 +1,30 @@
+{
+ "name": "sf4cewd",
+ "identifier": "dev.perapp.jp-co-capcom-sf4cewd",
+ "subtitle": "ipaomtk.com | Street Fighter IV CE on iOS delivers a fighting game experience that feels remarkably close to its console",
+ "description": "Single-app source for sf4cewd (jp.co.capcom.sf4cewd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Street-Fighter-IV-CE-IPA-v1.08.02-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.co.capcom.sf4cewd",
+   "name": "sf4cewd",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Street Fighter IV CE on iOS delivers a fighting game experience that feels remarkably close to its console roots while being thoughtfull",
+   "localizedDescription": "ipaomtk.com | Street Fighter IV CE on iOS delivers a fighting game experience that feels remarkably close to its console roots while being thoughtfull",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Street-Fighter-IV-CE-IPA-v1.08.02-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.08.02",
+     "date": "2026-02-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Street Fighter IV CE on iOS delivers a fighting game experience that feels remarkably close to its console roots while being thoughtfull",
+     "downloadURL": "https://file.ipaomtk.com/Street-Fighter-IV/Street-Fighter-IV-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

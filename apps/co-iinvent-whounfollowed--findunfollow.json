@@ -1,0 +1,30 @@
+{
+ "name": "FindUnfollow",
+ "identifier": "dev.perapp.co-iinvent-whounfollowed",
+ "subtitle": "Tweaks: FUVIP",
+ "description": "Single-app source for FindUnfollow (co.iinvent.whounfollowed). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.iinvent.whounfollowed.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.iinvent.whounfollowed",
+   "name": "FindUnfollow",
+   "developerName": "DPixel",
+   "subtitle": "Tweaks: FUVIP",
+   "localizedDescription": "Tweaks: FUVIP\n\nTwitter followers manager. Know who unfollowed/blocked, track new followers, and a few other stats\nLast updated: 01-03-2023\nStatus: ❌\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.iinvent.whounfollowed.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.2",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Tweaks: FUVIP\n\nTwitter followers manager. Know who unfollowed/blocked, track new followers, and a few other stats Last updated: 01-03-2023 Status: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-03-2023/FindUnfollow-4.2.2.ipa",
+     "size": 9517006
+    }
+   ]
+  }
+ ]
+}

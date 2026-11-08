@@ -1,0 +1,30 @@
+{
+ "name": "Instagram Rhino",
+ "identifier": "dev.perapp.com-lema-michael-instagramapp",
+ "subtitle": "Instagram Rhino is tweaked version of the popular Instagram app. It adds all the features you've wanted, and more.",
+ "description": "Single-app source for Instagram Rhino (com.Lema.Michael.InstagramApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/i5M0PEk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Lema.Michael.InstagramApp",
+   "name": "Instagram Rhino",
+   "developerName": "Michael Lema",
+   "subtitle": "Instagram Rhino is tweaked version of the popular Instagram app. It adds all the features you've wanted, and more.",
+   "localizedDescription": "Instagram Rhino is tweaked version of the popular Instagram app. It adds all the features you've wanted, and more.",
+   "iconURL": "https://i.imgur.com/i5M0PEk.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "167.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Instagram Rhino is tweaked version of the popular Instagram app. It adds all the features you've wanted, and more.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Instagram-Rhino.ipa",
+     "size": 64923971
+    }
+   ]
+  }
+ ]
+}

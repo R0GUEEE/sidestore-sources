@@ -1,0 +1,30 @@
+{
+ "name": "PPSSPP",
+ "identifier": "dev.perapp.com-inj-ppsspp",
+ "subtitle": "PPSSPP, created by Henrik Rydgard, is a PSP emulator for iOS. PPSSPP may not run at full speed on older iPhones, iPads o",
+ "description": "Single-app source for PPSSPP (com.inj.ppsspp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://operationidroid.com/assets/img/ppsspp-icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inj.ppsspp",
+   "name": "PPSSPP",
+   "developerName": "Henrik Rydgard",
+   "subtitle": "PPSSPP, created by Henrik Rydgard, is a PSP emulator for iOS. PPSSPP may not run at full speed on older iPhones, iPads or iPods.",
+   "localizedDescription": "PPSSPP, created by Henrik Rydgard, is a PSP emulator for iOS. PPSSPP may not run at full speed on older iPhones, iPads or iPods.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://operationidroid.com/assets/img/ppsspp-icon.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.3",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "PPSSPP, created by Henrik Rydgard, is a PSP emulator for iOS. PPSSPP may not run at full speed on older iPhones, iPads or iPods.",
+     "downloadURL": "https://file.dlninja.com/signed/a117/ppsspp.ipa",
+     "size": 18487181
+    }
+   ]
+  }
+ ]
+}

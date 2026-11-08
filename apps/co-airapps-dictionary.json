@@ -1,0 +1,30 @@
+{
+ "name": "DictionaryAir",
+ "identifier": "dev.perapp.co-airapps-dictionary",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for DictionaryAir (co.airapps.dictionary). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.dictionary.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.airapps.dictionary",
+   "name": "DictionaryAir",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.dictionary.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.12.1",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/DictionaryAir_2025.12.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 74790436
+    }
+   ]
+  }
+ ]
+}

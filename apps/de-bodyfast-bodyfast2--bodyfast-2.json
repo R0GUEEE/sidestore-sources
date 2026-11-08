@@ -1,0 +1,30 @@
+{
+ "name": "Bodyfast",
+ "identifier": "dev.perapp.de-bodyfast-bodyfast2",
+ "subtitle": "Bodyfast",
+ "description": "Single-app source for Bodyfast (de.BodyFast.BodyFast2). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.BodyFast.BodyFast2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.BodyFast.BodyFast2",
+   "name": "Bodyfast",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.BodyFast.BodyFast2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.41.0",
+     "date": "2024-12-11T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2024/Bodyfast_3.41.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 41518449
+    }
+   ]
+  }
+ ]
+}

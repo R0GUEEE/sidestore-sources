@@ -1,0 +1,30 @@
+{
+ "name": "Walli",
+ "identifier": "dev.perapp.synthetic-walli-a4210190",
+ "subtitle": "Walli by Karbin-Store",
+ "description": "Single-app source for Walli (synthetic.walli.a4210190). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Walli.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.walli.a4210190",
+   "name": "Walli",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️ \n\n تایبەت مەندیە پارەکان کراوەنتۆ ✅\n ئەم بەرنامە تایبەتە بە وێنە بۆ سەرشاشەی موبایلەکەت ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Walli.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.75.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️ \n\n تایبەت مەندیە پارەکان کراوەنتۆ ✅\n ئەم بەرنامە تایبەتە بە وێنە بۆ سەرشاشەی موبایلەکەت ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Walli.1.75.0.ipa",
+     "size": 70110000
+    }
+   ]
+  }
+ ]
+}

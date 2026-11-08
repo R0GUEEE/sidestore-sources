@@ -1,0 +1,37 @@
+{
+ "name": "Spotify",
+ "identifier": "dev.perapp.com-spotify-client-2tl3l98kka",
+ "subtitle": "@compiledipas",
+ "description": "Single-app source for Spotify (com.spotify.client.2TL3L98KKA). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1435.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.2TL3L98KKA",
+   "name": "Spotify",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas",
+   "localizedDescription": "@compiledipas",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1435.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.76",
+     "date": "2026-08-21T00:00:00Z",
+     "localizedDescription": "@compiledipas | Liquid glass version with the build 2 update",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1447-EeveeSpotify-6.6.8_Spotify_v9.1.76_Patched_LG.ipa",
+     "size": 136322970
+    },
+    {
+     "version": "9.1.74",
+     "date": "2026-08-20T00:00:00Z",
+     "localizedDescription": "@compiledipas",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1435-EeveeSpotify-6.6.8_Spotify_v9.1.74_Patched_LG.ipa",
+     "size": 137323384
+    }
+   ]
+  }
+ ]
+}

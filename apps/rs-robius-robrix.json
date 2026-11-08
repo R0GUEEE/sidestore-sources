@@ -1,0 +1,49 @@
+{
+ "name": "Robrix",
+ "identifier": "dev.perapp.rs-robius-robrix",
+ "subtitle": "Robrix: a powerful multi-platform Matrix chat client written in Rust, using the Makepad UI toolkit and Robius platform a",
+ "description": "Single-app source for Robrix (rs.robius.robrix). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#676dc0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/rs.robius.robrix.png",
+ "apps": [
+  {
+   "bundleIdentifier": "rs.robius.robrix",
+   "name": "Robrix",
+   "developerName": "project-robius",
+   "subtitle": "Robrix: a powerful multi-platform Matrix chat client written in Rust, using the Makepad UI toolkit and Robius platform abstractions",
+   "localizedDescription": "Robrix: a Rust Matrix client built atop Robius:\n\nRobrix is a fast, powerful Matrix chat client written from scratch in Rust.\n\nIt brings some cool new features to the world of Matrix, like our signature \"dockable tabs\" layout that lets you view and interact with multiple rooms or threads simultaneously. This works just like your favorite multi-tab IDE or web browser, letting you keep tabs on as many conversations as you want.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/rs.robius.robrix.png",
+   "tintColor": "#676dc0",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-31T06:19:21Z",
+     "localizedDescription": "New features: find and add people/rooms/spaces, a new Room Info pane, better sync status indicator, improved Android performance (120 Hz!) and better battery life, and also 32-bit Android support.\n\nHighlights from this release:\n\n• 👥 Search for and add people (and rooms and spaces, like before).\n\n• You can search public directories of rooms and spaces too (see Settings to modify).\n• Find someone by name or user ID to start a direct message with them.\n\n• ℹ️ The new Room Info pane shows a room's details and options.\n• 🔄 The sync indicator now shows when Robrix is catching up, and when it was last synced.\n• Light or dark themes now apply to system UI too, like window title bars, soft keyboards, menus, etc.\n• ⚡ 🔋 Android performance and efficiency improvements: 120Hz buttery smooth refresh rate with no wasted battery while idle.\n• For older Android devices, we now build a 32-bit APK, and fix sharing of files on Android 8 & 9.\n• Lots of misc UI & UX improvements:.\n\n• It's now very obvious which tab is currently selected.\n• The Home tab is now close-able and only shows up when no other rooms are open.\n• Opening a new room focuses the message input so you can send a message with just one click.\n• You can now disable click-and-drag scrolling (with a mouse/trackpad; touch scrolling is always enabled).\n• Reply previews have a new curved arc pointing to the replied-to message.\n\n• Some minor bug fixes:.\n\n• SVG images now obey the max thumbnail height and can be opened in the full-screen image viewer.\n• Line breaks are now always preserved, both in HTML formatted and plain text messages.\n\n• Linux: CPU usage is even less now when Robrix is idle.\n\nFixes to the Matrix SDK:\n\n• Coming back to Robrix after a while no longer shows a brief \"Cannot reach the Matrix homeserver\" error.\n\nmacOS:\n\nDownload and open the .dmg, then drag Robrix to your Applications folder as normal.\n\niOS and iPadOS:\n\nJoin the TestFlight beta at https://testflight.apple.com/join/cQPRgdVY.\n\nLinux:\n\nUbuntu or Debian (and similar) distros.\n\nDownload and open that file in the Software Center (or App Center), or run this in your terminal:\n\nArch Linux.\n\nNote that the robrix_1.0.0-beta.5_x86_64.tar.gz and robrix_1.0.0-beta.5_aarch64.tar.gz files are just published for use with community-maintained AUR packages (see robrix-bin and robrix-git in that package manager). We can't guarantee they are correct or up-to-date.\n\nAppImage (for any Linux).\n\nWhat changed in Robrix since the last release:\n\n• Use via servers any time we join or link to a room.\n• Polish reply previews: use a curved arc, lighter styling, height consistency.\n\n• Support going back from the AddRoom screen via nav history.\n• Ensure that theme styles are kept across reloads/apply calls.\n• AppImage: don't bundle libwayland-client, which broke Wayland sessions.\n\n• InviteScreen: show details immediately to avoid jumps.\n• support searching for people, rooms, spaces with loose matching.\n• improve add room screen for searching for rooms/users.\n• Animate read marker in & out to avoid mild timeline jerks.\n• make the spacing after an HTML bullet point list a bit better.\n• Update the sync indicator more quickly.\n• Track and show the latest sync time.\n• AddRoom: add clear buttons, support Tab between result lists.\n• Keep the timeline anchored when collapsing/expanding reply & link previews.\n• Makepad perf on Android, AddRoom screen tweaks.\n• Makepad: pause Android render loop when idle, adjust typing notice animation.\n• After clicking on a room/thread, focus the room input bar.\n• Set nav history menu's width dynamically based on items width.\n\n• Makepad: use more standard text wrapping / line break rules.\n• Makepad: make SVG images obey max thumbnail height and open on click.\n• Make emoji-only reactions a little bit larger.\n• Show emoji shortcodes in reaction tooltips.\n• Add Room Info pane, plus in-pane sliding animations.\n• Include other room directories when searching room/spaces.\n• Makepad: let the UI thread sleep when idle on Lin",
+     "downloadURL": "https://github.com/project-robius/robrix/releases/download/v1.0.0-beta.5/robrix-1.0.0-beta.5-ios-aarch64.ipa",
+     "size": 64432202
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.developer.usernotifications.communication",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "This app needs access to the camera for video capture functionality.",
+     "NSFaceIDUsageDescription": "For biometric authentication",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "For basic location access.",
+     "NSLocationUsageDescription": "For basic location access.",
+     "NSLocationWhenInUseUsageDescription": "For basic location access.",
+     "NSMicrophoneUsageDescription": "Robrix uses your microphone for speech-to-text dictation.",
+     "NSSpeechRecognitionUsageDescription": "Robrix uses speech recognition to let you dictate messages that you can review before sending."
+    }
+   }
+  }
+ ]
+}

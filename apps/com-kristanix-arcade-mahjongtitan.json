@@ -1,0 +1,30 @@
+{
+ "name": "Mahjong",
+ "identifier": "dev.perapp.com-kristanix-arcade-mahjongtitan",
+ "subtitle": "ipaomtk.com | Mahjong is one of the most iconic and beloved tabletop games in East Asian culture. With origins tracing b",
+ "description": "Single-app source for Mahjong (com.kristanix.arcade.mahjongtitan). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/Mahjong--150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kristanix.arcade.mahjongtitan",
+   "name": "Mahjong",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Mahjong is one of the most iconic and beloved tabletop games in East Asian culture. With origins tracing back to the mid-19th century, t",
+   "localizedDescription": "ipaomtk.com | Mahjong is one of the most iconic and beloved tabletop games in East Asian culture. With origins tracing back to the mid-19th century, t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/Mahjong--150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.2",
+     "date": "2023-05-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Mahjong is one of the most iconic and beloved tabletop games in East Asian culture. With origins tracing back to the mid-19th century, t",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Mahjong.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

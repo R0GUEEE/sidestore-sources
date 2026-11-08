@@ -1,0 +1,44 @@
+{
+ "name": "Magic Sort",
+ "identifier": "dev.perapp.com-grandgames-magicsort",
+ "subtitle": "@riftysIPAlibrary | Magic Sort!  Tweak: Free iAP  Version: 0.0.2929  Patched ✓  @riftysIPAlibrary  Additional Informatio",
+ "description": "Single-app source for Magic Sort (com.grandgames.magicsort). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7296.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.grandgames.magicsort",
+   "name": "Magic Sort",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Magic Sort!  Tweak: Free iAP  Version: 0.0.2929  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bun",
+   "localizedDescription": "@riftysIPAlibrary | Magic Sort!  Tweak: Free iAP  Version: 0.0.2929  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bun",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7296.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.3425",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Magic Sort!  Tweak: Free iAP  Version: 0.0.3425  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bun",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8803-Magic%20Sort%21-v0.0.3425-riftysipas.ipa",
+     "size": 213441617
+    },
+    {
+     "version": "0.0.3369",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Magic Sort!  Tweak: Free iAP  Version: 0.0.3369  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bun",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8510-Magic%20Sort%21-v0.0.3369-riftysipas.ipa",
+     "size": 213282286
+    },
+    {
+     "version": "0.0.3292",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Magic Sort!  Tweak: Free iAP  Version: 0.0.3292  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bun",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8231-Magic%20Sort%21-v0.0.3292-riftysipas.ipa",
+     "size": 210889944
+    }
+   ]
+  }
+ ]
+}

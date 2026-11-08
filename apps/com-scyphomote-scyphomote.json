@@ -1,0 +1,40 @@
+{
+ "name": "Scyphomote",
+ "identifier": "dev.perapp.com-scyphomote-scyphomote",
+ "subtitle": "A Jellyfin Remote app",
+ "description": "Single-app source for Scyphomote (com.scyphomote.scyphomote). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6a71c5",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.scyphomote.scyphomote.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scyphomote.scyphomote",
+   "name": "Scyphomote",
+   "developerName": "eiffelbeef",
+   "subtitle": "A Jellyfin Remote app",
+   "localizedDescription": "Scyphomote:\n\nScyphomote is a dedicated remote control for Jellyfin, built with Flutter.\n\nFeatures:\n\n• Multi-server and multi-user management.\n• Playback controls: Play, pause, stop, seek, volume.\n• Advanced controls: Fast forward, rewind, and track skipping.\n• Media Library: Browse and play movies, shows, and music directly from the app.\n• Queue management: Add songs/albums to the queue, reorder it, jump to a specific song etc.\n• Content info: Consult cast, synopsis, premiere data of the movie/episode/season/series you're watching.\n• Resume Watching: Resume playback on supported devices.\n• Segment Skipping: Skip intros, outros, and other segments.\n• Communication: Send messages to active sessions.\n• Stream Selection: Change audio tracks and subtitles on the fly.\n• Remote Navigation: Full directional remote for controlling any Jellyfin client interface that supports it.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.scyphomote.scyphomote.png",
+   "tintColor": "#6a71c5",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/eiffelbeef/scyphomote@main/screenshots/movie_dark.png",
+    "https://cdn.jsdelivr.net/gh/eiffelbeef/scyphomote@main/screenshots/music_light.png",
+    "https://cdn.jsdelivr.net/gh/eiffelbeef/scyphomote@main/screenshots/sessions_dark.png",
+    "https://cdn.jsdelivr.net/gh/eiffelbeef/scyphomote@main/screenshots/remote_dark.png",
+    "https://cdn.jsdelivr.net/gh/eiffelbeef/scyphomote@main/screenshots/library_dark.png"
+   ],
+   "versions": [
+    {
+     "version": "1.21.1",
+     "date": "2026-11-01T23:58:49Z",
+     "localizedDescription": "• (android) prevent background monitoring from crashing the app when the app is force closed.",
+     "downloadURL": "https://github.com/eiffelbeef/scyphomote/releases/download/v1.21.1/scyphomote-ios.ipa",
+     "size": 9234375
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

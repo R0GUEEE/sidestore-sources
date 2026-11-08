@@ -1,0 +1,44 @@
+{
+ "name": "Spotify",
+ "identifier": "dev.perapp.com-spotify-client",
+ "subtitle": "@compiledipas | Ok, this one I just want to use it to troll my friends, if you're using this build, send a screenshot of",
+ "description": "Single-app source for Spotify (com.spotify.client). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1275.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client",
+   "name": "Spotify",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | Ok, this one I just want to use it to troll my friends, if you're using this build, send a screenshot of the settings page(look at the",
+   "localizedDescription": "@compiledipas | Ok, this one I just want to use it to troll my friends, if you're using this build, send a screenshot of the settings page(look at the",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1275.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.94",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Spotify 9.1.94  ▪EeveeSpotify custom icons included ▪Updated to Spotify 9.1.94 Builds: ▪EeveeSpotify 7.0.0 (Patched) ▪EeveeSpoti",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/999-Spotify%209.1.94%20%28EeveeSpotify%207.0.0%29%20%5B@ipavault%5D.ipa",
+     "size": 132994312
+    },
+    {
+     "version": "9.1.92",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Spotify 9.1.92  ▪EeveeSpotify custom icons included ▪Updated to Spotify 9.1.92 Builds: ▪EeveeSpotify 7.0.0 (Patched) ▪EeveeSpoti",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/934-Spotify%209.1.92%20%28EeveeSpotify%207.0.0%29%20%5B@ipavault%5D.ipa",
+     "size": 147874243
+    },
+    {
+     "version": "9.1.90",
+     "date": "2026-10-09T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Spotify 9.1.90  ▪Full EeveeSpotify custom icons included Builds: ▪EeveeSpotify 7.0.0 + Vitrine (Patched) ▪EeveeSpotify 7.0.0 + V",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/812-Spotify%209.1.90%20%28Eevee+Vitrine%29%20%5B@ipavault%5D.ipa",
+     "size": 142205605
+    }
+   ]
+  }
+ ]
+}

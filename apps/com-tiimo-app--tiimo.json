@@ -1,0 +1,44 @@
+{
+ "name": "tiimo",
+ "identifier": "dev.perapp.com-tiimo-app",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for tiimo (com.tiimo.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tiimo.app",
+   "name": "tiimo",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tiimo.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.37.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Tiimo_3.37.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 107758457
+    },
+    {
+     "version": "3.60.0",
+     "date": "2026-07-06T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/tiimo_3.60.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 117891193
+    },
+    {
+     "version": "3.54.0",
+     "date": "2026-05-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-05-2026/Tiimo_3.54.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 93537157
+    }
+   ]
+  }
+ ]
+}

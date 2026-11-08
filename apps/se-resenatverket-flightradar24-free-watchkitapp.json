@@ -1,0 +1,30 @@
+{
+ "name": "Flightradar24Gold",
+ "identifier": "dev.perapp.se-resenatverket-flightradar24-free-watchkitapp",
+ "subtitle": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in rea",
+ "description": "Single-app source for Flightradar24Gold (se.resenatverket.FlightRadar24-Free.watchkitapp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "se.resenatverket.FlightRadar24-Free.watchkitapp",
+   "name": "Flightradar24Gold",
+   "developerName": "binnichtaktiv's iPA Library / AppDB",
+   "subtitle": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log…",
+   "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log in first to use Gold features!\nLast updated: 07-12-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/se.resenatverket.FlightRadar24-Free.watchkitapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.24.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Injected with Gold. Flightradar24 stands as the leading live flight tracker, displaying air traffic as it happens in real-time. Note: You must log…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Flightradar24Gold/Flightradar24Gold-9.24.0.ipa",
+     "size": 152111330
+    }
+   ]
+  }
+ ]
+}

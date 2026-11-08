@@ -1,0 +1,30 @@
+{
+ "name": "Auto Clicker",
+ "identifier": "dev.perapp.com-unknown-autoclicker",
+ "subtitle": "✅Activate Premium   ✅Click buy and then cancel   ✅NO ADS",
+ "description": "Single-app source for Auto Clicker (com.unknown.autoclicker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Auto.Clicker.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.autoclicker",
+   "name": "Auto Clicker",
+   "developerName": "Karbin-Store",
+   "subtitle": "✅Activate Premium   ✅Click buy and then cancel   ✅NO ADS",
+   "localizedDescription": "✅Activate Premium   ✅Click buy and then cancel   ✅NO ADS",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Auto.Clicker.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "✅Activate Premium   ✅Click buy and then cancel   ✅NO ADS",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/AutoClicker.1.1.ipa",
+     "size": 10070000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Half-Life 1",
+ "identifier": "dev.perapp.com-glesign-halflife1",
+ "subtitle": "Half-Life 1",
+ "description": "Single-app source for Half-Life 1 (com.GLESign.HalfLife1). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.GLESign.HalfLife1",
+   "name": "Half-Life 1",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nHalf-Life 1 v0.20\n\n🇷🇺 Революционный шутер про учёного в эпическом противостоянии с пришельцами. Теперь на iOS.\n— порт через xash3d\n© Создано: GLESign\n\n🇺🇸 A revolutionary shooter about a scientist in an epic confrontation with aliens. Now on iOS.\n— port via xash3d\n© Created: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.20",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nHalf-Life 1 v0.20\n\n🇷🇺 Революционный шутер про учёного в эпическом противостоянии с пришельцами. Теперь на iOS.\n— порт через xash3d\n© Создано: GLESign\n\n🇺🇸 A revolutionary shooter about a scientist in an epic confrontation with aliens. Now on iOS.\n— port via xash3d\n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/8fe0f510-d0f5-4bd8-b15e-faa4cd1cda81/Half-Life_1_v0.20_tg_glesign_.ipa",
+     "size": 534789766
+    }
+   ]
+  }
+ ]
+}

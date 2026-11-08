@@ -1,0 +1,37 @@
+{
+ "name": "Batteried",
+ "identifier": "dev.perapp.com-34306-waifuts",
+ "subtitle": "Batteried by Neoncat-OG IPA Library",
+ "description": "Single-app source for Batteried (com.34306.waifuts). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.34306.waifuts.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.34306.waifuts",
+   "name": "Batteried",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.34306.waifuts.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Batteried/Batteried-1.0.ipa",
+     "size": 1811902
+    },
+    {
+     "version": "2.0.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Batteried/Batteried-1.0.ipa",
+     "size": 1811902
+    }
+   ]
+  }
+ ]
+}

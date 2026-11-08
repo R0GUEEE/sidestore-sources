@@ -1,0 +1,44 @@
+{
+ "name": "TruecallerPremium",
+ "identifier": "dev.perapp.com-truesoftware-truecallerother",
+ "subtitle": "TruecallerPremium",
+ "description": "Single-app source for TruecallerPremium (com.truesoftware.TrueCallerOther). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+   "name": "TruecallerPremium",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.69.6",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TruecallerPremium/TruecallerPremium-12.69.6.ipa",
+     "size": 88640952
+    },
+    {
+     "version": "12.75.4",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TruecallerPremium/TruecallerPremium-12.75.4.ipa",
+     "size": 94163248
+    },
+    {
+     "version": "12.76.6",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TruecallerPremium/TruecallerPremium-12.76.6.ipa",
+     "size": 97623150
+    }
+   ]
+  }
+ ]
+}

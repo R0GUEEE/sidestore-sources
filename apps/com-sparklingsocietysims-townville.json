@@ -1,0 +1,37 @@
+{
+ "name": "Town Village",
+ "identifier": "dev.perapp.com-sparklingsocietysims-townville",
+ "subtitle": "ipaomtk.com | Town Village IPA is a completely unique mixture of town-constructing and farming! Build your dream village",
+ "description": "Single-app source for Town Village (com.sparklingsocietysims.townville). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-town-village-farm-build-city-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sparklingsocietysims.townville",
+   "name": "Town Village",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Town Village IPA is a completely unique mixture of town-constructing and farming! Build your dream village such as houses, Town Village ",
+   "localizedDescription": "ipaomtk.com | Town Village IPA is a completely unique mixture of town-constructing and farming! Build your dream village such as houses, Town Village ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-town-village-farm-build-city-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.14.1",
+     "date": "2023-02-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Town Village IPA is a completely unique mixture of town-constructing and farming! Build your dream village such as houses, Town Village ",
+     "downloadURL": "https://file.ipaomtk.com/town-village-ipa/Town-Village-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.16.0",
+     "date": "2023-02-16T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Town Village IPA is a completely unique mixture of town-constructing and farming! Build your dream village such as houses, Town Village ",
+     "downloadURL": "https://file.ipaomtk.com/town-village-ipa/Town-Village-IPAOMTK.COM.ipa",
+     "size": 71287007
+    }
+   ]
+  }
+ ]
+}

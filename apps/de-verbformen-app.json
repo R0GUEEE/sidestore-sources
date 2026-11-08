@@ -1,0 +1,37 @@
+{
+ "name": "Words",
+ "identifier": "dev.perapp.de-verbformen-app",
+ "subtitle": "ipaomtk.com | What is German Dictionary for Learners IPA? German Dictionary for Learners IPA is the iOS installation fil",
+ "description": "Single-app source for Words (de.verbformen.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/German-Dictionary-for-Learners-IPA-v4.9.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "de.verbformen.app",
+   "name": "Words",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is German Dictionary for Learners IPA? German Dictionary for Learners IPA is the iOS installation file of a dedicated language-lear",
+   "localizedDescription": "ipaomtk.com | What is German Dictionary for Learners IPA? German Dictionary for Learners IPA is the iOS installation file of a dedicated language-lear",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/German-Dictionary-for-Learners-IPA-v4.9.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.9",
+     "date": "2026-08-20T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | German Dictionary for Learners 🧸 Min.iOS: [14.0+] 🧀 App version: [5.1.9] !upd  🪼 App Store: https://apps.apple.com/app/id1638334347 📮 Not",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/11586-Words_v5.1.9_tg@Sa1y0miii.ipa",
+     "size": 24676325
+    },
+    {
+     "version": "4.7.0",
+     "date": "2026-04-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is German Dictionary for Learners IPA? German Dictionary for Learners IPA is the iOS installation file of a dedicated language-lear",
+     "downloadURL": "https://file.ipaomtk.com/german-dictionary-for-learners/Dictionary-German-Words-IPAOMTK.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

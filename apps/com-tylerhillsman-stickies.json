@@ -1,0 +1,44 @@
+{
+ "name": "Sticky Widgets",
+ "identifier": "dev.perapp.com-tylerhillsman-stickies",
+ "subtitle": "@riftysIPAlibrary | Sticky Widgets  Tweak: Subscription Unlocked  Version: 5.1.0  Patched ✓  @riftysIPAlibrary  Addition",
+ "description": "Single-app source for Sticky Widgets (com.tylerhillsman.Stickies). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7274.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tylerhillsman.Stickies",
+   "name": "Sticky Widgets",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Sticky Widgets  Tweak: Subscription Unlocked  Version: 5.1.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+   "localizedDescription": "@riftysIPAlibrary | Sticky Widgets  Tweak: Subscription Unlocked  Version: 5.1.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7274.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.2",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Sticky Widgets  Tweak: Subscription Unlocked  Version: 5.4.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8852-Sticky%20Widgets-v5.4.2-riftysipas.ipa",
+     "size": 59581298
+    },
+    {
+     "version": "5.4.1",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Sticky Widgets  Tweak: Subscription Unlocked  Version: 5.4.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8738-Sticky%20Widgets-v5.4.1-riftysipas.ipa",
+     "size": 59538041
+    },
+    {
+     "version": "5.4.0",
+     "date": "2026-10-18T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Sticky Widgets  Tweak: Subscription Unlocked  Version: 5.4.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Vers",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8401-Sticky%20Widgets-v5.4.0-riftysipas.ipa",
+     "size": 55328266
+    }
+   ]
+  }
+ ]
+}

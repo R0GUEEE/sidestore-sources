@@ -1,0 +1,36 @@
+{
+ "name": "RAtouch",
+ "identifier": "dev.perapp.com-chrissotraidis-ratouch",
+ "subtitle": "Command & Conquer: Red Alert, optimized for iPad and iOS",
+ "description": "Single-app source for RAtouch (com.chrissotraidis.ratouch). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#c23f36",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.ratouch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chrissotraidis.ratouch",
+   "name": "RAtouch",
+   "developerName": "chrissotraidis",
+   "subtitle": "Command & Conquer: Red Alert, optimized for iPad and iOS",
+   "localizedDescription": "RAtouch is an Apple-platform port of the original Red Alert engine with one central goal: make a keyboard-and-mouse RTS genuinely playable by touch without redesigning the game underneath it.\n\nTap selects or orders. One finger drag-selects. Two fingers move the map. Pinch zooms the presentation. A hold becomes the original right-click. A slim native command deck supplies the keyboard actions and control groups an iPad otherwise lacks.\n\nThe campaigns, skirmish AI, movies, music, saves, production sidebar, hotkeys, and simulation rules remain engine-owned. RAtouch changes the platform and control layers around them.\n\nThis repository contains engine, platform code, project artwork, and one reviewed gameplay capture. It does not contain playable commercial game data. You provide legally acquired compatible data on your own device.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chrissotraidis.ratouch.png",
+   "tintColor": "#c23f36",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/ratouch@main/docs/images/ratouch-gameplay.png"
+   ],
+   "versions": [
+    {
+     "version": "0.1.1",
+     "date": "2026-10-30T03:12:28Z",
+     "localizedDescription": "RAtouch 0.1.1 fixes a partial-import failure: a selection containing an invalid ISO alongside otherwise complete supported game files could previously install just the readable files and report success. Import now rejects the entire selection as soon as an ISO cannot be extracted, preserving installed data and any existing validated replacement. The iPad setup screen displays the failed attempt even when previous data remains ready.\n\nThis release also includes the previously merged UIKit scene startup update for builds made with Xcode 27.\n\nThe regression was reproduced against the previous importer with privately supplied supported Steam files and the unchanged production size/SHA-256 manifest and MIX validator. The corrected importer passes valid imports, failed-selection rejection, installed receipt/save preservation, and pending-replacement preservation. The full 26-test native suite and dedicated hosted Mac/iOS build checks passed. The unsigned iOS package reports 0.1.1/build 2, contains no game data, and passed the private artifact gate along with its checksum.\n\nThis remains an unsigned public alpha for self-signing and sideloading. Install it over the existing app with the same signing identity to retain the app container. PadMint continues to link to this downloadable app. Picker filtering and UI threading are unchanged; exact physical-device/provider selection behavior is a separate check.\n\nVerify the IPA against RAtouch-v0.1.1-SHA256.txt before installing.",
+     "downloadURL": "https://github.com/chrissotraidis/ratouch/releases/download/v0.1.1/RAtouch-v0.1.1-unsigned.ipa",
+     "size": 2524541
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

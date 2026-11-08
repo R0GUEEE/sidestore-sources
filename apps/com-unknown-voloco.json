@@ -1,0 +1,30 @@
+{
+ "name": "Voloco",
+ "identifier": "dev.perapp.com-unknown-voloco",
+ "subtitle": "ئەپڵیکەیشنێکە بۆ دەستکاریکردنی ڤیدیۆ، بە تایبەتمەندی تەواوەوە",
+ "description": "Single-app source for Voloco (com.unknown.voloco). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Voloco.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.voloco",
+   "name": "Voloco",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپڵیکەیشنێکە بۆ دەستکاریکردنی ڤیدیۆ، بە تایبەتمەندی تەواوەوە",
+   "localizedDescription": "ئەپڵیکەیشنێکە بۆ دەستکاریکردنی ڤیدیۆ، بە تایبەتمەندی تەواوەوە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Voloco.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.3",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "ئەپڵیکەیشنێکە بۆ دەستکاریکردنی ڤیدیۆ، بە تایبەتمەندی تەواوەوە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Voloco_9.1.3.ipa",
+     "size": 77720000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "BHTikTokLRD",
+ "identifier": "dev.perapp.com-zhiliaoapp-musically",
+ "subtitle": "BHTikTokLRD by m7",
+ "description": "Single-app source for BHTikTokLRD (com.zhiliaoapp.musically). Converted from swaggy.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zhiliaoapp.musically",
+   "name": "BHTikTokLRD",
+   "developerName": "m7",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "30.3.0",
+     "date": "2023-07-14T00:00:00Z",
+     "localizedDescription": "This is arguably the most complete mod for TikTok, bundling both BHTikTok and TikTokLRD v3.0 in the same app. See the descriptions of these separate apps for more info\nLast updated: 07-14-2023\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-14-2023/BHTikTokLRD-30.3.0.ipa",
+     "size": 239475937
+    }
+   ]
+  }
+ ]
+}

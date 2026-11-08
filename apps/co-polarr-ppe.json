@@ -1,0 +1,30 @@
+{
+ "name": "Polarr",
+ "identifier": "dev.perapp.co-polarr-ppe",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for Polarr (co.polarr.ppe). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.polarr.ppe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.polarr.ppe",
+   "name": "Polarr",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.polarr.ppe.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.11.6",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2025/Polarr_6.11.6_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 195124416
+    }
+   ]
+  }
+ ]
+}

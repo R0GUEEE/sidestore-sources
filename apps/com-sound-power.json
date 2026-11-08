@@ -1,0 +1,30 @@
+{
+ "name": "SilaZvuka",
+ "identifier": "dev.perapp.com-sound-power",
+ "subtitle": "@ipa_dark | 🔄 СберЗвук | HiFi  🇷🇺 Приложение для прослушивания музыки сбера  💡 Нужна подписка прайм, не взломано  ℹ️ Осо",
+ "description": "Single-app source for SilaZvuka (com.sound.power). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1760.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sound.power",
+   "name": "SilaZvuka",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 СберЗвук | HiFi  🇷🇺 Приложение для прослушивания музыки сбера  💡 Нужна подписка прайм, не взломано  ℹ️ Особенности: ▎Удалено с AppStore.",
+   "localizedDescription": "@ipa_dark | 🔄 СберЗвук | HiFi  🇷🇺 Приложение для прослушивания музыки сбера  💡 Нужна подписка прайм, не взломано  ℹ️ Особенности: ▎Удалено с AppStore.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1760.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 СберЗвук | HiFi  🇷🇺 Приложение для прослушивания музыки сбера  💡 Нужна подписка прайм, не взломано  ℹ️ Особенности: ▎Удалено с AppStore.",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1760-Sber%20Music%20HiFi%20%5Bv1.7.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 163785001
+    }
+   ]
+  }
+ ]
+}

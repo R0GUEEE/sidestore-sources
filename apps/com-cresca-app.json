@@ -1,0 +1,40 @@
+{
+ "name": "Cresca",
+ "identifier": "dev.perapp.com-cresca-app",
+ "subtitle": "Cresca Music - Apple Music style player powered by live YouTube data",
+ "description": "Single-app source for Cresca (com.cresca.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cresca.app",
+   "name": "Cresca",
+   "developerName": "ritz0007",
+   "subtitle": "Cresca Music - Apple Music style player powered by live YouTube data",
+   "localizedDescription": "Cresca Music:\n\nCresca, from crescendo: music that keeps growing. Your music, flowing.\n\nCresca is a free, Apple Music styled music player for Android, powered by live YouTube data. Search millions of songs, stream instantly, sing along with synced karaoke lyrics, build playlists, download for offline listening, and sign in with your YouTube session. Everything stays on your device: no account, no analytics, no server.\n\nFeatures:\n\nEvery item below exists in the code. Nothing here is a roadmap wish.\n\n• Real YouTube audio. Search plus signature deciphered streams, gapless queue playback, smart shuffle, repeat, and a multi GB predictive cache so skips start instantly.\n• Vibe queue. Up Next is matched to the song mood through YouTube related data, with same name clones, one singer loops, mixes, and hour long uploads filtered out.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ritz0007/Cresca@main/docs/img/02-home.png",
+    "https://cdn.jsdelivr.net/gh/ritz0007/Cresca@main/docs/img/03-player.png",
+    "https://cdn.jsdelivr.net/gh/ritz0007/Cresca@main/docs/img/04-queue.png",
+    "https://cdn.jsdelivr.net/gh/ritz0007/Cresca@main/docs/img/05-library.png",
+    "https://cdn.jsdelivr.net/gh/ritz0007/Cresca@main/docs/img/01-splash.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0.0",
+     "date": "2026-10-11T23:59:11Z",
+     "localizedDescription": "Cresca Music v2.0.0:\n\nFirst branded release: transparent light/dark logo marks, Cresca Music naming everywhere, one-tap bundled Spotify login, and upload-key signed APKs for every device.\n\nA Play Protect prompt (\"unknown developer\") is normal for apps installed outside the Play Store — tap \"Install anyway\". Only Play Store distribution removes that screen.\n\nSignatures (this release is signed, not debug):\n\n• SHA-1: B4:90:56:3E:69:0E:19:83:CE:FA:F2:F2:EA:89:8C:DF:09:2E:08:FF.\n• SHA-256: F3:6C:5A:99:AE:9E:A8:D0:BE:20:4D:82:46:31:27:0E:99:F8:CE:0E:76:27:64:94:83:D5:B0:94:04:78:FF:AE.\n• Key: RSA, valid to 2051. Keep this certificate: all future updates must use it or Android will refuse to install over this build.\n\nWhat's new:\n\n• New brand: transparent logo (white ring in light mode, black in dark), logo in the home header, boot + splash screens, launcher icons, README.\n• App name is Cresca Music across launcher, titles, banners, About.\n• Spotify import: no more Client ID field — one-tap Connect, key bundled.\n• Podcasts tab, Spotify sync, Live Updates progress chip, liquid-glass bars.\n\niPhone users:\n\nCresca-iOS-unsigned.ipa attaches to this release automatically once the free CI build finishes (~10 min). It is UNSIGNED (Apple's rules): install via Sideloadly/AltStore with your Apple ID (free = 7-day refresh) — full steps in ios-sideload/README-IOS.md.\n\nNotes:\n\n• No account, no analytics. Data stays on your device.",
+     "downloadURL": "https://github.com/ritz0007/Cresca/releases/download/v2.0.0/Cresca-iOS-unsigned.ipa",
+     "size": 55728
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

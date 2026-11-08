@@ -1,0 +1,37 @@
+{
+ "name": "PostboxPocket",
+ "identifier": "dev.perapp.com-simplycode-postbox-pocket",
+ "subtitle": "App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager L",
+ "description": "Single-app source for PostboxPocket (com.simplycode.PostBox-Pocket). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simplycode.PostBox-Pocket.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.simplycode.PostBox-Pocket",
+   "name": "PostboxPocket",
+   "developerName": "N/A",
+   "subtitle": "App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager Last updated: 11-15-2022 Status",
+   "localizedDescription": "App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager Last updated: 11-15-2022 Status",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.simplycode.PostBox-Pocket.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.8.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager Last updated: 11-15-2022 Status",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2022/PostboxPocket-0.8.1-7.ipa",
+     "size": 17136146
+    },
+    {
+     "version": "0.8.1-7",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "App Store version. App that lets you browse/add repos and download tweaks to install with your desired package manager Last updated: 11-15-2022 Status",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PostboxPocket/PostboxPocket-0.8.1-7.ipa",
+     "size": 17136146
+    }
+   ]
+  }
+ ]
+}

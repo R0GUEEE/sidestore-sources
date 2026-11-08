@@ -1,0 +1,30 @@
+{
+ "name": "PhotoGrid",
+ "identifier": "dev.perapp.com-unknown-photogrid",
+ "subtitle": "تایبەتمەندی؛ دەسکاردی کردن وێنەکان، پشگیری Ai دەکات",
+ "description": "Single-app source for PhotoGrid (com.unknown.photogrid). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/PhotoGrid.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.photogrid",
+   "name": "PhotoGrid",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی؛ دەسکاردی کردن وێنەکان، پشگیری Ai دەکات",
+   "localizedDescription": "تایبەتمەندی؛ دەسکاردی کردن وێنەکان، پشگیری Ai دەکات",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/PhotoGrid.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.9.61",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی؛ دەسکاردی کردن وێنەکان، پشگیری Ai دەکات",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/PhotoGrid_8.9.61_DEV.ipa",
+     "size": 145510000
+    }
+   ]
+  }
+ ]
+}

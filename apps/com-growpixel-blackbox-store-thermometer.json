@@ -1,0 +1,30 @@
+{
+ "name": "Thermometer",
+ "identifier": "dev.perapp.com-growpixel-blackbox-store-thermometer",
+ "subtitle": "Because I'm tired of wondering if my animations are slow or if my device is just really hot.  The states: 🥒 Your phone i",
+ "description": "Single-app source for Thermometer (com.growpixel.blackbox.store.Thermometer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/warpling/Thermometer/master/iOS/AppIcon.appiconset/Thermometer-83.5@2x.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.growpixel.blackbox.store.Thermometer",
+   "name": "Thermometer",
+   "developerName": "Ryan McLeod",
+   "subtitle": "Because I'm tired of wondering if my animations are slow or if my device is just really hot.  The states: 🥒 Your phone is cooler than you are. Burn. 🔥",
+   "localizedDescription": "Because I'm tired of wondering if my animations are slow or if my device is just really hot.  The states: 🥒 Your phone is cooler than you are. Burn. 🔥",
+   "iconURL": "https://raw.githubusercontent.com/warpling/Thermometer/master/iOS/AppIcon.appiconset/Thermometer-83.5@2x.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Because I'm tired of wondering if my animations are slow or if my device is just really hot.  The states: 🥒 Your phone is cooler than you are. Burn. 🔥",
+     "downloadURL": "https://github.com/burritosoftware/Thermometer/raw/master/Thermometer.ipa",
+     "size": 377245
+    }
+   ]
+  }
+ ]
+}

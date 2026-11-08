@@ -1,0 +1,30 @@
+{
+ "name": "ToonMe Hack",
+ "identifier": "dev.perapp.synthetic-toonme-hack-15fc4e2d",
+ "subtitle": "ToonMe Hack by Karbin-Store",
+ "description": "Single-app source for ToonMe Hack (synthetic.toonme-hack.15fc4e2d). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ToonMe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.toonme-hack.15fc4e2d",
+   "name": "ToonMe Hack",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "بۆ ئەکتیڤکردنی بەشی پڕایم بەرنامەکە، دەست بدە لەبەشی سەرەوەی شاشە دواتر Buy بکە دواتر دەست بدە لە Cancel",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ToonMe.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.17",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "بۆ ئەکتیڤکردنی بەشی پڕایم بەرنامەکە، دەست بدە لەبەشی سەرەوەی شاشە دواتر Buy بکە دواتر دەست بدە لە Cancel",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/ToonMe.-.v0.11.17.ipa",
+     "size": 130520000
+    }
+   ]
+  }
+ ]
+}

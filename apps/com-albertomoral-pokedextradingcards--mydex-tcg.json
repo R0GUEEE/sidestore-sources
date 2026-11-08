@@ -1,0 +1,30 @@
+{
+ "name": "MyDex TCG",
+ "identifier": "dev.perapp.com-albertomoral-pokedextradingcards",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for MyDex TCG (com.albertomoral.PokedexTradingCards). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/15370.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
+   "name": "MyDex TCG",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "@Sa1y0miii | MyDex TCG Cards\n🧸 Min.iOS: [18.0+]\n🧀 App version: [2.3.0] !upd \n🪼 App Store: https://apps.apple.com/app/id6739222650\n📮 Notes: Subscription unlocked.⠀⠀\n🗯Tweaked by: @Sa1y0miii / Chat❕\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/15370.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.0",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MyDex TCG Cards 🧸 Min.iOS: [18.0+] 🧀 App version: [2.3.0] !upd 🪼 App Store: https://apps.apple.com/app/id6739222650 📮 Notes…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15370-%E2%80%8EMyDex%20TCG%20Card%20Sc%E2%80%A6_v2.3.0_tg@Sa1y0miii.ipa",
+     "size": 67810623
+    }
+   ]
+  }
+ ]
+}

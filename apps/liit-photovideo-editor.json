@@ -1,0 +1,30 @@
+{
+ "name": "Liit",
+ "identifier": "dev.perapp.liit-photovideo-editor",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for Liit (liit.photovideo.editor). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/liit.photovideo.editor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "liit.photovideo.editor",
+   "name": "Liit",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/liit.photovideo.editor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.5",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/Liit_1.5.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 42863593
+    }
+   ]
+  }
+ ]
+}

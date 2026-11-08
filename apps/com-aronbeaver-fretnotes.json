@@ -1,0 +1,30 @@
+{
+ "name": "FretFluent",
+ "identifier": "dev.perapp.com-aronbeaver-fretnotes",
+ "subtitle": "ipaomtk.com | FretFluent IPA v1.07 is an innovative mobile application designed to help guitarists of all levels master ",
+ "description": "Single-app source for FretFluent (com.AronBeaver.FretNotes). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/FretFluent-8211-Fretboard-Notes.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AronBeaver.FretNotes",
+   "name": "FretFluent",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FretFluent IPA v1.07 is an innovative mobile application designed to help guitarists of all levels master the fretboard. This comprehens",
+   "localizedDescription": "ipaomtk.com | FretFluent IPA v1.07 is an innovative mobile application designed to help guitarists of all levels master the fretboard. This comprehens",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/FretFluent-8211-Fretboard-Notes.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.07",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FretFluent IPA v1.07 is an innovative mobile application designed to help guitarists of all levels master the fretboard. This comprehens",
+     "downloadURL": "https://file.ipaomtk.com/ipa/FretFluent_-_Fretboard_Notes-v1.07_2024-10-18_03-13-07-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

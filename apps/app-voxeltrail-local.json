@@ -1,0 +1,30 @@
+{
+ "name": "VoxelTrail",
+ "identifier": "dev.perapp.app-voxeltrail-local",
+ "subtitle": "VoxelTrail for iOS:  Español · English.  A native iOS build of the Gen 1 recomp engine — the Generation 1 Pokémon games,",
+ "description": "Single-app source for VoxelTrail (app.voxeltrail.local). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.voxeltrail.local.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.voxeltrail.local",
+   "name": "VoxelTrail",
+   "developerName": "hernan0078",
+   "subtitle": "VoxelTrail for iOS:  Español · English.  A native iOS build of the Gen 1 recomp engine — the Generation 1 Pokémon games, reimplemented in Lua on LÖVE ",
+   "localizedDescription": "VoxelTrail for iOS:  Español · English.  A native iOS build of the Gen 1 recomp engine — the Generation 1 Pokémon games, reimplemented in Lua on LÖVE\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.voxeltrail.local.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "VoxelTrail for iOS:  Español · English.  A native iOS build of the Gen 1 recomp engine — the Generation 1 Pokémon games, reimplemented in Lua on LÖVE ",
+     "downloadURL": "https://github.com/hernan0078/voxeltrail-ios/releases/download/v0.5.0/VoxelTrail-0.5.0.ipa",
+     "size": 20272748
+    }
+   ]
+  }
+ ]
+}

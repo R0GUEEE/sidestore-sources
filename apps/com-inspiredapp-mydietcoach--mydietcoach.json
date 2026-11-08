@@ -1,0 +1,30 @@
+{
+ "name": "Mydietcoach",
+ "identifier": "dev.perapp.com-inspiredapp-mydietcoach",
+ "subtitle": "Mydietcoach",
+ "description": "Single-app source for Mydietcoach (com.inspiredapp.mydietcoach). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inspiredapp.mydietcoach.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inspiredapp.mydietcoach",
+   "name": "Mydietcoach",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inspiredapp.mydietcoach.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.2.1",
+     "date": "2024-12-18T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-12-2024/Mydietcoach_10.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 82800533
+    }
+   ]
+  }
+ ]
+}

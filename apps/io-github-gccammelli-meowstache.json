@@ -1,0 +1,41 @@
+{
+ "name": "Meowstache",
+ "identifier": "dev.perapp.io-github-gccammelli-meowstache",
+ "subtitle": "Your cat, your robot, your data",
+ "description": "Single-app source for Meowstache (io.github.gccammelli.meowstache). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4b9cfb",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.gccammelli.meowstache.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.gccammelli.meowstache",
+   "name": "Meowstache",
+   "developerName": "gccammelli",
+   "subtitle": "Your cat, your robot, your data",
+   "localizedDescription": "Meowstache:\n\nThe Litter-Robot 4 is the best self-cleaning litter box around. But its maker now puts basic features behind a subscription, and owners haven't taken it well.\n\nSubscriptions that pay for servers and new features are fine. But history older than one week, and alerts that can save your cat's life (no litter box visits, or too many), are basic features. They shouldn't be paywalled. My device. My data. This is how enshittification starts, and the Litter-Robot is heading down that path.\n\nMeowstache is an unofficial Android app that talks to your robot and gives you:\n\n• Full history: week, month, year and all-time charts for weight, visits and cycles. It's kept on your phone, so it outlives the server's retention.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.gccammelli.meowstache.png",
+   "tintColor": "#4b9cfb",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/gccammelli/meowstache@main/docs/home.png",
+    "https://cdn.jsdelivr.net/gh/gccammelli/meowstache@main/docs/insights.png",
+    "https://cdn.jsdelivr.net/gh/gccammelli/meowstache@main/docs/history-year.png",
+    "https://cdn.jsdelivr.net/gh/gccammelli/meowstache@main/docs/pet-alerts.png"
+   ],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-10-19T23:52:38Z",
+     "localizedDescription": "• Local mode.\n• Exercise isolated sibling apps on iPhone.\n\nNew Contributors:\n\n• @gccammelli made their first contribution.",
+     "downloadURL": "https://github.com/gccammelli/meowstache/releases/download/v1.1.0/meowstache.ipa",
+     "size": 15441862
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Local mode connects to your Home Assistant on your home network."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Lingora",
+ "identifier": "dev.perapp.com-ipaomtk-lingora-159950",
+ "subtitle": "ipaomtk.com | What is Lingora IPA? Lingora IPA is an iOS installation package that allows users to install an AI-powered",
+ "description": "Single-app source for Lingora (com.ipaomtk.lingora.159950). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Lingora-IPA-v6.0.1-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.lingora.159950",
+   "name": "Lingora",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Lingora IPA? Lingora IPA is an iOS installation package that allows users to install an AI-powered language learning app on iPho",
+   "localizedDescription": "ipaomtk.com | What is Lingora IPA? Lingora IPA is an iOS installation package that allows users to install an AI-powered language learning app on iPho",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Lingora-IPA-v6.0.1-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Lingora IPA? Lingora IPA is an iOS installation package that allows users to install an AI-powered language learning app on iPho",
+     "downloadURL": "https://file.ipaomtk.com/lingora/Lingora-IPAOMTK.com.ipa",
+     "size": 0
+    },
+    {
+     "version": "5.9.4",
+     "date": "2026-05-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Lingora IPA? Lingora IPA is an iOS installation package that allows users to install an AI-powered language learning app on iPho",
+     "downloadURL": "https://file.ipaomtk.com/lingora/Lingora-IPAOMTK.com.ipa",
+     "size": 58176938
+    }
+   ]
+  }
+ ]
+}

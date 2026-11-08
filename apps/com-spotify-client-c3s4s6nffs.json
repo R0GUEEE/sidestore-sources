@@ -1,0 +1,37 @@
+{
+ "name": "Spotify",
+ "identifier": "dev.perapp.com-spotify-client-c3s4s6nffs",
+ "subtitle": "@compiledipas | Liquid Glass Builds reuploaded, sry for issues  My dumb self removed the .ipa extension lol  The one bel",
+ "description": "Single-app source for Spotify (com.spotify.client.C3S4S6NFFS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1277.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.C3S4S6NFFS",
+   "name": "Spotify",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | Liquid Glass Builds reuploaded, sry for issues  My dumb self removed the .ipa extension lol  The one below is patched",
+   "localizedDescription": "@compiledipas | Liquid Glass Builds reuploaded, sry for issues  My dumb self removed the .ipa extension lol  The one below is patched",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1277.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.74",
+     "date": "2026-08-20T00:00:00Z",
+     "localizedDescription": "@compiledipas | Liquid Glass builds for ESR v6.6.8",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1436-EeveeSpotify_v6.6.8_Spotify_v9.1.74_LG.ipa",
+     "size": 134644885
+    },
+    {
+     "version": "9.1.68",
+     "date": "2026-08-02T00:00:00Z",
+     "localizedDescription": "@compiledipas | Liquid Glass Builds reuploaded, sry for issues  My dumb self removed the .ipa extension lol  The one below is patched",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1277-SPT_v9.1.68_ES_v6.6.7_Patched_LG%5Btg@compiledipas%5D.ipa",
+     "size": 134767371
+    }
+   ]
+  }
+ ]
+}

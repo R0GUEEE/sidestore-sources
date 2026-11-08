@@ -1,0 +1,44 @@
+{
+ "name": "App Lock",
+ "identifier": "dev.perapp.com-lilucat-applock-us",
+ "subtitle": "ipaomtk.com | privacy and security measures has never been more pressing. Enter the App Lock IPA app, a powerful tool de",
+ "description": "Single-app source for App Lock (com.lilucat.applock.us). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-2.53.39%E2%80%AFAM-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lilucat.applock.us",
+   "name": "App Lock",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | privacy and security measures has never been more pressing. Enter the App Lock IPA app, a powerful tool designed to safeguard your digit",
+   "localizedDescription": "ipaomtk.com | privacy and security measures has never been more pressing. Enter the App Lock IPA app, a powerful tool designed to safeguard your digit",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-2.53.39%E2%80%AFAM-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.2",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device. Last updated: 08-02-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppLockPro/AppLockPro-3.1.2.ipa",
+     "size": 15928622
+    },
+    {
+     "version": "3.2.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device. Last updated: 08-02-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppLockPro/AppLockPro-3.2.0.ipa",
+     "size": 14493592
+    },
+    {
+     "version": "3.1.7",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device. Last updated: 08-02-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppLockPro/AppLockPro-3.1.7.ipa",
+     "size": 14555485
+    }
+   ]
+  }
+ ]
+}

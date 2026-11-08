@@ -1,0 +1,30 @@
+{
+ "name": "AdGuardPro_TS",
+ "identifier": "dev.perapp.synthetic-adguardpro-ts-0507a3c7",
+ "subtitle": "AdGuard Pro with all Pro features, except the DNS feature, unlocked.",
+ "description": "Single-app source for AdGuardPro_TS (synthetic.adguardpro-ts.0507a3c7). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AdGuardPro_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.adguardpro-ts.0507a3c7",
+   "name": "AdGuardPro_TS",
+   "developerName": "AdGuardPro_TS x CyPwn",
+   "subtitle": "AdGuard Pro with all Pro features, except the DNS feature, unlocked.",
+   "localizedDescription": "AdGuard Pro with all Pro features, except the DNS feature, unlocked.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AdGuardPro_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "AdGuard Pro with all Pro features, except the DNS feature, unlocked.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/AdGuardPro_TS.ipa",
+     "size": 30261903
+    }
+   ]
+  }
+ ]
+}

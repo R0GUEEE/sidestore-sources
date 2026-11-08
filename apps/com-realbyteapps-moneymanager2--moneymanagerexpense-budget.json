@@ -1,0 +1,30 @@
+{
+ "name": "MoneyManagerExpense.Budget",
+ "identifier": "dev.perapp.com-realbyteapps-moneymanager2",
+ "subtitle": "MoneyManagerExpense.Budget",
+ "description": "Single-app source for MoneyManagerExpense.Budget (com.realbyteapps.MoneyManager2). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.realbyteapps.MoneyManager2",
+   "name": "MoneyManagerExpense.Budget",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.11.18",
+     "date": "2025-02-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/MoneyManagerExpense.Budget_2.11.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 22218699
+    }
+   ]
+  }
+ ]
+}

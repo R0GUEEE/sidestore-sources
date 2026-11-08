@@ -1,0 +1,30 @@
+{
+ "name": "djay",
+ "identifier": "dev.perapp.com-algoriddim-djay-iphone-free",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for djay (com.algoriddim.djay-iphone-free). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.algoriddim.djay-iphone-free",
+   "name": "djay",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.algoriddim.djay-iphone-free.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6.1",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/djay_5.6.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 503739640
+    }
+   ]
+  }
+ ]
+}

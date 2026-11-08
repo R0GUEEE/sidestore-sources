@@ -1,0 +1,30 @@
+{
+ "name": "Geode",
+ "identifier": "dev.perapp.com-geode-launcher",
+ "subtitle": "Geode iOS Launcher:  Manages installing and launching Geometry Dash with Geode for iOS.  Requirements:  • iOS/iPadOS 14.",
+ "description": "Single-app source for Geode (com.geode.launcher). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.geode.launcher.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.geode.launcher",
+   "name": "Geode",
+   "developerName": "geode-sdk",
+   "subtitle": "Geode iOS Launcher:  Manages installing and launching Geometry Dash with Geode for iOS.  Requirements:  • iOS/iPadOS 14.0 or later. • Full version of ",
+   "localizedDescription": "Geode iOS Launcher:  Manages installing and launching Geometry Dash with Geode for iOS.  Requirements:  • iOS/iPadOS 14.0 or later. • Full version of\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.geode.launcher.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.5",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Geode iOS Launcher:  Manages installing and launching Geometry Dash with Geode for iOS.  Requirements:  • iOS/iPadOS 14.0 or later. • Full version of ",
+     "downloadURL": "https://github.com/geode-sdk/ios-launcher/releases/download/v1.5.5/com.geode.launcher_1.5.5.ipa",
+     "size": 13256824
+    }
+   ]
+  }
+ ]
+}

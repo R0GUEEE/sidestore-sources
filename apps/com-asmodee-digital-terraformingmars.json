@@ -1,0 +1,30 @@
+{
+ "name": "Terraforming Mars",
+ "identifier": "dev.perapp.com-asmodee-digital-terraformingmars",
+ "subtitle": "Terraforming Mars by sidelix",
+ "description": "Single-app source for Terraforming Mars (com.asmodee-digital.terraformingmars). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e4091ab655.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.asmodee-digital.terraformingmars",
+   "name": "Terraforming Mars",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "CREATE LIFE ON MARS\r\n\r\nLead a corporation and launch ambitious Mars terraforming projects. Direct massive construction works, manage and use your resources, create cities, forests and oceans, and set rewards and objectives to win the game!\r\n\r\nIn Terraforming Mars, place your cards on the board and use them wisely:\r\n- Achieve a high Terraform Rating, by increasing the temperature and oxygen level or creating oceans... Make the planet habitable for future generations!\r\n- Get Victory Points by building cities, infrastructure and other ambitious projects.\r\n- But watch out! Rival corporations will try to slow you down... That's a nice forest you planted there... It'd be a shame if an asteroid crashed right on it.\r\n\r\nWill you be able to lead humanity ",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a6e4091ab655.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.11.7.130601",
+     "date": "2026-08-01T00:00:00Z",
+     "localizedDescription": "CREATE LIFE ON MARS\r\n\r\nLead a corporation and launch ambitious Mars terraforming projects. Direct massive construction works, manage and use your resources, create cities, forests and oceans, and set rewards and objectives to win the game!\r\n\r\nIn Terraforming Mars, place your cards on the board and use them wisely:\r\n- Achieve a high Terraform Rating, by increasing the temperature and oxygen level or creating oceans... Make the planet habitable for future generations!\r\n- Get Victory Points by building cities, infrastructure and other ambitious projects.\r\n- But watch out! Rival corporations will try to slow you down... That's a nice forest you planted there... It'd be a shame if an asteroid crashed right on it.\r\n\r\nWill you be able to lead humanity ",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1831",
+     "size": 122679304
+    }
+   ]
+  }
+ ]
+}

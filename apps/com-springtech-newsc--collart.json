@@ -1,0 +1,30 @@
+{
+ "name": "Collart",
+ "identifier": "dev.perapp.com-springtech-newsc",
+ "subtitle": "Collart by Holloway",
+ "description": "Single-app source for Collart (com.SpringTech.NewSC). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761379320.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.SpringTech.NewSC",
+   "name": "Collart",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://appstore.sidelix.vip/images/1761379320.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6.6",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1531",
+     "size": 213231393
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "TrollMisaka",
+ "identifier": "dev.perapp.com-straight-tamago-trollmisaka",
+ "subtitle": "TrollStore installer for iOS 15.7.2-15.8.1. Refer to the Installing TrollStore (TrollMisaka) guide for detailed instruct",
+ "description": "Single-app source for TrollMisaka (com.straight-tamago.trollmisaka). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.trollmisaka.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.straight-tamago.trollmisaka",
+   "name": "TrollMisaka",
+   "developerName": "straight-tamago",
+   "subtitle": "TrollStore installer for iOS 15.7.2-15.8.1. Refer to the Installing TrollStore (TrollMisaka) guide for detailed instructions. Last updated: 01-19-2024",
+   "localizedDescription": "TrollStore installer for iOS 15.7.2-15.8.1. Refer to the Installing TrollStore (TrollMisaka) guide for detailed instructions. Last updated: 01-19-2024",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.trollmisaka.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "TrollStore installer for iOS 15.7.2-15.8.1. Refer to the Installing TrollStore (TrollMisaka) guide for detailed instructions. Last updated: 01-19-2024",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollMisaka/TrollMisaka-2.0.ipa",
+     "size": 913060
+    },
+    {
+     "version": "1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "TrollStore installer for iOS 15.7.2-15.8.1. Refer to the Installing TrollStore (TrollMisaka) guide for detailed instructions. Last updated: 01-19-2024",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollMisaka/TrollMisaka-2.0.ipa",
+     "size": 913060
+    }
+   ]
+  }
+ ]
+}

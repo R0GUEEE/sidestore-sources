@@ -1,0 +1,30 @@
+{
+ "name": "YT-TV",
+ "identifier": "dev.perapp.com-timi2506-yt-tv",
+ "subtitle": "The YouTube TV UI for iOS,  Made possible with the Help of WebView and a custom User Agent",
+ "description": "Single-app source for YT-TV (com.timi2506.YT-TV). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/YT-TV.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.timi2506.YT-TV",
+   "name": "YT-TV",
+   "developerName": "timi2506",
+   "subtitle": "The YouTube TV UI for iOS,  Made possible with the Help of WebView and a custom User Agent",
+   "localizedDescription": "The YouTube TV UI for iOS,  Made possible with the Help of WebView and a custom User Agent",
+   "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/App%20Icons/YT-TV.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "The YouTube TV UI for iOS,  Made possible with the Help of WebView and a custom User Agent",
+     "downloadURL": "https://github.com/timi2506/YT-TV-SwiftUI/releases/download/1.0/YT-TV-iOS.ipa",
+     "size": 169
+    }
+   ]
+  }
+ ]
+}

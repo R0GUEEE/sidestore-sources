@@ -1,0 +1,44 @@
+{
+ "name": "Race Master",
+ "identifier": "dev.perapp.com-easygames-race",
+ "subtitle": "@riftysIPAlibrary | Race Master 3D: Car Racing  Tweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium",
+ "description": "Single-app source for Race Master (com.easygames.race). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7237.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.easygames.race",
+   "name": "Race Master",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Race Master 3D: Car Racing  Tweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked  Version: 3.16.0  Pa",
+   "localizedDescription": "@riftysIPAlibrary | Race Master 3D: Car Racing  Tweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked  Version: 3.16.0  Pa",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7237.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.18.9",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Race Master 3D: Car Racing  Tweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked  Version: 3.18.9  Pa",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8644-Race%20Master%203D:%20Car%20Racing-v3.18.9-riftysipas.ipa",
+     "size": 325802317
+    },
+    {
+     "version": "3.18.7",
+     "date": "2026-09-26T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Race Master 3D: Car Racing  Tweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked  Version: 3.18.7  Pa",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8092-Race%20Master%203D:%20Car%20Racing-v3.18.7-riftysipas.ipa",
+     "size": 325138704
+    },
+    {
+     "version": "3.18.6",
+     "date": "2026-09-17T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Race Master 3D: Car Racing  Tweak: Unlimited Cash, - Unlimited Shields, - Unlimited Nitro, - Premium Unlocked  Version: 3.18.6  Pa",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7930-Race%20Master%203D:%20Car%20Racing-v3.18.6-riftysipas.ipa",
+     "size": 310899008
+    }
+   ]
+  }
+ ]
+}

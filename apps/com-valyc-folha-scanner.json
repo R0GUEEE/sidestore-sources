@@ -1,0 +1,36 @@
+{
+ "name": "Scanner REA",
+ "identifier": "dev.perapp.com-valyc-folha-scanner",
+ "subtitle": "Independent on-device document scanner for iPhone",
+ "description": "Single-app source for Scanner REA (com.valyc.folha.scanner). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.valyc.folha.scanner",
+   "name": "Scanner REA",
+   "developerName": "VaLycSay",
+   "subtitle": "Independent on-device document scanner for iPhone",
+   "localizedDescription": "Folha:\n\nIndependent, on-device document scanner for iPhone. Written in Swift with SwiftUI, VisionKit, Vision, Core Image and PDFKit. Requires iOS 17 or later.\n\nFeatures: multi-page capture, photo import, perspective correction, image filters, rotation, local document library, OCR and searchable PDF export.\n\nNo account, subscription, advertising service or remote document upload is implemented. Scanned documents are stored locally on the device.\n\nOn macOS with Xcode and XcodeGen installed:\n\nThe GitHub Actions workflow builds artifacts/Folha-unsigned.ipa. It does not sign or install the app and does not use Apple account credentials. Signing and device installation are separate steps handled by the user.\n\nThe included tests are available for development but are not executed by the IPA-only workflow. Camera behavior and scan quality require device testing.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.0",
+     "date": "2026-10-15T06:57:43Z",
+     "localizedDescription": "Unsigned iPhone IPA. External signing required. Independent implementation guided by REA evidence from historical CamScanner 5.26.12; not the original app or a claim of full equivalence.\n\nValidated: 68/68 XCTest and UI tests passed, zero skipped; 128 recovered pixel cases with zero mismatches. CI: https://github.com/VaLycSay/folha-scanner-ios/actions/runs/38692460426\n\nIncludes library/import, single/batch capture, QR, recovered editor toolbar, perspective crop, rotation, filters, brightness/contrast/detail, text, ink/signature, opaque redactions, OCR and multipage PDF.\n\nCamera hardware and installation on the user's iPhone remain unverified. Cloud sync, specialized ID/spreadsheet modes and full original-product parity are not included. Original IPA/binaries/assets are not distributed.\n\nSHA256: e9625f26b14141df38288db876b14faa76aa7fb34e03bbb23dd4479c9311fe19.",
+     "downloadURL": "https://github.com/VaLycSay/folha-scanner-ios/releases/download/v0.3.0/Scanner-REA-0.3.0-unsigned.ipa",
+     "size": 636625
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "A camera digitaliza seus documentos. O processamento acontece neste iPhone."
+    }
+   }
+  }
+ ]
+}

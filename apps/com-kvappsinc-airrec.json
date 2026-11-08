@@ -1,0 +1,30 @@
+{
+ "name": "AirRec",
+ "identifier": "dev.perapp.com-kvappsinc-airrec",
+ "subtitle": "ipaomtk.com | AirRec IPA is a popular screen recording app that allows iOS users to capture and share their screen activ",
+ "description": "Single-app source for AirRec (com.KVAppsInc.AirRec). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-96-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.KVAppsInc.AirRec",
+   "name": "AirRec",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | AirRec IPA is a popular screen recording app that allows iOS users to capture and share their screen activity with others. With its easy",
+   "localizedDescription": "ipaomtk.com | AirRec IPA is a popular screen recording app that allows iOS users to capture and share their screen activity with others. With its easy",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-96-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.2",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AirRec IPA is a popular screen recording app that allows iOS users to capture and share their screen activity with others. With its easy",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AirRec.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

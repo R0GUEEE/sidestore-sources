@@ -1,0 +1,30 @@
+{
+ "name": "DolphiniOS_4.0.0b7",
+ "identifier": "dev.perapp.me-oatmealdome-dolphinios-ts-patreon-beta",
+ "subtitle": "GameCube and Wii emulator for iOS",
+ "description": "Single-app source for DolphiniOS_4.0.0b7 (me.oatmealdome.DolphiniOS-ts-patreon-beta). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/DolphiniOS_4.0.0b7.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.oatmealdome.DolphiniOS-ts-patreon-beta",
+   "name": "DolphiniOS_4.0.0b7",
+   "developerName": "DolphiniOS_4.0.0b7 x CyPwn",
+   "subtitle": "GameCube and Wii emulator for iOS",
+   "localizedDescription": "GameCube and Wii emulator for iOS",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/DolphiniOS_4.0.0b7.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.0b7",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "GameCube and Wii emulator for iOS",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/DolphiniOS_4.0.0b7.ipa",
+     "size": 13778288
+    }
+   ]
+  }
+ ]
+}

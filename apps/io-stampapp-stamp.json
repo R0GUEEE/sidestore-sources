@@ -1,0 +1,44 @@
+{
+ "name": "FreeYourMusic",
+ "identifier": "dev.perapp.io-stampapp-stamp",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for FreeYourMusic (io.stampapp.Stamp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.stampapp.Stamp",
+   "name": "FreeYourMusic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.stampapp.Stamp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.0.0",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@blatants | FreeYourMusic: Move Playlists  • Bundle ID: io.stampapp.Stamp • Updated to: 11.0.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscription ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/FreeYourMusic_11.0.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 24144453
+    },
+    {
+     "version": "10.2.0",
+     "date": "2026-10-03T00:00:00Z",
+     "localizedDescription": "@blatants | FreeYourMusic: Move Playlists  • Bundle ID: io.stampapp.Stamp • Updated to: 10.2.0 • Minimum iOS: 15.5 • Patched • Modifier: Subscription ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12603-FreeYourMusic_Move_Playlists_v10_2_0_Subscription_Unlocked_blatant.ipa",
+     "size": 32419509
+    },
+    {
+     "version": "10.1.0",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "@blatants | FreeYourMusic: Move Playlists  • Bundle ID: io.stampapp.Stamp • Updated to: 10.1.0 • Minimum iOS: 15.5 • Patched • Modifier: Subscription ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/FreeYourMusic_10.1.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 32413196
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "TrollLEDs",
+ "identifier": "dev.perapp.com-ps-trollleds",
+ "subtitle": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices.",
+ "description": "Single-app source for TrollLEDs (com.ps.TrollLEDs). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ps.TrollLEDs",
+   "name": "TrollLEDs",
+   "developerName": "PoomSmart",
+   "subtitle": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices. Last updated: 02-04-2024 Stat",
+   "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices. Last updated: 02-04-2024 Stat",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.ps.TrollLEDs.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices. Last updated: 02-04-2024 Stat",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.6.1.ipa",
+     "size": 57212
+    },
+    {
+     "version": "1.8.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices. Last updated: 02-04-2024 Stat",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.8.0.ipa",
+     "size": 80113
+    },
+    {
+     "version": "1.5.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Control individual flashlight LEDs. Note: Refer to the original GitHub repository to find the list of supported devices. Last updated: 02-04-2024 Stat",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollLEDs/TrollLEDs-1.5.0.ipa",
+     "size": 50586
+    }
+   ]
+  }
+ ]
+}

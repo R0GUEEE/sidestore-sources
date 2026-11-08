@@ -1,0 +1,30 @@
+{
+ "name": "PikaTorrent",
+ "identifier": "dev.perapp.com-pikatorrent-pikatorrent",
+ "subtitle": "PikaTorrent:  Just pick a Torrent. Stream and download on all your devices.  Why a new torrent client ?:  In 2025, torre",
+ "description": "Single-app source for PikaTorrent (com.pikatorrent.PikaTorrent). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.pikatorrent.PikaTorrent.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pikatorrent.PikaTorrent",
+   "name": "PikaTorrent",
+   "developerName": "G-Ray",
+   "subtitle": "PikaTorrent:  Just pick a Torrent. Stream and download on all your devices.  Why a new torrent client ?:  In 2025, torrent clients should not be reser",
+   "localizedDescription": "PikaTorrent:  Just pick a Torrent. Stream and download on all your devices.  Why a new torrent client ?:  In 2025, torrent clients should not be reser\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.pikatorrent.PikaTorrent.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.15.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "PikaTorrent:  Just pick a Torrent. Stream and download on all your devices.  Why a new torrent client ?:  In 2025, torrent clients should not be reser",
+     "downloadURL": "https://github.com/G-Ray/pikatorrent/releases/download/v0.15.0/PikaTorrent-v0.15.0-ios.ipa",
+     "size": 38053348
+    }
+   ]
+  }
+ ]
+}

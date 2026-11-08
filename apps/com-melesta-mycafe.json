@@ -1,0 +1,30 @@
+{
+ "name": "My Café",
+ "identifier": "dev.perapp.com-melesta-mycafe",
+ "subtitle": "ipaomtk.com | My Cafe IPA Do you ever wish you could run your own café and make your own delicious meals for customers t",
+ "description": "Single-app source for My Café (com.Melesta.MyCafe). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/my-cafe-mdash-restaurant-game-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Melesta.MyCafe",
+   "name": "My Café",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | My Cafe IPA Do you ever wish you could run your own café and make your own delicious meals for customers to enjoy? With the My Cafe IPA ",
+   "localizedDescription": "ipaomtk.com | My Cafe IPA Do you ever wish you could run your own café and make your own delicious meals for customers to enjoy? With the My Cafe IPA ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/my-cafe-mdash-restaurant-game-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026030.0.860",
+     "date": "2023-04-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | My Cafe IPA Do you ever wish you could run your own café and make your own delicious meals for customers to enjoy? With the My Cafe IPA ",
+     "downloadURL": "https://file.ipaomtk.com/My%20Cafe/My-Cafe-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

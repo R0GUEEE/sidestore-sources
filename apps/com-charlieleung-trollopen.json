@@ -1,0 +1,30 @@
+{
+ "name": "TrollOpen_2.1_FreeVersion",
+ "identifier": "dev.perapp.com-charlieleung-trollopen",
+ "subtitle": "Quick convenient app launcher",
+ "description": "Single-app source for TrollOpen_2.1_FreeVersion (com.charlieleung.TrollOpen). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollOpen_2.1_FreeVersion.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.charlieleung.TrollOpen",
+   "name": "TrollOpen_2.1_FreeVersion",
+   "developerName": "TrollOpen_2.1_FreeVersion x CyPwn",
+   "subtitle": "Quick convenient app launcher",
+   "localizedDescription": "Quick convenient app launcher",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollOpen_2.1_FreeVersion.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Quick convenient app launcher",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollOpen_2.1_FreeVersion.ipa",
+     "size": 6836715
+    }
+   ]
+  }
+ ]
+}

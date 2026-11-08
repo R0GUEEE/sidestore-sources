@@ -1,0 +1,30 @@
+{
+ "name": "Gear.Club-Stradale",
+ "identifier": "dev.perapp.com-edengames-stradale",
+ "subtitle": "ipaomtk.com | Gear Club Stradale IPA is an exhilarating racing game that has taken the gaming world by storm. With its s",
+ "description": "Single-app source for Gear.Club-Stradale (com.edengames.stradale). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/gearclub-true-racing-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.edengames.stradale",
+   "name": "Gear.Club-Stradale",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Gear Club Stradale IPA is an exhilarating racing game that has taken the gaming world by storm. With its stunning graphics, immersive ga",
+   "localizedDescription": "ipaomtk.com | Gear Club Stradale IPA is an exhilarating racing game that has taken the gaming world by storm. With its stunning graphics, immersive ga",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/gearclub-true-racing-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.0",
+     "date": "2023-05-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Gear Club Stradale IPA is an exhilarating racing game that has taken the gaming world by storm. With its stunning graphics, immersive ga",
+     "downloadURL": "https://file.ipaomtk.com/ipa/gear-club-stradale.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "MapleReadCX",
+ "identifier": "dev.perapp.com-maplepop-bmcx",
+ "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for MapleReadCX (com.maplepop.bmcx). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.maplepop.bmcx",
+   "name": "MapleReadCX",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1.1",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "@blatants | MapleRead CX  • Bundle ID: com.maplepop.bmcx • Updated to: 7.1.1 • Minimum iOS: 15.0 • Patched • Modifier: Subscription Unlocked • Tweaked",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12526-MapleRead%20CX%20v7.1.1%20Subscription%20Unlocked%20blatant%20Patched.ipa",
+     "size": 22748617
+    },
+    {
+     "version": "7.1",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "@blatants | MapleRead CX  • Bundle ID: com.maplepop.bmcx • Updated to: 7.1 • Minimum iOS: 15.0 • Patched • Modifier: Subscription Unlocked • Tweaked b",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/MapleReadCX_7.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 22748278
+    },
+    {
+     "version": "7.0",
+     "date": "2026-09-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2026/MapleReadCX_7.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 22617622
+    }
+   ]
+  }
+ ]
+}

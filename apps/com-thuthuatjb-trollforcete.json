@@ -1,0 +1,30 @@
+{
+ "name": "TrollStarTE",
+ "identifier": "dev.perapp.com-thuthuatjb-trollforcete",
+ "subtitle": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature. La",
+ "description": "Single-app source for TrollStarTE (com.thuthuatjb.trollforcete). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.thuthuatjb.trollforcete.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thuthuatjb.trollforcete",
+   "name": "TrollStarTE",
+   "developerName": "thuthuatjb",
+   "subtitle": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature. Last updated: 01-25-2024 Status:",
+   "localizedDescription": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature. Last updated: 01-25-2024 Status:",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.thuthuatjb.trollforcete.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "An enhanced iteration of TrollStar featuring a revamped user interface and an additional ESign+ installation feature. Last updated: 01-25-2024 Status:",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollStarTE/TrollStarTE-3.0.ipa",
+     "size": 989843
+    }
+   ]
+  }
+ ]
+}

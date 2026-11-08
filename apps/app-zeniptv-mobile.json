@@ -1,0 +1,37 @@
+{
+ "name": "Zen Player",
+ "identifier": "dev.perapp.app-zeniptv-mobile",
+ "subtitle": "ipaomtk.com | What is Zen IPTV Player IPA? Zen IPTV Player IPA is the iOS installation file of a media streaming applica",
+ "description": "Single-app source for Zen Player (app.zeniptv.mobile). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Zen-IPTV-Player-IPA-v2.0.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "app.zeniptv.mobile",
+   "name": "Zen Player",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Zen IPTV Player IPA? Zen IPTV Player IPA is the iOS installation file of a media streaming application designed to play IPTV con",
+   "localizedDescription": "ipaomtk.com | What is Zen IPTV Player IPA? Zen IPTV Player IPA is the iOS installation file of a media streaming application designed to play IPTV con",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Zen-IPTV-Player-IPA-v2.0.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.2",
+     "date": "2026-04-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Zen IPTV Player IPA? Zen IPTV Player IPA is the iOS installation file of a media streaming application designed to play IPTV con",
+     "downloadURL": "https://file.ipaomtk.com/zen-iptv-player/Zen-IPTV-Player-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.1.0",
+     "date": "2026-04-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Zen IPTV Player IPA? Zen IPTV Player IPA is the iOS installation file of a media streaming application designed to play IPTV con",
+     "downloadURL": "https://file.ipaomtk.com/zen-iptv-player/Zen-IPTV-Player-IPAOMTK.COM.ipa",
+     "size": 40519917
+    }
+   ]
+  }
+ ]
+}

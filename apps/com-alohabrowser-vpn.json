@@ -1,0 +1,37 @@
+{
+ "name": "AlohaVPN",
+ "identifier": "dev.perapp.com-alohabrowser-vpn",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for AlohaVPN (com.alohabrowser.vpn). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alohabrowser.vpn",
+   "name": "AlohaVPN",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.vpn.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.3",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-01-2026/AlohaVPN_2.6.3_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 169120622
+    },
+    {
+     "version": "2.6.2",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-01-2026/AlohaVPN_2.6.2_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 165267874
+    }
+   ]
+  }
+ ]
+}

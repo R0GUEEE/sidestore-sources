@@ -1,0 +1,44 @@
+{
+ "name": "Vesper",
+ "identifier": "dev.perapp.app-vesper",
+ "subtitle": "scholars lounge | Vesper Version: 0.3 Bundle ID: app.vesper App by DjangoCustard225  A native iOS content hub utilising ",
+ "description": "Single-app source for Vesper (app.vesper). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/79589.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.vesper",
+   "name": "Vesper",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | Vesper Version: 0.3 Bundle ID: app.vesper App by DjangoCustard225  A native iOS content hub utilising Stremio add-ons. Browse with T",
+   "localizedDescription": "scholars lounge | Vesper Version: 0.3 Bundle ID: app.vesper App by DjangoCustard225  A native iOS content hub utilising Stremio add-ons. Browse with T\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/79589.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5.2",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@ipavault | Vesper 0.5.2  A native iOS content hub. Vesper brings movie and TV discovery, Stremio add-ons and playback together on iPhone and iPad. Fi",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83655-Vesper.ipa",
+     "size": 15722959
+    },
+    {
+     "version": "0.51",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@ipavault | Vesper 0.51  A native iOS content hub. Vesper brings movie and TV discovery, Stremio add-ons and playback together on iPhone and iPad. Fin",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83151-Vesper.ipa",
+     "size": 15650872
+    },
+    {
+     "version": "0.5",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "scholars lounge | Vesper Version: 0.5 Bundle ID: app.vesper App by DjangoCustard225  A native iOS content hub utilising Stremio add-ons. Browse with T",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83001-Vesper.ipa",
+     "size": 15535930
+    }
+   ]
+  }
+ ]
+}

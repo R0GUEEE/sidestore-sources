@@ -1,0 +1,37 @@
+{
+ "name": "TempleRun2",
+ "identifier": "dev.perapp.com-imangi-templerun2",
+ "subtitle": "ipaomtk.com | Temple Run 2 IPA MOD is the highly anticipated sequel to the wildly popular endless running game, Temple R",
+ "description": "Single-app source for TempleRun2 (com.imangi.templerun2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/TempleRun2-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.imangi.templerun2",
+   "name": "TempleRun2",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Temple Run 2 IPA MOD is the highly anticipated sequel to the wildly popular endless running game, Temple Run. Developed by Imangi Studio",
+   "localizedDescription": "ipaomtk.com | Temple Run 2 IPA MOD is the highly anticipated sequel to the wildly popular endless running game, Temple Run. Developed by Imangi Studio",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/TempleRun2-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.130.0",
+     "date": "2024-08-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Temple Run 2 IPA MOD is the highly anticipated sequel to the wildly popular endless running game, Temple Run. Developed by Imangi Studio",
+     "downloadURL": "https://file.ipaomtk.com/Temple%20Run%202/Temple-Run-2-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.137.0",
+     "date": "2024-08-03T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Temple Run 2 IPA MOD is the highly anticipated sequel to the wildly popular endless running game, Temple Run. Developed by Imangi Studio",
+     "downloadURL": "https://file.ipaomtk.com/Temple%20Run%202/Temple-Run-2-IPAOMTK.COM.ipa",
+     "size": 137853046
+    }
+   ]
+  }
+ ]
+}

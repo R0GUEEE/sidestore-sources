@@ -1,0 +1,44 @@
+{
+ "name": "HunterAssassin",
+ "identifier": "dev.perapp.com-rubygames-assassin",
+ "subtitle": "HunterAssassin",
+ "description": "Single-app source for HunterAssassin (com.rubygames.assassin). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rubygames.assassin.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rubygames.assassin",
+   "name": "HunterAssassin",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.rubygames.assassin.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.043",
+     "date": "2026-08-02T00:00:00Z",
+     "localizedDescription": "Unlimited Gems, - Unlimited Coins, - No Ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2282",
+     "size": 137009139
+    },
+    {
+     "version": "2.033",
+     "date": "2025-12-20T00:00:00Z",
+     "localizedDescription": "Injected with noads",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/HunterAssassin_2.033_noads_%40thisismanpreets_apptesters.org.ipa",
+     "size": 139054599
+    },
+    {
+     "version": "2.021",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Hunter Assassin\n\nTweak:\n- Unlimited Gems\n- Unlimited Coins\n- No Ads\n\nVersion: 2.021\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/54c3610a-9b50-4494-a133-4e4e8ceb502d/Hunter_Assassin-v2.021-riftysipas.ipa",
+     "size": 125153603
+    }
+   ]
+  }
+ ]
+}

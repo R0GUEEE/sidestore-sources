@@ -1,0 +1,44 @@
+{
+ "name": "ModShelf",
+ "identifier": "dev.perapp.com-shplash-modshelf",
+ "subtitle": "Steam Workshop downloads on iPhone",
+ "description": "Single-app source for ModShelf (com.shplash.modshelf). Converted from merged.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4C8DFF",
+ "iconURL": "https://raw.githubusercontent.com/shplash/ModShelf/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shplash.modshelf",
+   "name": "ModShelf",
+   "developerName": "shplash",
+   "subtitle": "Steam Workshop downloads on iPhone",
+   "localizedDescription": "Download Steam Workshop mods on your iPhone with ModShelf. Sign in to Steam, paste a Workshop link or find mods using the built-in browser.\n\nDownloads are sorted into folders by game. Manage your mods in the library, check for updates, verify files, and export mods as ZIP files. Downloads can even run in a queue.",
+   "iconURL": "https://raw.githubusercontent.com/shplash/ModShelf/main/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+   "tintColor": "#4C8DFF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.3",
+     "date": "2026-11-02T22:47:46Z",
+     "localizedDescription": "Mods install with their folders intact again, and update checks are much quicker.\n\n### Changes\n\n- Mods unpack into their published folders again, and any that Files hid in its bin are put back\n- Checking for updates asks Steam once for the whole library, and validates the files in the same pass\n- Reinstall all, in the library menu, queues every mod you have added",
+     "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.3/ModShelf-v1.1.3.ipa",
+     "size": 5004856
+    },
+    {
+     "version": "1.1.2",
+     "date": "2026-11-01T01:46:24Z",
+     "localizedDescription": "More Workshop downloads work now - several kinds of item that used to fail were fixed\n\n### Changes\n\n- Items whose details Steam sends as an archive are read correctly instead of arriving empty\n- Downloads that fail retry across more depots and every branch Steam lists before giving up",
+     "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.2/ModShelf-v1.1.2.ipa",
+     "size": 4985499
+    },
+    {
+     "version": "1.1.1",
+     "date": "2026-10-31T19:20:40Z",
+     "localizedDescription": "Fixed some Workshop mods not downloading properly\n\n### Changes\n\n- Downloads that used to fail for older Workshop items now work\n- Depot items are retried across every route before giving up\n- Download history now has a copy error button for reporting a failure",
+     "downloadURL": "https://github.com/shplash/ModShelf/releases/download/v1.1.1/ModShelf-v1.1.1.ipa",
+     "size": 4979570
+    }
+   ]
+  }
+ ]
+}

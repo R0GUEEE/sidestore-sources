@@ -1,0 +1,37 @@
+{
+ "name": "Slidey",
+ "identifier": "dev.perapp.com-saygin-brickgame",
+ "subtitle": "ipaomtk.com | Slidey®: Block Puzzle – A Simple Yet Addictive Puzzle Game for iPhone Slidey®: Block Puzzle transforms cla",
+ "description": "Single-app source for Slidey (com.saygin.brickgame). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Slidey%C2%AE-Block-Puzzle-IPA-v3.2.24-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.saygin.brickgame",
+   "name": "Slidey",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Slidey®: Block Puzzle – A Simple Yet Addictive Puzzle Game for iPhone Slidey®: Block Puzzle transforms classic block-sliding mechanics i",
+   "localizedDescription": "ipaomtk.com | Slidey®: Block Puzzle – A Simple Yet Addictive Puzzle Game for iPhone Slidey®: Block Puzzle transforms classic block-sliding mechanics i",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Slidey%C2%AE-Block-Puzzle-IPA-v3.2.24-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.24",
+     "date": "2026-02-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Slidey®: Block Puzzle – A Simple Yet Addictive Puzzle Game for iPhone Slidey®: Block Puzzle transforms classic block-sliding mechanics i",
+     "downloadURL": "https://file.ipaomtk.com/slidey-block-puzzle/Slidey-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.2.25",
+     "date": "2026-02-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Slidey®: Block Puzzle – A Simple Yet Addictive Puzzle Game for iPhone Slidey®: Block Puzzle transforms classic block-sliding mechanics i",
+     "downloadURL": "https://file.ipaomtk.com/slidey-block-puzzle/Slidey-IPAOMTK.COM.ipa",
+     "size": 140221385
+    }
+   ]
+  }
+ ]
+}

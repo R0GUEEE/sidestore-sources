@@ -1,0 +1,30 @@
+{
+ "name": "FilzaEscaped 13.4.1",
+ "identifier": "dev.perapp.com-dry05-filzaescaped11-12",
+ "subtitle": "Filza for non jailbroken devices, works with iOS 13.4.1 (older versions hasn’t tested yet), should support devices!",
+ "description": "Single-app source for FilzaEscaped 13.4.1 (com.dry05.filzaescaped11-12). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://bunduuk.github.io/altstore-source/img/FilzaEscaped/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dry05.filzaescaped11-12",
+   "name": "FilzaEscaped 13.4.1",
+   "developerName": "@AppleDry05",
+   "subtitle": "Filza for non jailbroken devices, works with iOS 13.4.1 (older versions hasn’t tested yet), should support devices!",
+   "localizedDescription": "Filza for non jailbroken devices, works with iOS 13.4.1 (older versions hasn’t tested yet), should support devices!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://bunduuk.github.io/altstore-source/img/FilzaEscaped/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "Filza for non jailbroken devices, works with iOS 13.4.1 (older versions hasn’t tested yet), should support devices!",
+     "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/FilzaEscaped/FilzaEscaped13.4.1.ipa?raw=true",
+     "size": 14580670
+    }
+   ]
+  }
+ ]
+}

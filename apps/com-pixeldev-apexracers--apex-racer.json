@@ -1,0 +1,44 @@
+{
+ "name": "APEX Racer",
+ "identifier": "dev.perapp.com-pixeldev-apexracers",
+ "subtitle": "APEX Racer",
+ "description": "Single-app source for APEX Racer (com.pixeldev.APEXRacers). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/d7a77866-58c8-4e6a-854e-fd18c5a30608/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pixeldev.APEXRacers",
+   "name": "APEX Racer",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: APEX Racer\n\nTweak: Free iAP\n\nVersion: 0.9.38\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/d7a77866-58c8-4e6a-854e-fd18c5a30608/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.70",
+     "date": "2026-09-19T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2304",
+     "size": 194067993
+    },
+    {
+     "version": "0.9.58",
+     "date": "2026-08-09T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2304",
+     "size": 198554592
+    },
+    {
+     "version": "0.9.38",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: APEX Racer\n\nTweak: Free iAP\n\nVersion: 0.9.38\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c931cb9f-59a2-48ba-a834-36f4861d9c5f/APEX_Racers-v0.9.38-riftysipas.ipa",
+     "size": 182113227
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "InstaSpring",
+ "identifier": "dev.perapp.org-haxi0-instaspring",
+ "subtitle": "App that instantly respring your phone Last updated: 11-12-2022 Status: ✅",
+ "description": "Single-app source for InstaSpring (org.haxi0.InstaSpring). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.InstaSpring.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.haxi0.InstaSpring",
+   "name": "InstaSpring",
+   "developerName": "haxi0",
+   "subtitle": "App that instantly respring your phone Last updated: 11-12-2022 Status: ✅",
+   "localizedDescription": "App that instantly respring your phone\nLast updated: 11-12-2022\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/org.haxi0.InstaSpring.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "App that instantly respring your phone Last updated: 11-12-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2022/InstaSpring-1.0.ipa",
+     "size": 219436
+    }
+   ]
+  }
+ ]
+}

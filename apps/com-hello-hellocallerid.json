@@ -1,0 +1,30 @@
+{
+ "name": "Hello",
+ "identifier": "dev.perapp.com-hello-hellocallerid",
+ "subtitle": "ipaomtk.com | Are you looking for a way to enhance your language skills and connect with people from around the world? L",
+ "description": "Single-app source for Hello (com.hello.hellocallerid). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/hello-talk-chat-ampamp-meet-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hello.hellocallerid",
+   "name": "Hello",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Are you looking for a way to enhance your language skills and connect with people from around the world? Look no further than Hello Talk",
+   "localizedDescription": "ipaomtk.com | Are you looking for a way to enhance your language skills and connect with people from around the world? Look no further than Hello Talk",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/hello-talk-chat-ampamp-meet-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.12",
+     "date": "2023-05-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Are you looking for a way to enhance your language skills and connect with people from around the world? Look no further than Hello Talk",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Hello.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "AGADAH",
+ "identifier": "dev.perapp.com-headupgames-agadah",
+ "subtitle": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for AGADAH (com.headupgames.agadah). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headupgames.agadah.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.headupgames.agadah",
+   "name": "AGADAH",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headupgames.agadah.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-08-2025/AGADAH_1.2_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 289174190
+    },
+    {
+     "version": "1.4",
+     "date": "2025-07-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | A Game About Digging A Hole IPA v1.4, In the vast landscape​ of mobile gaming, simplicity and creativity often merge to produce unique e",
+     "downloadURL": "https://file.ipaomtk.com/ipa/A_Game_About_Digging_A_Hole_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

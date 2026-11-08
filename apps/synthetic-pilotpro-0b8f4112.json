@@ -1,0 +1,30 @@
+{
+ "name": "PilotPro",
+ "identifier": "dev.perapp.synthetic-pilotpro-0b8f4112",
+ "subtitle": "PilotPro",
+ "description": "Single-app source for PilotPro (synthetic.pilotpro.0b8f4112). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.pilotpro.0b8f4112",
+   "name": "PilotPro",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pilotpro.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.52.0",
+     "date": "2026-05-10T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/PilotPro_5.52.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 28446121
+    }
+   ]
+  }
+ ]
+}

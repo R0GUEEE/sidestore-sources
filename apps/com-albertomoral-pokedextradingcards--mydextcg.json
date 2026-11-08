@@ -1,0 +1,44 @@
+{
+ "name": "MyDexTCG",
+ "identifier": "dev.perapp.com-albertomoral-pokedextradingcards",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for MyDexTCG (com.albertomoral.PokedexTradingCards). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.albertomoral.PokedexTradingCards",
+   "name": "MyDexTCG",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.albertomoral.PokedexTradingCards.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.0",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MyDex TCG Cards 🧸 Min.iOS: [18.0+] 🧀 App version: [2.3.0] !upd  🪼 App Store: https://apps.apple.com/app/id6739222650 📮 Notes: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15370-%E2%80%8EMyDex%20TCG%20Card%20Sc%E2%80%A6_v2.3.0_tg@Sa1y0miii.ipa",
+     "size": 67810623
+    },
+    {
+     "version": "2.2.1",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MyDex TCG Cards 🧸 Min.iOS: [18.0+] 🧀 App version: [2.2.1] !upd  🪼 App Store: https://apps.apple.com/app/id6739222650 📮 Notes: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14845-%E2%80%8EMyDex%20TCG%20Card%20Sc%E2%80%A6_v2.2.1_tg@Sa1y0miii.ipa",
+     "size": 67256786
+    },
+    {
+     "version": "2.2.0",
+     "date": "2026-10-19T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MyDex TCG Cards 🧸 Min.iOS: [18.0+] 🧀 App version: [2.2.0] !upd  🪼 App Store: https://apps.apple.com/app/id6739222650 📮 Notes: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14503-%E2%80%8EMyDex%20TCG%20Card%20Sc%E2%80%A6_v2.2.0_tg@Sa1y0miii.ipa",
+     "size": 66420632
+    }
+   ]
+  }
+ ]
+}

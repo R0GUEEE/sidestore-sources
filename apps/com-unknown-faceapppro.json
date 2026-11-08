@@ -1,0 +1,37 @@
+{
+ "name": "FaceApp Pro",
+ "identifier": "dev.perapp.com-unknown-faceapppro",
+ "subtitle": "Active Premium",
+ "description": "Single-app source for FaceApp Pro (com.unknown.faceapppro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/FaceApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.faceapppro",
+   "name": "FaceApp Pro",
+   "developerName": "Karbin-Store",
+   "subtitle": "Active Premium",
+   "localizedDescription": "Active Premium",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/FaceApp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.4.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Active Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/FaceApp.Pro.-.11.4.0.ipa",
+     "size": 18820000
+    },
+    {
+     "version": "1.0.11",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Active Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/FaceApp.Pro.-.11.4.0.ipa",
+     "size": 19811511
+    }
+   ]
+  }
+ ]
+}

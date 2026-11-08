@@ -1,0 +1,30 @@
+{
+ "name": "Mahjong Titan+ (Apple Arcade)",
+ "identifier": "dev.perapp.com-kristanix-arcade-mahjongtitan",
+ "subtitle": "Mahjong Titan+ (Apple Arcade) by sidelix",
+ "description": "Single-app source for Mahjong Titan+ (Apple Arcade) (com.kristanix.arcade.mahjongtitan). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bf55fb297c.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kristanix.arcade.mahjongtitan",
+   "name": "Mahjong Titan+ (Apple Arcade)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Mahjong Titan is a tile matching game, and is your perfect match for playing some relaxing Mahjong.\r\n\r\nMahjong Solitaire is one of the most popular board games in the world. The simple rules and relaxing game play means that anyone can enjoy a round of mahjong. Your goal is to remove every tile by matching pairs of identical Mahjong tiles. Perfect for kids, adults and seniors.\r\n\r\nThis Apple Arcade version of the game has all 3000+ boards unlocked from the start.\r\n\r\nFeatures:\r\n\r\n• Over 3000 boards!\r\n• A new Mahjong board a day!\r\n• 8 large, high quality tile sets.\r\n• 12 backgrounds.\r\n• Optimized for portrait mode.\r\n• Fun goals to master.\r\n• HD Graphics.",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bf55fb297c.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.5",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "Mahjong Titan is a tile matching game, and is your perfect match for playing some relaxing Mahjong.\r\n\r\nMahjong Solitaire is one of the most popular board games in the world. The simple rules and relaxing game play means that anyone can enjoy a round of mahjong. Your goal is to remove every tile by matching pairs of identical Mahjong tiles. Perfect for kids, adults and seniors.\r\n\r\nThis Apple Arcade version of the game has all 3000+ boards unlocked from the start.\r\n\r\nFeatures:\r\n\r\n• Over 3000 boards!\r\n• A new Mahjong board a day!\r\n• 8 large, high quality tile sets.\r\n• 12 backgrounds.\r\n• Optimized for portrait mode.\r\n• Fun goals to master.\r\n• HD Graphics.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2333",
+     "size": 54499057
+    }
+   ]
+  }
+ ]
+}

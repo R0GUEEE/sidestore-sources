@@ -1,0 +1,44 @@
+{
+ "name": "koala",
+ "identifier": "dev.perapp.com-elf-audio-koala",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for koala (com.elf-audio.koala). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elf-audio.koala.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.elf-audio.koala",
+   "name": "koala",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elf-audio.koala.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4155",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/koala_1.4155_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 41988404
+    },
+    {
+     "version": "1.4152",
+     "date": "2026-06-29T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2026/koala_1.4152_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 42074445
+    },
+    {
+     "version": "1.4156",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/koala_1.4156_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 42004404
+    }
+   ]
+  }
+ ]
+}

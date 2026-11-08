@@ -1,0 +1,44 @@
+{
+ "name": "TorBrowserPlusPlus",
+ "identifier": "dev.perapp.ch-b-eng-tor",
+ "subtitle": "TorBrowserPlusPlus by AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+ "description": "Single-app source for TorBrowserPlusPlus (ch.b-eng.tor). Converted from swaggy.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ch.b-eng.tor",
+   "name": "TorBrowserPlusPlus",
+   "developerName": "AppDB / DPixel / Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/ch.b-eng.tor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.10",
+     "date": "2022-12-27T00:00:00Z",
+     "localizedDescription": "Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 09-06-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-27-2022/TorBrowserPlusPlus-3.2.10.ipa",
+     "size": 72628445
+    },
+    {
+     "version": "3.2.2",
+     "date": "2022-11-28T00:00:00Z",
+     "localizedDescription": "Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 09-06-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2022/TorBrowserPlusPlus-3.2.2.ipa",
+     "size": 114511347
+    },
+    {
+     "version": "1.0",
+     "date": "2022-11-10T00:00:00Z",
+     "localizedDescription": "Tor Browser with premium features unlocked. Note: VPN also works.\nLast updated: 09-06-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TorBrowserPlusPlus.ipa",
+     "size": 115722992
+    }
+   ]
+  }
+ ]
+}

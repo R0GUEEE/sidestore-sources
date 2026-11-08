@@ -1,0 +1,37 @@
+{
+ "name": "InputLine",
+ "identifier": "dev.perapp.com-evimore-inputline",
+ "subtitle": "Stream with Moonlight, keep your Steam Controller",
+ "description": "Single-app source for InputLine (com.evimore.InputLine). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3871b7",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.evimore.InputLine.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.evimore.InputLine",
+   "name": "InputLine",
+   "developerName": "Evimore",
+   "subtitle": "Stream with Moonlight, keep your Steam Controller",
+   "localizedDescription": "Steam Link is the only streaming app that brings the Steam Controller across with everything Steam Input can do. Moonlight and other streaming apps only see standard gamepads, so the trackpads, gyro and back buttons are lost.\n\nInputLine closes that gap. A small app on your iPad or iPhone reads the controller over Bluetooth and sends it straight to your PC, where Steam sees a real, wired Steam Controller. Your streaming app doesn't need to know: it streams video and audio as usual, while InputLine runs in the background.\n\n• Everything Steam Input offers: both trackpads with pressure and haptics, gyro, the four back buttons, capacitive sticks and grips, and your per-game layouts.\n• Works with any streaming app and host: Moonlight with Sunshine, Apollo or Vibepollo, unmodified.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.evimore.InputLine.png",
+   "tintColor": "#3871b7",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.0",
+     "date": "2026-10-09T00:01:06Z",
+     "localizedDescription": "• App: faster controller pickup after a restart, and faster PC connection.\n• Linux service hardening, Tailscale-only firewall option, crypto cross-check, status fix.\n\nNew Contributors:\n\n• @Evimore made their first contribution.",
+     "downloadURL": "https://github.com/Evimore/InputLine/releases/download/v0.3.0-beta.10/InputLine-v0.3.0-beta.10-iOS.ipa",
+     "size": 1522406
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "InputLine connects to your Steam Controller over Bluetooth and forwards it to your PC.",
+     "NSLocalNetworkUsageDescription": "InputLine finds your PC on the network and sends your controller's input to it."
+    }
+   }
+  }
+ ]
+}

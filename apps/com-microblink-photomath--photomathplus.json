@@ -1,0 +1,30 @@
+{
+ "name": "PhotomathPlus",
+ "identifier": "dev.perapp.com-microblink-photomath",
+ "subtitle": "Photomath, with pro features unlocked Last updated: 06-30-2024 Status: ✅",
+ "description": "Single-app source for PhotomathPlus (com.microblink.PhotoMath). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.microblink.PhotoMath",
+   "name": "PhotomathPlus",
+   "developerName": "DPixel / IPA Fire / zxcvbn’s tweaked IPAs",
+   "subtitle": "Photomath, with pro features unlocked Last updated: 06-30-2024 Status: ✅",
+   "localizedDescription": "Photomath, with pro features unlocked\nLast updated: 06-30-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.microblink.PhotoMath.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.39.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Photomath, with pro features unlocked Last updated: 06-30-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotomathPlus/PhotomathPlus-8.39.0.ipa",
+     "size": 16820213
+    }
+   ]
+  }
+ ]
+}

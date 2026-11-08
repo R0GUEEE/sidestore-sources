@@ -1,0 +1,40 @@
+{
+ "name": "Concat",
+ "identifier": "dev.perapp.app-concat-editor",
+ "subtitle": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP",
+ "description": "Single-app source for Concat (app.concat.editor). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0669fd",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.concat.editor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.concat.editor",
+   "name": "Concat",
+   "developerName": "jub0t",
+   "subtitle": "Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP",
+   "localizedDescription": "About:\n\nConcat is a free, open-source video editor for macOS, Windows, Linux and Android. It covers what most edits need: auto-captions, text-to-speech, background removal, keyframe animation, effects and titles, multi-track cutting, 4K export. With none of the catches: no watermark, no account, no subscription, no upload.\n\nEverything runs locally on a native Rust engine with a GPU compositor. Install it, drop in footage, cut. The AI models for captions, voices and cutout download once from Settings and work offline after that. Your footage never leaves your disk.\n\nGood for: TikTok, Reels and Shorts, YouTube videos, tutorials and screen recordings, podcast clips, memes.\n\nAlso for machines: a built-in MCP server for AI agents (concat --mcp, set up) and a JSON-RPC API for scripts, so they can cut video with it too.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.concat.editor.png",
+   "tintColor": "#0669fd",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/jub0t/Concat@main/assets/editor.png"
+   ],
+   "versions": [
+    {
+     "version": "0.2.9",
+     "date": "2026-11-05T09:31:54Z",
+     "localizedDescription": "Highlights:\n\n• ✨ Transitions are clips. A transition sits on the timeline and is placed, moved and trimmed like any other clip, over a cut or on a single shot. Its own knobs (Push's direction, a wipe's softness, a whip's speed) are set on it (#621).\n• ✨ Transparent projects. A clear background with a checker under the preview, or a background colour of your choice, and export with alpha as ProRes 4444 or VP9 (#456).\n• ✨ Chroma key that finds the screen itself, an eyedropper, Remove Black, and batch edits in the inspector (#543, #470).\n• 🗣️ Your own voice. Import a recording on the Voices shelf and keep it as a voice with a name, picture and description (#518).\n• ✨ Speed curves on the Speed tab: drawn, from a preset, smooth or straight (#322).\n• 📝 Styled words in a title. Give some of a title's words their own colour, bold, italic, underline, strikethrough or size, plus text case and typography controls (#529, #450).\n• ✨ Captions in the language spoken. Pick it, and whisper listens only to the speech. Each caption starts when its words do (#231, #619, #438).\n• ✨ Effects and sounds as layers. Drag a picture effect or a sound effect onto the timeline and it covers everything under it.\n• ✂️ Fade knobs on a sound's corners: drag along the clip to fade it in or out.\n\nExport:\n\n• 📤 About 2.4x faster at 4K: frames are drawn two ahead and handed to the encoder as YUV, and the encoder runs on its own thread.\n• 📤 H.264 and HEVC use the platform's own encoders, GPU first. HEVC falls back to Kvazaar on the CPU, and H.264 to OpenH264 where Windows has no encoder.\n• 📤 AAC uses Apple's encoder on a Mac and iPhone, Microsoft's on Windows, and Android's on a phone. A mix ends on its last sample.\n• 📤 A Mac's hardware export follows the quality you ask for, not VideoToolbox's own bitrate.\n• 📤 The last frame is drawn, with no black frame after it, and a clip after two transitions in a row no longer vanishes.\n• 📤 Running out of video memory is an error the export recovers from, not a hang.\n\nFaster:\n\n• ⚡ Scrubbing shows the nearest picture at once and the exact frame when you stop (#472).\n• ⚡ An idle app trims its frame caches and gives the memory back.\n• ⚡ Imported cards show their pictures at once, and phone filmstrips come from keyframes.\n• 🗣️ Enhance runs on the GPU in Concat's own compute shaders: 4.2 s per 1080p frame, where ONNX Runtime took 27. It works only on the span a clip shows and reuses repeated frames.\n\nEditing:\n\n• ✂️ Up and Down jump to the previous and next cut. New projects offer 4:5 and 3:4.\n• ✂️ A quick split follows the playhead (#538). Keyframe diamonds are larger and open the Keyframes pane (#490).\n• ✂️ Linkage: captions, titles, overlays and sounds move with the main track.\n• ✂️ The tab strip scrolls instead of running off the pane (#567).\n• 🐛 Copy, paste and duplicate carry every clip setting, and a paste into another project plays the right file.\n• 🐛 ⌘Q saves the project (#437). File › Open and recent projects close the open one first, saved.\n• 🐛 A missing file is noticed when the window comes back, and the relink dialog opens on it (#409).\n\nMedia:\n\n• 📁 Screen recordings and variable-frame-rate clips play every frame at its moment (#457).\n• 📁 MKV, WebM, FLV, WMV, MTS/M2TS, .ts, .mpg, HDV and DV footage shows the right picture at the right width, wherever you seek (#457).\n• 📁 Sound stays in sync in files whose streams start at different times (#457), and a trimmed clip's sound starts at its cut (#535).\n• 📁 SVG imports as a still, WebM alpha is kept (#429), and Save Audio As writes a WAV Concat can open again (#544).\n\nWindows:\n\n• 🐛 Direct3D 12 compiles shaders with FXC, never a stray dxcompiler.dll on PATH (#418), and every effect's shader builds there (#548).\n• 🐛 On a software adapter the window draws on the CPU and the monitor on a device of its own (#503, #480).\n• ✨ A Concat (safe graphics) Start menu entry (concat --software) for anyone whose window is drawn as coloured squares (#389, #242, #449).\n• 🐛 A project named NUL ",
+     "downloadURL": "https://github.com/jub0t/Concat/releases/download/v0.2.9/Concat-0.2.9-ios-arm64.ipa",
+     "size": 72629959
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSMicrophoneUsageDescription": "Concat records voice-over.",
+     "NSPhotoLibraryAddUsageDescription": "Concat saves your finished videos to Photos.",
+     "NSPhotoLibraryUsageDescription": "Concat imports the clips you pick."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Provenance",
+ "identifier": "dev.perapp.com-inj-provenance",
+ "subtitle": "Relive the golden age of gaming. Provenance brings together a collection of classic gaming console emulators into a sing",
+ "description": "Single-app source for Provenance (com.inj.provenance). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://operationidroid.com/assets/img/provenance-icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inj.provenance",
+   "name": "Provenance",
+   "developerName": "Provenance Team",
+   "subtitle": "Relive the golden age of gaming. Provenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad",
+   "localizedDescription": "Relive the golden age of gaming. Provenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://operationidroid.com/assets/img/provenance-icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5b 2774",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "Relive the golden age of gaming. Provenance brings together a collection of classic gaming console emulators into a single app for your iPhone or iPad",
+     "downloadURL": "https://file.dlninja.com/signed/a117/provenance.ipa",
+     "size": 103608264
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "ReelMaker",
+ "identifier": "dev.perapp.co-videobakery-reelseditor",
+ "subtitle": "ReelMaker",
+ "description": "Single-app source for ReelMaker (co.videobakery.ReelsEditor). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.videobakery.ReelsEditor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.videobakery.ReelsEditor",
+   "name": "ReelMaker",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.videobakery.ReelsEditor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.16",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1613",
+     "size": 61827452
+    },
+    {
+     "version": "1.4.14",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/ReelMaker_1.4.14_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 55801293
+    },
+    {
+     "version": "1.4.8",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Reel Maker\n\nTweak: Subscription Unlocked\n\nVersion: 1.4.8\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/6af48a57-b0b7-4d93-ad3f-92a42f4e7335/Reel_Maker-v1.4.8-riftysipas.ipa",
+     "size": 40972884
+    }
+   ]
+  }
+ ]
+}

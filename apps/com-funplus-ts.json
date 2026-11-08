@@ -1,0 +1,37 @@
+{
+ "name": "Tiles Survive!",
+ "identifier": "dev.perapp.com-funplus-ts",
+ "subtitle": "ipaomtk.com | What is Tiles Survive! IPA? Tiles Survive! IPA is the iOS installation package for the mobile survival str",
+ "description": "Single-app source for Tiles Survive! (com.funplus.ts). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Tiles-Survive-IPA-v2.4.700-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.funplus.ts",
+   "name": "Tiles Survive!",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Tiles Survive! IPA? Tiles Survive! IPA is the iOS installation package for the mobile survival strategy game Tiles Survive!, all",
+   "localizedDescription": "ipaomtk.com | What is Tiles Survive! IPA? Tiles Survive! IPA is the iOS installation package for the mobile survival strategy game Tiles Survive!, all",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Tiles-Survive-IPA-v2.4.700-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.700",
+     "date": "2026-03-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Tiles Survive! IPA? Tiles Survive! IPA is the iOS installation package for the mobile survival strategy game Tiles Survive!, all",
+     "downloadURL": "https://file.ipaomtk.com/tiles-survive/Tiles-Survive-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.6.300",
+     "date": "2026-03-10T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Tiles Survive! IPA? Tiles Survive! IPA is the iOS installation package for the mobile survival strategy game Tiles Survive!, all",
+     "downloadURL": "https://file.ipaomtk.com/tiles-survive/Tiles-Survive-IPAOMTK.COM.ipa",
+     "size": 664815068
+    }
+   ]
+  }
+ ]
+}

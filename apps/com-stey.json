@@ -1,0 +1,30 @@
+{
+ "name": "Filmr Pro",
+ "identifier": "dev.perapp.com-stey",
+ "subtitle": "Filmr is a video editor that opens the door to infinite possibilities of creation, from beginners to movie directors. Wi",
+ "description": "Single-app source for Filmr Pro (com.stey). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/v3O5Bmz.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stey",
+   "name": "Filmr Pro",
+   "developerName": "Stei App",
+   "subtitle": "Filmr is a video editor that opens the door to infinite possibilities of creation, from beginners to movie directors. With a simple, fast and intuitiv",
+   "localizedDescription": "Filmr is a video editor that opens the door to infinite possibilities of creation, from beginners to movie directors. With a simple, fast and intuitiv",
+   "iconURL": "https://i.imgur.com/v3O5Bmz.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.5.4",
+     "date": "2020-12-17T00:00:00Z",
+     "localizedDescription": "Filmr is a video editor that opens the door to infinite possibilities of creation, from beginners to movie directors. With a simple, fast and intuitiv",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Filmr-Pro.ipa",
+     "size": 219640035
+    }
+   ]
+  }
+ ]
+}

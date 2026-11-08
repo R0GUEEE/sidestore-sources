@@ -1,0 +1,44 @@
+{
+ "name": "TravelBoast",
+ "identifier": "dev.perapp.com-travelboast-travelboast",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for TravelBoast (com.travelboast.travelboast). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.travelboast.travelboast.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.travelboast.travelboast",
+   "name": "TravelBoast",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.travelboast.travelboast.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.19",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-12-2025/TravelBoast_2.19_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 316405659
+    },
+    {
+     "version": "2.15",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-11-2025/TravelBoast_2.15_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 295127905
+    },
+    {
+     "version": "2.14",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-11-2025/TravelBoast_2.14_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 296916938
+    }
+   ]
+  }
+ ]
+}

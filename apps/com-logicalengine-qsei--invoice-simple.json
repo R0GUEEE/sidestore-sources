@@ -1,0 +1,44 @@
+{
+ "name": "Invoice Simple",
+ "identifier": "dev.perapp.com-logicalengine-qsei",
+ "subtitle": "@riftysIPAlibrary | Invoice Simple: Invoice Maker  Tweak: Premium Unlocked  Version: 6.9.1  Patched ✓  @riftysIPAlibrary",
+ "description": "Single-app source for Invoice Simple (com.logicalengine.qsei). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7230.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.logicalengine.qsei",
+   "name": "Invoice Simple",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Invoice Simple: Invoice Maker  Tweak: Premium Unlocked  Version: 6.9.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+   "localizedDescription": "@riftysIPAlibrary | Invoice Simple: Invoice Maker  Tweak: Premium Unlocked  Version: 6.9.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7230.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1.2",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Invoice Simple: Invoice Maker  Tweak: Premium Unlocked  Version: 7.1.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8787-Invoice%20Simple:%20Invoice%20Maker-v7.1.2-riftysipas.ipa",
+     "size": 102682205
+    },
+    {
+     "version": "7.1.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Invoice Simple: Invoice Maker  Tweak: Premium Unlocked  Version: 7.1.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8771-Invoice%20Simple:%20Invoice%20Maker-v7.1.1-riftysipas.ipa",
+     "size": 102685347
+    },
+    {
+     "version": "6.17.1",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Invoice Simple: Invoice Maker  Tweak: Premium Unlocked  Version: 6.17.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8552-Invoice%20Simple:%20Invoice%20Maker-v6.17.1-riftysipas.ipa",
+     "size": 102312486
+    }
+   ]
+  }
+ ]
+}

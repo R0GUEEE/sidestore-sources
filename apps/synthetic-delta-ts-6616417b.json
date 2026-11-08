@@ -1,0 +1,30 @@
+{
+ "name": "Delta_TS",
+ "identifier": "dev.perapp.synthetic-delta-ts-6616417b",
+ "subtitle": "Nintendo DS emulator.",
+ "description": "Single-app source for Delta_TS (synthetic.delta-ts.6616417b). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Delta_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.delta-ts.6616417b",
+   "name": "Delta_TS",
+   "developerName": "Delta_TS x CyPwn",
+   "subtitle": "Nintendo DS emulator.",
+   "localizedDescription": "Nintendo DS emulator.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Delta_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Nintendo DS emulator.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Delta_TS.ipa",
+     "size": 19629342
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "ナナシス",
+ "identifier": "dev.perapp.jp-ne-donuts-t7s",
+ "subtitle": "ipaomtk.com | Tokyo 7th シスターズ IPA is ⁤a popular Japanese mobile‍ rhythm game developed by Donuts Co. Ltd, specifically f",
+ "description": "Single-app source for ナナシス (jp.ne.donuts.t7s). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Tokyo-7th-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.ne.donuts.t7s",
+   "name": "ナナシス",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tokyo 7th シスターズ IPA is ⁤a popular Japanese mobile‍ rhythm game developed by Donuts Co. Ltd, specifically for iOS ​devices. The game comb",
+   "localizedDescription": "ipaomtk.com | Tokyo 7th シスターズ IPA is ⁤a popular Japanese mobile‍ rhythm game developed by Donuts Co. Ltd, specifically for iOS ​devices. The game comb",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Tokyo-7th-%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.1.0",
+     "date": "2025-05-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tokyo 7th シスターズ IPA is ⁤a popular Japanese mobile‍ rhythm game developed by Donuts Co. Ltd, specifically for iOS ​devices. The game comb",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Tokyo_7th_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

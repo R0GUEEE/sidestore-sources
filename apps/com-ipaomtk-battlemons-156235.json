@@ -1,0 +1,37 @@
+{
+ "name": "Battlemons",
+ "identifier": "dev.perapp.com-ipaomtk-battlemons-156235",
+ "subtitle": "ipaomtk.com | What is Battlemons IPA? Battlemons IPA is the iOS installation file of the monster-collecting RPG Battlemo",
+ "description": "Single-app source for Battlemons (com.ipaomtk.battlemons.156235). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Battlemons-IPA-v1.0.2840-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.battlemons.156235",
+   "name": "Battlemons",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Battlemons IPA? Battlemons IPA is the iOS installation file of the monster-collecting RPG Battlemons, designed for iPhone and iP",
+   "localizedDescription": "ipaomtk.com | What is Battlemons IPA? Battlemons IPA is the iOS installation file of the monster-collecting RPG Battlemons, designed for iPhone and iP",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Battlemons-IPA-v1.0.2840-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-04-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Battlemons IPA? Battlemons IPA is the iOS installation file of the monster-collecting RPG Battlemons, designed for iPhone and iP",
+     "downloadURL": "https://file.ipaomtk.com/battlemons/Battlemons-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.2840",
+     "date": "2026-04-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Battlemons IPA? Battlemons IPA is the iOS installation file of the monster-collecting RPG Battlemons, designed for iPhone and iP",
+     "downloadURL": "https://file.ipaomtk.com/battlemons/Battlemons-IPAOMTK.COM.ipa",
+     "size": 1595821975
+    }
+   ]
+  }
+ ]
+}

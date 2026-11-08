@@ -1,0 +1,30 @@
+{
+ "name": "HeavyBagPro",
+ "identifier": "dev.perapp.com-opentechiz-heavybagpro",
+ "subtitle": "HeavyBagPro",
+ "description": "Single-app source for HeavyBagPro (com.opentechiz.heavybagpro). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.opentechiz.heavybagpro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.opentechiz.heavybagpro",
+   "name": "HeavyBagPro",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.opentechiz.heavybagpro.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.6",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/HeavyBagPro_2.6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 29743315
+    }
+   ]
+  }
+ ]
+}

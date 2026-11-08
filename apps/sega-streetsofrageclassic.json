@@ -1,0 +1,30 @@
+{
+ "name": "Streets of Rage Classic (removed from App Store)",
+ "identifier": "dev.perapp.sega-streetsofrageclassic",
+ "subtitle": "Streets of Rage Classic (removed from App Store) by sidelix",
+ "description": "Single-app source for Streets of Rage Classic (removed from App Store) (Sega.StreetsofRageClassic). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1781102925.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Sega.StreetsofRageClassic",
+   "name": "Streets of Rage Classic (removed from App Store)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Streets of Rage Classic is a pixel action game with a criminal plot and dynamic gameplay. The game’s plot revolves around the confrontation between a criminal boss known under the pseudonym Mr. X and three policemen who dream of stopping a bandit. The streets of the city are teeming with robbers and murderers, and the situation is already out of control, and then a group of cops, led by you, enters the arena. In total, you will find eight vast worlds and hundreds of enemies, as well as exciting boss fights",
+   "iconURL": "https://appstore.sidelix.vip/images/1781102925.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Streets of Rage Classic is a pixel action game with a criminal plot and dynamic gameplay. The game’s plot revolves around the confrontation between a criminal boss known under the pseudonym Mr. X and three policemen who dream of stopping a bandit. The streets of the city are teeming with robbers and murderers, and the situation is already out of control, and then a group of cops, led by you, enters the arena. In total, you will find eight vast worlds and hundreds of enemies, as well as exciting boss fights",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2018",
+     "size": 41789081
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SBZombies",
+ "identifier": "dev.perapp.com-candysoft-sbzombiesre5",
+ "subtitle": "ipaomtk.com | 7Billion Zombies – Last War IPA is simple yet captivating. The game takes place in a vast, open world wher",
+ "description": "Single-app source for SBZombies (com.candysoft.SBZombiesRe5). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/7Billion-Zombies-Last-War-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.candysoft.SBZombiesRe5",
+   "name": "SBZombies",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | 7Billion Zombies – Last War IPA is simple yet captivating. The game takes place in a vast, open world where you must scavenge for resour",
+   "localizedDescription": "ipaomtk.com | 7Billion Zombies – Last War IPA is simple yet captivating. The game takes place in a vast, open world where you must scavenge for resour",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/7Billion-Zombies-Last-War-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.57",
+     "date": "2024-08-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | 7Billion Zombies – Last War IPA is simple yet captivating. The game takes place in a vast, open world where you must scavenge for resour",
+     "downloadURL": "https://file.ipaomtk.com/ipa/7BillionZombies-Survival.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

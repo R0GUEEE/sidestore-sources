@@ -1,0 +1,37 @@
+{
+ "name": "Skullburn",
+ "identifier": "dev.perapp.com-ipaomtk-skullburn-154269",
+ "subtitle": "ipaomtk.com | What is Skullburn IPA? Skullburn IPA is a high-energy action game for iOS that blends fast-paced combat wi",
+ "description": "Single-app source for Skullburn (com.ipaomtk.skullburn.154269). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Skullburn-IPA-v1.0.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.skullburn.154269",
+   "name": "Skullburn",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Skullburn IPA? Skullburn IPA is a high-energy action game for iOS that blends fast-paced combat with a dark, atmospheric world, ",
+   "localizedDescription": "ipaomtk.com | What is Skullburn IPA? Skullburn IPA is a high-energy action game for iOS that blends fast-paced combat with a dark, atmospheric world, ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/Skullburn-IPA-v1.0.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-04-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Skullburn IPA? Skullburn IPA is a high-energy action game for iOS that blends fast-paced combat with a dark, atmospheric world, ",
+     "downloadURL": "https://file.ipaomtk.com/Skullburn/Skullburn-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.5",
+     "date": "2026-04-07T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Skullburn IPA? Skullburn IPA is a high-energy action game for iOS that blends fast-paced combat with a dark, atmospheric world, ",
+     "downloadURL": "https://file.ipaomtk.com/Skullburn/Skullburn-IPAOMTK.COM.ipa",
+     "size": 326227282
+    }
+   ]
+  }
+ ]
+}

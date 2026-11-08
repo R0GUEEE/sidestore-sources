@@ -1,0 +1,30 @@
+{
+ "name": "Super Hexagon",
+ "identifier": "dev.perapp.com-distractionware-superhexagon",
+ "subtitle": "ipaomtk.com | Super Hexagon on iOS is a fast-paced arcade game built entirely around reaction speed and precision timing",
+ "description": "Single-app source for Super Hexagon (com.distractionware.superhexagon). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Super-Hexagon-IPA-v3.0.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.distractionware.superhexagon",
+   "name": "Super Hexagon",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Super Hexagon on iOS is a fast-paced arcade game built entirely around reaction speed and precision timing. Designed to test focus and c",
+   "localizedDescription": "ipaomtk.com | Super Hexagon on iOS is a fast-paced arcade game built entirely around reaction speed and precision timing. Designed to test focus and c",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Super-Hexagon-IPA-v3.0.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.2",
+     "date": "2026-02-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Super Hexagon on iOS is a fast-paced arcade game built entirely around reaction speed and precision timing. Designed to test focus and c",
+     "downloadURL": "https://file.ipaomtk.com/Super-Hexagon/Super-Hexagon-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

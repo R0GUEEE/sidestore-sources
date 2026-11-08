@@ -1,0 +1,41 @@
+{
+ "name": "Gevun",
+ "identifier": "dev.perapp.app-gevun-music",
+ "subtitle": "A music player for your Navidrome library on iPhone and iPad",
+ "description": "Single-app source for Gevun (app.gevun.music). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#dd7370",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.gevun.music.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.gevun.music",
+   "name": "Gevun",
+   "developerName": "DjangoCustard225",
+   "subtitle": "A music player for your Navidrome library on iPhone and iPad",
+   "localizedDescription": "Gevun:\n\nA music player for your Navidrome library on iPhone and iPad.\n\nFeatures:\n\n• Browse albums, artists, and songs, or search your library.\n• Listen in original quality with background playback and lock-screen controls.\n• Follow synced lyrics and tap a line to jump to it.\n\n• Add songs to your queue, play next, and repeat tracks or albums.\n• Automatically save your queue and restore it paused, with offline recovery and Navidrome sync.\n• Share listening links for songs and albums when enabled on your server.\n• Read artist biographies and discover similar artists.\n• Switch between multiple Navidrome servers.\n• A dark interface with colors drawn from your album artwork.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.gevun.music.png",
+   "tintColor": "#dd7370",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/DjangoCustard225/Gevun@main/docs/screenshots/album.webp",
+    "https://cdn.jsdelivr.net/gh/DjangoCustard225/Gevun@main/docs/screenshots/player.webp",
+    "https://cdn.jsdelivr.net/gh/DjangoCustard225/Gevun@main/docs/screenshots/artist.webp",
+    "https://cdn.jsdelivr.net/gh/DjangoCustard225/Gevun@main/docs/screenshots/songs.webp"
+   ],
+   "versions": [
+    {
+     "version": "0.4",
+     "date": "2026-10-30T05:37:15Z",
+     "localizedDescription": "• Automatically save and restore your listening queue.\n• Share listening links for songs and albums.",
+     "downloadURL": "https://github.com/DjangoCustard225/Gevun/releases/download/v0.4/Gevun.ipa",
+     "size": 6869419
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Gevun connects to your Navidrome music server on your local network."
+    }
+   }
+  }
+ ]
+}

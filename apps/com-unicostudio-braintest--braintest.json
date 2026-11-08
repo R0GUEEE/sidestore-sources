@@ -1,0 +1,44 @@
+{
+ "name": "BrainTest",
+ "identifier": "dev.perapp.com-unicostudio-braintest",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for BrainTest (com.unicostudio.braintest). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unicostudio.braintest",
+   "name": "BrainTest",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unicostudio.braintest.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.775.0",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Brain Test: Tricky Puzzles  Tweak: Unlimited Bulbs, Free iAP  Version: 2.775.0  Patched ✓  @riftysIPAlibrary  Additional Informati",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7702-Brain%20Test:%20Tricky%20Puzzles-v2.775.0-riftysipas.ipa",
+     "size": 152135504
+    },
+    {
+     "version": "2.774.0",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Brain Test: Tricky Puzzles  Tweak: Unlimited Bulbs, Free iAP  Version: 2.774.0  Patched ✓  @riftysIPAlibrary  Additional Informati",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7674-Brain%20Test:%20Tricky%20Puzzles-v2.774.0-riftysipas.ipa",
+     "size": 153249602
+    },
+    {
+     "version": "2.772.0",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Brain Test: Tricky Puzzles  Tweak: Unlimited Bulbs, Free iAP  Version: 2.772.0  Patched ✓  @riftysIPAlibrary  Additional Informati",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7659-Brain%20Test:%20Tricky%20Puzzles-v2.772.0-riftysipas.ipa",
+     "size": 152337923
+    }
+   ]
+  }
+ ]
+}

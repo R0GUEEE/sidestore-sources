@@ -1,0 +1,44 @@
+{
+ "name": "Headway",
+ "identifier": "dev.perapp.com-headway-books",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Headway (com.headway.books). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.headway.books",
+   "name": "Headway",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headway.books.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "354.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-10-2025/Headway_354.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 332094461
+    },
+    {
+     "version": "353.4",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/26-10-2025/Headway_353.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 529692139
+    },
+    {
+     "version": "349.1",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/26-09-2025/Headway_349.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 305698519
+    }
+   ]
+  }
+ ]
+}

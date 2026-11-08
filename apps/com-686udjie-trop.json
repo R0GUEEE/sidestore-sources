@@ -1,0 +1,38 @@
+{
+ "name": "Trop",
+ "identifier": "dev.perapp.com-686udjie-trop",
+ "subtitle": "YouTube Music client for iOS",
+ "description": "Single-app source for Trop (com.686udjie.Trop). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1a88ff",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.686udjie.Trop.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.686udjie.Trop",
+   "name": "Trop",
+   "developerName": "SwiftyMedia",
+   "subtitle": "YouTube Music client for iOS",
+   "localizedDescription": "Trop:\n\nA free and open source YouTube Music client for iOS.\n\nFeatures:\n\n• No ads.\n\n• Stream songs and videos from YouTube Music.\n• Synced lyrics (Musixmatch, Netease, Kugou, LRCLIB, Genius).\n• Library sync (playlists, albums, artists, podcasts).\n\n• Custom app icons and themes.\n• Queue management and listening history.\n\nAdd the Trop source, then install the latest stable release (unsigned - your client re-signs it with your Apple ID):\n\nNote: AltStore PAL is not supported.\n\nManual Installation:\n\nTo build an unsigned IPA locally, run ./build_ipa.sh; the output is build/Trop.ipa.\n\nNotable mentions:\n\n• InnerTubeX - eXtended InnerTube API library for Kotlin.\n• zemer-cipher - YouTube cipher deobfuscation and PoToken generation.\n• Metrolist - YouTube Music client for Android.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.686udjie.Trop.png",
+   "tintColor": "#1a88ff",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/SwiftyMedia/Trop@main/.github/assets/1.png",
+    "https://cdn.jsdelivr.net/gh/SwiftyMedia/Trop@main/.github/assets/2.png",
+    "https://cdn.jsdelivr.net/gh/SwiftyMedia/Trop@main/.github/assets/3.png"
+   ],
+   "versions": [
+    {
+     "version": "0.0.4",
+     "date": "2026-10-23T20:01:13Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/SwiftyMedia/Trop/releases/download/v0.0.4/Trop.ipa",
+     "size": 47614536
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Skate It Fix",
+ "identifier": "dev.perapp.io-github-johnny901901901-applesauce-skateitfix",
+ "subtitle": "Skate It IOS fix for modern iPhones",
+ "description": "Single-app source for Skate It Fix (io.github.johnny901901901.applesauce.skateitfix). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f37216",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.johnny901901901.applesauce.skateitfix.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.johnny901901901.applesauce.skateitfix",
+   "name": "Skate It Fix",
+   "developerName": "gabe4tw",
+   "subtitle": "Skate It IOS fix for modern iPhones",
+   "localizedDescription": "skate-it-ios-fix (WIP):\n\nGet Skate It (EA, 2010, com.ea.skateit.inc, v1.0.70, 32-bit armv6) running on modern iPhones.\n\nThis is a copy of Applesauce, the iOS port of touchHLE / HyperHLE, with fixes the game needs and a GitHub Actions workflow that builds the iPhone app without a Mac. The Applesauce README is kept as APPLESAUCE_README.md.\n\nBased on Applesauce ios-host at c75278b. This project isn't affiliated with or endorsed by EA, Applesauce, HyperHLE or touchHLE, and includes no games.\n\nWhat's fixed:\n\nThe same fixes are proposed upstream to HyperHLE from gabe4tw/HyperHLE-Headroom-Fix (branch stack-top-headroom).\n\nThe app starts Skate It on its own instead of waiting in the library:\n\n• Open the app. If JIT is off, it asks StikDebug to enable it (StikDebug briefly comes to the front).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.johnny901901901.applesauce.skateitfix.png",
+   "tintColor": "#f37216",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-10-09T12:39:05Z",
+     "localizedDescription": "Applesauce (the iOS port of touchHLE/HyperHLE) with the fixes Skate It (EA, v1.0.70) needs, set up to start the game directly.\n\nThe game is not included. Bring your own decrypted copy.\n\nWhat's new:\n\n• Skate It is playable. The main thread's stack now leaves headroom at the top of memory, so the game's text, physics, models and menus work. Before, it had garbled text, the skater spawned inside the ground, and Career/Options couldn't be opened.\n• Starts the game directly. Opening the app asks StikDebug to enable JIT if needed, then starts Skate It from touchHLE_apps. Exiting the game returns to the library.\n• New name and icon: the app is now called Skate It Fix and has its own icon (original artwork, no EA material).\n\n• Set up StikDebug with its pairing file and LocalDevVPN.\n• Import your Skate It .ipa, or put it in Files › On My iPhone › Skate It Fix › touchHLE_apps.\n• Open the app.\n\nJIT is required. A sideloaded app can't enable it by itself on iOS 17.4+, so StikDebug has to attach each time the app starts.\n\nApplesauce-iOS-unsigned.ipa.sha256 holds the SHA-256 checksum of the IPA.",
+     "downloadURL": "https://github.com/gabe4tw/skate-it-ios-fix/releases/download/1.2/Applesauce-iOS-unsigned.ipa",
+     "size": 37999765
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

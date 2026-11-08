@@ -1,0 +1,30 @@
+{
+ "name": "PicGuard",
+ "identifier": "dev.perapp.com-kjxbyz-picguard",
+ "subtitle": "PicGuard:  This project is used to learn how to package Flutter applications and distribute them through app stores, pac",
+ "description": "Single-app source for PicGuard (com.kjxbyz.picguard). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.kjxbyz.picguard.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kjxbyz.picguard",
+   "name": "PicGuard",
+   "developerName": "picguard",
+   "subtitle": "PicGuard:  This project is used to learn how to package Flutter applications and distribute them through app stores, package managers or binary packag",
+   "localizedDescription": "PicGuard:  This project is used to learn how to package Flutter applications and distribute them through app stores, package managers or binary packag\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.kjxbyz.picguard.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.7.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "PicGuard:  This project is used to learn how to package Flutter applications and distribute them through app stores, package managers or binary packag",
+     "downloadURL": "https://github.com/picguard/picguard/releases/download/v5.7.2.481/PicGuard-5.7.2.481.ipa",
+     "size": 31070251
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "TikTok++",
+ "identifier": "dev.perapp.com-zhiliaoapp-musically",
+ "subtitle": "TikTok with added features.",
+ "description": "Single-app source for TikTok++ (com.zhiliaoapp.musically). Converted from quantumsource.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#363636",
+ "iconURL": "https://img.ipa4fun.com/06/ac/ac/835599320-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zhiliaoapp.musically",
+   "name": "TikTok++",
+   "developerName": "CrazyMind90",
+   "subtitle": "TikTok with added features.",
+   "localizedDescription": "TikTokLRD (Cracked) - Add features to the TikTok App:\n\n• Save video without watermark\n• Share or save the video\n• Hide the user interface\n• Play the next video automatically\n• Skip watching live while watching automatically\n• Show progress bar for video\n• Enable high-quality video upload\n• Save a profile picture\n• Show the number of videos\n• Create favorite groups\n• Increase the number of letters in the comment to 240\n• Show the country code for the video\n• Enable copying for description and account\n• Enable comments transparency\n• Hide you just saw\n• Read closed comments\n• Watching videos under review\n• Show creation video date\n• Hide ADS\n• Change country\n• Confirm | cancel the like\n• Confirm | cancel the like in the comments\n• Confirm | cancel the follow\n• Lock the app",
+   "iconURL": "https://img.ipa4fun.com/06/ac/ac/835599320-logo.jpg",
+   "tintColor": "#363636",
+   "screenshots": [
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-1.jpg",
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-2.jpg",
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-3.jpg",
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-4.jpg",
+    "https://img.ipa4fun.com/06/ac/ac/835599320-screenshot-5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "28.4.1",
+     "date": "2023-03-29T00:00:00Z",
+     "localizedDescription": "• Updated TikTok to v28.4.1\n• Updated LRD+ to v2.5\n\nOnce settings have been applied app will freeze close and relaunch app for settings to successfully apply",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v28.2.0.+.LRD+.ipa",
+     "size": 202000000
+    },
+    {
+     "version": "28.2.0",
+     "date": "2023-02-26T00:00:00Z",
+     "localizedDescription": "• Updated TikTok to v28.2.0",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v28.2.0.+.LRD+.ipa",
+     "size": 156000000
+    },
+    {
+     "version": "27.9.0",
+     "date": "2023-02-12T00:00:00Z",
+     "localizedDescription": "• Updated TikTok to v27.9.0 - This is currently the latest version of TikTok that works with TikTokLRD (Cracked)",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/TikTok.v27.9.0.+.LRD+.ipa",
+     "size": 160000000
+    }
+   ]
+  }
+ ]
+}

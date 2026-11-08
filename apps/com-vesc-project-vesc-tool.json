@@ -1,0 +1,30 @@
+{
+ "name": "Vesc_Tool_6.06.2",
+ "identifier": "dev.perapp.com-vesc-project-vesc-tool",
+ "subtitle": "Configure your VESC Ecosystem",
+ "description": "Single-app source for Vesc_Tool_6.06.2 (com.vesc-project.vesc-tool). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Vesc_Tool_6.06.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vesc-project.vesc-tool",
+   "name": "Vesc_Tool_6.06.2",
+   "developerName": "Vesc_Tool_6.06.2 x CyPwn",
+   "subtitle": "Configure your VESC Ecosystem",
+   "localizedDescription": "Configure your VESC Ecosystem",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Vesc_Tool_6.06.2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.06.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Configure your VESC Ecosystem",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Vesc_Tool_6.06.2.ipa",
+     "size": 90450165
+    }
+   ]
+  }
+ ]
+}

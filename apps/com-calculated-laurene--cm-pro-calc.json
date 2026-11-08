@@ -1,0 +1,44 @@
+{
+ "name": "CM Pro Calc",
+ "identifier": "dev.perapp.com-calculated-laurene",
+ "subtitle": "@blatants | Construction Master Pro Calc  • Bundle ID: com.calculated.laurene • Updated to: 12.11.17 • Minimum iOS: 15.0",
+ "description": "Single-app source for CM Pro Calc (com.calculated.laurene). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11436.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.calculated.laurene",
+   "name": "CM Pro Calc",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | Construction Master Pro Calc  • Bundle ID: com.calculated.laurene • Updated to: 12.11.17 • Minimum iOS: 15.0 • Patched • Modifier: Subscri",
+   "localizedDescription": "@blatants | Construction Master Pro Calc  • Bundle ID: com.calculated.laurene • Updated to: 12.11.17 • Minimum iOS: 15.0 • Patched • Modifier: Subscri",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11436.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "334",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "@blatants | Construction Master Pro Calc  • Bundle ID: com.calculated.laurene • Updated to: 12.11.22 • Minimum iOS: 15.0 • Patched • Modifier: Subscri",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11952-Construction_Master_Pro_Calc_v12_11_22_Subscription_Unlocked_blatant.ipa",
+     "size": 59398038
+    },
+    {
+     "version": "330",
+     "date": "2026-08-10T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2026/CMProCalc_330_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 57071065
+    },
+    {
+     "version": "329",
+     "date": "2026-08-05T00:00:00Z",
+     "localizedDescription": "@blatants | Construction Master Pro Calc  • Bundle ID: com.calculated.laurene • Updated to: 12.11.17 • Minimum iOS: 15.0 • Patched • Modifier: Subscri",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11436-Construction_Master_Pro_Calc_v12_11_17_Subscription_Unlocked_blatant.ipa",
+     "size": 57072012
+    }
+   ]
+  }
+ ]
+}

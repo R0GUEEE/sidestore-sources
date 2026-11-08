@@ -1,0 +1,30 @@
+{
+ "name": "Light",
+ "identifier": "dev.perapp.light-trail-exposure",
+ "subtitle": "@ipa_dark | 🔄 Light | Long Exposure - appstore    🇷🇺 Камера для съёмки с эффектом длинной выдержки, позволяющая создават",
+ "description": "Single-app source for Light (Light.trail.exposure). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1802.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Light.trail.exposure",
+   "name": "Light",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Light | Long Exposure - appstore    🇷🇺 Камера для съёмки с эффектом длинной выдержки, позволяющая создавать световые следы, сглаживать д",
+   "localizedDescription": "@ipa_dark | 🔄 Light | Long Exposure - appstore    🇷🇺 Камера для съёмки с эффектом длинной выдержки, позволяющая создавать световые следы, сглаживать д\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1802.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.2",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Light | Long Exposure - appstore    🇷🇺 Камера для съёмки с эффектом длинной выдержки, позволяющая создавать световые следы, сглаживать д",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1802-Light%20%20%20Long%20Exposure%20%5Bv2.2.2%5D%28tg@ipa_dark%29.ipa",
+     "size": 3738564
+    }
+   ]
+  }
+ ]
+}

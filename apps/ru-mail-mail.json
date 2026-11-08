@@ -1,0 +1,30 @@
+{
+ "name": "Почта Mail.ru",
+ "identifier": "dev.perapp.ru-mail-mail",
+ "subtitle": "@ipa_dark | 🔄 Почта MailRU  🇷🇺 Приложение почты mail ru  ℹ️ Особенности: ▎Удалено с AppStore.  💌 Для установки приложени",
+ "description": "Single-app source for Почта Mail.ru (ru.mail.mail). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1759.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.mail.mail",
+   "name": "Почта Mail.ru",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Почта MailRU  🇷🇺 Приложение почты mail ru  ℹ️ Особенности: ▎Удалено с AppStore.  💌 Для установки приложения требуется сертификат разрабо",
+   "localizedDescription": "@ipa_dark | 🔄 Почта MailRU  🇷🇺 Приложение почты mail ru  ℹ️ Особенности: ▎Удалено с AppStore.  💌 Для установки приложения требуется сертификат разрабо\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1759.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.92.0",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Почта MailRU  🇷🇺 Приложение почты mail ru  ℹ️ Особенности: ▎Удалено с AppStore.  💌 Для установки приложения требуется сертификат разрабо",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1759-%D0%9F%D0%BE%D1%87%D1%82%D0%B0%20mail%20%5Bv15.92.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 153742133
+    }
+   ]
+  }
+ ]
+}

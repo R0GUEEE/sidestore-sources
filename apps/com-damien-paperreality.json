@@ -1,0 +1,34 @@
+{
+ "name": "PaperReality",
+ "identifier": "dev.perapp.com-damien-paperreality",
+ "subtitle": "An iOS port of Paper Mario 64 that mirrors HarbourMasters' PaperBoat",
+ "description": "Single-app source for PaperReality (com.damien.paperreality). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e70c0d",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.damien.paperreality.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.damien.paperreality",
+   "name": "PaperReality",
+   "developerName": "acoston822",
+   "subtitle": "An iOS port of Paper Mario 64 that mirrors HarbourMasters' PaperBoat",
+   "localizedDescription": "PaperReality:\n\nAn iOS port of Paper Mario 64, built on HarbourMasters' PaperBoat.\n\nDevelopers (of the original port):\n\nWe do not condone piracy.\n\nQuick Start:\n\nPaperReality does not include any copyrighted assets. You are required to provide a supported copy of the game.\n\n• Verify your ROM dump:.\n\nUS SHA1 Hash: 3837f44cda784b466c9a2d99df70d77c322b97a0 You can verify you have dumped a supported copy of the game by using the compatibility checker at https://paperboat.equipment/.\n\n• Install the app:.\n\nFor the packaged release, download PaperReality-v1.0.5-unsigned.ipa from.\n\nBuilds are unsigned .ipa files produced by this repository's GitHub Actions workflow (Build unsigned iOS IPA). Open the workflow run you want and download the PaperReality-unsigned-ipa-bN artifact. Sign and install it with the tool of your choice (for example AltStore, Sideloadly or your own developer certificate).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.damien.paperreality.png",
+   "tintColor": "#e70c0d",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.7",
+     "date": "2026-11-07T16:42:38Z",
+     "localizedDescription": "PaperReality 1.0.7:\n\nAdds Key Items to the native UIKit Save Editor and includes all source changes from releases 1.0.3 through 1.0.6.\n\nDownload: PaperReality-v1.0.7-unsigned.ipa below. Sign and install it with AltStore, Sideloadly, or your own signing certificate. Requires iOS/iPadOS 16.3 or later. Supply your own game and optional texture packs.\n\nChanges:\n\n• Added Dev Tools → Save Editor → Key Items with a searchable item catalog, native switches, held-item removal, portraits, and a visible 32-slot capacity count.\n• Added distinct names for letter recipients and items that share icons.\n• Grouped the 13 unused Key Items in a separate section at the bottom, with explicit unused labels and numbered letters.\n• Prevented duplicate additions and capacity overflow, and guarded stale callbacks after slots change or a save unloads.\n• Integrated PaperBoat upstream through da70b9ea5c8efded02680865b4da76a9292e4c50, including the desktop Key Items tab and macOS build updates.\n• Retained the 1.0.6 rendering, startup, dialogue-frame, HD upgrade-glow, and unused-badge fixes, along with the earlier UIKit, controller, touch, and display work.\n\nKey item edits affect the loaded inventory. They do not update story flags or grant rewards. Use Letters to edit delivery progression, then save in game to keep changes.\n\nValidation:\n\n• Asset-free checks exercise the production native page's capacity, repeated additions, stale callbacks, unloaded saves, labels, and invalid IDs.\n\n• IPA packaging verifies the archive, version/build number, app identity, minimum OS, and native iPhone/iPad support.\n• On-device appearance and game save/reload behavior for the new page still require confirmation.\n\nApp identity remains PaperReality, com.damien.paperreality. The iOS toolchain and libultraship revision are unchanged.",
+     "downloadURL": "https://github.com/acoston822/PaperReality/releases/download/v1.0.7/PaperReality-v1.0.7-unsigned.ipa",
+     "size": 8826154
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

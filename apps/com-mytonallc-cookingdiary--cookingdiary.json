@@ -1,0 +1,30 @@
+{
+ "name": "Cookingdiary",
+ "identifier": "dev.perapp.com-mytonallc-cookingdiary",
+ "subtitle": "Cookingdiary",
+ "description": "Single-app source for Cookingdiary (com.mytonallc.cookingdiary). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mytonallc.cookingdiary.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mytonallc.cookingdiary",
+   "name": "Cookingdiary",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with InfiniteCurrency",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mytonallc.cookingdiary.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.34.1",
+     "date": "2024-12-07T00:00:00Z",
+     "localizedDescription": "Injected with InfiniteCurrency",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/Cookingdiary_2.34.1_InfiniteCurrency_%40thisismanpreets_apptesters.org.ipa",
+     "size": 427524408
+    }
+   ]
+  }
+ ]
+}

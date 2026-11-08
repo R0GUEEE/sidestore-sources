@@ -1,0 +1,30 @@
+{
+ "name": "Feedback Assistant",
+ "identifier": "dev.perapp.synthetic-feedback-assistant-f3a7407e",
+ "subtitle": "Feedback Assistant - IPA",
+ "description": "Single-app source for Feedback Assistant (synthetic.feedback-assistant.f3a7407e). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "af53d9",
+ "iconURL": "https://cdn.omnidev.org/Feedback_Assistant-rW.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.feedback-assistant.f3a7407e",
+   "name": "Feedback Assistant",
+   "developerName": "Apple",
+   "subtitle": "Feedback Assistant - IPA",
+   "localizedDescription": "App for sending feedback to Apple.\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/Feedback_Assistant-rW.png",
+   "tintColor": "af53d9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-10-24T00:00:00Z",
+     "localizedDescription": "App for sending feedback to Apple.\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Feedback_Assistant_i_OS-OB.ipa",
+     "size": 1544192
+    }
+   ]
+  }
+ ]
+}

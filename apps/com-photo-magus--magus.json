@@ -1,0 +1,37 @@
+{
+ "name": "Magus",
+ "identifier": "dev.perapp.com-photo-magus",
+ "subtitle": "Magus",
+ "description": "Single-app source for Magus (com.photo.magus). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/07/d0/7a07d081-c2b4-fecc-abf0-3842ee60b951/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.photo.magus",
+   "name": "Magus",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAI Photo Enhancer – Magus\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nminimum OS version 16.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/07/d0/7a07d081-c2b4-fecc-abf0-3842ee60b951/AppIcon-0-0-1x_U007ephone-0-1-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAI Photo Enhancer – Magus\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nminimum OS version 16.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/55231787-b557-45d3-8b87-d1cfb7508f9b/Magus_Pro_1.6.ipa",
+     "size": 169198388
+    },
+    {
+     "version": "1.5",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAI Photo Enhancer – Magus\n\nPro features unlocked\n\nTweak made by @binnichtaktiv\n\nminimum OS version 16.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c703345d-f94f-4800-b621-2c2bb7165e99/Magus_Pro_1.5.ipa",
+     "size": 169198393
+    }
+   ]
+  }
+ ]
+}

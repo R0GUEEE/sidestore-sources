@@ -1,0 +1,30 @@
+{
+ "name": "superagent",
+ "identifier": "dev.perapp.com-agent-super-extension-safari",
+ "subtitle": "superagent",
+ "description": "Single-app source for superagent (com.agent.super.extension.safari). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.agent.super.extension.safari",
+   "name": "superagent",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.7.4",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/superagent_4.7.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 32410208
+    }
+   ]
+  }
+ ]
+}

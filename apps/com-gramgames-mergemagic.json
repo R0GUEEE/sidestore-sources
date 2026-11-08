@@ -1,0 +1,37 @@
+{
+ "name": "Merge Magic!",
+ "identifier": "dev.perapp.com-gramgames-mergemagic",
+ "subtitle": "ipaomtk.com | Unlock the magical world of Merge Magic on your iOS device with the Merge Magic IPA game. This captivating",
+ "description": "Single-app source for Merge Magic! (com.gramgames.mergemagic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/merge-magic-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gramgames.mergemagic",
+   "name": "Merge Magic!",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Unlock the magical world of Merge Magic on your iOS device with the Merge Magic IPA game. This captivating puzzle game combines the elem",
+   "localizedDescription": "ipaomtk.com | Unlock the magical world of Merge Magic on your iOS device with the Merge Magic IPA game. This captivating puzzle game combines the elem",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/merge-magic-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.4.0",
+     "date": "2023-06-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Unlock the magical world of Merge Magic on your iOS device with the Merge Magic IPA game. This captivating puzzle game combines the elem",
+     "downloadURL": "https://file.ipaomtk.com/merge-magic/Merge-Magic-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "10.9.0",
+     "date": "2023-06-11T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Unlock the magical world of Merge Magic on your iOS device with the Merge Magic IPA game. This captivating puzzle game combines the elem",
+     "downloadURL": "https://file.ipaomtk.com/merge-magic/Merge-Magic-IPAOMTK.COM.ipa",
+     "size": 214327312
+    }
+   ]
+  }
+ ]
+}

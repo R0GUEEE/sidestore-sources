@@ -1,0 +1,34 @@
+{
+ "name": "NBA Hangtime",
+ "identifier": "dev.perapp.com-devz-nbahangtime",
+ "subtitle": "A native iPhone, iPad and Windows port of Midway's NBA Hangtime (arcade, 1996)",
+ "description": "Single-app source for NBA Hangtime (com.devz.nbahangtime). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#a55c4b",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.nbahangtime.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.devz.nbahangtime",
+   "name": "NBA Hangtime",
+   "developerName": "DevZer0D4Y",
+   "subtitle": "A native iPhone, iPad and Windows port of Midway's NBA Hangtime (arcade, 1996)",
+   "localizedDescription": "NBA Hangtime for iOS and Windows:\n\nA native iPhone, iPad and Windows port of Midway's NBA Hangtime (arcade, 1996). The original arcade program runs through an embedded MAME 2003-Plus core, with touch and controller support and a true widescreen mode.\n\nYou need your own copy of the arcade ROM set (nbahangt.zip, revision L1.1). Game ROMs are not included.\n\nIf you want to support me and remain up-to-date about this and other projects, you can in different ways:\n\nKo-Fi: https://ko-fi.com/dev_zer0\n\nYouTube: https://www.youtube.com/@develop_erZ\n\nFeatures:\n\n• The real arcade game, revision L1.1 (04/16/96), with its original graphics, DCS sound and up to four players.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.devz.nbahangtime.png",
+   "tintColor": "#a55c4b",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.4",
+     "date": "2026-10-13T05:39:25Z",
+     "localizedDescription": "NBA Hangtime 0.4.4:\n\niOS build 9 · Windows x64 · iOS 16 or later.\n\nChanges:\n\n• Match CRT curvature to the corrected ports: CURVATURE 1.0 with a 40% blend toward the flat image.\n• Remove frame-artwork overscan and prevent outermost pixels from smearing beyond the curved screen.\n• Fade the tube boundary into black with a 1.5-pixel edge mask.\n• Generate the iOS and Windows CRT shaders from the same math.\n\nDownloads:\n\n• NBA-Hangtime-iOS.ipa — unsigned; sign with your sideloading tool.\n• NBA-Hangtime-0.4.4-source.zip — matching port and patched core source.\n\nCompanion SHA-256 checksums are included. Game ROMs are not included; the complete L1.1 arcade set is required. See SOURCE.md for source and license notices.\n\nValidation:\n\nGeometry regression checks cover the curvature values, symmetry, all four borders and edge fade. Windows and iOS release builds passed. OpenGL and Metal GPU tests passed shader compilation, rendering passes, black corners, image orientation, toggles and resizing. Package integrity and privacy checks passed before publication.\n\nGPU tests ran on the Mac host. Visual confirmation on physical iOS and Windows devices remains pending.",
+     "downloadURL": "https://github.com/DevZer0D4Y/NBAHangtime-iOS/releases/download/v0.4.4/NBA-Hangtime-iOS.ipa",
+     "size": 5910890
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

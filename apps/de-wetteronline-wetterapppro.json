@@ -1,0 +1,44 @@
+{
+ "name": "WeatherRadar",
+ "identifier": "dev.perapp.de-wetteronline-wetterapppro",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for WeatherRadar (de.wetteronline.WetterApppro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.wetteronline.WetterApppro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.wetteronline.WetterApppro",
+   "name": "WeatherRadar",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.wetteronline.WetterApppro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.7.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Reliable local weather predictions, alerts, and comprehensive temperature, wind, and lightning radar all in one. A user requested it so here it is. La",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WeatherRadarPro/WeatherRadarPro-2024.7.1.ipa",
+     "size": 161124714
+    },
+    {
+     "version": "2024.14.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Reliable local weather predictions, alerts, and comprehensive temperature, wind, and lightning radar all in one. A user requested it so here it is. La",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WeatherRadarPro/WeatherRadarPro-2024.14.1.ipa",
+     "size": 134147456
+    },
+    {
+     "version": "2024.13",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Reliable local weather predictions, alerts, and comprehensive temperature, wind, and lightning radar all in one. A user requested it so here it is. La",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WeatherRadarPro/WeatherRadarPro-2024.13.ipa",
+     "size": 176265635
+    }
+   ]
+  }
+ ]
+}

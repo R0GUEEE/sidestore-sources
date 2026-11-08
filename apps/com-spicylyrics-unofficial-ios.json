@@ -1,0 +1,42 @@
+{
+ "name": "Sweet Lyrics",
+ "identifier": "dev.perapp.com-spicylyrics-unofficial-ios",
+ "subtitle": "Word-by-word synced Spotify lyrics on iPhone, with Apple Music–style animations. Unofficial SwiftUI port of the Spicy Ly",
+ "description": "Single-app source for Sweet Lyrics (com.spicylyrics.unofficial.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f4929c",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.spicylyrics.unofficial.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spicylyrics.unofficial.ios",
+   "name": "Sweet Lyrics",
+   "developerName": "Sppqq",
+   "subtitle": "Word-by-word synced Spotify lyrics on iPhone, with Apple Music–style animations. Unofficial SwiftUI port of the Spicy Lyrics Spicetify extension",
+   "localizedDescription": "Sweet Lyrics for iOS:\n\nWord-by-word lyrics for whatever you're playing on Spotify, in an Apple Music style player on your iPhone or iPad.\n\nIt's an unofficial iOS version of Spicy Lyrics, the popular Spicetify extension for Spotify on desktop. Made by sppq (GitHub), tested by nie4ick.\n\nHeads up: it works, but it's still early. You can use it every day, but expect some bugs and settings that change between versions. If something breaks, please.\n\nWhat it can do:\n\n• Choose Spotify or Apple Music (the iOS Music system player); optional crossfade / AutoMix lyric transitions.\n• Lyrics that follow the singer word by word, with the same smooth animations as the desktop extension. In duets each singer gets their own side, backing vocals sit under the main line, and instrumental breaks show three bouncing dots.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.spicylyrics.unofficial.ios.png",
+   "tintColor": "#f4929c",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Sppqq/sweet-lyrics-ios@main/docs/media/duets.webp",
+    "https://cdn.jsdelivr.net/gh/Sppqq/sweet-lyrics-ios@main/docs/media/player.webp",
+    "https://cdn.jsdelivr.net/gh/Sppqq/sweet-lyrics-ios@main/docs/media/styles.webp",
+    "https://cdn.jsdelivr.net/gh/Sppqq/sweet-lyrics-ios@main/docs/media/romanization.webp",
+    "https://cdn.jsdelivr.net/gh/Sppqq/sweet-lyrics-ios@main/docs/media/artwork.webp"
+   ],
+   "versions": [
+    {
+     "version": "0.6.9",
+     "date": "2026-11-08T08:16:09Z",
+     "localizedDescription": "• Add app icon picker with original, dark and colorful variants.\n\nNew Contributors:\n\n• @nook-agent made their first contribution.",
+     "downloadURL": "https://github.com/Sppqq/sweet-lyrics-ios/releases/download/v0.6.9-alpha.321/SpicyLyrics-0.6.9-alpha.321-unsigned.ipa",
+     "size": 3581802
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSAppleMusicUsageDescription": "Sweet Lyrics reads the current track and playback position in Music to synchronize lyrics."
+    }
+   }
+  }
+ ]
+}

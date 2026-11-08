@@ -1,0 +1,30 @@
+{
+ "name": "Darkroom",
+ "identifier": "dev.perapp.com-unknown-darkroom",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەتمەندیەپارەکان کراوەتۆ ✅  تایبەت بە بە ئیدتکردنی ڤیدۆ و ڕەسم ✅",
+ "description": "Single-app source for Darkroom (com.unknown.darkroom). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Darkroom.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.darkroom",
+   "name": "Darkroom",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەتمەندیەپارەکان کراوەتۆ ✅  تایبەت بە بە ئیدتکردنی ڤیدۆ و ڕەسم ✅",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەتمەندیەپارەکان کراوەتۆ ✅  تایبەت بە بە ئیدتکردنی ڤیدۆ و ڕەسم ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Darkroom.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.8.8",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    تایبەتمەندیەپارەکان کراوەتۆ ✅  تایبەت بە بە ئیدتکردنی ڤیدۆ و ڕەسم ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Darkroom-.6.8.8.ipa",
+     "size": 129820000
+    }
+   ]
+  }
+ ]
+}

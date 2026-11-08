@@ -1,0 +1,30 @@
+{
+ "name": "Shred",
+ "identifier": "dev.perapp.com-shred-shredlabs",
+ "subtitle": "Shred",
+ "description": "Single-app source for Shred (com.shred.shredlabs). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shred.shredlabs",
+   "name": "Shred",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.5",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Shred_4.3.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 138821504
+    }
+   ]
+  }
+ ]
+}

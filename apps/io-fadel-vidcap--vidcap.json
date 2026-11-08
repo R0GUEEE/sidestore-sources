@@ -1,0 +1,44 @@
+{
+ "name": "VidCap",
+ "identifier": "dev.perapp.io-fadel-vidcap",
+ "subtitle": "VidCap",
+ "description": "Single-app source for VidCap (io.fadel.VidCap). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/4e3fda61-c5af-4115-bb38-3a161d371aff/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "io.fadel.VidCap",
+   "name": "VidCap",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: AI Captions for Videos: VidCap\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.221\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/4e3fda61-c5af-4115-bb38-3a161d371aff/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.233",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1517",
+     "size": 44404764
+    },
+    {
+     "version": "1.0.221",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: AI Captions for Videos: VidCap\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.221\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/dd381419-e21d-4868-80ae-ed5999cd20c6/AI_Captions_for_Videos__VidCap-v1.0.221-riftysipas.ipa",
+     "size": 33701179
+    },
+    {
+     "version": "1.0.218",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: AI Captions for Videos: VidCap\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.218\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/40bfaa57-13fa-442c-996e-8902734062ba/AI_Captions_for_Videos__VidCap-v1.0.218-riftysipas.ipa",
+     "size": 32011652
+    }
+   ]
+  }
+ ]
+}

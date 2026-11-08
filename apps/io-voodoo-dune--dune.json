@@ -1,0 +1,44 @@
+{
+ "name": "Dune",
+ "identifier": "dev.perapp.io-voodoo-dune",
+ "subtitle": "Dune",
+ "description": "Single-app source for Dune (io.voodoo.dune). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/c9dcecb6-9bea-47a9-b5d2-c59a37fafdeb/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "io.voodoo.dune",
+   "name": "Dune",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Dune!\n\nTweak:\n\n- Unlimited Coins\n- No Ads\n\nVersion: 5.5.79\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/c9dcecb6-9bea-47a9-b5d2-c59a37fafdeb/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.7.2",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "Mod Menu:\r\n- Infinite Money\r\n  - Premium / No Ads\r\n  - 10000x Score \r\n  - Max Stats / Records\r\n  - Game Speed (slider)\r\n\r\ndemo: https://youtu.be/TB_E3kIV0-0\r\n\r\nrequest features in discord server\r\n\r\nby nabzclan team",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
+     "size": 109286235
+    },
+    {
+     "version": "5.6.07",
+     "date": "2026-09-01T00:00:00Z",
+     "localizedDescription": "Mod Menu:\r\n- Infinite Money\r\n  - Premium / No Ads\r\n  - 10000x Score \r\n  - Max Stats / Records\r\n  - Game Speed (slider)\r\n\r\ndemo: https://youtu.be/TB_E3kIV0-0\r\n\r\nrequest features in discord server\r\n\r\nby nabzclan team",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
+     "size": 99150924
+    },
+    {
+     "version": "5.6.06",
+     "date": "2026-06-19T00:00:00Z",
+     "localizedDescription": "Mod Menu:\r\n- Infinite Money\r\n  - Premium / No Ads\r\n  - 10000x Score \r\n  - Max Stats / Records\r\n  - Game Speed (slider)\r\n\r\ndemo: https://youtu.be/TB_E3kIV0-0\r\n\r\nrequest features in discord server\r\n\r\nby nabzclan team",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
+     "size": 96404663
+    }
+   ]
+  }
+ ]
+}

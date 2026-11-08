@@ -1,0 +1,30 @@
+{
+ "name": "ToonMe Hack",
+ "identifier": "dev.perapp.com-unknown-toonmehack",
+ "subtitle": "بۆ ئەکتیڤکردنی بەشی پڕایم بەرنامەکە، دەست بدە لەبەشی سەرەوەی شاشە دواتر Buy بکە دواتر دەست بدە لە Cancel",
+ "description": "Single-app source for ToonMe Hack (com.unknown.toonmehack). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ToonMe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.toonmehack",
+   "name": "ToonMe Hack",
+   "developerName": "Karbin-Store",
+   "subtitle": "بۆ ئەکتیڤکردنی بەشی پڕایم بەرنامەکە، دەست بدە لەبەشی سەرەوەی شاشە دواتر Buy بکە دواتر دەست بدە لە Cancel",
+   "localizedDescription": "بۆ ئەکتیڤکردنی بەشی پڕایم بەرنامەکە، دەست بدە لەبەشی سەرەوەی شاشە دواتر Buy بکە دواتر دەست بدە لە Cancel",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ToonMe.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.17",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "بۆ ئەکتیڤکردنی بەشی پڕایم بەرنامەکە، دەست بدە لەبەشی سەرەوەی شاشە دواتر Buy بکە دواتر دەست بدە لە Cancel",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/ToonMe.-.v0.11.17.ipa",
+     "size": 130520000
+    }
+   ]
+  }
+ ]
+}

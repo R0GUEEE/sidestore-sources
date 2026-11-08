@@ -1,0 +1,30 @@
+{
+ "name": "Wanderlog",
+ "identifier": "dev.perapp.com-wanderlog-ios",
+ "subtitle": "ipaomtk.com | Wanderlog IPA v2.141 is a comprehensive travel planning app designed to simplify the process of organizing",
+ "description": "Single-app source for Wanderlog (com.wanderlog.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Wanderlog-8211-Travel-Planner.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wanderlog.ios",
+   "name": "Wanderlog",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Wanderlog IPA v2.141 is a comprehensive travel planning app designed to simplify the process of organizing trips and itineraries. With i",
+   "localizedDescription": "ipaomtk.com | Wanderlog IPA v2.141 is a comprehensive travel planning app designed to simplify the process of organizing trips and itineraries. With i",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Wanderlog-8211-Travel-Planner.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.140",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Wanderlog IPA v2.141 is a comprehensive travel planning app designed to simplify the process of organizing trips and itineraries. With i",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Wanderlog_-_Travel_Planner-v2.140-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

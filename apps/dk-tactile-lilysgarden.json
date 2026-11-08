@@ -1,0 +1,37 @@
+{
+ "name": "Lilys Garden",
+ "identifier": "dev.perapp.dk-tactile-lilysgarden",
+ "subtitle": "ipaomtk.com | Lily’s Garden Design & Match IPA, few ‍genres⁢ capture the hearts and minds⁢ of players like casual puzzle",
+ "description": "Single-app source for Lilys Garden (dk.tactile.lilysgarden). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Lilys-Garden-Design-038-Match-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "dk.tactile.lilysgarden",
+   "name": "Lilys Garden",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Lily’s Garden Design & Match IPA, few ‍genres⁢ capture the hearts and minds⁢ of players like casual puzzle games. Among ⁣them, Lily’s⁢ G",
+   "localizedDescription": "ipaomtk.com | Lily’s Garden Design & Match IPA, few ‍genres⁢ capture the hearts and minds⁢ of players like casual puzzle games. Among ⁣them, Lily’s⁢ G",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Lilys-Garden-Design-038-Match-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.57.0",
+     "date": "2025-04-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Lily’s Garden Design & Match IPA, few ‍genres⁢ capture the hearts and minds⁢ of players like casual puzzle games. Among ⁣them, Lily’s⁢ G",
+     "downloadURL": "https://file.ipaomtk.com/Lilys-Garden-Design-Match/Lilys-Garden-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.88.0",
+     "date": "2025-04-07T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Lily’s Garden Design & Match IPA, few ‍genres⁢ capture the hearts and minds⁢ of players like casual puzzle games. Among ⁣them, Lily’s⁢ G",
+     "downloadURL": "https://file.ipaomtk.com/Lilys-Garden-Design-Match/Lilys-Garden-IPAOMTK.COM.ipa",
+     "size": 191583545
+    }
+   ]
+  }
+ ]
+}

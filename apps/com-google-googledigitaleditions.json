@@ -1,0 +1,30 @@
+{
+ "name": "GoogleNews",
+ "identifier": "dev.perapp.com-google-googledigitaleditions",
+ "subtitle": "Full app description here. This IPA is tweaked to bypass most paywalls, etc.. Last updated: 07-03-2024 Status: ✅",
+ "description": "Single-app source for GoogleNews (com.google.GoogleDigitalEditions). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.google.GoogleDigitalEditions.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.GoogleDigitalEditions",
+   "name": "GoogleNews",
+   "developerName": "AppDB",
+   "subtitle": "Full app description here. This IPA is tweaked to bypass most paywalls, etc.. Last updated: 07-03-2024 Status: ✅",
+   "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc..\nLast updated: 07-03-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.google.GoogleDigitalEditions.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.94",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Full app description here. This IPA is tweaked to bypass most paywalls, etc.. Last updated: 07-03-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/GoogleNews/GoogleNews-5.94.ipa",
+     "size": 43006480
+    }
+   ]
+  }
+ ]
+}

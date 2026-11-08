@@ -1,0 +1,44 @@
+{
+ "name": "Violet",
+ "identifier": "dev.perapp.xyz-project-violet",
+ "subtitle": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it f",
+ "description": "Single-app source for Violet (xyz.project.violet). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/xyz.project.violet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.project.violet",
+   "name": "Violet",
+   "developerName": "project-violet",
+   "subtitle": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reope",
+   "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reope",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/xyz.project.violet.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.28.5",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reope",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2023/Violet-1.28.5.ipa",
+     "size": 94054828
+    },
+    {
+     "version": "1.28.4",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reope",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-08-2023/Violet-1.28.4.ipa",
+     "size": 93832933
+    },
+    {
+     "version": "1.28.3",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Another strictly 18+ NSFW manga reader. App is a bit buggy - let it download the database, then close and reopen if it freezes. You will have to reope",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2023/Violet-1.28.3.ipa",
+     "size": 93833329
+    }
+   ]
+  }
+ ]
+}

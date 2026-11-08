@@ -1,0 +1,30 @@
+{
+ "name": "CarSimulator2",
+ "identifier": "dev.perapp.com-oppanagames-car-simulator",
+ "subtitle": "CarSimulator2",
+ "description": "Single-app source for CarSimulator2 (com.oppanagames.car.simulator). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oppanagames.car.simulator.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.oppanagames.car.simulator",
+   "name": "CarSimulator2",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oppanagames.car.simulator.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.53.32",
+     "date": "2024-12-07T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/CarSimulator2_1.53.32_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 711018194
+    }
+   ]
+  }
+ ]
+}

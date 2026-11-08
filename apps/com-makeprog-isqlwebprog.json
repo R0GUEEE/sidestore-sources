@@ -1,0 +1,30 @@
+{
+ "name": "iSqlWebProg",
+ "identifier": "dev.perapp.com-makeprog-isqlwebprog",
+ "subtitle": "ipaomtk.com | ISqlProg IPA v1.7.4 is a powerful tool designed to enhance the experience of both novice and experienced S",
+ "description": "Single-app source for iSqlWebProg (com.makeprog.iSqlWebProg). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iSqlProg-Sql-Server-Client.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.makeprog.iSqlWebProg",
+   "name": "iSqlWebProg",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | ISqlProg IPA v1.7.4 is a powerful tool designed to enhance the experience of both novice and experienced SQL programmers. With its user-",
+   "localizedDescription": "ipaomtk.com | ISqlProg IPA v1.7.4 is a powerful tool designed to enhance the experience of both novice and experienced SQL programmers. With its user-",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/iSqlProg-Sql-Server-Client.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | ISqlProg IPA v1.7.4 is a powerful tool designed to enhance the experience of both novice and experienced SQL programmers. With its user-",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iSqlProg_Sql_Server_Client-v1.7.4-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

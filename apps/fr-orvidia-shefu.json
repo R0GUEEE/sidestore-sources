@@ -1,0 +1,42 @@
+{
+ "name": "Shefu",
+ "identifier": "dev.perapp.fr-orvidia-shefu",
+ "subtitle": "An offline recipes manager in flutter, built with Isar",
+ "description": "Single-app source for Shefu (fr.orvidia.shefu). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#45b2e8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/fr.orvidia.shefu.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fr.orvidia.shefu",
+   "name": "Shefu",
+   "developerName": "lenios",
+   "subtitle": "An offline recipes manager in flutter, built with Isar",
+   "localizedDescription": "shefu:\n\nShefu is an offline, open source (GPLv3) digital cookbook and kitchen assistant, designed to help you track, organize, and cook your recipes in your native language. All of this with local storage (no internet required!).\n\nKey Features::\n\n• Organize and search your recipes: Easily add, edit, set as favorite, and search all your recipes with categories (mains, desserts, etc.). Advanced full-text search: search 'egg' and you'll find all your recipes including eggs, even meringue! Multi-term search: Click on favorites, select Japan in country dropdown and search for \"beef,rice\" to list all your favorite japanese recipes containing beef and rice, including gyudon/牛丼!",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/fr.orvidia.shefu.png",
+   "tintColor": "#45b2e8",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/lenios/shefu@main/fastlane/metadata/android/en-US/images/phoneScreenshots/1-search.png",
+    "https://cdn.jsdelivr.net/gh/lenios/shefu@main/fastlane/metadata/android/en-US/images/phoneScreenshots/2-add_recipe.png",
+    "https://cdn.jsdelivr.net/gh/lenios/shefu@main/fastlane/metadata/android/en-US/images/phoneScreenshots/3-edit_recipe_step.png",
+    "https://cdn.jsdelivr.net/gh/lenios/shefu@main/fastlane/metadata/android/en-US/images/phoneScreenshots/4-display_recipe.png",
+    "https://cdn.jsdelivr.net/gh/lenios/shefu@main/fastlane/metadata/android/en-US/images/phoneScreenshots/5-shopping_list.png"
+   ],
+   "versions": [
+    {
+     "version": "4.4.1",
+     "date": "2026-10-13T20:00:21Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/lenios/shefu/releases/download/v4.4.1%2B2883/shefu-unsigned.ipa",
+     "size": 15629179
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryUsageDescription": "Shefu would like access to your photo library so you can add images to your recipes."
+    }
+   }
+  }
+ ]
+}

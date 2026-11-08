@@ -1,0 +1,37 @@
+{
+ "name": "Pocket City 2+",
+ "identifier": "dev.perapp.games-engaged-pocketcity2",
+ "subtitle": "@ipa_dark | 🔄 Pocket City 2 - appstore  🇷🇺 Градостроительный симулятор с открытым миром, где нужно строить и развивать г",
+ "description": "Single-app source for Pocket City 2+ (games.engaged.pocketcity2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1628.png",
+ "apps": [
+  {
+   "bundleIdentifier": "games.engaged.pocketcity2",
+   "name": "Pocket City 2+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Pocket City 2 - appstore  🇷🇺 Градостроительный симулятор с открытым миром, где нужно строить и развивать город, управлять экономикой, вы",
+   "localizedDescription": "@ipa_dark | 🔄 Pocket City 2 - appstore  🇷🇺 Градостроительный симулятор с открытым миром, где нужно строить и развивать город, управлять экономикой, вы",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1628.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.028",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Pocket City 2 - appstore  🇷🇺 Градостроительный симулятор с открытым миром, где нужно строить и развивать город, управлять экономикой, вы",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1667-Pocket%20City%202%20%5Bv1.21%5D%28tg@ipa_dark%29.ipa",
+     "size": 170835336
+    },
+    {
+     "version": "2.026",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Pocket City 2 - appstore  🇷🇺 Градостроительный симулятор с открытым миром, где нужно строить и развивать город, управлять экономикой, вы",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1628-Pocket%20City%202+%20%5Bv2.026%5D%28tg@ipa_dark%29.ipa",
+     "size": 155066626
+    }
+   ]
+  }
+ ]
+}

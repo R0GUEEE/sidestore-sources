@@ -1,0 +1,44 @@
+{
+ "name": "Photomath",
+ "identifier": "dev.perapp.com-microblink-photomath",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Photomath (com.microblink.PhotoMath). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.microblink.PhotoMath",
+   "name": "Photomath",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.microblink.PhotoMath.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.47.0",
+     "date": "2026-09-01T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Photomath_8.47.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 19837223
+    },
+    {
+     "version": "8.44.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/11-09-2025/Photomath_8.44.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 18036205
+    },
+    {
+     "version": "8.36.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Photomath, with pro features unlocked Last updated: 06-30-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PhotomathPlus/PhotomathPlus-8.36.0.ipa",
+     "size": 16580746
+    }
+   ]
+  }
+ ]
+}

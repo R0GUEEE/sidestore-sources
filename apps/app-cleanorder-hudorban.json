@@ -1,0 +1,30 @@
+{
+ "name": "Spotluma",
+ "identifier": "dev.perapp.app-cleanorder-hudorban",
+ "subtitle": "@ipa_dark | 🔄 Тинькофф | Тбанк  🇷🇺 Обновлённое приложение tinkoff, добавленное в appstore под видом другого приложения \"",
+ "description": "Single-app source for Spotluma (app.cleanorder.hudorban). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1761.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.cleanorder.hudorban",
+   "name": "Spotluma",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Тинькофф | Тбанк  🇷🇺 Обновлённое приложение tinkoff, добавленное в appstore под видом другого приложения \"SpoT\".  ℹ️ Особенности: ▎Удале",
+   "localizedDescription": "@ipa_dark | 🔄 Тинькофф | Тбанк  🇷🇺 Обновлённое приложение tinkoff, добавленное в appstore под видом другого приложения \"SpoT\".  ℹ️ Особенности: ▎Удале\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1761.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.2",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Тинькофф | Тбанк  🇷🇺 Обновлённое приложение tinkoff, добавленное в appstore под видом другого приложения \"SpoT\".  ℹ️ Особенности: ▎Удале",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1761-Tink%20Spot%20%5Bv8.2.9%5D%28tg@ipa_dark%29.ipa",
+     "size": 234307573
+    }
+   ]
+  }
+ ]
+}

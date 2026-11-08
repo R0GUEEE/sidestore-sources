@@ -1,0 +1,30 @@
+{
+ "name": "Jawaker",
+ "identifier": "dev.perapp.com-boundlessdrop-jawaker",
+ "subtitle": "ipaomtk.com | Jawaker IPA For iOS is a the mobile app version of the popular Jawaker card-based game, which has been a s",
+ "description": "Single-app source for Jawaker (com.boundlessdrop.jawaker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/2024-09-02-6.37.23%E2%80%AFPM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.boundlessdrop.jawaker",
+   "name": "Jawaker",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Jawaker IPA For iOS is a the mobile app version of the popular Jawaker card-based game, which has been a staple of Middle Eastern cultur",
+   "localizedDescription": "ipaomtk.com | Jawaker IPA For iOS is a the mobile app version of the popular Jawaker card-based game, which has been a staple of Middle Eastern cultur",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/2024-09-02-6.37.23%E2%80%AFPM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "28.2.20",
+     "date": "2023-11-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Jawaker IPA For iOS is a the mobile app version of the popular Jawaker card-based game, which has been a staple of Middle Eastern cultur",
+     "downloadURL": "https://file.ipaomtk.com/ipa/jawaker.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

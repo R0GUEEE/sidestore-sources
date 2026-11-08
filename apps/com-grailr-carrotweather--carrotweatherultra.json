@@ -1,0 +1,44 @@
+{
+ "name": "CarrotWeatherUltra",
+ "identifier": "dev.perapp.com-grailr-carrotweather",
+ "subtitle": "CarrotWeatherUltra by zxcvbn's tweaked IPAs",
+ "description": "Single-app source for CarrotWeatherUltra (com.grailr.CARROTweather). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.grailr.CARROTweather.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.grailr.CARROTweather",
+   "name": "CarrotWeatherUltra",
+   "developerName": "zxcvbn's tweaked IPAs",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.grailr.CARROTweather.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarrotWeatherUltra/CarrotWeatherUltra-6.0.ipa",
+     "size": 224882754
+    },
+    {
+     "version": "5.12.1",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarrotWeatherUltra/CarrotWeatherUltra-5.12.1.ipa",
+     "size": 180499532
+    },
+    {
+     "version": "5.12.12",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "This might be the best iPhone weather app, offering real-time, hourly, and 7-day forecasts with a touch of sarcastic humor to brighten any forecast. HIGHLY customizable for a personalized weather experience. Note: To ensure the widgets function properly, you MUST activate your location services; otherwise, you'll encounter a \"Network Error.\"\nLast updated: 07-23-2024\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CarrotWeatherUltra/CarrotWeatherUltra-5.12.12.ipa",
+     "size": 201596884
+    }
+   ]
+  }
+ ]
+}

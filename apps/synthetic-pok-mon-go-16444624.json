@@ -1,0 +1,30 @@
+{
+ "name": "Pokémon GO",
+ "identifier": "dev.perapp.synthetic-pok-mon-go-16444624",
+ "subtitle": "Pokémon GO by Karbin-Store",
+ "description": "Single-app source for Pokémon GO (synthetic.pok-mon-go.16444624). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Pokemon.GO.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.pok-mon-go.16444624",
+   "name": "Pokémon GO",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Pokemon.GO.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.5.2",
+     "date": "2025-01-11T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iPoGo/iPoGo-3.5.2.ipa",
+     "size": 140220000
+    }
+   ]
+  }
+ ]
+}

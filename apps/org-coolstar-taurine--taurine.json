@@ -1,0 +1,30 @@
+{
+ "name": "Taurine",
+ "identifier": "dev.perapp.org-coolstar-taurine",
+ "subtitle": "Jailbreak iOS 14.0 - 14.8 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Taurine (org.coolstar.taurine). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://taurine.app/assets/images/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.coolstar.taurine",
+   "name": "Taurine",
+   "developerName": "Odyssey Team",
+   "subtitle": "Jailbreak iOS 14.0 - 14.8 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Jailbreak iOS 14.0 - 14.8 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://taurine.app/assets/images/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.7-3",
+     "date": "2026-08-09T00:00:00Z",
+     "localizedDescription": "Jailbreak iOS 14.0 - 14.8 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+     "size": 32244737
+    }
+   ]
+  }
+ ]
+}

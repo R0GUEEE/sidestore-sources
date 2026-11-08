@@ -1,0 +1,30 @@
+{
+ "name": "Elevate",
+ "identifier": "dev.perapp.com-elevateapp-elevate",
+ "subtitle": "Elevate",
+ "description": "Single-app source for Elevate (com.elevateapp.elevate). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.elevateapp.elevate",
+   "name": "Elevate",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.264.0",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Elevate_5.264.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 452729938
+    }
+   ]
+  }
+ ]
+}

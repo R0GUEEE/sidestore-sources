@@ -1,0 +1,30 @@
+{
+ "name": "IMemScan_TS",
+ "identifier": "dev.perapp.synthetic-imemscan-ts-07e10b13",
+ "subtitle": "Application memory editor.",
+ "description": "Single-app source for IMemScan_TS (synthetic.imemscan-ts.07e10b13). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/IMemScan_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.imemscan-ts.07e10b13",
+   "name": "IMemScan_TS",
+   "developerName": "IMemScan_TS x CyPwn",
+   "subtitle": "Application memory editor.",
+   "localizedDescription": "Application memory editor.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/IMemScan_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.6",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Application memory editor.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/IMemScan_TS.ipa",
+     "size": 2537553
+    }
+   ]
+  }
+ ]
+}

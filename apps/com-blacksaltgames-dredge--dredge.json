@@ -1,0 +1,30 @@
+{
+ "name": "DREDGE",
+ "identifier": "dev.perapp.com-blacksaltgames-dredge",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for DREDGE (com.blacksaltgames.dredge). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/DREDGE-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.blacksaltgames.dredge",
+   "name": "DREDGE",
+   "developerName": "ipaomtk.com",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | DREDGE a comprehensive collection designed to ‌illuminate the‍ engaging landscape of iOS devices, apps, and updates. This curated selection of essential articles invites readers on a journey through insightful analyses, practical tips, and thought-provoking features that capture⁣ the essence of ⁢Apple’s innovative spirit.‍ Whether you’re a seasoned developer looking to refine your​ craft or a […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/DREDGE-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.18",
+     "date": "2025-02-27T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | DREDGE a comprehensive collection designed to ‌illuminate the‍ engaging landscape of iOS devices, apps, and updates. This curated…",
+     "downloadURL": "https://file.ipaomtk.com/dredge/DREDGE-IPAOMTK.COM.ipa",
+     "size": 650534897
+    }
+   ]
+  }
+ ]
+}

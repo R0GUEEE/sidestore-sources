@@ -1,0 +1,30 @@
+{
+ "name": "ISS Tracker 3D",
+ "identifier": "dev.perapp.com-michaelstebelimages-iss-tracker",
+ "subtitle": "ipaomtk.com | Introduction ISS Real-Time Tracker 3D IPA is an educational and interactive iOS app that allows users to m",
+ "description": "Single-app source for ISS Tracker 3D (com.michaelstebelimages.ISS-Tracker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-08-4.24.07%E2%80%AFAM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.michaelstebelimages.ISS-Tracker",
+   "name": "ISS Tracker 3D",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction ISS Real-Time Tracker 3D IPA is an educational and interactive iOS app that allows users to monitor the International Space",
+   "localizedDescription": "ipaomtk.com | Introduction ISS Real-Time Tracker 3D IPA is an educational and interactive iOS app that allows users to monitor the International Space",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-08-4.24.07%E2%80%AFAM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.18.1",
+     "date": "2024-10-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction ISS Real-Time Tracker 3D IPA is an educational and interactive iOS app that allows users to monitor the International Space",
+     "downloadURL": "https://file.ipaomtk.com/ipa/ISS_Real-Time_Tracker_3D-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

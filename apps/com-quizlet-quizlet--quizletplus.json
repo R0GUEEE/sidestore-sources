@@ -1,0 +1,30 @@
+{
+ "name": "QuizletPlus",
+ "identifier": "dev.perapp.com-quizlet-quizlet",
+ "subtitle": "Removed from the repo: Tweak does not unlock anything. Refer to this. Last updated: 01-17-2024 Status: ❌",
+ "description": "Single-app source for QuizletPlus (com.quizlet.quizlet). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.quizlet.quizlet",
+   "name": "QuizletPlus",
+   "developerName": "AIpalux / IPA Fire",
+   "subtitle": "Removed from the repo: Tweak does not unlock anything. Refer to this. Last updated: 01-17-2024 Status: ❌",
+   "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this.\nLast updated: 01-17-2024\nStatus: ❌\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.quizlet.quizlet.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.19",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Removed from the repo: Tweak does not unlock anything. Refer to this. Last updated: 01-17-2024 Status: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuizletPlus/QuizletPlus-8.19.ipa",
+     "size": 55946039
+    }
+   ]
+  }
+ ]
+}

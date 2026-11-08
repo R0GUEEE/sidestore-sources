@@ -1,0 +1,41 @@
+{
+ "name": "IW4LJ",
+ "identifier": "dev.perapp.dev-iw4j-iw4l",
+ "subtitle": "Call of Duty: Modern Warfare 2 (2009) multiplayer on your phone — Android and iPhone, and now Windows PC with the same m",
+ "description": "Single-app source for IW4LJ (dev.iw4j.iw4l). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f86c22",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.iw4j.iw4l.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.iw4j.iw4l",
+   "name": "IW4LJ",
+   "developerName": "jesaias1",
+   "subtitle": "Call of Duty: Modern Warfare 2 (2009) multiplayer on your phone — Android and iPhone, and now Windows PC with the same mod menu",
+   "localizedDescription": "IW4LJ:\n\nCall of Duty: Modern Warfare 2 (2009) multiplayer on your phone — Android and iPhone, and now Windows PC with the same mod menu.\n\nIW4LJ is a phone port of IW4L (by vladtrc), an open-source runtime for MW2 written in Rust with the Bevy engine. It is not a wrapper or an emulator: it reads the game data from a copy of MW2 you own and runs it in its own engine, with touch controls, controller support and a mod menu built for a phone. Android and iPhone players can play together over LAN and online.\n\nYou need your own copy of MW2 multiplayer. This repository contains source code only, no Activision game data. See No game files here.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.iw4j.iw4l.png",
+   "tintColor": "#f86c22",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/jesaias1/IW4LJ@main/screenshots/terminal-sniper.jpg",
+    "https://cdn.jsdelivr.net/gh/jesaias1/IW4LJ@main/screenshots/tanker-explosion.jpg",
+    "https://cdn.jsdelivr.net/gh/jesaias1/IW4LJ@main/screenshots/industrial-daylight.jpg",
+    "https://cdn.jsdelivr.net/gh/jesaias1/IW4LJ@main/screenshots/jungle-crossbow.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.2.0",
+     "date": "2026-10-13T16:23:53Z",
+     "localizedDescription": "Unsigned IPA: sign and install with Sideloadly or AltStore (see INSTALL-IOS.md). Not tested on a device yet. Includes the new icon and the final-killcam fix.",
+     "downloadURL": "https://github.com/jesaias1/IW4LJ/releases/download/ios-v0.2.0/IW4LJ.ipa",
+     "size": 39146939
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "IW4LJ finds and joins matches hosted by other phones on your Wi-Fi."
+    }
+   }
+  }
+ ]
+}

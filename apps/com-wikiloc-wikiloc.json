@@ -1,0 +1,44 @@
+{
+ "name": "Wikiloc",
+ "identifier": "dev.perapp.com-wikiloc-wikiloc",
+ "subtitle": "@blatants | Wikiloc - Trails of the World  • Bundle ID: com.wikiloc.wikiloc • Updated to: 3.30.2 • Minimum iOS: 16.4 • P",
+ "description": "Single-app source for Wikiloc (com.wikiloc.wikiloc). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11464.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wikiloc.wikiloc",
+   "name": "Wikiloc",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | Wikiloc - Trails of the World  • Bundle ID: com.wikiloc.wikiloc • Updated to: 3.30.2 • Minimum iOS: 16.4 • Patched • Modifier: Subscriptio",
+   "localizedDescription": "@blatants | Wikiloc - Trails of the World  • Bundle ID: com.wikiloc.wikiloc • Updated to: 3.30.2 • Minimum iOS: 16.4 • Patched • Modifier: Subscriptio",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11464.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.31.1",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@blatants | Wikiloc - Trails of the World  • Bundle ID: com.wikiloc.wikiloc • Updated to: 3.31.1 • Minimum iOS: 17.4 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Wikiloc_3.31.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 135668216
+    },
+    {
+     "version": "3.31.0",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@blatants | Wikiloc - Trails of the World  • Bundle ID: com.wikiloc.wikiloc • Updated to: 3.31.0 • Minimum iOS: 17.4 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Wikiloc_3.31.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 135581461
+    },
+    {
+     "version": "3.30.8",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@blatants | Wikiloc - Trails of the World  • Bundle ID: com.wikiloc.wikiloc • Updated to: 3.30.8 • Minimum iOS: 17.4 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12780-Wikiloc_Trails_of_the_World_v3_30_8_Subscription_Unlocked_blatant.ipa",
+     "size": 135100075
+    }
+   ]
+  }
+ ]
+}

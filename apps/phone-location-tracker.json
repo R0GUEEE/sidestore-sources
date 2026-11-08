@@ -1,0 +1,44 @@
+{
+ "name": "Phone Tracker",
+ "identifier": "dev.perapp.phone-location-tracker",
+ "subtitle": "@riftysIPAlibrary | Phone Tracker - Family Locator  Tweak: Subscription Unlocked  Version: 2.5.2  Patched ✓  @riftysIPAl",
+ "description": "Single-app source for Phone Tracker (phone.location.tracker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7195.png",
+ "apps": [
+  {
+   "bundleIdentifier": "phone.location.tracker",
+   "name": "Phone Tracker",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Phone Tracker - Family Locator  Tweak: Subscription Unlocked  Version: 2.5.2  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "localizedDescription": "@riftysIPAlibrary | Phone Tracker - Family Locator  Tweak: Subscription Unlocked  Version: 2.5.2  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7195.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.8",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Phone Tracker - Family Locator  Tweak: Subscription Unlocked  Version: 2.6.8  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8542-Phone%20Tracker%20-%20Family%20Locator-v2.6.8-riftysipas.ipa",
+     "size": 46668116
+    },
+    {
+     "version": "2.6.7",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Phone Tracker - Family Locator  Tweak: Subscription Unlocked  Version: 2.6.7  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8500-Phone%20Tracker%20-%20Family%20Locator-v2.6.7-riftysipas.ipa",
+     "size": 46679787
+    },
+    {
+     "version": "2.6.1",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Phone Tracker - Family Locator  Tweak: Subscription Unlocked  Version: 2.6.1  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8060-Phone%20Tracker%20-%20Family%20Locator-v2.6.1-riftysipas.ipa",
+     "size": 37319149
+    }
+   ]
+  }
+ ]
+}

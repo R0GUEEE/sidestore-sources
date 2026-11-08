@@ -1,0 +1,30 @@
+{
+ "name": "ReederClassic",
+ "identifier": "dev.perapp.com-reederapp-5-ios",
+ "subtitle": "ReederClassic by Neoncat-OG IPA Library",
+ "description": "Single-app source for ReederClassic (com.reederapp.5.iOS). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.reederapp.5.iOS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.reederapp.5.iOS",
+   "name": "ReederClassic",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.reederapp.5.iOS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.4",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReederClassic/ReederClassic-5.4.4.ipa",
+     "size": 5668093
+    }
+   ]
+  }
+ ]
+}

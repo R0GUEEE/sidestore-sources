@@ -1,0 +1,30 @@
+{
+ "name": "VideoLite",
+ "identifier": "dev.perapp.com-videobrowser-ios",
+ "subtitle": "VideoLite",
+ "description": "Single-app source for VideoLite (com.videobrowser.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.videobrowser.ios",
+   "name": "VideoLite",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "628000",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/VideoLite_628000_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 46150844
+    }
+   ]
+  }
+ ]
+}

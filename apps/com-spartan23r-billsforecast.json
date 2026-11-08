@@ -1,0 +1,30 @@
+{
+ "name": "Sparky",
+ "identifier": "dev.perapp.com-spartan23r-billsforecast",
+ "subtitle": "ipaomtk.com | Sparky – Subscriptions Tracker IPA v8.0.5 is a user-friendly mobile application designed to help individua",
+ "description": "Single-app source for Sparky (com.spartan23r.BillsForecast). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Sparky-8211-Subscriptions-Tracker.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spartan23r.BillsForecast",
+   "name": "Sparky",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sparky – Subscriptions Tracker IPA v8.0.5 is a user-friendly mobile application designed to help individuals manage their various subscr",
+   "localizedDescription": "ipaomtk.com | Sparky – Subscriptions Tracker IPA v8.0.5 is a user-friendly mobile application designed to help individuals manage their various subscr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Sparky-8211-Subscriptions-Tracker.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sparky – Subscriptions Tracker IPA v8.0.5 is a user-friendly mobile application designed to help individuals manage their various subscr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sparky_-_Subscriptions_Tracker-v8.0.1_2024-10-16_15-31-49-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

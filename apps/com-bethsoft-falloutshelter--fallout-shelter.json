@@ -1,0 +1,30 @@
+{
+ "name": "Fallout Shelter",
+ "identifier": "dev.perapp.com-bethsoft-falloutshelter",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for Fallout Shelter (com.bethsoft.falloutshelter). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Fallout-Shelter-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bethsoft.falloutshelter",
+   "name": "Fallout Shelter",
+   "developerName": "ipaomtk.com",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Fallout Shelter IPA is an online real-time simulation and construction game that was released in 2015, and has since become immensely popular. Fallout Shelter IPA Developed by the infamous Bethesda Softworks, the game is based in the post-apocalyptic world of Fallout, a popular video game series that attracts hundreds of thousands of gamers worldwide. The […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Fallout-Shelter-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.0",
+     "date": "2023-03-29T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Fallout Shelter IPA is an online real-time simulation and construction game that was released in 2015, and has since become immensely…",
+     "downloadURL": "https://file.ipaomtk.com/fallout-shelter/Fallout-Shelter-IPAOMTK.COM.ipa",
+     "size": 539263108
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Infinite Craft",
+ "identifier": "dev.perapp.fun-neal-infinite-craft",
+ "subtitle": "Infinite Craft by Neal.fun",
+ "description": "Single-app source for Infinite Craft (fun.neal.infinite.craft). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/0d/46/8d0d4621-0848-d9ea-f901-960e367c006e/AppIcon-0-0-1x_U007ephone-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "fun.neal.infinite.craft",
+   "name": "Infinite Craft",
+   "developerName": "Neal.fun",
+   "subtitle": "",
+   "localizedDescription": "Ads removed. - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/0d/46/8d0d4621-0848-d9ea-f901-960e367c006e/AppIcon-0-0-1x_U007ephone-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8",
+     "date": "2025-02-19T00:00:00Z",
+     "localizedDescription": "Ads removed. - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-bot-nx-51e1b7ab1fe5.herokuapp.com/dl/67cf8697fa6dc3f574d033de",
+     "size": 5629911
+    }
+   ]
+  }
+ ]
+}

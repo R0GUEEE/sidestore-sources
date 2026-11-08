@@ -1,0 +1,44 @@
+{
+ "name": "Otraku",
+ "identifier": "dev.perapp.com-otraku-app",
+ "subtitle": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store Last updated: 07-01-2024 S",
+ "description": "Single-app source for Otraku (com.otraku.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.otraku.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.otraku.app",
+   "name": "Otraku",
+   "developerName": "lotusprey",
+   "subtitle": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store Last updated: 07-01-2024 Status: ✅",
+   "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store Last updated: 07-01-2024 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.otraku.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.1",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store Last updated: 07-01-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.3.2-ios16.6plus.ipa",
+     "size": 10139292
+    },
+    {
+     "version": "1.2.7",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Unofficial AniList viewer, much better UI and stats than MyAniList or others on the App Store Last updated: 07-01-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Otraku/Otraku-1.2.7plus2-ios16plus.ipa",
+     "size": 9939478
+    },
+    {
+     "version": "1.13.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Otraku:  An unofficial AniList app.  • Run flutter build apk --split-per-abi.  • Run flutter build ios --no-codesign. • Copy ./build/ios/iphoneos/Runn",
+     "downloadURL": "https://github.com/lotusprey/otraku/releases/download/v.1.13.1/Otraku-v.1.13.0-ios15.8.8+.ipa",
+     "size": 10342207
+    }
+   ]
+  }
+ ]
+}

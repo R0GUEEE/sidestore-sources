@@ -1,0 +1,44 @@
+{
+ "name": "MySwimPro",
+ "identifier": "dev.perapp.com-myswimpro-apps-myswimpro",
+ "subtitle": "MySwimPro",
+ "description": "Single-app source for MySwimPro (com.myswimpro.apps.MySwimPro). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
+   "name": "MySwimPro",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.5.3",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
+     "size": 59312394
+    },
+    {
+     "version": "9.5.1",
+     "date": "2026-09-06T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
+     "size": 59312394
+    },
+    {
+     "version": "9.4.0",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
+     "size": 59312394
+    }
+   ]
+  }
+ ]
+}

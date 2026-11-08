@@ -1,0 +1,44 @@
+{
+ "name": "Heartify",
+ "identifier": "dev.perapp.com-heartify",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Heartify (com.heartify). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.heartify",
+   "name": "Heartify",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.heartify.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.8",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Heartify_2.4.8_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 206272244
+    },
+    {
+     "version": "2.4.7",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/03-11-2025/Heartify_2.4.7_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 205044558
+    },
+    {
+     "version": "2.4.6",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/13-10-2025/Heartify_2.4.6_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 205728577
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "The Last Survivor",
+ "identifier": "dev.perapp.synthetic-the-last-survivor-7ed108eb",
+ "subtitle": "The Last Survivor by Karbin-Store",
+ "description": "Single-app source for The Last Survivor (synthetic.the-last-survivor.7ed108eb). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/The.Last.Survivor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.the-last-survivor.7ed108eb",
+   "name": "The Last Survivor",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Hack Features",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/The.Last.Survivor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.8",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Hack Features",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Last_Survivor.ipa",
+     "size": 295920000
+    }
+   ]
+  }
+ ]
+}

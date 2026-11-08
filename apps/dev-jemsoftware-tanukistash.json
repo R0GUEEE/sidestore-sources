@@ -1,0 +1,42 @@
+{
+ "name": "The Tanuki's Stash",
+ "identifier": "dev.perapp.dev-jemsoftware-tanukistash",
+ "subtitle": "Open source e621 client for iOS built with SwiftUI",
+ "description": "Single-app source for The Tanuki's Stash (dev.jemsoftware.tanukistash). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4a80c6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.jemsoftware.tanukistash.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.jemsoftware.tanukistash",
+   "name": "The Tanuki's Stash",
+   "developerName": "CaramelKat",
+   "subtitle": "Open source e621 client for iOS built with SwiftUI",
+   "localizedDescription": "The Tanuki's Stash:\n\nThe worlds first e621 client for iOS, iPadOS, and macOS built with SwiftUI.\n\nPushing a tag beginning with v builds an iOS release IPA and publishes it to GitHub Releases. The IPA is unsigned and must be signed with your own provisioning profile before installation.\n\nFeatures:\n\n• Infinite scrolling.\n• Post details page.\n• Search for tags.\n• Supports most media formats.\n\niPadOS Screenshots:\n\nThis project was inspired by The Wolf's Stash, an e621 client over on the Android side.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.jemsoftware.tanukistash.png",
+   "tintColor": "#4a80c6",
+   "screenshots": [
+    "https://i.imgur.com/pwFsajM.jpg",
+    "https://i.imgur.com/YqQgsDI.png",
+    "https://i.imgur.com/89TqLfZ.png",
+    "https://i.imgur.com/6SZGlbA.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.4.5",
+     "date": "2026-10-20T01:50:39Z",
+     "localizedDescription": "• Tanuki's Stash ver. 0.4.5.",
+     "downloadURL": "https://github.com/CaramelKat/Tanukis-Stash/releases/download/v0.4.5/Tanukis-Stash-unsigned.ipa",
+     "size": 3712116
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "We want to save the loaded photo",
+     "NSPhotoLibraryUsageDescription": "Allows the saving of posts to the device"
+    }
+   }
+  }
+ ]
+}

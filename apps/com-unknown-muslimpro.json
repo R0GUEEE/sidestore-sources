@@ -1,0 +1,37 @@
+{
+ "name": "Muslim Pro",
+ "identifier": "dev.perapp.com-unknown-muslimpro",
+ "subtitle": "Active Premium",
+ "description": "Single-app source for Muslim Pro (com.unknown.muslimpro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Muslim.Pro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.muslimpro",
+   "name": "Muslim Pro",
+   "developerName": "Karbin-Store",
+   "subtitle": "Active Premium",
+   "localizedDescription": "Active Premium",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Muslim.Pro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.10",
+     "date": "2026-04-28T00:00:00Z",
+     "localizedDescription": "inject Pro",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Muslim.Pro.ipa",
+     "size": 143110000
+    },
+    {
+     "version": "15.6.1",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "Active Premium",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Muslim.Pro._15.6.1_1737319571.ipa",
+     "size": 145110000
+    }
+   ]
+  }
+ ]
+}

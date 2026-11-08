@@ -1,0 +1,30 @@
+{
+ "name": "Nameless Cat",
+ "identifier": "dev.perapp.com-kotobagames-namelesscat",
+ "subtitle": "ipaomtk.com | Nameless Cat IPA for iOS is a platform that caters to the needs of every iOS user. Whether you’re a beginn",
+ "description": "Single-app source for Nameless Cat (com.kotobagames.namelesscat). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-nameless-cat-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kotobagames.namelesscat",
+   "name": "Nameless Cat",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Nameless Cat IPA for iOS is a platform that caters to the needs of every iOS user. Whether you’re a beginner, intermediate, or an advanc",
+   "localizedDescription": "ipaomtk.com | Nameless Cat IPA for iOS is a platform that caters to the needs of every iOS user. Whether you’re a beginner, intermediate, or an advanc",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-nameless-cat-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.0",
+     "date": "2023-12-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Nameless Cat IPA for iOS is a platform that caters to the needs of every iOS user. Whether you’re a beginner, intermediate, or an advanc",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Nameless-Cat.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

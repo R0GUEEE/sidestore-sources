@@ -1,0 +1,32 @@
+{
+ "name": "Apollo_1.15.11+Artemis1.3",
+ "identifier": "dev.perapp.com-christianselig-apollo",
+ "subtitle": "Apollo_1.15.11+Artemis1.3 by Apollo_1.15.11+Artemis1.3 x CyPwn",
+ "description": "Single-app source for Apollo_1.15.11+Artemis1.3 (com.christianselig.Apollo). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Apollo_1.15.11+Artemis1.3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.christianselig.Apollo",
+   "name": "Apollo_1.15.11+Artemis1.3",
+   "developerName": "Apollo_1.15.11+Artemis1.3 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Apollo aint dead",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Apollo_1.15.11+Artemis1.3.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Apollo_1.15.11+Artemis1.3/Apollo_1.15.11+Artemis1.3-0.png"
+   ],
+   "versions": [
+    {
+     "version": "1.15.11",
+     "date": "2023-07-05T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Apollo_1.15.11+Artemis1.3.ipa",
+     "size": 92589260
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Power Phone Clean",
+ "identifier": "dev.perapp.com-appybois-powerphoneclean",
+ "subtitle": "Storage Full? Clean space and memory with the tap of a button!",
+ "description": "Single-app source for Power Phone Clean (com.appybois.powerphoneclean). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#27ae60",
+ "iconURL": "https://appybois.com/altstore/powerphoneclean.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.appybois.powerphoneclean",
+   "name": "Power Phone Clean",
+   "developerName": "Appy Bois",
+   "subtitle": "Storage Full? Clean space and memory with the tap of a button!",
+   "localizedDescription": "Clean your phone, quick and easy!\n\nApple doesn't allow cache cleaning apps, or memory boost apps, but you can have both features now, thanks to the power of AltStore.\n\nFirst, Memory Boost will reclaim some of the memory being used by apps in the background, which makes your phone more responsive.\n\nSecond, Storage Boost will reclaim some of the space being used by temporary (or cached) files of apps, which gives you more room for photos and other things!",
+   "iconURL": "https://appybois.com/altstore/powerphoneclean.jpg",
+   "tintColor": "#27ae60",
+   "screenshots": [
+    "https://appybois.com/altstore/screenshots/SS1.png",
+    "https://appybois.com/altstore/screenshots/SS2.png",
+    "https://appybois.com/altstore/screenshots/SS3.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2020-04-03T12:00:00-00:00Z",
+     "localizedDescription": "Clean your phone, quick and easy!\n\nApple doesn't allow cache cleaning apps, or memory boost apps, but you can have both features now, thanks to the power of AltStore.\n\nFirst, Memory Boost will reclaim some of the memory being used by apps in the background, which makes your phone more responsive.\n\nSecond, Storage Boost will reclaim some of the space being used by temporary (or cached) files of apps, which gives you more room for photos and other things!",
+     "downloadURL": "https://dl.orangedox.com/PandaApp5/5?dl=1",
+     "size": 7866837
+    }
+   ]
+  }
+ ]
+}

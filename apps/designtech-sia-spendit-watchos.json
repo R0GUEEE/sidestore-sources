@@ -1,0 +1,30 @@
+{
+ "name": "Accountit",
+ "identifier": "dev.perapp.designtech-sia-spendit-watchos",
+ "subtitle": "Accountit",
+ "description": "Single-app source for Accountit (DesignTech-SIA.Spendit.watchOS). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "DesignTech-SIA.Spendit.watchOS",
+   "name": "Accountit",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Expense Tracker - AccountIt\n\nTweak: Subscription Unlocked\n\nVersion: 2.5.8\n\nNotes: press restore once then just press X on all the banners\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.8",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Expense Tracker - AccountIt\n\nTweak: Subscription Unlocked\n\nVersion: 2.5.8\n\nNotes: press restore once then just press X on all the banners\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/cd50c840-8b87-4210-9843-ea06a68ecd08/expense_tracker_accountit-v2.5.8-riftysipas.ipa",
+     "size": 58519798
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Reverse Panels",
+ "identifier": "dev.perapp.com-comicreader-app",
+ "subtitle": "Public beta of Reverse Panels, a native iPhone and iPad comic reader",
+ "description": "Single-app source for Reverse Panels (com.comicreader.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.comicreader.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.comicreader.app",
+   "name": "Reverse Panels",
+   "developerName": "josh-eg112",
+   "subtitle": "Public beta of Reverse Panels, a native iPhone and iPad comic reader",
+   "localizedDescription": "Install ·.\n\nSupport on Ko-fi.\n\nPublic beta. Reverse Panels is in active development and is distributed for sideloading only; it is not on the App Store yet. Expect rough edges, and please report them.\n\nFeatures:\n\n• Panel Flow. Guided panel-by-panel reading that zooms to each panel in order, left-to-right or right-to-left (manga). An on-device panel detector finds panels that classic edge detection misses. It runs entirely on your device, and you can turn it off in Settings → Experimental.\n• Full-page reading with smooth zoom, page scrubbing, and an immersive mode that hides the controls.\n• Your library, your servers.continue where you left off.\n\n• Any OPDS catalog.\n• Nextcloud (WebDAV), iCloud Drive, and files on the device.\n\nCBZ, CBR, and PDF comics.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.comicreader.app.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/josh-eg112/reverse-panels@main/docs/screenshots/1.jpg",
+    "https://cdn.jsdelivr.net/gh/josh-eg112/reverse-panels@main/docs/screenshots/2.jpg",
+    "https://cdn.jsdelivr.net/gh/josh-eg112/reverse-panels@main/docs/screenshots/3.jpg",
+    "https://cdn.jsdelivr.net/gh/josh-eg112/reverse-panels@main/docs/screenshots/4.jpg",
+    "https://cdn.jsdelivr.net/gh/josh-eg112/reverse-panels@main/docs/screenshots/5.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-08T14:28:13Z",
+     "localizedDescription": "First public beta (build 107).\n\nInstall with SideStore, AltStore, or LiveContainer by adding the source: https://josh-eg112.github.io/reverse-panels/apps.json\n\nOr download the .ipa below and sideload it. Please report bugs in Issues, and don't include server URLs, Auth Keys, or passwords.",
+     "downloadURL": "https://github.com/josh-eg112/reverse-panels/releases/download/v1.0-beta.1/ReversePanels-1.0-107.ipa",
+     "size": 8711637
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Reverse Panels connects to comic servers on your local network, such as Kavita or Nextcloud."
+    }
+   }
+  }
+ ]
+}

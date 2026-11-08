@@ -1,0 +1,30 @@
+{
+ "name": "Dr.Kegel",
+ "identifier": "dev.perapp.com-appercut-kegel",
+ "subtitle": "Dr.Kegel by Holloway",
+ "description": "Single-app source for Dr.Kegel (com.appercut.kegel). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380824.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.appercut.kegel",
+   "name": "Dr.Kegel",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380824.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.53.1",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1721",
+     "size": 191740660
+    }
+   ]
+  }
+ ]
+}

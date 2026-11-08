@@ -1,0 +1,30 @@
+{
+ "name": "Speak4Me",
+ "identifier": "dev.perapp.com-yadux-speak4me",
+ "subtitle": "Speak4Me",
+ "description": "Single-app source for Speak4Me (com.yadux.Speak4Me). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yadux.Speak4Me",
+   "name": "Speak4Me",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.3",
+     "date": "2025-12-20T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/Speak4Me_6.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 85664461
+    }
+   ]
+  }
+ ]
+}

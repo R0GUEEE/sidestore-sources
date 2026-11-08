@@ -1,0 +1,44 @@
+{
+ "name": "إدارة الملفات",
+ "identifier": "dev.perapp.alluhaybi-hammel",
+ "subtitle": "ipaomtk.com | إدارة الملفات (حمّل) للآيفون: حل متكامل لتنظيم وتنزيل الملفات باحترافية تطبيق إدارة الملفات (حمّل) هو أداة",
+ "description": "Single-app source for إدارة الملفات (Alluhaybi.Hammel). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%AD%D9%85%D9%91%D9%84-IPA-v9.6-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "Alluhaybi.Hammel",
+   "name": "إدارة الملفات",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | إدارة الملفات (حمّل) للآيفون: حل متكامل لتنظيم وتنزيل الملفات باحترافية تطبيق إدارة الملفات (حمّل) هو أداة مخصصة لمستخدمي iPhone الذين ي",
+   "localizedDescription": "ipaomtk.com | إدارة الملفات (حمّل) للآيفون: حل متكامل لتنظيم وتنزيل الملفات باحترافية تطبيق إدارة الملفات (حمّل) هو أداة مخصصة لمستخدمي iPhone الذين ي",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA-%D8%AD%D9%85%D9%91%D9%84-IPA-v9.6-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.93.5",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: VIP - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-08-2025/_6.93.5_VIP_@thisismanpreets_apptesters.org.ipa",
+     "size": 181544453
+    },
+    {
+     "version": "9.5",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-08-2025/_9.5_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 385964934
+    },
+    {
+     "version": "9.1.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-08-2025/_9.1.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 157775281
+    }
+   ]
+  }
+ ]
+}

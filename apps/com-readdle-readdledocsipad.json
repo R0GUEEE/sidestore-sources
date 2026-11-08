@@ -1,0 +1,44 @@
+{
+ "name": "Documents",
+ "identifier": "dev.perapp.com-readdle-readdledocsipad",
+ "subtitle": "Injected with Plus",
+ "description": "Single-app source for Documents (com.readdle.ReaddleDocsIPad). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+   "name": "Documents",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Plus",
+   "localizedDescription": "Injected with Plus",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.22.12",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@blatants | Documents - File Manager  • Bundle ID: com.readdle.ReaddleDocsIPad • Updated to: 8.22.12 • Minimum iOS: 16.0 • Patched • Modifier: Documen",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/Documents_8.22.12_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 297671811
+    },
+    {
+     "version": "8.22.11",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Documents - File Manager  • Bundle ID: com.readdle.ReaddleDocsIPad • Updated to: 8.22.11 • Minimum iOS: 16.0 • Patched • Modifier: Documen",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Documents_8.22.11_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 297678238
+    },
+    {
+     "version": "8.22.10",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Documents_8.22.10_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 290860934
+    }
+   ]
+  }
+ ]
+}

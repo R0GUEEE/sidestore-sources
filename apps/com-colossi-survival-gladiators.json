@@ -1,0 +1,37 @@
+{
+ "name": "Gladiators",
+ "identifier": "dev.perapp.com-colossi-survival-gladiators",
+ "subtitle": "ipaomtk.com | Welcome to the thrilling world of Gladiators Survival in Rome IPA a captivating mobile game that transport",
+ "description": "Single-app source for Gladiators (com.colossi.survival.gladiators). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/Gladiators%E3%83%BBSurvival-in-Rome-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.colossi.survival.gladiators",
+   "name": "Gladiators",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Welcome to the thrilling world of Gladiators Survival in Rome IPA a captivating mobile game that transports you to the heart of ancient ",
+   "localizedDescription": "ipaomtk.com | Welcome to the thrilling world of Gladiators Survival in Rome IPA a captivating mobile game that transports you to the heart of ancient ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/Gladiators%E3%83%BBSurvival-in-Rome-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.37.1",
+     "date": "2024-08-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Welcome to the thrilling world of Gladiators Survival in Rome IPA a captivating mobile game that transports you to the heart of ancient ",
+     "downloadURL": "https://file.ipaomtk.com/Gladiators-Survival-in-Rome/Gladiators-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.37.10",
+     "date": "2024-08-12T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Welcome to the thrilling world of Gladiators Survival in Rome IPA a captivating mobile game that transports you to the heart of ancient ",
+     "downloadURL": "https://file.ipaomtk.com/Gladiators-Survival-in-Rome/Gladiators-IPAOMTK.COM.ipa",
+     "size": 654966159
+    }
+   ]
+  }
+ ]
+}

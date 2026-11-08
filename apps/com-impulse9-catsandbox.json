@@ -1,0 +1,30 @@
+{
+ "name": "Cat Sandbox",
+ "identifier": "dev.perapp.com-impulse9-catsandbox",
+ "subtitle": "ipaomtk.com | Cat Sandbox IPA v1.12 is a delightful virtual pet simulation game that allows users to create and care for",
+ "description": "Single-app source for Cat Sandbox (com.impulse9.catsandbox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Cat-Sandbox.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.impulse9.catsandbox",
+   "name": "Cat Sandbox",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Cat Sandbox IPA v1.12 is a delightful virtual pet simulation game that allows users to create and care for their own digital feline comp",
+   "localizedDescription": "ipaomtk.com | Cat Sandbox IPA v1.12 is a delightful virtual pet simulation game that allows users to create and care for their own digital feline comp",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Cat-Sandbox.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Cat Sandbox IPA v1.12 is a delightful virtual pet simulation game that allows users to create and care for their own digital feline comp",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Cat_Sandbox-v1.12-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

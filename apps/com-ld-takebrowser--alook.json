@@ -1,0 +1,44 @@
+{
+ "name": "Alook",
+ "identifier": "dev.perapp.com-ld-takebrowser",
+ "subtitle": "scholars lounge | Alook Browser - 8x Speed Paid app: $0.99 Version: 22.9 Bundle ID: com.ld.TakeBrowser AppStore link: ht",
+ "description": "Single-app source for Alook (com.ld.TakeBrowser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68970.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ld.TakeBrowser",
+   "name": "Alook",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | Alook Browser - 8x Speed Paid app: $0.99 Version: 22.9 Bundle ID: com.ld.TakeBrowser AppStore link: https://apps.apple.com/app/id126",
+   "localizedDescription": "scholars lounge | Alook Browser - 8x Speed Paid app: $0.99 Version: 22.9 Bundle ID: com.ld.TakeBrowser AppStore link: https://apps.apple.com/app/id126",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68970.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "23.1",
+     "date": "2026-09-04T00:00:00Z",
+     "localizedDescription": "scholars lounge | Alook Browser - 8x Speed Paid app: $0.99 Version: 23.1 Bundle ID: com.ld.TakeBrowser AppStore link: https://apps.apple.com/app/id126",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/72919-Alook-23.1.ipa",
+     "size": 13683515
+    },
+    {
+     "version": "23.0",
+     "date": "2026-08-22T00:00:00Z",
+     "localizedDescription": "scholars lounge | Alook Browser - 8x Speed Paid app: $0.99 Version: 23.0 Bundle ID: com.ld.TakeBrowser AppStore link: https://apps.apple.com/app/id126",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/71153-Alook-23.0.ipa",
+     "size": 13682684
+    },
+    {
+     "version": "22.9",
+     "date": "2026-08-04T00:00:00Z",
+     "localizedDescription": "scholars lounge | Alook Browser - 8x Speed Paid app: $0.99 Version: 22.9 Bundle ID: com.ld.TakeBrowser AppStore link: https://apps.apple.com/app/id126",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/68970-Alook-22.9.ipa",
+     "size": 13615851
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Cubasis3",
+ "identifier": "dev.perapp.com-steinberg-cubasis3",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for Cubasis3 (com.steinberg.cubasis3). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steinberg.cubasis3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.steinberg.cubasis3",
+   "name": "Cubasis3",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.steinberg.cubasis3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Cubasis3_3.8_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 884988607
+    },
+    {
+     "version": "3.8.2",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/Cubasis3_3.8.2_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 864212735
+    }
+   ]
+  }
+ ]
+}

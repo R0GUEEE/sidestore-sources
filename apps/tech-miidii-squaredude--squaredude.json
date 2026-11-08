@@ -1,0 +1,44 @@
+{
+ "name": "SquareDude",
+ "identifier": "dev.perapp.tech-miidii-squaredude",
+ "subtitle": "ipaomtk.com | SquareDude – Square Fit Photo is a photo editing app designed to help users easily resize and fit photos i",
+ "description": "Single-app source for SquareDude (tech.miidii.SquareDude). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/SquareDude-8211-Square-Fit-Photo-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "tech.miidii.SquareDude",
+   "name": "SquareDude",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | SquareDude – Square Fit Photo is a photo editing app designed to help users easily resize and fit photos into a perfect square format. W",
+   "localizedDescription": "ipaomtk.com | SquareDude – Square Fit Photo is a photo editing app designed to help users easily resize and fit photos into a perfect square format. W",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/SquareDude-8211-Square-Fit-Photo-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@blatants | SquareDude - Square Fit Photo  • Bundle ID: tech.miidii.SquareDude • Updated to: 1.7 • Minimum iOS: 16.0 • Patched • Modifier: Free IAP • ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12803-SquareDude%20-%20Square%20Fit%20Photo%20v1.7%20Free%20IAP%20blatant%20Patched.ipa",
+     "size": 24037682
+    },
+    {
+     "version": "1.6",
+     "date": "2026-09-15T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/SquareDude_1.6_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 24017544
+    },
+    {
+     "version": "1.5.1",
+     "date": "2025-12-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | SquareDude – Square Fit Photo is a photo editing app designed to help users easily resize and fit photos into a perfect square format. W",
+     "downloadURL": "https://file.ipaomtk.com/ipa/SquareDude_Square_Fit_Photo_IPAOMTK.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

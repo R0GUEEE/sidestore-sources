@@ -1,0 +1,30 @@
+{
+ "name": "DrumToolz",
+ "identifier": "dev.perapp.com-drumshare",
+ "subtitle": "ipaomtk.com | DrumToolz is a versatile mobile application designed to enhance the drumming experience for both beginners",
+ "description": "Single-app source for DrumToolz (com.drumshare). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/DrumToolz.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.drumshare",
+   "name": "DrumToolz",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | DrumToolz is a versatile mobile application designed to enhance the drumming experience for both beginners and seasoned percussionists. ",
+   "localizedDescription": "ipaomtk.com | DrumToolz is a versatile mobile application designed to enhance the drumming experience for both beginners and seasoned percussionists. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/DrumToolz.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.39",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | DrumToolz is a versatile mobile application designed to enhance the drumming experience for both beginners and seasoned percussionists. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/DrumToolz-v1.31-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

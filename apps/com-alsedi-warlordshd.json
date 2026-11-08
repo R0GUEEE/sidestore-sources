@@ -1,0 +1,30 @@
+{
+ "name": "Warlords",
+ "identifier": "dev.perapp.com-alsedi-warlordshd",
+ "subtitle": "ipaomtk.com | Warlords Classic Strategy IPA v8.35 is a beloved turn-based strategy game that has captivated players sinc",
+ "description": "Single-app source for Warlords (com.alsedi.WarlordsHD). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Warlords-Classic-Strategy.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alsedi.WarlordsHD",
+   "name": "Warlords",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Warlords Classic Strategy IPA v8.35 is a beloved turn-based strategy game that has captivated players since its original release. Set in",
+   "localizedDescription": "ipaomtk.com | Warlords Classic Strategy IPA v8.35 is a beloved turn-based strategy game that has captivated players since its original release. Set in",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Warlords-Classic-Strategy.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.35",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Warlords Classic Strategy IPA v8.35 is a beloved turn-based strategy game that has captivated players since its original release. Set in",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Warlords_Classic_Strategy-v8.35-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

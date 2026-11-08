@@ -1,0 +1,30 @@
+{
+ "name": "SmithKeer",
+ "identifier": "dev.perapp.com-keerstinnesmithi-habittracker-habitwise",
+ "subtitle": "SmithKeer",
+ "description": "Single-app source for SmithKeer (com.keerstinnesmithi.habittracker.habitwise). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.keerstinnesmithi.habittracker.habitwise",
+   "name": "SmithKeer",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nSmithKeer v1.0\n\n🇷🇺 Жёлтый банк снова с вами \n— Приложение из TestFlight\n— Работает только через TrollStore\n© Создано: GLESign\n\n🇺🇸 The Yellow Bank is with you again\n— The app from TestFlight\n— Works only through the TrollStore\n© Created by: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nSmithKeer v1.0\n\n🇷🇺 Жёлтый банк снова с вами \n— Приложение из TestFlight\n— Работает только через TrollStore\n© Создано: GLESign\n\n🇺🇸 The Yellow Bank is with you again\n— The app from TestFlight\n— Works only through the TrollStore\n© Created by: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/7d614d60-35a3-4e1a-9dac-483e56b7b3eb/SmithKeer_v1.0_tg_glesign_.ipa",
+     "size": 188620770
+    }
+   ]
+  }
+ ]
+}

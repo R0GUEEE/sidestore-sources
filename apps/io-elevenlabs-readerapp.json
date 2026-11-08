@@ -1,0 +1,30 @@
+{
+ "name": "ElevenReader",
+ "identifier": "dev.perapp.io-elevenlabs-readerapp",
+ "subtitle": "ipaomtk.com | ElevenReader IPA, a powerful‌ text-to-speech submission designed specifically for iOS‌ devices, transformi",
+ "description": "Single-app source for ElevenReader (io.elevenlabs.readerapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/ElevenReader-Text-to-Speech-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "io.elevenlabs.readerapp",
+   "name": "ElevenReader",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | ElevenReader IPA, a powerful‌ text-to-speech submission designed specifically for iOS‌ devices, transforming ​how we⁤ consume and engage",
+   "localizedDescription": "ipaomtk.com | ElevenReader IPA, a powerful‌ text-to-speech submission designed specifically for iOS‌ devices, transforming ​how we⁤ consume and engage",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/ElevenReader-Text-to-Speech-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.38",
+     "date": "2025-07-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | ElevenReader IPA, a powerful‌ text-to-speech submission designed specifically for iOS‌ devices, transforming ​how we⁤ consume and engage",
+     "downloadURL": "https://file.ipaomtk.com/ipa/ElevenReader-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

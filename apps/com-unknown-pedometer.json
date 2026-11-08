@@ -1,0 +1,37 @@
+{
+ "name": "Pedometer",
+ "identifier": "dev.perapp.com-unknown-pedometer",
+ "subtitle": "جميع الميزات مفتوحة ✅",
+ "description": "Single-app source for Pedometer (com.unknown.pedometer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Pedometer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.pedometer",
+   "name": "Pedometer",
+   "developerName": "Karbin-Store",
+   "subtitle": "جميع الميزات مفتوحة ✅",
+   "localizedDescription": "جميع الميزات مفتوحة ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Pedometer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.2",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "جميع الميزات مفتوحة ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Pedometer.ipa",
+     "size": 63440000
+    },
+    {
+     "version": "5.4.3",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "جميع الميزات مفتوحة ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Pedometer.ipa",
+     "size": 20038037
+    }
+   ]
+  }
+ ]
+}

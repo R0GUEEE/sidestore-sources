@@ -1,0 +1,34 @@
+{
+ "name": "GitWriter",
+ "identifier": "dev.perapp.dev-jotalac-git-writer",
+ "subtitle": "A minimalistic, Git-backed markdown note-taking app for desktop and mobile",
+ "description": "Single-app source for GitWriter (dev.jotalac.git-writer). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#c76444",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.jotalac.git-writer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.jotalac.git-writer",
+   "name": "GitWriter",
+   "developerName": "jotalac",
+   "subtitle": "A minimalistic, Git-backed markdown note-taking app for desktop and mobile",
+   "localizedDescription": "Git Writer:\n\nA minimalistic, cross-platform note-taking app that uses Git repositories to keep your Markdown notes version-controlled and synchronized across devices. Supports all major platforms (Linux, macOS, Windows, Android, iOS).\n\nUsed technologies::\n\n• Git Integration: JGit (Desktop and Android), libgit2.\n• Image & File Handling: Coil 3 & FileKit.\n• Markdown parsing & rendering: multiplatform-markdown-renderer & jetbrains-markdown.\n\nSpell Checking:\n\n• misspellings are checked against the spell check language in the app settings, which defaults to the app language.\n\nPackage names include the region: hunspell-es and hunspell-cs, but hunspell-de-de on Debian and Ubuntu. Chinese is not spell checked, hunspell has no dictionary with word segmentation.\n\nDesktop Distributions:\n\n• Current OS:.\n• Linux (.deb / .rpm):.\n• macOS (.dmg / .pkg):.\n• Windows (.msi / .exe):.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.jotalac.git-writer.png",
+   "tintColor": "#c76444",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-10-28T13:09:45Z",
+     "localizedDescription": "GitWriter 1.1.0:\n\n• Encrypt your notes 🔐.\n\nE2EE notebooks The notebook password can't be recovered. Without it, nobody can read the notes on the remote. The notes on your devices stay readable.\n\nAdded:\n\n• Encrypted notebooks: turn on Encrypt notebook in the notebook settings and set a password. The remote (e.g. GitHub) then only gets encrypted data, so it can't see note text, note names or folders. It needs a new, empty repository.\n• Export to PDF: export a note to a PDF file.\n• Widget \"New note\" button: creates a note in the root of the active notebook and opens it.\n• Formatting shortcuts and the mobile toolbar buttons now format the selected text (toggle formatting) instead of only inserting the characters.\n\nFixes:\n\n• Automatic sync no longer runs while the device is offline.\n• Empty lines between two lists are kept, so the lists don't merge into one after reopening the note.\n• HTML tags in a note are shown as dimmed text instead of empty blocks.\n• The Android home screen widget is fixed (previously stuck in a loading) - added ProGuard rules.",
+     "downloadURL": "https://github.com/jotalac/git-writer/releases/download/1.1.0/GitWriter-1.1.0-ios.ipa",
+     "size": 34864293
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

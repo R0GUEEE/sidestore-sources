@@ -1,0 +1,30 @@
+{
+ "name": "Mirarr",
+ "identifier": "dev.perapp.com-example-mirarr",
+ "subtitle": "Updated Mirarr IPA. This is a movie app that aims to simplify the process of watching movies and TV shows. Join my Teleg",
+ "description": "Single-app source for Mirarr (com.example.mirarr). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/mirarr-app/mirarr/blob/main/assets/images/duckie.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.example.mirarr",
+   "name": "Mirarr",
+   "developerName": "Mirarr-App",
+   "subtitle": "Updated Mirarr IPA. This is a movie app that aims to simplify the process of watching movies and TV shows. Join my Telegram: t.me/riftysIPAlibrary",
+   "localizedDescription": "Updated Mirarr IPA. This is a movie app that aims to simplify the process of watching movies and TV shows. Join my Telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://github.com/mirarr-app/mirarr/blob/main/assets/images/duckie.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.2",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "Updated Mirarr IPA. This is a movie app that aims to simplify the process of watching movies and TV shows. Join my Telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://github.com/mirarr-app/mirarr/releases/download/1.7.2/mirarr.ipa",
+     "size": 26246712
+    }
+   ]
+  }
+ ]
+}

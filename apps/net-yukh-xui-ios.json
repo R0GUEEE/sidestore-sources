@@ -1,0 +1,36 @@
+{
+ "name": "3X-UI Manager",
+ "identifier": "dev.perapp.net-yukh-xui-ios",
+ "subtitle": "Native Android client for the 3x-ui panel — dashboard, inbounds, clients with QR sharing, nodes, multi-panel. On F-Droid",
+ "description": "Single-app source for 3X-UI Manager (net.yukh.xui.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#596ec6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/net.yukh.xui.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.yukh.xui.ios",
+   "name": "3X-UI Manager",
+   "developerName": "yukh975",
+   "subtitle": "Native Android client for the 3x-ui panel — dashboard, inbounds, clients with QR sharing, nodes, multi-panel. On F-Droid. MIT",
+   "localizedDescription": "3X-UI Manager:\n\nNative mobile clients for managing 3x-ui panels over the REST API — dashboard, inbounds, clients (with QR sharing), nodes, and the Xray config, on the go. Multi-instance: connect to several panels and switch between them from one app.\n\n✅ Compatible with 3x-ui panels up to v3.10.0. The app speaks the panel's stable REST API, so a new panel release does not require a new app version — no need to wait for an app update when the panel bumps (the rare exceptions are noted in this app's release notes). Panel 3.10.0 is one: creating Shadowsocks inbounds and MASQUE support need app v0.15.1 or newer.\n\nThis branch (main) holds the Android app (Kotlin + Jetpack Compose), built straight from the repository root.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/net.yukh.xui.ios.png",
+   "tintColor": "#596ec6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.10.28.80",
+     "date": "2026-10-28T13:33:15Z",
+     "localizedDescription": "Fixed:\n\n• The client list opens again on panel 3.11.0 when an AmneziaWG client has a keepalive range. Panel 3.11.0 stores a range such as 15-25 as text, and the app expected a number, so the whole list failed to load. A range now loads, shows in the client editor and is saved back unchanged.\n\nAdded:\n\n• Keepalive ranges for AmneziaWG clients (panel 3.11.0): the client editor takes 15-25 as well as plain seconds. The app checks the value the way the panel does — 0 to 65535, the lower bound first — and refuses a range when the client is also on a WireGuard inbound, which only takes whole seconds.\n• Node administrator API token scope (panel 3.11.0): node sync plus starting panel updates. A token with this scope is no longer listed as full access.",
+     "downloadURL": "https://github.com/yukh975/3X-UI-Manager/releases/download/v26.10.28.80/3x-ui-manager-26.10.28.80.ipa",
+     "size": 14438648
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "Unlock 3X-UI Manager with Face ID."
+    }
+   }
+  }
+ ]
+}

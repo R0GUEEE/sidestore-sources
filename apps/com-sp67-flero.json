@@ -1,0 +1,30 @@
+{
+ "name": "Flero",
+ "identifier": "dev.perapp.com-sp67-flero",
+ "subtitle": "Flero",
+ "description": "Single-app source for Flero (com.sp67.flero). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sp67.flero",
+   "name": "Flero",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nFlero v0.0.7b3\n\n🇷🇺 Модифицированная версия Geometry Dash \n— Полностью бесплатная модификация\n— Не требует JIT\n© Создано: Flero  \n\n🇺🇸 Modified version of Geometry Dash \n— Completely free modification\n— Does not require JIT\n© Created: Flero",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.207",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nFlero v0.0.7b3\n\n🇷🇺 Модифицированная версия Geometry Dash \n— Полностью бесплатная модификация\n— Не требует JIT\n© Создано: Flero  \n\n🇺🇸 Modified version of Geometry Dash \n— Completely free modification\n— Does not require JIT\n© Created: Flero",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c7c5e577-5a2a-4e53-883b-9db1d4cc200a/Flero_v0.0.7b3_tg_glesign_.ipa",
+     "size": 157850503
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "My Town Home",
+ "identifier": "dev.perapp.mytown-home-arcade",
+ "subtitle": "ipaomtk.com | My Town Home – Family Games+ IPA MOD (Unlocked) iOS, the delightful mobile game that brings the dollhouse ",
+ "description": "Single-app source for My Town Home (mytown.home.arcade). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/My-Town-Home-8211-Family-Games.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "mytown.home.arcade",
+   "name": "My Town Home",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | My Town Home – Family Games+ IPA MOD (Unlocked) iOS, the delightful mobile game that brings the dollhouse experience to your fingertips.",
+   "localizedDescription": "ipaomtk.com | My Town Home – Family Games+ IPA MOD (Unlocked) iOS, the delightful mobile game that brings the dollhouse experience to your fingertips.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/My-Town-Home-8211-Family-Games.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.7.3",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 My Town Дом - Семья+ - appstore  🇷🇺 Детская игра-песочница, где можно создавать семейные истории, управлять персонажами, обустраивать до",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1674-My%20Town%20Home%20%5Bv1.2.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 93602376
+    },
+    {
+     "version": "7.5.8",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | My Town Home – Family Games+ IPA MOD (Unlocked) iOS, the delightful mobile game that brings the dollhouse experience to your fingertips.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/My_Town_Home_-_Family_Games-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

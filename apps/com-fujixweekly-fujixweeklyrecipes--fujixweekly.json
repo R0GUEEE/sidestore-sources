@@ -1,0 +1,44 @@
+{
+ "name": "FujiXWeekly",
+ "identifier": "dev.perapp.com-fujixweekly-fujixweeklyrecipes",
+ "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for FujiXWeekly (com.fujixweekly.fujixweeklyrecipes). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
+   "name": "FujiXWeekly",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.16.2",
+     "date": "2026-10-10T00:00:00Z",
+     "localizedDescription": "@blatants | Fuji X Weekly — Film Recipes  • Bundle ID: com.fujixweekly.fujixweeklyrecipes • Updated to: 1.16.2 • Minimum iOS: 17.0 • Patched • Modifie",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12736-Fuji_X_Weekly_%E2%80%94%C2%A0Film_Recipes_v1_16_2_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 22914009
+    },
+    {
+     "version": "1.16.1",
+     "date": "2026-09-16T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/FujiXWeekly_1.16.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 22913912
+    },
+    {
+     "version": "1.15.5",
+     "date": "2026-09-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/FujiXWeekly_1.15.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 26489186
+    }
+   ]
+  }
+ ]
+}

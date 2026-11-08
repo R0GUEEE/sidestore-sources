@@ -1,0 +1,30 @@
+{
+ "name": "JournalCircle",
+ "identifier": "dev.perapp.com-genau-journalcircle",
+ "subtitle": "JournalCircle",
+ "description": "Single-app source for JournalCircle (com.genau.JournalCircle). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.genau.JournalCircle",
+   "name": "JournalCircle",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.1",
+     "date": "2026-01-20T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/JournalCircle_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 12499289
+    }
+   ]
+  }
+ ]
+}

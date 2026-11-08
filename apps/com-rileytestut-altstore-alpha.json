@@ -1,0 +1,41 @@
+{
+ "name": "AltStore (Alpha)",
+ "identifier": "dev.perapp.com-rileytestut-altstore-alpha",
+ "subtitle": "An alternative App Store for iOS.",
+ "description": "Single-app source for AltStore (Alpha) (com.rileytestut.AltStore.Alpha). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "018084",
+ "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.AltStore.Alpha",
+   "name": "AltStore (Alpha)",
+   "developerName": "Riley Testut",
+   "subtitle": "An alternative App Store for iOS.",
+   "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore allows you to install Delta as well as any app (.ipa) directly from the Files app.",
+   "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+   "tintColor": "018084",
+   "screenshots": [
+    "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
+    "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
+    "https://user-images.githubusercontent.com/705880/65605577-332cba80-df5e-11e9-9f00-b369ce974f71.PNG"
+   ],
+   "versions": [
+    {
+     "version": "2.0a1",
+     "date": "2023-03-27T12:00:00-05:00Z",
+     "localizedDescription": "This alpha includes the initial version of About pages for sources.",
+     "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/alpha/altstore/2_0_a1.ipa",
+     "size": 5626076
+    },
+    {
+     "version": "1.4.2a1",
+     "date": "2020-11-04T15:30:00-07:00Z",
+     "localizedDescription": "Allows sideloaded apps to use just-in-time (JIT) compilation on iOS 14.2 and later.",
+     "downloadURL": "https://f000.backblazeb2.com/file/altstore/sources/alpha/altstore/1_4_2_a1.ipa",
+     "size": 5374382
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Spotify",
+ "identifier": "dev.perapp.com-spotify-client",
+ "subtitle": "Latest Eevee release",
+ "description": "Single-app source for Spotify (com.spotify.client). Converted from dsewerek-selected.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1cd464",
+ "iconURL": "https://i.imgur.com/j51OrKn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client",
+   "name": "Spotify",
+   "developerName": "jaydenjcpy/Skye/whoeevee",
+   "subtitle": "Latest Eevee release",
+   "localizedDescription": "Now support any custom lyrics source\n\nThis tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+   "iconURL": "https://i.imgur.com/j51OrKn.png",
+   "tintColor": "#1cd464",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.48",
+     "date": "2026-05-11T00:00:00Z",
+     "localizedDescription": "- Updated to Spotify v9.1.48\n- Fix crashes\n\nCredits:\nfarokbmiledzx\nPluginsInject",
+     "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/303874879/download",
+     "size": 111225012
+    },
+    {
+     "version": "9.1.34",
+     "date": "2026-04-07T00:00:00Z",
+     "localizedDescription": "- Updated to Spotify v9.1.34\n- More Adblocking for visual pop-ups and Ads\n- As always, thanks to blatants for his patch bot\nDISABLE ANY VPN BEFORE OPENING AFTER INSTALL",
+     "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/289733435/download",
+     "size": 98723618
+    },
+    {
+     "version": "9.1.32",
+     "date": "2026-04-01T00:00:00Z",
+     "localizedDescription": "The logout issue is fixed\n\n- EeveeSpotifyRevived public v9.1.32 Crashes Fixed\n— Improved AdBlocking for blocking home page ads\n— Logout and Crash Fixes\nThanks to blatant's for his patch bot",
+     "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/289722012/download",
+     "size": 97200573
+    }
+   ]
+  }
+ ]
+}

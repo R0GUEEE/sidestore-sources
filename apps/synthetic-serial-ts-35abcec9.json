@@ -1,0 +1,30 @@
+{
+ "name": "Serial_TS",
+ "identifier": "dev.perapp.synthetic-serial-ts-35abcec9",
+ "subtitle": "Find information on most Apple devices by serial number.",
+ "description": "Single-app source for Serial_TS (synthetic.serial-ts.35abcec9). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Serial_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.serial-ts.35abcec9",
+   "name": "Serial_TS",
+   "developerName": "Serial_TS x CyPwn",
+   "subtitle": "Find information on most Apple devices by serial number.",
+   "localizedDescription": "Find information on most Apple devices by serial number.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Serial_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Find information on most Apple devices by serial number.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Serial_TS.ipa",
+     "size": 1468006
+    }
+   ]
+  }
+ ]
+}

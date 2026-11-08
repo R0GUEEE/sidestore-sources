@@ -1,0 +1,30 @@
+{
+ "name": "AC Rebellion",
+ "identifier": "dev.perapp.com-ubisoft-accovenant",
+ "subtitle": "ipaomtk.com | Introduction to Assassin’s Creed Rebellion Assassin’s Creed Rebellion brings the epic world of the Assassi",
+ "description": "Single-app source for AC Rebellion (com.ubisoft.accovenant). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Assassins-Creed-Rebellion-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ubisoft.accovenant",
+   "name": "AC Rebellion",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction to Assassin’s Creed Rebellion Assassin’s Creed Rebellion brings the epic world of the Assassin’s Creed franchise to mobile ",
+   "localizedDescription": "ipaomtk.com | Introduction to Assassin’s Creed Rebellion Assassin’s Creed Rebellion brings the epic world of the Assassin’s Creed franchise to mobile ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Assassins-Creed-Rebellion-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.11.1",
+     "date": "2025-12-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to Assassin’s Creed Rebellion Assassin’s Creed Rebellion brings the epic world of the Assassin’s Creed franchise to mobile ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Assassins-Creed-Rebellion-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

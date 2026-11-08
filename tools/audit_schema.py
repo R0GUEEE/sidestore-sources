@@ -17,9 +17,10 @@ def audit(path):
                 if not isinstance(v.get(k), str): bad.append((p + "." + k, "missing string"))
             if not isinstance(v.get("size"), int): bad.append((p + ".size", "missing Int (SideStore decodes non-optional)"))
     return bad
-rc = 0
-for f in sorted(sys.argv[1:] or glob.glob("sources/*.json")):
-    b = audit(f)
-    rc |= 1 if b else 0
-    print("%-38s %s" % (f.split("/")[-1], "OK" if not b else "%d problems, e.g. %s (%s)" % (len(b), b[0][0], b[0][1])))
-sys.exit(rc)
+if __name__ == "__main__":
+    rc = 0
+    for f in sorted(sys.argv[1:] or glob.glob("sources/*.json")):
+        b = audit(f)
+        rc |= 1 if b else 0
+        print("%-38s %s" % (f.split("/")[-1], "OK" if not b else "%d problems, e.g. %s (%s)" % (len(b), b[0][0], b[0][1])))
+    sys.exit(rc)

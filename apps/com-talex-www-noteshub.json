@@ -1,0 +1,30 @@
+{
+ "name": "NotesHub",
+ "identifier": "dev.perapp.com-talex-www-noteshub",
+ "subtitle": "ipaomtk.com | NotesHub IPA v3.6.9 Paid is a versatile productivity app that combines the power of note-taking with effic",
+ "description": "Single-app source for NotesHub (com.talex.www.noteshub). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/NotesHub-Notes-Kanban-Boards.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.talex.www.noteshub",
+   "name": "NotesHub",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | NotesHub IPA v3.6.9 Paid is a versatile productivity app that combines the power of note-taking with efficient task management through K",
+   "localizedDescription": "ipaomtk.com | NotesHub IPA v3.6.9 Paid is a versatile productivity app that combines the power of note-taking with efficient task management through K",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/NotesHub-Notes-Kanban-Boards.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6.9",
+     "date": "2024-10-29T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | NotesHub IPA v3.6.9 Paid is a versatile productivity app that combines the power of note-taking with efficient task management through K",
+     "downloadURL": "https://file.ipaomtk.com/ipa/NotesHub_Notes,_Kanban_Boards-v3.5.4-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

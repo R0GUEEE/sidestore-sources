@@ -1,0 +1,30 @@
+{
+ "name": "DeviceMonitor",
+ "identifier": "dev.perapp.org-fastdevsproject-altervista-device-monitor",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for DeviceMonitor (org.fastdevsproject.altervista.Device-Monitor). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.fastdevsproject.altervista.Device-Monitor",
+   "name": "DeviceMonitor",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.fastdevsproject.altervista.Device-Monitor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "27.0.1",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/DeviceMonitor_27.0.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 98132317
+    }
+   ]
+  }
+ ]
+}

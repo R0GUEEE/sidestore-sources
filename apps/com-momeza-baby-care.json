@@ -1,0 +1,30 @@
+{
+ "name": "Momeza",
+ "identifier": "dev.perapp.com-momeza-baby-care",
+ "subtitle": "Momeza",
+ "description": "Single-app source for Momeza (com.momeza.baby.care). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/8e/b5/128eb562-cea3-32ab-d428-569c3cb2a938/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.momeza.baby.care",
+   "name": "Momeza",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @dpixel |",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/12/8e/b5/128eb562-cea3-32ab-d428-569c3cb2a938/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @dpixel |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c36c3c78-6c6c-415f-b7f6-9762d2734b4e/Momeza_5.0.ipa",
+     "size": 29892081
+    }
+   ]
+  }
+ ]
+}

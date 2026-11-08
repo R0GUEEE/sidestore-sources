@@ -1,0 +1,40 @@
+{
+ "name": "S5LBox",
+ "identifier": "dev.perapp.com-j0shua-s5lbox",
+ "subtitle": "Classic iPhone OS",
+ "description": "Single-app source for S5LBox (com.j0shua.S5LBox). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4070be",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.j0shua.S5LBox.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.j0shua.S5LBox",
+   "name": "S5LBox",
+   "developerName": "j0shua-SYSON",
+   "subtitle": "Classic iPhone OS",
+   "localizedDescription": "S5LBox:\n\nClassic iPhone OS. On your iPhone.\n\nSlide to unlock. Open an old favorite. Make it yours again.\n\nS5LBox brings the iPhone 3G and its original iPhone OS 3.1.3 to your iPhone. It's the real operating system, running inside an app—not a theme or a recreation. Your iPhone doesn't need to be jailbroken.\n\nWhat you can do:\n\n• Rediscover the classics. Explore the familiar Home screen, built-in apps, and compatible apps from the early days of iPhone.\n\n• Bring your apps. Import .ipa files directly or put them in S5LBox's IPAs folder in Files. Choose what to install, one app at a time, without closing the running machine.\n\n• Explore your files. Browse, preview, import, and export guest files from Machine Settings. Full filesystem access is available after guest jailbreak.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.j0shua.S5LBox.png",
+   "tintColor": "#4070be",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/j0shua-SYSON/S5LBox@main/docs/images/readme-classic-iphone.jpg",
+    "https://cdn.jsdelivr.net/gh/j0shua-SYSON/S5LBox@main/docs/images/readme-device-controls.jpg",
+    "https://cdn.jsdelivr.net/gh/j0shua-SYSON/S5LBox@main/docs/images/readme-packages.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-10-19T09:17:29Z",
+     "localizedDescription": "S5LBox 1.1.0:\n\nBrowse Legacy Store, manage guest files without leaving S5LBox, and enjoy a more reliable iPhone OS experience.\n\nWhat's new:\n\n• Guest Files: browse Media, preview and export files, import files, create folders, rename items, and delete empty folders or files over virtual USB. Jailbroken guests can also expose the full filesystem.\n• AppSync setup: new guest jailbreaks install AppSync for OS 3.1 by default, with an independent opt-out in Advanced settings.\n• Home-only interface: a minimal alternative to the Modern and Legacy layouts, with hidden controls available through the screen margin and VoiceOver.\n\nFixes and improvements:\n\n• Guest date and timezone follow the host iPhone, including after saved-session resume, background pauses, and timezone changes.\n• Silent mode is remembered separately for each machine across restarts and resume.\n• Audio buffering better handles uneven delivery and recovery without changing guest clocks or pitch. Microphone capture starts only when the guest requests input.\n• Home wakes a guest whose display is asleep, even when the rest of the guest is still running.\n• IPA and Packages controls become available when boot or restore finishes, without reopening Machine Settings.\n• Firmware preparation runs off the UI thread. Force Power Off remains available during startup, saving, and restart, canceling unfinished preparation work.\n• First-boot jailbreak setup initializes package dependency records, and Packages waits for setup to finish before offering operations.\n• Safe file links inside legacy IPAs are preserved; unsafe paths, cycles, missing targets, and directory links are rejected.\n• Cold-boot file connections allow stock AFC pairing to complete. Transfers have clearer state, preserve guest errors, and clean up temporary previews.\n\nAcknowledgements:\n\nA huge thanks to everyone who tested S5LBox, reported bugs, and shared suggestions! Your feedback has been incredibly helpful in improving the project, and I really appreciate all the support!",
+     "downloadURL": "https://github.com/j0shua-SYSON/S5LBox/releases/download/v1.1.0/S5LBox.ipa",
+     "size": 2531819
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSMicrophoneUsageDescription": "Allow apps running inside S5LBox, such as Voice Memos, to use your microphone."
+    }
+   }
+  }
+ ]
+}

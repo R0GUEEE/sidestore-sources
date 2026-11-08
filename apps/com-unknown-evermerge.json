@@ -1,0 +1,37 @@
+{
+ "name": "EverMerge",
+ "identifier": "dev.perapp.com-unknown-evermerge",
+ "subtitle": "بەستنی هەموو جۆرە دراو و سەرچاوەیەک ✅  بەستنی وزە ✅  بەستنی کرێکاران ✅",
+ "description": "Single-app source for EverMerge (com.unknown.evermerge). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/EverMerge.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.evermerge",
+   "name": "EverMerge",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەستنی هەموو جۆرە دراو و سەرچاوەیەک ✅  بەستنی وزە ✅  بەستنی کرێکاران ✅",
+   "localizedDescription": "بەستنی هەموو جۆرە دراو و سەرچاوەیەک ✅  بەستنی وزە ✅  بەستنی کرێکاران ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/EverMerge.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.57.1",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "بەستنی هەموو جۆرە دراو و سەرچاوەیەک ✅  بەستنی وزە ✅  بەستنی کرێکاران ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/EverMerge._1.57.1_1737229837.ipa",
+     "size": 153120000
+    },
+    {
+     "version": "1.58.0",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامە⚙️    بەستنی دراوەکان ✅  بەستنی وزە ✅  بەستنی کرێکاران ✅",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/EverMerge.v1.58.0_BabyloniPA.ipa",
+     "size": 149320000
+    }
+   ]
+  }
+ ]
+}

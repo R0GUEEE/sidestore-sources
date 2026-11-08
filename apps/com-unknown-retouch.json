@@ -1,0 +1,30 @@
+{
+ "name": "Retouch",
+ "identifier": "dev.perapp.com-unknown-retouch",
+ "subtitle": "تایەبتمەندیە پارەکان کراونەتۆ دەتوانی بە خۆڕایی بەکاری بءنیت",
+ "description": "Single-app source for Retouch (com.unknown.retouch). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Retouch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.retouch",
+   "name": "Retouch",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایەبتمەندیە پارەکان کراونەتۆ دەتوانی بە خۆڕایی بەکاری بءنیت",
+   "localizedDescription": "تایەبتمەندیە پارەکان کراونەتۆ دەتوانی بە خۆڕایی بەکاری بءنیت",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Retouch.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.3.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "تایەبتمەندیە پارەکان کراونەتۆ دەتوانی بە خۆڕایی بەکاری بءنیت",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Retouch_5.3.0.ipa",
+     "size": 511820000
+    }
+   ]
+  }
+ ]
+}

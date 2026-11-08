@@ -1,0 +1,37 @@
+{
+ "name": "Pageturner",
+ "identifier": "dev.perapp.io-github-possiblypengu-pageturner",
+ "subtitle": "An e-reader and audiobook player for iOS, linked to BookMaster",
+ "description": "Single-app source for Pageturner (io.github.possiblypengu.pageturner). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b87748",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.possiblypengu.pageturner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.possiblypengu.pageturner",
+   "name": "Pageturner",
+   "developerName": "PossiblyPengu",
+   "subtitle": "An e-reader and audiobook player for iOS, linked to BookMaster",
+   "localizedDescription": "Pageturner:\n\nAn e-reader and audiobook player for iOS, linked to BookMaster. Everything runs on the device — books, covers, positions and the library live in the app.\n\nThe iOS app:\n\nA native SwiftUI app (iOS 17+) built on the Readium toolkit. It lives in ios/.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.possiblypengu.pageturner.png",
+   "tintColor": "#b87748",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.20.0",
+     "date": "2026-11-07T01:35:32Z",
+     "localizedDescription": "Pageturner from run 42324266852, commit 3edc558. Unsigned: sideload it, or add the source to AltStore / SideStore for updates.",
+     "downloadURL": "https://github.com/PossiblyPengu/PageTurner/releases/download/ios-build-42324266852/Pageturner.ipa",
+     "size": 29679982
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Pageturner uses the camera to scan a book's barcode, to find the book or its details.",
+     "NSLocalNetworkUsageDescription": "Pageturner connects to a book catalogue on your network when you add one."
+    }
+   }
+  }
+ ]
+}

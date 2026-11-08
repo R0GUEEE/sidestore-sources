@@ -1,0 +1,30 @@
+{
+ "name": "Printizy",
+ "identifier": "dev.perapp.com-haport-printerapp-printizy",
+ "subtitle": "ipaomtk.com | Printizy Scan & Edit Any File is a versatile mobile application that transforms your smartphone into a pow",
+ "description": "Single-app source for Printizy (com.haport.printerapp.printizy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Printizy-Scan-038-Edit-Any-File.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.haport.printerapp.printizy",
+   "name": "Printizy",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Printizy Scan & Edit Any File is a versatile mobile application that transforms your smartphone into a powerful document management tool",
+   "localizedDescription": "ipaomtk.com | Printizy Scan & Edit Any File is a versatile mobile application that transforms your smartphone into a powerful document management tool",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Printizy-Scan-038-Edit-Any-File.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.8",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Printizy Scan & Edit Any File is a versatile mobile application that transforms your smartphone into a powerful document management tool",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Printizy_Scan_Edit_Any_File-v13.8-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

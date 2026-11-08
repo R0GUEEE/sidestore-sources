@@ -1,0 +1,37 @@
+{
+ "name": "CopyLog_1.7",
+ "identifier": "dev.perapp.me-tomt000-ts-copylog",
+ "subtitle": "Clipboard history manager for TS!",
+ "description": "Single-app source for CopyLog_1.7 (me.tomt000.ts.copylog). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/CopyLog_1.7.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.tomt000.ts.copylog",
+   "name": "CopyLog_1.7",
+   "developerName": "CopyLog_1.7 x CyPwn",
+   "subtitle": "Clipboard history manager for TS!",
+   "localizedDescription": "Clipboard history manager for TS!",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/CopyLog_1.7.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Clipboard history manager for TS!",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/CopyLog_1.7.ipa",
+     "size": 6417285
+    },
+    {
+     "version": "1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "CopyLog serves as an efficient clipboard history manager for iOS, offering simplicity in usage and compatibility with both iPhone and iPad, aiding in ",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CopylogTS/CopylogTS.ipa",
+     "size": 9642000
+    }
+   ]
+  }
+ ]
+}

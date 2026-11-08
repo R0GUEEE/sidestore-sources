@@ -1,0 +1,30 @@
+{
+ "name": "GTA: San Andreas",
+ "identifier": "dev.perapp.synthetic-gta-san-andreas-1128bb2d",
+ "subtitle": "GTA: San Andreas",
+ "description": "Single-app source for GTA: San Andreas (synthetic.gta-san-andreas.1128bb2d). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://ittza7aa.com/aseets/icon/gtasa.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.gta-san-andreas.1128bb2d",
+   "name": "GTA: San Andreas",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Appleid VIP",
+   "iconURL": "https://ittza7aa.com/aseets/icon/gtasa.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Appleid VIP",
+     "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/gtasan.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

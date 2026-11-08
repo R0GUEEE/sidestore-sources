@@ -1,0 +1,30 @@
+{
+ "name": "DummyApp",
+ "identifier": "dev.perapp.com-pax-dummyapp",
+ "subtitle": "DummyApp by Neoncat-OG IPA Library",
+ "description": "Single-app source for DummyApp (com.pax.DummyApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pax.DummyApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pax.DummyApp",
+   "name": "DummyApp",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pax.DummyApp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/09-19-2024/DummyApp-1.0.ipa",
+     "size": 22500
+    }
+   ]
+  }
+ ]
+}

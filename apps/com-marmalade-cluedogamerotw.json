@@ -1,0 +1,30 @@
+{
+ "name": "Cluedo",
+ "identifier": "dev.perapp.com-marmalade-cluedogamerotw",
+ "subtitle": "ipaomtk.com | Clue Classic Edition IPA, also known as Cluedo in some regions,has taken on a ⁢new form with its digital r",
+ "description": "Single-app source for Cluedo (com.marmalade.cluedogameRotW). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Clue-Classic-Edition-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.marmalade.cluedogameRotW",
+   "name": "Cluedo",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Clue Classic Edition IPA, also known as Cluedo in some regions,has taken on a ⁢new form with its digital rendition for iOS devices. Comb",
+   "localizedDescription": "ipaomtk.com | Clue Classic Edition IPA, also known as Cluedo in some regions,has taken on a ⁢new form with its digital rendition for iOS devices. Comb",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Clue-Classic-Edition-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.16.0",
+     "date": "2025-04-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Clue Classic Edition IPA, also known as Cluedo in some regions,has taken on a ⁢new form with its digital rendition for iOS devices. Comb",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Cluedo_Classic_Edition_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

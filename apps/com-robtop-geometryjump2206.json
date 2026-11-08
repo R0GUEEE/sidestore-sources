@@ -1,0 +1,30 @@
+{
+ "name": "Geometry Dash v2.2.06",
+ "identifier": "dev.perapp.com-robtop-geometryjump2206",
+ "subtitle": "Geometry Dash - Push your skills to the limit",
+ "description": "Single-app source for Geometry Dash v2.2.06 (com.robtop.geometryjump2206). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ffb304",
+ "iconURL": "https://cdn.omnidev.org/geodash-5O.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.robtop.geometryjump2206",
+   "name": "Geometry Dash v2.2.06",
+   "developerName": "RobTop Games AB",
+   "subtitle": "Geometry Dash - Push your skills to the limit",
+   "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/geodash-5O.png",
+   "tintColor": "ffb304",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.06",
+     "date": "2024-10-30T00:00:00Z",
+     "localizedDescription": "Jump and fly your way through danger in this rhythm-based action platformer!\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Geometry_2_206-2v.ipa",
+     "size": 152252416
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Wallpapers",
+ "identifier": "dev.perapp.com-unknown-wallpapers",
+ "subtitle": "ئەپڵیکەیشنی بۆ دابەزاندنی کاغەزی دیوار بە ڕوونییەکی بەرز",
+ "description": "Single-app source for Wallpapers (com.unknown.wallpapers). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Wallpapers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.wallpapers",
+   "name": "Wallpapers",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپڵیکەیشنی بۆ دابەزاندنی کاغەزی دیوار بە ڕوونییەکی بەرز",
+   "localizedDescription": "ئەپڵیکەیشنی بۆ دابەزاندنی کاغەزی دیوار بە ڕوونییەکی بەرز",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Wallpapers.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.21",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "ئەپڵیکەیشنی بۆ دابەزاندنی کاغەزی دیوار بە ڕوونییەکی بەرز",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/karbin-ipa-six/Wallpapers_4.21_3BodSy.ipa",
+     "size": 24120000
+    }
+   ]
+  }
+ ]
+}

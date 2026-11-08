@@ -1,0 +1,72 @@
+{
+ "name": "AltStore",
+ "identifier": "dev.perapp.com-rileytestut-altstore-beta",
+ "subtitle": "An alternative App Store for iOS.",
+ "description": "Single-app source for AltStore (com.rileytestut.AltStore.Beta). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "018084",
+ "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.AltStore.Beta",
+   "name": "AltStore",
+   "developerName": "Riley Testut",
+   "subtitle": "An alternative App Store for iOS.",
+   "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
+   "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
+   "tintColor": "018084",
+   "screenshots": [
+    "https://user-images.githubusercontent.com/705880/277757361-da7fcafa-6fc7-4b2b-90c9-debaddf80954.PNG",
+    "https://user-images.githubusercontent.com/705880/277757303-ee0b7695-0e7d-4a93-8b25-4fbbbd3cb745.PNG",
+    "https://user-images.githubusercontent.com/705880/277757263-ef612879-0314-4464-a8f4-103e1f22fbb1.png",
+    "https://user-images.githubusercontent.com/705880/277757445-450618d1-6005-445e-bfd4-7c75387e990b.PNG",
+    "https://user-images.githubusercontent.com/705880/277757220-ebbf42dc-5153-4e2d-9ff4-4c25ad367941.PNG"
+   ],
+   "versions": [
+    {
+     "version": "2.3.2b",
+     "date": "2026-10-28T13:00:00-04:00Z",
+     "localizedDescription": "This update fixes 503 and -80046 errors when sideloading and refreshing apps.\n\n⚠️ You may need to manually install this update by re-installing AltStore with AltServer. You do NOT need to delete AltStore first.",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_2_b.ipa",
+     "size": 40614869
+    },
+    {
+     "version": "2.3.1rc",
+     "date": "2026-10-21T11:00:00-04:00Z",
+     "localizedDescription": "This update fixes error -80045 when sideloading and refreshing apps.\n\n⚠️ You may need to manually install this update by re-installing AltStore with AltServer. You do NOT need to delete AltStore first.",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_1_rc.ipa",
+     "size": 40614509
+    },
+    {
+     "version": "2.3.1b",
+     "date": "2026-10-09T13:00:00-04:00Z",
+     "localizedDescription": "NEW\n\nRandomize Bundle IDs\n• New experimental feature in AltStore’s settings\n• Randomizes bundle IDs for sideloaded apps\n\nIMPROVED\n• Improved error messages for common Remote AltServer connection issues\n\nFIXED\n• Fixed 2FA codes not appearing when signing in (thanks @IgoSzaFIIT!)\n• Fixed \"BGTaskSchedulerErrorDomain error 3\" alert when setting up Remote AltServer on iOS 27+\n• Fixed apps not refreshing in background\n• Fixed asking to sign-in before setting up Remote AltServer",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_1_b.ipa",
+     "size": 40602347
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     {
+      "name": "get-task-allow"
+     },
+     {
+      "name": "com.apple.security.application-groups"
+     },
+     {
+      "name": "aps-environment"
+     },
+     {
+      "name": "com.apple.developer.siri"
+     }
+    ],
+    "privacy": [
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "AltStore uses the local network to find and communicate with AltServer."
+     }
+    ]
+   }
+  }
+ ]
+}

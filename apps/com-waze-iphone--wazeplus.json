@@ -1,0 +1,37 @@
+{
+ "name": "WazePlus",
+ "identifier": "dev.perapp.com-waze-iphone",
+ "subtitle": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, en",
+ "description": "Single-app source for WazePlus (com.waze.iphone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.waze.iphone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.waze.iphone",
+   "name": "WazePlus",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.",
+   "localizedDescription": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.waze.iphone.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.108.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WazePlus/WazePlus-4.108.0.ipa",
+     "size": 90782814
+    },
+    {
+     "version": "4.100.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Waze / Plus. A navigation app that assists drivers in reaching their destinations by providing real-time road alerts, ensuring up-to-date information.",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WazePlus/WazePlus-4.100.0.ipa",
+     "size": 58293096
+    }
+   ]
+  }
+ ]
+}

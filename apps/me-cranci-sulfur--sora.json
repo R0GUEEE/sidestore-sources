@@ -1,0 +1,30 @@
+{
+ "name": "Sora",
+ "identifier": "dev.perapp.me-cranci-sulfur",
+ "subtitle": "scholars lounge | Sora Version: 1.3.0 Bundle ID: me.cranci.sulfur App by cranci1  A modular media player for iOS and mac",
+ "description": "Single-app source for Sora (me.cranci.sulfur). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/71062.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.cranci.sulfur",
+   "name": "Sora",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | Sora Version: 1.3.0 Bundle ID: me.cranci.sulfur App by cranci1  A modular media player for iOS and macOS Changelog",
+   "localizedDescription": "scholars lounge | Sora Version: 1.3.0 Bundle ID: me.cranci.sulfur App by cranci1  A modular media player for iOS and macOS Changelog",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/71062.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2026-08-21T00:00:00Z",
+     "localizedDescription": "scholars lounge | Sora Version: 1.3.0 Bundle ID: me.cranci.sulfur App by cranci1  A modular media player for iOS and macOS Changelog",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/71062-Sulfur.ipa",
+     "size": 3112338
+    }
+   ]
+  }
+ ]
+}

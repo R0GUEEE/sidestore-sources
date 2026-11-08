@@ -1,0 +1,30 @@
+{
+ "name": "Expense Tracker-ipaomtk.com",
+ "identifier": "dev.perapp.com-aurora-fairpay",
+ "subtitle": "ipaomtk.com | Money Spending Expense Tracker IPA, managing your personal finances can be a daunting task. With countless",
+ "description": "Single-app source for Expense Tracker-ipaomtk.com (com.aurora.Fairpay). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Expense-Tracker-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aurora.Fairpay",
+   "name": "Expense Tracker-ipaomtk.com",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Money Spending Expense Tracker IPA, managing your personal finances can be a daunting task. With countless expenses, from bills to discr",
+   "localizedDescription": "ipaomtk.com | Money Spending Expense Tracker IPA, managing your personal finances can be a daunting task. With countless expenses, from bills to discr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Expense-Tracker-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.2",
+     "date": "2024-09-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Money Spending Expense Tracker IPA, managing your personal finances can be a daunting task. With countless expenses, from bills to discr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/ExpenseTracker-ipaomtk.com_1.1.2.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

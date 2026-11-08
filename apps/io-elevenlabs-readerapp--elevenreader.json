@@ -1,0 +1,44 @@
+{
+ "name": "ElevenReader",
+ "identifier": "dev.perapp.io-elevenlabs-readerapp",
+ "subtitle": "ElevenReader",
+ "description": "Single-app source for ElevenReader (io.elevenlabs.readerapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/71fa9547-6f71-47c6-ad77-b7344f0cd1ad/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "io.elevenlabs.readerapp",
+   "name": "ElevenReader",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: ElevenReader: Text to Speech\n\nTweak: Premium Unlocked With Unlimited Hours Of Reading Time\n\nVersion: 1.4.38\n\nNotes: requires trollstore or a certificate with specific entitlements\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/71fa9547-6f71-47c6-ad77-b7344f0cd1ad/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.38",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: ElevenReader: Text to Speech\n\nTweak: Premium Unlocked With Unlimited Hours Of Reading Time\n\nVersion: 1.4.38\n\nNotes: requires trollstore or a certificate with specific entitlements\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/1ad06f18-c6d1-4afe-9f86-8b51a84e9a7a/ElevenReader__Text_to_Speech-v1.4.38-riftysipas.ipa",
+     "size": 53075812
+    },
+    {
+     "version": "1.4.37",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: ElevenReader: Text to Speech\n\nTweak: Premium Unlocked With Unlimited Hours Of Reading Time\n\nVersion: 1.4.37\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/82cdd102-0d34-4c90-a90e-74689e07c1af/ElevenReader__Text_to_Speech-v1.4.37-riftysipas.ipa",
+     "size": 52467282
+    },
+    {
+     "version": "1.4.36",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: ElevenReader: Text to Speech\n\nTweak: Premium Unlocked With Unlimited Hours Of Reading Time\n\nVersion: 1.4.36\n\nNotes: may be for trollstore only\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/7d3e4a78-4653-4d9c-8959-88b26fa16e14/ElevenReader__Text_to_Speech-v1.4.36-riftysipas.ipa",
+     "size": 52435963
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "HiWidget",
+ "identifier": "dev.perapp.com-zerone-hidesktop",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for HiWidget (com.zerone.hidesktop). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zerone.hidesktop",
+   "name": "HiWidget",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.25",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@blatants | iScreen - Widgets & Wallpaper  • Bundle ID: com.zerone.hidesktop • Updated to: 5.1.25 • Minimum iOS: 15.0 • Patched • Modifier: Subscripti",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/iScreen_5.1.25_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 347842459
+    },
+    {
+     "version": "5.1.21",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | iScreen - Widgets & Wallpaper  • Bundle ID: com.zerone.hidesktop • Updated to: 5.1.21 • Minimum iOS: 15.0 • Patched • Modifier: Subscripti",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13027-iScreen_Widgets_&_Wallpaper_v5_1_21_Subscription_Unlocked_blatant.ipa",
+     "size": 371477553
+    },
+    {
+     "version": "5.1.20",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@blatants | iScreen - Widgets & Wallpaper  • Bundle ID: com.zerone.hidesktop • Updated to: 5.1.20 • Minimum iOS: 15.0 • Patched • Modifier: Subscripti",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/iScreen_5.1.20_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 370970210
+    }
+   ]
+  }
+ ]
+}

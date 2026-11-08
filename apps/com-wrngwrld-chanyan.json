@@ -1,0 +1,42 @@
+{
+ "name": "NekoSurf",
+ "identifier": "dev.perapp.com-wrngwrld-chanyan",
+ "subtitle": "🍀 4chan image board viewer for iOS and Android, written in Flutter",
+ "description": "Single-app source for NekoSurf (com.wrngwrld.Chanyan). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#27bbe8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.wrngwrld.Chanyan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wrngwrld.Chanyan",
+   "name": "NekoSurf",
+   "developerName": "NekoSurf",
+   "subtitle": "🍀 4chan image board viewer for iOS and Android, written in Flutter",
+   "localizedDescription": "🧭 Browse:\n\n• All boards in one place, your favorites first, and a Feed of threads from all of them.\n• Threads in a grid or a list, sorted by bump order, newest, oldest, replies or images.\n• Search your favorite boards, or all of 4chan.\n• Hide threads by keyword or regex, and paste a 4chan link to open its thread.\n\n📖 Read:\n\n• Threads read like comments: replies nested under the post they answer, and folded away with a tap; or a flat list in the order they were posted, if you prefer.\n• Bookmarks that show when a thread is archived or deleted.\n• Threads can open where you left off, with new replies marked until you've seen them, and a history keeps the ones you visited.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.wrngwrld.Chanyan.png",
+   "tintColor": "#27bbe8",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/NekoSurf/NekoSurf@main/screenshots/ios_screenshot_1.jpg",
+    "https://cdn.jsdelivr.net/gh/NekoSurf/NekoSurf@main/screenshots/ios_screenshot_2.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.12.1",
+     "date": "2026-11-07T22:35:42Z",
+     "localizedDescription": "⚙️ All of Settings on one page:\n\n• Every setting is now on the Settings tab itself, grouped into Boards, Threads, Media, Hidden threads, History and Storage, with no pages to open.\n• Choices between two options, like Grid or List, switch right in the row, and each setting explains itself next to its switch.\n• Clearing watched posts or recently visited threads now asks first.\n\n🖼️ Filter a thread's gallery:\n\n• In a thread's gallery, show only images or only videos; swiping in the fullscreen viewer stays within what you picked.\n\n🔔 New replies on board cards:\n\n• Threads you've opened show how many replies are new on their cards in a board and the feed, in both grid and list view.\n\n🔢 New look for grid cards:\n\n• The thread number now sits on the image in the top left, so cards take less height and more of them fit on screen.\n• The image fills the whole card, with the thread number, bookmark button and reply counts frosted on top, so they stay readable on bright images.\n\nWhat's fixed:\n\n• Letting go of a short pull to refresh no longer leaves the ring on screen.\n• The Saved tab remembers whether you chose newest or oldest first.",
+     "downloadURL": "https://github.com/NekoSurf/NekoSurf/releases/download/v0.12.1%2B299/Runner.ipa",
+     "size": 33410748
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSAppleMusicUsageDescription": "Runner requires to play music.",
+     "NSCameraUsageDescription": "Runner requires access to your phone’s camera.",
+     "NSPhotoLibraryAddUsageDescription": "Runner needs permission to save media to your photo library.",
+     "NSPhotoLibraryUsageDescription": "Runnerphotos description"
+    }
+   }
+  }
+ ]
+}

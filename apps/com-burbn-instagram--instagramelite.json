@@ -1,0 +1,44 @@
+{
+ "name": "InstagramElite",
+ "identifier": "dev.perapp.com-burbn-instagram",
+ "subtitle": "InstagramElite by DarkWebUser / MeemNon / zxcvbn's tweaked IPAs",
+ "description": "Single-app source for InstagramElite (com.burbn.instagram). Converted from swaggy.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.burbn.instagram",
+   "name": "InstagramElite",
+   "developerName": "DarkWebUser / MeemNon / zxcvbn's tweaked IPAs",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "289.1",
+     "date": "2023-06-29T00:00:00Z",
+     "localizedDescription": "Instagram, injected with Rocket Cracked and DLInsta/ DLInsta's media downloading is hit-and-miss depending on the post, so keep that disabled and use Rocket's media saving toggles. For all other settings, you can pick and choose which tweak you want to do what. To activate Rocket, follow these steps\nLast updated: 06-28-2023\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-28-2023/InstagramElite-289.1.ipa",
+     "size": 145214663
+    },
+    {
+     "version": "287.0",
+     "date": "2023-06-25T00:00:00Z",
+     "localizedDescription": "Instagram, injected with Rocket Cracked and DLInsta/ DLInsta's media downloading is hit-and-miss depending on the post, so keep that disabled and use Rocket's media saving toggles. For all other settings, you can pick and choose which tweak you want to do what. To activate Rocket, follow these steps\nLast updated: 06-28-2023\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-24-2023/InstagramElite-287.0.ipa",
+     "size": 121405906
+    },
+    {
+     "version": "285.0",
+     "date": "2023-06-04T00:00:00Z",
+     "localizedDescription": "Instagram, injected with Rocket Cracked and DLInsta/ DLInsta's media downloading is hit-and-miss depending on the post, so keep that disabled and use Rocket's media saving toggles. For all other settings, you can pick and choose which tweak you want to do what. To activate Rocket, follow these steps\nLast updated: 06-28-2023\nStatus: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/InstagramElite-285.0.ipa",
+     "size": 117848712
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "WiFiList",
+ "identifier": "dev.perapp.com-itaysoft-wifilist",
+ "subtitle": "Enables you to view the previously saved passwords of connected Wi-Fi networks. Last updated: 12-12-2023 Status: ✅",
+ "description": "Single-app source for WiFiList (com.itaysoft.wifilist). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.itaysoft.wifilist.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.itaysoft.wifilist",
+   "name": "WiFiList",
+   "developerName": "Mikasa-san",
+   "subtitle": "Enables you to view the previously saved passwords of connected Wi-Fi networks. Last updated: 12-12-2023 Status: ✅",
+   "localizedDescription": "Enables you to view the previously saved passwords of connected Wi-Fi networks. Last updated: 12-12-2023 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.itaysoft.wifilist.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Enables you to view the previously saved passwords of connected Wi-Fi networks. Last updated: 12-12-2023 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WiFiList/WiFiList-1.0.ipa",
+     "size": 921268
+    }
+   ]
+  }
+ ]
+}

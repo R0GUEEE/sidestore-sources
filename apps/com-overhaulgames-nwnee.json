@@ -1,0 +1,37 @@
+{
+ "name": "NWN:EE",
+ "identifier": "dev.perapp.com-overhaulgames-nwnee",
+ "subtitle": "ipaomtk.com | Neverwinter Nights IPA newcomers and veterans alike are invited to delve into its ‌enchanting realms from ",
+ "description": "Single-app source for NWN:EE (com.overhaulgames.nwnee). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Neverwinter-Nights-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.overhaulgames.nwnee",
+   "name": "NWN:EE",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Neverwinter Nights IPA newcomers and veterans alike are invited to delve into its ‌enchanting realms from the palm‌ of their hand. In th",
+   "localizedDescription": "ipaomtk.com | Neverwinter Nights IPA newcomers and veterans alike are invited to delve into its ‌enchanting realms from the palm‌ of their hand. In th",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Neverwinter-Nights-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.8",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Neverwinter Nights - appstore  🇷🇺 Классическая ролевая игра во вселенной Dungeons & Dragons, где нужно создать персонажа, исследовать го",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1731-Neverwinter%20Nights%20%5Bv1.0.8%5D%28tg@ipa_dark%29.ipa",
+     "size": 2147483647
+    },
+    {
+     "version": "1.0.7",
+     "date": "2025-03-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Neverwinter Nights IPA newcomers and veterans alike are invited to delve into its ‌enchanting realms from the palm‌ of their hand. In th",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Neverwinter-Nights-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

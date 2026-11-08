@@ -1,0 +1,44 @@
+{
+ "name": "FiveCents",
+ "identifier": "dev.perapp.com-degisner-fivecents",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for FiveCents (com.degisner.fivecents). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.degisner.fivecents.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.degisner.fivecents",
+   "name": "FiveCents",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.degisner.fivecents.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.8.2",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Five Cents: Monthly Budget 🧸 Min.iOS: [17.0+] 🧀 App version: [8.8.2] !upd  🪼 App Store: https://apps.apple.com/app/id1599077337 📮 Notes: ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15298-%E2%80%8EFive%20Cents_v8.8.2_tg@Sa1y0miii.ipa",
+     "size": 6212444
+    },
+    {
+     "version": "8.8.1",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Five Cents: Monthly Budget 🧸 Min.iOS: [17.0+] 🧀 App version: [8.8.1] !upd  🪼 App Store: https://apps.apple.com/app/id1599077337 📮 Notes: ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15121-%E2%80%8EFive%20Cents_v8.8.1_tg@Sa1y0miii.ipa",
+     "size": 6200490
+    },
+    {
+     "version": "8.4",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2025/FiveCents_8.4_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 4861370
+    }
+   ]
+  }
+ ]
+}

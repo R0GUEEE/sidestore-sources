@@ -1,0 +1,44 @@
+{
+ "name": "Found It!",
+ "identifier": "dev.perapp.games-urmobi-found-it",
+ "subtitle": "@riftysIPAlibrary | Found It! Hidden Object Game  Tweak: Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Poi",
+ "description": "Single-app source for Found It! (games.urmobi.found.it). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7357.png",
+ "apps": [
+  {
+   "bundleIdentifier": "games.urmobi.found.it",
+   "name": "Found It!",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Found It! Hidden Object Game  Tweak: Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers and more),  - All Premiu",
+   "localizedDescription": "@riftysIPAlibrary | Found It! Hidden Object Game  Tweak: Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers and more),  - All Premiu",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7357.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.79.59",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Found It! Hidden Object Game  Tweak: Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers and more),  - All Premiu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8721-Found%20It%21%20Hidden%20Object%20Game-v1.79.59-riftysipas.ipa",
+     "size": 263465045
+    },
+    {
+     "version": "1.78.101",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Found It! Hidden Object Game  Tweak: Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers and more),  - All Premiu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8681-Found%20It%21%20Hidden%20Object%20Game-v1.78.101-riftysipas.ipa",
+     "size": 263567153
+    },
+    {
+     "version": "1.77.71",
+     "date": "2026-10-09T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Found It! Hidden Object Game  Tweak: Unlimited Everything (Hints, Magnets, Magic Wands, Skipits, Pointers and more),  - All Premiu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8286-Found%20It%21%20Hidden%20Object%20Game-v1.77.71-riftysipas.ipa",
+     "size": 257572591
+    }
+   ]
+  }
+ ]
+}

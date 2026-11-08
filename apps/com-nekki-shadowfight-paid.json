@@ -1,0 +1,30 @@
+{
+ "name": "Shadow Fight 2",
+ "identifier": "dev.perapp.com-nekki-shadowfight-paid",
+ "subtitle": "Shadow Fight 2",
+ "description": "Single-app source for Shadow Fight 2 (com.nekki.shadowfight.paid). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/92/7f/27/927f27ce-9b73-87f2-7403-b4714954b526/AppIcon-1x_U007emarketing-85-220-8.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nekki.shadowfight.paid",
+   "name": "Shadow Fight 2",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nShadow Fight 2 Special Edition v1.0.4  \n\n🇷🇺 Экшен с элементами ролевой игры, где вы сражаетесь с мощными противниками в различных боевых ареках.  \n— Платное приложение из AppStore  \n— Отключена проверка лицензии\n© Создано: GLESign \n\n🇺🇸 An action game with RPG elements where you fight powerful enemies in different combat arenas.  \n— Paid app from AppStore  \n— License verification disabled\n© Создано: GLESign",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/92/7f/27/927f27ce-9b73-87f2-7403-b4714954b526/AppIcon-1x_U007emarketing-85-220-8.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nShadow Fight 2 Special Edition v1.0.4  \n\n🇷🇺 Экшен с элементами ролевой игры, где вы сражаетесь с мощными противниками в различных боевых ареках.  \n— Платное приложение из AppStore  \n— Отключена проверка лицензии\n© Создано: GLESign \n\n🇺🇸 An action game with RPG elements where you fight powerful enemies in different combat arenas.  \n— Paid app from AppStore  \n— License verification disabled\n© Создано: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/abe3a5b1-8890-4177-ac32-c5947e01b794/Shadow_Fight_2_v1.0.4_tg_glesign_.ipa",
+     "size": 98761732
+    }
+   ]
+  }
+ ]
+}

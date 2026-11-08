@@ -1,0 +1,30 @@
+{
+ "name": "Gronda",
+ "identifier": "dev.perapp.gronda-gmbh",
+ "subtitle": "Gronda",
+ "description": "Single-app source for Gronda (gronda.gmbh). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gronda.gmbh.png",
+ "apps": [
+  {
+   "bundleIdentifier": "gronda.gmbh",
+   "name": "Gronda",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/gronda.gmbh.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.2.3",
+     "date": "2025-12-30T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/Gronda_8.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 50797944
+    }
+   ]
+  }
+ ]
+}

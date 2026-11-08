@@ -1,0 +1,30 @@
+{
+ "name": "Sam Remote",
+ "identifier": "dev.perapp.com-msl-remote-samsungtv",
+ "subtitle": "ipaomtk.com | Sam Smart TV Remote IPA We all love watching TV, but sometimes the remote control can be a hassle to work ",
+ "description": "Single-app source for Sam Remote (com.msl.remote.samsungtv). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/SAM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.msl.remote.samsungtv",
+   "name": "Sam Remote",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sam Smart TV Remote IPA We all love watching TV, but sometimes the remote control can be a hassle to work with. Sam Smart TV Remote APK ",
+   "localizedDescription": "ipaomtk.com | Sam Smart TV Remote IPA We all love watching TV, but sometimes the remote control can be a hassle to work with. Sam Smart TV Remote APK ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/SAM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0",
+     "date": "2023-03-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sam Smart TV Remote IPA We all love watching TV, but sometimes the remote control can be a hassle to work with. Sam Smart TV Remote APK ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sam-Smart-TV-Remote.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

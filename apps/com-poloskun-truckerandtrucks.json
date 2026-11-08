@@ -1,0 +1,30 @@
+{
+ "name": "Trucker And Trucks",
+ "identifier": "dev.perapp.com-poloskun-truckerandtrucks",
+ "subtitle": "Trucker And Trucks by Viktor Danilov",
+ "description": "Single-app source for Trucker And Trucks (com.Poloskun.TruckerAndTrucks). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/34/92/84/349284ec-c2c7-4491-aa0c-e74165dc05c7/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Poloskun.TruckerAndTrucks",
+   "name": "Trucker And Trucks",
+   "developerName": "Viktor Danilov",
+   "subtitle": "",
+   "localizedDescription": "My repo has been moved to zx's aio repo. Download links will not work forever.",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/34/92/84/349284ec-c2c7-4491-aa0c-e74165dc05c7/AppIcon-0-0-1x_U007emarketing-0-0-0-5-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2025-03-03T00:00:00Z",
+     "localizedDescription": "My repo has been moved to zx's aio repo. Download links will not work forever.",
+     "downloadURL": "https://file-to-link-bot-nx-51e1b7ab1fe5.herokuapp.com/dl/67c536eed943079d9d23f39b",
+     "size": 17866546
+    }
+   ]
+  }
+ ]
+}

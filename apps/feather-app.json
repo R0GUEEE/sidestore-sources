@@ -1,0 +1,30 @@
+{
+ "name": "Feather",
+ "identifier": "dev.perapp.feather-app",
+ "subtitle": "Feather by sidelix",
+ "description": "Single-app source for Feather (feather.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761366282.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "feather.app",
+   "name": "Feather",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "This app allows you to install and manage applications contained in a single app, using certificate pairs and various installation techniques to allow apps to install to your device. This is an entirely stock application and uses built-in features to be able to do this!",
+   "iconURL": "https://appstore.sidelix.vip/images/1761366282.jpeg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "This app allows you to install and manage applications contained in a single app, using certificate pairs and various installation techniques to allow apps to install to your device. This is an entirely stock application and uses built-in features to be able to do this!",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/337",
+     "size": 15548653
+    }
+   ]
+  }
+ ]
+}

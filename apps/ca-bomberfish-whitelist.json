@@ -1,0 +1,30 @@
+{
+ "name": "Whitelist",
+ "identifier": "dev.perapp.ca-bomberfish-whitelist",
+ "subtitle": "ipaomtk.com | Whitelist IPA for iOS,⁣ a tool designed to help users take back​ control over their mobile experiences.⁣ A",
+ "description": "Single-app source for Whitelist (ca.bomberfish.Whitelist). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Whitelist-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ca.bomberfish.Whitelist",
+   "name": "Whitelist",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Whitelist IPA for iOS,⁣ a tool designed to help users take back​ control over their mobile experiences.⁣ As smartphones become extension",
+   "localizedDescription": "ipaomtk.com | Whitelist IPA for iOS,⁣ a tool designed to help users take back​ control over their mobile experiences.⁣ As smartphones become extension",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Whitelist-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2025-03-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Whitelist IPA for iOS,⁣ a tool designed to help users take back​ control over their mobile experiences.⁣ As smartphones become extension",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Whitelist-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

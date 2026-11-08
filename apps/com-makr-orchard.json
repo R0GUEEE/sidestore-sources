@@ -1,0 +1,30 @@
+{
+ "name": "Orchard",
+ "identifier": "dev.perapp.com-makr-orchard",
+ "subtitle": "Boots a real arm64 macOS Ventura guest on iPhone through Apple's own chain (AVPBooter, iBoot and XNU) on QEMU's apple-vm",
+ "description": "Single-app source for Orchard (com.makr.orchard). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orchard/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.makr.orchard",
+   "name": "Orchard",
+   "developerName": "MakrSas",
+   "subtitle": "Boots a real arm64 macOS Ventura guest on iPhone through Apple's own chain (AVPBooter, iBoot and XNU) on QEMU's apple-vm machine, with the GPU drawn t",
+   "localizedDescription": "Boots a real arm64 macOS Ventura guest on iPhone through Apple's own chain (AVPBooter, iBoot and XNU) on QEMU's apple-vm machine, with the GPU drawn t\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Orchard/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Boots a real arm64 macOS Ventura guest on iPhone through Apple's own chain (AVPBooter, iBoot and XNU) on QEMU's apple-vm machine, with the GPU drawn t",
+     "downloadURL": "https://github.com/MakrSas/orchard-ios/releases/download/v0.2/Orchard.ipa",
+     "size": 18477287
+    }
+   ]
+  }
+ ]
+}

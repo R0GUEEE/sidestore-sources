@@ -1,0 +1,30 @@
+{
+ "name": "SwipeMix",
+ "identifier": "dev.perapp.com-museworks-swipemix",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for SwipeMix (com.museworks.swipemix). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.museworks.swipemix",
+   "name": "SwipeMix",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.14.0",
+     "date": "2026-09-04T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SwipeMix_2.14.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 78602062
+    }
+   ]
+  }
+ ]
+}

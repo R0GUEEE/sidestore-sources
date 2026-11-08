@@ -1,0 +1,30 @@
+{
+ "name": "My Perfect Hotel",
+ "identifier": "dev.perapp.com-master-hotelmaster",
+ "subtitle": "My Perfect Hotel by SayGames LTD",
+ "description": "Single-app source for My Perfect Hotel (com.master.hotelmaster). Converted from riftys.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/03/1e/76031eb4-b69c-0dd3-796c-e505e532915c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.master.hotelmaster",
+   "name": "My Perfect Hotel",
+   "developerName": "SayGames LTD",
+   "subtitle": "",
+   "localizedDescription": "My Perfect Hotel - Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/03/1e/76031eb4-b69c-0dd3-796c-e505e532915c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.18.0",
+     "date": "2025-02-08T00:00:00Z",
+     "localizedDescription": "My Perfect Hotel - Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a6a8bdab6265a34e09efe8",
+     "size": 177250131
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Ferrite",
+ "identifier": "dev.perapp.me-kingbri-ferrite",
+ "subtitle": "A media search engine for iOS with debrid support",
+ "description": "Single-app source for Ferrite (me.kingbri.ferrite). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/me.kingbri.ferrite.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.kingbri.ferrite",
+   "name": "Ferrite",
+   "developerName": "Ferrite-iOS",
+   "subtitle": "A media search engine for iOS with debrid support",
+   "localizedDescription": "404: Not Found",
+   "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/me.kingbri.ferrite.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.7.3",
+     "date": "2024-11-28T04:37:03Z",
+     "localizedDescription": "Ferrite v0.7.3 has been released.\nDownloading from releases? Get the zip file. The ipa file may not work!\nNotes: RealDebrid and AllDebrid's APIs have drastically changed. It is now impossible to retrieve if an item is cached within their database. Ferrite relies on this type of endpoint for rich display of instantly available magnets.\nThe workaround: A user's magnet library now serves as the instant availability cache. There is now a manual Download to Debrid button on the context menu for each search result and bookmark so a user can manually queue a magnet for downloading. If the magnet is instantly available, it'll show the file contents as before and add the magnet to the user's instant availability cache (making the debrid badge green!).\nHere's a picture showing where this new button is located:\n\nAt this time, I do not recommend using RealDebrid or AllDebrid. However, the above workaround makes these services useable. This UI will improve with upcoming releases.\nChangelog:\n- Add a context menu button to manually cache a search result/bookmark to debrid\n- Adapt to RealDebrid and AllDebrid's API changes\n- Fix settings menu showing if a debrid is enabled or disabled",
+     "downloadURL": "https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.7.3/Ferrite-iOS_v0.7.3.ipa",
+     "size": 1616467
+    },
+    {
+     "version": "0.7.1",
+     "date": "2024-06-19T21:42:23Z",
+     "localizedDescription": "Ferrite v0.7.1 has been released.\nThis is the last release for iOS 15\nDownloading from releases? Get the zip file. The ipa file may not work!\nChangelog:\n- Overhauled the internal logic for Debrid services\n- Added support for sources that include \"library-like\" listings via the {queryFirstLetter} param\n- Add TorBox and OffCloud support\n- Fixed seeder list with htmlParser\n- Add the ability to set request headers and body in a Plugin\n- Cleanup and fix bugs + UI issues",
+     "downloadURL": "https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.7.1/Ferrite-iOS_v0.7.1.ipa",
+     "size": 1671340
+    },
+    {
+     "version": "0.6.0",
+     "date": "2023-01-07T23:58:49Z",
+     "localizedDescription": "Version 0.6.0 has been released\nChangelog:\n\n\nAdded support for AllDebrid and Premiumize. To switch between debrids, select the button on the top-right corner in library or search. This is also present while searching.\n\n\nAdded the ability to view, play, and edit a user's debrid cloud (torrents, downloads, items, etc) depending on the service\n\n\nLibrary is now searchable! Bookmarks, history, and a user's debrid cloud can be searched to find a specific query\n\n\nAdd more indications in the about view regarding which commit and build type a user is on (Stable, Nightly, or Debug)\n\n\nFurther improvements and bugfixes\n\n",
+     "downloadURL": "https://github.com/Ferrite-iOS/Ferrite/releases/download/v0.6.0/Ferrite-iOS_v0.6.0.ipa",
+     "size": 5377974
+    }
+   ]
+  }
+ ]
+}

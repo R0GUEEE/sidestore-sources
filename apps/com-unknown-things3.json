@@ -1,0 +1,30 @@
+{
+ "name": "Things 3",
+ "identifier": "dev.perapp.com-unknown-things3",
+ "subtitle": "ئەو ئەپڵیکەیشنە بۆ ڕێکخستنی ڕۆژەکەت و بەڕێوەبردنی پڕۆژەکانت",
+ "description": "Single-app source for Things 3 (com.unknown.things3). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Things.3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.things3",
+   "name": "Things 3",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەو ئەپڵیکەیشنە بۆ ڕێکخستنی ڕۆژەکەت و بەڕێوەبردنی پڕۆژەکانت",
+   "localizedDescription": "ئەو ئەپڵیکەیشنە بۆ ڕێکخستنی ڕۆژەکەت و بەڕێوەبردنی پڕۆژەکانت",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Things.3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.21.7",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەو ئەپڵیکەیشنە بۆ ڕێکخستنی ڕۆژەکەت و بەڕێوەبردنی پڕۆژەکانت",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/Things_3.21.7_3BodSy.ipa",
+     "size": 65880000
+    }
+   ]
+  }
+ ]
+}

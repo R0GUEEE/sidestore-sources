@@ -1,0 +1,44 @@
+{
+ "name": "SolarWatch",
+ "identifier": "dev.perapp.com-fifteenjugglers-solarwatch",
+ "subtitle": "SolarWatch",
+ "description": "Single-app source for SolarWatch (com.fifteenjugglers.solarwatch). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifteenjugglers.solarwatch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fifteenjugglers.solarwatch",
+   "name": "SolarWatch",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifteenjugglers.solarwatch.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.27.6",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
+     "size": 73402983
+    },
+    {
+     "version": "2026.27.3",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
+     "size": 73383062
+    },
+    {
+     "version": "2026.27.2",
+     "date": "2026-09-15T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
+     "size": 73898060
+    }
+   ]
+  }
+ ]
+}

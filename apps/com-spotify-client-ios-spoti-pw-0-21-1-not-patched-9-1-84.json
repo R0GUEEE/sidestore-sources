@@ -1,0 +1,30 @@
+{
+ "name": "Spoti.pw (v0.21.1 - Not Patched) IPAVault",
+ "identifier": "dev.perapp.com-spotify-client-ios-spoti-pw-0-21-1-not-patched-9-1-84",
+ "subtitle": "This is a modded version of Spotify. This does work with sidestore or livecontainer!!",
+ "description": "Single-app source for Spoti.pw (v0.21.1 - Not Patched) IPAVault (com.spotify.client.ios.spoti.pw.0.21.1.not.patched.9.1.84). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.spoti.pw.0.21.1.not.patched.9.1.84",
+   "name": "Spoti.pw (v0.21.1 - Not Patched) IPAVault",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify. This does work with sidestore or livecontainer!!",
+   "localizedDescription": "This is a modded version of Spotify. This does work with sidestore or livecontainer!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.84",
+     "date": "2026-09-22T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify. This does work with sidestore or livecontainer!!",
+     "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.84%20%28Spoti.pw%29%20No%20Plugins.ipa",
+     "size": 134111748
+    }
+   ]
+  }
+ ]
+}

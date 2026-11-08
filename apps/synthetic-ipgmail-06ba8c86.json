@@ -1,0 +1,30 @@
+{
+ "name": "iPGMail",
+ "identifier": "dev.perapp.synthetic-ipgmail-06ba8c86",
+ "subtitle": "iPGMail by Karbin-Store",
+ "description": "Single-app source for iPGMail (synthetic.ipgmail.06ba8c86). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/iPGMail.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.ipgmail.06ba8c86",
+   "name": "iPGMail",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/iPGMail.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.02.1",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/iPGMail_2025.02.1_3BodSy.ipa",
+     "size": 6130000
+    }
+   ]
+  }
+ ]
+}

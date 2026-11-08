@@ -1,0 +1,30 @@
+{
+ "name": "Sleepzy",
+ "identifier": "dev.perapp.com-apalonapps-smartalarmfree",
+ "subtitle": "Sleepzy",
+ "description": "Single-app source for Sleepzy (com.apalonapps.smartalarmfree). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.smartalarmfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.smartalarmfree",
+   "name": "Sleepzy",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.smartalarmfree.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.46.11",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Sleepzy_3.46.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 135526593
+    }
+   ]
+  }
+ ]
+}

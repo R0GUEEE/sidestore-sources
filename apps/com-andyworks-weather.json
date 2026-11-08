@@ -1,0 +1,44 @@
+{
+ "name": "simpleweather",
+ "identifier": "dev.perapp.com-andyworks-weather",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for simpleweather (com.andyworks.weather). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.andyworks.weather",
+   "name": "simpleweather",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.54",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Weather  • Bundle ID: com.andyworks.weather • Updated to: 3.54 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocke",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/simpleweather_3.54_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 233532572
+    },
+    {
+     "version": "3.53",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Weather  • Bundle ID: com.andyworks.weather • Updated to: 3.53 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocke",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13042-Not_Boring_Weather_v3_53_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 233539047
+    },
+    {
+     "version": "3.52",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Weather  • Bundle ID: com.andyworks.weather • Updated to: 3.52 • Minimum iOS: 18.0 • Patched • Modifier: Subscription Unlocke",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12924-Not_Boring_Weather_v3_52_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 233517595
+    }
+   ]
+  }
+ ]
+}

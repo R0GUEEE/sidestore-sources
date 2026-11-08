@@ -1,0 +1,44 @@
+{
+ "name": "WeedFirm2",
+ "identifier": "dev.perapp.com-bcanada-weedfirm2",
+ "subtitle": "Injected with IGG",
+ "description": "Single-app source for WeedFirm2 (com.bcanada.weedfirm2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bcanada.weedfirm2",
+   "name": "WeedFirm2",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IGG",
+   "localizedDescription": "Injected with IGG",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bcanada.weedfirm2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.11",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/13-12-2025/WeedFirm2_4.1.11_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 274749693
+    },
+    {
+     "version": "4.1.9",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/13-10-2025/WeedFirm2_4.1.9_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 268453758
+    },
+    {
+     "version": "4.1.14",
+     "date": "2026-05-10T00:00:00Z",
+     "localizedDescription": "Injected with IGG",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-05-2026/WeedFirm2_4.1.14_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 297692316
+    }
+   ]
+  }
+ ]
+}

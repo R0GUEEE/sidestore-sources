@@ -1,0 +1,37 @@
+{
+ "name": "NOMORAW",
+ "identifier": "dev.perapp.com-blink-academy-nomoraw",
+ "subtitle": "Injected with Crack",
+ "description": "Single-app source for NOMORAW (com.blink.academy.nomoraw). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.blink.academy.nomoraw.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.blink.academy.nomoraw",
+   "name": "NOMORAW",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Crack",
+   "localizedDescription": "Injected with Crack",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.blink.academy.nomoraw.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.8",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Crack",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-10-07/NOMORAW_3.0.8_Crack_@repo.owo.network.ipa",
+     "size": 16623269
+    },
+    {
+     "version": "3.0.6",
+     "date": "2023-10-06T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2023-10-06/NOMORAW_3.0.6_Pro_@repo.owo.network.ipa",
+     "size": 16811271
+    }
+   ]
+  }
+ ]
+}

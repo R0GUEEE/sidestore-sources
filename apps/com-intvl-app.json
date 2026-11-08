@@ -1,0 +1,30 @@
+{
+ "name": "INTVL",
+ "identifier": "dev.perapp.com-intvl-app",
+ "subtitle": "INTVL",
+ "description": "Single-app source for INTVL (com.intvl.app). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intvl.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.intvl.app",
+   "name": "INTVL",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intvl.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.3",
+     "date": "2025-12-31T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-12-2025/INTVL_3.3.3_Mods_%40thisismanpreets_apptesters.org.ipa",
+     "size": 79735659
+    }
+   ]
+  }
+ ]
+}

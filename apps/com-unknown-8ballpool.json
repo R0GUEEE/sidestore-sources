@@ -1,0 +1,30 @@
+{
+ "name": "8Ball Pool",
+ "identifier": "dev.perapp.com-unknown-8ballpool",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    لەگەڵ مانای دەقەکەدا، تەواوکردنی پێویستە ✅  14-1 کەیس ڕاهێنانی تواناکانی بیلیارد بەهێز",
+ "description": "Single-app source for 8Ball Pool (com.unknown.8ballpool). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/8.Ball.Pool.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.8ballpool",
+   "name": "8Ball Pool",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    لەگەڵ مانای دەقەکەدا، تەواوکردنی پێویستە ✅  14-1 کەیس ڕاهێنانی تواناکانی بیلیارد بەهێزکردنی زمانت ✅  ئەگەر مێزی بلیا",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    لەگەڵ مانای دەقەکەدا، تەواوکردنی پێویستە ✅  14-1 کەیس ڕاهێنانی تواناکانی بیلیارد بەهێزکردنی زمانت ✅  ئەگەر مێزی بلیا",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/8.Ball.Pool.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "55.10.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    لەگەڵ مانای دەقەکەدا، تەواوکردنی پێویستە ✅  14-1 کەیس ڕاهێنانی تواناکانی بیلیارد بەهێزکردنی زمانت ✅  ئەگەر مێزی بلیا",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/8.Ball.Pool_55.10.0.ipa",
+     "size": 73210000
+    }
+   ]
+  }
+ ]
+}

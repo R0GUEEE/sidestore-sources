@@ -1,0 +1,30 @@
+{
+ "name": "MyTracks",
+ "identifier": "dev.perapp.com-zero-app-gpsplus",
+ "subtitle": "ipaomtk.com | MyTracks GPS Recorder IPA v5.4 is a powerful mobile application designed for outdoor enthusiasts and fitne",
+ "description": "Single-app source for MyTracks (com.zero.app.gpsplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/MyTracks-GPS-Recorder.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zero.app.gpsplus",
+   "name": "MyTracks",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MyTracks GPS Recorder IPA v5.4 is a powerful mobile application designed for outdoor enthusiasts and fitness trackers alike. This versat",
+   "localizedDescription": "ipaomtk.com | MyTracks GPS Recorder IPA v5.4 is a powerful mobile application designed for outdoor enthusiasts and fitness trackers alike. This versat",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/MyTracks-GPS-Recorder.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MyTracks GPS Recorder IPA v5.4 is a powerful mobile application designed for outdoor enthusiasts and fitness trackers alike. This versat",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MyTracks_GPS_Recorder-v5.4-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

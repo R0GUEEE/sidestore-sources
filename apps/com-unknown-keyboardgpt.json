@@ -1,0 +1,37 @@
+{
+ "name": "Keyboard GPT",
+ "identifier": "dev.perapp.com-unknown-keyboardgpt",
+ "subtitle": "➜ Ai Chat GPT",
+ "description": "Single-app source for Keyboard GPT (com.unknown.keyboardgpt). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Keyboord.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.keyboardgpt",
+   "name": "Keyboard GPT",
+   "developerName": "Karbin-Store",
+   "subtitle": "➜ Ai Chat GPT",
+   "localizedDescription": "➜ Ai Chat GPT",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Keyboord.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.22",
+     "date": "2026-03-07T00:00:00Z",
+     "localizedDescription": "➜ Ai Chat GPT",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Keyboard.GPT.ipa",
+     "size": 89810000
+    },
+    {
+     "version": "1.6",
+     "date": "2026-03-07T00:00:00Z",
+     "localizedDescription": "Tweaks: AdSpeed\n\n➜ Ai Chat GPT",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Keyboard.GPT.ipa",
+     "size": 7054745
+    }
+   ]
+  }
+ ]
+}

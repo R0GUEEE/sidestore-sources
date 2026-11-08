@@ -1,0 +1,30 @@
+{
+ "name": "Fog of World",
+ "identifier": "dev.perapp.com-ollix-fogofworld",
+ "subtitle": "Paid app ($30)",
+ "description": "Single-app source for Fog of World (com.ollix.FogOfWorld). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/14782.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ollix.FogOfWorld",
+   "name": "Fog of World",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "Paid app ($30)",
+   "localizedDescription": "@Sa1y0miii | Fog of World \n🧸 Min.iOS: [15.0+]\n🧀 App version: [3.8] !upd \n🪼 App Store: https://apps.apple.com/ua/app/fog-of-world/id505367096\n📮 Notes: Paid app ($30).     \n🗯 Patched by: @Sa1y0miii / Chat❕\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/14782.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Fog of World 🧸 Min.iOS: [15.0+] 🧀 App version: [3.8] !upd 🪼 App Store: https://apps.apple.com/ua/app/fog-of-world/id505367096 📮 Notes…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14782-Fog%20of%20World_v3.8_tg@Sa1y0miii.ipa",
+     "size": 84527102
+    }
+   ]
+  }
+ ]
+}

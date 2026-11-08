@@ -1,0 +1,44 @@
+{
+ "name": "Lingvist",
+ "identifier": "dev.perapp.ee-keel24-lingvist",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Lingvist (ee.keel24.Lingvist). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ee.keel24.Lingvist.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ee.keel24.Lingvist",
+   "name": "Lingvist",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ee.keel24.Lingvist.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.65.5",
+     "date": "2026-10-10T00:00:00Z",
+     "localizedDescription": "@blatants | Lingvist: Learn Languages Fast  • Bundle ID: ee.keel24.Lingvist • Updated to: 2.65.5 • Minimum iOS: 15.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12721-Lingvist_Learn_Languages_Fast_v2_65_5_Subscription_Unlocked_blatant.ipa",
+     "size": 42175248
+    },
+    {
+     "version": "2.64.2",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-12-2025/Lingvist_2.64.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 34683642
+    },
+    {
+     "version": "2.64.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-10-2025/Lingvist_2.64.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 34489546
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Scoreboard",
+ "identifier": "dev.perapp.com-edwinchan-scoreboard",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for Scoreboard (com.edwinchan.Scoreboard). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.edwinchan.Scoreboard",
+   "name": "Scoreboard",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edwinchan.Scoreboard.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-11-2025/Scoreboard_1.8.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 13786419
+    }
+   ]
+  }
+ ]
+}

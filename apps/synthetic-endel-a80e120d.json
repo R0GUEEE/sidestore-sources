@@ -1,0 +1,30 @@
+{
+ "name": "Endel",
+ "identifier": "dev.perapp.synthetic-endel-a80e120d",
+ "subtitle": "Endel by Karbin-Store",
+ "description": "Single-app source for Endel (synthetic.endel.a80e120d). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Endel.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.endel.a80e120d",
+   "name": "Endel",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Endel.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.46.44",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Endel.ipa",
+     "size": 166170000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Lemmings",
+ "identifier": "dev.perapp.com-sadpuppy-lemmings",
+ "subtitle": "@riftysIPAlibrary | Lemmings: Strategy & Puzzle  Tweak: Premium Unlocked  Version: 9.4.3  Patched ✓  @riftysIPAlibrary  ",
+ "description": "Single-app source for Lemmings (com.sadpuppy.lemmings). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7134.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sadpuppy.lemmings",
+   "name": "Lemmings",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Lemmings: Strategy & Puzzle  Tweak: Premium Unlocked  Version: 9.4.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min",
+   "localizedDescription": "@riftysIPAlibrary | Lemmings: Strategy & Puzzle  Tweak: Premium Unlocked  Version: 9.4.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7134.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.5.1",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Lemmings: Strategy & Puzzle  Tweak: Premium Unlocked  Version: 9.5.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8785-Lemmings:%20Strategy%20&%20Puzzle-v9.5.1-riftysipas.ipa",
+     "size": 134579390
+    },
+    {
+     "version": "9.5.0",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Lemmings: Strategy & Puzzle  Tweak: Premium Unlocked  Version: 9.5.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8472-Lemmings:%20Strategy%20&%20Puzzle-v9.5.0-riftysipas.ipa",
+     "size": 134516668
+    },
+    {
+     "version": "9.4.4",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Lemmings: Strategy & Puzzle  Tweak: Premium Unlocked  Version: 9.4.4  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7407-Lemmings:%20Strategy%20&%20Puzzle-v9.4.4-riftysipas.ipa",
+     "size": 127609277
+    }
+   ]
+  }
+ ]
+}

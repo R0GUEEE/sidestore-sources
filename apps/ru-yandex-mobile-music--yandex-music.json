@@ -1,0 +1,37 @@
+{
+ "name": "Yandex.Music",
+ "identifier": "dev.perapp.ru-yandex-mobile-music",
+ "subtitle": "Yandex.Music",
+ "description": "Single-app source for Yandex.Music (ru.yandex.mobile.music). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.yandex.mobile.music",
+   "name": "Yandex.Music",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nЖёлтая Музыка v671 | Hack\n\n🇷🇺 Стриминговый сервис от компании c жёлтым логотипом\n— Активирован Plus\n— Требуется iOS 15.0\n© Создано: GLESign \n\n🇺🇸 Streaming service from a company with a yellow logo\n— Activated Plus\n— Requires iOS 15.0\n© Создано: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "671",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nЖёлтая Музыка v671 | Hack\n\n🇷🇺 Стриминговый сервис от компании c жёлтым логотипом\n— Активирован Plus\n— Требуется iOS 15.0\n© Создано: GLESign \n\n🇺🇸 Streaming service from a company with a yellow logo\n— Activated Plus\n— Requires iOS 15.0\n© Создано: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4fddc912-1c0f-45d6-be7e-5937d5ce01d6/_______________v671_tg_glesign_.ipa",
+     "size": 59537773
+    },
+    {
+     "version": "714",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nЖёлтая Музыка v714 | Hack\n\n🇷🇺 Стриминговый сервис от компании c жёлтым логотипом\n— Активирован Plus\n© Создано: GLESign \n\n🇺🇸 Streaming service from a company with a yellow logo\n— Activated Plus\n© Создано: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/0c5fd089-f09f-4e65-9bda-d493b3538756/______________v714_tg_glesign_.ipa",
+     "size": 70802957
+    }
+   ]
+  }
+ ]
+}

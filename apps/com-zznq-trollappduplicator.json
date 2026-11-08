@@ -1,0 +1,30 @@
+{
+ "name": "TrollAppDuplicator",
+ "identifier": "dev.perapp.com-zznq-trollappduplicator",
+ "subtitle": "iOS App duplicator for TS which makes it easier to copy apps (with a different bundleID). Last updated: 08-03-2024 Statu",
+ "description": "Single-app source for TrollAppDuplicator (com.zznq.trollappduplicator). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zznq.trollappduplicator.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zznq.trollappduplicator",
+   "name": "TrollAppDuplicator",
+   "developerName": "BreakOnCrash / TrollAppDuplicator",
+   "subtitle": "iOS App duplicator for TS which makes it easier to copy apps (with a different bundleID). Last updated: 08-03-2024 Status: ✅",
+   "localizedDescription": "iOS App duplicator for TS which makes it easier to copy apps (with a different bundleID). Last updated: 08-03-2024 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.zznq.trollappduplicator.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "iOS App duplicator for TS which makes it easier to copy apps (with a different bundleID). Last updated: 08-03-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollAppDuplicator/TrollAppDuplicator-1.1.ipa",
+     "size": 175605
+    }
+   ]
+  }
+ ]
+}

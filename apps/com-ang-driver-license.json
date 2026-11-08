@@ -1,0 +1,30 @@
+{
+ "name": "OTOMOTO",
+ "identifier": "dev.perapp.com-ang-driver-license",
+ "subtitle": "Tweaks: Adblock, SatellaJailed",
+ "description": "Single-app source for OTOMOTO (com.AnG.Driver.License). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c1/10/6bc11087-3ffb-c428-93ff-dc48fc291e7d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AnG.Driver.License",
+   "name": "OTOMOTO",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Tweaks: Adblock, SatellaJailed",
+   "localizedDescription": "Tweaks: Adblock, SatellaJailed\n\nChức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/c1/10/6bc11087-3ffb-c428-93ff-dc48fc291e7d/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: Adblock, SatellaJailed\n\nChức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/com.AnG.Driver.License-2.2.1_TTJB.ipa",
+     "size": 65020834
+    }
+   ]
+  }
+ ]
+}

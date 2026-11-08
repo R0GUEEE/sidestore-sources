@@ -1,0 +1,32 @@
+{
+ "name": "IPAID",
+ "identifier": "dev.perapp.com-shplash-ipaid",
+ "subtitle": "Edit IPA bundle IDs, names & schemes",
+ "description": "Single-app source for IPAID (com.shplash.ipaid). Converted from merged.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8FBF7A",
+ "iconURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSource1.PNG",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shplash.ipaid",
+   "name": "IPAID",
+   "developerName": "shplash",
+   "subtitle": "Edit IPA bundle IDs, names & schemes",
+   "localizedDescription": "IPAID is an on-device utility for editing IPA bundle identifiers, display names, and URL schemes before signing or installing.\n\nManage app extensions, customize exported IPA filenames, and compare original and exported file sizes.\n\nUseful for SideStore, AltStore, Feather, and LiveContainer workflows.",
+   "iconURL": "https://raw.githubusercontent.com/shplash/IPAID/main/assets/AppIconSource1.PNG",
+   "tintColor": "#8FBF7A",
+   "screenshots": [
+    "https://raw.githubusercontent.com/shplash/shplash-repo/main/assets/example6.PNG"
+   ],
+   "versions": [
+    {
+     "version": "1.21",
+     "date": "2026-09-15T00:00:00Z",
+     "localizedDescription": "- Added About screen with GitHub, update checker, bug reports, feature requests, and optional support link\n - Added light/dark mode toggle",
+     "downloadURL": "https://github.com/shplash/IPAID/releases/download/v1.21/IPAID.ipa",
+     "size": 1700000
+    }
+   ]
+  }
+ ]
+}

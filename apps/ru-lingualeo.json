@@ -1,0 +1,30 @@
+{
+ "name": "LinguaLeo",
+ "identifier": "dev.perapp.ru-lingualeo",
+ "subtitle": "ipaomtk.com | Lingualeo IPA Learning a language can be difficult, but there’s a fun way to learn the fundamentals of Int",
+ "description": "Single-app source for LinguaLeo (ru.lingualeo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-english-with-lingualeo-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.lingualeo",
+   "name": "LinguaLeo",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Lingualeo IPA Learning a language can be difficult, but there’s a fun way to learn the fundamentals of International Phonetic Alphabet (",
+   "localizedDescription": "ipaomtk.com | Lingualeo IPA Learning a language can be difficult, but there’s a fun way to learn the fundamentals of International Phonetic Alphabet (",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-english-with-lingualeo-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.16",
+     "date": "2023-10-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Lingualeo IPA Learning a language can be difficult, but there’s a fun way to learn the fundamentals of International Phonetic Alphabet (",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Lingualeo.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

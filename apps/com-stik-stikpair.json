@@ -1,0 +1,30 @@
+{
+ "name": "StikPair",
+ "identifier": "dev.perapp.com-stik-stikpair",
+ "subtitle": "StikPair:  A simple SwiftUI iOS app that creates a pairing file on-device, using iOS 27+ or tvOS 11+ wireless pairing. P",
+ "description": "Single-app source for StikPair (com.stik.StikPair). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/StikDebug/StikPair/blob/main/App/Assets.xcassets/AppLogo.imageset/StikPair-iOS-Default-1024@1x.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stik.StikPair",
+   "name": "StikPair",
+   "developerName": "StikDebug",
+   "subtitle": "StikPair:  A simple SwiftUI iOS app that creates a pairing file on-device, using iOS 27+ or tvOS 11+ wireless pairing. Powered by idevice.  Requiremen",
+   "localizedDescription": "StikPair:  A simple SwiftUI iOS app that creates a pairing file on-device, using iOS 27+ or tvOS 11+ wireless pairing. Powered by idevice.  Requiremen\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://github.com/StikDebug/StikPair/blob/main/App/Assets.xcassets/AppLogo.imageset/StikPair-iOS-Default-1024@1x.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "StikPair:  A simple SwiftUI iOS app that creates a pairing file on-device, using iOS 27+ or tvOS 11+ wireless pairing. Powered by idevice.  Requiremen",
+     "downloadURL": "https://github.com/StikDebug/StikPair/releases/download/v1.2.0/StikPair.ipa",
+     "size": 7581073
+    }
+   ]
+  }
+ ]
+}

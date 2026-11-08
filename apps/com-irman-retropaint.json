@@ -1,0 +1,36 @@
+{
+ "name": "RetroPaint",
+ "identifier": "dev.perapp.com-irman-retropaint",
+ "subtitle": "The classic early-2000s MS Paint, rebuilt natively for Mac, iPad and iPhone",
+ "description": "Single-app source for RetroPaint (com.irman.RetroPaint). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#527dc9",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.irman.RetroPaint.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.irman.RetroPaint",
+   "name": "RetroPaint",
+   "developerName": "harkhowalia-1",
+   "subtitle": "The classic early-2000s MS Paint, rebuilt natively for Mac, iPad and iPhone",
+   "localizedDescription": "·.\n\nFeatures:\n\n• All 16 classic tools — free-form and rectangle select, eraser / color eraser, fill, pick color, magnifier, pencil, brush, airbrush, text, line, curve, rectangle, polygon, ellipse and rounded rectangle, each with its classic options.\n• The 28-color palette — left click for foreground, right click (long-press on touch) for background, double-click to define a custom color.\n• Type directly on the canvas — drag a text box, then move and resize it by its border and 8 handles, with a floating Fonts toolbar.\n• Image menu — Flip/Rotate, Stretch/Skew, Invert Colors, Attributes and Clear Image, on the whole picture or the current selection.\n• Pixel-perfect — every primitive is aliased and drawn on whole pixels; zoom to 800% with a grid and thumbnail.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.irman.RetroPaint.png",
+   "tintColor": "#527dc9",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/harkhowalia-1/RetroPaint@main/docs/assets/screens/iphone.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-13T18:16:25Z",
+     "localizedDescription": "The first release of RetroPaint — the classic bitmap editor for Mac, iPad and iPhone.\n\nMac — RetroPaint-macOS.dmg (macOS 14+, Apple silicon and Intel). Open the DMG and drag RetroPaint to Applications. This build isn't notarized yet: on first launch, right-click the app and choose Open, or allow it in System Settings → Privacy & Security.\n\niPhone & iPad — RetroPaint-iOS.ipa (iOS 17+). Unsigned; install it with AltStore or Sideloadly, which sign it with your Apple ID.\n\nHighlights: all 16 classic tools, the 28-color palette, type-on-canvas text with a movable/resizable box and Fonts toolbar, Image menu (flip/rotate, stretch/skew, invert, attributes), PNG/BMP/JPEG/GIF/TIFF, clipboard, print and share.",
+     "downloadURL": "https://github.com/harkhowalia-1/RetroPaint/releases/download/v1.0.0/RetroPaint-iOS.ipa",
+     "size": 664692
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

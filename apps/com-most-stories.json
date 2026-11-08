@@ -1,0 +1,44 @@
+{
+ "name": "Most",
+ "identifier": "dev.perapp.com-most-stories",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Most (com.most.stories). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.most.stories",
+   "name": "Most",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.5.8",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@blatants | Most: Aesthetic Photo Editor  • Bundle ID: com.most.stories • Updated to: 3.5.8 • Minimum iOS: 17.6 • Patched • Modifier: Subscription Unl",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Most_3.5.8_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 235251643
+    },
+    {
+     "version": "3.5.7",
+     "date": "2026-10-10T00:00:00Z",
+     "localizedDescription": "@blatants | Most: Aesthetic Photo Editor  • Bundle ID: com.most.stories • Updated to: 3.5.7 • Minimum iOS: 17.6 • Patched • Modifier: Subscription Unl",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12732-Most_Aesthetic_Photo_Editor_v3_5_7_Subscription_Unlocked_blatant.ipa",
+     "size": 235219073
+    },
+    {
+     "version": "3.5.6",
+     "date": "2026-09-26T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Most_3.5.6_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 235134489
+    }
+   ]
+  }
+ ]
+}

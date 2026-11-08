@@ -1,0 +1,30 @@
+{
+ "name": "Medication List",
+ "identifier": "dev.perapp.com-jojoapps-medication-list",
+ "subtitle": "ipaomtk.com | Medication List for iOS-a digital companion designed to simplify the way you manage your prescriptions and",
+ "description": "Single-app source for Medication List (com.jojoapps.Medication-List). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Medication-List-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jojoapps.Medication-List",
+   "name": "Medication List",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Medication List for iOS-a digital companion designed to simplify the way you manage your prescriptions and over-the-counter…",
+   "localizedDescription": "ipaomtk.com | Medication List for iOS-a digital companion designed to simplify the way you manage your prescriptions and over-the-counter medications. Whether you’re juggling multiple‍ prescriptions, coordinating care for a loved one, or​ just striving to maintain your health, this app offers ‍powerful features to enhance ⁤your medication management experience. In ‌this ultimate guide, ‌we will explore the […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/Medication-List-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.15",
+     "date": "2025-06-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Medication List for iOS-a digital companion designed to simplify the way you manage your prescriptions and over-the-counter…",
+     "downloadURL": "https://file.ipaomtk.com/Medication/Medication-List-IPAOMTK.com.ipa",
+     "size": 21374498
+    }
+   ]
+  }
+ ]
+}

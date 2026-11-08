@@ -1,0 +1,32 @@
+{
+ "name": "Stremio-2.0.7",
+ "identifier": "dev.perapp.com-stremio-pal",
+ "subtitle": "Stremio-2.0.7 by Stremio-2.0.7 x CyPwn",
+ "description": "Single-app source for Stremio-2.0.7 (com.stremio.pal). Converted from cypwn.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.7.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stremio.pal",
+   "name": "Stremio-2.0.7",
+   "developerName": "Stremio-2.0.7 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Stremio-2.0.7.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Stremio-2.0.7/Stremio-2.0.7-0.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0.7",
+     "date": "2026-08-28T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Stremio-2.0.7.ipa",
+     "size": 79974891
+    }
+   ]
+  }
+ ]
+}

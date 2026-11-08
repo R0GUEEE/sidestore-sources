@@ -1,0 +1,30 @@
+{
+ "name": "Vartagram",
+ "identifier": "dev.perapp.org-cpartisans-vartagram",
+ "subtitle": "Ứng dụng Telegram bên thứ ba, thêm các chức năng so với bản gốc, đã tiêm fix để dùng được khi sideload - IPA đã được kiể",
+ "description": "Single-app source for Vartagram (org.cpartisans.vartagram). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/Vartagram.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.cpartisans.vartagram",
+   "name": "Vartagram",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Ứng dụng Telegram bên thứ ba, thêm các chức năng so với bản gốc, đã tiêm fix để dùng được khi sideload - IPA đã được kiểm tra và tổng hợp bởi TTJB…",
+   "localizedDescription": "Ứng dụng Telegram bên thứ ba, thêm các chức năng so với bản gốc, đã tiêm fix để dùng được khi sideload - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/Vartagram.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Ứng dụng Telegram bên thứ ba, thêm các chức năng so với bản gốc, đã tiêm fix để dùng được khi sideload - IPA đã được kiểm tra và tổng hợp bởi TTJB…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Vartagram_1.0_TTJB.ipa",
+     "size": 68954864
+    }
+   ]
+  }
+ ]
+}

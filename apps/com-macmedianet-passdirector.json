@@ -1,0 +1,30 @@
+{
+ "name": "PassDirector",
+ "identifier": "dev.perapp.com-macmedianet-passdirector",
+ "subtitle": "ipaomtk.com | PassDirector IPA v3.1.3 is a versatile mobile application designed to streamline the management of digital",
+ "description": "Single-app source for PassDirector (com.macmedianet.PassDirector). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/PassDirector-8211-secure-database.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.macmedianet.PassDirector",
+   "name": "PassDirector",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | PassDirector IPA v3.1.3 is a versatile mobile application designed to streamline the management of digital passes and tickets. This user",
+   "localizedDescription": "ipaomtk.com | PassDirector IPA v3.1.3 is a versatile mobile application designed to streamline the management of digital passes and tickets. This user",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/PassDirector-8211-secure-database.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | PassDirector IPA v3.1.3 is a versatile mobile application designed to streamline the management of digital passes and tickets. This user",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PassDirector_-_secure_database-v3.1.3-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

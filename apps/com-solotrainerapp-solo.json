@@ -1,0 +1,30 @@
+{
+ "name": "Solo",
+ "identifier": "dev.perapp.com-solotrainerapp-solo",
+ "subtitle": "ipaomtk.com | Solo is a revolutionary fretboard visualization app designed specifically for iOS users, aiming to enhance",
+ "description": "Single-app source for Solo (com.solotrainerapp.solo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Solo-8211-Fretboard-Visualization-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.solotrainerapp.solo",
+   "name": "Solo",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Solo is a revolutionary fretboard visualization app designed specifically for iOS users, aiming to enhance the learning and performance ",
+   "localizedDescription": "ipaomtk.com | Solo is a revolutionary fretboard visualization app designed specifically for iOS users, aiming to enhance the learning and performance ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Solo-8211-Fretboard-Visualization-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.0",
+     "date": "2024-12-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Solo is a revolutionary fretboard visualization app designed specifically for iOS users, aiming to enhance the learning and performance ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Solo_-_Fretboard_Visualization-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

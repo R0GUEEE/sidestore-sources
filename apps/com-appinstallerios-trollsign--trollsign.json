@@ -1,0 +1,30 @@
+{
+ "name": "TrollSign",
+ "identifier": "dev.perapp.com-appinstallerios-trollsign",
+ "subtitle": "Modify an app's entitlements before installing Last updated: 11-09-2022 Status: ✅",
+ "description": "Single-app source for TrollSign (com.AppInstalleriOS.TrollSign). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.AppInstalleriOS.TrollSign.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AppInstalleriOS.TrollSign",
+   "name": "TrollSign",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "Modify an app's entitlements before installing Last updated: 11-09-2022 Status: ✅",
+   "localizedDescription": "Modify an app's entitlements before installing\nLast updated: 11-09-2022\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.AppInstalleriOS.TrollSign.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Modify an app's entitlements before installing Last updated: 11-09-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/TrollSign.ipa",
+     "size": 2485747
+    }
+   ]
+  }
+ ]
+}

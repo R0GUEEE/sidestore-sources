@@ -1,0 +1,30 @@
+{
+ "name": "Mini Motor",
+ "identifier": "dev.perapp.com-nextgenreality-minimoto",
+ "subtitle": "ipaomtk.com | Rev up your engines for a thrilling ride with Mini Motor Racing IPA! Get ready to experience the exhilarat",
+ "description": "Single-app source for Mini Motor (com.nextgenreality.minimoto). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Mini-Motor-Racing-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nextgenreality.minimoto",
+   "name": "Mini Motor",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Rev up your engines for a thrilling ride with Mini Motor Racing IPA! Get ready to experience the exhilaration of high-speed racing in a ",
+   "localizedDescription": "ipaomtk.com | Rev up your engines for a thrilling ride with Mini Motor Racing IPA! Get ready to experience the exhilaration of high-speed racing in a ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Mini-Motor-Racing-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.3",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Rev up your engines for a thrilling ride with Mini Motor Racing IPA! Get ready to experience the exhilaration of high-speed racing in a ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Mini-Motor-Racing.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

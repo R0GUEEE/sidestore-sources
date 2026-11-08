@@ -1,0 +1,30 @@
+{
+ "name": "Through the Ages",
+ "identifier": "dev.perapp.com-czechgames-tta",
+ "subtitle": "ipaomtk.com | Through the Ages IPA was designed by Vlaada Chvátil and first published in 2006. Since then, it has gained",
+ "description": "Single-app source for Through the Ages (com.czechgames.tta). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Through-the-Ages-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.czechgames.tta",
+   "name": "Through the Ages",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Through the Ages IPA was designed by Vlaada Chvátil and first published in 2006. Since then, it has gained a devoted following and has b",
+   "localizedDescription": "ipaomtk.com | Through the Ages IPA was designed by Vlaada Chvátil and first published in 2006. Since then, it has gained a devoted following and has b",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Through-the-Ages-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.19.1041",
+     "date": "2024-04-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Through the Ages IPA was designed by Vlaada Chvátil and first published in 2006. Since then, it has gained a devoted following and has b",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Through-the-Ages.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Vibes",
+ "identifier": "dev.perapp.com-andyworks-vibes",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Vibes (com.andyworks.vibes). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.andyworks.vibes",
+   "name": "Vibes",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.30",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Vibes  • Bundle ID: com.andyworks.vibes • Updated to: 1.30 • Minimum iOS: 26.0 • Patched • Modifier: Subscription Unlocked • ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13031-Not_Boring_Vibes_v1_30_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 272793503
+    },
+    {
+     "version": "1.29",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Vibes  • Bundle ID: com.andyworks.vibes • Updated to: 1.29 • Minimum iOS: 26.0 • Patched • Modifier: Subscription Unlocked • ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Vibes_1.29_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 272790475
+    },
+    {
+     "version": "1.28",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Vibes  • Bundle ID: com.andyworks.vibes • Updated to: 1.28 • Minimum iOS: 26.0 • Patched • Modifier: Subscription Unlocked • ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12394-Not_Boring_Vibes_v1_28_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 272804850
+    }
+   ]
+  }
+ ]
+}

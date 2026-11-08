@@ -1,0 +1,45 @@
+{
+ "name": "Screen Remote",
+ "identifier": "dev.perapp.com-mobile-scrcpy-ios",
+ "subtitle": "Ported scrcpy for mobile platforms, to remotely control Android devices on your iPhone or Android phone",
+ "description": "Single-app source for Screen Remote (com.mobile.scrcpy-ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0284c7",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mobile.scrcpy-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobile.scrcpy-ios",
+   "name": "Screen Remote",
+   "developerName": "wsvn53",
+   "subtitle": "Ported scrcpy for mobile platforms, to remotely control Android devices on your iPhone or Android phone",
+   "localizedDescription": "scrcpy-mobile:\n\nPorted scrcpy for mobile platforms, to remotely control Android devices on your iPhone or Android phone.\n\nCurrently only supports controlling Android devices from iOS, Android controlling Android devices will be supported in future.\n\nFeatures:\n\n• Supports scrcpy with ADB over WiFi;\n• With Hardware decoding, less power and CPU comsumed;\n• Optimized gesture experiences for unstable network from mobile devices;\n• Supports start scrcpy from URL scheme;\n• Supports pair Android device with Pairing Code;\n• With Android navigation buttons: Back, Home, Switch App;\n• Supports toggle iOS keyboard and send keys to remote device;\n• Sync clipboard contents between iPhone and remote Android devices;\n• Support adbkey management: generate, modify, import, export;\n• Support audio forward to iPhone(for Android 11+ devices);",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mobile.scrcpy-ios.png",
+   "tintColor": "#0284c7",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/wsvn53/scrcpy-mobile@main/screenshots/screenshots.png"
+   ],
+   "versions": [
+    {
+     "version": "4.6.0",
+     "date": "2026-09-08T17:26:25Z",
+     "localizedDescription": "Built on scrcpy v4.0 (SDL3 + FFmpeg 8.1.1).\n\nFixes:\n\nMirrored picture geometry.\n\n• Fix the picture overflowing the window and not being draggable back. The porting layer applied SDL_SetRenderScale(nativeScale) on top of the density conversion scrcpy v4 already performs, magnifying the geometry by density × nativeScale (4× on @2x, 9× on @3x).\n• Fix the picture being offset to one side from the moment a session connects. The Stage Manager resize path compared the view size in pixels against SDL_GetWindowSize(), which SDL3 reports in points, so the sizes never matched and every layout pass pushed a resize event carrying a pixel-sized geometry.\n\nBlack screen on high-contrast scene changes.\n\n• A full display-layer queue is normal back-pressure; it no longer escalates to flushing the queue and restarting the server-side encoder after 5 dropped frames. Recovery now requires a sustained stall, and the reset cooldown was raised so a second reset cannot land before the previous restart has produced a keyframe.\n\nDisk filling with logs.\n\n• The active log file is now bounded at runtime (previously only older files were cleaned, and only at cold start — one user reported a single 76 GB log).\n• Decoder and render error logs are rate-limited; they previously wrote one line per packet or per frame for as long as the error persisted.\n\nCrashes and background behaviour.\n\n• Fix SIGTRAP/SIGABRT during teardown (sc_server_destroy, sc_main_thread_destroy, sc_screen_destroy/sc_fps_counter_destroy) when a session is re-entered in the same process.\n• Fix the background timeout ignoring the configured duration, and a background-task handle leak that could disconnect an already-disconnected session.\n• Fix a VNC connect crash and a blank screen after ADB disconnect.\n\nThe attached IPA is Ad Hoc signed and installs only on devices registered to the developer account. For general use, install via TestFlight or the App Store.",
+     "downloadURL": "https://github.com/wsvn53/scrcpy-mobile/releases/download/v4.6.0/Scrcpy-Remote-v4.6.0.ipa",
+     "size": 30037601
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "This app does not use Bluetooth. Bluetooth permission is required by linked frameworks but no Bluetooth functionality is accessed.",
+     "NSCameraUsageDescription": "This app does not access the camera. Camera permission is required by underlying frameworks for video processing and display of remote device screens.",
+     "NSLocalNetworkUsageDescription": "DEBUG builds expose a local HTTP log server on port 4321 for live debugging from a host machine. Release builds do not."
+    }
+   }
+  }
+ ]
+}

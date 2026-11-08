@@ -1,0 +1,44 @@
+{
+ "name": "VidCap",
+ "identifier": "dev.perapp.io-fadel-vidcap",
+ "subtitle": "ipaomtk.com | Vid Cap IPA for iOS devices is a revolutionary video capturing app that allows users to capture multi-scen",
+ "description": "Single-app source for VidCap (io.fadel.VidCap). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/Vid-Cap-IPA-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.fadel.VidCap",
+   "name": "VidCap",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Vid Cap IPA for iOS devices is a revolutionary video capturing app that allows users to capture multi-scene videos with one tap. Vid Cap",
+   "localizedDescription": "ipaomtk.com | Vid Cap IPA for iOS devices is a revolutionary video capturing app that allows users to capture multi-scene videos with one tap. Vid Cap",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/Vid-Cap-IPA-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.237",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | AI Captions for Videos: VidCap  Tweak: Subscription Unlocked  Version: 1.0.237  Patched ✓  @riftysIPAlibrary  Additional Informati",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8604-AI%20Captions%20for%20Videos:%20VidCap-v1.0.237-riftysipas.ipa",
+     "size": 38087701
+    },
+    {
+     "version": "1.0.236",
+     "date": "2026-10-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | AI Captions for Videos: VidCap  Tweak: Subscription Unlocked  Version: 1.0.236  Patched ✓  @riftysIPAlibrary  Additional Informati",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8256-AI%20Captions%20for%20Videos:%20VidCap-v1.0.236-riftysipas.ipa",
+     "size": 37711218
+    },
+    {
+     "version": "1.0.213",
+     "date": "2023-11-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Vid Cap IPA for iOS devices is a revolutionary video capturing app that allows users to capture multi-scene videos with one tap. Vid Cap",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Vid-Cap.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

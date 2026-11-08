@@ -1,0 +1,30 @@
+{
+ "name": "CarParking",
+ "identifier": "dev.perapp.com-aidana-cardriving-ios",
+ "subtitle": "CarParking",
+ "description": "Single-app source for CarParking (com.aidana.cardriving.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aidana.cardriving.ios",
+   "name": "CarParking",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aidana.cardriving.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.9.8",
+     "date": "2026-04-09T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/CarParking_4.9.8_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 1929173378
+    }
+   ]
+  }
+ ]
+}

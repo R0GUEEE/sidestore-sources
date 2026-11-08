@@ -1,0 +1,44 @@
+{
+ "name": "Tripsy",
+ "identifier": "dev.perapp.app-tripsy-ios",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Tripsy (app.tripsy.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.tripsy.ios",
+   "name": "Tripsy",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.10.7",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@blatants | Tripsy: Travel Planner  • Bundle ID: app.tripsy.ios • Updated to: 3.10.7 • Minimum iOS: 18 • Patched • Modifier: Lifetime Unlocked • Tweak",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Tripsy_3.10.7_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 93810760
+    },
+    {
+     "version": "3.10.6",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Tripsy_3.10.6_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 93680142
+    },
+    {
+     "version": "3.10.5",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | Tripsy: Travel Planner  • Bundle ID: app.tripsy.ios • Updated to: 3.10.5 • Minimum iOS: 18 • Patched • Modifier: Lifetime Unlocked • Tweak",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13032-Tripsy_Travel_Planner_v3_10_5_Lifetime_Unlocked_blatant_Patched.ipa",
+     "size": 93550844
+    }
+   ]
+  }
+ ]
+}

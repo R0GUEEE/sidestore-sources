@@ -1,0 +1,37 @@
+{
+ "name": "HDOPlay",
+ "identifier": "dev.perapp.com-hdoplay-apt",
+ "subtitle": "HDOPlay by N/A",
+ "description": "Single-app source for HDOPlay (com.hdoplay.apt). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hdoplay.apt.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hdoplay.apt",
+   "name": "HDOPlay",
+   "developerName": "N/A",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hdoplay.apt.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-10-01T00:00:00Z",
+     "localizedDescription": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles\nLast updated: 09-03-2022\nStatus: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HdoPlay/HdoPlay.ipa",
+     "size": 23561400
+    },
+    {
+     "version": "1.0.2",
+     "date": "2022-11-10T00:00:00Z",
+     "localizedDescription": "Released on the App Store for a short while, this app is one of the best streamers for TV shows and movies from Hulu, Netflix, Prime Video, Disney+, and more, even including some popular anime titles\nLast updated: 09-03-2022\nStatus: ⚠️",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/HDOPlay-1.0.2.ipa",
+     "size": 23561400
+    }
+   ]
+  }
+ ]
+}

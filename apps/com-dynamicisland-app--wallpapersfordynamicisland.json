@@ -1,0 +1,30 @@
+{
+ "name": "WallpapersforDynamicIsland",
+ "identifier": "dev.perapp.com-dynamicisland-app",
+ "subtitle": "Tweaks: DIslandWall_iApps",
+ "description": "Single-app source for WallpapersforDynamicIsland (com.dynamicisland.app). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dynamicisland.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dynamicisland.app",
+   "name": "WallpapersforDynamicIsland",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "Tweaks: DIslandWall_iApps",
+   "localizedDescription": "Tweaks: DIslandWall_iApps\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.dynamicisland.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Tweaks: DIslandWall_iApps\n\n",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WallpapersforDynamicIsland/WallpapersforDynamicIsland-1.9.1.ipa",
+     "size": 34490423
+    }
+   ]
+  }
+ ]
+}

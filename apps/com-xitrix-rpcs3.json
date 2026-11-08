@@ -1,0 +1,41 @@
+{
+ "name": "RPCS3",
+ "identifier": "dev.perapp.com-xitrix-rpcs3",
+ "subtitle": "Release repo for RPCS3 iOS port builds",
+ "description": "Single-app source for RPCS3 (com.xitrix.RPCS3). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7661cd",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.xitrix.RPCS3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.xitrix.RPCS3",
+   "name": "RPCS3",
+   "developerName": "XITRIX",
+   "subtitle": "Release repo for RPCS3 iOS port builds",
+   "localizedDescription": "RPCS3 iOS port:\n\nExperimental PS3 emulator, port of RPCS3.\n\nUsage:\n\n• Launch the app using StikDebug.\n• Press \"Start\" button.\n• Install PS3 Firmware selecting UPDATE.PUP file (not included).\n• Install dumped game and run it.\n\nFeatures:\n\n• Native iOS UI.\n• Installation of pkg, iso, zip and unpacked folders.\n• Game Patch manager.\n• Automatic game updater.\n• Per-game settings.\n• Multiple controllers support.\n• RPCN support (PSN online servers).\n• Game trophies screen.\n• Save data manager.\n• Per-game settings presets.\n\nMinimal device requirements:\n\n• iOS 16.0+.\n• 4 GB of RAM.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.xitrix.RPCS3.png",
+   "tintColor": "#7661cd",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.12",
+     "date": "2026-10-23T17:28:01Z",
+     "localizedDescription": "What's new:\n\n• iOS 16 support, with separate ARMv8.4-A and ARMv8-A builds for newer and older devices.\n• Implemented TrollStore as another JIT enabler for supported devices.\n• MetalFX upscaling for a sharper XMB interface on compatible displays.\n• Recommended settings and custom game configuration indicators in XMB.\n• Frame-skipping controls under GPU settings, with adjustable drawn and skipped frame counts.\n• Game failure and performance reporting, with separate controls in App settings.\n\nImprovements:\n\n• Updated RPCS3 core, including further ARM64 PPU and SPU improvements from the ARMSX3 team.\n• Improved texture caching, graphics memory management and GPU synchronization.\n\n• Automatic JIT memory allocation selection, with a manual override on supported systems.\n\nFixes:\n\n• Addressed UI freezes triggered by physical controller input.\n• Corrected ISO directory handling that could cause games to loop during startup.\n\nChoosing an iOS build:\n\n• ARMv8.4-A — iPhone 11 series, iPhone SE (2nd generation), iPad (9th generation), iPad Air (4th generation), iPad mini (6th generation), and M1 iPad Pro models or newer.\n\nBoth builds require iOS 16 or later. The app checks CPU compatibility before preparing JIT or loading the core.",
+     "downloadURL": "https://github.com/XITRIX/RPCS3-iOS-Releases/releases/download/v0.12/RPCS3-ios-arm64-armv8.4-a-unsigned.ipa",
+     "size": 35857718
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "RPCS3 uses the local network for RPCN multiplayer and custom RPCN servers."
+    }
+   }
+  }
+ ]
+}

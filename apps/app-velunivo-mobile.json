@@ -1,0 +1,45 @@
+{
+ "name": "Velunivo",
+ "identifier": "dev.perapp.app-velunivo-mobile",
+ "subtitle": "Your route. Your riding speed. iOS-first e-scooter and e-bike navigation, vehicle-specific ETA, GPX, native maps and a r",
+ "description": "Single-app source for Velunivo (app.velunivo.mobile). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#088572",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.velunivo.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.velunivo.mobile",
+   "name": "Velunivo",
+   "developerName": "Xarber",
+   "subtitle": "Your route. Your riding speed. iOS-first e-scooter and e-bike navigation, vehicle-specific ETA, GPX, native maps and a responsive web planner",
+   "localizedDescription": "Velunivo:\n\nYour route. Your riding speed.\n\nAn iOS-first navigator and route planner for e-scooters and e-bikes. Compare bicycle and car-road candidates, estimate travel time for the vehicle you actually ride, and plan on a fullscreen map with floating controls. Built with Expo and React Native for iPhone, iPad, Android and web.\n\nBuilt around your ride:\n\nScheduled ETAs exclude traffic conditions and traffic simulation. An optional current traffic overlay does not change the ETA. Battery use is an estimate based on range, speed and available elevation; Bluetooth battery percentage is a separate actual reading.\n\nGet the app:\n\nChoose your installed sideloading app on AltDirect, or copy the source URL below. The link opens the chooser without automatically launching an app.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.velunivo.mobile.png",
+   "tintColor": "#088572",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.5",
+     "date": "2026-11-07T18:11:28Z",
+     "localizedDescription": "Features:\n\n• web: show landing at home with remembered app entry and logo shortcut (c344d99).\n• web: add accessible product introduction and isolated offline cache (9cc930b).\n• bluetooth: opt into locked credential access and pairing backups (a4d6905).\n• ios: resume ride detection through native location wake (9f5e4b9).\n• bluetooth: survey the full SHFW read window (7b7b455).\n• developer: add private Ideas notebook and reviewed interchange (669aa12).\n• bluetooth: add independent read-only SHFW inspection tool (000d9f2).\n• bluetooth: add safe M365 ride controls and detection actions (ae4d4ce).\n• recording: detect connected Bluetooth rides with iOS wake alerts (fa56c79).\n• plugins: add VPI archives and ride insight charts (ebae9c8).\n\n• plugins: add isolated extensions and development-client handoff (1d64ef4).\n\nDocumentation:\n\n• standards: record UADS verification and protected web deployment (e4372ed).\n• standards: adopt complete UADS section 36 and project exceptions (ef7b7e2).\n• ios: record credential checks and web deployment evidence (f712bf7).\n• bluetooth: record controlled SHFW mappings and restoration (06882db).\n• ideas: record browser verification and hosted deployment (f06cf4e).\n\n• bluetooth: record reversible physical scooter tests (dce787f).\n\n• testing: record scooter controls validation and web deployment (ff98b5a).\n• validation: record 2.7.5 web deployment and pending native build (85e8c7d).\n• standards: adopt application governance and AGPL licensing (97a394e).\n\n• changelog: record simulator reliability fixes in 2.7.4 (b4d1b23).\n• changelog: include final plugin usability review (13933fb).\n• changelog: record VPI and insight testing changes (34a8a5a).\n\n• changelog: record plugin and replay implementation details (12718d9).\n• record native verification gate and successful candidate build (17519fe).\n\nFixes:\n\n• bluetooth: preserve ride wake when credential storage is locked (447f693).\n• bluetooth: expose cancellation while reconnect is pending (f89c724).\n• recording: isolate automatic monitoring from telemetry simulation (3b1dec0).\n• build: preserve dependency versions during app version bumps (cbd7d07).\n• ios: enable BLE restoration and background ride detection (d8ead2b).\n• bluetooth: clarify probe approval and record verified light reads (90bb405).\n• recording: retain Bluetooth ownership and hand off group activities (3290cd2).\n• layout: keep replay controls and update actions visible in landscape (28e1468).\n• map: forward navigation rotation through Fabric marker props (2c103d3).\n\n• replay: keep the map clear and expire scratch reveals (a047df2).\n• plugins: prioritize installed packages over bundled examples (eaac348).\n• plugins: keep package feedback beside import controls (7ef35c3).\n• ios: let tab controller own adaptive map accessories (aac605c).\n• hide retained sample data outside developer and capture modes (6f93de2).\n• ios: restore tabs after direct routes and controller attachment (b88cd71).\n• ios: apply camera padding to Fabric and disambiguate toolbar geometry (0b6eff6).\n• restore native button styles, tab chrome and complete build notes (5b93102).\n• localize patch details and constrain narrow landscape replays (0fd962b).\n• stabilize paired sync, native panels and map updates (dac9299).\n\nOther changes:\n\n• bluetooth: integrate verified SHFW read mappings (ea6225b).\n\nVerification:\n\n• iPhone: unsigned IPA, intended for AltStore Classic or SideStore re-signing.\n• Simulator: .app.zip, not an IPA; requires an Apple Silicon Simulator.\n• Android: APK. Without configured signing secrets, the build uses Expo’s development signing key.\n• Web: web.zip, also available as a workflow artifact; serve its contents with the bundled web/PeerServer service. Build information and binary checksums are consolidated in build_info.json.\n\nScheduled ETAs exclude traffic. Route eligibility is unverified. See README for provider setup and tested limitations.\n\nScreenshot verification.\n\n• iphone: no new screenshot; previous AltSource i",
+     "downloadURL": "https://github.com/Xarber/Velunivo/releases/download/v2.8.5-testing.130/Velunivo.ipa",
+     "size": 39332613
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "Velunivo connects to supported vehicles for read-only speed and battery telemetry.",
+     "NSCameraUsageDescription": "Use the camera for vehicle pictures and optional group ride video. Live video is shared only with opted-in riders.",
+     "NSFaceIDUsageDescription": "Allow Velunivo to access your Face ID biometric data.",
+     "NSLocalNetworkUsageDescription": "Expo Dev Launcher uses the local network to discover and connect to development servers running on your computer.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "Velunivo uses location for locked-screen rides and, if enabled, Bluetooth ride detection and departure alerts.",
+     "NSLocationAlwaysUsageDescription": "Allow Velunivo to access your location",
+     "NSLocationWhenInUseUsageDescription": "Velunivo uses your location for ride guidance and recording.",
+     "NSMicrophoneUsageDescription": "Use the microphone for optional group ride voice chat.",
+     "NSMotionUsageDescription": "Velunivo uses motion readings for ride diagnostics and local ride records when recording is enabled.",
+     "NSPhotoLibraryUsageDescription": "Choose vehicle or rider profile pictures. Rider pictures are shared only when joining a group."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "YouDrive",
+ "identifier": "dev.perapp.today-youdrive-rent",
+ "subtitle": "ipaomtk.com | YouDrive! IPA for iOS — Master Every Turn with Precision YouDrive! IPA for iOS is a unique driving game th",
+ "description": "Single-app source for YouDrive (today.youdrive.rent). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/10/youdrive-ico-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "today.youdrive.rent",
+   "name": "YouDrive",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | YouDrive! IPA for iOS — Master Every Turn with Precision YouDrive! IPA for iOS is a unique driving game that turns every move into a tes",
+   "localizedDescription": "ipaomtk.com | YouDrive! IPA for iOS — Master Every Turn with Precision YouDrive! IPA for iOS is a unique driving game that turns every move into a tes",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/10/youdrive-ico-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.18.0",
+     "date": "2025-10-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | YouDrive! IPA for iOS — Master Every Turn with Precision YouDrive! IPA for iOS is a unique driving game that turns every move into a tes",
+     "downloadURL": "https://file.ipaomtk.com/ipa/YouDrive-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

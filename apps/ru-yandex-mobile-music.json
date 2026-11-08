@@ -1,0 +1,30 @@
+{
+ "name": "Yandex.Music",
+ "identifier": "dev.perapp.ru-yandex-mobile-music",
+ "subtitle": "ipaomtk.com | Yandex Music IPA,music⁢ apps ⁢have transformed how listeners discover,enjoy,and manage their favorite tune",
+ "description": "Single-app source for Yandex.Music (ru.yandex.mobile.music). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/yandex-music-books-podcasts-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.yandex.mobile.music",
+   "name": "Yandex.Music",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Yandex Music IPA,music⁢ apps ⁢have transformed how listeners discover,enjoy,and manage their favorite tunes. Among thes platforms, Yande",
+   "localizedDescription": "ipaomtk.com | Yandex Music IPA,music⁢ apps ⁢have transformed how listeners discover,enjoy,and manage their favorite tunes. Among thes platforms, Yande",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/yandex-music-books-podcasts-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "717",
+     "date": "2025-06-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Yandex Music IPA,music⁢ apps ⁢have transformed how listeners discover,enjoy,and manage their favorite tunes. Among thes platforms, Yande",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Yandex.Music_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

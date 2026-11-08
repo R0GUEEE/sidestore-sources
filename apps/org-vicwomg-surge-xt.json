@@ -1,0 +1,30 @@
+{
+ "name": "Surge XT",
+ "identifier": "dev.perapp.org-vicwomg-surge-xt",
+ "subtitle": "Surge iOS & Android Ports:  This is an unofficial iOS & Android Port of Surge XT. Since Surge is built on JUCE, it has v",
+ "description": "Single-app source for Surge XT (org.vicwomg.surge-xt). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.vicwomg.surge-xt.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.vicwomg.surge-xt",
+   "name": "Surge XT",
+   "developerName": "vicwomg",
+   "subtitle": "Surge iOS & Android Ports:  This is an unofficial iOS & Android Port of Surge XT. Since Surge is built on JUCE, it has very good compatibility with mo",
+   "localizedDescription": "Surge iOS & Android Ports:  This is an unofficial iOS & Android Port of Surge XT. Since Surge is built on JUCE, it has very good compatibility with mo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.vicwomg.surge-xt.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Surge iOS & Android Ports:  This is an unofficial iOS & Android Port of Surge XT. Since Surge is built on JUCE, it has very good compatibility with mo",
+     "downloadURL": "https://github.com/vicwomg/surge-ios-android/releases/download/v0.2.0-alpha/Surge.XT.0.2.0-alpha.ipa",
+     "size": 352184562
+    }
+   ]
+  }
+ ]
+}

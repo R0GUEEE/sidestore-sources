@@ -1,0 +1,37 @@
+{
+ "name": "WrapPin",
+ "identifier": "dev.perapp.com-suversal-wrappin",
+ "subtitle": "@kamohacks | WrapPin 🆕   ⚙️Features⚙️ ✅Change your Location to anywhere you want.  ⏺Warning Warning: This app will chang",
+ "description": "Single-app source for WrapPin (com.suversal.wrappin). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16757.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.suversal.wrappin",
+   "name": "WrapPin",
+   "developerName": "@kamohacks",
+   "subtitle": "@kamohacks | WrapPin 🆕   ⚙️Features⚙️ ✅Change your Location to anywhere you want.  ⏺Warning Warning: This app will change the entire Date & Time of th",
+   "localizedDescription": "@kamohacks | WrapPin 🆕   ⚙️Features⚙️ ✅Change your Location to anywhere you want.  ⏺Warning Warning: This app will change the entire Date & Time of th\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16757.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.18",
+     "date": "2026-10-17T00:00:00Z",
+     "localizedDescription": "@kamohacks | WrapPin 🆕 ⬆️⬆️  ⚙️Features⚙️ ✅Change your Location to anywhere you want. ✅iOS 27+  ⏺Warning Warning: This app will change the entire Date",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16805-WrapPin%20-%20KamoHacks%20%5B1.0.18%5D.ipa",
+     "size": 7312507
+    },
+    {
+     "version": "1.0.17",
+     "date": "2026-10-12T00:00:00Z",
+     "localizedDescription": "@kamohacks | WrapPin 🆕   ⚙️Features⚙️ ✅Change your Location to anywhere you want.  ⏺Warning Warning: This app will change the entire Date & Time of th",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16757-WrapPin%20-%20KamoHacks%20%5B1.0.17%5D.ipa",
+     "size": 6091659
+    }
+   ]
+  }
+ ]
+}

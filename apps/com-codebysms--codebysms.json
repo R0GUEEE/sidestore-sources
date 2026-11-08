@@ -1,0 +1,30 @@
+{
+ "name": "CodebySMS",
+ "identifier": "dev.perapp.com-codebysms",
+ "subtitle": "CodebySMS by Holloway",
+ "description": "Single-app source for CodebySMS (com.codebysms). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380695.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.codebysms",
+   "name": "CodebySMS",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380695.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1705",
+     "size": 6037792
+    }
+   ]
+  }
+ ]
+}

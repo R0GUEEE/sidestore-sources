@@ -1,0 +1,30 @@
+{
+ "name": "MCLA",
+ "identifier": "dev.perapp.com-koreanseats-mcla",
+ "subtitle": "An unofficial iOS adaptation built on LARecomp, ReXGlue and the Theft4 Apple foundation. The app combines ahead-of-time ",
+ "description": "Single-app source for MCLA (com.koreanseats.mcla). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.koreanseats.mcla.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.koreanseats.mcla",
+   "name": "MCLA",
+   "developerName": "KoreanSeats1",
+   "subtitle": "An unofficial iOS adaptation built on LARecomp, ReXGlue and the Theft4 Apple foundation. The app combines ahead-of-time ARM64 execution with a title-s",
+   "localizedDescription": "An unofficial iOS adaptation built on LARecomp, ReXGlue and the Theft4 Apple foundation. The app combines ahead-of-time ARM64 execution with a title-s\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.koreanseats.mcla.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.4",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "An unofficial iOS adaptation built on LARecomp, ReXGlue and the Theft4 Apple foundation. The app combines ahead-of-time ARM64 execution with a title-s",
+     "downloadURL": "https://github.com/KoreanSeats1/MCLA-4iOS/releases/download/v1.0.4/MCLA-4iOS-1.0.4.ipa",
+     "size": 24704082
+    }
+   ]
+  }
+ ]
+}

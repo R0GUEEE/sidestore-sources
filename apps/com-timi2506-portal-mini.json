@@ -1,0 +1,36 @@
+{
+ "name": "Portal Mini",
+ "identifier": "dev.perapp.com-timi2506-portal-mini",
+ "subtitle": "Portal but for Dev Certs",
+ "description": "Single-app source for Portal Mini (com.timi2506.Portal-Mini). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "E9C3FA",
+ "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.timi2506.Portal-Mini",
+   "name": "Portal Mini",
+   "developerName": "timi2506",
+   "subtitle": "Portal but for Dev Certs",
+   "localizedDescription": "Portal but for Dev Certs\n\nAlso SUPPORTS iOS 15! :D",
+   "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
+   "tintColor": "E9C3FA",
+   "screenshots": [
+    "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/screenshots/Portal%20Mini/1.png?raw=true",
+    "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/screenshots/Portal%20Mini/2.png?raw=true",
+    "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/screenshots/Portal%20Mini/3.png?raw=true",
+    "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/screenshots/Portal%20Mini/4.png?raw=true",
+    "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/raw-files/screenshots/Portal%20Mini/5.png?raw=true"
+   ],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-12-30T00:00:00Z",
+     "localizedDescription": "Portal but for Dev Certs\n\nAlso SUPPORTS iOS 15! :D",
+     "downloadURL": "https://github.com/timi2506/Portal-Mini/releases/download/1.0.0/Portal-Mini-1.0.0.ipa",
+     "size": 2100000
+    }
+   ]
+  }
+ ]
+}

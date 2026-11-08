@@ -1,0 +1,30 @@
+{
+ "name": "Sleepwave",
+ "identifier": "dev.perapp.sleepwave-app",
+ "subtitle": "Sleepwave",
+ "description": "Single-app source for Sleepwave (sleepwave.app). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sleepwave.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "sleepwave.app",
+   "name": "Sleepwave",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/sleepwave.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.22",
+     "date": "2025-11-25T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Sleepwave_3.2.22_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 163990839
+    }
+   ]
+  }
+ ]
+}

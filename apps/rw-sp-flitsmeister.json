@@ -1,0 +1,44 @@
+{
+ "name": "Flitsmeister",
+ "identifier": "dev.perapp.rw-sp-flitsmeister",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Flitsmeister (rw.sp.flitsmeister). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rw.sp.flitsmeister.png",
+ "apps": [
+  {
+   "bundleIdentifier": "rw.sp.flitsmeister",
+   "name": "Flitsmeister",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rw.sp.flitsmeister.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.14",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/Flitsmeister_14.14_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 107781395
+    },
+    {
+     "version": "14.13",
+     "date": "2026-08-21T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/Flitsmeister_14.13_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 106742028
+    },
+    {
+     "version": "14.12",
+     "date": "2026-08-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Flitsmeister_14.12_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 106470738
+    }
+   ]
+  }
+ ]
+}

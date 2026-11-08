@@ -1,0 +1,44 @@
+{
+ "name": "AssppPro",
+ "identifier": "dev.perapp.com-hdnwbtb-uixnoe",
+ "subtitle": "Ứng dụng giúp tải ứng dụng và IPA từ nhiều tài khoản AppleID. Có thể tải phiên bản cũ của ứng dụng. Lưu ý IPA được tải b",
+ "description": "Single-app source for AssppPro (com.hdnwbtb.uixnoe). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/AssppPro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hdnwbtb.uixnoe",
+   "name": "AssppPro",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Ứng dụng giúp tải ứng dụng và IPA từ nhiều tài khoản AppleID. Có thể tải phiên bản cũ của ứng dụng. Lưu ý IPA được tải bằng ứng dụng là IPA chưa giải ",
+   "localizedDescription": "Ứng dụng giúp tải ứng dụng và IPA từ nhiều tài khoản AppleID. Có thể tải phiên bản cũ của ứng dụng. Lưu ý IPA được tải bằng ứng dụng là IPA chưa giải ",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/AssppPro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Ứng dụng giúp tải ứng dụng và IPA từ nhiều tài khoản AppleID. Có thể tải phiên bản cũ của ứng dụng. Lưu ý IPA được tải bằng ứng dụng là IPA chưa giải ",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AssppPro_2.0_TTJB.ipa",
+     "size": 7691017
+    },
+    {
+     "version": "2.0-2",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "Ứng dụng giúp tải ứng dụng và IPA từ nhiều tài khoản AppleID. Có thể tải phiên bản cũ của ứng dụng. Lưu ý IPA được tải bằng ứng dụng là IPA chưa giải ",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AssppPro_2.0_TTJB.ipa",
+     "size": 769101
+    },
+    {
+     "version": "2.0.2",
+     "date": "2024-07-31T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-07-31/Asspp+_2.0.2_Nothing_@repo.owo.network.ipa",
+     "size": 7084357
+    }
+   ]
+  }
+ ]
+}

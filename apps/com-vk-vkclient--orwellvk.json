@@ -1,0 +1,30 @@
+{
+ "name": "OrwellVK",
+ "identifier": "dev.perapp.com-vk-vkclient",
+ "subtitle": "Tweaks: OrwellVK",
+ "description": "Single-app source for OrwellVK (com.vk.vkclient). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vk.vkclient",
+   "name": "OrwellVK",
+   "developerName": "dvntm",
+   "subtitle": "Tweaks: OrwellVK",
+   "localizedDescription": "Tweaks: OrwellVK\n\nFeatures:\n- Download everything you love: videos, episodes, clips, songs, stories, and even voice messages\n- Incognito Mode: Become invisible. Browse posts, read messages, and publish entries without leaving a trace\n- Chats: Manage your chats with ease: send voice and video messages, graffiti directly from the gallery. Pretend you're typing\n- Simplicity: Intuitive and flexible settings that are easy to personalize\n- And More: OrwellVK is not just about settings. It hides even more features for your comfort and privacy\n\nOrwellVK preferences can be found in the VK Settings and Side menu\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.144.1",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "Tweaks: OrwellVK\n\nFeatures: - Download everything you love: videos, episodes, clips, songs, stories, and even voice messages - Incognito Mode: Become invisible…",
+     "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.2+8.144.1.ipa",
+     "size": 209551943
+    }
+   ]
+  }
+ ]
+}

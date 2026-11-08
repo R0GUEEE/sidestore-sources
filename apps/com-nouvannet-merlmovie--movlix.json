@@ -1,0 +1,30 @@
+{
+ "name": "Movlix",
+ "identifier": "dev.perapp.com-nouvannet-merlmovie",
+ "subtitle": "Movlix by sidelix",
+ "description": "Single-app source for Movlix (com.NOUVANNET.merlmovie). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_697831de0137f.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.NOUVANNET.merlmovie",
+   "name": "Movlix",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Watch any movie shows for free \r\n\r\n\r\nSteps:\r\n\r\nTo watch movies and TV series \r\nwithout ads\r\nwhen you log in, use the number 2222.",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_697831de0137f.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-01-26T00:00:00Z",
+     "localizedDescription": "Watch any movie shows for free \r\n\r\n\r\nSteps:\r\n\r\nTo watch movies and TV series \r\nwithout ads\r\nwhen you log in, use the number 2222.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1965",
+     "size": 4367664
+    }
+   ]
+  }
+ ]
+}

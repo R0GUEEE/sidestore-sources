@@ -1,0 +1,30 @@
+{
+ "name": "Surge5",
+ "identifier": "dev.perapp.com-nssurge-kernel-surge-ios-enterprise",
+ "subtitle": "Surge 5 thing",
+ "description": "Single-app source for Surge5 (com.nssurge.kernel.surge-ios.enterprise). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Surge5.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nssurge.kernel.surge-ios.enterprise",
+   "name": "Surge5",
+   "developerName": "Surge5 x CyPwn",
+   "subtitle": "Surge 5 thing",
+   "localizedDescription": "Surge 5 thing",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Surge5.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Surge 5 thing",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Surge_5.ipa",
+     "size": 40600862
+    }
+   ]
+  }
+ ]
+}

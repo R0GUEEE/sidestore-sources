@@ -1,0 +1,30 @@
+{
+ "name": "CoCoSign",
+ "identifier": "dev.perapp.com-cococloudteam-cocosign",
+ "subtitle": "CoCoSign by sidelix",
+ "description": "Single-app source for CoCoSign (com.cococloudteam.cocosign). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1783980309.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cococloudteam.cocosign",
+   "name": "CoCoSign",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Cocosign is a full signing toolchain for iOS — sign and install with your own certificate, manage a cloud library, browse AltStore repos, and a lot more. No jailbreak, no computer.\r\n\r\nOriginal Project: https://cocosign.cococloud-signing.vip\r\nDiscord: https://cococloud-signing.vip/invite/discord",
+   "iconURL": "https://appstore.sidelix.vip/images/1783980309.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "beta 0.5.1",
+     "date": "2026-07-27T00:00:00Z",
+     "localizedDescription": "Cocosign is a full signing toolchain for iOS — sign and install with your own certificate, manage a cloud library, browse AltStore repos, and a lot more. No jailbreak, no computer.\r\n\r\nOriginal Project: https://cocosign.cococloud-signing.vip\r\nDiscord: https://cococloud-signing.vip/invite/discord",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2232",
+     "size": 18931703
+    }
+   ]
+  }
+ ]
+}

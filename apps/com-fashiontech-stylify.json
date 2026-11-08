@@ -1,0 +1,30 @@
+{
+ "name": "Stylify",
+ "identifier": "dev.perapp.com-fashiontech-stylify",
+ "subtitle": "@ipa_dark | 🔄 Stylify: Цифровой гардероб - appstore  🇷🇺 Цифровой гардероб для хранения вещей, создания образов и планиро",
+ "description": "Single-app source for Stylify (com.fashiontech.stylify). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1765.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fashiontech.stylify",
+   "name": "Stylify",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Stylify: Цифровой гардероб - appstore  🇷🇺 Цифровой гардероб для хранения вещей, создания образов и планирования повседневных нарядов с у",
+   "localizedDescription": "@ipa_dark | 🔄 Stylify: Цифровой гардероб - appstore  🇷🇺 Цифровой гардероб для хранения вещей, создания образов и планирования повседневных нарядов с у\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1765.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.2",
+     "date": "2026-09-28T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Stylify: Цифровой гардероб - appstore  🇷🇺 Цифровой гардероб для хранения вещей, создания образов и планирования повседневных нарядов с у",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1765-Stylify%20PRO%20%5Bv1.4.2%5D%28tg@ipa_dark%29.ipa",
+     "size": 36718475
+    }
+   ]
+  }
+ ]
+}

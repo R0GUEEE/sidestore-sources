@@ -1,0 +1,44 @@
+{
+ "name": "Simple Money",
+ "identifier": "dev.perapp.app-monelyze-budget",
+ "subtitle": "Simple Money",
+ "description": "Single-app source for Simple Money (app.monelyze.Budget). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/79/13/b07913d7-385e-1fc5-67d8-02159dd3ea5e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "app.monelyze.Budget",
+   "name": "Simple Money",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Budget App: Simple Money\n\nTweak: Subscription Unlocked\n\nVersion: 1.9.1\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/79/13/b07913d7-385e-1fc5-67d8-02159dd3ea5e/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Budget App: Simple Money\n\nTweak: Subscription Unlocked\n\nVersion: 1.9.1\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/c7958434-e464-4234-8415-08fc253ae9ae/Budget_App__Simple_Money-v1.9.1-riftysipas.ipa",
+     "size": 2495762
+    },
+    {
+     "version": "1.8.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Budget App: Simple Money\n⁣\nTweak: Premium Unlocked\n\nVersion: 1.8.0\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/291acee1-7805-4290-b2c7-f63b28962137/SimpleMoney_v1.8.0-riftysipas.ipa",
+     "size": 2348344
+    },
+    {
+     "version": "1.7.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Budget App: Simple Money\n⁣\nTweak: Premium Unlocked\n\nBundle ID: app.monelyze.Budget\n\nDeveloper: Monelyze Inc.\n\nVersion: 1.7.3\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/18c6e4b5-4f74-4f32-9b02-e636ac48b469/SimpleMoney_v1.7.3-riftysipas.ipa",
+     "size": 2307289
+    }
+   ]
+  }
+ ]
+}

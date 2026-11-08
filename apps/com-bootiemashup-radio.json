@@ -1,0 +1,36 @@
+{
+ "name": "Bootie Mashup Radio",
+ "identifier": "dev.perapp.com-bootiemashup-radio",
+ "subtitle": "iOS and tvOS App To Play Bootie Mashup Radio",
+ "description": "Single-app source for Bootie Mashup Radio (com.bootiemashup.radio). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#c16937",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.bootiemashup.radio.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bootiemashup.radio",
+   "name": "Bootie Mashup Radio",
+   "developerName": "purplescorpion1",
+   "subtitle": "iOS and tvOS App To Play Bootie Mashup Radio",
+   "localizedDescription": "Bootie Mashup Radio - iOS & tvOS:\n\nNative iOS and tvOS application for Bootie Mashup Radio, streaming the best mashups 24/7.\n\nAndroid version:\n\nThe android version can be found https://github.com/purplescorpion1/Bootie-Mashup-Radio\n\nFeatures:\n\n• 🎧 24/7 High Quality Audio Streaming: Automatic primary stream connection with automatic seamless failover to secondary stream if needed.\n• 📺 iOS & tvOS Support: Full support for iPhone, iPad, and Apple TV (tvOS 15.0+).\n• 📻 Live Now Playing & Coming Next Info: Automatic metadata updates for current track, artist, and coming next track every 5 seconds.\n• 🖼️ Album Artwork Integration: Real-time album artwork updates fetched directly from the stream feed with smooth fallback graphics.\n• 🔊 Mute / Unmute & Play / Pause Controls: Simple, sleek touch controls matching the iOS application layout.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.bootiemashup.radio.png",
+   "tintColor": "#c16937",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/purplescorpion1/BootieMashupRadio-IOS@main/Preview/BM_Radio_V2.0_Mobile.jpg"
+   ],
+   "versions": [
+    {
+     "version": "2.4.3",
+     "date": "2026-10-09T20:49:51Z",
+     "localizedDescription": "• Potentially Fixed Now Playing media controls and artwork for Apple Watch and Lock Screen.",
+     "downloadURL": "https://github.com/purplescorpion1/BootieMashupRadio-IOS/releases/download/V2.4.3/BootieMashupRadio-iOS-Device.ipa",
+     "size": 4502791
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

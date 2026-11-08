@@ -1,0 +1,44 @@
+{
+ "name": "ClearStatus",
+ "identifier": "dev.perapp.hd-clear-status-app-clearstatus",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for ClearStatus (hd.clear.status.app.clearstatus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "hd.clear.status.app.clearstatus",
+   "name": "ClearStatus",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/hd.clear.status.app.clearstatus.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.3",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-12-2025/ClearStatus_6.0.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 30178419
+    },
+    {
+     "version": "6.0.5",
+     "date": "2026-05-18T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-05-2026/ClearStatus_6.0.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 31509960
+    },
+    {
+     "version": "6.0.4",
+     "date": "2026-05-13T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-05-2026/ClearStatus_6.0.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 31080910
+    }
+   ]
+  }
+ ]
+}

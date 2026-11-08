@@ -1,0 +1,39 @@
+{
+ "name": "Cyberworld",
+ "identifier": "dev.perapp.io-github-saschb2b-cyberworldendless",
+ "subtitle": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generat",
+ "description": "Single-app source for Cyberworld (io.github.saschb2b.cyberworldendless). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#207a76",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.saschb2b.cyberworldendless.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.saschb2b.cyberworldendless",
+   "name": "Cyberworld",
+   "developerName": "saschb2b",
+   "subtitle": "A roguelike built on the real Mega Man Battle Network 6, from your own ROM: every run jacks MegaMan into a newly generated net of battles, loot and guardian Navis",
+   "localizedDescription": "· Player's guide · Project page · Discussions · itch.io.\n\nYou need your own ROM: Mega Man Battle Network 6: Cybeast Gregar (USA), unmodified. Battle Network 5: Team Colonel (USA) beside it is optional; online, it fills the NetPass (NetBattles, trades, the week's DeepNet). No download and no page contains Capcom data; without the ROM there is no game. What the game checks.\n\n·.\n\n· Host a Net Square · For developers · Buy me a coffee.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.saschb2b.cyberworldendless.png",
+   "tintColor": "#207a76",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless@main/docs/clips/trailer-play.png",
+    "https://cdn.jsdelivr.net/gh/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless@main/docs/screenshots/portmaster.png"
+   ],
+   "versions": [
+    {
+     "version": "0.19.0",
+     "date": "2026-11-02T03:48:12Z",
+     "localizedDescription": "Options in pages:\n\nDisplay, Audio and Game (Controls, Fast forward, Statistics) are tabs along the top. L and R turn from one to the next as the Library turns its own, a tap opens one on a phone, and Options opens again where you left it. START puts a page's lines back as they came, after a Yes.\n\nSee the screen while you set it:\n\nThe Display page plays a battle of BN6's own beside its lines, on a second GBA of the game's from your ROM, staged for the line under the cursor: a busy fight for the colours, MegaMan hit and flickering for Frame blending, steady steps under a moving sky for Smooth motion. Turn a line and the battle changes at once. On the 3DS the paused game shows there instead.\n\n📺 A GBA's screen, if you want it:\n\nAsked for in issue #265 by a player on a KONKR Pocket Advanced. Each is off until you turn it on, in Display.\n\nColour correction:\n\nGBA shows the game's colours as a GBA's own screen did, darker and softer: mGBA's Color Correction as RetroArch's mGBA core runs it, matched to its own code for every colour. Three more sit beside it, from libretro's handheld colour shaders: VBA (VisualBoyAdvance's GBA colours, darker still), DS (the first DS's screen, dimmer and softer) and PSP (a PSP 1000's or 2000's, bright and warmer). Whichever you pick covers Cyberworld's own screens and the map too, so the whole screen reads as one.\n\nFrame blending:\n\nmGBA's Interframe Blending, matched to its code frame by frame: Simple mixes each frame half and half with the last, Smart only where a pixel flickers, LCD fades each frame out over the next four as a GBA's slow screen did, and LCD fast keeps one running mix, a longer trail.\n\nLCD 3x:\n\nRetroArch's lcd3x shader at your screen's own pixels: each of the game's pixels striped red, green and blue with a darker line through each row, the picture a little darker for it. It looks best at a scale of 3 or more. Not on the 3DS, whose own screen shows the picture.\n\n🔊 The sound your way:\n\nMusic and Effects now go from 10, the game's own level, down to 1 in steps of 3 dB, and Off; your old on and off carry over. Output lays the sound out for where you listen: Speakers as before, Headphones with bs2b's crossfeed (each ear hears a little of the other side, as from speakers in a room) or Mono for one speaker, one earbud, or hearing on one side. Sound has a third choice beside GBA and Soft, mGBA: mGBA's Audio Filter as RetroArch's mGBA core has it, matched to its code sample for sample. With the defaults the game sounds exactly as before.\n\nEverything else:\n\n• colour_correction, interframe_blending, lcd3x and the new audio lines are kept in settings.ini, and --colour-correction, --interframe-blending and --lcd3x set them from the command line.",
+     "downloadURL": "https://github.com/saschb2b/Mega-Man-Battle-Network-Cyberworld-Endless/releases/download/v0.19.0/cyberworld-endless.ipa",
+     "size": 2112975
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Connect to a Network server you choose on your local network."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "B2BApocalypse",
+ "identifier": "dev.perapp.com-dawinstone-b2ba",
+ "subtitle": "Injected with Mods",
+ "description": "Single-app source for B2BApocalypse (com.dawinstone.b2ba). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dawinstone.b2ba.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dawinstone.b2ba",
+   "name": "B2BApocalypse",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Mods",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dawinstone.b2ba.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.4.1",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/B2BApocalypse_3.4.1_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 271919689
+    }
+   ]
+  }
+ ]
+}

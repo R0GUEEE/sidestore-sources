@@ -1,0 +1,30 @@
+{
+ "name": "Jump_9.8.0",
+ "identifier": "dev.perapp.4gu63n96we-com-p5sys-jumpdesktop",
+ "subtitle": "RDP and VNC application",
+ "description": "Single-app source for Jump_9.8.0 (4GU63N96WE.com.p5sys.jumpdesktop). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Jump_9.8.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "4GU63N96WE.com.p5sys.jumpdesktop",
+   "name": "Jump_9.8.0",
+   "developerName": "Jump_9.8.0 x CyPwn",
+   "subtitle": "RDP and VNC application",
+   "localizedDescription": "RDP and VNC application",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Jump_9.8.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.8.0",
+     "date": "2026-06-29T00:00:00Z",
+     "localizedDescription": "RDP and VNC application",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Jump_9.8.0.ipa",
+     "size": 28405923
+    }
+   ]
+  }
+ ]
+}

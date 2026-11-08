@@ -1,0 +1,44 @@
+{
+ "name": "Moovit",
+ "identifier": "dev.perapp.com-tranzmate-tranzmate1",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Moovit (com.tranzmate.tranzmate1). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tranzmate.tranzmate1",
+   "name": "Moovit",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.202.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Moovit: Bus & Transit Tracker  • Bundle ID: com.tranzmate.tranzmate1 • Updated to: 5.202.3 • Minimum iOS: 15.0 • Patched • Modifier: Moovi",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Moovit_5.202.3_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 151085458
+    },
+    {
+     "version": "5.202.2",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@blatants | Moovit: Bus & Transit Tracker  • Bundle ID: com.tranzmate.tranzmate1 • Updated to: 5.202.2 • Minimum iOS: 15.0 • Patched • Modifier: Moovi",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Moovit_5.202.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 151079226
+    },
+    {
+     "version": "5.202.1",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@blatants | Moovit: Bus & Transit Tracker  • Bundle ID: com.tranzmate.tranzmate1 • Updated to: 5.202.1 • Minimum iOS: 15.0 • Patched • Modifier: Moovi",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/Moovit_5.202.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 151088300
+    }
+   ]
+  }
+ ]
+}

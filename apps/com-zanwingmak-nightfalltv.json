@@ -1,0 +1,46 @@
+{
+ "name": "Nightfall Sleep",
+ "identifier": "dev.perapp.com-zanwingmak-nightfalltv",
+ "subtitle": "Free, open-source Apple TV app for white noise, nature sounds, guided breathing and bedtime listening. SwiftUI · tvOS · ",
+ "description": "Single-app source for Nightfall Sleep (com.zanwingmak.nightfalltv). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zanwingmak.nightfalltv",
+   "name": "Nightfall Sleep",
+   "developerName": "ZanwingMak",
+   "subtitle": "Free, open-source Apple TV app for white noise, nature sounds, guided breathing and bedtime listening. SwiftUI · tvOS · MIT",
+   "localizedDescription": "Nightfall:\n\nAn open-source Apple TV app for white noise, nature sounds, guided breathing, self-led meditation and bedtime listening. Mix up to three sounds, start a timed session, and listen with an optional nature background or a black screen. Built with SwiftUI and AVFoundation. Free, offline-first, no account, no ads.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ZanwingMak/NightfallTV@main/docs/screens/library.png",
+    "https://cdn.jsdelivr.net/gh/ZanwingMak/NightfallTV@main/docs/screens/aurora.png",
+    "https://cdn.jsdelivr.net/gh/ZanwingMak/NightfallTV@main/docs/screens/dunes.png",
+    "https://cdn.jsdelivr.net/gh/ZanwingMak/NightfallTV@main/docs/screens/sound-controls.png",
+    "https://cdn.jsdelivr.net/gh/ZanwingMak/NightfallTV@main/docs/screens/new-soundscapes.png"
+   ],
+   "versions": [
+    {
+     "version": "1.4.0",
+     "date": "2026-10-16T17:29:20Z",
+     "localizedDescription": "Nightfall Sleep 1.4.0（14）.\n\nFinal source CI: 53 tests passed (34 unit + 19 tvOS UI), zero failures. https://github.com/ZanwingMak/NightfallTV/actions/runs/38937349417",
+     "downloadURL": "https://github.com/ZanwingMak/NightfallTV/releases/download/v1.4.0-build14/Nightfall-Sleep-1.4.0-14.ipa",
+     "size": 194906803
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Flixor",
+ "identifier": "dev.perapp.xyz-flixor-mobile",
+ "subtitle": "About:  Flixor is a modern, cross-platform Plex client that brings a Netflix-like experience to your media library. Brow",
+ "description": "Single-app source for Flixor (xyz.flixor.mobile). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/xyz.flixor.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.flixor.mobile",
+   "name": "Flixor",
+   "developerName": "Flixorui",
+   "subtitle": "About:  Flixor is a modern, cross-platform Plex client that brings a Netflix-like experience to your media library. Browse beautiful rows, see rich me",
+   "localizedDescription": "About:  Flixor is a modern, cross-platform Plex client that brings a Netflix-like experience to your media library. Browse beautiful rows, see rich me\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/xyz.flixor.mobile.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.8",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "About:  Flixor is a modern, cross-platform Plex client that brings a Netflix-like experience to your media library. Browse beautiful rows, see rich me",
+     "downloadURL": "https://github.com/Flixorui/flixor/releases/download/beta2.4.0/Flixor_ios_beta2.4.0.ipa",
+     "size": 46872456
+    }
+   ]
+  }
+ ]
+}

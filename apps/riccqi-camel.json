@@ -1,0 +1,30 @@
+{
+ "name": "OpenCam",
+ "identifier": "dev.perapp.riccqi-camel",
+ "subtitle": "OpenCam",
+ "description": "Single-app source for OpenCam (riccqi.Camel). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/riccqi.Camel.png",
+ "apps": [
+  {
+   "bundleIdentifier": "riccqi.Camel",
+   "name": "OpenCam",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/riccqi.Camel.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2025-08-14T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-08-2025/OpenCam_1.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 22533893
+    }
+   ]
+  }
+ ]
+}

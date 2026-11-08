@@ -1,0 +1,44 @@
+{
+ "name": "RedditPlus",
+ "identifier": "dev.perapp.com-reddit-reddit",
+ "subtitle": "RedditPlus by AppDB / Ed0.ipa / Jacks_Apps / level3tjg / Manpreet Singh @thisismanpreeets / Sultan Mods",
+ "description": "Single-app source for RedditPlus (com.reddit.Reddit). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.reddit.Reddit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.reddit.Reddit",
+   "name": "RedditPlus",
+   "developerName": "AppDB / Ed0.ipa / Jacks_Apps / level3tjg / Manpreet Singh @thisismanpreeets / Sultan Mods",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.reddit.Reddit.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2022.44.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit. (AppleCraxkhead)\nLast updated: 07-25-2024\nStatus: ❔",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RedditPlus/RedditPlus-2022.44.0.ipa",
+     "size": 141904208
+    },
+    {
+     "version": "2022.45.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit. (AppleCraxkhead)\nLast updated: 07-25-2024\nStatus: ❔",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RedditPlus/RedditPlus-2022.45.0.ipa",
+     "size": 142911374
+    },
+    {
+     "version": "2023.01.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "Reddit, injected with RedditFilter & RedditSideloadFix (level3tjg), and Riskkit. (AppleCraxkhead)\nLast updated: 07-25-2024\nStatus: ❔",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RedditPlus/RedditPlus-2023.01.0.ipa",
+     "size": 132216313
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Tiny Fantasy",
+ "identifier": "dev.perapp.com-minidragon-dungeonwarriors",
+ "subtitle": "ipaomtk.com | Tiny Fantasy Action Adventure IPA v1.542 iOS! This thrilling game takes you on a quest through mystical la",
+ "description": "Single-app source for Tiny Fantasy (com.minidragon.dungeonwarriors). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/tiny-fantasy-epic-action-rpg-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.minidragon.dungeonwarriors",
+   "name": "Tiny Fantasy",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tiny Fantasy Action Adventure IPA v1.542 iOS! This thrilling game takes you on a quest through mystical lands, battling fearsome creatur",
+   "localizedDescription": "ipaomtk.com | Tiny Fantasy Action Adventure IPA v1.542 iOS! This thrilling game takes you on a quest through mystical lands, battling fearsome creatur",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/tiny-fantasy-epic-action-rpg-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.542",
+     "date": "2023-07-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tiny Fantasy Action Adventure IPA v1.542 iOS! This thrilling game takes you on a quest through mystical lands, battling fearsome creatur",
+     "downloadURL": "https://file.ipaomtk.com/ipa/TinyFantasy.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "My Hotel",
+ "identifier": "dev.perapp.com-master-hotelmaster",
+ "subtitle": "My Hotel",
+ "description": "Single-app source for My Hotel (com.master.hotelmaster). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/9451f85c-f6cb-4498-87c0-d6178409678f/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.master.hotelmaster",
+   "name": "My Hotel",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: My Perfect Hotel\n\nTweak: Free iAP\n\nVersion: 1.26.1\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/9451f85c-f6cb-4498-87c0-d6178409678f/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.36.0",
+     "date": "2026-08-03T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- in app purchase\r\n- Sideloading bypass\r\n\r\nWarning: can buy everything but not the subscription also after every purchase make sure to restart the app",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2059",
+     "size": 206475952
+    },
+    {
+     "version": "1.18.0",
+     "date": "2025-02-08T00:00:00Z",
+     "localizedDescription": "My Perfect Hotel - Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a6a8bdab6265a34e09efe8",
+     "size": 177250131
+    },
+    {
+     "version": "1.26.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: My Perfect Hotel\n\nTweak: Free iAP\n\nVersion: 1.26.1\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4bb7962d-23f5-4191-a9c6-e0349e4f84d5/My_Perfect_Hotel-v1.26.1-riftysipas.ipa",
+     "size": 177765960
+    }
+   ]
+  }
+ ]
+}

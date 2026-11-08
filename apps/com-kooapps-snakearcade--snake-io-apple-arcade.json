@@ -1,0 +1,37 @@
+{
+ "name": "Snake.io+ (Apple Arcade)",
+ "identifier": "dev.perapp.com-kooapps-snakearcade",
+ "subtitle": "Snake.io+ (Apple Arcade) by sidelix",
+ "description": "Single-app source for Snake.io+ (Apple Arcade) (com.kooapps.snakearcade). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bf0ce936c3.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kooapps.snakearcade",
+   "name": "Snake.io+ (Apple Arcade)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Slither, eat, and survive!\r\n\r\nThe greatest .io game of all time is now on Apple Arcade. Win by collecting pellets in order to grow bigger and surround other snakes to beat them.\r\n\r\nJoin over 200 million players who have played Snake.io and participate in monthly live events to earn exclusive skins for your collection.\r\n\r\n==   How to Play Snake.io+   ==\r\n- Cut in front of other snakes quickly to make them explode when they hit you head on\r\n- After they explode into pellets, eat them as fast as you can to gain more mass\r\n- Eject mass to boost your speed with one button\r\n- Try to beat the highest score based on your length during a round\r\n- Internet connection is not needed, play wherever, whether you are offline or online\r\n- Compare with friends t",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a6bf0ce936c3.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.18",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "Slither, eat, and survive!\r\n\r\nThe greatest .io game of all time is now on Apple Arcade. Win by collecting pellets in order to grow bigger and surround other snakes to beat them.\r\n\r\nJoin over 200 million players who have played Snake.io and participate in monthly live events to earn exclusive skins for your collection.\r\n\r\n==   How to Play Snake.io+   ==\r\n- Cut in front of other snakes quickly to make them explode when they hit you head on\r\n- After they explode into pellets, eat them as fast as you can to gain more mass\r\n- Eject mass to boost your speed with one button\r\n- Try to beat the highest score based on your length during a round\r\n- Internet connection is not needed, play wherever, whether you are offline or online\r\n- Compare with friends t",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2325",
+     "size": 69040199
+    },
+    {
+     "version": "1.0.17",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "Slither, eat, and survive!\r\n\r\nThe greatest .io game of all time is now on Apple Arcade. Win by collecting pellets in order to grow bigger and surround other snakes to beat them.\r\n\r\nJoin over 200 million players who have played Snake.io and participate in monthly live events to earn exclusive skins for your collection.\r\n\r\n==   How to Play Snake.io+   ==\r\n- Cut in front of other snakes quickly to make them explode when they hit you head on\r\n- After they explode into pellets, eat them as fast as you can to gain more mass\r\n- Eject mass to boost your speed with one button\r\n- Try to beat the highest score based on your length during a round\r\n- Internet connection is not needed, play wherever, whether you are offline or online\r\n- Compare with friends t",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2325",
+     "size": 68927303
+    }
+   ]
+  }
+ ]
+}

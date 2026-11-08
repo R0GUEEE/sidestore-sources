@@ -1,0 +1,44 @@
+{
+ "name": "AlarmyPremium",
+ "identifier": "dev.perapp.droom-sleepifucanfree",
+ "subtitle": "AlarmyPremium by DPixel",
+ "description": "Single-app source for AlarmyPremium (droom.sleepIfUCanFree). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "droom.sleepIfUCanFree",
+   "name": "AlarmyPremium",
+   "developerName": "DPixel",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/droom.sleepIfUCanFree.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.15.0",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: ⚠️ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.15.0.ipa",
+     "size": 165088148
+    },
+    {
+     "version": "24.21.1",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: ⚠️ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.21.1.ipa",
+     "size": 161819886
+    },
+    {
+     "version": "24.22.1",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "Alarmy injected with premium. A user requested it so here it is.\nLast updated: 07-11-2024\nStatus: ⚠️ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AlarmyPremium/AlarmyPremium-24.22.1.ipa",
+     "size": 164130313
+    }
+   ]
+  }
+ ]
+}

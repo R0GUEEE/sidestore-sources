@@ -1,0 +1,30 @@
+{
+ "name": "VidList_1.2",
+ "identifier": "dev.perapp.com-vh-vhub",
+ "subtitle": "NSFW",
+ "description": "Single-app source for VidList_1.2 (com.vh.vhub). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/VidList_1.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vh.vhub",
+   "name": "VidList_1.2",
+   "developerName": "VidList_1.2 x CyPwn",
+   "subtitle": "NSFW",
+   "localizedDescription": "NSFW",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/VidList_1.2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "NSFW",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/VidList_1.2.ipa",
+     "size": 20006830
+    }
+   ]
+  }
+ ]
+}

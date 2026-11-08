@@ -1,0 +1,30 @@
+{
+ "name": "AppLockPro",
+ "identifier": "dev.perapp.com-lilucat-applock-us",
+ "subtitle": "Privacy app designed to help keep your sensitive apps private and secure on your device. Last updated: 08-02-2024 Status",
+ "description": "Single-app source for AppLockPro (com.lilucat.applock.us). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lilucat.applock.us",
+   "name": "AppLockPro",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "Privacy app designed to help keep your sensitive apps private and secure on your device. Last updated: 08-02-2024 Status: ✅ ⭐",
+   "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device.\nLast updated: 08-02-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.lilucat.applock.us.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.2",
+     "date": "2026-07-09T00:00:00Z",
+     "localizedDescription": "Privacy app designed to help keep your sensitive apps private and secure on your device. Last updated: 08-02-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppLockPro/AppLockPro-3.2.2.ipa",
+     "size": 15497838
+    }
+   ]
+  }
+ ]
+}

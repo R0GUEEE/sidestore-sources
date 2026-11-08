@@ -1,0 +1,44 @@
+{
+ "name": "WeChat",
+ "identifier": "dev.perapp.com-tencent-xin",
+ "subtitle": "Injected with PKC 0.7.8 MiYou 3.8.7 XNSP 2.2.5 WCElite 1.3.4 HBWechatHelper 1.9.0 wx",
+ "description": "Single-app source for WeChat (com.tencent.xin). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tencent.xin",
+   "name": "WeChat",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with PKC 0.7.8 MiYou 3.8.7 XNSP 2.2.5 WCElite 1.3.4 HBWechatHelper 1.9.0 wx",
+   "localizedDescription": "Injected with PKC 0.7.8 MiYou 3.8.7 XNSP 2.2.5 WCElite 1.3.4 HBWechatHelper 1.9.0 wx",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0.49",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with PKC 0.5.0 MiYou 3.7.8",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-04-27/WeChat_8.0.49_PKC_0.5.0_MiYou_3.7.8_@repo.owo.network.ipa",
+     "size": 323106235
+    },
+    {
+     "version": "8.0.47",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with PKC 0.4.8 MiYou 3.7.6 Qiuyi 2.0",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-03-11/WeChat_8.0.47_PKC_0.4.8_MiYou_3.7.6_Qiuyi_2.0_@repo.owo.network.ipa",
+     "size": 332492059
+    },
+    {
+     "version": "8.0.58",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Injected with PKC 0.7.3 MiYou 3.8.3 XNSP 2.2.5 Push",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-04-15/WeChat_8.0.58_PKC_0.7.3_MiYou_3.8.3_XNSP_2.2.5_Push_@repo.owo.network.ipa",
+     "size": 331907241
+    }
+   ]
+  }
+ ]
+}

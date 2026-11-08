@@ -1,0 +1,44 @@
+{
+ "name": "aa",
+ "identifier": "dev.perapp.com-aagame-aagame",
+ "subtitle": "ipaomtk.com | aa Game is a minimalist and addictive iOS game that challenges players with precision, timing, and focus. ",
+ "description": "Single-app source for aa (com.aagame.aagame). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/aa-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aagame.aagame",
+   "name": "aa",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | aa Game is a minimalist and addictive iOS game that challenges players with precision, timing, and focus. Known for its clean design and",
+   "localizedDescription": "ipaomtk.com | aa Game is a minimalist and addictive iOS game that challenges players with precision, timing, and focus. Known for its clean design and",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/aa-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1.8",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\n@riftysIPAlibrary | AA Game  Tweak: Premium Unlocked  Version: 7.1.8  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8840-AA%20Game-v7.1.8-riftysipas.ipa",
+     "size": 86029760
+    },
+    {
+     "version": "7.1.7",
+     "date": "2026-10-18T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | AA Game  Tweak: Premium Unlocked  Version: 7.1.7  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8419-AA%20Game-v7.1.7-riftysipas.ipa",
+     "size": 42912526
+    },
+    {
+     "version": "7.1.6",
+     "date": "2026-09-25T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | AA Game  Tweak: Premium Unlocked  Version: 7.1.6  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8082-AA%20Game-v7.1.6-riftysipas.ipa",
+     "size": 38598695
+    }
+   ]
+  }
+ ]
+}

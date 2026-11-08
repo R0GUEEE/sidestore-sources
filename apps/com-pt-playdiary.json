@@ -1,0 +1,30 @@
+{
+ "name": "PlayDiary",
+ "identifier": "dev.perapp.com-pt-playdiary",
+ "subtitle": "Tweaks: ziniteviplus",
+ "description": "Single-app source for PlayDiary (com.pt.playdiary). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.pt.playdiary.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pt.playdiary",
+   "name": "PlayDiary",
+   "developerName": "AppDB",
+   "subtitle": "Tweaks: ziniteviplus",
+   "localizedDescription": "Tweaks: ziniteviplus\n\nHDO Play's catalog under a slightly different UI. See app description for HDO Play\nLast updated: 11-10-2022\nStatus: ⚠️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.pt.playdiary.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Tweaks: ziniteviplus\n\nHDO Play's catalog under a slightly different UI. See app description for HDO Play Last updated: 11-10-2022 Status: ⚠️",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/Update/PlayDiary-1.1.0.ipa",
+     "size": 9147929
+    }
+   ]
+  }
+ ]
+}

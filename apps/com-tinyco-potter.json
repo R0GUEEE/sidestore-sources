@@ -1,0 +1,30 @@
+{
+ "name": "HPHogwartsMystery",
+ "identifier": "dev.perapp.com-tinyco-potter",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for HPHogwartsMystery (com.tinyco.potter). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tinyco.potter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tinyco.potter",
+   "name": "HPHogwartsMystery",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.tinyco.potter.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.9.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\n",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HPHogwartsMystery/HPHogwartsMystery-4.9.1.ipa",
+     "size": 134103479
+    }
+   ]
+  }
+ ]
+}

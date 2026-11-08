@@ -1,0 +1,30 @@
+{
+ "name": "AddRepo",
+ "identifier": "dev.perapp.cypwn-addrepo-1-0-2",
+ "subtitle": "App that can easily add repos to any package manager.",
+ "description": "Single-app source for AddRepo (cypwn.AddRepo.1.0.2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AddRepo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.AddRepo.1.0.2",
+   "name": "AddRepo",
+   "developerName": "AddRepo x CyPwn",
+   "subtitle": "App that can easily add repos to any package manager.",
+   "localizedDescription": "App that can easily add repos to any package manager.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AddRepo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "App that can easily add repos to any package manager.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/AddRepo.ipa",
+     "size": 2369781
+    }
+   ]
+  }
+ ]
+}

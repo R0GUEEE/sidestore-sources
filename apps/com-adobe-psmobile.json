@@ -1,0 +1,30 @@
+{
+ "name": "PSExpress",
+ "identifier": "dev.perapp.com-adobe-psmobile",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for PSExpress (com.adobe.PSMobile). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.PSMobile",
+   "name": "PSExpress",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.PSMobile.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.37.1",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/PSExpress_26.37.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 176197458
+    }
+   ]
+  }
+ ]
+}

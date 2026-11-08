@@ -1,0 +1,30 @@
+{
+ "name": "Galaxy Defense",
+ "identifier": "dev.perapp.com-cyberjoy-galaxydefense",
+ "subtitle": "ipaomtk.com | Galaxy Defense: Fortress IPA v0.11.5 As players navigate the asteroids and alien threats that litter the c",
+ "description": "Single-app source for Galaxy Defense (com.cyberjoy.galaxydefense). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Galaxy-Defense-Fortress-TD-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cyberjoy.galaxydefense",
+   "name": "Galaxy Defense",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Galaxy Defense: Fortress IPA v0.11.5 As players navigate the asteroids and alien threats that litter the cosmos, ‌the gravitational pull",
+   "localizedDescription": "ipaomtk.com | Galaxy Defense: Fortress IPA v0.11.5 As players navigate the asteroids and alien threats that litter the cosmos, ‌the gravitational pull",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Galaxy-Defense-Fortress-TD-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.5",
+     "date": "2025-05-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Galaxy Defense: Fortress IPA v0.11.5 As players navigate the asteroids and alien threats that litter the cosmos, ‌the gravitational pull",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Galaxy-Defense-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "doubleH3lix",
+ "identifier": "dev.perapp.org-tihmstar-doubleh3lix",
+ "subtitle": "ipaomtk.com | DoubleH3lix is a semi-untethered jailbreak application for 64-bit devices developed by Popular iOS App dev",
+ "description": "Single-app source for doubleH3lix (org.tihmstar.doubleH3lix). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/double-h3lix-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.tihmstar.doubleH3lix",
+   "name": "doubleH3lix",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | DoubleH3lix is a semi-untethered jailbreak application for 64-bit devices developed by Popular iOS App developer team siguza, Tihmstar, ",
+   "localizedDescription": "ipaomtk.com | DoubleH3lix is a semi-untethered jailbreak application for 64-bit devices developed by Popular iOS App developer team siguza, Tihmstar, ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/double-h3lix-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2023-07-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | DoubleH3lix is a semi-untethered jailbreak application for 64-bit devices developed by Popular iOS App developer team siguza, Tihmstar, ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/doubleH3lix.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Solitaire Associations Journey (hacked)",
+ "identifier": "dev.perapp.com-hitappsgames-wordsolitaire",
+ "subtitle": "Solitaire Associations Journey (hacked) by sidelix",
+ "description": "Single-app source for Solitaire Associations Journey (hacked) (com.hitappsgames.wordsolitaire). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a3705e07a77f.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hitappsgames.wordsolitaire",
+   "name": "Solitaire Associations Journey (hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Features:\r\n- in app purchase",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a3705e07a77f.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15.0",
+     "date": "2026-06-20T00:00:00Z",
+     "localizedDescription": "Features:\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2110",
+     "size": 145492892
+    }
+   ]
+  }
+ ]
+}

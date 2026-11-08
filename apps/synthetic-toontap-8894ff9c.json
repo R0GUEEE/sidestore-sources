@@ -1,0 +1,30 @@
+{
+ "name": "ToonTap",
+ "identifier": "dev.perapp.synthetic-toontap-8894ff9c",
+ "subtitle": "ToonTap by Karbin-Store",
+ "description": "Single-app source for ToonTap (synthetic.toontap.8894ff9c). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/ToonTap.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.toontap.8894ff9c",
+   "name": "ToonTap",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنەکان بە بەکارهێنانی زیرەکی دەستکرد",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/ToonTap.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.28",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنەکان بە بەکارهێنانی زیرەکی دەستکرد",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/ToonTap._1.28_1737215119.ipa",
+     "size": 36220000
+    }
+   ]
+  }
+ ]
+}

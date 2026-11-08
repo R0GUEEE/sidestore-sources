@@ -1,0 +1,40 @@
+{
+ "name": "D2R Mobile",
+ "identifier": "dev.perapp.org-d2rmobile-app",
+ "subtitle": "Diablo II: Resurrected on iPhone, iPad, Apple silicon Mac, Android and HarmonyOS. Offline play with touch or a controlle",
+ "description": "Single-app source for D2R Mobile (org.d2rmobile.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b84d28",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.d2rmobile.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.d2rmobile.app",
+   "name": "D2R Mobile",
+   "developerName": "d2r-mobile",
+   "subtitle": "Diablo II: Resurrected on iPhone, iPad, Apple silicon Mac, Android and HarmonyOS. Offline play with touch or a controller. One-tap Runewords, 100-level Greater Rifts and Reign of the Warlock. Native A",
+   "localizedDescription": "Diablo II: Resurrected on iPhone, iPad, Apple silicon Mac, Android and HarmonyOS. Offline play with touch or a controller. One-tap Runewords, 100-level Greater Rifts and Reign of the Warlock. Native ARM, Metal and Vulkan. Open source; bring your own Switch game files. 暗黑2重制版",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.d2rmobile.app.png",
+   "tintColor": "#b84d28",
+   "screenshots": [
+    "https://github.com/d2r-mobile/d2r-mobile/releases/download/assets/en_boss.jpg",
+    "https://github.com/d2r-mobile/d2r-mobile/releases/download/assets/ipad.jpg",
+    "https://github.com/d2r-mobile/d2r-mobile/releases/download/assets/act1.jpg",
+    "https://github.com/d2r-mobile/d2r-mobile/releases/download/assets/act2.jpg",
+    "https://github.com/d2r-mobile/d2r-mobile/releases/download/assets/act3.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-10-13T01:28:21Z",
+     "localizedDescription": "English:\n\nThis release fixes the v1.0 shell, which could not be packaged by anyone. If you downloaded D2RMobile-shell.ipa from v1.0, replace it with the one on this page and update the repository to this version.\n\nWhat changed:\n\n• The shell is now built from the public tree in a fresh working directory; it no longer asks for the prefetch list.\n• When the public tree has no prefetch list, the rewrite step now also removes any old copy left in the build output directory.\n• If the tool still finds an item it could not produce, the error now says the shell and the tool are from different versions and what to do.\n\nAssets:\n\n• D2RMobile-shell.ipa: the shell (for both iPhone and iPad). Its checksum is in SHA256SUMS.txt. Use it with the source of this version.\n\nNot verified (stated plainly):\n\n• This shell file has not been run on a device. The package made from it was written successfully on a Mac; it has not been signed and installed on a phone.\n• Everything listed as not verified in v1.0 still applies: sideloading tools (Sideloadly, AltStore, .), devices with 6 GB or 8 GB of RAM, A16 or older chips, .nsp game packages, packaging on Linux.",
+     "downloadURL": "https://github.com/d2r-mobile/d2r-mobile/releases/download/v1.0.1/D2RMobile-shell.ipa",
+     "size": 4435542
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

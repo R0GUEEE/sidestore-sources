@@ -1,0 +1,30 @@
+{
+ "name": "Beat Jumper",
+ "identifier": "dev.perapp.com-unknown-beatjumper",
+ "subtitle": "ئامانجت ئەوەیە تا دەتوانیت باز بدەیت. ڕاست یان چەپ بجوڵێ و بە شێوەیەکی ئۆتۆماتیکی لە... لێوارەکانی پلاتفۆرم لەکاتی گوێگر",
+ "description": "Single-app source for Beat Jumper (com.unknown.beatjumper). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Beat.Jumper.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.beatjumper",
+   "name": "Beat Jumper",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئامانجت ئەوەیە تا دەتوانیت باز بدەیت. ڕاست یان چەپ بجوڵێ و بە شێوەیەکی ئۆتۆماتیکی لە... لێوارەکانی پلاتفۆرم لەکاتی گوێگرتن لە ئاوازەکاندا گرتنی ڕیتم و",
+   "localizedDescription": "ئامانجت ئەوەیە تا دەتوانیت باز بدەیت. ڕاست یان چەپ بجوڵێ و بە شێوەیەکی ئۆتۆماتیکی لە... لێوارەکانی پلاتفۆرم لەکاتی گوێگرتن لە ئاوازەکاندا گرتنی ڕیتم و",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Beat.Jumper.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.4",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "ئامانجت ئەوەیە تا دەتوانیت باز بدەیت. ڕاست یان چەپ بجوڵێ و بە شێوەیەکی ئۆتۆماتیکی لە... لێوارەکانی پلاتفۆرم لەکاتی گوێگرتن لە ئاوازەکاندا گرتنی ڕیتم و",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Beat.Jumper._2.8.4_1737320253.ipa",
+     "size": 57780000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "MagicTiles",
+ "identifier": "dev.perapp.synthetic-magictiles-e4d4ea79",
+ "subtitle": "MagicTiles by Karbin-Store",
+ "description": "Single-app source for MagicTiles (synthetic.magictiles.e4d4ea79). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/MagicTiles.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.magictiles.e4d4ea79",
+   "name": "MagicTiles",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/MagicTiles.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.113",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/MagicTiles3-v11.113.101.ipa",
+     "size": 142120000
+    }
+   ]
+  }
+ ]
+}

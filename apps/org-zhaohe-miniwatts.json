@@ -1,0 +1,44 @@
+{
+ "name": "MiniWatts",
+ "identifier": "dev.perapp.org-zhaohe-miniwatts",
+ "subtitle": "MiniWatts:  English · 简体中文.  An iPhone and iPad battery and charging monitor built on Apple's private APIs. It reads the",
+ "description": "Single-app source for MiniWatts (org.zhaohe.MiniWatts). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.zhaohe.MiniWatts.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.zhaohe.MiniWatts",
+   "name": "MiniWatts",
+   "developerName": "ResistanceTo",
+   "subtitle": "MiniWatts:  English · 简体中文.  An iPhone and iPad battery and charging monitor built on Apple's private APIs. It reads the device's own power-management",
+   "localizedDescription": "MiniWatts:  English · 简体中文.  An iPhone and iPad battery and charging monitor built on Apple's private APIs. It reads the device's own power-management\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.zhaohe.MiniWatts.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "An iPhone battery and charging monitor built on Apple's private APIs: the charger's real watts, how much of that reaches the cell, where the rest…",
+     "downloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.7.0/MiniWatts-unsigned.ipa",
+     "size": 3374224
+    },
+    {
+     "version": "1.6.0",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "An iPhone battery and charging monitor built on Apple's private APIs: the charger's real watts, how much of that reaches the cell, where the rest goes",
+     "downloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.6.0/MiniWatts-unsigned.ipa",
+     "size": 3332420
+    },
+    {
+     "version": "1.5.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "MiniWatts:  English · 简体中文.  An iPhone and iPad battery and charging monitor built on Apple's private APIs. It reads the device's own power-management",
+     "downloadURL": "https://github.com/ResistanceTo/MiniWatts/releases/download/v1.5.1/MiniWatts-unsigned.ipa",
+     "size": 3305290
+    }
+   ]
+  }
+ ]
+}

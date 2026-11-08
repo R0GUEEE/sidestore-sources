@@ -1,0 +1,44 @@
+{
+ "name": "INTVL",
+ "identifier": "dev.perapp.com-intvl-app",
+ "subtitle": "@riftysIPAlibrary | INTVL  Tweak: Gold Unlocked  Version: 4.0.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️",
+ "description": "Single-app source for INTVL (com.intvl.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7099.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.intvl.app",
+   "name": "INTVL",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | INTVL  Tweak: Gold Unlocked  Version: 4.0.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 17.0 Bundle ",
+   "localizedDescription": "@riftysIPAlibrary | INTVL  Tweak: Gold Unlocked  Version: 4.0.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 17.0 Bundle ",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7099.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.1",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | INTVL  Tweak: Gold Unlocked  Version: 4.1.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 17.0 Bundle ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8835-INTVL-v4.1.1-riftysipas.ipa",
+     "size": 89592131
+    },
+    {
+     "version": "4.1.0",
+     "date": "2026-10-05T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | INTVL  Tweak: Gold Unlocked  Version: 4.1.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 17.0 Bundle ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8226-INTVL-v4.1.0-riftysipas.ipa",
+     "size": 84458408
+    },
+    {
+     "version": "4.0.9",
+     "date": "2026-09-28T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | INTVL  Tweak: Gold Unlocked  Version: 4.0.9  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 17.0 Bundle ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8109-INTVL-v4.0.9-riftysipas.ipa",
+     "size": 81255475
+    }
+   ]
+  }
+ ]
+}

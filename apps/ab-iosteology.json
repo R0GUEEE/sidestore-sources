@@ -1,0 +1,37 @@
+{
+ "name": "EasyAnatomy3D",
+ "identifier": "dev.perapp.ab-iosteology",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for EasyAnatomy3D (AB.iOsteology). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
+ "apps": [
+  {
+   "bundleIdentifier": "AB.iOsteology",
+   "name": "EasyAnatomy3D",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/AB.iOsteology.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.40.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/EasyAnatomy3D_5.40.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 1411225367
+    },
+    {
+     "version": "5.24.2",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Learning human anatomy has never been easier or more interactive than with Easy Anatomy 3D IPA MOD, the cutting-edge educational app des",
+     "downloadURL": "https://file.ipaomtk.com/ipa/EasyAnatomy3D_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

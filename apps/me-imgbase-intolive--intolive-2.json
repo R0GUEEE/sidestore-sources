@@ -1,0 +1,44 @@
+{
+ "name": "intoLive",
+ "identifier": "dev.perapp.me-imgbase-intolive",
+ "subtitle": "intoLive",
+ "description": "Single-app source for intoLive (me.imgbase.intolive). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.imgbase.intolive",
+   "name": "intoLive",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.4.1",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1639",
+     "size": 147137911
+    },
+    {
+     "version": "4.3.5",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/intoLive_4.3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 135695270
+    },
+    {
+     "version": "4.3.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: IntoLive - Live Wallpapers\n\nTweak: Subscription Unlocked\n\nVersion: 4.3.4\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/2ecdfc25-ce27-43c2-a2d3-c75a412465db/intoLive_-_Live_Wallpapers-v4.3.4-riftysipas.ipa",
+     "size": 135725289
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "JournalCircle",
+ "identifier": "dev.perapp.com-genau-journalcircle",
+ "subtitle": "JournalCircle",
+ "description": "Single-app source for JournalCircle (com.genau.JournalCircle). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.genau.JournalCircle",
+   "name": "JournalCircle",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.genau.JournalCircle.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.9",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Discover JournalCircle, a journaling app featured on the App Store across multiple regions. JournalCircle combines AI-powered journaling, voice notes, mood tracking, and entry analysis to help you record your daily life with clarity. Users often mention that the clean, beautiful design makes them want to journal more consistently.\r\n\r\nJournalCircle is a journaling and life log app designed to manage your diary, mood, routines, goals, and daily records in one place.\r\n\r\nAI-powered journaling tools\r\nJournalCircle offers a range of AI features including voice journaling, AI-generated prompts, and automatic entry analysis to help you reflect more easily and understand patterns in your thoughts and emotions.\r\n\r\nVoice journaling and smart analysis\r\nReco",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2219",
+     "size": 19971976
+    },
+    {
+     "version": "3.1.1",
+     "date": "2026-01-20T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/JournalCircle_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 12499289
+    },
+    {
+     "version": "3.0.8",
+     "date": "2025-12-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/JournalCircle_3.0.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 12486664
+    }
+   ]
+  }
+ ]
+}

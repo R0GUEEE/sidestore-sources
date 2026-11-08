@@ -1,0 +1,37 @@
+{
+ "name": "Romance Club",
+ "identifier": "dev.perapp.com-yourstoryinteractive-sails-pirate-adventure",
+ "subtitle": "@ipa_dark | 🔄 Клуб Романтики - Мои Истории   🇷🇺 Интерактивные новеллы, где вы сами выбираете развитие сюжета. Вас ждут л",
+ "description": "Single-app source for Romance Club (com.yourstoryinteractive.sails.pirate.adventure). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1650.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yourstoryinteractive.sails.pirate.adventure",
+   "name": "Romance Club",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Клуб Романтики - Мои Истории   🇷🇺 Интерактивные новеллы, где вы сами выбираете развитие сюжета. Вас ждут любовные драмы, приключения и м",
+   "localizedDescription": "@ipa_dark | 🔄 Клуб Романтики - Мои Истории   🇷🇺 Интерактивные новеллы, где вы сами выбираете развитие сюжета. Вас ждут любовные драмы, приключения и м",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1650.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.59500",
+     "date": "2026-10-12T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Клуб Романтики - Мои Истории   🇷🇺 Интерактивные новеллы, где вы сами выбираете развитие сюжета. Вас ждут любовные драмы, приключения и м",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1811-Romance%20Club%20%5Bv57500%5D%28tg@ipa_dark%29.ipa",
+     "size": 78807976
+    },
+    {
+     "version": "1.0.57500",
+     "date": "2026-08-18T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Клуб Романтики - Мои Истории   🇷🇺 Интерактивные новеллы, где вы сами выбираете развитие сюжета. Вас ждут любовные драмы, приключения и м",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1650-Romance%20Club%20%5Bv57500%5D%28tg@ipa_dark%29.ipa",
+     "size": 74705471
+    }
+   ]
+  }
+ ]
+}

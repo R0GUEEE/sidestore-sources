@@ -1,0 +1,30 @@
+{
+ "name": "InCollage",
+ "identifier": "dev.perapp.photoeditor-photocollage-incollage",
+ "subtitle": "InCollage",
+ "description": "Single-app source for InCollage (PhotoEditor.PhotoCollage.inCollage). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
+ "apps": [
+  {
+   "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
+   "name": "InCollage",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.81",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/InCollage_2.2.81_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 102910743
+    }
+   ]
+  }
+ ]
+}

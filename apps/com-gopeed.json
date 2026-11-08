@@ -1,0 +1,30 @@
+{
+ "name": "Gopeed_1.5.6",
+ "identifier": "dev.perapp.com-gopeed",
+ "subtitle": "A modern download manager.",
+ "description": "Single-app source for Gopeed_1.5.6 (com.gopeed). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Gopeed_1.5.6.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gopeed",
+   "name": "Gopeed_1.5.6",
+   "developerName": "Gopeed_1.5.6 x CyPwn",
+   "subtitle": "A modern download manager.",
+   "localizedDescription": "A modern download manager.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Gopeed_1.5.6.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.6",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "A modern download manager.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Gopeed_1.5.6.ipa",
+     "size": 86717235
+    }
+   ]
+  }
+ ]
+}

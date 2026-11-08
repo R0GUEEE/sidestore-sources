@@ -1,0 +1,44 @@
+{
+ "name": "NBv68279",
+ "identifier": "dev.perapp.nt-nb-ios",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for NBv68279 (nt.nb.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nt.nb.ios",
+   "name": "NBv68279",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nb.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "69.252",
+     "date": "2026-10-16T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Nulls Brawl  🇷🇺 Модифицированная версия популярной игры Brawl Stars с расширенными возможностями. Предоставляет доступ к новым персонажа",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1818-Nulls%20Brawl%20%5Bv69.252%5D%28tg@ipa_dark%29.ipa",
+     "size": 1240313230
+    },
+    {
+     "version": "68.279",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/NBv68279_68.279_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 1124995576
+    },
+    {
+     "version": "64.226",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-11-2025/NBv64226_64.226_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 924599927
+    }
+   ]
+  }
+ ]
+}

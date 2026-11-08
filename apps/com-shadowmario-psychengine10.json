@@ -1,0 +1,30 @@
+{
+ "name": "Friday Night Funkin: Psych Engine 1.0",
+ "identifier": "dev.perapp.com-shadowmario-psychengine10",
+ "subtitle": "Psych Engine: Open Source FNF Engine",
+ "description": "Single-app source for Friday Night Funkin: Psych Engine 1.0 (com.shadowmario.psychengine10). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "6633cc",
+ "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shadowmario.psychengine10",
+   "name": "Friday Night Funkin: Psych Engine 1.0",
+   "developerName": "ShadowMario & MobilePorting",
+   "subtitle": "Psych Engine: Open Source FNF Engine",
+   "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/funkin-R6.png",
+   "tintColor": "6633cc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-10-26T00:00:00Z",
+     "localizedDescription": "Friday Night Funkin' Engine originally used on Mind Games Mod, intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it.\nAlso aiming to be an easier alternative to newbie coders\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Psych_Engine_v1_0-nN.ipa",
+     "size": 328896512
+    }
+   ]
+  }
+ ]
+}

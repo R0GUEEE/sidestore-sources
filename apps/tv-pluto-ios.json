@@ -1,0 +1,37 @@
+{
+ "name": "Pluto TV",
+ "identifier": "dev.perapp.tv-pluto-ios",
+ "subtitle": "ipaomtk.com | Pluto TV IPA v5.59.1 is a free streaming service that offers a unique blend of live TV channels and on-dem",
+ "description": "Single-app source for Pluto TV (tv.pluto.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Pluto-TV-Watch-MoviesLive-TV.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.pluto.ios",
+   "name": "Pluto TV",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Pluto TV IPA v5.59.1 is a free streaming service that offers a unique blend of live TV channels and on-demand content. Available as a mo",
+   "localizedDescription": "ipaomtk.com | Pluto TV IPA v5.59.1 is a free streaming service that offers a unique blend of live TV channels and on-demand content. Available as a mo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Pluto-TV-Watch-MoviesLive-TV.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.60",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pluto TV IPA v5.59.1 is a free streaming service that offers a unique blend of live TV channels and on-demand content. Available as a mo",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Pluto_TV_Watch_MoviesLive_TV-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    },
+    {
+     "version": "5.32",
+     "date": "2023-04-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pluto TV IPA online media streaming platforms instead of the classic “plug and play” television. One of the most popular streaming platf",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Plut-TV.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

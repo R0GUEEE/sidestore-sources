@@ -1,0 +1,44 @@
+{
+ "name": "Motobit",
+ "identifier": "dev.perapp.com-getmotobit-motobit",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Motobit (com.getmotobit.motobit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.getmotobit.motobit",
+   "name": "Motobit",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmotobit.motobit.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.52",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Motobit_1.0.52_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 44229148
+    },
+    {
+     "version": "1.0.56",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-01-2026/Motobit_1.0.56_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 40387384
+    },
+    {
+     "version": "1.0.51",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-11-2025/Motobit_1.0.51_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 44229396
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "FoundIt",
+ "identifier": "dev.perapp.games-urmobi-found-it",
+ "subtitle": "FoundIt",
+ "description": "Single-app source for FoundIt (games.urmobi.found.it). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png",
+ "apps": [
+  {
+   "bundleIdentifier": "games.urmobi.found.it",
+   "name": "FoundIt",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/games.urmobi.found.it.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.61.80",
+     "date": "2025-12-30T00:00:00Z",
+     "localizedDescription": "Injected with noads",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/FoundIt_1.61.80_noads_%40thisismanpreets_apptesters.org.ipa",
+     "size": 324624330
+    }
+   ]
+  }
+ ]
+}

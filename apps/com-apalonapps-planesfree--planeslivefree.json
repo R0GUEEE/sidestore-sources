@@ -1,0 +1,44 @@
+{
+ "name": "PlanesLiveFree",
+ "identifier": "dev.perapp.com-apalonapps-planesfree",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for PlanesLiveFree (com.apalonapps.planesfree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.planesfree",
+   "name": "PlanesLiveFree",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.planesfree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.10.59",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "@blatants | Planes Live - Flight Tracker  • Bundle ID: com.apalonapps.planesfree • Updated to: 3.10.59 • Minimum iOS: 13.0 • Patched • Modifier: Subsc",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12417-Planes_Live_Flight_Tracker_v3_10_59_Subscription_Unlocked_blatant.ipa",
+     "size": 128634185
+    },
+    {
+     "version": "3.10.51",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-09-2025/PlanesLiveFree_3.10.51_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 113853331
+    },
+    {
+     "version": "3.10.54",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-12-2025/PlanesLiveFree_3.10.54_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 129562333
+    }
+   ]
+  }
+ ]
+}

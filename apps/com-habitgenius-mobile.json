@@ -1,0 +1,30 @@
+{
+ "name": "HabitGenius",
+ "identifier": "dev.perapp.com-habitgenius-mobile",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for HabitGenius (com.habitgenius.mobile). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/15643.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.habitgenius.mobile",
+   "name": "HabitGenius",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "@Sa1y0miii | Habit Tracker - HabitGenius 🧸 Min.iOS: [16.1+] 🧀 App version: [4.1.0] !upd 🪼 App Store: https://apps.apple.com/app/id6466812469 📮 Notes:\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/15643.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.0",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Habit Tracker - HabitGenius 🧸 Min.iOS: [16.1+] 🧀 App version: [4.1.0] !upd 🪼 App Store: https://apps.apple.com/app/id6466812469 📮 Notes: ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15643-%E2%80%8EHabit%20Tracker_v4.1.0_tg@Sa1y0miii.ipa",
+     "size": 57659924
+    }
+   ]
+  }
+ ]
+}

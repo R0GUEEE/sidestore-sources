@@ -1,0 +1,37 @@
+{
+ "name": "Futbin",
+ "identifier": "dev.perapp.com-futbin",
+ "subtitle": "ipaomtk.com | Introduction FUTBIN FC 26 Evolutions IPA is a highly popular companion-style iOS application created for f",
+ "description": "Single-app source for Futbin (com.futbin). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Futbin-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.futbin",
+   "name": "Futbin",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction FUTBIN FC 26 Evolutions IPA is a highly popular companion-style iOS application created for football fans who want deeper i",
+   "localizedDescription": "ipaomtk.com | Introduction FUTBIN FC 26 Evolutions IPA is a highly popular companion-style iOS application created for football fans who want deeper i",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Futbin-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.1.6",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction FUTBIN FC 26 Evolutions IPA is a highly popular companion-style iOS application created for football fans who want deeper i",
+     "downloadURL": "https://file.ipaomtk.com/futbin-ipa/Futbin-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "9.0.2",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "Tweaks: NoAds-AB, ADsBlocker, adblocker\n\nipaomtk.com | Introduction FUTBIN FC 26 Evolutions IPA is a highly popular companion-style iOS application created for football fans who want deeper i",
+     "downloadURL": "https://file.ipaomtk.com/futbin-ipa/Futbin-IPAOMTK.COM.ipa",
+     "size": 153663378
+    }
+   ]
+  }
+ ]
+}

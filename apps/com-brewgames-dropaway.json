@@ -1,0 +1,37 @@
+{
+ "name": "Drop Away",
+ "identifier": "dev.perapp.com-brewgames-dropaway",
+ "subtitle": "ipaomtk.com | Drop Away: Color Puzzle on iOS is a casual puzzle game that focuses on color matching and logical thinking",
+ "description": "Single-app source for Drop Away (com.brewgames.dropaway). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Drop-Away-Color-Puzzle-IPA-v1.16.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.brewgames.dropaway",
+   "name": "Drop Away",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Drop Away: Color Puzzle on iOS is a casual puzzle game that focuses on color matching and logical thinking. Designed for short but engag",
+   "localizedDescription": "ipaomtk.com | Drop Away: Color Puzzle on iOS is a casual puzzle game that focuses on color matching and logical thinking. Designed for short but engag",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Drop-Away-Color-Puzzle-IPA-v1.16.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.16.2",
+     "date": "2026-03-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Drop Away: Color Puzzle on iOS is a casual puzzle game that focuses on color matching and logical thinking. Designed for short but engag",
+     "downloadURL": "https://file.ipaomtk.com/Drop-Away-Color-Puzzle/Drop-Away-Color-Puzzle-ipaomtk.com.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.33.0",
+     "date": "2026-03-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Drop Away: Color Puzzle on iOS is a casual puzzle game that focuses on color matching and logical thinking. Designed for short but engag",
+     "downloadURL": "https://file.ipaomtk.com/Drop-Away-Color-Puzzle/Drop-Away-Color-Puzzle-ipaomtk.com.ipa",
+     "size": 195085144
+    }
+   ]
+  }
+ ]
+}

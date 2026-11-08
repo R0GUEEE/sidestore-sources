@@ -1,0 +1,30 @@
+{
+ "name": "PunBall",
+ "identifier": "dev.perapp.com-habby-punball",
+ "subtitle": "ipaomtk.com | Pun Ball IPA 5.7.1 the ultimate app for pun lovers. This addictive game combines wordplay and physics-base",
+ "description": "Single-app source for PunBall (com.habby.punball). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/PunBall--150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.habby.punball",
+   "name": "PunBall",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Pun Ball IPA 5.7.1 the ultimate app for pun lovers. This addictive game combines wordplay and physics-based puzzles to create a unique g",
+   "localizedDescription": "ipaomtk.com | Pun Ball IPA 5.7.1 the ultimate app for pun lovers. This addictive game combines wordplay and physics-based puzzles to create a unique g",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/PunBall--150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.7.1",
+     "date": "2023-04-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pun Ball IPA 5.7.1 the ultimate app for pun lovers. This addictive game combines wordplay and physics-based puzzles to create a unique g",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Pun-Ball-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

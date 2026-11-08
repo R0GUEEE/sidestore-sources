@@ -1,0 +1,30 @@
+{
+ "name": "OpusVpn",
+ "identifier": "dev.perapp.com-unknown-opusvpn",
+ "subtitle": "OpusVpn by Karbin-Store",
+ "description": "Single-app source for OpusVpn (com.unknown.opusvpn). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/OpusVpn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.opusvpn",
+   "name": "OpusVpn",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/OpusVpn.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.7",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/opusvpn.-.v1.8.7.ipa",
+     "size": 13210000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "RenovateAI",
+ "identifier": "dev.perapp.app-renovateai",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for RenovateAI (app.renovateai). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.renovateai",
+   "name": "RenovateAI",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.renovateai.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@ipavault | Pro Unlocked  Build by @ipavault  Need a certificate? 📲 Support me on Ko-Fi 😘",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1120-Renovate%20AI%205.6.0%20%28Pro%29%20%5B@ipavault%5D.ipa",
+     "size": 67093169
+    },
+    {
+     "version": "5.5.0",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@ipavault | Pro Unlocked  Build by @ipavault  Need a certificate? Support me here 😘",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1046-Renovate%20AI%205.5.0%20%28Pro%29%20%5B@ipavault%5D.ipa",
+     "size": 66900342
+    },
+    {
+     "version": "4.4.57",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-08-2025/RenovateAI_4.4.57_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 55089017
+    }
+   ]
+  }
+ ]
+}

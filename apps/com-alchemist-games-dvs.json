@@ -1,0 +1,30 @@
+{
+ "name": "DragonVillageSurvival",
+ "identifier": "dev.perapp.com-alchemist-games-dvs",
+ "subtitle": "ipaomtk.com | Dragon Survival IPA the survival of the fittest takes on a whole new meaning. Welcome to the realm of drag",
+ "description": "Single-app source for DragonVillageSurvival (com.alchemist.games.dvs). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Dragon-Survival-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alchemist.games.dvs",
+   "name": "DragonVillageSurvival",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Dragon Survival IPA the survival of the fittest takes on a whole new meaning. Welcome to the realm of dragons, Dragon Survival IPA where",
+   "localizedDescription": "ipaomtk.com | Dragon Survival IPA the survival of the fittest takes on a whole new meaning. Welcome to the realm of dragons, Dragon Survival IPA where",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/Dragon-Survival-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.120",
+     "date": "2024-01-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Dragon Survival IPA the survival of the fittest takes on a whole new meaning. Welcome to the realm of dragons, Dragon Survival IPA where",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Dragon-Village.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

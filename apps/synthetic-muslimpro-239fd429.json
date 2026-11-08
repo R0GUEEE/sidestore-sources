@@ -1,0 +1,30 @@
+{
+ "name": "MuslimPro",
+ "identifier": "dev.perapp.synthetic-muslimpro-239fd429",
+ "subtitle": "MuslimPro by Karbin-Store",
+ "description": "Single-app source for MuslimPro (synthetic.muslimpro.239fd429). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/MuslimPro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.muslimpro.239fd429",
+   "name": "MuslimPro",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": " inject Pro",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/MuslimPro.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.10",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": " inject Pro",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Muslim.Pro.ipa",
+     "size": 143110000
+    }
+   ]
+  }
+ ]
+}

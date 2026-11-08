@@ -1,0 +1,39 @@
+{
+ "name": "Discord_228.1_Pyoncord",
+ "identifier": "dev.perapp.com-hammerandchisel-discord",
+ "subtitle": "Discord_228.1_Pyoncord by Discord_228.1_Pyoncord x CyPwn",
+ "description": "Single-app source for Discord_228.1_Pyoncord (com.hammerandchisel.discord). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Discord_228.1_Pyoncord_DiscordNoTrack.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hammerandchisel.discord",
+   "name": "Discord_228.1_Pyoncord",
+   "developerName": "Discord_228.1_Pyoncord x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Discord mod.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Discord_228.1_Pyoncord_DiscordNoTrack.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Discord_228.1_Pyoncord/Discord_228.1_Pyoncord_DiscordNoTrack-0.png"
+   ],
+   "versions": [
+    {
+     "version": "228.1",
+     "date": "2024-05-10T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Discord_228.1_Pyoncord_DiscordNoTrack.ipa",
+     "size": 99425976
+    },
+    {
+     "version": "224.0",
+     "date": "2024-04-10T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Bunny_Pyoncord_224.0.ipa",
+     "size": 96856965
+    }
+   ]
+  }
+ ]
+}

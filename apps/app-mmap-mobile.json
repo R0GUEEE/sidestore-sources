@@ -1,0 +1,30 @@
+{
+ "name": "Soundmap",
+ "identifier": "dev.perapp.app-mmap-mobile",
+ "subtitle": "Tweaks: adspeed",
+ "description": "Single-app source for Soundmap (app.mmap.mobile). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.mmap.mobile",
+   "name": "Soundmap",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: adspeed",
+   "localizedDescription": "Tweaks: adspeed\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.mmap.mobile.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.4",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: adspeed\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Soundmap_2.7.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 54949591
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "AGADAH",
+ "identifier": "dev.perapp.com-headupgames-agadah",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for AGADAH (com.headupgames.agadah). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headupgames.agadah.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.headupgames.agadah",
+   "name": "AGADAH",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.headupgames.agadah.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/AGADAH_1.2_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 289174190
+    }
+   ]
+  }
+ ]
+}

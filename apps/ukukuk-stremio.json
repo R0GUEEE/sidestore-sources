@@ -1,0 +1,30 @@
+{
+ "name": "Stermio : Watch & Enjoy",
+ "identifier": "dev.perapp.ukukuk-stremio",
+ "subtitle": "Stermio : Watch & Enjoy by sidelix",
+ "description": "Single-app source for Stermio : Watch & Enjoy (ukukuk.Stremio). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a2d7cc1a004f.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "ukukuk.Stremio",
+   "name": "Stermio : Watch & Enjoy",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Stermio is a modern video local that makes it easy to watch your content in one place. Import videos from the Files app or Photos, watch from links, and enjoy smooth playback in a clean, premium interface.\r\n\r\nBuilt for everyday viewing, Stermio helps you organize your library, quickly reopen recent videos, and keep watching with intuitive controls.",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a2d7cc1a004f.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.0b14",
+     "date": "2026-06-13T00:00:00Z",
+     "localizedDescription": "Stermio is a modern video local that makes it easy to watch your content in one place. Import videos from the Files app or Photos, watch from links, and enjoy smooth playback in a clean, premium interface.\r\n\r\nBuilt for everyday viewing, Stermio helps you organize your library, quickly reopen recent videos, and keep watching with intuitive controls.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2043",
+     "size": 79443174
+    }
+   ]
+  }
+ ]
+}

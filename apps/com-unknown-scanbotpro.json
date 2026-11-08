@@ -1,0 +1,30 @@
+{
+ "name": "Scanbot PRO",
+ "identifier": "dev.perapp.com-unknown-scanbotpro",
+ "subtitle": "بەرنامەیەک تایبەت بە وێنەگرتنی کتێب و نوسینی سەر وەرەقە بەشێوەیەکی زۆر پڕۆفیشناڵ",
+ "description": "Single-app source for Scanbot PRO (com.unknown.scanbotpro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Scanbot.PRO.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.scanbotpro",
+   "name": "Scanbot PRO",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک تایبەت بە وێنەگرتنی کتێب و نوسینی سەر وەرەقە بەشێوەیەکی زۆر پڕۆفیشناڵ",
+   "localizedDescription": "بەرنامەیەک تایبەت بە وێنەگرتنی کتێب و نوسینی سەر وەرەقە بەشێوەیەکی زۆر پڕۆفیشناڵ",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Scanbot.PRO.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.3.0",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک تایبەت بە وێنەگرتنی کتێب و نوسینی سەر وەرەقە بەشێوەیەکی زۆر پڕۆفیشناڵ",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/Scanbot.PRO.9.3.0.ipa",
+     "size": 150880000
+    }
+   ]
+  }
+ ]
+}

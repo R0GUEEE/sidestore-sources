@@ -1,0 +1,30 @@
+{
+ "name": "Temp Mail",
+ "identifier": "dev.perapp.com-tempmail-ios",
+ "subtitle": "ipaomtk.com | Temp Mail-Temporary Email IPA, access to the Internet brings multiple possibilities to our fingertips. Unf",
+ "description": "Single-app source for Temp Mail (com.tempmail.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/temp-mail-temporary-email-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tempmail.ios",
+   "name": "Temp Mail",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Temp Mail-Temporary Email IPA, access to the Internet brings multiple possibilities to our fingertips. Unfortunately, it opens a door to",
+   "localizedDescription": "ipaomtk.com | Temp Mail-Temporary Email IPA, access to the Internet brings multiple possibilities to our fingertips. Unfortunately, it opens a door to",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/temp-mail-temporary-email-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2",
+     "date": "2023-08-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Temp Mail-Temporary Email IPA, access to the Internet brings multiple possibilities to our fingertips. Unfortunately, it opens a door to",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Temp-Mail.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

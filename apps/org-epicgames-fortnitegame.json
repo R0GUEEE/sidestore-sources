@@ -1,0 +1,44 @@
+{
+ "name": "Fortnite",
+ "identifier": "dev.perapp.org-epicgames-fortnitegame",
+ "subtitle": "Fortnite - Funny shooter game",
+ "description": "Single-app source for Fortnite (org.epicgames.FortniteGame). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "b036e6",
+ "iconURL": "https://cdn.omnidev.org/Fortnite_Main-Mj.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.epicgames.FortniteGame",
+   "name": "Fortnite",
+   "developerName": "Epic Games",
+   "subtitle": "Fortnite - Funny shooter game",
+   "localizedDescription": "Sideloading allows for this to be played outside of the EU! Requires special entitlemments to run. These include: Extended Virtual Addressing & Increased Memory Limit.\n\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/Fortnite_Main-Mj.png",
+   "tintColor": "b036e6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "32.10.1",
+     "date": "2024-11-13T00:00:00Z",
+     "localizedDescription": "* Allow editing files from the Files app\n* Remove Device Restriction",
+     "downloadURL": "https://cdn.omnidev.org/Fortnite_32_10_1-8F.ipa",
+     "size": 252227584
+    },
+    {
+     "version": "32.00.2",
+     "date": "2024-11-06T00:00:00Z",
+     "localizedDescription": "* Allow editing files from the Files app\n* Remove Device Restriction",
+     "downloadURL": "https://cdn.omnidev.org/Fortnite_32_00_2-Dt.ipa",
+     "size": 251150336
+    },
+    {
+     "version": "32.00",
+     "date": "2024-11-04T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/Fortnite_32_00-Mi.ipa",
+     "size": 251158528
+    }
+   ]
+  }
+ ]
+}

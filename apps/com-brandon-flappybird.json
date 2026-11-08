@@ -1,0 +1,30 @@
+{
+ "name": "Flappy Bird",
+ "identifier": "dev.perapp.com-brandon-flappybird",
+ "subtitle": "Flap your wings and avoid hitting the pipes! Who can beat his own Record?",
+ "description": "Single-app source for Flappy Bird (com.brandon.flappybird). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://bunduuk.github.io/altstore-source/img/FlappyBird/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.brandon.flappybird",
+   "name": "Flappy Bird",
+   "developerName": "unknown",
+   "subtitle": "Flap your wings and avoid hitting the pipes! Who can beat his own Record?",
+   "localizedDescription": "Flap your wings and avoid hitting the pipes! Who can beat his own Record?",
+   "iconURL": "https://bunduuk.github.io/altstore-source/img/FlappyBird/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "Flap your wings and avoid hitting the pipes! Who can beat his own Record?",
+     "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/FlappyBird/FlappyBird.ipa?raw=true",
+     "size": 66416640
+    }
+   ]
+  }
+ ]
+}

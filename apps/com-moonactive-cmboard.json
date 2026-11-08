@@ -1,0 +1,30 @@
+{
+ "name": "Board Adventure",
+ "identifier": "dev.perapp.com-moonactive-cmboard",
+ "subtitle": "@ipa_dark | 🔄 Coin Master - Board Adventure  🇷🇺 Казуальная игра, в которой нужно вращать игровой автомат, собирать монет",
+ "description": "Single-app source for Board Adventure (com.moonactive.cmboard). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1621.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.moonactive.cmboard",
+   "name": "Board Adventure",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Coin Master - Board Adventure  🇷🇺 Казуальная игра, в которой нужно вращать игровой автомат, собирать монеты, строить и улучшать деревни,",
+   "localizedDescription": "@ipa_dark | 🔄 Coin Master - Board Adventure  🇷🇺 Казуальная игра, в которой нужно вращать игровой автомат, собирать монеты, строить и улучшать деревни,",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1621.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.5.2590",
+     "date": "2026-07-25T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Coin Master - Board Adventure  🇷🇺 Казуальная игра, в которой нужно вращать игровой автомат, собирать монеты, строить и улучшать деревни,",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1621-Coin%20Master%20-%20Board%20Adventure%20%5Bv3.5.2590%5D%28tg@ipa_dark%29.ipa",
+     "size": 127183823
+    }
+   ]
+  }
+ ]
+}

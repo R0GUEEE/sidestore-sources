@@ -1,0 +1,44 @@
+{
+ "name": "Instories",
+ "identifier": "dev.perapp.ylee-studio-instories",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Instories (ylee.studio.instories). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ylee.studio.instories.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ylee.studio.instories",
+   "name": "Instories",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ylee.studio.instories.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.62.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is. Last updated: 08-12-2024 Stat",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstoriesPro/InstoriesPro-5.62.0.ipa",
+     "size": 208466495
+    },
+    {
+     "version": "5.60.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is. Last updated: 08-12-2024 Stat",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstoriesPro/InstoriesPro-5.60.0.ipa",
+     "size": 207800804
+    },
+    {
+     "version": "5.57.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "App to make professional designs effortlessly with Instories through just a few taps. A user requested it so here it is. Last updated: 08-12-2024 Stat",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/InstoriesPro/InstoriesPro-5.57.0.ipa",
+     "size": 207567660
+    }
+   ]
+  }
+ ]
+}

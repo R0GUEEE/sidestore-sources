@@ -1,0 +1,30 @@
+{
+ "name": "GIF Maker",
+ "identifier": "dev.perapp.com-unknown-gifmaker",
+ "subtitle": "بەرنامەیەک بۆ دروستکردنی وێنەی ئەنیمەیشنی GIF",
+ "description": "Single-app source for GIF Maker (com.unknown.gifmaker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Gif.Maker.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.gifmaker",
+   "name": "GIF Maker",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک بۆ دروستکردنی وێنەی ئەنیمەیشنی GIF",
+   "localizedDescription": "بەرنامەیەک بۆ دروستکردنی وێنەی ئەنیمەیشنی GIF",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Gif.Maker.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.260",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ دروستکردنی وێنەی ئەنیمەیشنی GIF",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/GIF.Maker_1.1.260_DEV.ipa",
+     "size": 12330000
+    }
+   ]
+  }
+ ]
+}

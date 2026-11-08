@@ -1,0 +1,36 @@
+{
+ "name": "Crunchyroll++",
+ "identifier": "dev.perapp.com-crunchyroll-iphone",
+ "subtitle": "The Ad-Free Anime you've been looking for.",
+ "description": "Single-app source for Crunchyroll++ (com.crunchyroll.iphone). Converted from quantumsource.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f47521",
+ "iconURL": "https://i.imgur.com/qM7e1Ey.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crunchyroll.iphone",
+   "name": "Crunchyroll++",
+   "developerName": "unlimapps",
+   "subtitle": "The Ad-Free Anime you've been looking for.",
+   "localizedDescription": "- No ads\n- New episodes one hour after airing in Japan\n- The highest watching quality possible",
+   "iconURL": "https://i.imgur.com/qM7e1Ey.png",
+   "tintColor": "#f47521",
+   "screenshots": [
+    "https://i.imgur.com/ss27Uf3.png",
+    "https://i.imgur.com/AxhO3kI.png",
+    "https://i.imgur.com/KdmaxEZ.png",
+    "https://i.imgur.com/XMO94gp.png",
+    "https://i.imgur.com/qBeM1ri.png"
+   ],
+   "versions": [
+    {
+     "version": "3.5.1",
+     "date": "2019-10-01T00:00:00Z",
+     "localizedDescription": "Optimized for iOS 13.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Crunchyroll++.ipa",
+     "size": 11688173
+    }
+   ]
+  }
+ ]
+}

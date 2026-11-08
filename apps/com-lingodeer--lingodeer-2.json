@@ -1,0 +1,30 @@
+{
+ "name": "Lingodeer",
+ "identifier": "dev.perapp.com-lingodeer",
+ "subtitle": "Lingodeer",
+ "description": "Single-app source for Lingodeer (com.lingodeer). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lingodeer",
+   "name": "Lingodeer",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lingodeer.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.37",
+     "date": "2025-02-07T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Lingodeer_2.9.37_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 138809386
+    }
+   ]
+  }
+ ]
+}

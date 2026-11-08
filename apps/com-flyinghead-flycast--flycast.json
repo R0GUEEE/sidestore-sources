@@ -1,0 +1,44 @@
+{
+ "name": "FlyCast",
+ "identifier": "dev.perapp.com-flyinghead-flycast",
+ "subtitle": "Dreamcast Emulator",
+ "description": "Single-app source for FlyCast (com.flyinghead.Flycast). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/images_3-Ox.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.flyinghead.Flycast",
+   "name": "FlyCast",
+   "developerName": "FlyingHead",
+   "subtitle": "Dreamcast Emulator",
+   "localizedDescription": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/images_3-Ox.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "v2.5",
+     "date": "2025-05-07T11:36:00+02:00",
+     "localizedDescription": "DCNet support, new on-screen gamepad",
+     "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.5/Flycast-2.5.ipa",
+     "size": 8161611
+    },
+    {
+     "version": "2.4.0",
+     "date": "2024-10-31T00:00:00Z",
+     "localizedDescription": "Dreamcast Emulator that requires JIT\n\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/Flycast_2_4-W4.ipa",
+     "size": 7885887
+    },
+    {
+     "version": "v2.4",
+     "date": "2024-10-23T15:39:00+02:00",
+     "localizedDescription": "Retro achievements, improved UI",
+     "downloadURL": "https://github.com/flyinghead/flycast/releases/download/v2.4/Flycast-2.4.ipa",
+     "size": 7885887
+    }
+   ]
+  }
+ ]
+}

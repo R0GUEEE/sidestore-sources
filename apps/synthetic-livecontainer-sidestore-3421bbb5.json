@@ -1,0 +1,37 @@
+{
+ "name": "LiveContainer + SideStore",
+ "identifier": "dev.perapp.synthetic-livecontainer-sidestore-3421bbb5",
+ "subtitle": "LiveContainer An app launcher that runs iOS apps without actually installing them!     Crowdin Project: [![Crowdin](http",
+ "description": "Single-app source for LiveContainer + SideStore (synthetic.livecontainer-sidestore.3421bbb5). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/com.kdt.l%21vecontainer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.livecontainer-sidestore.3421bbb5",
+   "name": "LiveContainer + SideStore",
+   "developerName": "LiveContainer",
+   "subtitle": "LiveContainer An app launcher that runs iOS apps without actually installing them!     Crowdin Project: [![Crowdin](https://badges.crowdin.net/livecon",
+   "localizedDescription": "LiveContainer An app launcher that runs iOS apps without actually installing them!     Crowdin Project: [![Crowdin](https://badges.crowdin.net/livecon\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/com.kdt.l%21vecontainer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "nightly",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "LiveContainer An app launcher that runs iOS apps without actually installing them!     Crowdin Project: [![Crowdin](https://badges.crowdin.net/livecon",
+     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
+     "size": 24155286
+    },
+    {
+     "version": "3.8.11",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "LiveContainer An app launcher that runs iOS apps without actually installing them!     Crowdin Project: [![Crowdin](https://badges.crowdin.net/livecon",
+     "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/nightly/LiveContainer+SideStore.ipa",
+     "size": 24155286
+    }
+   ]
+  }
+ ]
+}

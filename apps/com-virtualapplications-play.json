@@ -1,0 +1,37 @@
+{
+ "name": "Play!",
+ "identifier": "dev.perapp.com-virtualapplications-play",
+ "subtitle": "ipaomtk.com | Play! emulator Are you a gaming enthusiast who loves to relive the nostalgic moments of classic games? If ",
+ "description": "Single-app source for Play! (com.virtualapplications.play). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Play-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.virtualapplications.play",
+   "name": "Play!",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Play! emulator Are you a gaming enthusiast who loves to relive the nostalgic moments of classic games? If so, then the Play! emulator is",
+   "localizedDescription": "ipaomtk.com | Play! emulator Are you a gaming enthusiast who loves to relive the nostalgic moments of classic games? If so, then the Play! emulator is",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Play-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.64",
+     "date": "2024-04-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Play! emulator Are you a gaming enthusiast who loves to relive the nostalgic moments of classic games? If so, then the Play! emulator is",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Play%21.ipa",
+     "size": 0
+    },
+    {
+     "version": "0.58-8-g70a126e3",
+     "date": "2023-01-10T00:00:00Z",
+     "localizedDescription": "Play! is a portable PlayStation2 emulator. The focus of the project is on making PlayStation2 emulation easy and accessible. Just pop in your favorite",
+     "downloadURL": "https://s3.us-east-2.amazonaws.com/playbuilds/70a126e3/Play.ipa",
+     "size": 33200000
+    }
+   ]
+  }
+ ]
+}

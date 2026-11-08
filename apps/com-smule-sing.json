@@ -1,0 +1,30 @@
+{
+ "name": "SmuleVIP",
+ "identifier": "dev.perapp.com-smule-sing",
+ "subtitle": "Karaoke Music app unlocked with VIP. Last updated: 01-23-2024 Status: ✅",
+ "description": "Single-app source for SmuleVIP (com.smule.sing). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.smule.sing.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.smule.sing",
+   "name": "SmuleVIP",
+   "developerName": "iApps",
+   "subtitle": "Karaoke Music app unlocked with VIP. Last updated: 01-23-2024 Status: ✅",
+   "localizedDescription": "Karaoke Music app unlocked with VIP.\nLast updated: 01-23-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.smule.sing.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.7.5",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Karaoke Music app unlocked with VIP. Last updated: 01-23-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SmuleVIP/SmuleVIP-12.7.5.ipa",
+     "size": 89529530
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Telepromptercom",
+ "identifier": "dev.perapp.matekovacs-teleprompter",
+ "subtitle": "Telepromptercom",
+ "description": "Single-app source for Telepromptercom (matekovacs.Teleprompter). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/matekovacs.Teleprompter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "matekovacs.Teleprompter",
+   "name": "Telepromptercom",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/matekovacs.Teleprompter.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0.9",
+     "date": "2025-11-25T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2025/Telepromptercom_9.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 45665179
+    }
+   ]
+  }
+ ]
+}

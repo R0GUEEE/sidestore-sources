@@ -1,0 +1,30 @@
+{
+ "name": "HotTub",
+ "identifier": "dev.perapp.com-c1d3r-hot-tub",
+ "subtitle": "HotTub",
+ "description": "Single-app source for HotTub (com.c1d3r.Hot-Tub). Converted from owo.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.c1d3r.Hot-Tub.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.c1d3r.Hot-Tub",
+   "name": "HotTub",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Nothing",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.c1d3r.Hot-Tub.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.0.2",
+     "date": "2025-02-04T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2025-02-04/HotTub_2.1.0.2_Nothing_%40repo.owo.network.ipa",
+     "size": 21719175
+    }
+   ]
+  }
+ ]
+}

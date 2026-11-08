@@ -1,0 +1,30 @@
+{
+ "name": "MediaCenter",
+ "identifier": "dev.perapp.com-unknown-mediacenter",
+ "subtitle": "Active Premium",
+ "description": "Single-app source for MediaCenter (com.unknown.mediacenter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/MediaCenter.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.mediacenter",
+   "name": "MediaCenter",
+   "developerName": "Karbin-Store",
+   "subtitle": "Active Premium",
+   "localizedDescription": "Active Premium",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/MediaCenter.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.15",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "Active Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/MediaCenter-iOS_1.7.15_3BodSy.ipa",
+     "size": 80920000
+    }
+   ]
+  }
+ ]
+}

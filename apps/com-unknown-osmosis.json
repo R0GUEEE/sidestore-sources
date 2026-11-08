@@ -1,0 +1,30 @@
+{
+ "name": "Osmosis",
+ "identifier": "dev.perapp.com-unknown-osmosis",
+ "subtitle": "ئەم ئاپە تایبەتە بە خوێندکارانی بەشی پزیشکی سەکۆیەکی بەهێزی فێربوونە کە یارمەتی خوێندکاران دەدات زیرەکتر فێربن و زانیاری",
+ "description": "Single-app source for Osmosis (com.unknown.osmosis). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Osmosis.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.osmosis",
+   "name": "Osmosis",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەم ئاپە تایبەتە بە خوێندکارانی بەشی پزیشکی سەکۆیەکی بەهێزی فێربوونە کە یارمەتی خوێندکاران دەدات زیرەکتر فێربن و زانیاری زیاتر بە شێوەیەکی باشتر وەربگ",
+   "localizedDescription": "ئەم ئاپە تایبەتە بە خوێندکارانی بەشی پزیشکی سەکۆیەکی بەهێزی فێربوونە کە یارمەتی خوێندکاران دەدات زیرەکتر فێربن و زانیاری زیاتر بە شێوەیەکی باشتر وەربگ",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Osmosis.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.4.22",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "ئەم ئاپە تایبەتە بە خوێندکارانی بەشی پزیشکی سەکۆیەکی بەهێزی فێربوونە کە یارمەتی خوێندکاران دەدات زیرەکتر فێربن و زانیاری زیاتر بە شێوەیەکی باشتر وەربگ",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Osmosis5.4.22.ipa",
+     "size": 16150000
+    }
+   ]
+  }
+ ]
+}

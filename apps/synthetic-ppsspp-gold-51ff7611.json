@@ -1,0 +1,30 @@
+{
+ "name": "PPSSPP Gold",
+ "identifier": "dev.perapp.synthetic-ppsspp-gold-51ff7611",
+ "subtitle": "PPSSPP Gold",
+ "description": "Single-app source for PPSSPP Gold (synthetic.ppsspp-gold.51ff7611). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://ittza7aa.com/aseets/icon/ppssppgold.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.ppsspp-gold.51ff7611",
+   "name": "PPSSPP Gold",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Pro Unlocked",
+   "iconURL": "https://ittza7aa.com/aseets/icon/ppssppgold.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/ppssppgold.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

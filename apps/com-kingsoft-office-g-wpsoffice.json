@@ -1,0 +1,30 @@
+{
+ "name": "wpsoffice",
+ "identifier": "dev.perapp.com-kingsoft-office-g-wpsoffice",
+ "subtitle": "wpsoffice",
+ "description": "Single-app source for wpsoffice (com.kingsoft.office.g.wpsoffice). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
+   "name": "wpsoffice",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.10.2",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/wpsoffice_26.10.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 325852249
+    }
+   ]
+  }
+ ]
+}

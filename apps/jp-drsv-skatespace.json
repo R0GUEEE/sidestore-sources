@@ -1,0 +1,30 @@
+{
+ "name": "Skate Space",
+ "identifier": "dev.perapp.jp-drsv-skatespace",
+ "subtitle": "ipaomtk.com | Skate Space IPA is an exciting and innovative new iOS game that is sure to please skateboarding enthusiast",
+ "description": "Single-app source for Skate Space (jp.drsv.SkateSpace). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-skate-space-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.drsv.SkateSpace",
+   "name": "Skate Space",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Skate Space IPA is an exciting and innovative new iOS game that is sure to please skateboarding enthusiasts of all ages. The game offers",
+   "localizedDescription": "ipaomtk.com | Skate Space IPA is an exciting and innovative new iOS game that is sure to please skateboarding enthusiasts of all ages. The game offers",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-skate-space-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.458",
+     "date": "2023-10-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Skate Space IPA is an exciting and innovative new iOS game that is sure to please skateboarding enthusiasts of all ages. The game offers",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Skate-Space.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

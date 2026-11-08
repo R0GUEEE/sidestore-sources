@@ -1,0 +1,30 @@
+{
+ "name": "American Marksman",
+ "identifier": "dev.perapp.com-unknown-americanmarksman",
+ "subtitle": "لەم یاریەدا تۆ ڕاوی ئاژەڵ و باڵندەکان دەکەیت و ڕووبەروی ئاژەڵە مەترسیدارەکان دەبیتەوە پێویستە بەپێی کات خۆت فێری لێهاتوو",
+ "description": "Single-app source for American Marksman (com.unknown.americanmarksman). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/American.Marksman.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.americanmarksman",
+   "name": "American Marksman",
+   "developerName": "Karbin-Store",
+   "subtitle": "لەم یاریەدا تۆ ڕاوی ئاژەڵ و باڵندەکان دەکەیت و ڕووبەروی ئاژەڵە مەترسیدارەکان دەبیتەوە پێویستە بەپێی کات خۆت فێری لێهاتووی بکەیت و چەک و شوێنی مانەوەت ",
+   "localizedDescription": "لەم یاریەدا تۆ ڕاوی ئاژەڵ و باڵندەکان دەکەیت و ڕووبەروی ئاژەڵە مەترسیدارەکان دەبیتەوە پێویستە بەپێی کات خۆت فێری لێهاتووی بکەیت و چەک و شوێنی مانەوەت ",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/American.Marksman.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.7",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "لەم یاریەدا تۆ ڕاوی ئاژەڵ و باڵندەکان دەکەیت و ڕووبەروی ئاژەڵە مەترسیدارەکان دەبیتەوە پێویستە بەپێی کات خۆت فێری لێهاتووی بکەیت و چەک و شوێنی مانەوەت ",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/American.Marksman.1.1.7.ipa",
+     "size": 210350000
+    }
+   ]
+  }
+ ]
+}

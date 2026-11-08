@@ -1,0 +1,30 @@
+{
+ "name": "Flightradar24",
+ "identifier": "dev.perapp.se-resenatverket-flightradar24-free",
+ "subtitle": "Flightradar24",
+ "description": "Single-app source for Flightradar24 (se.resenatverket.FlightRadar24-Free). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
+ "apps": [
+  {
+   "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+   "name": "Flightradar24",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Gold",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.14.1",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "Injected with Gold",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Flightradar24_11.14.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+     "size": 233964092
+    }
+   ]
+  }
+ ]
+}

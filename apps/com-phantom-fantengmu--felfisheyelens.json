@@ -1,0 +1,44 @@
+{
+ "name": "FELFishEyeLens",
+ "identifier": "dev.perapp.com-phantom-fantengmu",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for FELFishEyeLens (com.phantom.fantengmu). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.phantom.fantengmu",
+   "name": "FELFishEyeLens",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.25",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/13-10-2025/FELFishEyeLens_2.0.25_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 76121283
+    },
+    {
+     "version": "2.0.23",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-09-2025/FELFishEyeLens_2.0.23_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 76119603
+    },
+    {
+     "version": "2.0.22",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-08-2025/FELFishEyeLens_2.0.22_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 76126720
+    }
+   ]
+  }
+ ]
+}

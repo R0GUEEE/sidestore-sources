@@ -1,0 +1,30 @@
+{
+ "name": "ChatSmith",
+ "identifier": "dev.perapp.co-vulcanlabs-moodtracker",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for ChatSmith (co.vulcanlabs.moodtracker). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.vulcanlabs.moodtracker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.vulcanlabs.moodtracker",
+   "name": "ChatSmith",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.vulcanlabs.moodtracker.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.251222.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nChức năng đã thêm: Satella - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/ChatSmith_8.251222.2_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 506629539
+    }
+   ]
+  }
+ ]
+}

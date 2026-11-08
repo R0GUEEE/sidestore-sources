@@ -1,0 +1,37 @@
+{
+ "name": "Taurine",
+ "identifier": "dev.perapp.org-coolstar-taurine",
+ "subtitle": "Jailbreak iOS 14.0 - 14.8 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Taurine (org.coolstar.taurine). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/Taurine.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.coolstar.taurine",
+   "name": "Taurine",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Jailbreak iOS 14.0 - 14.8 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Jailbreak iOS 14.0 - 14.8 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/Taurine.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.7-3",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Jailbreak iOS 14.0 - 14.8 trên tất cả các thiết bị - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+     "size": 32244737
+    },
+    {
+     "version": "1.1.6",
+     "date": "2026-03-23T00:00:00Z",
+     "localizedDescription": "Taurine is an iOS 14.0-14.8.1 jailbreak, utilizing Procursus and Libhooker.",
+     "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+     "size": 30838370
+    }
+   ]
+  }
+ ]
+}

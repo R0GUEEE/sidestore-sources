@@ -1,0 +1,44 @@
+{
+ "name": "ReelsApp",
+ "identifier": "dev.perapp.com-nextgen-reelsapp",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for ReelsApp (com.nextgen.reelsapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nextgen.reelsapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nextgen.reelsapp",
+   "name": "ReelsApp",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nextgen.reelsapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.2",
+     "date": "2026-10-09T00:00:00Z",
+     "localizedDescription": "@blatants | Reelsapp: reel & video editor  • Bundle ID: com.nextgen.reelsapp • Updated to: 8.2 • Minimum iOS: 15.0 • Patched • Modifier: Subscription ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12698-Reelsapp_reel_&_video_editor_v8_2_Subscription_Unlocked_blatant.ipa",
+     "size": 121178816
+    },
+    {
+     "version": "8.1",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/ReelsApp_8.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 120048056
+    },
+    {
+     "version": "8.0",
+     "date": "2026-07-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/ReelsApp_8.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 104783866
+    }
+   ]
+  }
+ ]
+}

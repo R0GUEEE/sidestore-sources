@@ -1,0 +1,30 @@
+{
+ "name": "ColoringBookForMe",
+ "identifier": "dev.perapp.com-apalonapps-clrbook",
+ "subtitle": "ColoringBookForMe",
+ "description": "Single-app source for ColoringBookForMe (com.apalonapps.clrbook). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.clrbook",
+   "name": "ColoringBookForMe",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.clrbook.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.50.15",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/ColoringBookForMe_4.50.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 134968075
+    }
+   ]
+  }
+ ]
+}

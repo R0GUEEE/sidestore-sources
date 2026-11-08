@@ -1,0 +1,30 @@
+{
+ "name": "DynamicMe",
+ "identifier": "dev.perapp.com-jlfs-dynamicmepremium",
+ "subtitle": "ipaomtk.com | DynamicMe IPA v1.2 is an innovative mobile application designed to help users track and visualize their pe",
+ "description": "Single-app source for DynamicMe (com.jlfs.DynamicMePremium). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/DynamicMe.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jlfs.DynamicMePremium",
+   "name": "DynamicMe",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | DynamicMe IPA v1.2 is an innovative mobile application designed to help users track and visualize their personal growth and development ",
+   "localizedDescription": "ipaomtk.com | DynamicMe IPA v1.2 is an innovative mobile application designed to help users track and visualize their personal growth and development ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/DynamicMe.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | DynamicMe IPA v1.2 is an innovative mobile application designed to help users track and visualize their personal growth and development ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/DynamicMe-v1.2_2024-10-28_20-29-41-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

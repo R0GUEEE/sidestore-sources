@@ -1,0 +1,37 @@
+{
+ "name": "AnkiMobile Flashcards (free paid)",
+ "identifier": "dev.perapp.net-ichi2-anki",
+ "subtitle": "AnkiMobile Flashcards (free paid) by sidelix",
+ "description": "Single-app source for AnkiMobile Flashcards (free paid) (net.ichi2.anki). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b204f225ce.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "net.ichi2.anki",
+   "name": "AnkiMobile Flashcards (free paid)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "AnkiMobile is a mobile companion to Anki®, a powerful, intelligent flashcard program that is free, multi-platform, and open-source. Sales of this app support the development of both the computer and mobile version, which is why the app is priced as a computer application.\r\n\r\nAnkiMobile was written by the lead developer of Anki and AnkiWeb, and it has been around since 2010. Beware other apps using \"Anki\" in their name that have sprung up recently - they are not compatible with the rest of the Anki ecosystem, and they offer far fewer features, despite charging expensive subscriptions.\r\n\r\nSome of AnkiMobile's features include:\r\n\r\n- A free cloud synchronization service that lets you keep your card content synchronized across multiple mobile and co",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a2b204f225ce.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.09",
+     "date": "2026-06-11T00:00:00Z",
+     "localizedDescription": "AnkiMobile is a mobile companion to Anki®, a powerful, intelligent flashcard program that is free, multi-platform, and open-source. Sales of this app support the development of both the computer and mobile version, which is why the app is priced as a computer application.\r\n\r\nAnkiMobile was written by the lead developer of Anki and AnkiWeb, and it has been around since 2010. Beware other apps using \"Anki\" in their name that have sprung up recently - they are not compatible with the rest of the Anki ecosystem, and they offer far fewer features, despite charging expensive subscriptions.\r\n\r\nSome of AnkiMobile's features include:\r\n\r\n- A free cloud synchronization service that lets you keep your card content synchronized across multiple mobile and co",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2031",
+     "size": 15584655
+    },
+    {
+     "version": "24.08",
+     "date": "2024-09-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnkiMobile/AnkiMobile-24.08.ipa",
+     "size": 16413736
+    }
+   ]
+  }
+ ]
+}

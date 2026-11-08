@@ -1,0 +1,37 @@
+{
+ "name": "Vitrine + EeveeSpotifyReincarnated (Patched) IPAVault",
+ "identifier": "dev.perapp.com-spotify-client-ios-vitrine-eeveespotifyreincarnated-beta",
+ "subtitle": "This is a modded version of Spotify. This does not work with sidestore!! This includes both Vitrine v1.0.0-b7 and EeveeS",
+ "description": "Single-app source for Vitrine + EeveeSpotifyReincarnated (Patched) IPAVault (com.spotify.client.ios.vitrine.eeveespotifyreincarnated.beta.patched.9.1.88). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.vitrine.eeveespotifyreincarnated.beta.patched.9.1.88",
+   "name": "Vitrine + EeveeSpotifyReincarnated (Patched) IPAVault",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify. This does not work with sidestore!! This includes both Vitrine v1.0.0-b7 and EeveeSpotifyReincarnated v7.0.0.",
+   "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!! This includes both Vitrine v1.0.0-b7 and EeveeSpotifyReincarnated v7.0.0.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.88",
+     "date": "2026-10-10T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore!! This includes both Vitrine v1.0.0-b7 and EeveeSpotifyReincarnated v7.0.0.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Eevee+Vitrine%29%20%5B@ipavault%5D.ipa",
+     "size": 142205605
+    },
+    {
+     "version": "9.1.90",
+     "date": "2026-10-10T00:00:00Z",
+     "localizedDescription": "Tweaks: EeveeSpotify, spotifyglass\n\nThis is a modded version of Spotify. This does not work with sidestore!! This includes both Vitrine v1.0.0-b7 and EeveeSpotifyReincarnated v7.0.0.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Eevee+Vitrine%29%20%5B@ipavault%5D.ipa",
+     "size": 142205605
+    }
+   ]
+  }
+ ]
+}

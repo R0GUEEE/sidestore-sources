@@ -1,0 +1,37 @@
+{
+ "name": "Unkilled",
+ "identifier": "dev.perapp.com-madfingergames-unkilled",
+ "subtitle": "ipaomtk.com | UNKILLED IPA is an exciting online zombie shooting game, designed to give players an immersive and thrilli",
+ "description": "Single-app source for Unkilled (com.madfingergames.unkilled). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/unkilled-fps-zombie-games-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.madfingergames.unkilled",
+   "name": "Unkilled",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | UNKILLED IPA is an exciting online zombie shooting game, designed to give players an immersive and thrilling experience in the fight aga",
+   "localizedDescription": "ipaomtk.com | UNKILLED IPA is an exciting online zombie shooting game, designed to give players an immersive and thrilling experience in the fight aga",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/unkilled-fps-zombie-games-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.0",
+     "date": "2023-04-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | UNKILLED IPA is an exciting online zombie shooting game, designed to give players an immersive and thrilling experience in the fight aga",
+     "downloadURL": "https://file.ipaomtk.com/unkilled-fps/UNKILLED-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.7.4",
+     "date": "2023-04-03T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | UNKILLED IPA is an exciting online zombie shooting game, designed to give players an immersive and thrilling experience in the fight aga",
+     "downloadURL": "https://file.ipaomtk.com/unkilled-fps/UNKILLED-IPAOMTK.COM.ipa",
+     "size": 519982834
+    }
+   ]
+  }
+ ]
+}

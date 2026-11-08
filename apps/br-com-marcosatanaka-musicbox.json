@@ -1,0 +1,44 @@
+{
+ "name": "MusicBox",
+ "identifier": "dev.perapp.br-com-marcosatanaka-musicbox",
+ "subtitle": "@riftysIPAlibrary | MusicBox: Save Music for Later  Tweak: Subscription Unlocked  Version: 1.7.9  Patched ✓  @riftysIPAl",
+ "description": "Single-app source for MusicBox (br.com.marcosatanaka.musicbox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7186.png",
+ "apps": [
+  {
+   "bundleIdentifier": "br.com.marcosatanaka.musicbox",
+   "name": "MusicBox",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | MusicBox: Save Music for Later  Tweak: Subscription Unlocked  Version: 1.7.9  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "localizedDescription": "@riftysIPAlibrary | MusicBox: Save Music for Later  Tweak: Subscription Unlocked  Version: 1.7.9  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7186.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.6",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | MusicBox: Save Music for Later  Tweak: Subscription Unlocked  Version: 1.8.6  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8715-MusicBox:%20Save%20Music%20for%20Later-v1.8.6-riftysipas.ipa",
+     "size": 30663875
+    },
+    {
+     "version": "1.8.5",
+     "date": "2026-10-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | MusicBox: Save Music for Later  Tweak: Subscription Unlocked  Version: 1.8.5  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8252-MusicBox:%20Save%20Music%20for%20Later-v1.8.5-riftysipas.ipa",
+     "size": 30654678
+    },
+    {
+     "version": "1.8.4",
+     "date": "2026-09-14T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | MusicBox: Save Music for Later  Tweak: Subscription Unlocked  Version: 1.8.4  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7855-MusicBox:%20Save%20Music%20for%20Later-v1.8.4-riftysipas.ipa",
+     "size": 30647002
+    }
+   ]
+  }
+ ]
+}

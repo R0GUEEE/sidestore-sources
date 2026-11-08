@@ -1,0 +1,30 @@
+{
+ "name": "Pixelmator2.7.3",
+ "identifier": "dev.perapp.cypwn-pixelmator2-7-3-2-7-3",
+ "subtitle": "Powerful, full-featured image editor for iOS.",
+ "description": "Single-app source for Pixelmator2.7.3 (cypwn.Pixelmator2.7.3.2.7.3). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Pixelmator2.7.3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.Pixelmator2.7.3.2.7.3",
+   "name": "Pixelmator2.7.3",
+   "developerName": "Pixelmator2.7.3 x CyPwn",
+   "subtitle": "Powerful, full-featured image editor for iOS.",
+   "localizedDescription": "Powerful, full-featured image editor for iOS.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Pixelmator2.7.3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.3",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Powerful, full-featured image editor for iOS.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Pixelmator2.7.3.ipa",
+     "size": 122746306
+    }
+   ]
+  }
+ ]
+}

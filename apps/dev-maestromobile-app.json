@@ -1,0 +1,45 @@
+{
+ "name": "Maestro Mobile",
+ "identifier": "dev.perapp.dev-maestromobile-app",
+ "subtitle": "Follow your Pi sessions and keep work moving from your phone",
+ "description": "Single-app source for Maestro Mobile (dev.maestromobile.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#937744",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.maestromobile.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.maestromobile.app",
+   "name": "Maestro Mobile",
+   "developerName": "netcookies",
+   "subtitle": "Follow your Pi sessions and keep work moving from your phone",
+   "localizedDescription": "About the project:\n\nMaestro Mobile is an iOS / Android companion for Pi. Your sessions run on your computer; the app connects through a local Host service to show progress and control authorized live sessions.\n\n• Stay informed: browse sessions, search history, and inspect real-time usage, active tasks, teammates and execution progress.\n• Keep working: send text or images, steer running turns, queue follow-ups while streaming, adjust thinking levels, switch models with collapsible floating controls, or stop long-running tasks.\n• Track execution: inspect the execution drawer for Goal metrics (progress, tokens, duration), Loop cycles, and step-by-step Todo breakdowns with duration bars and summary notes.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.maestromobile.app.png",
+   "tintColor": "#937744",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/netcookies/pi-maestro-app-party@main/docs/images/screenshots/ios-launched.png",
+    "https://cdn.jsdelivr.net/gh/netcookies/pi-maestro-app-party@main/docs/images/screenshots/ios-sessions.png",
+    "https://cdn.jsdelivr.net/gh/netcookies/pi-maestro-app-party@main/docs/images/screenshots/ios-chat.png",
+    "https://cdn.jsdelivr.net/gh/netcookies/pi-maestro-app-party@main/docs/images/screenshots/ios-execution-drawer.png",
+    "https://cdn.jsdelivr.net/gh/netcookies/pi-maestro-app-party@main/docs/images/screenshots/ios-launch-session.png"
+   ],
+   "versions": [
+    {
+     "version": "0.20.7",
+     "date": "2026-11-08T07:37:50Z",
+     "localizedDescription": "[0.20.7] — 2026-11-08:\n\n• restore spinning stop indicator.\n\n• iOS：下载 unsigned .ipa，用 Sideloadly/AltStore + 自己的 Apple ID 重签后安装.\n• PC Host：npm install -g pi-maestro-mobile@0.20.7，或 pi install npm:pi-maestro-mobile.",
+     "downloadURL": "https://github.com/netcookies/pi-maestro-app-party/releases/download/v0.20.7/maestro-mobile-unsigned-0.20.7.ipa",
+     "size": 9660173
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "允许 Maestro Mobile 使用相机拍摄图片发送给 Pi agent",
+     "NSLocalNetworkUsageDescription": "允许 Maestro Mobile 连接本地网络中的 Host",
+     "NSMicrophoneUsageDescription": "Allow MaestroMobile to access your microphone",
+     "NSPhotoLibraryUsageDescription": "允许 Maestro Mobile 访问相册以发送图片给 Pi agent"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Videoshow",
+ "identifier": "dev.perapp.com-enjoy-videoshow",
+ "subtitle": "Videoshow",
+ "description": "Single-app source for Videoshow (com.enjoy.VideoShow). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.enjoy.VideoShow",
+   "name": "Videoshow",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with VIP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.enjoy.VideoShow.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.10.73",
+     "date": "2025-01-24T00:00:00Z",
+     "localizedDescription": "Injected with VIP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/Videoshow_5.10.73_VIP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 241641533
+    }
+   ]
+  }
+ ]
+}

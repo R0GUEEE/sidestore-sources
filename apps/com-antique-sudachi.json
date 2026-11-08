@@ -1,0 +1,37 @@
+{
+ "name": "Sudachi",
+ "identifier": "dev.perapp.com-antique-sudachi",
+ "subtitle": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a ",
+ "description": "Single-app source for Sudachi (com.antique.Sudachi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Sudachi.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.antique.Sudachi",
+   "name": "Sudachi",
+   "developerName": "jarrodnorwell",
+   "subtitle": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulk",
+   "localizedDescription": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulk",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.antique.Sudachi.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.1.7",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulk",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Sudachi/Sudachi-0.0.1.7.ipa",
+     "size": 16424345
+    },
+    {
+     "version": "0.0.1.7.6",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Sudachi is the world's first Nintendo Switch emulator for iPad and iPhone, developed from the Yuzu base and utilizing a tailored MoltenVK for the Vulk",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Sudachi/Sudachi-0.0.1.7.6.ipa",
+     "size": 16468002
+    }
+   ]
+  }
+ ]
+}

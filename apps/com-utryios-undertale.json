@@ -1,0 +1,30 @@
+{
+ "name": "Undertale Red & Yellow",
+ "identifier": "dev.perapp.com-utryios-undertale",
+ "subtitle": "Undertale Red & Yellow - IOS Port",
+ "description": "Single-app source for Undertale Red & Yellow (com.utryios.undertale). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFA500",
+ "iconURL": "https://cdn.omnidev.org/undertaleredandyellow-kp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.utryios.undertale",
+   "name": "Undertale Red & Yellow",
+   "developerName": "Shinix",
+   "subtitle": "Undertale Red & Yellow - IOS Port",
+   "localizedDescription": "Have you played Undertale Yellow? After completing it, did you think: Man, I really wanna replay Undertale now, but I've already played it so many times...\nNo?\nWELL TOO BAD! \nIntroducing: Undertale Red & Yellow! \nAn Undertale mod designed to scratch that Undertale Yellow itch!\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/undertaleredandyellow-kp.png",
+   "tintColor": "FFA500",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.1",
+     "date": "2024-10-14T00:00:00Z",
+     "localizedDescription": "Have you played Undertale Yellow? After completing it, did you think: Man, I really wanna replay Undertale now, but I've already played it so many times...\nNo?\nWELL TOO BAD! \nIntroducing: Undertale Red & Yellow! \nAn Undertale mod designed to scratch that Undertale Yellow itch!\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Undertale_Red_Yellow-y4.ipa",
+     "size": 256716800
+    }
+   ]
+  }
+ ]
+}

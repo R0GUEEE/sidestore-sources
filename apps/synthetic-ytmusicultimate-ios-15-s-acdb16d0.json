@@ -1,0 +1,30 @@
+{
+ "name": "YTMusicUltimate+ (iOS 15+ Support - Patched - No YouMusicPiP)",
+ "identifier": "dev.perapp.synthetic-ytmusicultimate-ios-15-s-acdb16d0",
+ "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABCon",
+ "description": "Single-app source for YTMusicUltimate+ (iOS 15+ Support - Patched - No YouMusicPiP) (synthetic.ytmusicultimate-ios-15-s.acdb16d0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.ytmusicultimate-ios-15-s.acdb16d0",
+   "name": "YTMusicUltimate+ (iOS 15+ Support - Patched - No YouMusicPiP)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downlo",
+   "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downlo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.21.3",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downlo",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%208.21.3%20No%20PIP%20%5B@ipavault%5D.ipa",
+     "size": 95542949
+    }
+   ]
+  }
+ ]
+}

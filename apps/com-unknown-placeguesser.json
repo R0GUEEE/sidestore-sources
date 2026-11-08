@@ -1,0 +1,37 @@
+{
+ "name": "PlaceGuesser",
+ "identifier": "dev.perapp.com-unknown-placeguesser",
+ "subtitle": "PlaceGuesser by Karbin-Store",
+ "description": "Single-app source for PlaceGuesser (com.unknown.placeguesser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/PlaceGuesser.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.placeguesser",
+   "name": "PlaceGuesser",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/PlaceGuesser.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.27.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/PlaceGuesser-v1.26.0.ipa",
+     "size": 124220000
+    },
+    {
+     "version": "1.26.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/PlaceGuesser-v1.26.0.ipa",
+     "size": 34611077
+    }
+   ]
+  }
+ ]
+}

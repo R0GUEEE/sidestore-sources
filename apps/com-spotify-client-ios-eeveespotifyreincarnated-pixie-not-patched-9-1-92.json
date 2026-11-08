@@ -1,0 +1,30 @@
+{
+ "name": "EeveeSpotifyReincarnated v7.0.0 + Pixie v1.3 (Not Patched) IPAVault",
+ "identifier": "dev.perapp.com-spotify-client-ios-eeveespotifyreincarnated-pixie-not-pa",
+ "subtitle": "This is a modded version of Spotify. This works with sidestore!! This includes both EeveeSpotifyReincarnated v7.0.0 and ",
+ "description": "Single-app source for EeveeSpotifyReincarnated v7.0.0 + Pixie v1.3 (Not Patched) IPAVault (com.spotify.client.ios.eeveespotifyreincarnated.pixie.not.patched.9.1.92). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.pixie.not.patched.9.1.92",
+   "name": "EeveeSpotifyReincarnated v7.0.0 + Pixie v1.3 (Not Patched) IPAVault",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify. This works with sidestore!! This includes both EeveeSpotifyReincarnated v7.0.0 and Pixie Download Manager v1.3.",
+   "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both EeveeSpotifyReincarnated v7.0.0 and Pixie Download Manager v1.3.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.92",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both EeveeSpotifyReincarnated v7.0.0 and Pixie Download Manager v1.3.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.92%20%28EeveeSpotify+Pixie%29%20No%20Plugins.ipa",
+     "size": 146362211
+    }
+   ]
+  }
+ ]
+}

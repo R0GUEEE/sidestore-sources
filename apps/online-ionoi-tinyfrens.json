@@ -1,0 +1,34 @@
+{
+ "name": "TinyFrens",
+ "identifier": "dev.perapp.online-ionoi-tinyfrens",
+ "subtitle": "A little company",
+ "description": "Single-app source for TinyFrens (online.ionoi.tinyfrens). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7e5fb3",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/online.ionoi.tinyfrens.png",
+ "apps": [
+  {
+   "bundleIdentifier": "online.ionoi.tinyfrens",
+   "name": "TinyFrens",
+   "developerName": "dutchiono",
+   "subtitle": "A little company",
+   "localizedDescription": "✦ TinyFrens:\n\nA little company. A little chaos. Your tiny fren.\n\nFeed, play, rest, and watch your pocket companion grow. Android lets your pet float over other apps. iPhone and browser versions keep your pet inside their own window.\n\nThe website is hosted on our server. Main-branch updates publish through Actions → Publish website to server.\n\nDocumentation:\n\n📚 Full docs index →.\n\nWebsite hosting:\n\nSee Server web hosting for automatic publishing, domain routing, and rollback.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/online.ionoi.tinyfrens.png",
+   "tintColor": "#7e5fb3",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-20T22:22:18Z",
+     "localizedDescription": "Install pocket-familiar.apk to update. Your existing pet data is retained when updating a release signed with the same key.",
+     "downloadURL": "https://github.com/dutchiono/TinyFrens/releases/download/build-365/TinyFrens-unsigned.ipa",
+     "size": 1278496
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "name": "Yet Another LuCI App",
+ "identifier": "dev.perapp.com-nightcode-luci",
+ "subtitle": "Modern OpenWrt & LuCI Router Manager",
+ "description": "Single-app source for Yet Another LuCI App (com.nightcode.luci). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b82f6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nightcode.luci.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nightcode.luci",
+   "name": "Yet Another LuCI App",
+   "developerName": "nightcodex7",
+   "subtitle": "Modern OpenWrt & LuCI Router Manager",
+   "localizedDescription": "YALA (Yet Another LuCI App):\n\nYALA (Yet Another LuCI App) is an open-source mobile client for managing OpenWrt routers. It connects directly to your router using LuCI JSON-RPC, ubus, and standard OpenWrt system services, allowing you to monitor real-time bandwidth, manage connected devices, run network diagnostics, configure wireless radios, manage AdGuard Home DNS sinkhole, monitor VPN tunnels (WireGuard, OpenVPN, Tailscale), control Smart Queue Management (SQM/QoS), inspect storage, and update packages directly from your phone or tablet.\n\nYALA is purpose-built for mobile, tablet, and touch-first form factors:\n\n• Smartphones: Android (Android 8.0 Oreo up to Android 15/16) and Apple iPhone (iOS 14.0+).\n• Tablets & iPads: Android Tablets and Apple iPads with dedicated wide-screen multi-column layouts and adaptive split views.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nightcode.luci.png",
+   "tintColor": "#3b82f6",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/nightcodex7/yala@main/assets/screenshots/1_dashboard-light.jpeg",
+    "https://cdn.jsdelivr.net/gh/nightcodex7/yala@main/assets/screenshots/2_dashboard-dark.jpeg",
+    "https://cdn.jsdelivr.net/gh/nightcodex7/yala@main/assets/screenshots/3_login_page.jpeg",
+    "https://cdn.jsdelivr.net/gh/nightcodex7/yala@main/assets/screenshots/4_dashboard-2.jpeg",
+    "https://cdn.jsdelivr.net/gh/nightcodex7/yala@main/assets/screenshots/5_dashboard-3.jpeg"
+   ],
+   "versions": [
+    {
+     "version": "2.6.0",
+     "date": "2026-10-24T19:25:33Z",
+     "localizedDescription": "This is an experimental community beta release of Yet Another LuCI App for Apple iOS devices (iPhone and iPad), built from version 2.6.0 (Build 232).\n\nHighlights:\n\n• Firmware Upgrade Center: Check official OpenWrt updates, review preservation impact, and flash safely.\n• JSON Config Export: Export router settings (firewall, DHCP, Wi-Fi, DDNS) with privacy redactions.\n• Router Speed Test: WAN speed test engine with multi-stage sampling.\n• UI Revamps: Redesigned wizards, improved dialog responsiveness, and cleaner layouts.\n• Localization improvements: Improved the localization coverage.\n• Performance & Stability: Memory optimizations, smoother rendering, and overall stability fixes.\n\nThis is an unsigned iOS package ( .ipa ). It can be sideloaded onto compatible iPhones or iPads running iOS 14.0+ using standard sideloading tools such as:\n\n• AltStore / SideStore.\n• Personal Apple Developer account signing or enterprise signing.",
+     "downloadURL": "https://github.com/nightcodex7/yala/releases/download/v2.6.0-beta-ipa/Yet-Another-LuCI-App.ipa",
+     "size": 13523734
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Yet Another LuCI App requires local network access to discover, connect to, and manage your OpenWrt router."
+    }
+   }
+  }
+ ]
+}

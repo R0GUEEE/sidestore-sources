@@ -1,0 +1,30 @@
+{
+ "name": "ESignNoLogs",
+ "identifier": "dev.perapp.p3-xyz-yyyue-esign",
+ "subtitle": "ESignNoLogs by r/sideloaded",
+ "description": "Single-app source for ESignNoLogs (p3.xyz.yyyue.esign). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
+ "apps": [
+  {
+   "bundleIdentifier": "p3.xyz.yyyue.esign",
+   "name": "ESignNoLogs",
+   "developerName": "r/sideloaded",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/p3.xyz.yyyue.esign.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0-1.1",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "ESign without its telemetry.\nLast updated: 07-17-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ESignNoLogs/ESignNoLogs-5.0-1.1.ipa",
+     "size": 8042159
+    }
+   ]
+  }
+ ]
+}

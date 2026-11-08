@@ -1,0 +1,30 @@
+{
+ "name": "Photable",
+ "identifier": "dev.perapp.com-alphatech-collagepro",
+ "subtitle": "ipaomtk.com | In the ever-evolving world of mobile photography, the need for powerful image editing tools has become inc",
+ "description": "Single-app source for Photable (com.alphatech.CollagePro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/Photable-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alphatech.CollagePro",
+   "name": "Photable",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | In the ever-evolving world of mobile photography, the need for powerful image editing tools has become increasingly crucial. Photable IP",
+   "localizedDescription": "ipaomtk.com | In the ever-evolving world of mobile photography, the need for powerful image editing tools has become increasingly crucial. Photable IP",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/Photable-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.1",
+     "date": "2024-06-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | In the ever-evolving world of mobile photography, the need for powerful image editing tools has become increasingly crucial. Photable IP",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Photable.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "name": "AddonsPro-3.8",
+ "identifier": "dev.perapp.com-qingbin-addons",
+ "subtitle": "AddonsPro-3.8 by AddonsPro-3.8 x CyPwn",
+ "description": "Single-app source for AddonsPro-3.8 (com.qingbin.Addons). Converted from cypwn-trollstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AddonsPro-3.8.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.qingbin.Addons",
+   "name": "AddonsPro-3.8",
+   "developerName": "AddonsPro-3.8 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Powerful Safari browser extension!",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AddonsPro-3.8.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/AddonsPro-3.8/AddonsPro-3.8-0.png"
+   ],
+   "versions": [
+    {
+     "version": "3.8",
+     "date": "2024-07-11T00:00:00Z",
+     "localizedDescription": "Powerful Safari browser extension!",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/AddonsPro-3.8.ipa",
+     "size": 29129441
+    }
+   ]
+  }
+ ]
+}

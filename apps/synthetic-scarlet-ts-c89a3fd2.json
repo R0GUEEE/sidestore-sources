@@ -1,0 +1,30 @@
+{
+ "name": "Scarlet_TS",
+ "identifier": "dev.perapp.synthetic-scarlet-ts-c89a3fd2",
+ "subtitle": "3rd party app installer and true repo manager.",
+ "description": "Single-app source for Scarlet_TS (synthetic.scarlet-ts.c89a3fd2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Scarlet_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.scarlet-ts.c89a3fd2",
+   "name": "Scarlet_TS",
+   "developerName": "Scarlet_TS x CyPwn",
+   "subtitle": "3rd party app installer and true repo manager.",
+   "localizedDescription": "3rd party app installer and true repo manager.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Scarlet_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "3rd party app installer and true repo manager.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Scarlet_TS.ipa",
+     "size": 12761169
+    }
+   ]
+  }
+ ]
+}

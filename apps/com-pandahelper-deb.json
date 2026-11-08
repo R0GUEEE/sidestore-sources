@@ -1,0 +1,30 @@
+{
+ "name": "PandaHelper",
+ "identifier": "dev.perapp.com-pandahelper-deb",
+ "subtitle": "Removed from the repo: Deprecated. Last updated: 11-30-2022 Status: ❌",
+ "description": "Single-app source for PandaHelper (com.pandahelper.deb). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pandahelper.deb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pandahelper.deb",
+   "name": "PandaHelper",
+   "developerName": "N/A",
+   "subtitle": "Removed from the repo: Deprecated. Last updated: 11-30-2022 Status: ❌",
+   "localizedDescription": "Removed from the repo: Deprecated.\nLast updated: 11-30-2022\nStatus: ❌\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.pandahelper.deb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.4",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Removed from the repo: Deprecated. Last updated: 11-30-2022 Status: ❌",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/PandaHelper/PandaHelper-2.3.4.ipa",
+     "size": 89788257
+    }
+   ]
+  }
+ ]
+}

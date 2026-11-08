@@ -1,0 +1,74 @@
+{
+ "name": "Delta",
+ "identifier": "dev.perapp.com-rileytestut-delta",
+ "subtitle": "Classic games in your pocket.",
+ "description": "Single-app source for Delta (com.rileytestut.Delta). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "8A28F7",
+ "iconURL": "https://cdn.altstore.io/file/altstore/images/delta/Delta4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.Delta",
+   "name": "Delta",
+   "developerName": "Riley Testut",
+   "subtitle": "Classic games in your pocket.",
+   "localizedDescription": "Delta is an all-in-one emulator for iOS. Delta builds upon the strengths of its predecessor, GBA4iOS, while expanding to include support for more game systems such as NES, SNES, and N64.\n\nFEATURES\n\nSupported Game Systems\n• Nintendo Entertainment System\n• Super Nintendo Entertainment System\n• Nintendo 64\n• Game Boy (Color)\n• Game Boy Advance\n• Nintendo DS\n• And plenty more to come!\n\nController Support\n• Supports PS4, PS5, Xbox One S, Xbox Series X, and MFi game controllers.\n• Supports bluetooth (and wired) keyboards, as well as the Apple Smart Keyboard.\n• Completely customize button mappings on a per-system, per-controller basis.\n• Map buttons to special “Quick Save”, “Quick Load,” and “Fast Forward” actions.\n\nSave States\n• Save and load save states for any game from the pause menu.\n• Lock save states to prevent them from being accidentally overwritten.\n• Automatically makes backup save states to ensure you never lose your progress.\n• Support for “Quick Saves,” save states that can be quickly saved/loaded with a single button press (requires external controller).\n\nCheats\n• Supports various types of cheat codes for each supported system:\n• NES: Game Genie\n• SNES: Game Genie, Pro Action Replay\n• N64: GameShark\n• GBC: Game Genie, GameShark\n• GBA: Action Replay, Code Breaker, GameShark\n• DS: Action Replay\n\nDelta Sync\n• Sync your games, game saves, save states, cheats, controller skins, and controller mappings between devices.\n• View version histories of everything you sync and optionally restore them to earlier versions.\n• Supports both Google Drive and Dropbox.\n\nCustom Controller Skins\n• Beautiful built-in controller skins for all systems.\n• Import controller skins made by others, or even make your own to share with the world!\n\nHold Button\n• Choose buttons for Delta to hold down on your behalf, freeing up your thumbs to press other buttons instead.\n• Perfect for games that typically require one button be held down constantly (ex: run button in Mario games, or the A button in Mario Kart).\n\nFast Forward\n• Speed through slower parts of games by running the game much faster than normal.\n• Easily enable or disable from the pause menu, or optionally with a mapped button on an external controller.\n\n3D/Haptic Touch\n• Use 3D or Haptic Touch to “peek” at games, save states, and cheat codes.\n• App icon shortcuts allow quick access to your most recently played games, or optionally customize the shortcuts to always include certain games.\n\nGame Artwork\n• Automatically displays appropriate box art for imported games.\n• Change a game’s artwork to anything you want, or select from the built-in game artwork database.\n\nMisc.\n• Gyroscope support (WarioWare: Twisted! only)\n• Microphone support (DS only)\n• Support for delta:// URL scheme to jump directly into a specific game.\n\n**Delta and AltStore LLC are in no way affiliated with Nintendo. The name \"Nintendo\" and all associated game console names are registered trademarks of Nintendo Co., Ltd.**",
+   "iconURL": "https://cdn.altstore.io/file/altstore/images/delta/Delta4.png",
+   "tintColor": "8A28F7",
+   "screenshots": [
+    "https://user-images.githubusercontent.com/705880/277049094-8458028c-92e0-4e73-99de-5dd865b76487.PNG",
+    "https://user-images.githubusercontent.com/705880/277049686-975b9d37-140a-481e-8668-765acdd1dedb.PNG",
+    "https://user-images.githubusercontent.com/705880/277049074-15aabbaf-58f3-4609-b578-60ac7539ced0.PNG",
+    "https://user-images.githubusercontent.com/705880/277049050-e0d90f06-1f38-4736-8c1b-d41ec45d201b.PNG",
+    "https://user-images.githubusercontent.com/705880/277049040-a4dcc9d0-561d-4f1e-87cb-ff03e542a6d7.png"
+   ],
+   "versions": [
+    {
+     "version": "1.7.1",
+     "date": "2025-04-08T14:00:00-05:00Z",
+     "localizedDescription": "This update fixes compatibility with certain N64 games.\n\nPREVIOUS UPDATE\n\nNEW\n\nOnline Multiplayer\n• Play online-compatible Nintendo DS games with friends around the world!\n• Connect via community Nintendo WFC servers\n• Choose one of the default servers (Wiimmfi, WiiLink WFC, or AltWFC), or provide a custom DNS\n\nUpdated N64 Core\n• Uses OpenGL ES 3.0 to render games\n• Fixes many graphical issues (e.g. black textures)\n• Optionally switch back to OpenGL ES 2.0 on per-game basis\n• Custom resolutions by editing `mupen64plus.cfg` file\n• Custom texture packs via Mupen64Plus `hires_texture` directory\n\nGame Screenshots (thanks Chris Rittenhouse!)\n• New pause menu option to take game screenshots\n• Map game controller buttons to take screenshots\n• New `screenshot` input for controller skins\n\nGame Controller Skins\n• Choose a skin to use when a game controller is connected\n• Choose system-wide or per-game\n\nController Case Support\n• Controller skins can adjust position of pause menu via new `menuInsets` property\n• Allows using pause menu with cases such as GAMEBABY and PlayCase\n\nGame Settings\n• New context-menu option for per-game settings\n• Includes “Preferred Game Skin”, “OpenGL ES 3.0” (N64) and “Inserted GBA Game” (DS)\n\nMisc.\n• “Resume” button to easily resume games\n• Additional “Button Pack” icons designed by Louie Mantia\n• Adds dark + tinted variants of primary app icon\n\nFIXED\n\n• Fixed using analog sticks as discrete inputs for controllers with poor calibration (thanks Ian Clawson!)\n• Fixed black/missing/incorrect textures in various N64 games\n• Fixed white screen after (un-)locking device while AirPlaying DS games\n• Fixed no audio for game previews in silent mode when Respect Silent Mode is OFF\n• Fixed showing all save states as incompatible for non-DS systems\n• Fixed crash when viewing save states for unsupported system\n• Fixed missing accessibility label for Settings button\n• Fixed not showing “Reset” button when choosing landscape skin\n• Fixed not showing “Reset” button when choosing per-game Game Controller or AirPlay skins\n• Fixed “Hold Button” description layout after orientation change\n• [Delta Sync] Fixed misleading “file does not exist” errors when previous version is missing\n• [iPad] Fixed quitting all games when using multiple scenes",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_7_1.ipa",
+     "size": 196023694
+    },
+    {
+     "version": "1.7",
+     "date": "2025-03-31T12:00:00-05:00Z",
+     "localizedDescription": "NEW\n\nOnline Multiplayer\n• Play online-compatible Nintendo DS games with friends around the world!\n• Connect via community Nintendo WFC servers\n• Choose one of the default servers (Wiimmfi, WiiLink WFC, or AltWFC), or provide a custom DNS\n\nUpdated N64 Core\n• Uses OpenGL ES 3.0 to render games\n• Fixes many graphical issues (e.g. black textures)\n• Optionally switch back to OpenGL ES 2.0 on per-game basis\n• Custom resolutions by editing `mupen64plus.cfg` file\n• Custom texture packs via Mupen64Plus `hires_texture` directory\n\nGame Screenshots (thanks Chris Rittenhouse!)\n• New pause menu option to take game screenshots\n• Map game controller buttons to take screenshots\n• New `screenshot` input for controller skins\n\nGame Controller Skins\n• Choose a skin to use when a game controller is connected\n• Choose system-wide or per-game\n\nController Case Support\n• Controller skins can adjust position of pause menu via new `menuInsets` property\n• Allows using pause menu with cases such as GAMEBABY and PlayCase\n\nGame Settings\n• New context-menu option for per-game settings\n• Includes “Preferred Game Skin”, “OpenGL ES 3.0” (N64) and “Inserted GBA Game” (DS)\n\nMisc.\n• “Resume” button to easily resume games\n• Additional “Button Pack” icons designed by Louie Mantia\n• Adds dark + tinted variants of primary app icon\n\nFIXED\n\n• Fixed using analog sticks as discrete inputs for controllers with poor calibration (thanks Ian Clawson!)\n• Fixed black/missing/incorrect textures in various N64 games\n• Fixed white screen after (un-)locking device while AirPlaying DS games\n• Fixed no audio for game previews in silent mode when Respect Silent Mode is OFF\n• Fixed showing all save states as incompatible for non-DS systems\n• Fixed crash when viewing save states for unsupported system\n• Fixed missing accessibility label for Settings button\n• Fixed not showing “Reset” button when choosing landscape skin\n• Fixed not showing “Reset” button when choosing per-game Game Controller or AirPlay skins\n• Fixed “Hold Button” description layout after orientation change\n• [Delta Sync] Fixed misleading “file does not exist” errors when previous version is missing\n• [iPad] Fixed quitting all games when using multiple scenes",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_7.ipa",
+     "size": 196022883
+    },
+    {
+     "version": "1.6.3",
+     "date": "2024-09-16T12:00:00-05:00Z",
+     "localizedDescription": "• Fixed not unlocking Experimental Features\n• Fixed misc. visual bugs on iOS 18",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/delta/1_6_3.ipa",
+     "size": 87748210
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     {
+      "name": "get-task-allow"
+     },
+     {
+      "name": "com.apple.developer.game-center"
+     }
+    ],
+    "privacy": [
+     {
+      "name": "Microphone",
+      "usageDescription": "Delta uses your microphone to emulate the Nintendo DS microphone."
+     },
+     {
+      "name": "LocalNetwork",
+      "usageDescription": "Delta uses the local network to communicate with AltServer and enable JIT."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "Allows Delta to use images from your Photo Library as game artwork."
+     }
+    ]
+   }
+  }
+ ]
+}

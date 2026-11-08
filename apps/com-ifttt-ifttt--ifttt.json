@@ -1,0 +1,30 @@
+{
+ "name": "IFTTT",
+ "identifier": "dev.perapp.com-ifttt-ifttt",
+ "subtitle": "IFTTT",
+ "description": "Single-app source for IFTTT (com.ifttt.ifttt). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/a43c2fa5-091f-4b4d-80b4-3dfdd7a590a1/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ifttt.ifttt",
+   "name": "IFTTT",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: IFTTT - Automate Work and Home\n\nTweak: Pro+ Unlocked with unlimited applets\n\nVersion: 4.96.1\n\nNotes: app has only been lightly tested however everything should work normally.\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/a43c2fa5-091f-4b4d-80b4-3dfdd7a590a1/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.96.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: IFTTT - Automate Work and Home\n\nTweak: Pro+ Unlocked with unlimited applets\n\nVersion: 4.96.1\n\nNotes: app has only been lightly tested however everything should work normally.\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/2debfb6c-1a1a-4f93-bccc-8edefaac0542/IFTTT_-_Automate_work_and_home-v4.96.1-riftysipas.ipa",
+     "size": 54458500
+    }
+   ]
+  }
+ ]
+}

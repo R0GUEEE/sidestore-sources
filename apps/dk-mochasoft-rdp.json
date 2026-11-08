@@ -1,0 +1,30 @@
+{
+ "name": "RDP",
+ "identifier": "dev.perapp.dk-mochasoft-rdp",
+ "subtitle": "ipaomtk.com | Remoter VNC IPA v6.2.0 is a powerful remote desktop application designed exclusively for iOS devices, enab",
+ "description": "Single-app source for RDP (dk.mochasoft.rdp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Remoter-VNC-8211-Remote-Desktop-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "dk.mochasoft.rdp",
+   "name": "RDP",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Remoter VNC IPA v6.2.0 is a powerful remote desktop application designed exclusively for iOS devices, enabling users to connect and cont",
+   "localizedDescription": "ipaomtk.com | Remoter VNC IPA v6.2.0 is a powerful remote desktop application designed exclusively for iOS devices, enabling users to connect and cont",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/01/Remoter-VNC-8211-Remote-Desktop-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2",
+     "date": "2025-01-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Remoter VNC IPA v6.2.0 is a powerful remote desktop application designed exclusively for iOS devices, enabling users to connect and cont",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Remote_Desktop_RDP-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

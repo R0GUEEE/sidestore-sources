@@ -1,0 +1,44 @@
+{
+ "name": "Zing",
+ "identifier": "dev.perapp.com-coach-zing",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Zing (com.coach.zing). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.coach.zing",
+   "name": "Zing",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.coach.zing.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.115.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-10-2025/Zing_1.115.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 275527221
+    },
+    {
+     "version": "1.113.1",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/26-08-2025/Zing_1.113.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 238891783
+    },
+    {
+     "version": "1.113.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Zing_1.113.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 238889772
+    }
+   ]
+  }
+ ]
+}

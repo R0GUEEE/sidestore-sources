@@ -1,0 +1,30 @@
+{
+ "name": "Asspp",
+ "identifier": "dev.perapp.wiki-qaq-asspp",
+ "subtitle": "Manage multiple Apple IDs across App Store regions: switch stores instantly, browse and download official IPAs from anyw",
+ "description": "Single-app source for Asspp (wiki.qaq.Asspp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "wiki.qaq.Asspp",
+   "name": "Asspp",
+   "developerName": "Lakr233",
+   "subtitle": "Manage multiple Apple IDs across App Store regions: switch stores instantly, browse and download official IPAs from anywhere, and keep a searchable…",
+   "localizedDescription": "Manage multiple Apple IDs across App Store regions: switch stores instantly, browse and download official IPAs from anywhere, and keep a searchable IPA library with older versions — no signing out of your device required.\n\nDownloads go through Apple's servers with your own Apple ID. Because the underlying protocol is the same one ipatool uses, a secondary or burner account is strongly recommended.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Asspp/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.2.0",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Manage multiple Apple IDs across App Store regions: switch stores instantly, browse and download official IPAs from anywhere, and keep a searchable…",
+     "downloadURL": "https://github.com/Lakr233/Asspp/releases/download/4.2.2/Asspp.ipa",
+     "size": 16458246
+    }
+   ]
+  }
+ ]
+}

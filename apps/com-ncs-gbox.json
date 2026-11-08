@@ -1,0 +1,30 @@
+{
+ "name": "GBox",
+ "identifier": "dev.perapp.com-ncs-gbox",
+ "subtitle": "@ipa_dark | 🔄 GBox  🇷🇺 Приложение для подписи и установки .ipa файлов с сертификатом разработчика.   ℹ️ Особенности: ▎По",
+ "description": "Single-app source for GBox (com.ncs.gbox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1837.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ncs.gbox",
+   "name": "GBox",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 GBox  🇷🇺 Приложение для подписи и установки .ipa файлов с сертификатом разработчика.   ℹ️ Особенности: ▎Подпись приложений ▎Установка ду",
+   "localizedDescription": "@ipa_dark | 🔄 GBox  🇷🇺 Приложение для подписи и установки .ipa файлов с сертификатом разработчика.   ℹ️ Особенности: ▎Подпись приложений ▎Установка ду\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1837.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.1.3",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 GBox  🇷🇺 Приложение для подписи и установки .ipa файлов с сертификатом разработчика.   ℹ️ Особенности: ▎Подпись приложений ▎Установка ду",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1837-GBox%20%5Bv6.1.3%5D%28tg@ipa_dark%29.ipa",
+     "size": 7559101
+    }
+   ]
+  }
+ ]
+}

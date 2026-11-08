@@ -1,0 +1,39 @@
+{
+ "name": "Proton Stream",
+ "identifier": "dev.perapp.io-narl-protonstream",
+ "subtitle": "a client to stream videos (shows, movies) from proton drive",
+ "description": "Single-app source for Proton Stream (io.narl.protonstream). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7e5dfd",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.narl.protonstream.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.narl.protonstream",
+   "name": "Proton Stream",
+   "developerName": "narrrl",
+   "subtitle": "a client to stream videos (shows, movies) from proton drive",
+   "localizedDescription": "proton-stream:\n\nYour Proton Drive, streaming. A Netflix-style library for the videos in your Proton Drive and the share links people send you, on Linux, Windows, Android, Android TV and iOS.\n\nproton-stream.narl.io.\n\nThis is an unofficial, community-built client. It is not affiliated with, endorsed by, or supported by Proton AG. \"Proton\" and \"Proton Drive\" are trademarks of Proton AG, used here only to describe what the software talks to. It provides no content: it plays what you keep in Proton Drive or what is shared with you.\n\nFeatures:\n\nLibrary.\n\n• Public share links or your own Drive. Paste a share link, with its password if it has one, or sign in and pick folders of your Drive. Any number of them merge into one library.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.narl.protonstream.png",
+   "tintColor": "#7e5dfd",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/narrrl/proton-stream@main/images/android-home.png",
+    "https://cdn.jsdelivr.net/gh/narrrl/proton-stream@main/images/android-library.png",
+    "https://cdn.jsdelivr.net/gh/narrrl/proton-stream@main/images/android-title.png",
+    "https://cdn.jsdelivr.net/gh/narrrl/proton-stream@main/images/android-episodes.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2026-10-31T14:05:55Z",
+     "localizedDescription": "Fixes:\n\n• Android: the player's choosers no longer close on their own. The episode list, and the track, speed, chapter and sleep choosers, closed a few seconds after opening while a video played: the player's controls hid themselves and took the open chooser with them. The controls now stay up while a chooser is open.",
+     "downloadURL": "https://github.com/narrrl/proton-stream/releases/download/v2.0.1/proton-stream-2.0.1-ios.ipa",
+     "size": 26176300
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

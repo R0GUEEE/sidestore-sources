@@ -1,0 +1,30 @@
+{
+ "name": "EeveeSpotify (v6.8.8 - Patched)",
+ "identifier": "dev.perapp.com-spotify-client-ios-eevee-6-8-8-patched-9-1-76",
+ "subtitle": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+ "description": "Single-app source for EeveeSpotify (v6.8.8 - Patched) (com.spotify.client.ios.eevee.6.8.8.patched.9.1.76). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.eevee.6.8.8.patched.9.1.76",
+   "name": "EeveeSpotify (v6.8.8 - Patched)",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+   "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.76",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+     "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8-9.1.76_Patched.ipa",
+     "size": 131874912
+    }
+   ]
+  }
+ ]
+}

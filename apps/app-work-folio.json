@@ -1,0 +1,30 @@
+{
+ "name": "Актив",
+ "identifier": "dev.perapp.app-work-folio",
+ "subtitle": "@ipa_dark | 🔄 Сбер Инвестиции  🇷🇺 Обновлённое приложение Инвестиции Сбербанка, добавленное в appstore под видом другого ",
+ "description": "Single-app source for Актив (app.work.folio). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1724.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.work.folio",
+   "name": "Актив",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Сбер Инвестиции  🇷🇺 Обновлённое приложение Инвестиции Сбербанка, добавленное в appstore под видом другого приложения \"Актив\".  ℹ️ Особен",
+   "localizedDescription": "@ipa_dark | 🔄 Сбер Инвестиции  🇷🇺 Обновлённое приложение Инвестиции Сбербанка, добавленное в appstore под видом другого приложения \"Актив\".  ℹ️ Особен\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1724.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.0",
+     "date": "2026-09-19T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Сбер Инвестиции  🇷🇺 Обновлённое приложение Инвестиции Сбербанка, добавленное в appstore под видом другого приложения \"Актив\".  ℹ️ Особен",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1724-Sber%20invest%20activ%20%5Bv4.0.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 96950614
+    }
+   ]
+  }
+ ]
+}

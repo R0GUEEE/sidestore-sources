@@ -1,0 +1,30 @@
+{
+ "name": "AudioTrimmer",
+ "identifier": "dev.perapp.com-unknown-audiotrimmer",
+ "subtitle": "ئەپڵیکەیشنێک بۆ بڕینی مۆسیقا",
+ "description": "Single-app source for AudioTrimmer (com.unknown.audiotrimmer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/AudioTrimmer.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.audiotrimmer",
+   "name": "AudioTrimmer",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپڵیکەیشنێک بۆ بڕینی مۆسیقا",
+   "localizedDescription": "ئەپڵیکەیشنێک بۆ بڕینی مۆسیقا",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-2/AudioTrimmer.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.54",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپڵیکەیشنێک بۆ بڕینی مۆسیقا",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/AudioTrimmer_1.0.54_3BodSy.ipa",
+     "size": 5120000
+    }
+   ]
+  }
+ ]
+}

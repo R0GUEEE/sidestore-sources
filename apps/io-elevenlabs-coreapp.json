@@ -1,0 +1,30 @@
+{
+ "name": "ElevenLabs",
+ "identifier": "dev.perapp.io-elevenlabs-coreapp",
+ "subtitle": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Satella: Unlocks In-App Purchases in some apps and game",
+ "description": "Single-app source for ElevenLabs (io.elevenlabs.coreapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/193136.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.elevenlabs.coreapp",
+   "name": "ElevenLabs",
+   "developerName": "iOSDecrypted",
+   "subtitle": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Satella: Unlocks In-App Purchases in some apps and games. --- Auto RevenueCat: Unlock",
+   "localizedDescription": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Satella: Unlocks In-App Purchases in some apps and games. --- Auto RevenueCat: Unlock",
+   "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/193136.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.26",
+     "date": "2026-08-09T00:00:00Z",
+     "localizedDescription": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Satella: Unlocks In-App Purchases in some apps and games. --- Auto RevenueCat: Unlock",
+     "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/193136-%E2%80%8EElevenLabs_v1.2.26_@iosdecrypted_processed.ipa",
+     "size": 68483167
+    }
+   ]
+  }
+ ]
+}

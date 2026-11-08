@@ -1,0 +1,42 @@
+{
+ "name": "CamGrid",
+ "identifier": "dev.perapp.io-github-vandosketch-camgrid",
+ "subtitle": "Live camera wall for Android, Fire TV, desktop and iOS. Built for go2rtc (RTSP and WebRTC)",
+ "description": "Single-app source for CamGrid (io.github.vandosketch.camgrid). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#446fa9",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.vandosketch.camgrid.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.vandosketch.camgrid",
+   "name": "CamGrid",
+   "developerName": "Vando-sketch",
+   "subtitle": "Live camera wall for Android, Fire TV, desktop and iOS. Built for go2rtc (RTSP and WebRTC)",
+   "localizedDescription": "Screenshots of the real app, playing generated test video instead of real cameras (how they were made).\n\nWhat you get:\n\n• Every camera at a glance. All your cameras live in one grid, on the TV in the kitchen, the tablet by the door or the monitor on your desk. Leave it running and it keeps playing: dropped streams reconnect by themselves and the screen stays on.\n• One press for the full picture. Tap a tile, or press OK on the remote, and that camera fills the screen in full resolution with sound. Left and right step through the others.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.vandosketch.camgrid.png",
+   "tintColor": "#446fa9",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Vando-sketch/CamGrid@main/docs/images/real-grid.png",
+    "https://cdn.jsdelivr.net/gh/Vando-sketch/CamGrid@main/docs/images/real-fullscreen.png",
+    "https://cdn.jsdelivr.net/gh/Vando-sketch/CamGrid@main/docs/images/real-view-editor.png",
+    "https://cdn.jsdelivr.net/gh/Vando-sketch/CamGrid@main/docs/images/real-import.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-22T11:18:36Z",
+     "localizedDescription": "Added:\n\n• Windows, macOS and Linux: start at login. Settings > Start at login opens CamGrid when you log in, with the window as you left it, for a computer that runs as a camera wall. Off by default and set on each computer, not part of a backup. It uses the system's own login item (Task Manager's Startup apps on Windows, Login Items on macOS, the autostart folder on Linux); see the user guide.\n• Desktop: second monitor. Settings > Second monitor opens a second window with its own view, for a camera wall on two screens. It remembers its view, place and fullscreen, settings always open in the main window, and closing it turns it off. Off by default; set on each computer and not part of a backup. Two screens of cameras need about twice the CPU.\n\nWhich file to download for your device and how to install it: see Install in the README. Android and Fire TV: CamGrid-Android.apk. macOS: CamGrid-macOS-AppleSilicon.dmg. Windows: CamGrid-Windows-x64.msi. Linux: CamGrid-Linux-x64.deb or .rpm. iPhone and iPad: CamGrid-iOS-unsigned.ipa, to sign with your own Apple ID.",
+     "downloadURL": "https://github.com/Vando-sketch/CamGrid/releases/download/v1.0.0/CamGrid-iOS-unsigned.ipa",
+     "size": 36698433
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "CamGrid connects to your cameras and to go2rtc on your local network to show their video.",
+     "NSMicrophoneUsageDescription": "CamGrid never records audio. iOS asks because the WebRTC audio engine used to play a camera's sound is a two-way engine."
+    }
+   }
+  }
+ ]
+}

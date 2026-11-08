@@ -1,0 +1,30 @@
+{
+ "name": "SpotilifeC",
+ "identifier": "dev.perapp.com-yodaluca23-spotilifec",
+ "subtitle": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. Th",
+ "description": "Single-app source for SpotilifeC (com.yodaluca23.SpotilifeC). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yodaluca23.SpotilifeC",
+   "name": "SpotilifeC",
+   "developerName": "Julioverne",
+   "subtitle": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature th",
+   "localizedDescription": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature th",
+   "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotilifeC%20AppIcon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.3",
+     "date": "2026-06-03T00:00:00Z",
+     "localizedDescription": "Spotilife is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. The only main premium feature th",
+     "downloadURL": "https://archive.org/download/SpotilifeCreleases/SpotilifeC/v1.2.3/SpotilifeC.v1.2.3_v8.6.42.ipa",
+     "size": 47954000
+    }
+   ]
+  }
+ ]
+}

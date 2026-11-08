@@ -1,0 +1,30 @@
+{
+ "name": "SpeedTest",
+ "identifier": "dev.perapp.co-allconnected-speedtest",
+ "subtitle": "SpeedTest",
+ "description": "Single-app source for SpeedTest (co.allconnected.speedtest). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5e/85/d65e85a2-7e26-597d-e19a-4b4f9a5bb48e/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "co.allconnected.speedtest",
+   "name": "SpeedTest",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nSpeedTest v2.70.6\n\n🇷🇺 Измеряйте скорость загрузки и скачивания, пинг и стабильность сети. Быстрый тест одним кликом, сохранение истории и графиков, подбор ближайших серверов и полезные советы по улучшению качества связи и экономии трафика на iOS.\n— Активирован ViP\n© Создано: GLESign\n\n🇺🇸 Measure download and upload speeds, ping, and network stability. Quick one-tap test, history and graphs, smart nearby servers, and practical tips to improve connection quality and save data on iOS. Designed for iOS with privacy in mind.\n— ViP activated\n© Created: GLESign",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d6/5e/85/d65e85a2-7e26-597d-e19a-4b4f9a5bb48e/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.70.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nSpeedTest v2.70.6\n\n🇷🇺 Измеряйте скорость загрузки и скачивания, пинг и стабильность сети. Быстрый тест одним кликом, сохранение истории и графиков, подбор ближайших серверов и полезные советы по улучшению качества связи и экономии трафика на iOS.\n— Активирован ViP\n© Создано: GLESign\n\n🇺🇸 Measure download and upload speeds, ping, and network stability. Quick one-tap test, history and graphs, smart nearby servers, and practical tips to improve connection quality and save data on iOS. Designed for iOS with privacy in mind.\n— ViP activated\n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/19ecee56-378a-4b14-b250-c3ba7183e364/SpeedTest_v2.70.6_tg_glesign_.ipa",
+     "size": 26107605
+    }
+   ]
+  }
+ ]
+}

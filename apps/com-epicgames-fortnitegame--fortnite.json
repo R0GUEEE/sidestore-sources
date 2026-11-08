@@ -1,0 +1,45 @@
+{
+ "name": "Fortnite",
+ "identifier": "dev.perapp.com-epicgames-fortnitegame",
+ "subtitle": "REQUIRED - Paid Developer Certificate",
+ "description": "Single-app source for Fortnite (com.epicgames.FortniteGame). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "848ef9",
+ "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277815911663009884/83710856-94A3-4E83-B15A-17E138DA5813.jpg?ex=66ce8a4e&is=66cd38ce&hm=86bdd99bb85f7299c6bcf5d381f2571305bb03a85b42cb21fac0f02688945881&",
+ "apps": [
+  {
+   "bundleIdentifier": "com.epicgames.FortniteGame",
+   "name": "Fortnite",
+   "developerName": "Epic Games & Celestial Devs",
+   "subtitle": "REQUIRED - Paid Developer Certificate",
+   "localizedDescription": "It’s Fortnite for iOS. There is no more to say.",
+   "iconURL": "https://cdn.discordapp.com/attachments/1277812554680500254/1277815911663009884/83710856-94A3-4E83-B15A-17E138DA5813.jpg?ex=66ce8a4e&is=66cd38ce&hm=86bdd99bb85f7299c6bcf5d381f2571305bb03a85b42cb21fac0f02688945881&",
+   "tintColor": "848ef9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "36.00.1",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1529",
+     "size": 264066059
+    },
+    {
+     "version": "v32.00",
+     "date": "2024-11-05T18:34:10Z",
+     "localizedDescription": "",
+     "downloadURL": "https://fortniteipa.b-cdn.net/Fortnite-32.00.ipa",
+     "size": 242640000
+    },
+    {
+     "version": "37.00",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nFortnite v37.00\n\n🇷🇺Легендарная мультиплеерная игра снова на iOS\n— Приложение из маркета Epic Games\n— Работает на сертификате GLESign\n— Требуется iOS 17.0\n© Создано: GLESign\n\n🇺🇸The legendary multiplayer game is back on iOS\n— An application from the Epic Games market\n— It works on the GLESign certificates\n— Requires iOS 17.0\n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/ac771af7-52df-4060-9398-dafcd8684487/Fortnite_v37.00_tg_glesign_.ipa",
+     "size": 273900140
+    }
+   ],
+   "appPermissions": {}
+  }
+ ]
+}

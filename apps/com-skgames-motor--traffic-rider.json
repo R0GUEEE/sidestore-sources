@@ -1,0 +1,30 @@
+{
+ "name": "Traffic Rider",
+ "identifier": "dev.perapp.com-skgames-motor",
+ "subtitle": "Traffic Rider by Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
+ "description": "Single-app source for Traffic Rider (com.skgames.motor). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/18/1a/ac181a5c-8281-757c-3e9a-61241ea35b7e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skgames.motor",
+   "name": "Traffic Rider",
+   "developerName": "Skgames Yazilim Muhendislik Teknoloji Ltd. Sti.",
+   "subtitle": "",
+   "localizedDescription": "Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/18/1a/ac181a5c-8281-757c-3e9a-61241ea35b7e/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2025-02-10T00:00:00Z",
+     "localizedDescription": "Free iAP - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a9c48b72b77be7cfa3b4e6",
+     "size": 130949906
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "name": "Palettify",
+ "identifier": "dev.perapp.com-nathanhanapps-styleport",
+ "subtitle": "This is a personal repo for porting new Photographic Styles in iPhone to older model below 15",
+ "description": "Single-app source for Palettify (com.nathanhanapps.styleport). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#519c86",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nathanhanapps.styleport.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nathanhanapps.styleport",
+   "name": "Palettify",
+   "developerName": "nathanatgit",
+   "subtitle": "This is a personal repo for porting new Photographic Styles in iPhone to older model below 15",
+   "localizedDescription": "Photographic Style Port:\n\nCurrent version: v0.7.5.\n\nThis is an experimental tool that takes a HEIC from an iPhone older than the iPhone 16 (iPhone 15, 14, 13 … — any model whose photos match a supported tile layout) and adds the metadata an iPhone 16/17 photo carries, so that Apple Photos offers the Photographic Styles palette on it (风格 in Chinese; Apple calls the palette 调色板).\n\nSince v0.5 it also adds the iOS 27 Texture/Grain controls (质感/颗粒) that Apple introduced with the iPhone 18 Pro. Ported photos get them as part of the port; native iPhone 16/17 photos get only these controls, and their existing image data stays byte-identical.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nathanhanapps.styleport.png",
+   "tintColor": "#519c86",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.7.5",
+     "date": "2026-11-04T19:31:04Z",
+     "localizedDescription": "New Contributors:\n\n• @joy-0220-yoj made their first contribution.",
+     "downloadURL": "https://github.com/nathanatgit/Shalielie/releases/download/v0.7.5/Palettify-unsigned.ipa",
+     "size": 47189085
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.security.application-groups"
+    ],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "Palettify saves the styled photos to your library.",
+     "NSPhotoLibraryUsageDescription": "Palettify reads the original HEIC and Live Photo video of the photos you style, and replaces them when you ask it to."
+    }
+   }
+  }
+ ]
+}

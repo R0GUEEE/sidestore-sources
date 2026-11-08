@@ -1,0 +1,30 @@
+{
+ "name": "Unpacking+",
+ "identifier": "dev.perapp.com-humblebundle-unpackingplus",
+ "subtitle": "@ipa_dark | 🔄 Unpacking+ - appstore  🇷🇺 Уютная головоломка, где нужно распаковывать коробки после переездов и раскладыва",
+ "description": "Single-app source for Unpacking+ (com.humblebundle.unpackingplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1681.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.humblebundle.unpackingplus",
+   "name": "Unpacking+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Unpacking+ - appstore  🇷🇺 Уютная головоломка, где нужно распаковывать коробки после переездов и раскладывать вещи по своим местам, посте",
+   "localizedDescription": "@ipa_dark | 🔄 Unpacking+ - appstore  🇷🇺 Уютная головоломка, где нужно распаковывать коробки после переездов и раскладывать вещи по своим местам, посте",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1681.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-08-29T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Unpacking+ - appstore  🇷🇺 Уютная головоломка, где нужно распаковывать коробки после переездов и раскладывать вещи по своим местам, посте",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1681-Unpacking+%20%5Bv1.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 334648014
+    }
+   ]
+  }
+ ]
+}

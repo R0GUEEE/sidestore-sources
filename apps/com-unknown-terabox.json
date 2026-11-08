@@ -1,0 +1,30 @@
+{
+ "name": "TeraBox",
+ "identifier": "dev.perapp.com-unknown-terabox",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    1024 گێگابایت شوێنی هەوری هەمیشەیی هەیە ✅  دەستگەیشتن بە هەمو ئەو ناوەڕۆکانەی کەلە ستۆ",
+ "description": "Single-app source for TeraBox (com.unknown.terabox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/TeraBox.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.terabox",
+   "name": "TeraBox",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    1024 گێگابایت شوێنی هەوری هەمیشەیی هەیە ✅  دەستگەیشتن بە هەمو ئەو ناوەڕۆکانەی کەلە ستۆریجدا هەڵتگرتوە ✅  پێشبینی وێن",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    1024 گێگابایت شوێنی هەوری هەمیشەیی هەیە ✅  دەستگەیشتن بە هەمو ئەو ناوەڕۆکانەی کەلە ستۆریجدا هەڵتگرتوە ✅  پێشبینی وێن",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/TeraBox.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.36.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامەکە⚙️    1024 گێگابایت شوێنی هەوری هەمیشەیی هەیە ✅  دەستگەیشتن بە هەمو ئەو ناوەڕۆکانەی کەلە ستۆریجدا هەڵتگرتوە ✅  پێشبینی وێن",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/TeraBox3.36.0.ipa",
+     "size": 113470000
+    }
+   ]
+  }
+ ]
+}

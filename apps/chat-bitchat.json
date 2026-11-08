@@ -1,0 +1,30 @@
+{
+ "name": "Bitchat",
+ "identifier": "dev.perapp.chat-bitchat",
+ "subtitle": "Decentralized Bluetooth mesh chat.",
+ "description": "Single-app source for Bitchat (chat.bitchat). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/bitchat_1.0.0_1752444072.png",
+ "apps": [
+  {
+   "bundleIdentifier": "chat.bitchat",
+   "name": "Bitchat",
+   "developerName": "Bitchat x CyPwn",
+   "subtitle": "Decentralized Bluetooth mesh chat.",
+   "localizedDescription": "Decentralized Bluetooth mesh chat.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/bitchat_1.0.0_1752444072.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Decentralized Bluetooth mesh chat.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/bitchat_1.0.0_1752444072.ipa",
+     "size": 563496
+    }
+   ]
+  }
+ ]
+}

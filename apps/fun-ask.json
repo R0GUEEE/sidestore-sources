@@ -1,0 +1,44 @@
+{
+ "name": "NGL",
+ "identifier": "dev.perapp.fun-ask",
+ "subtitle": "scholars lounge | NGL Version: 6.2.111 Bundle ID: fun.ask AppStore link: https://apps.apple.com/app/id1596550932 Pro Unl",
+ "description": "Single-app source for NGL (fun.ask). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68969.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fun.ask",
+   "name": "NGL",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | NGL Version: 6.2.111 Bundle ID: fun.ask AppStore link: https://apps.apple.com/app/id1596550932 Pro Unlocked Made by @z0_0_1",
+   "localizedDescription": "scholars lounge | NGL Version: 6.2.111 Bundle ID: fun.ask AppStore link: https://apps.apple.com/app/id1596550932 Pro Unlocked Made by @z0_0_1",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68969.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.111",
+     "date": "2026-08-04T00:00:00Z",
+     "localizedDescription": "scholars lounge | NGL Version: 6.2.111 Bundle ID: fun.ask AppStore link: https://apps.apple.com/app/id1596550932 Pro Unlocked Made by @z0_0_1",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/68969-NGL-6.2.111.ipa",
+     "size": 99090307
+    },
+    {
+     "version": "6.1.122",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to y",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.122.ipa",
+     "size": 53659706
+    },
+    {
+     "version": "6.1.90",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "An anonymous messaging app that gives you a link to share on social networks like Instagram or Snapchat. Your followers can then follow this link to y",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NGLPro/NGLPro-6.1.90.ipa",
+     "size": 42194610
+    }
+   ]
+  }
+ ]
+}

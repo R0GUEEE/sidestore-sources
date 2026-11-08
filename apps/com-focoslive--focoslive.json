@@ -1,0 +1,30 @@
+{
+ "name": "FocosLive",
+ "identifier": "dev.perapp.com-focoslive",
+ "subtitle": "FocosLive by Holloway",
+ "description": "Single-app source for FocosLive (com.focoslive). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380931.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.focoslive",
+   "name": "FocosLive",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380931.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.3",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1735",
+     "size": 150217405
+    }
+   ]
+  }
+ ]
+}

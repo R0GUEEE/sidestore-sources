@@ -1,0 +1,44 @@
+{
+ "name": "Flight Tracker",
+ "identifier": "dev.perapp.com-iaftt-flightplusfree",
+ "subtitle": "@blatants | Flight Tracker +  • Bundle ID: com.iaftt.flightplusfree • Reuploaded: 8.7.20 • Minimum iOS: 16.0 • Patched •",
+ "description": "Single-app source for Flight Tracker (com.iaftt.flightplusfree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11466.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iaftt.flightplusfree",
+   "name": "Flight Tracker",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | Flight Tracker +  • Bundle ID: com.iaftt.flightplusfree • Reuploaded: 8.7.20 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unlock",
+   "localizedDescription": "@blatants | Flight Tracker +  • Bundle ID: com.iaftt.flightplusfree • Reuploaded: 8.7.20 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unlock",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11466.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.8.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Flight Tracker +  • Bundle ID: com.iaftt.flightplusfree • Updated to: 8.8.3 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unlocke",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/FlightTracker_8.8.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 107422234
+    },
+    {
+     "version": "8.8.2",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@blatants | Flight Tracker +  • Bundle ID: com.iaftt.flightplusfree • Updated to: 8.8.2 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unlocke",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/FlightTracker_8.8.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 101825170
+    },
+    {
+     "version": "8.8.1",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@blatants | Flight Tracker +  • Bundle ID: com.iaftt.flightplusfree • Updated to: 8.8.1 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unlocke",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12896-Flight_Tracker_+_v8_8_1_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 101747577
+    }
+   ]
+  }
+ ]
+}

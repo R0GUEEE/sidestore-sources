@@ -1,0 +1,30 @@
+{
+ "name": "Dead Raid Zombie",
+ "identifier": "dev.perapp.synthetic-dead-raid-zombie-ad3d96a4",
+ "subtitle": "Dead Raid Zombie by Karbin-Store",
+ "description": "Single-app source for Dead Raid Zombie (synthetic.dead-raid-zombie.ad3d96a4). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Dead.Raid.Zombie.Shooter.Enjoy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.dead-raid-zombie.ad3d96a4",
+   "name": "Dead Raid Zombie",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Dead.Raid.Zombie.Shooter.Enjoy.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.18.0",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Dead.Raid.Zombie.Shooter.Enjoy._1.18.0_1737231637.ipa",
+     "size": 194080000
+    }
+   ]
+  }
+ ]
+}

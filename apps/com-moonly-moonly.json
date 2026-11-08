@@ -1,0 +1,44 @@
+{
+ "name": "Moonly",
+ "identifier": "dev.perapp.com-moonly-moonly",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Moonly (com.moonly.Moonly). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.moonly.Moonly",
+   "name": "Moonly",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9.5",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Moonly: Your Spiritual Guide  • Bundle ID: com.moonly.Moonly • Updated to: 2.9.5 • Minimum iOS: 17.0 • Patched • Modifier: Pro Unlocked • ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Moonly_2.9.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 125308231
+    },
+    {
+     "version": "2.9.4",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@blatants | Moonly: Your Spiritual Guide  • Bundle ID: com.moonly.Moonly • Updated to: 2.9.4 • Minimum iOS: 16.2 • Patched • Modifier: Pro Unlocked • ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Moonly_2.9.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 122941418
+    },
+    {
+     "version": "2.9.3",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "@blatants | Moonly: Moon Phases & Calendar  • Bundle ID: com.moonly.Moonly • Updated to: 2.9.3 • Minimum iOS: 16.2 • Patched • Modifier: Pro Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12688-Moonly_Moon_Phases_&_Calendar_v2_9_3_Pro_Unlocked_blatant_Patched.ipa",
+     "size": 122253085
+    }
+   ]
+  }
+ ]
+}

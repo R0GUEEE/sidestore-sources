@@ -1,0 +1,30 @@
+{
+ "name": "DoorDashDasher",
+ "identifier": "dev.perapp.com-doordash-dasher",
+ "subtitle": "Dasher app (the delivery one), decrypted for iOS 14 users who can't get it from the App Store Last updated: 04-13-2023 S",
+ "description": "Single-app source for DoorDashDasher (com.doordash.dasher). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.doordash.dasher.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.doordash.dasher",
+   "name": "DoorDashDasher",
+   "developerName": "N/A",
+   "subtitle": "Dasher app (the delivery one), decrypted for iOS 14 users who can't get it from the App Store Last updated: 04-13-2023 Status: ⚠️",
+   "localizedDescription": "Dasher app (the delivery one), decrypted for iOS 14 users who can't get it from the App Store Last updated: 04-13-2023 Status: ⚠️",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.doordash.dasher.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.263.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Dasher app (the delivery one), decrypted for iOS 14 users who can't get it from the App Store Last updated: 04-13-2023 Status: ⚠️",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-13-2023/DoorDashDasher-2.263.0.ipa",
+     "size": 82444706
+    }
+   ]
+  }
+ ]
+}

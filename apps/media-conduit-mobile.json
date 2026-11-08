@@ -1,0 +1,36 @@
+{
+ "name": "conduit",
+ "identifier": "dev.perapp.media-conduit-mobile",
+ "subtitle": "Self-hosted film and television app with web, desktop, Android, iOS, and experimental Android TV clients",
+ "description": "Single-app source for conduit (media.conduit.mobile). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d69f11",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/media.conduit.mobile.png",
+ "apps": [
+  {
+   "bundleIdentifier": "media.conduit.mobile",
+   "name": "conduit",
+   "developerName": "davidvanderklay",
+   "subtitle": "Self-hosted film and television app with web, desktop, Android, iOS, and experimental Android TV clients",
+   "localizedDescription": "Conduit:\n\nA self-hosted film and television app built around Stremio-compatible add-ons. Share household profiles, libraries, and watch progress across your devices. Clients fetch catalogs and media directly from add-ons and sources.\n\nContribute · Ask a question.\n\nPlatform status:\n\nPre-release software. Keep profile exports and database backups.\n\nHelp build Conduit:\n\nCode, documentation, reproducible bug reports, and device testing are welcome.\n\nand comment before starting.\n\n• Read the contribution guide and development setup.\n• Use Discussions for questions, ideas, and device test results.\n\nWhat Conduit does:\n\n• Shared household profiles with independent libraries and watch history.\n• Stremio-compatible catalogs, metadata, streams, and subtitles.\n• Web and Electron desktop clients backed by one shared interface.\n• Android and iOS clients with shared Compose UI and native playback.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/media.conduit.mobile.png",
+   "tintColor": "#d69f11",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/davidvanderklay/conduit@main/docs/assets/screenshots/web-home.png"
+   ],
+   "versions": [
+    {
+     "version": "0.1.6",
+     "date": "2026-11-07T14:10:24Z",
+     "localizedDescription": "ios 0.1.6-nightly.20261107.41:\n\nPackaging release with no component source changes.\n\nChanges since ios/v0.1.6-nightly.20261105.38.",
+     "downloadURL": "https://github.com/davidvanderklay/conduit/releases/download/ios/v0.1.6-nightly.20261107.41/conduit-0.1.6-nightly.20261107.41-ios-unsigned.ipa",
+     "size": 46617644
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

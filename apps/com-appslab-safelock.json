@@ -1,0 +1,30 @@
+{
+ "name": "SafeLockPremium",
+ "identifier": "dev.perapp.com-appslab-safelock",
+ "subtitle": "Tweaks: SatellaJailed, chocohunm",
+ "description": "Single-app source for SafeLockPremium (com.appslab.safelock). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.appslab.safelock.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.appslab.safelock",
+   "name": "SafeLockPremium",
+   "developerName": "Manpreet Singh @thisismanpreets",
+   "subtitle": "Tweaks: SatellaJailed, chocohunm",
+   "localizedDescription": "Tweaks: SatellaJailed, chocohunm\n\nThis app offers advanced security features including PIN-code, Touch ID, Face ID, DotLock, and both numeric and alphabetic passwords, ensuring that your confidential photo album is securely locked and protected from unauthorized viewers.\nLast updated: 04-23-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.appslab.safelock.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.14",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed, chocohunm\n\nThis app offers advanced security features including PIN-code, Touch ID, Face ID, DotLock, and both numeric and alphabetic passwords, ensuring that…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SafeLockPremium/SafeLockPremium-2.14.ipa",
+     "size": 16341590
+    }
+   ]
+  }
+ ]
+}

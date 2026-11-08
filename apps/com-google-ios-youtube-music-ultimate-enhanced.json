@@ -1,0 +1,44 @@
+{
+ "name": "YouTube Music Ultimate Enchanced",
+ "identifier": "dev.perapp.com-google-ios-youtube-music-ultimate-enhanced",
+ "subtitle": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more i",
+ "description": "Single-app source for YouTube Music Ultimate Enchanced (com.google.ios.youtube.music.ultimate.enhanced). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.music.ultimate.enhanced",
+   "name": "YouTube Music Ultimate Enchanced",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at: h",
+   "localizedDescription": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at: h\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.43.2",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at: h",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTubeMusic9.43Moe-Ultimate2.4.1Patched.ipa",
+     "size": 110030324
+    },
+    {
+     "version": "9.40.2",
+     "date": "2026-10-11T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at: h",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTubeMusic9.40Moe-Ultimate2.4.1Patched.ipa",
+     "size": 110468420
+    },
+    {
+     "version": "9.33.6",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at: h",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouTubeMusic9.33.6Moe-Ultimate2.4.1Patched.ipa",
+     "size": 103482151
+    }
+   ]
+  }
+ ]
+}

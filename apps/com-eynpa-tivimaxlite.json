@@ -1,0 +1,30 @@
+{
+ "name": "TiviMax",
+ "identifier": "dev.perapp.com-eynpa-tivimaxlite",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for TiviMax (com.eynpa.tivimaxlite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eynpa.tivimaxlite.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.eynpa.tivimaxlite",
+   "name": "TiviMax",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eynpa.tivimaxlite.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6.1",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-04-2026/TiviMax_3.6.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 28621376
+    }
+   ]
+  }
+ ]
+}

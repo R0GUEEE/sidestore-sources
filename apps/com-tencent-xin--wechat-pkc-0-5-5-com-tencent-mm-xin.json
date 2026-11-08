@@ -1,0 +1,30 @@
+{
+ "name": "WeChat (PKC 0.5.5 com.tencent.mm.xin)",
+ "identifier": "dev.perapp.com-tencent-xin",
+ "subtitle": "Tweaks: MiYou, PKCWeChatTools",
+ "description": "Single-app source for WeChat (PKC 0.5.5 com.tencent.mm.xin) (com.tencent.xin). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tencent.xin",
+   "name": "WeChat (PKC 0.5.5 com.tencent.mm.xin)",
+   "developerName": "OwO Source",
+   "subtitle": "Tweaks: MiYou, PKCWeChatTools",
+   "localizedDescription": "Tweaks: MiYou, PKCWeChatTools\n\nInjected with PKC 0.5.5 MiYou 3.7.8 XNSP 2.0.0 BundleID com.tencent.mm.xin\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.tencent.xin.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0.50",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Tweaks: MiYou, PKCWeChatTools\n\nInjected with PKC 0.5.5 MiYou 3.7.8 XNSP 2.0.0 BundleID com.tencent.mm.xin",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-08-05/WeChat_8.0.50_PKC_0.5.5_MiYou_3.7.8_XNSP_2.0.0_BundleID_com.tencent.mm.xin_@repo.owo.network.ipa",
+     "size": 318991728
+    }
+   ]
+  }
+ ]
+}

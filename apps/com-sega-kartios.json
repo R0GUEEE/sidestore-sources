@@ -1,0 +1,30 @@
+{
+ "name": "Sonic Racing",
+ "identifier": "dev.perapp.com-sega-kartios",
+ "subtitle": "ipaomtk.com | Sonic Racing IPA is a racing game for iOS developed by SEGA. It features colorful visuals, easy-to-learn c",
+ "description": "Single-app source for Sonic Racing (com.sega.kartios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Sonic-Racing-IPA-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sega.kartios",
+   "name": "Sonic Racing",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Sonic Racing IPA is a racing game for iOS developed by SEGA. It features colorful visuals, easy-to-learn controls, Sonic Racing APK and ",
+   "localizedDescription": "ipaomtk.com | Sonic Racing IPA is a racing game for iOS developed by SEGA. It features colorful visuals, easy-to-learn controls, Sonic Racing APK and ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Sonic-Racing-IPA-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.1",
+     "date": "2023-12-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Sonic Racing IPA is a racing game for iOS developed by SEGA. It features colorful visuals, easy-to-learn controls, Sonic Racing APK and ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Sonic-Racing.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

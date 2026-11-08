@@ -1,0 +1,30 @@
+{
+ "name": "Telegram",
+ "identifier": "dev.perapp.com-unknown-telegram",
+ "subtitle": "هیچ تایبەتمەندیەک بەردەست نیە، تەنها دەتوانیت بکەیت دوو تیلگرام و زیاتر لەسەر موابیلت",
+ "description": "Single-app source for Telegram (com.unknown.telegram). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/telegram.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.telegram",
+   "name": "Telegram",
+   "developerName": "Karbin-Store",
+   "subtitle": "هیچ تایبەتمەندیەک بەردەست نیە، تەنها دەتوانیت بکەیت دوو تیلگرام و زیاتر لەسەر موابیلت",
+   "localizedDescription": "هیچ تایبەتمەندیەک بەردەست نیە، تەنها دەتوانیت بکەیت دوو تیلگرام و زیاتر لەسەر موابیلت",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/telegram.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.5.2",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "هیچ تایبەتمەندیەک بەردەست نیە، تەنها دەتوانیت بکەیت دوو تیلگرام و زیاتر لەسەر موابیلت",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/Telegram_11.5.2_.ipa",
+     "size": 61670000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "WhatsApp++",
+ "identifier": "dev.perapp.net-whatsapp-whatsapp",
+ "subtitle": "WhatsApp but with more amazing features.",
+ "description": "Single-app source for WhatsApp++ (net.whatsapp.WhatsApp). Converted from quantumsource.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2ad347",
+ "iconURL": "https://i.imgur.com/pT4kfwk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsApp",
+   "name": "WhatsApp++",
+   "developerName": "unlimapps",
+   "subtitle": "WhatsApp but with more amazing features.",
+   "localizedDescription": "Features:\n\n• Hide your online and last seen status from others\n• Disable read receipts so that others will not know when you read their message\n• Disable delivery receipts so that others will know when the message has been delivered to you\n• Customize the look and feel of Whatsapp\n• Use a full profile picture that doesn't get cropped\n• Send more than 10 media at once\n• Share music from your device\n• Record audio with a single tap rather than having to tap and hold\n• Lock WhatsApp with Touch ID or passcode",
+   "iconURL": "https://i.imgur.com/pT4kfwk.png",
+   "tintColor": "#2ad347",
+   "screenshots": [
+    "https://i.imgur.com/QA8U38K.png",
+    "https://i.imgur.com/oeY0SpI.png",
+    "https://i.imgur.com/CNv0CNe.png"
+   ],
+   "versions": [
+    {
+     "version": "2.19.71",
+     "date": "2019-08-14T00:00:00Z",
+     "localizedDescription": "Bug fixes.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/WhatsApp%2B%2B.ipa?dl=1",
+     "size": 119535189
+    }
+   ]
+  }
+ ]
+}

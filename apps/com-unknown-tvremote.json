@@ -1,0 +1,37 @@
+{
+ "name": "TV Remote",
+ "identifier": "dev.perapp.com-unknown-tvremote",
+ "subtitle": "بەرنامەیەک کۆنترۆڵکردنی تەلەفزیۆن",
+ "description": "Single-app source for TV Remote (com.unknown.tvremote). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/TV.Remote.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.tvremote",
+   "name": "TV Remote",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک کۆنترۆڵکردنی تەلەفزیۆن",
+   "localizedDescription": "بەرنامەیەک کۆنترۆڵکردنی تەلەفزیۆن",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/TV.Remote.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.3",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک کۆنترۆڵکردنی تەلەفزیۆن",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/TV.Remote._2.0.3_1737216603.ipa",
+     "size": 81880000
+    },
+    {
+     "version": "2024.55",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشنەکە بە تایبەتمەندی تەواوەوە بۆ بەشداربووان بارکراوە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-3/Remote+_2024.55_3BodSy.ipa",
+     "size": 40020000
+    }
+   ]
+  }
+ ]
+}

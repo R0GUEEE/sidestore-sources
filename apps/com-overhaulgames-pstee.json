@@ -1,0 +1,30 @@
+{
+ "name": "Planescape Torment",
+ "identifier": "dev.perapp.com-overhaulgames-pstee",
+ "subtitle": "ipaomtk.com | Planescape: Torment on iOS brings one of the most narrative-focused role-playing games ever created to iPh",
+ "description": "Single-app source for Planescape Torment (com.overhaulgames.pstee). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Planescape-Torment-IPA-v3.1.3-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.overhaulgames.pstee",
+   "name": "Planescape Torment",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Planescape: Torment on iOS brings one of the most narrative-focused role-playing games ever created to iPhone, offering a unique experie",
+   "localizedDescription": "ipaomtk.com | Planescape: Torment on iOS brings one of the most narrative-focused role-playing games ever created to iPhone, offering a unique experie",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Planescape-Torment-IPA-v3.1.3-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.3",
+     "date": "2026-02-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Planescape: Torment on iOS brings one of the most narrative-focused role-playing games ever created to iPhone, offering a unique experie",
+     "downloadURL": "https://file.ipaomtk.com/Planescape-Torment/Planescape-Torment-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

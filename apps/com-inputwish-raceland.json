@@ -1,0 +1,30 @@
+{
+ "name": "Go Rally",
+ "identifier": "dev.perapp.com-inputwish-raceland",
+ "subtitle": "ipaomtk.com | Go Rally iOS, a cutting-edge mobile application that promises to revolutionize your rally driving experien",
+ "description": "Single-app source for Go Rally (com.inputwish.Raceland). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/Go-Rally-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inputwish.Raceland",
+   "name": "Go Rally",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Go Rally iOS, a cutting-edge mobile application that promises to revolutionize your rally driving experience. Whether you’re an avid ral",
+   "localizedDescription": "ipaomtk.com | Go Rally iOS, a cutting-edge mobile application that promises to revolutionize your rally driving experience. Whether you’re an avid ral",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/Go-Rally-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.7",
+     "date": "2024-06-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Go Rally iOS, a cutting-edge mobile application that promises to revolutionize your rally driving experience. Whether you’re an avid ral",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Go-Rally.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

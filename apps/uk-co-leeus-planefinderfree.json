@@ -1,0 +1,44 @@
+{
+ "name": "PlaneFinder",
+ "identifier": "dev.perapp.uk-co-leeus-planefinderfree",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for PlaneFinder (uk.co.leeus.planefinderfree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.co.leeus.planefinderfree",
+   "name": "PlaneFinder",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uk.co.leeus.planefinderfree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.4.1",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/PlaneFinder_2026.4.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 96401688
+    },
+    {
+     "version": "2025.5.1",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-09-2025/PlaneFinder_2025.5.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 110625663
+    },
+    {
+     "version": "2025.5.5",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-11-2025/PlaneFinder_2025.5.5_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 113717675
+    }
+   ]
+  }
+ ]
+}

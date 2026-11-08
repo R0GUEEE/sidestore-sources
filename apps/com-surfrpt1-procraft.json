@@ -1,0 +1,34 @@
+{
+ "name": "ProCraft",
+ "identifier": "dev.perapp.com-surfrpt1-procraft",
+ "subtitle": "This repository is retired",
+ "description": "Single-app source for ProCraft (com.surfrpt1.procraft). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#257d47",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.surfrpt1.procraft.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.surfrpt1.procraft",
+   "name": "ProCraft",
+   "developerName": "surfrpt1",
+   "subtitle": "This repository is retired",
+   "localizedDescription": "ProCraft (retired):\n\nThis repository is retired. v0.11.0 (2026-11-02) is the final release: no further features, fixes or support will be published here.\n\nThat project has its own maintainers and codebase; this repository is not part of it and is not affiliated with it. The v0.11.0 builds below stay online for anyone still using them.\n\nBy surfrpt1.\n\nAn open-source, clean-room raster painting studio in pure Rust: layered painting, a soft-round brush engine, and PNG import/export. Inspired by professional painting workflows; every line of code and every asset here is original.\n\nTrademark note: \"Procreate\" is a registered trademark of Savage Interactive. ProCraft is an independent project with its own name, branding and code, and is not affiliated with or endorsed by any other vendor.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.surfrpt1.procraft.png",
+   "tintColor": "#257d47",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.0",
+     "date": "2026-11-02T18:19:01Z",
+     "localizedDescription": "This repository is retired. v0.11.0 is the final release: no fixes or builds will be added here.\n\nv0.11.0 is the 8K canvas release: painting stays responsive on very large documents, projects save and reopen tile by tile, and tools that used to abort on a big canvas now report out-of-memory and roll back cleanly.\n\n8K canvas + lazy compositing:\n\n• Layer pixels live in 256 px copy-on-write tiles: painting, undo, layer moves, fills, text, liquify and masks all work tile by tile, with no separate path for large canvases.\n• Canvases grow to 8192 px (1080p / 4K / 8K presets) with a live layer + cache memory readout.\n\n• Project format v12 saves per-tile payloads and omits all-zero tiles; v1-v11 projects still open.\n\nFaster, steadier tools:\n\n• Shape fills rasterise by scanline spans instead of a per-pixel ray cast.\n• Box blur runs row-major, so filter previews stop stalling.\n• Animation playback reuses one texture and blends frames as integers.\n• Brush, fill and liquify paths stay dense across tile seams, with seam regression tests.\n\nCrash safety:\n\n• Out-of-memory is reported instead of aborting: liquify strokes roll back, transforms and filters fail cleanly, exports and saves return errors, and big-canvas texture guards degrade to the viewport renderer.\n• Corrupt project and brush files are rejected instead of panicking.\n\nLayers and masks:\n\n• Group actions menu: reorder, move a layer out of a group, multi-select and group the selection, group the active layer.\n• Layer and group renames are undoable.\n• Maskless layers fall back to the correct mask view instead of dropping it.\n\nMobile:\n\n• Android falls back to the GLES renderer when wgpu is unavailable.\n• Slide-over drawers stay above their dim layer, dialogs remain interactive, and the reference card opens in its own window.\n• Clearer top-bar pills, a faded File-menu row, centred mobile sheets, and the tablet file/view islands stay apart.\n\nBrushes:\n\n• Chalk and Airbrush are back to their dense reference look; Round keeps a round cap at both ends of a stroke; Marker lays a richer chisel band; Pencil paints in full colour.\n• Per-tool brush settings persist across relaunches.\n• Small Chalk grain fix and restored liquify pull.\n\nPages are capped at 8192 px per side, and layer tiles are allocated only where you paint. A never-painted page costs nothing; a fully painted layer roughly costs:\n\n• Pages above 2048 px, and any page larger than the GPU's texture limit, draw through the viewport renderer: only the visible rectangle is composited and uploaded, so 4K/8K do not need a 64/256 MB canvas texture in VRAM. At fit zoom below 75% the same path draws a box-filtered view.\n• Composite tiles keep a 96 MB cache on phones/tablets and 320 MB on desktop; the Layers panel shows live layer memory.\n• Undo keeps up to 32 steps and at most 256 MB per stack. Big pages are byte-limited rather than step-limited (a full 8K layer edit is the one-step worst case); a normal stroke only stores the tiles it touched.\n\n• Saving is tile-based (format v12) and skips empty tiles, but a fully painted multi-layer 8K project is still a large file.\n• GIF import is capped at 4096 px per side. On Android the app falls back to the GLES renderer when wgpu cannot start.\n\nWindows: unzip, run procraft.exe. iOS 17+: sideload the IPA. Android 10+: install the APK (allow unknown apps once).",
+     "downloadURL": "https://github.com/surfrpt1/procraft-old/releases/download/v0.11.0/ProCraft-ios-v0.11.0.ipa",
+     "size": 23893976
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

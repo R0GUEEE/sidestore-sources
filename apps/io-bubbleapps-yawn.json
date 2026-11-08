@@ -1,0 +1,44 @@
+{
+ "name": "Yawn",
+ "identifier": "dev.perapp.io-bubbleapps-yawn",
+ "subtitle": "@riftysIPAlibrary | Yawn: Sleep Sounds, Audiobooks  Tweak: Subscription Unlocked  Version: 2.0  Patched ✓  @riftysIPAlib",
+ "description": "Single-app source for Yawn (io.bubbleapps.yawn). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8431.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.bubbleapps.yawn",
+   "name": "Yawn",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Yawn: Sleep Sounds, Audiobooks  Tweak: Subscription Unlocked  Version: 2.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+   "localizedDescription": "@riftysIPAlibrary | Yawn: Sleep Sounds, Audiobooks  Tweak: Subscription Unlocked  Version: 2.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8431.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Yawn: Sleep Sounds, Audiobooks  Tweak: Subscription Unlocked  Version: 2.4  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8839-Yawn:%20Sleep%20Sounds,%20Audiobooks-v2.4-riftysipas.ipa",
+     "size": 246389713
+    },
+    {
+     "version": "2.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Yawn: Sleep Sounds, Audiobooks  Tweak: Subscription Unlocked  Version: 2.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8757-Yawn:%20Sleep%20Sounds,%20Audiobooks-v2.3-riftysipas.ipa",
+     "size": 245991554
+    },
+    {
+     "version": "2.2.3",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Yawn: Sleep Sounds, Audiobooks  Tweak: Subscription Unlocked  Version: 2.2.3  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8699-Yawn:%20Sleep%20Sounds,%20Audiobooks-v2.2.3-riftysipas.ipa",
+     "size": 245923137
+    }
+   ]
+  }
+ ]
+}

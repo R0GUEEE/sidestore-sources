@@ -1,0 +1,30 @@
+{
+ "name": "GTA Vic City",
+ "identifier": "dev.perapp.com-rockstargames-gta3vc",
+ "subtitle": "GTA Vic City by Karbin-Store",
+ "description": "Single-app source for GTA Vic City (com.rockstargames.gta3vc). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA-Vic-City.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.gta3vc",
+   "name": "GTA Vic City",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA-Vic-City.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.6",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://archive.org/download/gta-vice-city-1.5.6-1721599381/GTA%20Vice%20City_1.5.6_1721599381.ipa",
+     "size": 1459220000
+    }
+   ]
+  }
+ ]
+}

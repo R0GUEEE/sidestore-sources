@@ -1,0 +1,30 @@
+{
+ "name": "UNO",
+ "identifier": "dev.perapp.com-mattel163-uno",
+ "subtitle": "ipaomtk.com | UNO IPA for iOS is an innovative mobile application created for the popular card game UNO. With amazing fe",
+ "description": "Single-app source for UNO (com.mattel163.uno). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-uno-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mattel163.uno",
+   "name": "UNO",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | UNO IPA for iOS is an innovative mobile application created for the popular card game UNO. With amazing features like real-time online p",
+   "localizedDescription": "ipaomtk.com | UNO IPA for iOS is an innovative mobile application created for the popular card game UNO. With amazing features like real-time online p",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-uno-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12.284",
+     "date": "2023-12-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | UNO IPA for iOS is an innovative mobile application created for the popular card game UNO. With amazing features like real-time online p",
+     "downloadURL": "https://file.ipaomtk.com/ipa/UNO.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

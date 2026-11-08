@@ -1,0 +1,30 @@
+{
+ "name": "Visual Acuity",
+ "identifier": "dev.perapp.com-fonlow-va",
+ "subtitle": "ipaomtk.com | Visual Acuity Charts v3.2.1 is a digital tool designed for eye care professionals and individuals interest",
+ "description": "Single-app source for Visual Acuity (com.fonlow.va). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Visual-Acuity-Charts.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fonlow.va",
+   "name": "Visual Acuity",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Visual Acuity Charts v3.2.1 is a digital tool designed for eye care professionals and individuals interested in monitoring their vision.",
+   "localizedDescription": "ipaomtk.com | Visual Acuity Charts v3.2.1 is a digital tool designed for eye care professionals and individuals interested in monitoring their vision.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Visual-Acuity-Charts.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Visual Acuity Charts v3.2.1 is a digital tool designed for eye care professionals and individuals interested in monitoring their vision.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Visual_Acuity_Charts-v3.2-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

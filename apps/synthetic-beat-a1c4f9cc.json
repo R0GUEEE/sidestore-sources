@@ -1,0 +1,30 @@
+{
+ "name": "BEAT",
+ "identifier": "dev.perapp.synthetic-beat-a1c4f9cc",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for BEAT (synthetic.beat.a1c4f9cc). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/reels-maker-one.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.beat.a1c4f9cc",
+   "name": "BEAT",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/reels-maker-one.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.21.1",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2025/BEAT_1.21.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 120833841
+    }
+   ]
+  }
+ ]
+}

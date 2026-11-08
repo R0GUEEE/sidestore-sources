@@ -1,0 +1,30 @@
+{
+ "name": "HarmonyNotes",
+ "identifier": "dev.perapp.com-harmony-pulse-musicmuse",
+ "subtitle": "HarmonyNotes",
+ "description": "Single-app source for HarmonyNotes (com.harmony.pulse.musicmuse). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.harmony.pulse.musicmuse",
+   "name": "HarmonyNotes",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nHarmonyNotes v1.0\n\n🇷🇺 Жёлтый банк снова с вами \n— Приложение из TestFlight\n— Работает только через TrollStore\n© Создано: GLESign\n\n🇺🇸 The Yellow Bank is with you again\n— The app from TestFlight\n— Works only through the TrollStore\n© Created by: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nHarmonyNotes v1.0\n\n🇷🇺 Жёлтый банк снова с вами \n— Приложение из TestFlight\n— Работает только через TrollStore\n© Создано: GLESign\n\n🇺🇸 The Yellow Bank is with you again\n— The app from TestFlight\n— Works only through the TrollStore\n© Created by: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/b6cf24b2-b9ad-4047-9199-da1f0642cd90/HarmonyNotes_v1.0_tg_glesign_.ipa",
+     "size": 185656636
+    }
+   ]
+  }
+ ]
+}

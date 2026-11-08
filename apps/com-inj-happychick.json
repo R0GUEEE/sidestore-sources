@@ -1,0 +1,30 @@
+{
+ "name": "Happy Chick",
+ "identifier": "dev.perapp.com-inj-happychick",
+ "subtitle": "Happy Chick is a multi-platform emulator for iOS supporting Nintendo, Sega, Sony, Atari, NEC, SNK, and Bandai console sy",
+ "description": "Single-app source for Happy Chick (com.inj.happychick). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://operationidroid.com/assets/img/happychick-icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inj.happychick",
+   "name": "Happy Chick",
+   "developerName": "Xiaoji001",
+   "subtitle": "Happy Chick is a multi-platform emulator for iOS supporting Nintendo, Sega, Sony, Atari, NEC, SNK, and Bandai console systems. This all-in-one applica",
+   "localizedDescription": "Happy Chick is a multi-platform emulator for iOS supporting Nintendo, Sega, Sony, Atari, NEC, SNK, and Bandai console systems. This all-in-one applica\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://operationidroid.com/assets/img/happychick-icon.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "Happy Chick is a multi-platform emulator for iOS supporting Nintendo, Sega, Sony, Atari, NEC, SNK, and Bandai console systems. This all-in-one applica",
+     "downloadURL": "https://file.dlninja.com/signed/a117/happychick.ipa",
+     "size": 293592435
+    }
+   ]
+  }
+ ]
+}

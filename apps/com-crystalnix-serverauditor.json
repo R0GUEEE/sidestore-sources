@@ -1,0 +1,30 @@
+{
+ "name": "Termius",
+ "identifier": "dev.perapp.com-crystalnix-serverauditor",
+ "subtitle": "ipaomtk.com | Termius IPA v5.9.5 is a powerful and versatile SSH client and terminal application designed for seamless r",
+ "description": "Single-app source for Termius (com.crystalnix.ServerAuditor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Termius-Terminal-038-SSH-client.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crystalnix.ServerAuditor",
+   "name": "Termius",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Termius IPA v5.9.5 is a powerful and versatile SSH client and terminal application designed for seamless remote server management across",
+   "localizedDescription": "ipaomtk.com | Termius IPA v5.9.5 is a powerful and versatile SSH client and terminal application designed for seamless remote server management across",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Termius-Terminal-038-SSH-client.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.9.5",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Termius IPA v5.9.5 is a powerful and versatile SSH client and terminal application designed for seamless remote server management across",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Termius_Terminal_SSH_client-v5.9.5-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

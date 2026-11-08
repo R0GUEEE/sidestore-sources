@@ -1,0 +1,30 @@
+{
+ "name": "SakayoriMusic",
+ "identifier": "dev.perapp.com-sakayori-music",
+ "subtitle": "MAINTENANCE MODE:  Sakayori Music is currently in maintenance mode. This means we will only be fixing bugs and making mi",
+ "description": "Single-app source for SakayoriMusic (com.sakayori.music). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.sakayori.music.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sakayori.music",
+   "name": "SakayoriMusic",
+   "developerName": "Sakayorii",
+   "subtitle": "MAINTENANCE MODE:  Sakayori Music is currently in maintenance mode. This means we will only be fixing bugs and making minor improvements. Please do no",
+   "localizedDescription": "MAINTENANCE MODE:  Sakayori Music is currently in maintenance mode. This means we will only be fixing bugs and making minor improvements. Please do no\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.sakayori.music.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.6",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "MAINTENANCE MODE:  Sakayori Music is currently in maintenance mode. This means we will only be fixing bugs and making minor improvements. Please do no",
+     "downloadURL": "https://github.com/Sakayorii/sakayori-music/releases/download/v2.1.6/SakayoriMusic-2.1.6.ipa",
+     "size": 96618256
+    }
+   ]
+  }
+ ]
+}

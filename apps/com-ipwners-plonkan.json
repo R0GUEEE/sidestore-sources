@@ -1,0 +1,44 @@
+{
+ "name": "Buddy",
+ "identifier": "dev.perapp.com-ipwners-plonkan",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Buddy (com.iPwners.Plonkan). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iPwners.Plonkan",
+   "name": "Buddy",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.51",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Buddy: Budget Planner App  • Bundle ID: com.iPwners.Plonkan • Updated to: 13.51 • Minimum iOS: 18.0 • Patched • Modifier: Premium Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Buddy_13.51_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 128358943
+    },
+    {
+     "version": "13.50",
+     "date": "2026-10-19T00:00:00Z",
+     "localizedDescription": "@blatants | Buddy: Budget Planner App  • Bundle ID: com.iPwners.Plonkan • Updated to: 13.50 • Minimum iOS: 18.0 • Patched • Modifier: Premium Unlocked",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12874-Buddy_Budget_Planner_App_v13_50_Premium_Unlocked_blatant_Patched.ipa",
+     "size": 125731657
+    },
+    {
+     "version": "13.49.1",
+     "date": "2026-10-17T00:00:00Z",
+     "localizedDescription": "@blatants | Buddy: Budget Planner App  • Bundle ID: com.iPwners.Plonkan • Updated to: 13.49.1 • Minimum iOS: 18.0 • Patched • Modifier: Premium Unlock",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12857-Buddy_Budget_Planner_App_v13_49_1_Premium_Unlocked_blatant_Patched.ipa",
+     "size": 125731801
+    }
+   ]
+  }
+ ]
+}

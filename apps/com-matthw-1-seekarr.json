@@ -1,0 +1,30 @@
+{
+ "name": "Seekarr",
+ "identifier": "dev.perapp.com-matthw-1-seekarr",
+ "subtitle": "Seekarr:  A Flutter app for managing your self-hosted media stack from anywhere. One client for Seerr, Radarr, Sonarr, L",
+ "description": "Single-app source for Seekarr (com.matthw.1.seekarr). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.matthw.1.seekarr.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.matthw.1.seekarr",
+   "name": "Seekarr",
+   "developerName": "matthw-labs",
+   "subtitle": "Seekarr:  A Flutter app for managing your self-hosted media stack from anywhere. One client for Seerr, Radarr, Sonarr, Lidarr, and qBittorrent on macO",
+   "localizedDescription": "Seekarr:  A Flutter app for managing your self-hosted media stack from anywhere. One client for Seerr, Radarr, Sonarr, Lidarr, and qBittorrent on macO\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.matthw.1.seekarr.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.8.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Seekarr:  A Flutter app for managing your self-hosted media stack from anywhere. One client for Seerr, Radarr, Sonarr, Lidarr, and qBittorrent on macO",
+     "downloadURL": "https://github.com/matthw-labs/seekarr/releases/download/v0.8.0/seekarr-0.8.0.ipa",
+     "size": 17118681
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Fairyland",
+ "identifier": "dev.perapp.com-mergematch-fairyland",
+ "subtitle": "ipaomtk.com | If you love relaxing puzzle games with a touch of magic, Fairyland Merge & Match IPA is a game that should",
+ "description": "Single-app source for Fairyland (com.mergematch.fairyland). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/Fairyland-8211-Merge-038-Match-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mergematch.fairyland",
+   "name": "Fairyland",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | If you love relaxing puzzle games with a touch of magic, Fairyland Merge & Match IPA is a game that should definitely be on your radar. ",
+   "localizedDescription": "ipaomtk.com | If you love relaxing puzzle games with a touch of magic, Fairyland Merge & Match IPA is a game that should definitely be on your radar. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/Fairyland-8211-Merge-038-Match-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.6",
+     "date": "2025-08-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | If you love relaxing puzzle games with a touch of magic, Fairyland Merge & Match IPA is a game that should definitely be on your radar. ",
+     "downloadURL": "https://file.ipaomtk.com/Fairyland%20-%20Merge%20Match/Fairyland-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.7.2",
+     "date": "2025-08-11T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | If you love relaxing puzzle games with a touch of magic, Fairyland Merge & Match IPA is a game that should definitely be on your radar. ",
+     "downloadURL": "https://file.ipaomtk.com/Fairyland%20-%20Merge%20Match/Fairyland-IPAOMTK.COM.ipa",
+     "size": 175560928
+    }
+   ]
+  }
+ ]
+}

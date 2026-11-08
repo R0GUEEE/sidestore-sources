@@ -1,0 +1,30 @@
+{
+ "name": "catline",
+ "identifier": "dev.perapp.org-nekonikoban-manekineco-catline",
+ "subtitle": "ipaomtk.com | Cat&Line IPA ‌invites players to‌ embark⁢ on a whimsical journey through vibrant⁤ landscapes filled with ⁣",
+ "description": "Single-app source for catline (org.nekonikoban.manekineco.catline). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/cat038line-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "org.nekonikoban.manekineco.catline",
+   "name": "catline",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Cat&Line IPA ‌invites players to‌ embark⁢ on a whimsical journey through vibrant⁤ landscapes filled with ⁣challenges‌ and charming chara",
+   "localizedDescription": "ipaomtk.com | Cat&Line IPA ‌invites players to‌ embark⁢ on a whimsical journey through vibrant⁤ landscapes filled with ⁣challenges‌ and charming chara",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/cat038line-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0",
+     "date": "2025-05-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Cat&Line IPA ‌invites players to‌ embark⁢ on a whimsical journey through vibrant⁤ landscapes filled with ⁣challenges‌ and charming chara",
+     "downloadURL": "https://file.ipaomtk.com/ipa/catline-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

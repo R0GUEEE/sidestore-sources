@@ -1,0 +1,30 @@
+{
+ "name": "欢乐斗地主",
+ "identifier": "dev.perapp.com-zj-ddz",
+ "subtitle": "ipaomtk.com | 斗地主欢乐版 (Dou Dizhu Happy Version) is a popular digital adaptation of the classic Chinese card game “Fight t",
+ "description": "Single-app source for 欢乐斗地主 (com.zj.ddz). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/%E6%96%97%E5%9C%B0%E4%B8%BB%E6%AC%A2%E4%B9%90%E7%89%88-8211-%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB%E5%8D%95%E6%9C%BA%E6%B8%B8%E6%88%8F.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zj.ddz",
+   "name": "欢乐斗地主",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | 斗地主欢乐版 (Dou Dizhu Happy Version) is a popular digital adaptation of the classic Chinese card game “Fight the Landlord.” This engaging mo",
+   "localizedDescription": "ipaomtk.com | 斗地主欢乐版 (Dou Dizhu Happy Version) is a popular digital adaptation of the classic Chinese card game “Fight the Landlord.” This engaging mo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/%E6%96%97%E5%9C%B0%E4%B8%BB%E6%AC%A2%E4%B9%90%E7%89%88-8211-%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB%E5%8D%95%E6%9C%BA%E6%B8%B8%E6%88%8F.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.8",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | 斗地主欢乐版 (Dou Dizhu Happy Version) is a popular digital adaptation of the classic Chinese card game “Fight the Landlord.” This engaging mo",
+     "downloadURL": "https://file.ipaomtk.com/ipa/%E6%AC%A2%E4%B9%90%E6%96%97%E5%9C%B0%E4%B8%BB-v4.8-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

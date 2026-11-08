@@ -1,0 +1,44 @@
+{
+ "name": "simpletimer",
+ "identifier": "dev.perapp.com-andyworks-timer",
+ "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for simpletimer (com.andyworks.timer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.timer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.andyworks.timer",
+   "name": "simpletimer",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.timer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.23",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Timer  • Bundle ID: com.andyworks.timer • Updated to: 3.23 • Minimum iOS: 26.0 • Patched • Modifier: Subscription Unlocked • ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13041-Not_Boring_Timer_v3_23_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 187919747
+    },
+    {
+     "version": "3.22",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Timer  • Bundle ID: com.andyworks.timer • Updated to: 3.22 • Minimum iOS: 26.0 • Patched • Modifier: Subscription Unlocked • ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/simpletimer_3.22_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 187911332
+    },
+    {
+     "version": "3.21",
+     "date": "2026-09-12T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/simpletimer_3.21_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 187721524
+    }
+   ]
+  }
+ ]
+}

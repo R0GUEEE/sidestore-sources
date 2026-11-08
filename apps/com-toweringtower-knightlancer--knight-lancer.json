@@ -1,0 +1,44 @@
+{
+ "name": "Knight Lancer",
+ "identifier": "dev.perapp.com-toweringtower-knightlancer",
+ "subtitle": "@riftysIPAlibrary | Knight Lancer  Tweak: Free iAP  Version: 1.64  Patched ✓  @riftysIPAlibrary  Additional Information ",
+ "description": "Single-app source for Knight Lancer (com.ToweringTower.KnightLancer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7203.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ToweringTower.KnightLancer",
+   "name": "Knight Lancer",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Knight Lancer  Tweak: Free iAP  Version: 1.64  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bundl",
+   "localizedDescription": "@riftysIPAlibrary | Knight Lancer  Tweak: Free iAP  Version: 1.64  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bundl",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7203.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.68",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Knight Lancer  Tweak: Free iAP  Version: 1.68  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bundl",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8697-Knight%20Lancer-v1.68-riftysipas.ipa",
+     "size": 111494153
+    },
+    {
+     "version": "1.67",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Knight Lancer  Tweak: Free iAP  Version: 1.67  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bundl",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8132-Knight%20Lancer-v1.67-riftysipas.ipa",
+     "size": 111494471
+    },
+    {
+     "version": "1.66",
+     "date": "2026-09-06T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Knight Lancer  Tweak: Free iAP  Version: 1.66  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.0 Bundl",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7736-Knight%20Lancer-v1.66-riftysipas.ipa",
+     "size": 110838006
+    }
+   ]
+  }
+ ]
+}

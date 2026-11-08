@@ -1,0 +1,36 @@
+{
+ "name": "Scripta",
+ "identifier": "dev.perapp.io-github-scripta",
+ "subtitle": "Open-source, local-first Markdown note-taking app for Android, iOS, macOS, Windows and Linux. Fast SQLite search, works ",
+ "description": "Single-app source for Scripta (io.github.scripta). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#28998e",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.scripta.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.scripta",
+   "name": "Scripta",
+   "developerName": "rizzonicola",
+   "subtitle": "Open-source, local-first Markdown note-taking app for Android, iOS, macOS, Windows and Linux. Fast SQLite search, works offline, optional self-hosted sync",
+   "localizedDescription": "Scripta:\n\nMinimal. Fast. Markdown-First. The modern, distraction-free note-taking experience for all your devices.\n\n⚡ What is Scripta?:\n\nScripta is an open-source, local-first note-taking application designed for thinkers, writers, and developers. Built from the ground up to be lightweight, instant, and privacy-focused, Scripta gives you complete control over your notes with raw Markdown flexibility and a modern, fluid interface.\n\nWhether you're drafting quick thoughts on your phone or organizing complex projects on your desktop, Scripta stays out of your way and lets your ideas flow.\n\n✨ Key Features:\n\n• 📝 Markdown-First Editor: Write in clean, standard Markdown with intelligent toolbar helpers and an instant, fluid rendered reading view.\n• ⚡ Local-First & Zero Latency: Instantaneous startup and sub-millisecond search powered by SQLite WAL. Your notes reside on your device, fully accessible offline.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.scripta.png",
+   "tintColor": "#28998e",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rizzonicola/Scripta@main/assets/readme/screenshot-mobile.webp"
+   ],
+   "versions": [
+    {
+     "version": "1.1.3",
+     "date": "2026-11-05T17:13:27Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/rizzonicola/Scripta/releases/download/v1.1.3/Scripta-ios-unsigned.ipa",
+     "size": 12630170
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

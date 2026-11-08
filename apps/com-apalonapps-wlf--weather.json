@@ -1,0 +1,44 @@
+{
+ "name": "Weather",
+ "identifier": "dev.perapp.com-apalonapps-wlf",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Weather (com.apalonapps.wlf). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.wlf",
+   "name": "Weather",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.24.44",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "@blatants | Weather Live° - Local Forecast  • Bundle ID: com.apalonapps.wlf • Updated to: 7.24.44 • Minimum iOS: 15.0 • Patched • Modifier: Subscripti",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12411-Weather_Live%C2%B0_Local_Forecast_v7_24_44_Subscription_Unlocked_blatant.ipa",
+     "size": 179851681
+    },
+    {
+     "version": "4.18.21",
+     "date": "2026-09-22T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Weather_4.18.21_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 101638270
+    },
+    {
+     "version": "4.1.13",
+     "date": "2026-09-18T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/Weather_4.1.13_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 170498811
+    }
+   ]
+  }
+ ]
+}

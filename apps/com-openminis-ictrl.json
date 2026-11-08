@@ -1,0 +1,41 @@
+{
+ "name": "iCTRL",
+ "identifier": "dev.perapp.com-openminis-ictrl",
+ "subtitle": "AI-friendly iOS automation service, built on XCUITest",
+ "description": "Single-app source for iCTRL (com.openminis.ictrl). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#496daa",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.openminis.ictrl.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.openminis.ictrl",
+   "name": "iCTRL",
+   "developerName": "OpenMinis",
+   "subtitle": "AI-friendly iOS automation service, built on XCUITest",
+   "localizedDescription": "iCTRL:\n\nAI-friendly iOS automation service, built on XCUITest.\n\nFor automated testing and research only. iCTRL hands full control of a phone (taps, text input, screen contents, every installed app) to whoever holds a paired key. Any automation like this can be hijacked or misused: a leaked key, a client you shouldn't have approved, or an agent acting on instructions it picked up along the way. Weigh the risks before you use it:\n\n• Run it only on devices you own and accounts you are entitled to automate.\n• Approve only the pairing requests you started.\n• Leave remote access off unless you need it, and stop the server when you are done.\n• Don't leave an agent unsupervised around payments, messages or anything that can't be undone.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.openminis.ictrl.png",
+   "tintColor": "#496daa",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.98.16",
+     "date": "2026-10-26T15:06:32Z",
+     "localizedDescription": "An AI-friendly iOS/iPadOS automation service. Tell your agent \"My iPhone is running iCTRL at:8200 — figure out how to drive it.\" and it reads the on-device manual and takes it from there. Works with any agent that can make HTTP requests: OpenClaw, Hermes, Minis, Claude Code, Codex and others.\n\nWhich IPA do I need?:\n\nSkip iCTRL.ipa if you mount the Developer Disk Image with Xcode or StikDebug, and manage the runner from its notification or a computer. With a free Apple ID you get three sideloaded apps, and SideStore uses one of them. Install StikDebug or the iCTRL app alongside the runner, not both.\n\nBoth IPAs are unsigned for distribution (ad-hoc, no provisioning profile). Sign them when you install:\n\n• Paid account: Scripts/sign-ipa.sh -i iCTRLUITests-Runner.ipa.\n\nThe runner also needs the Developer Disk Image mounted (Xcode, StikDebug or the iCTRL app). The README covers the whole setup.\n\nInput:\n\n• Continuous single-finger drag paths. drag accepts a points array (2-64 waypoints, 0.1-10 s) and follows it with one finger, pressing once and lifting once. Draw corners, unlock patterns, drag-to-reorder. Corners can be rounded by 1-2 pt, so keep each segment at least one frame long. Advertised as the drag_path capability. Existing endpoint/ref drags are unchanged. Thanks to @YanYunNN.\n\nEarlier in 1.98.13 - 1.98.15:\n\n• The video stream skips identical frames while the screen is still, and no longer goes black after the runner was in the background.\n• The remote page keeps FPS, quality and verbose across reloads.\n• type falls back to on-screen key taps when a field drops focus and reports failures. keyboard.visible detects third-party keyboards.\n• More methods require authorization. The iCTRL app imports RemotePairing files such as StikDebug's pairingFile.plist.",
+     "downloadURL": "https://github.com/OpenMinis/iCTRL/releases/download/v1.98.16/iCTRL.ipa",
+     "size": 8832078
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "iCTRL reaches this device's debug service through LocalDevVPN to mount the Developer Disk Image, and serves the automation API on your network."
+    }
+   }
+  }
+ ]
+}

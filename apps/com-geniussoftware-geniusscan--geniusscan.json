@@ -1,0 +1,44 @@
+{
+ "name": "GeniusScan",
+ "identifier": "dev.perapp.com-geniussoftware-geniusscan",
+ "subtitle": "GeniusScan",
+ "description": "Single-app source for GeniusScan (com.geniussoftware.GeniusScan). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.geniussoftware.GeniusScan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.geniussoftware.GeniusScan",
+   "name": "GeniusScan",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.geniussoftware.GeniusScan.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.14",
+     "date": "2026-09-14T00:00:00Z",
+     "localizedDescription": "Genius Scan is a document scanner app in your pocket. Quickly scan your paper documents on the go and export them as multi-page PDF files.\r\n\r\n*** Apple App of the Week *** 20+ million users *** 1000s of small businesses ***\r\n\r\nPlace any document in front of your device’s camera: our scanner app automatically recognizes the paper against the background, crops it, and cleans up the result. You obtain a crisp, legible scan. Batch scanning lets you scan dozens of pages in a matter of seconds. Powerful tools help you organize, share, or archive your documents.\r\n\r\n“Next time you plan to hit the road, don’t forget to download Genius Scan to make life easier for yourself and your accounting department.” - AppPicker.com\r\n\r\n“Camera apps aren’t",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2229",
+     "size": 68867125
+    },
+    {
+     "version": "8.13",
+     "date": "2026-07-13T00:00:00Z",
+     "localizedDescription": "Genius Scan is a document scanner app in your pocket. Quickly scan your paper documents on the go and export them as multi-page PDF files.\r\n\r\n*** Apple App of the Week *** 20+ million users *** 1000s of small businesses ***\r\n\r\nPlace any document in front of your device’s camera: our scanner app automatically recognizes the paper against the background, crops it, and cleans up the result. You obtain a crisp, legible scan. Batch scanning lets you scan dozens of pages in a matter of seconds. Powerful tools help you organize, share, or archive your documents.\r\n\r\n“Next time you plan to hit the road, don’t forget to download Genius Scan to make life easier for yourself and your accounting department.” - AppPicker.com\r\n\r\n“Camera apps aren’t",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2229",
+     "size": 65488794
+    },
+    {
+     "version": "8.6.2",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/GeniusScan_8.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 53234227
+    }
+   ]
+  }
+ ]
+}

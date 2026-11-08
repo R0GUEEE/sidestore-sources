@@ -1,0 +1,30 @@
+{
+ "name": "Salatuk",
+ "identifier": "dev.perapp.com-masaratapp-salatuk",
+ "subtitle": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation meth",
+ "description": "Single-app source for Salatuk (com.masaratapp.salatuk). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.masaratapp.salatuk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.masaratapp.salatuk",
+   "name": "Salatuk",
+   "developerName": "Sultan Mods",
+   "subtitle": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with…",
+   "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with options for manual adjustments in the 'Settings' tab. A user requested it so here it is.\nLast updated: 08-08-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.masaratapp.salatuk.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "This app provides accurate prayer times and Qibla direction based on your location. It supports various calculation methods and Fiqh schools, with…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Salatuk/Salatuk-2.1.1.ipa",
+     "size": 42633648
+    }
+   ]
+  }
+ ]
+}

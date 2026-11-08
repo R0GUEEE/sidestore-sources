@@ -1,0 +1,30 @@
+{
+ "name": "Knife Hit",
+ "identifier": "dev.perapp.com-ketchapp-knifehit",
+ "subtitle": "Knife Hit by Ketchapp",
+ "description": "Single-app source for Knife Hit (com.ketchapp.knifehit). Converted from riftys.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/c2/22/58c222e7-04c2-02e8-d993-27adf68de13f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.knifehit",
+   "name": "Knife Hit",
+   "developerName": "Ketchapp",
+   "subtitle": "",
+   "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/c2/22/58c222e7-04c2-02e8-d993-27adf68de13f/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.22",
+     "date": "2025-02-16T00:00:00Z",
+     "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b1359e12d5d2555f81e9e1",
+     "size": 74127083
+    }
+   ]
+  }
+ ]
+}

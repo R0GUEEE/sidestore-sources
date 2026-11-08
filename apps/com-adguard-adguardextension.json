@@ -1,0 +1,44 @@
+{
+ "name": "AdGuard",
+ "identifier": "dev.perapp.com-adguard-adguardextension",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for AdGuard (com.adguard.AdguardExtension). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adguard.AdguardExtension",
+   "name": "AdGuard",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.24",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | AdGuard Ad Blocker for Safari  • Bundle ID: com.adguard.AdguardExtension • Updated to: 4.5.24 • Minimum iOS: 15.0 • Patched • Modifier: Su",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/AdGuard_4.5.24_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 49973884
+    },
+    {
+     "version": "4.5.23",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "@blatants | AdGuard Ad Blocker for Safari  • Bundle ID: com.adguard.AdguardExtension • Updated to: 4.5.23 • Minimum iOS: 13.0 • Patched • Modifier: Su",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/AdGuard_4.5.23_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 47248412
+    },
+    {
+     "version": "4.5.22",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/AdGuard_4.5.22_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 41961608
+    }
+   ]
+  }
+ ]
+}

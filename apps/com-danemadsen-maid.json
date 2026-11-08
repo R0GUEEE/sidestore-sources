@@ -1,0 +1,30 @@
+{
+ "name": "maid2_0_7",
+ "identifier": "dev.perapp.com-danemadsen-maid",
+ "subtitle": "Cross-platform Flutter ai app",
+ "description": "Single-app source for maid2_0_7 (com.danemadsen.maid). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/maid2_0_7.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.danemadsen.maid",
+   "name": "maid2_0_7",
+   "developerName": "maid2_0_7 x CyPwn",
+   "subtitle": "Cross-platform Flutter ai app",
+   "localizedDescription": "Cross-platform Flutter ai app",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/maid2_0_7.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.7",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Cross-platform Flutter ai app",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/maid2_0_7.ipa",
+     "size": 31604080
+    }
+   ]
+  }
+ ]
+}

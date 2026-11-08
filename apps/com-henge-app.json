@@ -1,0 +1,37 @@
+{
+ "name": "Henge",
+ "identifier": "dev.perapp.com-henge-app",
+ "subtitle": "@ipavault | Henge  The first release of Henge: Emulate macOS on iOS and iPadOS macOS on your iPhone and iPad, installed ",
+ "description": "Single-app source for Henge (com.henge.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/1230.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.henge.app",
+   "name": "Henge",
+   "developerName": "@ipavault",
+   "subtitle": "@ipavault | Henge  The first release of Henge: Emulate macOS on iOS and iPadOS macOS on your iPhone and iPad, installed right on the device with no Ma",
+   "localizedDescription": "@ipavault | Henge  The first release of Henge: Emulate macOS on iOS and iPadOS macOS on your iPhone and iPad, installed right on the device with no Ma\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/1230.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.0",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "@ipavault | Henge Emulate macOS on iOS and iPadOS macOS on your iPhone and iPad, installed right on the device with no Mac needed. ▪️JIT is…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1260-Henge%200.2.ipa",
+     "size": 8880854
+    },
+    {
+     "version": "0.1",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@ipavault | Henge  The first release of Henge: Emulate macOS on iOS and iPadOS macOS on your iPhone and iPad, installed right on the device with no Ma",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1230-Henge%200.1%20%5B@ipavault%5D.ipa",
+     "size": 8995258
+    }
+   ]
+  }
+ ]
+}

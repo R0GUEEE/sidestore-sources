@@ -1,0 +1,37 @@
+{
+ "name": "Womenlose",
+ "identifier": "dev.perapp.com-unknown-womenlose",
+ "subtitle": "کێشی خۆت دابەزێنە لەڕێ ئەم بەرنامەوە",
+ "description": "Single-app source for Womenlose (com.unknown.womenlose). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Womenlose.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.womenlose",
+   "name": "Womenlose",
+   "developerName": "Karbin-Store",
+   "subtitle": "کێشی خۆت دابەزێنە لەڕێ ئەم بەرنامەوە",
+   "localizedDescription": "کێشی خۆت دابەزێنە لەڕێ ئەم بەرنامەوە",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Womenlose.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.2",
+     "date": "2026-03-19T00:00:00Z",
+     "localizedDescription": "کێشی خۆت دابەزێنە لەڕێ ئەم بەرنامەوە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Womenlose.ipa",
+     "size": 191270000
+    },
+    {
+     "version": "1.7.0",
+     "date": "2026-03-19T00:00:00Z",
+     "localizedDescription": "Tweaks: LeapHealthUnlocker\n\nکێشی خۆت دابەزێنە لەڕێ ئەم بەرنامەوە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Womenlose.ipa",
+     "size": 256769331
+    }
+   ]
+  }
+ ]
+}

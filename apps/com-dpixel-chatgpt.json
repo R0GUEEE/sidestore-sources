@@ -1,0 +1,30 @@
+{
+ "name": "DPixelGPT",
+ "identifier": "dev.perapp.com-dpixel-chatgpt",
+ "subtitle": "ChatGPT, without some of the UI glitches in the one I posted earlier, with a slightly more up-to-date ChatGPT. Create yo",
+ "description": "Single-app source for DPixelGPT (com.dpixel.chatgpt). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dpixel.chatgpt.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dpixel.chatgpt",
+   "name": "DPixelGPT",
+   "developerName": "DPixel",
+   "subtitle": "ChatGPT, without some of the UI glitches in the one I posted earlier, with a slightly more up-to-date ChatGPT. Create your own account. You only get a",
+   "localizedDescription": "ChatGPT, without some of the UI glitches in the one I posted earlier, with a slightly more up-to-date ChatGPT. Create your own account. You only get a",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.dpixel.chatgpt.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "ChatGPT, without some of the UI glitches in the one I posted earlier, with a slightly more up-to-date ChatGPT. Create your own account. You only get a",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-29-2022/DPixelGPT-1.0.ipa",
+     "size": 1170406
+    }
+   ]
+  }
+ ]
+}

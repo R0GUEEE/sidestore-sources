@@ -1,0 +1,30 @@
+{
+ "name": "8BallPool",
+ "identifier": "dev.perapp.com-miniclip-8ballpoolmult",
+ "subtitle": "8BallPool",
+ "description": "Single-app source for 8BallPool (com.miniclip.8ballpoolmult). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.8ballpoolmult.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.miniclip.8ballpoolmult",
+   "name": "8BallPool",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.miniclip.8ballpoolmult.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "56.26.1",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2026/8BallPool_56.26.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 108123521
+    }
+   ]
+  }
+ ]
+}

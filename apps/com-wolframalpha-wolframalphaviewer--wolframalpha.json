@@ -1,0 +1,44 @@
+{
+ "name": "WolframAlpha",
+ "identifier": "dev.perapp.com-wolframalpha-wolframalphaviewer",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for WolframAlpha (com.wolframalpha.wolframalphaviewer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wolframalpha.wolframalphaviewer",
+   "name": "WolframAlpha",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wolframalpha.wolframalphaviewer.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/08-09-2025/WolframAlpha_2.6.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 180729966
+    },
+    {
+     "version": "2.6.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/18-12-2025/WolframAlpha_2.6.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 178726992
+    },
+    {
+     "version": "2.6.2",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/WolframAlpha_2.6.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 181560932
+    }
+   ]
+  }
+ ]
+}

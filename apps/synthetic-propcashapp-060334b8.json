@@ -1,0 +1,30 @@
+{
+ "name": "PropCashapp",
+ "identifier": "dev.perapp.synthetic-propcashapp-060334b8",
+ "subtitle": "Fake CashApp for prop use",
+ "description": "Single-app source for PropCashapp (synthetic.propcashapp.060334b8). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/PropCashapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.propcashapp.060334b8",
+   "name": "PropCashapp",
+   "developerName": "PropCashapp x CyPwn",
+   "subtitle": "Fake CashApp for prop use",
+   "localizedDescription": "Fake CashApp for prop use",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/PropCashapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Fake CashApp for prop use",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/PropCashapp.ipa",
+     "size": 1698693
+    }
+   ]
+  }
+ ]
+}

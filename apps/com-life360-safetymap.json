@@ -1,0 +1,30 @@
+{
+ "name": "Life360",
+ "identifier": "dev.perapp.com-life360-safetymap",
+ "subtitle": "Life360 by Holloway",
+ "description": "Single-app source for Life360 (com.life360.safetymap). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380613.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.life360.safetymap",
+   "name": "Life360",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with Crack",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380613.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.8.0",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with Crack",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1695",
+     "size": 129462976
+    }
+   ]
+  }
+ ]
+}

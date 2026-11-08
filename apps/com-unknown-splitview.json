@@ -1,0 +1,37 @@
+{
+ "name": "Split View",
+ "identifier": "dev.perapp.com-unknown-splitview",
+ "subtitle": "بۆ ڕادانی زیاتر لە پەڕەیەکی وێبگەڕ لەهەمان شێوە کات",
+ "description": "Single-app source for Split View (com.unknown.splitview). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Split.View.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.splitview",
+   "name": "Split View",
+   "developerName": "Karbin-Store",
+   "subtitle": "بۆ ڕادانی زیاتر لە پەڕەیەکی وێبگەڕ لەهەمان شێوە کات",
+   "localizedDescription": "بۆ ڕادانی زیاتر لە پەڕەیەکی وێبگەڕ لەهەمان شێوە کات",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Split.View.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.147",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "بۆ ڕادانی زیاتر لە پەڕەیەکی وێبگەڕ لەهەمان شێوە کات",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Split.View._1.1.247.ipa",
+     "size": 15660000
+    },
+    {
+     "version": "1.1.247",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "Tweaks: BabylonVIPHacks\n\nبۆ ڕادانی زیاتر لە پەڕەیەکی وێبگەڕ لەهەمان شێوە کات",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Split.View._1.1.247.ipa",
+     "size": 16365951
+    }
+   ]
+  }
+ ]
+}

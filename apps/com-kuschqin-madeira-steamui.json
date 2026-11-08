@@ -1,0 +1,30 @@
+{
+ "name": "iDeck",
+ "identifier": "dev.perapp.com-kuschqin-madeira-steamui",
+ "subtitle": "Run Valve’s Steam client in Big Picture and compatible Windows PC games locally on iPhone and iPad through Madeira, Wine",
+ "description": "Single-app source for iDeck (com.kuschqin.madeira.steamui). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kuschqin.madeira.steamui",
+   "name": "iDeck",
+   "developerName": "kuscholar",
+   "subtitle": "Run Valve’s Steam client in Big Picture and compatible Windows PC games locally on iPhone and iPad through Madeira, Wine, FEX and Metal…",
+   "localizedDescription": "Run Valve’s Steam client in Big Picture and compatible Windows PC games locally on iPhone and iPad through Madeira, Wine, FEX and Metal. Experimental; requires iOS 26+, JIT, and user-provided Steam files.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/iDeck/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.3",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Run Valve’s Steam client in Big Picture and compatible Windows PC games locally on iPhone and iPad through Madeira, Wine, FEX and Metal…",
+     "downloadURL": "https://github.com/kuscholar/iDeck/releases/download/v0.1.3-alpha.6/iDeck-0.1.3-alpha.6-build145.ipa",
+     "size": 173835258
+    }
+   ]
+  }
+ ]
+}

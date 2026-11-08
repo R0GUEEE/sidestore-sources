@@ -1,0 +1,30 @@
+{
+ "name": "Zalo 2",
+ "identifier": "dev.perapp.vn-com-vng-zingalo2",
+ "subtitle": "Ứng dụng Zalo phiên bản song song với bản gốc - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Zalo 2 (vn.com.vng.zingalo2). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/43/d6/b743d6c2-58ee-c588-6c88-a37796748040/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "vn.com.vng.zingalo2",
+   "name": "Zalo 2",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Ứng dụng Zalo phiên bản song song với bản gốc - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Ứng dụng Zalo phiên bản song song với bản gốc - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b7/43/d6/b743d6c2-58ee-c588-6c88-a37796748040/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "241102.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Ứng dụng Zalo phiên bản song song với bản gốc - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Zalo.2_241102.1_TTJB.ipa",
+     "size": 148254820
+    }
+   ]
+  }
+ ]
+}

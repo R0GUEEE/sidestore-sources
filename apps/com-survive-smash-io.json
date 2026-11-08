@@ -1,0 +1,30 @@
+{
+ "name": "Survivor",
+ "identifier": "dev.perapp.com-survive-smash-io",
+ "subtitle": "ipaomtk.com | Survive & Smash IPA v1.2 is one of the most thrilling action-survival games available for iOS users who cr",
+ "description": "Single-app source for Survivor (com.survive.smash.io). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-7-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.survive.smash.io",
+   "name": "Survivor",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Survive & Smash IPA v1.2 is one of the most thrilling action-survival games available for iOS users who crave intense battles, resource ",
+   "localizedDescription": "ipaomtk.com | Survive & Smash IPA v1.2 is one of the most thrilling action-survival games available for iOS users who crave intense battles, resource ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-7-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.2401221120421",
+     "date": "2025-09-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Survive & Smash IPA v1.2 is one of the most thrilling action-survival games available for iOS users who crave intense battles, resource ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Survive-Smash_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

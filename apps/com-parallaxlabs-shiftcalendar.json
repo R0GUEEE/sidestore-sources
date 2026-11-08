@@ -1,0 +1,44 @@
+{
+ "name": "PunchClock",
+ "identifier": "dev.perapp.com-parallaxlabs-shiftcalendar",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for PunchClock (com.parallaxlabs.ShiftCalendar). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parallaxlabs.ShiftCalendar.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.parallaxlabs.ShiftCalendar",
+   "name": "PunchClock",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.parallaxlabs.ShiftCalendar.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-04-2026/PunchClock_2026.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 7821121
+    },
+    {
+     "version": "2026.5",
+     "date": "2026-05-22T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/PunchClock_2026.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 8170150
+    },
+    {
+     "version": "2026.3",
+     "date": "2026-05-04T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/PunchClock_2026.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 8089921
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Brakefield",
+ "identifier": "dev.perapp.synthetic-brakefield-2d1af2e4",
+ "subtitle": "Brakefield by Karbin-Store",
+ "description": "Single-app source for Brakefield (synthetic.brakefield.2d1af2e4). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Brakefield.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.brakefield.2d1af2e4",
+   "name": "Brakefield",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Unlock Premium",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Brakefield.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.40",
+     "date": "2024-01-05T00:00:00Z",
+     "localizedDescription": "Unlock Premium",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Brakefield.ipa",
+     "size": 73110000
+    }
+   ]
+  }
+ ]
+}

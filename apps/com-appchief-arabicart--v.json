@@ -1,0 +1,44 @@
+{
+ "name": "أندلسي",
+ "identifier": "dev.perapp.com-appchief-arabicart",
+ "subtitle": "أندلسي",
+ "description": "Single-app source for أندلسي (com.AppChief.ArabicArt). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/6b57b256-c85c-487c-9101-a89039c682c7/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AppChief.ArabicArt",
+   "name": "أندلسي",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @blatants |\n----------------\n📱 Andalusi: Design Photo & Video\n\n🆔 Bundle ID: com.AppChief.ArabicArt\n⬆️ Updated to: 9.1.5\n🔧 Minimum iOS: 15.6\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\n>Reinstall the app if subscription isn't activated.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/6b57b256-c85c-487c-9101-a89039c682c7/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.0.7",
+     "date": "2026-08-26T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/_10.0.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 72368633
+    },
+    {
+     "version": "19.0",
+     "date": "2026-08-21T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/_19.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 177471097
+    },
+    {
+     "version": "4.2.5",
+     "date": "2026-08-20T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/_4.2.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 167313451
+    }
+   ]
+  }
+ ]
+}

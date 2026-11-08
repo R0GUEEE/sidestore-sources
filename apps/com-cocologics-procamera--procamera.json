@@ -1,0 +1,35 @@
+{
+ "name": "ProCamera",
+ "identifier": "dev.perapp.com-cocologics-procamera",
+ "subtitle": "ProCamera by ProCamera x CyPwn",
+ "description": "Single-app source for ProCamera (com.cocologics.ProCamera). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/ProCamera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cocologics.ProCamera",
+   "name": "ProCamera",
+   "developerName": "ProCamera x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "ProCamera… fo free!",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/ProCamera.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/ProCamera/ProCamera-0.png",
+    "https://ipa.cypwn.xyz/serve/screenshots/ProCamera/ProCamera-1.png",
+    "https://ipa.cypwn.xyz/serve/screenshots/ProCamera/ProCamera-2.png",
+    "https://ipa.cypwn.xyz/serve/screenshots/ProCamera/ProCamera-3.png"
+   ],
+   "versions": [
+    {
+     "version": "16.3",
+     "date": "2023-07-16T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/ProCamera.ipa",
+     "size": 72582430
+    }
+   ]
+  }
+ ]
+}

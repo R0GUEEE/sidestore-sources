@@ -1,0 +1,44 @@
+{
+ "name": "MeloNX",
+ "identifier": "dev.perapp.com-stossy11-melonx",
+ "subtitle": "FAQ:  We do not support piracy, It is forbidden to request copyrighted content.  Do I need a Switch to use this emulator",
+ "description": "Single-app source for MeloNX (com.stossy11.MeloNX). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.MeloNX.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stossy11.MeloNX",
+   "name": "MeloNX",
+   "developerName": "Layla S",
+   "subtitle": "FAQ:  We do not support piracy, It is forbidden to request copyrighted content.  Do I need a Switch to use this emulator?:  MeloNX emulator is capable",
+   "localizedDescription": "FAQ:  We do not support piracy, It is forbidden to request copyrighted content.  Do I need a Switch to use this emulator?:  MeloNX emulator is capable\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.MeloNX.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "MeloNX      MeloNX enables Nintendo Switch game emulation on iOS using Ryujinx as a base.         MeloNX is an iOS Nintendo Switch emulator based on R",
+     "downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa",
+     "size": 48811519
+    },
+    {
+     "version": "2.7",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "FAQ:  We do not support piracy, It is forbidden to request copyrighted content.  Do I need a Switch to use this emulator?:  MeloNX emulator is capable",
+     "downloadURL": "https://starforgejo.dev/projects/MeloNX/releases/download/2.7/MeloNX.ipa",
+     "size": 49196463
+    },
+    {
+     "version": "2.5",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "An open-source Nintendo Switch emulator for iPhone and iPad. No jailbreak required.",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/MeloNX.ipa",
+     "size": 48655413
+    }
+   ]
+  }
+ ]
+}

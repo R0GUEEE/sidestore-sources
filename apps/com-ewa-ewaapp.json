@@ -1,0 +1,30 @@
+{
+ "name": "EWA",
+ "identifier": "dev.perapp.com-ewa-ewaapp",
+ "subtitle": "ipaomtk.com | Welcome to EWA English Language Learning IPA For iOS, your comprehensive solution for mastering the Englis",
+ "description": "Single-app source for EWA (com.ewa.ewaapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/photo_2024-08-05_14-06-19-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ewa.ewaapp",
+   "name": "EWA",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Welcome to EWA English Language Learning IPA For iOS, your comprehensive solution for mastering the English language. Whether you are a ",
+   "localizedDescription": "ipaomtk.com | Welcome to EWA English Language Learning IPA For iOS, your comprehensive solution for mastering the English language. Whether you are a ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/photo_2024-08-05_14-06-19-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.107.1",
+     "date": "2023-05-12T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Welcome to EWA English Language Learning IPA For iOS, your comprehensive solution for mastering the English language. Whether you are a ",
+     "downloadURL": "https://file.ipaomtk.com/ewa-english-language-learning/EWA-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

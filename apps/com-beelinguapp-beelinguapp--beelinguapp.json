@@ -1,0 +1,44 @@
+{
+ "name": "Beelinguapp",
+ "identifier": "dev.perapp.com-beelinguapp-beelinguapp",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Beelinguapp (com.beelinguapp.beelinguapp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beelinguapp.beelinguapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.beelinguapp.beelinguapp",
+   "name": "Beelinguapp",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.beelinguapp.beelinguapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.45",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-10-2025/Beelinguapp_3.8.45_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 63454428
+    },
+    {
+     "version": "3.8.43",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-10-2025/Beelinguapp_3.8.43_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 63275812
+    },
+    {
+     "version": "3.8.38",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-08-2025/Beelinguapp_3.8.38_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 60072006
+    }
+   ]
+  }
+ ]
+}

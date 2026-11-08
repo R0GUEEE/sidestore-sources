@@ -1,0 +1,44 @@
+{
+ "name": "WeChef",
+ "identifier": "dev.perapp.com-relentlessco-zesty",
+ "subtitle": "@riftysIPAlibrary | WeChef - Recipe Journal  Tweak: Premium Unlocked  Version: 1.51  Notes: - restart app when you reach",
+ "description": "Single-app source for WeChef (com.relentlessco.zesty). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7152.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.relentlessco.zesty",
+   "name": "WeChef",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | WeChef - Recipe Journal  Tweak: Premium Unlocked  Version: 1.51  Notes: - restart app when you reach the purchase page - safari sh",
+   "localizedDescription": "@riftysIPAlibrary | WeChef - Recipe Journal  Tweak: Premium Unlocked  Version: 1.51  Notes: - restart app when you reach the purchase page - safari sh",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7152.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.52.2",
+     "date": "2026-10-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | WeChef - Recipe Journal  Tweak: Premium Unlocked  Version: 1.52.2  Notes: - restart app when you reach the purchase page - safari ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8169-WeChef%20-%20Recipe%20Journal-v1.52.2-riftysipas.ipa",
+     "size": 271216170
+    },
+    {
+     "version": "1.52.1",
+     "date": "2026-09-10T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | WeChef - Recipe Journal  Tweak: Premium Unlocked  Version: 1.52.1  Notes: - restart app when you reach the purchase page - safari ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7781-WeChef%20-%20Recipe%20Journal-v1.52.1-riftysipas.ipa",
+     "size": 271150431
+    },
+    {
+     "version": "1.52",
+     "date": "2026-08-15T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | WeChef - Recipe Journal  Tweak: Premium Unlocked  Version: 1.52  Notes: - restart app when you reach the purchase page - safari sh",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7464-WeChef%20-%20Recipe%20Journal-v1.52-riftysipas.ipa",
+     "size": 271126673
+    }
+   ]
+  }
+ ]
+}

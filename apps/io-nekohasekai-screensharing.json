@@ -1,0 +1,39 @@
+{
+ "name": "Screen Sharing",
+ "identifier": "dev.perapp.io-nekohasekai-screensharing",
+ "subtitle": "Better Screen Sharing for Apple systems",
+ "description": "Single-app source for Screen Sharing (io.nekohasekai.screensharing). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#5796fd",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.nekohasekai.screensharing.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.nekohasekai.screensharing",
+   "name": "Screen Sharing",
+   "developerName": "nekohasekai",
+   "subtitle": "Better Screen Sharing for Apple systems",
+   "localizedDescription": "Open Screen Sharing:\n\nOpen Screen Sharing aims to develop superior servers and clients based on the private protocol used by Apple VNC (macOS's Screen Sharing server and ScreenSharing.app).\n\niOS:\n\nThe App Store version is \\$1 through October 31, 2026, then \\$2. Your purchase supports my work.\n\nThe App Store version excludes the following features due to App Store restrictions:\n\n• Apple VNC server: relies on background keep-alive mechanisms and a lockdown exploit.\n• Dragging files directly from a remote Mac into other iOS/iPadOS apps: relies on a private API.\n\nNightly builds:\n\nYou can also switch to the Nightly track in the App settings of the macOS app and update directly.\n\nFeatures:\n\n• Compared to the original ScreenSharing.app:.\n\n• Optimized for local networks.\n• Optimized for public networks (runs smoothly with Tailscale P2P).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.nekohasekai.screensharing.png",
+   "tintColor": "#5796fd",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.6",
+     "date": "2026-11-07T07:10:23Z",
+     "localizedDescription": "• Add native touch support for Mac.\n• Add Quick Input.\n• Keep the Mac awake.\n• Allow signing in with another connection's credentials.\n• Fixes and improvements.",
+     "downloadURL": "https://github.com/nekohasekai/open-screen-sharing/releases/download/v1.0.6/OpenScreenSharing.ipa",
+     "size": 13714353
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Screen Sharing finds and connects to Macs on your local network.",
+     "NSLocationWhenInUseUsageDescription": "Screen Sharing gets your approximate location only to keep sharing this device’s screen while you use other apps or the device is locked. It doesn’t keep your location or send it anywhere.",
+     "NSMicrophoneUsageDescription": "Screen Sharing sends your voice to the computer you’re connected to.",
+     "NSPhotoLibraryAddUsageDescription": "Screen Sharing saves screenshots to your photo library."
+    }
+   }
+  }
+ ]
+}

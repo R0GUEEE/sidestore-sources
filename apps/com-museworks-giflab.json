@@ -1,0 +1,30 @@
+{
+ "name": "GifLab",
+ "identifier": "dev.perapp.com-museworks-giflab",
+ "subtitle": "ipaomtk.com | GifLab GIF Maker & Editor IPA is the perfect choice for gif lovers around the world. It allows users to cr",
+ "description": "Single-app source for GifLab (com.museworks.giflab). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/1200x630wa-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.museworks.giflab",
+   "name": "GifLab",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | GifLab GIF Maker & Editor IPA is the perfect choice for gif lovers around the world. It allows users to create captivating and hilarious",
+   "localizedDescription": "ipaomtk.com | GifLab GIF Maker & Editor IPA is the perfect choice for gif lovers around the world. It allows users to create captivating and hilarious",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/1200x630wa-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.0",
+     "date": "2023-04-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | GifLab GIF Maker & Editor IPA is the perfect choice for gif lovers around the world. It allows users to create captivating and hilarious",
+     "downloadURL": "https://file.ipaomtk.com/ipa/GifLab-Gif-Maker-Edito.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

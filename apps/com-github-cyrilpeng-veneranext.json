@@ -1,0 +1,44 @@
+{
+ "name": "VeneraNext",
+ "identifier": "dev.perapp.com-github-cyrilpeng-veneranext",
+ "subtitle": "基于 Flutter 的跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源与第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。",
+ "description": "Single-app source for VeneraNext (com.github.cyrilpeng.veneranext). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.github.cyrilpeng.veneranext",
+   "name": "VeneraNext",
+   "developerName": "CyrilPeng",
+   "subtitle": "基于 Flutter 的跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源与第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。",
+   "localizedDescription": "基于 Flutter 的跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源与第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Venera-Next/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.18.3",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "基于 Flutter 的跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源与第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。",
+     "downloadURL": "https://github.com/CyrilPeng/Venera-Next/releases/download/v1.18.3/VeneraNext-ios-1.18.3+249.ipa",
+     "size": 21467556
+    },
+    {
+     "version": "1.18.2",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "基于 Flutter 的跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源与第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。",
+     "downloadURL": "https://github.com/CyrilPeng/Venera-Next/releases/download/v1.18.2/VeneraNext-ios-1.18.2+243.ipa",
+     "size": 21307925
+    },
+    {
+     "version": "1.18.1",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "基于 Flutter 的跨平台漫画阅读器，支持本地漫画、WebDAV 漫画源与第三方网络漫画源，支持 Android、iOS、Windows、Linux、macOS 平台。",
+     "downloadURL": "https://github.com/CyrilPeng/Venera-Next/releases/download/v1.18.1/VeneraNext-ios-1.18.1+236.ipa",
+     "size": 21194544
+    }
+   ]
+  }
+ ]
+}

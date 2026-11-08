@@ -1,0 +1,44 @@
+{
+ "name": "PiliPlus",
+ "identifier": "dev.perapp.com-example-piliplus",
+ "subtitle": "Injected with Nothing",
+ "description": "Single-app source for PiliPlus (com.example.piliplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.example.piliplus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.example.piliplus",
+   "name": "PiliPlus",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing",
+   "localizedDescription": "Injected with Nothing",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/com.example.piliplus.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.0.2",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/PiliPlus_2.2.0.2/PiliPlus_2.2.0.2_Nothing_@repo.owo.network.ipa",
+     "size": 24933082
+    },
+    {
+     "version": "2.2.0.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Injected with Nothing",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/PiliPlus_2.2.0.1/PiliPlus_2.2.0.1_Nothing_@repo.owo.network.ipa",
+     "size": 24914746
+    },
+    {
+     "version": "2.2.0",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "使用Flutter开发的BiliBili第三方客户端",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/PiliPlus_2.2.0/PiliPlus_2.2.0_Nothing_@repo.owo.network.ipa",
+     "size": 24921912
+    }
+   ]
+  }
+ ]
+}

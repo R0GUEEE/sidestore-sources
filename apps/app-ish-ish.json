@@ -1,0 +1,44 @@
+{
+ "name": "iSH",
+ "identifier": "dev.perapp.app-ish-ish",
+ "subtitle": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+ "description": "Single-app source for iSH (app.ish.iSH). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ish.app/assets/icon-full.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.ish.iSH",
+   "name": "iSH",
+   "developerName": "Theodore Dubois and contributors",
+   "subtitle": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+   "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+   "iconURL": "https://ish.app/assets/icon-full.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Build 813",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+     "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/813/iSH.ipa",
+     "size": 4602446
+    },
+    {
+     "version": "1.3.3",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+     "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/813/iSH.ipa",
+     "size": 4602446
+    },
+    {
+     "version": "Build 812",
+     "date": "2026-07-28T00:00:00Z",
+     "localizedDescription": "iSH is a project to get a Linux shell environment running locally on your iOS device, using a usermode x86 emulator.",
+     "downloadURL": "https://github.com/ish-app/ish/releases/download/builds/812/iSH.ipa",
+     "size": 4596003
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Stumble Guys",
+ "identifier": "dev.perapp.com-kitkagames-fallbuddies",
+ "subtitle": "ipaomtk.com | Stumble Guys IPA is a wildly popular multiplayer game that has taken the mobile gaming world by storm. Wit",
+ "description": "Single-app source for Stumble Guys (com.kitkagames.fallbuddies). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/Stumble-Guys--150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kitkagames.fallbuddies",
+   "name": "Stumble Guys",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Stumble Guys IPA is a wildly popular multiplayer game that has taken the mobile gaming world by storm. With its quirky characters, hilar",
+   "localizedDescription": "ipaomtk.com | Stumble Guys IPA is a wildly popular multiplayer game that has taken the mobile gaming world by storm. With its quirky characters, hilar",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/Stumble-Guys--150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.81.6",
+     "date": "2023-07-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Stumble Guys IPA is a wildly popular multiplayer game that has taken the mobile gaming world by storm. With its quirky characters, hilar",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Stumble-Guys.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

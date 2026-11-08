@@ -1,0 +1,37 @@
+{
+ "name": "Bookshelf",
+ "identifier": "dev.perapp.alexgerrese-summarize",
+ "subtitle": "@Sa1y0miii | Bookshelf: Book Tracker & List 🧸 Min.iOS: [17.0+] 🧀 App version: [2.18.18] !upd  🪼 App Store: https://apps.",
+ "description": "Single-app source for Bookshelf (alexgerrese.summarize). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10386.png",
+ "apps": [
+  {
+   "bundleIdentifier": "alexgerrese.summarize",
+   "name": "Bookshelf",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | Bookshelf: Book Tracker & List 🧸 Min.iOS: [17.0+] 🧀 App version: [2.18.18] !upd  🪼 App Store: https://apps.apple.com/ua/app/bookshelf-boo",
+   "localizedDescription": "@Sa1y0miii | Bookshelf: Book Tracker & List 🧸 Min.iOS: [17.0+] 🧀 App version: [2.18.18] !upd  🪼 App Store: https://apps.apple.com/ua/app/bookshelf-boo",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10386.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.18.18",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Bookshelf: Book Tracker & List 🧸 Min.iOS: [17.0+] 🧀 App version: [2.18.18] !upd  🪼 App Store: https://apps.apple.com/ua/app/bookshelf-boo",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/10386-%E2%80%8EBookshelf_v2.18.18_tg@Sa1y0miii.ipa",
+     "size": 218292937
+    },
+    {
+     "version": "2.18.9",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Bookshelf_2.18.9_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 213803458
+    }
+   ]
+  }
+ ]
+}

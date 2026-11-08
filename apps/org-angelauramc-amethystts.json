@@ -1,0 +1,30 @@
+{
+ "name": "AmethystTS_1.0",
+ "identifier": "dev.perapp.org-angelauramc-amethystts",
+ "subtitle": "TS version of Amethyst",
+ "description": "Single-app source for AmethystTS_1.0 (org.angelauramc.amethystTS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AmethystTS_1.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.angelauramc.amethystTS",
+   "name": "AmethystTS_1.0",
+   "developerName": "AmethystTS_1.0 x CyPwn",
+   "subtitle": "TS version of Amethyst",
+   "localizedDescription": "TS version of Amethyst",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AmethystTS_1.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "TS version of Amethyst",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/AmethystTS_1.0.ipa",
+     "size": 30125588
+    }
+   ]
+  }
+ ]
+}

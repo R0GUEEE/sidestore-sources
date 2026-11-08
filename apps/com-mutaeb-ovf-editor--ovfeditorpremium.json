@@ -1,0 +1,30 @@
+{
+ "name": "OVFEditorPremium",
+ "identifier": "dev.perapp.com-mutaeb-ovf-editor",
+ "subtitle": "Patched",
+ "description": "Single-app source for OVFEditorPremium (com.mutaeb.OVF-Editor). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mutaeb.OVF-Editor",
+   "name": "OVFEditorPremium",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "Patched",
+   "localizedDescription": "FastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.mutaeb.OVF-Editor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.1",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OVFEditorPremium/OVFEditorPremium-5.0.1.ipa",
+     "size": 41848347
+    }
+   ]
+  }
+ ]
+}

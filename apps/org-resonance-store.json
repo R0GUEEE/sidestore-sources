@@ -1,0 +1,44 @@
+{
+ "name": "TrollApps",
+ "identifier": "dev.perapp.org-resonance-store",
+ "subtitle": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated ve",
+ "description": "Single-app source for TrollApps (org.resonance.store). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.resonance.store.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.resonance.store",
+   "name": "TrollApps",
+   "developerName": "TrollApps",
+   "subtitle": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Belo",
+   "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Belo",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.resonance.store.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Belo",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollApps/TrollApps-2.3.ipa",
+     "size": 5549018
+    },
+    {
+     "version": "2.3b-Hotfix3",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Belo",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollApps/TrollApps-2.3b-Hotfix3.ipa",
+     "size": 5533915
+    },
+    {
+     "version": "2.3b-Hotfix2",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "This new TrollApps serves as a substitute to the iOS App Store for individuals using TrollStore, providing an updated version of its predecessor (Belo",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollApps/TrollApps-2.3b-Hotfix2.ipa",
+     "size": 5205646
+    }
+   ]
+  }
+ ]
+}

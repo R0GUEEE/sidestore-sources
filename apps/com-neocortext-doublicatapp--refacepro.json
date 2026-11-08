@@ -1,0 +1,30 @@
+{
+ "name": "ReFacePro",
+ "identifier": "dev.perapp.com-neocortext-doublicatapp",
+ "subtitle": "EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab ",
+ "description": "Single-app source for ReFacePro (com.neocortext.doublicatapp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.neocortext.doublicatapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.neocortext.doublicatapp",
+   "name": "ReFacePro",
+   "developerName": "iPAWiND",
+   "subtitle": "EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022…",
+   "localizedDescription": "EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022 release. ReFace, a popular face-swap app, with pro features unlocked\nLast updated: 03-21-2023\nStatus: ⚠️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.neocortext.doublicatapp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.18.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "EOL for iOS 14.x. I will no longer be able to test new IPAs. For the last iOS 14 compatible version of Reface Pro, grab it from the 12-14-2022…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReFacePro/ReFacePro-4.18.0.ipa",
+     "size": 89282854
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "CyPwn Store",
+ "identifier": "dev.perapp.ed0ardo-cypwnstore",
+ "subtitle": "ipaomtk.com | What is CyPwn Store IPA? CyPwn Store IPA is the iOS installable version of a third-party app library desig",
+ "description": "Single-app source for CyPwn Store (Ed0ardo.CyPwnStore). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/CyPwn-Store1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Ed0ardo.CyPwnStore",
+   "name": "CyPwn Store",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is CyPwn Store IPA? CyPwn Store IPA is the iOS installable version of a third-party app library designed to provide access to a wid",
+   "localizedDescription": "ipaomtk.com | What is CyPwn Store IPA? CyPwn Store IPA is the iOS installable version of a third-party app library designed to provide access to a wid",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/04/CyPwn-Store1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "CyPwn Store v7. Download Debs and IPAs from CyPwn directly from the App.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/CyPwn_Store.ipa",
+     "size": 914688
+    },
+    {
+     "version": "7.1",
+     "date": "2026-04-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is CyPwn Store IPA? CyPwn Store IPA is the iOS installable version of a third-party app library designed to provide access to a wid",
+     "downloadURL": "https://file.ipaomtk.com/cypwn-store/CyPwnStore-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

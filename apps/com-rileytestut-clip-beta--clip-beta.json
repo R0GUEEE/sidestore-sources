@@ -1,0 +1,30 @@
+{
+ "name": "Clip Beta",
+ "identifier": "dev.perapp.com-rileytestut-clip-beta",
+ "subtitle": "Clip is a simple clipboard manager for iOS. Unlike other clipboard managers, Clip can continue monitoring your clipboard",
+ "description": "Single-app source for Clip Beta (com.rileytestut.Clip.Beta). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.Clip.Beta",
+   "name": "Clip Beta",
+   "developerName": "Riley Testut",
+   "subtitle": "Clip is a simple clipboard manager for iOS. Unlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No…",
+   "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0b",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "Clip is a simple clipboard manager for iOS. Unlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No…",
+     "downloadURL": "https://f000.backblazeb2.com/file/altstore/clip-beta.ipa",
+     "size": 462771
+    }
+   ]
+  }
+ ]
+}

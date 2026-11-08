@@ -1,0 +1,36 @@
+{
+ "name": "Sora",
+ "identifier": "dev.perapp.me-cranci-sulfur",
+ "subtitle": "A modular media player for iOS and macOS",
+ "description": "Single-app source for Sora (me.cranci.sulfur). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e38a47",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.cranci.sulfur.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.cranci.sulfur",
+   "name": "Sora",
+   "developerName": "cranci1",
+   "subtitle": "A modular media player for iOS and macOS",
+   "localizedDescription": "Sora:\n\nAlso known as Sulfur due to copyright considerations.\n\nA modular media player for iOS and macOS, under the GPLv3.0 License.\n\nFeatures:\n\n• [x] macOS 12.0+ support.\n• [x] iOS/iPadOS 15.0+ support.\n• [x] JavaScript-based module loader.\n• [x] HLS and MP4 format support with optional offline watching (via user-installed modules).\n• [x] Tracking services (AniList, Trakt).\n• [x] Apple Keychain support for auth tokens.\n• [x] Support for personal media servers (e.g., Jellyfin, Plex).\n• [x] External metadata providers (TMDB, AniList).\n• [x] Background playback and Picture-in-Picture (PiP) support.\n• [x] External media player support (VLC, Infuse, Outplayer, nPlayer, SenPlayer, IINA, TracyPlayer).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.cranci.sulfur.png",
+   "tintColor": "#e38a47",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/cranci1/Sora@dev/assets/Sulfur.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2026-08-20T12:21:10Z",
+     "localizedDescription": "What's New::\n\n• Modules Settings support.\n• AniList sync (Watching/Planing collections).\n\nFixes::\n\n• Fixed search results being randomized.\n• Fixed bookmark removal causing view to close.\n• Fixed \"Mark as Watched\" option not showing up.\n• Fixed \"Watch Next\" button choosing wrong season.",
+     "downloadURL": "https://github.com/cranci1/Sora/releases/download/1.3.0/Sulfur.ipa",
+     "size": 3112338
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

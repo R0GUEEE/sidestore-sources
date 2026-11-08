@@ -1,0 +1,50 @@
+{
+ "name": "Twitch++",
+ "identifier": "dev.perapp.tv-twitch",
+ "subtitle": "Twitch Fox allows you to stream ad-free.",
+ "description": "Single-app source for Twitch++ (tv.twitch). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#9146ff",
+ "iconURL": "https://i.imgur.com/pcqVs0i.png",
+ "apps": [
+  {
+   "bundleIdentifier": "tv.twitch",
+   "name": "Twitch++",
+   "developerName": "Michael Lema",
+   "subtitle": "Twitch Fox allows you to stream ad-free.",
+   "localizedDescription": "With Twitch Fox you get ad-free streams, the ability to download clips, and plenty more tweak options in Twitch's settings. Experience the games you love like never before! Watch live streams and chat with devoted gamers around the world.\n\nCatch the action as it happens! Access all the content you care about, from frenetic Overwatch multiplayer matches to soothing Bob Ross art demos. With millions of unique streamers every day playing everything under the sun, if it’s worth watching, it’s live on Twitch right now.\n\nTwitch: TOP 3 FEATURES\n1. Watch live videos of your favorite games, from blockbuster titles like Minecraft and League of Legends to little-known indie gems.\n2. Connect with other gamers in real time with full-featured live chat.\n3. Go live with a touch and share your passion with the world!\n\nBe a part of the leading social gaming platform on iPhone and iPad! With esports events, art, cooking, music and much more on demand, there’s something for everyone on Twitch.\n\n+ Watch interactive live shows from the likes of Sony, Microsoft, Blizzard and Riot Games.\n+ Tune into unique programming, from music festival live streams to exclusive video game events.\n+ Discover new content with ease thanks to simple and intuitive navigation.\n+ Switch to Dark Mode for those late night viewing sessions.\n\nJoin the millions of hardcore and casual gamers who have found a place to connect over the games they love. Take your passion to the next level with Twitch!",
+   "iconURL": "https://i.imgur.com/pcqVs0i.png",
+   "tintColor": "#9146ff",
+   "screenshots": [
+    "https://i.imgur.com/GWNj5HB.png",
+    "https://i.imgur.com/LZ9pnCc.png",
+    "https://i.imgur.com/mPF1OtD.png",
+    "https://i.imgur.com/QE7op8J.png",
+    "https://i.imgur.com/3dVqhBv.png"
+   ],
+   "versions": [
+    {
+     "version": "30.4.2",
+     "date": "2026-08-03T08:30:00+03:00",
+     "localizedDescription": "Tweach v2.4.1:\n- Fixed story crash issue\n- Fixed crashes when entering the Creator Dashboard\n- Added option to check for updates",
+     "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/tweach_2.4.1+30.4.2.ipa",
+     "size": 133731546
+    },
+    {
+     "version": "29.8",
+     "date": "2026-06-22T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n- twitch with no ads",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1863",
+     "size": 132721558
+    },
+    {
+     "version": "23.4-0.1.5",
+     "date": "2025-04-25T00:00:00Z",
+     "localizedDescription": "A compilation of TwitchAdBlock (23.4-0.1.5) and TwitchDvnloader (0.0.2). No ads + ability to download Clips, VODs and Live Streams.\nLast updated: 26-04-2025\nStatus: ✅ 👍 ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/26-04-2025/TwitchDvnloaderPlus-23.4-0.1.5.ipa",
+     "size": 150094691
+    }
+   ]
+  }
+ ]
+}

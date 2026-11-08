@@ -1,0 +1,44 @@
+{
+ "name": "Oniri",
+ "identifier": "dev.perapp.com-sublime-capture",
+ "subtitle": "Oniri",
+ "description": "Single-app source for Oniri (com.sublime.capture). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/fe51060a-ff5a-492e-9802-c19c4059b202/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sublime.capture",
+   "name": "Oniri",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Oniri - Your Dream Journal\n\nTweak: Subscription Unlocked\n\nVersion: 4.7.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/fe51060a-ff5a-492e-9802-c19c4059b202/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.8",
+     "date": "2026-08-29T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2157",
+     "size": 81249825
+    },
+    {
+     "version": "6.0.7",
+     "date": "2026-08-02T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2157",
+     "size": 82853549
+    },
+    {
+     "version": "4.5.5",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "App for keeping a dream journal, analyzing your dreams, and having lucid dreams.\nLast updated: 06-23-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/OniriPremium/OniriPremium-4.5.5.ipa",
+     "size": 80376918
+    }
+   ]
+  }
+ ]
+}

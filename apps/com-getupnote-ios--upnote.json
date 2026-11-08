@@ -1,0 +1,44 @@
+{
+ "name": "UpNote",
+ "identifier": "dev.perapp.com-getupnote-ios",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for UpNote (com.getupnote.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.getupnote.ios",
+   "name": "UpNote",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.22.11",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | UpNote - notes, diary, journal  • Bundle ID: com.getupnote.ios • Updated to: 9.22.11 • Minimum iOS: 15.6 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13046-UpNote_notes,_diary,_journal_v9_22_11_Subscription_Unlocked_blatant.ipa",
+     "size": 55539047
+    },
+    {
+     "version": "9.22.10",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@blatants | UpNote - notes, diary, journal  • Bundle ID: com.getupnote.ios • Updated to: 9.22.10 • Minimum iOS: 15.6 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12796-UpNote_notes,_diary,_journal_v9_22_10_Subscription_Unlocked_blatant.ipa",
+     "size": 55512209
+    },
+    {
+     "version": "9.22.9",
+     "date": "2026-10-10T00:00:00Z",
+     "localizedDescription": "@blatants | UpNote - notes, diary, journal  • Bundle ID: com.getupnote.ios • Updated to: 9.22.9 • Minimum iOS: 15.6 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12716-UpNote_notes,_diary,_journal_v9_22_9_Subscription_Unlocked_blatant.ipa",
+     "size": 55509456
+    }
+   ]
+  }
+ ]
+}

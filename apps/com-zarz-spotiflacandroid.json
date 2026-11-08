@@ -1,0 +1,44 @@
+{
+ "name": "SpotiFLAC Mobile",
+ "identifier": "dev.perapp.com-zarz-spotiflacandroid",
+ "subtitle": "scholars lounge | SpotiFLAC Version: 4.8.5 Bundle ID: com.zarz.spotiflacAndroid App by zarzet  Mobile version of SpotiFL",
+ "description": "Single-app source for SpotiFLAC Mobile (com.zarz.spotiflacAndroid). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68778.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.zarz.spotiflacAndroid",
+   "name": "SpotiFLAC Mobile",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | SpotiFLAC Version: 4.8.5 Bundle ID: com.zarz.spotiflacAndroid App by zarzet  Mobile version of SpotiFLAC written in Flutter, powered",
+   "localizedDescription": "scholars lounge | SpotiFLAC Version: 4.8.5 Bundle ID: com.zarz.spotiflacAndroid App by zarzet  Mobile version of SpotiFLAC written in Flutter, powered",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68778.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.9.6",
+     "date": "2026-09-08T00:00:00Z",
+     "localizedDescription": "scholars lounge | SpotiFLAC Version: 4.9.6 Bundle ID: com.zarz.spotiflacAndroid App by zarzet  Mobile version of SpotiFLAC written in Flutter, powered",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/73560-SpotiFLAC-v4.9.6-ios-unsigned.ipa",
+     "size": 34171700
+    },
+    {
+     "version": "4.9.5",
+     "date": "2026-09-01T00:00:00Z",
+     "localizedDescription": "scholars lounge | SpotiFLAC Version: 4.9.5 Bundle ID: com.zarz.spotiflacAndroid App by zarzet  Mobile version of SpotiFLAC written in Flutter, powered",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/72643-SpotiFLAC-v4.9.5-ios-unsigned.ipa",
+     "size": 34122124
+    },
+    {
+     "version": "4.9.0",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "scholars lounge | SpotiFLAC Version: 4.9.0 Bundle ID: com.zarz.spotiflacAndroid App by zarzet  Mobile version of SpotiFLAC written in Flutter, powered",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/71626-SpotiFLAC-v4.9.0-ios-unsigned.ipa",
+     "size": 35967116
+    }
+   ]
+  }
+ ]
+}

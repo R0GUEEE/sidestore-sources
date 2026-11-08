@@ -1,0 +1,30 @@
+{
+ "name": "DowngradeApp - TrollStore",
+ "identifier": "dev.perapp.com-netskao-downgradeapp",
+ "subtitle": "Công cụ hạ cấp ứng dụng - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for DowngradeApp - TrollStore (com.netskao.downgradeapp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/DowngradeApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netskao.downgradeapp",
+   "name": "DowngradeApp - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Công cụ hạ cấp ứng dụng - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Công cụ hạ cấp ứng dụng - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/DowngradeApp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2-1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Công cụ hạ cấp ứng dụng - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/DowngradeApp_1.2-1_TTJB.tipa",
+     "size": 1311321
+    }
+   ]
+  }
+ ]
+}

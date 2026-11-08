@@ -1,0 +1,30 @@
+{
+ "name": "000 VPN",
+ "identifier": "dev.perapp.com-ononevpn-gexigvpn",
+ "subtitle": "ipaomtk.com | 000 VPN IPA where privacy and security are of utmost importance, virtual private networks (VPNs) have beco",
+ "description": "Single-app source for 000 VPN (com.ononevpn.gexigvpn). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/000-VPN-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ononevpn.gexigvpn",
+   "name": "000 VPN",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | 000 VPN IPA where privacy and security are of utmost importance, virtual private networks (VPNs) have become essential tools for individ",
+   "localizedDescription": "ipaomtk.com | 000 VPN IPA where privacy and security are of utmost importance, virtual private networks (VPNs) have become essential tools for individ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/000-VPN-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2024-04-14T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | 000 VPN IPA where privacy and security are of utmost importance, virtual private networks (VPNs) have become essential tools for individ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/000-VPN.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

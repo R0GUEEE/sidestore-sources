@@ -1,0 +1,38 @@
+{
+ "name": "Rimba",
+ "identifier": "dev.perapp.com-syntheticae-rimba",
+ "subtitle": "A calm, diorama-style mindfulness and Pomodoro focus application",
+ "description": "Single-app source for Rimba (com.syntheticae.rimba). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#287f29",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.syntheticae.rimba.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.syntheticae.rimba",
+   "name": "Rimba",
+   "developerName": "jagarimbatetaplestari",
+   "subtitle": "A calm, diorama-style mindfulness and Pomodoro focus application",
+   "localizedDescription": "🌲 Rimba Mobile — Digital Garden & Focus World:\n\nA calm, diorama-style mindfulness and Pomodoro focus application. Cultivate your floating island sanctuary with mindful focus sessions, real-time procedural nature simulation, and authentic offline-first sovereignty.\n\n✨ Fitur Utama (Key Features):\n\n• 3D Diorama Floating Sanctuary: Pulau diorama 3D hidup dengan elevasi bertingkat, dinding tanah terakota organik, rumput velvet (instanced grass wind-shader), dan pencahayaan dinamis.\n• Sistem Sungai & Aliran Air Otomatis: Penataan petak sungai yang langsung tersambung dan menyatu secara seamless (orthogonal auto-tiling) dengan dasar sungai berpasir dan bebatuan tepi air.\n• Mindful Focus Engine: Mode Pomodoro & Zen Focus dengan pertumbuhan pohon bertahap (Benih → Tunas → Pohon Muda → Dewasa / Tunggul jika sesi ditinggalkan).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.syntheticae.rimba.png",
+   "tintColor": "#287f29",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.0",
+     "date": "2026-10-22T03:49:22Z",
+     "localizedDescription": "🌲 Rimba Mobile — Digital Garden & Focus World:\n\nIPA Build untuk Sideload SideStore / AltStore.\n\n📲 Cara Install di iPhone via SideStore / AltStore::\n\n• Buka halaman rilis ini di browser Safari iPhone Anda.\n• Unduh file Rimba.ipa dari bagian Assets di bawah.\n• Buka aplikasi SideStore (atau AltStore).\n• Tap tab My Apps, lalu tap ikon + di pojok kiri/kanan atas.\n• Pilih file Rimba.ipa yang baru diunduh.\n• SideStore akan menandatangani dengan akun Apple ID Anda, dan Rimba siap digunakan!\n\nCommit: cb409e7b3c46dd6b2fd149dd4fa2cf5394c5ecf3.",
+     "downloadURL": "https://github.com/jagarimbatetaplestari/Rimba-Mobile/releases/download/v0.2.0-build-82/Rimba.ipa",
+     "size": 89666566
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Rimba memerlukan akses kamera untuk mengambil foto profil Ranger Anda dan fitur tangkapan suaka.",
+     "NSPhotoLibraryAddUsageDescription": "Rimba memerlukan izin untuk menyimpan gambar dan kartu suaka Anda ke galeri foto.",
+     "NSPhotoLibraryUsageDescription": "Rimba memerlukan akses galeri foto untuk memilih foto profil Ranger dan menyimpan kartu suaka."
+    }
+   }
+  }
+ ]
+}

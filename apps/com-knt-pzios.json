@@ -1,0 +1,40 @@
+{
+ "name": "pziOS",
+ "identifier": "dev.perapp.com-knt-pzios",
+ "subtitle": "Project Zomboid Launcher for iOS",
+ "description": "Single-app source for pziOS (com.knt.pzios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#987e49",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.knt.pzios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.knt.pzios",
+   "name": "pziOS",
+   "developerName": "onlyknt",
+   "subtitle": "Project Zomboid Launcher for iOS",
+   "localizedDescription": "pziOS runs Project Zomboid (Build 42) on an iPhone or iPad. It is a launcher plus the runtime the game needs: a Java virtual machine built for iOS, an OpenGL-to-Metal graphics stack, and audio and input layers. It runs your own copy of the game; no game assets are included or downloaded.\n\nFree and non-commercial. pziOS is not for sale, not for profit, and not for distribution on any app store. You need to own Project Zomboid. Project Zomboid is a work of The Indie Stone; this project is not affiliated with or endorsed by them.\n\nBeta (0.9.0). Tested on an iPhone 16 Pro Max (A18 Pro, iOS 27) and an iPad Pro 11-inch 2nd generation (A12Z, iPadOS 26.6.2). Everything else is untested. Expect rough edges.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.knt.pzios.png",
+   "tintColor": "#987e49",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.0",
+     "date": "2026-10-21T19:40:08Z",
+     "localizedDescription": "New:\n\n• Mouse sensitivity (Controls → Edit touch layout). A Sensitivity slider sets how fast the on-screen cursor moves when you drag in PAD mode.\n• Saved touch layouts. The touch editor has a Saved menu: save the current layout under a name, load one, replace it with the current layout, or delete it.\n\n• Two-finger zoom switch (Settings → Controls). Turns the two-finger scroll that zooms the game on or off.\n• ZombieBuddy switch (Developer Tools → Tools). Starts the game with -javaagent:ZombieBuddy.jar for mods that need ZombieBuddy. Put ZombieBuddy.jar in the game folder (Files, pziOS, game); if the file is missing the switch is skipped.\n\n• iOS 17 and 18 Support. On iOS 26 and later pziOS gets its executable memory from the debugger as a mirror-mapped region. On iOS 17 and 18, pziOS now uses the JVM's classic code-cache path instead, chosen automatically and logged as settings: JIT path classic in jvm.log. Please report results on iOS 17 and 18 with your jvm.log.",
+     "downloadURL": "https://github.com/onlyknt/pziOS/releases/download/pziOS/pziOS-0.9.0-beta.5-b42.21.ipa",
+     "size": 135057730
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.developer.kernel.increased-memory-limit",
+     "get-task-allow"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Lets Project Zomboid find and join multiplayer servers on your local network.",
+     "NSMicrophoneUsageDescription": "Project Zomboid's audio engine can use the microphone for in-game voice chat."
+    }
+   }
+  }
+ ]
+}

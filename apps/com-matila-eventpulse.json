@@ -1,0 +1,30 @@
+{
+ "name": "ВТБ",
+ "identifier": "dev.perapp.com-matila-eventpulse",
+ "subtitle": "@ipa_dark | 🔄 ВТБ  🇷🇺 Обновлённое приложение втб банка, добавленное в appstore под видом другого приложения \"Алтай\".  ℹ️",
+ "description": "Single-app source for ВТБ (com.matila.EventPulse). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1751.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.matila.EventPulse",
+   "name": "ВТБ",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 ВТБ  🇷🇺 Обновлённое приложение втб банка, добавленное в appstore под видом другого приложения \"Алтай\".  ℹ️ Особенности: ▎Удалено с AppSt",
+   "localizedDescription": "@ipa_dark | 🔄 ВТБ  🇷🇺 Обновлённое приложение втб банка, добавленное в appstore под видом другого приложения \"Алтай\".  ℹ️ Особенности: ▎Удалено с AppSt\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1751.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.1",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 ВТБ  🇷🇺 Обновлённое приложение втб банка, добавленное в appstore под видом другого приложения \"Алтай\".  ℹ️ Особенности: ▎Удалено с AppSt",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1751-%D0%92%D0%A2%D0%91%20%D0%90%D0%BB%D1%82%D0%B0%D0%B9%20%5Bv3.2.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 446729919
+    }
+   ]
+  }
+ ]
+}

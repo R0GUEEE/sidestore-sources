@@ -1,0 +1,44 @@
+{
+ "name": "OnTheWay",
+ "identifier": "dev.perapp.ideastudio-weather-on-the-way",
+ "subtitle": "OnTheWay",
+ "description": "Single-app source for OnTheWay (ideastudio.Weather-on-the-Way). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ideastudio.Weather-on-the-Way",
+   "name": "OnTheWay",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.9",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
+     "size": 51979808
+    },
+    {
+     "version": "2.5.7",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
+     "size": 50654257
+    },
+    {
+     "version": "2.5.5",
+     "date": "2026-05-20T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/OnTheWay_2.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 44137025
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SAM Note Sticky & Remind Color",
+ "identifier": "dev.perapp.chef-com-colornote2",
+ "subtitle": "ipaomtk.com | SAM Note Sticky & Remind Color is a versatile digital note-taking app that brings the convenience of stick",
+ "description": "Single-app source for SAM Note Sticky & Remind Color (chef.com.colornote2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/SAM-Note-Sticky-038-Remind-Color.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "chef.com.colornote2",
+   "name": "SAM Note Sticky & Remind Color",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | SAM Note Sticky & Remind Color is a versatile digital note-taking app that brings the convenience of sticky notes to your mobile device.",
+   "localizedDescription": "ipaomtk.com | SAM Note Sticky & Remind Color is a versatile digital note-taking app that brings the convenience of sticky notes to your mobile device.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/SAM-Note-Sticky-038-Remind-Color.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | SAM Note Sticky & Remind Color is a versatile digital note-taking app that brings the convenience of sticky notes to your mobile device.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/SAM_Note_Sticky_Remind_Color-v1.5.9-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

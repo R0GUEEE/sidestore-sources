@@ -1,0 +1,30 @@
+{
+ "name": "TinyPrinter",
+ "identifier": "dev.perapp.com-jungspree-easyprinter",
+ "subtitle": "ipaomtk.com | TinyPrinter IPA v1.15 is a whimsical iOS application that brings a touch of nostalgia to the digital age b",
+ "description": "Single-app source for TinyPrinter (com.jungspree.easyprinter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/TinyPrinter-%C2%B7-Print-to-size.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jungspree.easyprinter",
+   "name": "TinyPrinter",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | TinyPrinter IPA v1.15 is a whimsical iOS application that brings a touch of nostalgia to the digital age by simulating a miniature therm",
+   "localizedDescription": "ipaomtk.com | TinyPrinter IPA v1.15 is a whimsical iOS application that brings a touch of nostalgia to the digital age by simulating a miniature therm",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/TinyPrinter-%C2%B7-Print-to-size.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | TinyPrinter IPA v1.15 is a whimsical iOS application that brings a touch of nostalgia to the digital age by simulating a miniature therm",
+     "downloadURL": "https://file.ipaomtk.com/ipa/TinyPrinter_Print_to_size-v1.15-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

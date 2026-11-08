@@ -1,0 +1,30 @@
+{
+ "name": "TwistedWave",
+ "identifier": "dev.perapp.com-twistedwave-twistedwavemob",
+ "subtitle": "ipaomtk.com | The TwistedWave Audio Editor IPA is a powerful and versatile tool for creating and editing high-quality au",
+ "description": "Single-app source for TwistedWave (com.twistedwave.TwistedWaveMob). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/TwistedWaveAudioEditor-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.twistedwave.TwistedWaveMob",
+   "name": "TwistedWave",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The TwistedWave Audio Editor IPA is a powerful and versatile tool for creating and editing high-quality audio files. It is a great choic",
+   "localizedDescription": "ipaomtk.com | The TwistedWave Audio Editor IPA is a powerful and versatile tool for creating and editing high-quality audio files. It is a great choic",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/TwistedWaveAudioEditor-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.62",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The TwistedWave Audio Editor IPA is a powerful and versatile tool for creating and editing high-quality audio files. It is a great choic",
+     "downloadURL": "https://file.ipaomtk.com/ipa/TwistedWaveAudioEditor.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

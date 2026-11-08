@@ -1,0 +1,44 @@
+{
+ "name": "X",
+ "identifier": "dev.perapp.com-atebits-tweetie2",
+ "subtitle": "X",
+ "description": "Single-app source for X (com.atebits.Tweetie2). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.atebits.Tweetie2",
+   "name": "X",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.41",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "• X updated to v12.41",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.41.+.NFB.v7.3.1.ipa",
+     "size": 275510462
+    },
+    {
+     "version": "12.40.1",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "• X updated to v12.40.1",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.1.+.NFB.v7.3.1.ipa",
+     "size": 270899362
+    },
+    {
+     "version": "12.40",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "• X updated to v12.40\n• NFB updated to v7.3.1",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.+.NFB.v7.3.1.ipa",
+     "size": 270815817
+    }
+   ]
+  }
+ ]
+}

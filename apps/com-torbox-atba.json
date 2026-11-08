@@ -1,0 +1,39 @@
+{
+ "name": "ATBA",
+ "identifier": "dev.perapp.com-torbox-atba",
+ "subtitle": "A cross-platform TorBox client that supports streaming",
+ "description": "Single-app source for ATBA (com.torbox.atba). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#208124",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.torbox.atba.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.torbox.atba",
+   "name": "ATBA",
+   "developerName": "93Pd9s8Jt",
+   "subtitle": "A cross-platform TorBox client that supports streaming",
+   "localizedDescription": "Platform Snapshot:\n\n• Automations a la TBM.\n• More integrations.\n• Fully cross platform.\n• Responsive design.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.torbox.atba.png",
+   "tintColor": "#208124",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/8c885631-9e5e-49c4-8ee1-0d6210bd8721"
+   ],
+   "versions": [
+    {
+     "version": "0.12.1",
+     "date": "2026-10-28T18:30:50Z",
+     "localizedDescription": "Bug Fixes:\n\n• deps: upgrade Flutter to address TLS certificate validation vulnerability (42affe6).",
+     "downloadURL": "https://github.com/93Pd9s8Jt/atba/releases/download/v0.12.1/atba-v0.12.1.ipa",
+     "size": 22831099
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSDocumentsFolderUsageDescription": "We need access to your documents folder to save files.",
+     "NSPhotoLibraryUsageDescription": "We need access to your photo library to save files."
+    }
+   }
+  }
+ ]
+}

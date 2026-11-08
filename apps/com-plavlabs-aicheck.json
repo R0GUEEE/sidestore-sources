@@ -1,0 +1,30 @@
+{
+ "name": "AICheck-ipaomtk",
+ "identifier": "dev.perapp.com-plavlabs-aicheck",
+ "subtitle": "ipaomtk.com | AICheck Grammar Checker IPA, you know how crucial it is to have a reliable grammar checker that can help y",
+ "description": "Single-app source for AICheck-ipaomtk (com.plavlabs.aicheck). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/AICheck-Grammar-Checker-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.plavlabs.aicheck",
+   "name": "AICheck-ipaomtk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | AICheck Grammar Checker IPA, you know how crucial it is to have a reliable grammar checker that can help you polish your work and ensure",
+   "localizedDescription": "ipaomtk.com | AICheck Grammar Checker IPA, you know how crucial it is to have a reliable grammar checker that can help you polish your work and ensure",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/AICheck-Grammar-Checker-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.0",
+     "date": "2024-09-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AICheck Grammar Checker IPA, you know how crucial it is to have a reliable grammar checker that can help you polish your work and ensure",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AICheck-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

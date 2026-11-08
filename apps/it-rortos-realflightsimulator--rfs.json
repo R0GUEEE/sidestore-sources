@@ -1,0 +1,37 @@
+{
+ "name": "RFS",
+ "identifier": "dev.perapp.it-rortos-realflightsimulator",
+ "subtitle": "RFS",
+ "description": "Single-app source for RFS (it.rortos.realflightsimulator). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/9e/d8/209ed801-2397-cd49-784d-4ca5659308d1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "it.rortos.realflightsimulator",
+   "name": "RFS",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nRFS v2.6.4  \n\n🇷🇺 Реалистичный авиасимулятор с детализированными моделями самолетов и возможностью управлять полетами в реальном времени.  \n— Платное приложение из AppStore  \n© Создано: GLESign\n\n🇺🇸 A realistic flight simulator featuring detailed aircraft models and real-time flight operations.  \n— Paid app from AppStore  \n© Created: GLESign",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/9e/d8/209ed801-2397-cd49-784d-4ca5659308d1/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.7",
+     "date": "2025-10-30T00:00:00Z",
+     "localizedDescription": "Experience the World of Aviation on Your Mobile Device!\r\nImmerse yourself in the captivating world of aviation where cutting edge technology allows you to experience the thrill and challenges of piloting an aircraft from the comfort of your mobile device.\r\n\r\nFly Now, Anywhere in the World!\r\nLearn to take off, land, and complete full flights. Explore iconic aircraft with 3D live cockpits, visit 30 HD airports, and take off and land from 500 SD airports. Personalize instruments, use automatic flight plans, and experience the finest detail worldwide. Try our tutorials to master your skills! \r\n\r\nManual/Tutorial: wiki.realflightsimulator.org/wiki\r\n\r\nDo you want to unlock all Real Flight Simulator features? Choose the subscription that fits your needs",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1912",
+     "size": 503021922
+    },
+    {
+     "version": "2.6.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nRFS v2.6.4  \n\n🇷🇺 Реалистичный авиасимулятор с детализированными моделями самолетов и возможностью управлять полетами в реальном времени.  \n— Платное приложение из AppStore  \n© Создано: GLESign\n\n🇺🇸 A realistic flight simulator featuring detailed aircraft models and real-time flight operations.  \n— Paid app from AppStore  \n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/37726b2c-bf2b-4b00-b1b3-e4beeecdd34b/RFS_v2.6.4_tg_glesign_.ipa",
+     "size": 511120676
+    }
+   ]
+  }
+ ]
+}

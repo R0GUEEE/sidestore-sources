@@ -1,0 +1,30 @@
+{
+ "name": "Strides (Hacked)",
+ "identifier": "dev.perapp.com-puresignal-strides",
+ "subtitle": "Strides (Hacked) by sidelix",
+ "description": "Single-app source for Strides (Hacked) (com.puresignal.strides). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a677f06dfe86.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.puresignal.strides",
+   "name": "Strides (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Plus Unlocked",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a677f06dfe86.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "19.12",
+     "date": "2026-07-27T00:00:00Z",
+     "localizedDescription": "Plus Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2299",
+     "size": 122934404
+    }
+   ]
+  }
+ ]
+}

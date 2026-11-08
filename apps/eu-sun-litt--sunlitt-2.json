@@ -1,0 +1,44 @@
+{
+ "name": "Sunlitt",
+ "identifier": "dev.perapp.eu-sun-litt",
+ "subtitle": "Sunlitt",
+ "description": "Single-app source for Sunlitt (eu.sun.litt). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png",
+ "apps": [
+  {
+   "bundleIdentifier": "eu.sun.litt",
+   "name": "Sunlitt",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.10.6",
+     "date": "2026-08-01T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1425",
+     "size": 126961546
+    },
+    {
+     "version": "4.9.8",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Sunlitt_4.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 115271085
+    },
+    {
+     "version": "4.9",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Sun Position and Path - Sunlitt\n\nTweak: Premium Unlocked\n\nVersion: 4.9\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/ee61a48d-e38b-4eee-8678-a2a7e891e791/Sun_Position_and_Path_Sunlitt-v4.9-riftysipas.ipa",
+     "size": 89881356
+    }
+   ]
+  }
+ ]
+}

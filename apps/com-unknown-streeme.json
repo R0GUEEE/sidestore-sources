@@ -1,0 +1,30 @@
+{
+ "name": "Streeme",
+ "identifier": "dev.perapp.com-unknown-streeme",
+ "subtitle": "بەرنامەیەک بۆ بەڕێوەبردنی بەشداریکردنی iPTV",
+ "description": "Single-app source for Streeme (com.unknown.streeme). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Streeme.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.streeme",
+   "name": "Streeme",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک بۆ بەڕێوەبردنی بەشداریکردنی iPTV",
+   "localizedDescription": "بەرنامەیەک بۆ بەڕێوەبردنی بەشداریکردنی iPTV",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Streeme.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.10",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ بەڕێوەبردنی بەشداریکردنی iPTV",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/Streeme_2.0.10_3BodSy.ipa",
+     "size": 20520000
+    }
+   ]
+  }
+ ]
+}

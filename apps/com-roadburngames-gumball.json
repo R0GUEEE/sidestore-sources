@@ -1,0 +1,30 @@
+{
+ "name": "Gumball",
+ "identifier": "dev.perapp.com-roadburngames-gumball",
+ "subtitle": "ipaomtk.com | Gumball 3000 World Tour IPA for iOS is an exciting⁢ mobile racing game inspired by the famous Gumball 3000",
+ "description": "Single-app source for Gumball (com.RoadburnGames.Gumball). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Gumball-3000-World-Tour-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.RoadburnGames.Gumball",
+   "name": "Gumball",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Gumball 3000 World Tour IPA for iOS is an exciting⁢ mobile racing game inspired by the famous Gumball 3000 rally, a legendary road trip ",
+   "localizedDescription": "ipaomtk.com | Gumball 3000 World Tour IPA for iOS is an exciting⁢ mobile racing game inspired by the famous Gumball 3000 rally, a legendary road trip ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Gumball-3000-World-Tour-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.11.0",
+     "date": "2025-07-09T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Gumball 3000 World Tour IPA for iOS is an exciting⁢ mobile racing game inspired by the famous Gumball 3000 rally, a legendary road trip ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Gumball_3000_World_Tour_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

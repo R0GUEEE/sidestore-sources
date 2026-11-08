@@ -1,0 +1,30 @@
+{
+ "name": "Premiere Rush",
+ "identifier": "dev.perapp.com-adobe-rush",
+ "subtitle": "Premiere Rush",
+ "description": "Single-app source for Premiere Rush (com.adobe.rush). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b1/87/44/b18744a5-b3dd-c21b-ec59-199f18c39125/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.rush",
+   "name": "Premiere Rush",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAdobe Premiere Rush：Edit Video\n\nTap on buy premium then cancel\n\nminimum OS version 14.0\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b1/87/44/b18744a5-b3dd-c21b-ec59-199f18c39125/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.10",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAdobe Premiere Rush：Edit Video\n\nTap on buy premium then cancel\n\nminimum OS version 14.0\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/975044a6-c1ad-4ed7-86f8-d558fa148f55/Adobe_Premiere_Rush_IAP_2.10.ipa",
+     "size": 179018725
+    }
+   ]
+  }
+ ]
+}

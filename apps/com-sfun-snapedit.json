@@ -1,0 +1,30 @@
+{
+ "name": "SnapEdit",
+ "identifier": "dev.perapp.com-sfun-snapedit",
+ "subtitle": "SnapEdit",
+ "description": "Single-app source for SnapEdit (com.sfun.snapedit). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sfun.snapedit",
+   "name": "SnapEdit",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.27.2",
+     "date": "2026-09-16T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/SnapEdit_6.27.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 133506306
+    }
+   ]
+  }
+ ]
+}

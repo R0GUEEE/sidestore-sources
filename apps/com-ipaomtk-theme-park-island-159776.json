@@ -1,0 +1,37 @@
+{
+ "name": "Theme Park Island",
+ "identifier": "dev.perapp.com-ipaomtk-theme-park-island-159776",
+ "subtitle": "ipaomtk.com | What is Theme Park Island IPA? Theme Park Island IPA is the iOS installable version of a simulation and ma",
+ "description": "Single-app source for Theme Park Island (com.ipaomtk.theme.park.island.159776). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Theme-Park-Island-IPA-v1.2.5-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.theme.park.island.159776",
+   "name": "Theme Park Island",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Theme Park Island IPA? Theme Park Island IPA is the iOS installable version of a simulation and management game focused on build",
+   "localizedDescription": "ipaomtk.com | What is Theme Park Island IPA? Theme Park Island IPA is the iOS installable version of a simulation and management game focused on build",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Theme-Park-Island-IPA-v1.2.5-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Theme Park Island IPA? Theme Park Island IPA is the iOS installable version of a simulation and management game focused on build",
+     "downloadURL": "https://file.ipaomtk.com/theme-park-island/Theme-Park-Island-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.2.5",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Theme Park Island IPA? Theme Park Island IPA is the iOS installable version of a simulation and management game focused on build",
+     "downloadURL": "https://file.ipaomtk.com/theme-park-island/Theme-Park-Island-IPAOMTK.COM.ipa",
+     "size": 75132970
+    }
+   ]
+  }
+ ]
+}

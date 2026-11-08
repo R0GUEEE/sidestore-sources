@@ -1,0 +1,30 @@
+{
+ "name": "Azula",
+ "identifier": "dev.perapp.lilliana-azulaapp",
+ "subtitle": "Injecting dylibs into IPA.",
+ "description": "Single-app source for Azula (Lilliana.AzulaApp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "0aa6c9",
+ "iconURL": "https://cdn.omnidev.org/Azula-BF.png",
+ "apps": [
+  {
+   "bundleIdentifier": "Lilliana.AzulaApp",
+   "name": "Azula",
+   "developerName": "Paisseon",
+   "subtitle": "Injecting dylibs into IPA.",
+   "localizedDescription": "App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)\nStatus: ❔",
+   "iconURL": "https://cdn.omnidev.org/Azula-BF.png",
+   "tintColor": "0aa6c9",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2024-10-18T00:00:00Z",
+     "localizedDescription": "App for injecting dylibs into IPA (iOS 14-16, macOS 11-13)\nStatus: ❔",
+     "downloadURL": "https://cdn.omnidev.org/Azula-bW.ipa",
+     "size": 1536000
+    }
+   ]
+  }
+ ]
+}

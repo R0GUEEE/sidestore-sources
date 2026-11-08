@@ -1,0 +1,30 @@
+{
+ "name": "GTA III - Definitive VH",
+ "identifier": "dev.perapp.com-rockstargames-gta3-de",
+ "subtitle": "Việt Hóa. Đã mở khoá không cần tài khoản",
+ "description": "Single-app source for GTA III - Definitive VH (com.rockstargames.gta3.de). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/GTA3DE.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.gta3.de",
+   "name": "GTA III - Definitive VH",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Việt Hóa. Đã mở khoá không cần tài khoản",
+   "localizedDescription": "Chức năng đã thêm: Việt Hóa. Đã mở khoá không cần tài khoản - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/GTA3DE.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.72.42919648",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Việt Hóa. Đã mở khoá không cần tài khoản - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://archive.org/download/gta-vh-ttjb/GTA%20III_1.72.42919648_VH_TTJB.ipa",
+     "size": 1513175995
+    }
+   ]
+  }
+ ]
+}

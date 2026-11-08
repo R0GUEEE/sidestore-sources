@@ -1,0 +1,30 @@
+{
+ "name": "AdLock",
+ "identifier": "dev.perapp.com-hankuper-adlock-ios",
+ "subtitle": "ipaomtk.com | AdLock Ads Blocker & Privacy IPA, Are you tired of being bombarded by intrusive ads while browsing the web",
+ "description": "Single-app source for AdLock (com.hankuper.adlock-ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/AdLock-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hankuper.adlock-ios",
+   "name": "AdLock",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | AdLock Ads Blocker & Privacy IPA, Are you tired of being bombarded by intrusive ads while browsing the web or using your favorite apps o",
+   "localizedDescription": "ipaomtk.com | AdLock Ads Blocker & Privacy IPA, Are you tired of being bombarded by intrusive ads while browsing the web or using your favorite apps o",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/AdLock-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.23",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AdLock Ads Blocker & Privacy IPA, Are you tired of being bombarded by intrusive ads while browsing the web or using your favorite apps o",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AdLock_IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

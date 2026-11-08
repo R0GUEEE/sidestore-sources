@@ -1,0 +1,37 @@
+{
+ "name": "ZG Survival",
+ "identifier": "dev.perapp.com-flaregames-zombiegunship",
+ "subtitle": "ipaomtk.com | Zombie Gunship Survival IPA is an immersive online game set in a post-apocalyptic world. The game allows t",
+ "description": "Single-app source for ZG Survival (com.flaregames.zombiegunship). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/ZG-Survival-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.flaregames.zombiegunship",
+   "name": "ZG Survival",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Zombie Gunship Survival IPA is an immersive online game set in a post-apocalyptic world. The game allows the player to take on Zombie Gu",
+   "localizedDescription": "ipaomtk.com | Zombie Gunship Survival IPA is an immersive online game set in a post-apocalyptic world. The game allows the player to take on Zombie Gu",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/ZG-Survival-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.42",
+     "date": "2023-04-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Zombie Gunship Survival IPA is an immersive online game set in a post-apocalyptic world. The game allows the player to take on Zombie Gu",
+     "downloadURL": "https://file.ipaomtk.com/zombie-gunship-survival/Zombie-Gunship-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.7.55",
+     "date": "2023-04-04T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Zombie Gunship Survival IPA is an immersive online game set in a post-apocalyptic world. The game allows the player to take on Zombie Gu",
+     "downloadURL": "https://file.ipaomtk.com/zombie-gunship-survival/Zombie-Gunship-IPAOMTK.COM.ipa",
+     "size": 1258665884
+    }
+   ]
+  }
+ ]
+}

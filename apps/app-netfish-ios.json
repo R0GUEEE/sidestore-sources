@@ -1,0 +1,40 @@
+{
+ "name": "Netfish",
+ "identifier": "dev.perapp.app-netfish-ios",
+ "subtitle": "A Netflix-style front door for a home media server",
+ "description": "Single-app source for Netfish (app.netfish.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#337b7b",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.netfish.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.netfish.ios",
+   "name": "Netfish",
+   "developerName": "ravifrancesco",
+   "subtitle": "A Netflix-style front door for a home media server",
+   "localizedDescription": "Netfish:\n\nA Netflix-style front door for a home media server. One app to browse, discover, request, download and watch, on top of the stack you already run (Jellyfin, Seerr, Radarr, Sonarr, Prowlarr, Bazarr and qBittorrent), without changing any of it.\n\nWatching:\n\n• Home like a streaming service: Continue Watching, Ready to watch, Top picks for you, Because you watched…, new arrivals, trending and coming soon.\n• Discover tab (optional): an admin can split Home in two. Home then shows only what's in the library, ready to play, and a Discover tab after it has everything to request: trending, picks, coming soon and your requests.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.netfish.ios.png",
+   "tintColor": "#337b7b",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/ravifrancesco/netfish@main/docs/screenshots/remote.jpg",
+    "https://cdn.jsdelivr.net/gh/ravifrancesco/netfish@main/docs/screenshots/phone.jpg",
+    "https://cdn.jsdelivr.net/gh/ravifrancesco/netfish@main/docs/screenshots/phone-it.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.8.1",
+     "date": "2026-10-31T17:34:28Z",
+     "localizedDescription": "Fixed:\n\n• Go on the on-screen keyboard puts it away when you search, and you stay on the results (they come as you type). Phone keyboards show a search key there now.\n• Android: Back closes the keyboard and stays on the page. On Android 16 (some TV boxes) the Back that closed the keyboard also went back a page, so searching on a TV left the search.\n\nUpdate:\n\n• Server, for the keyboard's Go.\n• Android app (phones, tablets, Fire TV, Android TV), for Back.\n\nEvery version: CHANGELOG.md.\n\nThe apps aren't signed by Apple or Microsoft yet: on a Mac, right-click → Open the first time; on Windows, More info → Run anyway.",
+     "downloadURL": "https://github.com/ravifrancesco/netfish/releases/download/v0.8.1/Netfish-ios.ipa",
+     "size": 928793
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Netfish connects to your Netfish server on your home network."
+    }
+   }
+  }
+ ]
+}

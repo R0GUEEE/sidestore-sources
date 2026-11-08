@@ -1,0 +1,30 @@
+{
+ "name": "Design2Code",
+ "identifier": "dev.perapp.com-toolbox-uecreator",
+ "subtitle": "ipaomtk.com | Design2Code IPA is a revolutionary tool that bridges the gap between design and development, making the pr",
+ "description": "Single-app source for Design2Code (com.toolbox.uecreator). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/Design2Code-LOGO-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.toolbox.uecreator",
+   "name": "Design2Code",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Design2Code IPA is a revolutionary tool that bridges the gap between design and development, making the process of converting design fil",
+   "localizedDescription": "ipaomtk.com | Design2Code IPA is a revolutionary tool that bridges the gap between design and development, making the process of converting design fil",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/Design2Code-LOGO-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.1",
+     "date": "2023-05-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Design2Code IPA is a revolutionary tool that bridges the gap between design and development, making the process of converting design fil",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Design2Code.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

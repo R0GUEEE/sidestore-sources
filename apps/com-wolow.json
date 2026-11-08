@@ -1,0 +1,30 @@
+{
+ "name": "Wolow",
+ "identifier": "dev.perapp.com-wolow",
+ "subtitle": "Wolow",
+ "description": "Single-app source for Wolow (com.wolow). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/53/1a/9f531ab2-ca3d-fea8-22a8-58e5d7d4c45f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wolow",
+   "name": "Wolow",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nWolow - Wake on LAN 2.13.3\n- App to remotely start up a computer by sending a request\n- Satella added to buy premium\n- By @melonn01 (https://t.me/melonsipas)\n\nhttps://apps.apple.com/id/app/wolow-wake-on-lan/id1500970060",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9f/53/1a/9f531ab2-ca3d-fea8-22a8-58e5d7d4c45f/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.13.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nWolow - Wake on LAN 2.13.3\n- App to remotely start up a computer by sending a request\n- Satella added to buy premium\n- By @melonn01 (https://t.me/melonsipas)\n\nhttps://apps.apple.com/id/app/wolow-wake-on-lan/id1500970060",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/0f898de0-8905-4176-844e-5b599c34b90a/Wolow_Satella_Melon.ipa",
+     "size": 15580196
+    }
+   ]
+  }
+ ]
+}

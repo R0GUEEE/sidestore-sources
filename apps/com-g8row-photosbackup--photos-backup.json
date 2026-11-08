@@ -1,0 +1,44 @@
+{
+ "name": "Photos Backup",
+ "identifier": "dev.perapp.com-g8row-photosbackup",
+ "subtitle": "@glesign | PhotosBackup v0.2.0  🇷🇺 Экспериментальное приложение для резервного копирования выбранных фотографий, видео и",
+ "description": "Single-app source for Photos Backup (com.g8row.photosbackup). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/glesign/1928.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.g8row.photosbackup",
+   "name": "Photos Backup",
+   "developerName": "@glesign",
+   "subtitle": "@glesign | PhotosBackup v0.2.0  🇷🇺 Экспериментальное приложение для резервного копирования выбранных фотографий, видео и альбомов в Google Photos. — И",
+   "localizedDescription": "@glesign | PhotosBackup v0.2.0  🇷🇺 Экспериментальное приложение для резервного копирования выбранных фотографий, видео и альбомов в Google Photos. — И\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/glesign/1928.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.7",
+     "date": "2026-10-02T00:00:00Z",
+     "localizedDescription": "No tweak information supplied by the source.",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/697-PhotosBackup.ipa",
+     "size": 2716224
+    },
+    {
+     "version": "0.3.6",
+     "date": "2026-09-16T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 GooglePhotoBackup - github  🇷🇺 Приложение для резервного копирования выбранных фотографий, видео и альбомов в Google Photos.  ℹ️ Особенн",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1721-GooglePhotoBackup%20%5Bv0.3.6%5D%28tg@ipa_dark%29.ipa",
+     "size": 2929666
+    },
+    {
+     "version": "0.2.0",
+     "date": "2026-09-09T00:00:00Z",
+     "localizedDescription": "@glesign | PhotosBackup v0.2.0  🇷🇺 Экспериментальное приложение для резервного копирования выбранных фотографий, видео и альбомов в Google Photos. — И",
+     "downloadURL": "https://fastsign.dev/tg-ipa/glesign/1928-PhotosBackup%20v0.2.0%5Btg@glesign%5D.ipa",
+     "size": 2250767
+    }
+   ]
+  }
+ ]
+}

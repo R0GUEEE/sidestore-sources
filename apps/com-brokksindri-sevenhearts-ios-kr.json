@@ -1,0 +1,30 @@
+{
+ "name": "Seven Hearts",
+ "identifier": "dev.perapp.com-brokksindri-sevenhearts-ios-kr",
+ "subtitle": "ipaomtk.com | Seven Hearts on iOS is a fantasy-themed action role-playing game designed to deliver fast combat and hero ",
+ "description": "Single-app source for Seven Hearts (com.brokksindri.sevenhearts.ios.kr). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Seven-Hearts-IPA-v1.3.43-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.brokksindri.sevenhearts.ios.kr",
+   "name": "Seven Hearts",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Seven Hearts on iOS is a fantasy-themed action role-playing game designed to deliver fast combat and hero progression directly on iPhone",
+   "localizedDescription": "ipaomtk.com | Seven Hearts on iOS is a fantasy-themed action role-playing game designed to deliver fast combat and hero progression directly on iPhone",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Seven-Hearts-IPA-v1.3.43-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.421",
+     "date": "2026-03-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Seven Hearts on iOS is a fantasy-themed action role-playing game designed to deliver fast combat and hero progression directly on iPhone",
+     "downloadURL": "https://file.ipaomtk.com/Seven-Hearts/Seven-Hearts-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

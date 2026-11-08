@@ -1,0 +1,30 @@
+{
+ "name": "HeliosPro",
+ "identifier": "dev.perapp.com-chemicalwedding-heliospro",
+ "subtitle": "ipaomtk.com | Helios Pro IPA v3.7 is an advanced solar tracking application designed for astronomy enthusiasts and photo",
+ "description": "Single-app source for HeliosPro (com.chemicalwedding.HeliosPro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Helios-Pro-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chemicalwedding.HeliosPro",
+   "name": "HeliosPro",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Helios Pro IPA v3.7 is an advanced solar tracking application designed for astronomy enthusiasts and photographers. This powerful app pr",
+   "localizedDescription": "ipaomtk.com | Helios Pro IPA v3.7 is an advanced solar tracking application designed for astronomy enthusiasts and photographers. This powerful app pr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Helios-Pro-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7",
+     "date": "2024-11-11T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Helios Pro IPA v3.7 is an advanced solar tracking application designed for astronomy enthusiasts and photographers. This powerful app pr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Helios_Pro-v3.6-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

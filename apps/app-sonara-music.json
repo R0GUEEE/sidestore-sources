@@ -1,0 +1,39 @@
+{
+ "name": "Sonara",
+ "identifier": "dev.perapp.app-sonara-music",
+ "subtitle": "SoundCloud and YouTube in one music app — with an endless Wave that learns your taste, synced lyrics, comments inside tr",
+ "description": "Single-app source for Sonara (app.sonara.music). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#44b2ff",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.sonara.music.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.sonara.music",
+   "name": "Sonara",
+   "developerName": "Artyom151",
+   "subtitle": "SoundCloud and YouTube in one music app — with an endless Wave that learns your taste, synced lyrics, comments inside tracks and an iOS 26 Liquid Glass interface",
+   "localizedDescription": "Sonara:\n\nSoundCloud and YouTube in one music app — with an endless Wave that learns your taste, synced lyrics, comments inside tracks and an iOS 26 Liquid Glass interface.\n\nAndroid · iOS · Windows · macOS · Linux (glibc & musl).\n\nWave — an endless live playlist:\n\nType an artist, a track, a genre or a mood — Sonara builds a stream of tracks that match its style (genres, tags, related-track graphs, artists, tempo of your listening) and keeps it going forever. Skips, likes and full listens reshape the Wave in real time. Every pick shows why it was chosen.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.sonara.music.png",
+   "tintColor": "#44b2ff",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Artyom151/sonara@main/docs/screenshots/mobile-home-mini.png",
+    "https://cdn.jsdelivr.net/gh/Artyom151/sonara@main/docs/screenshots/mobile-player.png",
+    "https://cdn.jsdelivr.net/gh/Artyom151/sonara@main/docs/screenshots/mobile-search.png",
+    "https://cdn.jsdelivr.net/gh/Artyom151/sonara@main/docs/screenshots/mobile-profile.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0.0",
+     "date": "2026-10-22T16:01:16Z",
+     "localizedDescription": "Fixed:\n\n• The Android widgets' play/pause button (and the shape picker's accents) follow the Material You wallpaper palette instead of a static violet; the built-in violet stays as the fallback below Android 12.\n• The daylist history no longer evicts the tail of a freshly recorded batch when the 800-key cap trims it.\n• Desktop and mobile navigation lenses now snap to measured slots and support pointer dragging.\n\nChanged:\n\n• test:unit now runs the whole offline suite (126 tests): navigation, library, settings, look, sleep timer, island notices, LRU, i18n parity, the extended player queue, EQ curves and the widget colour wiring.\n\nPre-release. The new interface and the features below are not yet tested on every device.\n\nAdded:\n\n• Redesigned interface for phones and desktop: light and dark themes, neutral surfaces with the accent taken from the cover, Material You, a preset or a custom colour. The desktop sidebar can sit on the left or the right.\n• Full-screen player after the desktop reference: a cover card with Up next, About and Lyrics panels, the speed control over the cover, a vertical volume control on phones, swipe down to close.\n• Android home screen widgets in three sizes (4×1 bar, 2×2 cover, 4×2 large) with a cover shape per widget, chosen from the Material 3 shapes.\n• Listen together: create a room and share its code; guests follow the host's track, position and pause.\n• Current lyric line in the Android media notification and the 4×1 and 4×2 widgets.\n• Profile appearance: a banner (gradient or your photo), a page background (gradient or the cover of the last played track) and an avatar frame.\n• Statistics on their own screen, opened from the profile.\n• Daylist that remembers what it offered for ten days and brings new tracks.\n• Scrubbing shows the time under the finger.\n\nChanged:\n\n• Likes tab: the liked songs card with Play and Shuffle, a grid of playlists.\n• Home: greeting, a carousel of Wave, the daylist and mixes, recently played tiles.\n• Settings: theme and sidebar side; the Copy logs button is gone from About.\n• The 2.0 interface is neutral by default; the earlier tinted look can be turned back on in Settings.\n\nFixed:\n\n• The equalizer reaches the sound: the audio element is shared correctly with the audio graph, and the saved curve is applied when the graph is built.\n• The Android app no longer crashes when lyric updates arrive while the service starts.\n• Dev server: tauri dev and pnpm dev reuse a running Vite instead of failing with \"port 5173 is already in use\".\n\n• test(sources): ignore background SoundCloud warmup (4339c75).\n• test: expand offline unit test suite (ed3f7d5).\n• feat(ui): add draggable liquid lens navigation (0632b23).\n• test(i18n): verify English and Russian dictionary parity (ae4b7f7).\n• test(settings): make defaults load outside Vite (944307b).\n• fix(android): use Material You accent in widgets (ada2316).\n• fix(daylist): preserve newest batch in history cap (d034bc1).\n• fix(lyrics): the desktop full-cover lyrics scroll to the current line (1e61d69).\n• style(island,comments): open island card takes the cover as a backdrop, sign-in row is neutral (2bc5cbc).\n• fix(search): the header stays in place, only the results scroll (c3aa54c).\n• style(support): copy button matches the card's radius and height (8ad6832).\n• style(buttons): accent buttons without the coloured glow (cdfca35).\n• fix(playlist): play and shuffle share a row on phones (fa1533d).\n• style(artist): photo backdrop header with the name over it, cover albums, round similar artists (0250698).\n• fix(wave): the subtitle wraps instead of being cut (5630efc).\n• fix(wave): tuning layer shows moods and genres right under the search (c4f8c78).\n• fix(profile,search): profile scrolls again, solid search header; wave simplified (05cac48).\n• style(comments): flat composer and hidden scrollbar over the cover on desktop (f39c566).\n• feat(wave): mood sliders in one card with equal columns, toggle for discovery, larger orb on phones (b9f9acf).\n• feat(se",
+     "downloadURL": "https://github.com/Artyom151/sonara/releases/download/v2.0.0/Sonara-2.0.0-ios-unsigned.ipa",
+     "size": 1644934
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

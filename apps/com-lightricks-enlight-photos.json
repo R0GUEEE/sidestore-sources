@@ -1,0 +1,44 @@
+{
+ "name": "Lightleap",
+ "identifier": "dev.perapp.com-lightricks-enlight-photos",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Lightleap (com.lightricks.Enlight-Photos). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Photos.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lightricks.Enlight-Photos",
+   "name": "Lightleap",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Photos.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.22.0",
+     "date": "2026-08-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2026/Lightleap_1.22.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 241860108
+    },
+    {
+     "version": "1.19.25",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-01-2026/Lightleap_1.19.25_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 243891371
+    },
+    {
+     "version": "1.19.24",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-01-2026/Lightleap_1.19.24_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 243881075
+    }
+   ]
+  }
+ ]
+}

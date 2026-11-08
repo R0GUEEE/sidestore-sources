@@ -1,0 +1,30 @@
+{
+ "name": "Autocad",
+ "identifier": "dev.perapp.com-autodesk-autocadws",
+ "subtitle": "Autocad",
+ "description": "Single-app source for Autocad (com.autodesk.autocadws). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.autodesk.autocadws.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.autodesk.autocadws",
+   "name": "Autocad",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.autodesk.autocadws.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.16.0",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Autocad_6.16.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 199861356
+    }
+   ]
+  }
+ ]
+}

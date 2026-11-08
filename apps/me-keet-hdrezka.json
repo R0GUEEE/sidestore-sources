@@ -1,0 +1,30 @@
+{
+ "name": "HDrezka",
+ "identifier": "dev.perapp.me-keet-hdrezka",
+ "subtitle": "HDrezka",
+ "description": "Single-app source for HDrezka (me.keet.HDRezka). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "me.keet.HDRezka",
+   "name": "HDrezka",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nHDRezka v1.5.3\n\n🇷🇺 Неофициальное приложение для просмотра контента с сайта rezka.ag\n— требуется iOS 16.0\n© Создано: HDrezka iOS\n\n🇺🇸 An unofficial application for viewing content from a website rezka.ag\n— Requires iOS 16.0\n© Created by: HDrezka iOS",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nHDRezka v1.5.3\n\n🇷🇺 Неофициальное приложение для просмотра контента с сайта rezka.ag\n— требуется iOS 16.0\n© Создано: HDrezka iOS\n\n🇺🇸 An unofficial application for viewing content from a website rezka.ag\n— Requires iOS 16.0\n© Created by: HDrezka iOS",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/59e2b50a-642b-4e0c-9607-a8ffa2add69d/HDRezka_v1.5.3_tg_glesign_.ipa",
+     "size": 4550713
+    }
+   ]
+  }
+ ]
+}

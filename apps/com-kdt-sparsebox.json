@@ -1,0 +1,30 @@
+{
+ "name": "Sparsebox",
+ "identifier": "dev.perapp.com-kdt-sparsebox",
+ "subtitle": "Sparsebox - Backup's without a computer",
+ "description": "Single-app source for Sparsebox (com.kdt.sparsebox). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.omnidev.org/noicon-y4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kdt.sparsebox",
+   "name": "Sparsebox",
+   "developerName": "khanhduytran0",
+   "subtitle": "Sparsebox - Backup's without a computer",
+   "localizedDescription": "On-device backup restoration?\nSideStore is recommended as you will also be getting the pairing file and setting up VPN.\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/noicon-y4.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Unknown",
+     "date": "2024-10-29T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/com_kdt_sparsebox_0_0_1-Ei.ipa",
+     "size": 7237632
+    }
+   ]
+  }
+ ]
+}

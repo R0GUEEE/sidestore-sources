@@ -1,0 +1,30 @@
+{
+ "name": "Neptune",
+ "identifier": "dev.perapp.de-neptune",
+ "subtitle": "ipaomtk.com | Neptune IPA v6.2.2 is a versatile mobile application designed to enhance water utility management and cons",
+ "description": "Single-app source for Neptune (de.neptune). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Neptune-8211-Mobile-Security.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "de.neptune",
+   "name": "Neptune",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Neptune IPA v6.2.2 is a versatile mobile application designed to enhance water utility management and consumer engagement. This user-fri",
+   "localizedDescription": "ipaomtk.com | Neptune IPA v6.2.2 is a versatile mobile application designed to enhance water utility management and consumer engagement. This user-fri",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Neptune-8211-Mobile-Security.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Neptune IPA v6.2.2 is a versatile mobile application designed to enhance water utility management and consumer engagement. This user-fri",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Neptune_-_Mobile_Security-v6.2.2-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

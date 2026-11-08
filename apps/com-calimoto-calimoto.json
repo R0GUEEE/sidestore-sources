@@ -1,0 +1,30 @@
+{
+ "name": "calimoto",
+ "identifier": "dev.perapp.com-calimoto-calimoto",
+ "subtitle": "calimoto",
+ "description": "Single-app source for calimoto (com.calimoto.calimoto). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calimoto.calimoto.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.calimoto.calimoto",
+   "name": "calimoto",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calimoto.calimoto.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.20.0",
+     "date": "2026-05-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-05-2026/calimoto_7.20.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 101202709
+    }
+   ]
+  }
+ ]
+}

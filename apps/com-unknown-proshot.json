@@ -1,0 +1,30 @@
+{
+ "name": "ProShot",
+ "identifier": "dev.perapp.com-unknown-proshot",
+ "subtitle": "لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دای بەزێنە",
+ "description": "Single-app source for ProShot (com.unknown.proshot). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ProShot.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.proshot",
+   "name": "ProShot",
+   "developerName": "Karbin-Store",
+   "subtitle": "لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دای بەزێنە",
+   "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دای بەزێنە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ProShot.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.4.3",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بە خۆڕایی دای بەزێنە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/ProShot_9.4.3_DEV.ipa",
+     "size": 14010000
+    }
+   ]
+  }
+ ]
+}

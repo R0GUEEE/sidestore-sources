@@ -1,0 +1,44 @@
+{
+ "name": "BHX",
+ "identifier": "dev.perapp.com-atebits-tweetie2",
+ "subtitle": "BHX by BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore",
+ "description": "Single-app source for BHX (com.atebits.Tweetie2). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.atebits.Tweetie2",
+   "name": "BHX",
+   "developerName": "BandarHL / AppDB / Manpreet Singh @thisismanpreeets / DPixel / CydiaAbdullah / zxcvbn's tweaked IPAs / TrollStore AppsUp",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.48.1-4.3",
+     "date": "2024-10-10T00:00:00Z",
+     "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 08-16-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHX/BHX-10.48.1-4.3.ipa",
+     "size": 124630986
+    },
+    {
+     "version": "10.50-4.3",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 08-16-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHX/BHX-10.50-4.3.ipa",
+     "size": 128743285
+    },
+    {
+     "version": "10.51-4.3",
+     "date": "2024-10-09T00:00:00Z",
+     "localizedDescription": "Twitter, with added features such as custom fonts, video saving, no ads, tabs customization, and more!\nLast updated: 08-16-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BHX/BHX-10.51-4.3.ipa",
+     "size": 115998914
+    }
+   ]
+  }
+ ]
+}

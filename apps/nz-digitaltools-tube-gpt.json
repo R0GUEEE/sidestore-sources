@@ -1,0 +1,30 @@
+{
+ "name": "Summarify",
+ "identifier": "dev.perapp.nz-digitaltools-tube-gpt",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for Summarify (nz.digitaltools.Tube-GPT). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nz.digitaltools.Tube-GPT",
+   "name": "Summarify",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nz.digitaltools.Tube-GPT.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.9.0",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2025/Summarify_3.9.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 25828144
+    }
+   ]
+  }
+ ]
+}

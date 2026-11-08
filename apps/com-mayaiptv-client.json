@@ -1,0 +1,43 @@
+{
+ "name": "MayaIPTV",
+ "identifier": "dev.perapp.com-mayaiptv-client",
+ "subtitle": "A modern, fast and free IPTV player for Android, Android TV / Fire TV, Windows and iOS",
+ "description": "Single-app source for MayaIPTV (com.mayaiptv.client). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3870cc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mayaiptv.client.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mayaiptv.client",
+   "name": "MayaIPTV",
+   "developerName": "yannsar",
+   "subtitle": "A modern, fast and free IPTV player for Android, Android TV / Fire TV, Windows and iOS",
+   "localizedDescription": "Maya IPTV:\n\nA modern, fast and free IPTV player for Android, Android TV / Fire TV, Windows and iOS.\n\nMaya IPTV is a media player. It does not provide, host or sell any channels, movies or subscriptions. You sign in with your own subscription (Xtream Codes or Stalker Portal) provided by your operator. You are responsible for the legality of the streams you play.\n\nFeatures:\n\n• Live TV with program guide (EPG) and fast zapping.\n• Movies & series (VOD) — rich detail pages, resume playback, seasons and episodes.\n• Full TV interface designed for the remote (D-pad) on Android TV and Fire TV.\n\n• Chromecast support.\n• Favorites, Continue Watching, smart search.\n• Built-in live football scores.\n• Subtitles, multiple audio tracks, advanced player settings.\n• Multi-connection: manage several subscriptions.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mayaiptv.client.png",
+   "tintColor": "#3870cc",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/yannsar/mayaiptv-downloads@main/assets/screenshot-1.png",
+    "https://cdn.jsdelivr.net/gh/yannsar/mayaiptv-downloads@main/assets/screenshot-2.png",
+    "https://cdn.jsdelivr.net/gh/yannsar/mayaiptv-downloads@main/assets/screenshot-3.png"
+   ],
+   "versions": [
+    {
+     "version": "1.65.5",
+     "date": "2026-11-04T14:47:48Z",
+     "localizedDescription": "Maya IPTV 1.65.5.\n\nRecherche.\n\n• Les films, séries et chaînes adultes n'apparaissent plus dans les résultats de recherche, classique comme intelligente, même lorsqu'un code parental est renseigné: ils restent accessibles depuis leur catégorie dans les onglets.\n• Les éléments d'une catégorie masquée dans « Catégories visibles » ne ressortent plus dans la recherche.\n\nContrôle parental.\n\n• Stalker: un code parental différent de celui du portail ne vide plus les catégories de chaînes; seules les chaînes censurées restent retenues.\n• Mode Direct (Xtream): la liste « Tous » et la recherche ne laissent plus passer de film adulte quand le panel ne le signale pas lui-même.\n\n🐛 Corrections:\n\n• stalker — un code parental inconnu du portail ne vide plus toutes les catégories du direct.\n• backend — marquer les éléments adultes par leur catégorie, avec ou sans code parental.\n• search — la recherche n'affiche plus le contenu adulte ni les catégories masquées, sur tous les chemins [apk].",
+     "downloadURL": "https://github.com/yannsar/mayaiptv-downloads/releases/download/v1.65.5/MayaIPTV-iOS.ipa",
+     "size": 30533403
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "MayaIPTV recherche les appareils Chromecast sur votre réseau local pour diffuser vos contenus.",
+     "NSMicrophoneUsageDescription": "Le micro permet la recherche vocale de films et séries.",
+     "NSPhotoLibraryUsageDescription": "L'accès à vos photos n'est demandé que si vous choisissez un fichier depuis votre photothèque.",
+     "NSSpeechRecognitionUsageDescription": "La reconnaissance vocale convertit votre voix en texte de recherche."
+    }
+   }
+  }
+ ]
+}

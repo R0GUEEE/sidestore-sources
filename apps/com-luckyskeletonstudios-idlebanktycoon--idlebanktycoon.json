@@ -1,0 +1,30 @@
+{
+ "name": "IdleBankTycoon",
+ "identifier": "dev.perapp.com-luckyskeletonstudios-idlebanktycoon",
+ "subtitle": "IdleBankTycoon",
+ "description": "Single-app source for IdleBankTycoon (com.luckyskeletonstudios.idlebanktycoon). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luckyskeletonstudios.idlebanktycoon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.luckyskeletonstudios.idlebanktycoon",
+   "name": "IdleBankTycoon",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Freeze Currencies",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luckyskeletonstudios.idlebanktycoon.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.46.0",
+     "date": "2024-12-07T00:00:00Z",
+     "localizedDescription": "Injected with Freeze Currencies",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-12-2024/IdleBankTycoon_1.46.0_Freeze_Currencies_%40thisismanpreets_apptesters.org.ipa",
+     "size": 145774588
+    }
+   ]
+  }
+ ]
+}

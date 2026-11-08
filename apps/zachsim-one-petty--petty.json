@@ -1,0 +1,44 @@
+{
+ "name": "Petty",
+ "identifier": "dev.perapp.zachsim-one-petty",
+ "subtitle": "Petty",
+ "description": "Single-app source for Petty (zachsim.one.Petty). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/bdb3bf73-1c92-483f-9376-a93375100169/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "zachsim.one.Petty",
+   "name": "Petty",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Petty: Petrol Prices Australia\n\nTweak: Premium Unlocked\n\nVersion: 7.5.4\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/bdb3bf73-1c92-483f-9376-a93375100169/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.1.8",
+     "date": "2026-09-21T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2125",
+     "size": 25794980
+    },
+    {
+     "version": "8.1.7",
+     "date": "2026-09-16T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2125",
+     "size": 25258692
+    },
+    {
+     "version": "8.1.3",
+     "date": "2026-06-26T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2125",
+     "size": 21911838
+    }
+   ]
+  }
+ ]
+}

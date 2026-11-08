@@ -1,0 +1,30 @@
+{
+ "name": "Bots",
+ "identifier": "dev.perapp.com-talgat-aichat",
+ "subtitle": "Subscription unlocked. Press restore purchase if subscription isn't unlocked",
+ "description": "Single-app source for Bots (com.talgat.AIChat). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8831.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.talgat.AIChat",
+   "name": "Bots",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "Subscription unlocked. Press restore purchase if subscription isn't unlocked",
+   "localizedDescription": "@riftysIPAlibrary | AI Chatbot – AI Chat Assistant\n\nTweak: Subscription Unlocked\n\nVersion: 3.55\n\nNotes: press restore purchase if subscription isn't unlocked\n\nPatched ✓\n\n@riftysIPAlibrary\n\nAdditional Information ℹ️\n\nMin OS Version: 26.0\nBundle ID: com.talgat.AIChat\nDeveloper: Talgat Kussainov\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8831.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.55",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | AI Chatbot – AI Chat Assistant Tweak: Subscription Unlocked Version: 3.55 Notes: press restore purchase if subscription isn't…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8831-AI%20Chatbot%20%E2%80%93%20AI%20Chat%20Assistant-v3.55-riftysipas.ipa",
+     "size": 83785485
+    }
+   ]
+  }
+ ]
+}

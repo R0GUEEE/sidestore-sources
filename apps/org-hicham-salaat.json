@@ -1,0 +1,30 @@
+{
+ "name": "Salaat First",
+ "identifier": "dev.perapp.org-hicham-salaat",
+ "subtitle": "ipaomtk.com | Salaat First IPA, As a practicing Muslim, keeping track of prayer times can be a crucial yet challenging t",
+ "description": "Single-app source for Salaat First (org.hicham.salaat). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Salaat-First-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "org.hicham.salaat",
+   "name": "Salaat First",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Salaat First IPA, As a practicing Muslim, keeping track of prayer times can be a crucial yet challenging task, especially with the ever-",
+   "localizedDescription": "ipaomtk.com | Salaat First IPA, As a practicing Muslim, keeping track of prayer times can be a crucial yet challenging task, especially with the ever-",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/Salaat-First-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.3",
+     "date": "2024-09-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Salaat First IPA, As a practicing Muslim, keeping track of prayer times can be a crucial yet challenging task, especially with the ever-",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Salaat-First-ipaomtk.com_6.0.3.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

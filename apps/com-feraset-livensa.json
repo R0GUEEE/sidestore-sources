@@ -1,0 +1,37 @@
+{
+ "name": "Livensa",
+ "identifier": "dev.perapp.com-feraset-livensa",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Livensa (com.feraset.livensa). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Livensa.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.feraset.livensa",
+   "name": "Livensa",
+   "developerName": "Karbin-Store",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Livensa.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.7.3",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/Livensa-v5.7.3-.ipa",
+     "size": 60120000
+    },
+    {
+     "version": "5.7.1",
+     "date": "2024-07-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Unleash your creative potential with AI Video Art Creator Livensa IPA, the cutting-edge AI-powered video art creator that is revolutioni",
+     "downloadURL": "https://file.ipaomtk.com/ipa/ai-video-art-creator-livensa.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

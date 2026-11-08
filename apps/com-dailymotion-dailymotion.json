@@ -1,0 +1,30 @@
+{
+ "name": "Dailymotion",
+ "identifier": "dev.perapp.com-dailymotion-dailymotion",
+ "subtitle": "ipaomtk.com | Introduction Dailymotion IPA is a popular iOS application that brings endless video content to users’ fing",
+ "description": "Single-app source for Dailymotion (com.dailymotion.dailymotion). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Dailymotion-Social-Videos-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dailymotion.dailymotion",
+   "name": "Dailymotion",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Dailymotion IPA is a popular iOS application that brings endless video content to users’ fingertips on iPhone and iPad. As ",
+   "localizedDescription": "ipaomtk.com | Introduction Dailymotion IPA is a popular iOS application that brings endless video content to users’ fingertips on iPhone and iPad. As ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Dailymotion-Social-Videos-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.10.0",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Dailymotion IPA is a popular iOS application that brings endless video content to users’ fingertips on iPhone and iPad. As ",
+     "downloadURL": "https://file.ipaomtk.com/Dailymotion/Dailymotion_8.10.0-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

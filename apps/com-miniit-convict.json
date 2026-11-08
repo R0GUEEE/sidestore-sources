@@ -1,0 +1,30 @@
+{
+ "name": "Save The Bro",
+ "identifier": "dev.perapp.com-miniit-convict",
+ "subtitle": "ipaomtk.com | If you’re a fan of action-packed games that keep you on the edge of your seat, then Save the Bro is a game",
+ "description": "Single-app source for Save The Bro (com.miniit.convict). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/Save-The-Bro-150x150.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.miniit.convict",
+   "name": "Save The Bro",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | If you’re a fan of action-packed games that keep you on the edge of your seat, then Save the Bro is a game you don’t want to miss. Save ",
+   "localizedDescription": "ipaomtk.com | If you’re a fan of action-packed games that keep you on the edge of your seat, then Save the Bro is a game you don’t want to miss. Save ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/Save-The-Bro-150x150.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.498",
+     "date": "2024-03-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | If you’re a fan of action-packed games that keep you on the edge of your seat, then Save the Bro is a game you don’t want to miss. Save ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Save-the-Bro.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

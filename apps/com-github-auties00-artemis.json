@@ -1,0 +1,30 @@
+{
+ "name": "Artemis",
+ "identifier": "dev.perapp.com-github-auties00-artemis",
+ "subtitle": "Artemis is an alternative and open source streaming client for HIDIVE",
+ "description": "Single-app source for Artemis (com.github.auties00.artemis). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Auties00/Artemis/blob/main/Artemis/Assets.xcassets/AppIcon.appiconset/appstore.png?raw=true",
+ "apps": [
+  {
+   "bundleIdentifier": "com.github.auties00.artemis",
+   "name": "Artemis",
+   "developerName": "Auties00",
+   "subtitle": "Artemis is an alternative and open source streaming client for HIDIVE",
+   "localizedDescription": "Artemis is an alternative and open source streaming client for HIDIVE",
+   "iconURL": "https://github.com/Auties00/Artemis/blob/main/Artemis/Assets.xcassets/AppIcon.appiconset/appstore.png?raw=true",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2024-10-31T00:00:00Z",
+     "localizedDescription": "Artemis is an alternative and open source streaming client for HIDIVE",
+     "downloadURL": "https://github.com/Auties00/Artemis/releases/download/3.0-19/Artemis.ipa",
+     "size": 2839462
+    }
+   ]
+  }
+ ]
+}

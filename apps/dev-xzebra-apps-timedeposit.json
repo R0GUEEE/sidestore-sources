@@ -1,0 +1,30 @@
+{
+ "name": "TimeDeposit",
+ "identifier": "dev.perapp.dev-xzebra-apps-timedeposit",
+ "subtitle": "TimeDeposit",
+ "description": "Single-app source for TimeDeposit (dev.xzebra.apps.TimeDeposit). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5f/4f/045f4fac-7e59-b6fc-ab76-ead6a437e8ce/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.xzebra.apps.TimeDeposit",
+   "name": "TimeDeposit",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Timesheet tasks: Time Deposit\n⁣\nTweak: Subscription Unlocked\n\nVersion: 1.4.3\n\nMade by riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/5f/4f/045f4fac-7e59-b6fc-ab76-ead6a437e8ce/AppIcon-0-1x_U007epad-0-0-0-1-0-85-220-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Timesheet tasks: Time Deposit\n⁣\nTweak: Subscription Unlocked\n\nVersion: 1.4.3\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/07d9bff2-64fc-4924-a835-24a91e85abd7/Timesheet_v1.4.3-riftysipas.ipa",
+     "size": 5601320
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Bully",
+ "identifier": "dev.perapp.com-rockstargames-bully",
+ "subtitle": "لە ئەپستۆر بە پارەیە لێرە بە خؤڕایی دای بەزێنە",
+ "description": "Single-app source for Bully (com.rockstargames.bully). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Bully.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.bully",
+   "name": "Bully",
+   "developerName": "Karbin-Store",
+   "subtitle": "لە ئەپستۆر بە پارەیە لێرە بە خؤڕایی دای بەزێنە",
+   "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بە خؤڕایی دای بەزێنە",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/karbin-image/Bully.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.03.6",
+     "date": "2026-03-14T00:00:00Z",
+     "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بە خؤڕایی دای بەزێنە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Bully-1.03.6.ipa",
+     "size": 1821340000
+    }
+   ]
+  }
+ ]
+}

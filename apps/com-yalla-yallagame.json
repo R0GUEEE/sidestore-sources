@@ -1,0 +1,30 @@
+{
+ "name": "Yalla Ludo",
+ "identifier": "dev.perapp.com-yalla-yallagame",
+ "subtitle": "ipaomtk.com | Yalla Ludo IPA is a captivating mobile game that combines the classic board game of Ludo with the strategi",
+ "description": "Single-app source for Yalla Ludo (com.yalla.yallagame). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Yalla-Ludo-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yalla.yallagame",
+   "name": "Yalla Ludo",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Yalla Ludo IPA is a captivating mobile game that combines the classic board game of Ludo with the strategic elements of Domino. Develope",
+   "localizedDescription": "ipaomtk.com | Yalla Ludo IPA is a captivating mobile game that combines the classic board game of Ludo with the strategic elements of Domino. Develope",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Yalla-Ludo-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7.5",
+     "date": "2024-05-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Yalla Ludo IPA is a captivating mobile game that combines the classic board game of Ludo with the strategic elements of Domino. Develope",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Yalla-Ludo.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

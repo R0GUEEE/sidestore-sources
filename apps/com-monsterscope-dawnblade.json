@@ -1,0 +1,30 @@
+{
+ "name": "Dawnblade",
+ "identifier": "dev.perapp.com-monsterscope-dawnblade",
+ "subtitle": "ipaomtk.com | Dawnblade is an upcoming action role-playing game IPA MOD developed by Bluestar Entertainment for PC and M",
+ "description": "Single-app source for Dawnblade (com.MonsterScope.Dawnblade). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/dawnblade-action-rpg-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.MonsterScope.Dawnblade",
+   "name": "Dawnblade",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Dawnblade is an upcoming action role-playing game IPA MOD developed by Bluestar Entertainment for PC and Mac. It is a fantasy-driven adv",
+   "localizedDescription": "ipaomtk.com | Dawnblade is an upcoming action role-playing game IPA MOD developed by Bluestar Entertainment for PC and Mac. It is a fantasy-driven adv",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/dawnblade-action-rpg-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.1",
+     "date": "2023-05-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Dawnblade is an upcoming action role-playing game IPA MOD developed by Bluestar Entertainment for PC and Mac. It is a fantasy-driven adv",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Dawnblade.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

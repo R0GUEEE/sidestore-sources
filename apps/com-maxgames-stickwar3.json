@@ -1,0 +1,30 @@
+{
+ "name": "StickWarSaga",
+ "identifier": "dev.perapp.com-maxgames-stickwar3",
+ "subtitle": "StickWarSaga",
+ "description": "Single-app source for StickWarSaga (com.maxgames.stickwar3). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxgames.stickwar3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.maxgames.stickwar3",
+   "name": "StickWarSaga",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maxgames.stickwar3.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.5.2288",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/StickWarSaga_2025.5.2288_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 325987467
+    }
+   ]
+  }
+ ]
+}

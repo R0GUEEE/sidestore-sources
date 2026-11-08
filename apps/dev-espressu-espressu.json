@@ -1,0 +1,37 @@
+{
+ "name": "EspressU",
+ "identifier": "dev.perapp.dev-espressu-espressu",
+ "subtitle": "EspressU is a sideloaded app that lets you play Wii U games on your iPad and iPhone. Free and open source (MPL-2.0). Bri",
+ "description": "Single-app source for EspressU (dev.espressu.EspressU). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#c48549",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.espressu.EspressU.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.espressu.EspressU",
+   "name": "EspressU",
+   "developerName": "EspressU",
+   "subtitle": "EspressU is a sideloaded app that lets you play Wii U games on your iPad and iPhone. Free and open source (MPL-2.0). Bring your own legally dumped games. Not affiliated with Nintendo",
+   "localizedDescription": "• Metal renderer with a persistent shader cache.\n• ARM64 recompiler (JIT), built in, iOS 17.4 and later.\n• Controller support (DualSense, Xbox, MFi) and an on-screen GamePad.\n• Games as .wua files, decrypted folders, or encrypted with your own keys.txt; updates and DLC can be imported.\n\nEspressU contains no firmware, keys or games. You need your own dumps from your own Wii U.\n\nThen:\n\nThe result is an unsigned EspressU.app. Zip it into a Payload folder as an .ipa and sign it with your own certificate. It needs the entitlements get-task-allow, com.apple.developer.kernel.increased-memory-limit and com.apple.developer.kernel.extended-virtual-addressing.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.espressu.EspressU.png",
+   "tintColor": "#c48549",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4",
+     "date": "2026-11-03T21:04:01Z",
+     "localizedDescription": "v1.4 brings Crema, EspressU's own touch controls, a new look with Liquid Glass, and removes Vulkan and MoltenVK from the app.\n\nHighlights:\n\n• Crema touch controls: replaces TouchLab. Sticks, one-piece D-pad, face buttons, shoulders, a HOME house symbol and touchscreen pass-through.\n• Edit mode: move and resize single on-screen controls. Positions and sizes are saved with your settings and included in the settings backup.\n• New look: the interface now uses system colours, text styles and Liquid Glass. The in-game pause menu is a centred glass panel.\n• Lighter app: the Vulkan renderer and MoltenVK are gone, so the app is smaller.\n\nInterface:\n\n• The clock and date are back in the top right of the library.\n\n• The settings tint disappears right away when you close Settings.\n• The library backdrop transition is faster on iPhone.\n• Reworked settings pages, theme picker and alternate app icons.\n\niPad and iPhone:\n\n• The iPad now supports all orientations and no longer requires full screen.\n• Game Mode is declared, so iOS can use it while you play.\n• The minimum iOS version is now 17.4 (was 15.0).\n\nStability:\n\n• The SDL joystick system now starts on the main thread.\n• The display placement is only changed when it actually changed.\n• Bundled data files are copied through a staging folder.\n\nLogging:\n\n• CemuCrashLog.txt is gone. Crashes only go to the EspressU report.\n• Log files from earlier versions are deleted when the app opens.\n\nRemoved:\n\n• The old TouchLab controls, including their custom layout and colour files (.espresslyt). Controls start with the Crema default layout.\n• Vulkan and MoltenVK.\n\nNote: v1.4 keeps the app identifier (dev.espressu.EspressU) and installs over v1.3, so your games, saves and settings stay. iOS 17.4 or newer is required.\n\nEspressU contains no firmware, keys or games. Use your own dumps from your own Wii U.",
+     "downloadURL": "https://github.com/EspressU/EspressU-Emu/releases/download/v1.4/EspressU-v1.4.ipa",
+     "size": 30393789
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "EspressU pairs with this device for its built-in JIT, and connects to game servers on your local network when you use a custom server hosted at home.",
+     "NSMicrophoneUsageDescription": "EspressU uses the microphone only when a Wii U game asks for GamePad microphone input."
+    }
+   }
+  }
+ ]
+}

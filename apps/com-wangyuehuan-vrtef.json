@@ -1,0 +1,30 @@
+{
+ "name": "rPlayer",
+ "identifier": "dev.perapp.com-wangyuehuan-vrtef",
+ "subtitle": "rPlayer",
+ "description": "Single-app source for rPlayer (com.wangyuehuan.vrtef). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wangyuehuan.vrtef",
+   "name": "rPlayer",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.1.0",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/rPlayer_8.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 62545492
+    }
+   ]
+  }
+ ]
+}

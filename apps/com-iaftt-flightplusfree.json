@@ -1,0 +1,30 @@
+{
+ "name": "FlightTracker",
+ "identifier": "dev.perapp.com-iaftt-flightplusfree",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for FlightTracker (com.iaftt.flightplusfree). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iaftt.flightplusfree",
+   "name": "FlightTracker",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "@blatants | Flight Tracker +\n\n• Bundle ID: com.iaftt.flightplusfree\n• Updated to: 8.8.3\n• Minimum iOS: 16.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iaftt.flightplusfree.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.8.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Flight Tracker + • Bundle ID: com.iaftt.flightplusfree • Updated to: 8.8.3 • Minimum iOS: 16.0 • Patched • Modifier: Subscription…",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/FlightTracker_8.8.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 107422234
+    }
+   ]
+  }
+ ]
+}

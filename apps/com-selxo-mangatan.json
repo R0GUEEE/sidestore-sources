@@ -1,0 +1,46 @@
+{
+ "name": "Mangatan",
+ "identifier": "dev.perapp.com-selxo-mangatan",
+ "subtitle": "Mangayomi fork focused on Yomitan-style dictionary lookup, OCR overlays, subtitle mining, and Anki export",
+ "description": "Single-app source for Mangatan (com.selxo.mangatan). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d7313f",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.selxo.mangatan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.selxo.mangatan",
+   "name": "Mangatan",
+   "developerName": "1Selxo",
+   "subtitle": "Mangayomi fork focused on Yomitan-style dictionary lookup, OCR overlays, subtitle mining, and Anki export",
+   "localizedDescription": "Mangatan is an open-source desktop app for reading manga and novels, watching anime, and learning languages through dictionary lookup, OCR, subtitle mining, and Anki export.\n\nFeatures include:\n\n• Reading manga, webtoons, comics, novels, animes, movies, and more.\n• Local reading of content.\n• A configurable reader with multiple viewers, reading directions and other settings.\n• Tracker support for anime and manga: MyAnimeList, AniList, SIMKL, trakt and Kitsu support.\n• Categories to organize your library.\n• Light and dark themes.\n• Create backups locally to read offline or to your desired cloud service.\n\nthen download the asset that matches your platform:\n\n• Windows — Mangatan--windows.exe (installer) or Mangatan--windows.zip (portable).\n• macOS — Mangatan--macos-arm64.dmg (Apple Silicon).\n• Linux — Mangatan--linux-x86_64.tar.gz.\n\nSee the desktop install guide for the full download-and-run steps on each platform.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.selxo.mangatan.png",
+   "tintColor": "#d7313f",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/1Selxo/Mangatan@main/media/screenshots/anki-card-export.webp",
+    "https://cdn.jsdelivr.net/gh/1Selxo/Mangatan@main/assets/screenshots/manga-shelf.jpg",
+    "https://cdn.jsdelivr.net/gh/1Selxo/Mangatan@main/assets/screenshots/manga-lookup.jpg",
+    "https://cdn.jsdelivr.net/gh/1Selxo/Mangatan@main/assets/screenshots/anime-lookup.jpg",
+    "https://cdn.jsdelivr.net/gh/1Selxo/Mangatan@main/assets/screenshots/novel-lookup.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.2.26",
+     "date": "2026-10-18T22:02:42Z",
+     "localizedDescription": "Mangatan v1.2.26 (build 214):\n\nPerformance, reliability and sync-safety release.\n\n• Anime: lay out seasons like Anikku and Animiru, fix YouTube timeouts and player robustness, and keep Jellyfin entries working when a source is renamed.\n\n• Mining: dictionaries, OCR and card export now fail safely.\n• Statistics: never erase history after a failed storage open.\n• Categories: close the order gap when a category is deleted.\n• Extensions: harden extension settings, repositories and uninstall, and manage the desktop extension server's lifetime.\n• iOS: keep the embedded Mihon bridge from crashing the app. Bump the build number to 214.\n\nKnown issues:\n\n• Anime seasons are not fully restored by Chimahon or Anikku. Their sync restorer restores each season entry with base data only, so episodes, watch progress, seen state, categories and tracking set on a season in Mangatan reach the synced backup but do not appear in those apps. This is an upstream bug; Chimahon-side changes still sync to Mangatan, and standalone entries.\n• Tracking does not work on season entries yet. Tracker linking and progress updates do not currently apply to anime season entries in Mangatan.",
+     "downloadURL": "https://github.com/1Selxo/Mangatan/releases/download/v1.2.26/Mangatan-v1.2.26-build.214-f32c5de-ios.ipa",
+     "size": 180264855
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSDocumentUsageDescription": "Mangatan needs access to your files to create and restore backups.",
+     "NSFaceIDUsageDescription": "Mangatan needs to authenticate using Face ID.",
+     "NSLocalNetworkUsageDescription": "Mangatan connects to extension, Hayai OCR, and AnkiConnect servers, and temporarily shares mined images and audio with AnkiMobile.",
+     "NSPhotoLibraryAddUsageDescription": "Mangatan needs permission to save exported images to your photo library.",
+     "NSPhotoLibraryUsageDescription": "Mangatan needs access to your photo library to save and restore backups."
+    }
+   }
+  }
+ ]
+}

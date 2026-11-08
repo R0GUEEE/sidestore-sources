@@ -1,0 +1,30 @@
+{
+ "name": "AdGuard VPN",
+ "identifier": "dev.perapp.com-adguard-ios-adguardvpn",
+ "subtitle": "ipaomtk.com | Looking for a fast and secure VPN for your iOS device? Look no further than AdGuard VPN Unlimited And Fast",
+ "description": "Single-app source for AdGuard VPN (com.adguard.ios.AdGuardVPN). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/AdGuard-VPN-Unlimited-And-Fast-IPA-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adguard.ios.AdGuardVPN",
+   "name": "AdGuard VPN",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Looking for a fast and secure VPN for your iOS device? Look no further than AdGuard VPN Unlimited And Fast IPA! With its unlimited bandw",
+   "localizedDescription": "ipaomtk.com | Looking for a fast and secure VPN for your iOS device? Look no further than AdGuard VPN Unlimited And Fast IPA! With its unlimited bandw",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/AdGuard-VPN-Unlimited-And-Fast-IPA-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.4",
+     "date": "2024-01-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Looking for a fast and secure VPN for your iOS device? Look no further than AdGuard VPN Unlimited And Fast IPA! With its unlimited bandw",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AdGuard-VPN.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

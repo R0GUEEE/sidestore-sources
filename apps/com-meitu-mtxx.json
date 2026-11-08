@@ -1,0 +1,30 @@
+{
+ "name": "Meitu",
+ "identifier": "dev.perapp.com-meitu-mtxx",
+ "subtitle": "Tweaks: 美图秀秀, 美图秀秀解锁内容",
+ "description": "Single-app source for Meitu (com.meitu.mtxx). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/8d/9e/be8d9e7c-5eed-0603-260a-7eefa185d527/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.meitu.mtxx",
+   "name": "Meitu",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Tweaks: 美图秀秀, 美图秀秀解锁内容",
+   "localizedDescription": "Tweaks: 美图秀秀, 美图秀秀解锁内容\n\nChức năng đã thêm: SVIP - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/be/8d/9e/be8d9e7c-5eed-0603-260a-7eefa185d527/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.10.51",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: 美图秀秀, 美图秀秀解锁内容\n\nChức năng đã thêm: SVIP - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Meitu_9.10.51_TTJB.ipa",
+     "size": 266653073
+    }
+   ]
+  }
+ ]
+}

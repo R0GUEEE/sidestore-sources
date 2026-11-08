@@ -1,0 +1,30 @@
+{
+ "name": "iMood",
+ "identifier": "dev.perapp.ru-equality-imood",
+ "subtitle": "ipaomtk.com | The iMoodJournal IPA v4.1.16 for iOS is a revolutionary tool designed to help users track and understand t",
+ "description": "Single-app source for iMood (ru.equality.iMood). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/iMoodJournal-8211-Mood-Diary-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.equality.iMood",
+   "name": "iMood",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The iMoodJournal IPA v4.1.16 for iOS is a revolutionary tool designed to help users track and understand their emotional well-being. Wit",
+   "localizedDescription": "ipaomtk.com | The iMoodJournal IPA v4.1.16 for iOS is a revolutionary tool designed to help users track and understand their emotional well-being. Wit",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/iMoodJournal-8211-Mood-Diary-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.16",
+     "date": "2024-12-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The iMoodJournal IPA v4.1.16 for iOS is a revolutionary tool designed to help users track and understand their emotional well-being. Wit",
+     "downloadURL": "https://file.ipaomtk.com/ipa/iMoodJournal_Mood_Diary-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

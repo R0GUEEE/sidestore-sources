@@ -1,0 +1,30 @@
+{
+ "name": "Two Dots",
+ "identifier": "dev.perapp.com-unknown-twodots",
+ "subtitle": "⚙️تایبەتمەندیەکانی بەرنامە⚙️    ژمارەیەکی بێکۆتایی هەنگاوەکان ✅  ژمارەیەکی بێ سنووری دڵەکان ✅",
+ "description": "Single-app source for Two Dots (com.unknown.twodots). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Two.Dots.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.twodots",
+   "name": "Two Dots",
+   "developerName": "Karbin-Store",
+   "subtitle": "⚙️تایبەتمەندیەکانی بەرنامە⚙️    ژمارەیەکی بێکۆتایی هەنگاوەکان ✅  ژمارەیەکی بێ سنووری دڵەکان ✅",
+   "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامە⚙️    ژمارەیەکی بێکۆتایی هەنگاوەکان ✅  ژمارەیەکی بێ سنووری دڵەکان ✅",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/Two.Dots.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.80.1",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "⚙️تایبەتمەندیەکانی بەرنامە⚙️    ژمارەیەکی بێکۆتایی هەنگاوەکان ✅  ژمارەیەکی بێ سنووری دڵەکان ✅",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/Two.Dots.v8.80.1_BabyloniPA.ipa",
+     "size": 146020000
+    }
+   ]
+  }
+ ]
+}

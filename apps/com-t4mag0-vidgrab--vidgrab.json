@@ -1,0 +1,37 @@
+{
+ "name": "VidGrab",
+ "identifier": "dev.perapp.com-t4mag0-vidgrab",
+ "subtitle": "VidGrab:  A video downloader for iPhone. Paste a link, pick a quality, done. Or open the built-in browser, play a video,",
+ "description": "Single-app source for VidGrab (com.t4mag0.vidgrab). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.t4mag0.vidgrab.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.t4mag0.vidgrab",
+   "name": "VidGrab",
+   "developerName": "iamjhe08",
+   "subtitle": "VidGrab:  A video downloader for iPhone. Paste a link, pick a quality, done. Or open the built-in browser, play a video, and tap the Download button t",
+   "localizedDescription": "VidGrab:  A video downloader for iPhone. Paste a link, pick a quality, done. Or open the built-in browser, play a video, and tap the Download button t\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.t4mag0.vidgrab.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.6c",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@kamohacks | VidGrab 🆕  ⚙️Features⚙️ ✅Downloading:  1) Works with YouTube and many other sites.  2) Choose the quality, up to 4K when the video has it",
+     "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16786-VidGrab%20-%20KamoHacks%20%5B1.3.6c%5D.ipa",
+     "size": 32666994
+    },
+    {
+     "version": "1.3.6",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "VidGrab:  A video downloader for iPhone. Paste a link, pick a quality, done. Or open the built-in browser, play a video, and tap the Download button t",
+     "downloadURL": "https://github.com/iamjhe08/VidGrab/releases/download/1.3.6c/VidGrab-1.3.6c.ipa",
+     "size": 31200926
+    }
+   ]
+  }
+ ]
+}

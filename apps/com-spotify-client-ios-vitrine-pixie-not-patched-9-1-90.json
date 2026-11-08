@@ -1,0 +1,30 @@
+{
+ "name": "Vitrine + Pixie (Not Patched) IPAVault",
+ "identifier": "dev.perapp.com-spotify-client-ios-vitrine-pixie-not-patched-9-1-90",
+ "subtitle": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Downloa",
+ "description": "Single-app source for Vitrine + Pixie (Not Patched) IPAVault (com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.vitrine.pixie.not.patched.9.1.90",
+   "name": "Vitrine + Pixie (Not Patched) IPAVault",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.1.",
+   "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.1.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.90",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify. This works with sidestore!! This includes both Vitrine v1.0.0-b13 and Pixie Download Manager v1.1.",
+     "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.90%20%28Vitrine+Pixie%29%20No%20Plugins.ipa",
+     "size": 130361203
+    }
+   ]
+  }
+ ]
+}

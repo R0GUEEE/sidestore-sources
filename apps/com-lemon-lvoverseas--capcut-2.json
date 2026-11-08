@@ -1,0 +1,37 @@
+{
+ "name": "CapCut",
+ "identifier": "dev.perapp.com-lemon-lvoverseas",
+ "subtitle": "CapCut",
+ "description": "Single-app source for CapCut (com.lemon.lvoverseas). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/dd/38/47dd38ef-0b78-bd16-75ea-e110b61f97e8/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lemon.lvoverseas",
+   "name": "CapCut",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/dd/38/47dd38ef-0b78-bd16-75ea-e110b61f97e8/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "16.3.0",
+     "date": "2026-07-11T00:00:00Z",
+     "localizedDescription": "Features:\r\n- CapCut Pro unlocked\r\n- Updated to the latest version\r\n- Use a VPN to access features\r\n\r\nHow to: \r\n\r\n- Find a vpn and point it to any U.S state to see premium content",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1853",
+     "size": 326487180
+    },
+    {
+     "version": "12.6.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/6013ab42-fd2d-4a60-ab3b-2da600079613/capcut-pro-12.6.ipa",
+     "size": 146689221
+    }
+   ]
+  }
+ ]
+}

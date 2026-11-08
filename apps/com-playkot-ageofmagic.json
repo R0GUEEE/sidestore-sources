@@ -1,0 +1,37 @@
+{
+ "name": "Age of Magic",
+ "identifier": "dev.perapp.com-playkot-ageofmagic",
+ "subtitle": "ipaomtk.com | Age of Magic IPA is an epic turn-based RPG set in a fantasy world of magicians, warriors and monsters. It’",
+ "description": "Single-app source for Age of Magic (com.playkot.ageofmagic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Age-of-Magic-LOGO-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playkot.ageofmagic",
+   "name": "Age of Magic",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Age of Magic IPA is an epic turn-based RPG set in a fantasy world of magicians, warriors and monsters. It’s a critically acclaimed game ",
+   "localizedDescription": "ipaomtk.com | Age of Magic IPA is an epic turn-based RPG set in a fantasy world of magicians, warriors and monsters. It’s a critically acclaimed game ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Age-of-Magic-LOGO-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.0",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Age of Magic IPA is an epic turn-based RPG set in a fantasy world of magicians, warriors and monsters. It’s a critically acclaimed game ",
+     "downloadURL": "https://file.ipaomtk.com/age-of-magic-ipa/Age-of-Magic-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.10.1",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Age of Magic IPA is an epic turn-based RPG set in a fantasy world of magicians, warriors and monsters. It’s a critically acclaimed game ",
+     "downloadURL": "https://file.ipaomtk.com/age-of-magic-ipa/Age-of-Magic-IPAOMTK.COM.ipa",
+     "size": 384442796
+    }
+   ]
+  }
+ ]
+}

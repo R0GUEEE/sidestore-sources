@@ -1,0 +1,44 @@
+{
+ "name": "Dancebit",
+ "identifier": "dev.perapp.dance-fitness-app",
+ "subtitle": "Dancebit",
+ "description": "Single-app source for Dancebit (dance.fitness.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dance.fitness.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dance.fitness.app",
+   "name": "Dancebit",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/dance.fitness.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.87",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2298",
+     "size": 201524306
+    },
+    {
+     "version": "2.78",
+     "date": "2025-12-15T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/Dancebit_2.78_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 191675604
+    },
+    {
+     "version": "2.71",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Dancebit: Weight Loss Workouts\n\nTweak: Premium Unlocked\n\nVersion: 2.71\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/f64ee94a-41f4-4155-9173-fd1191f63eba/Dancebit__Weight_Loss_Workouts-v2.71-riftysipas.ipa",
+     "size": 197264843
+    }
+   ]
+  }
+ ]
+}

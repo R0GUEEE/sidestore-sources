@@ -1,0 +1,44 @@
+{
+ "name": "Yazio",
+ "identifier": "dev.perapp.com-yazio-ios-yazio",
+ "subtitle": "@blatants | AI Calorie Tracker by Yazio  • Bundle ID: com.yazio.ios.YAZIO • Updated to: 26.31.0 • Minimum iOS: 16.0 • Pa",
+ "description": "Single-app source for Yazio (com.yazio.ios.YAZIO). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11409.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yazio.ios.YAZIO",
+   "name": "Yazio",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | AI Calorie Tracker by Yazio  • Bundle ID: com.yazio.ios.YAZIO • Updated to: 26.31.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscription",
+   "localizedDescription": "@blatants | AI Calorie Tracker by Yazio  • Bundle ID: com.yazio.ios.YAZIO • Updated to: 26.31.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscription",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11409.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.44.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | AI Calorie Tracker by Yazio  • Bundle ID: com.yazio.ios.YAZIO • Updated to: 26.44.1 • Minimum iOS: 16.0 • Patched • Modifier: Subscription",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Yazio_26.44.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 214437762
+    },
+    {
+     "version": "26.43.3",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@blatants | AI Calorie Tracker by Yazio  • Bundle ID: com.yazio.ios.YAZIO • Updated to: 26.43.3 • Minimum iOS: 16.0 • Patched • Modifier: Subscription",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/Yazio_26.43.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 214006917
+    },
+    {
+     "version": "26.43.2",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@blatants | AI Calorie Tracker by Yazio  • Bundle ID: com.yazio.ios.YAZIO • Updated to: 26.43.2 • Minimum iOS: 16.0 • Patched • Modifier: Subscription",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Yazio_26.43.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 213994257
+    }
+   ]
+  }
+ ]
+}

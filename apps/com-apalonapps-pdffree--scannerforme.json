@@ -1,0 +1,30 @@
+{
+ "name": "ScannerForMe",
+ "identifier": "dev.perapp.com-apalonapps-pdffree",
+ "subtitle": "ScannerForMe",
+ "description": "Single-app source for ScannerForMe (com.apalonapps.pdffree). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apalonapps.pdffree",
+   "name": "ScannerForMe",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription.Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.24.18",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "Injected with Subscription.Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/ScannerForMe_4.24.18_Subscription.Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 190800936
+    }
+   ]
+  }
+ ]
+}

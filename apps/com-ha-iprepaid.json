@@ -1,0 +1,30 @@
+{
+ "name": "Pinco",
+ "identifier": "dev.perapp.com-ha-iprepaid",
+ "subtitle": "ipaomtk.com | Pinco Pro IPA to provide a revolutionary user experience for the iPhone and iPad. With its straightforward",
+ "description": "Single-app source for Pinco (com.HA.iPrepaid). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Pinco-IPA-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.HA.iPrepaid",
+   "name": "Pinco",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Pinco Pro IPA to provide a revolutionary user experience for the iPhone and iPad. With its straightforward and innovative interface, Pin",
+   "localizedDescription": "ipaomtk.com | Pinco Pro IPA to provide a revolutionary user experience for the iPhone and iPad. With its straightforward and innovative interface, Pin",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Pinco-IPA-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.2",
+     "date": "2023-12-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Pinco Pro IPA to provide a revolutionary user experience for the iPhone and iPad. With its straightforward and innovative interface, Pin",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Pinco.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

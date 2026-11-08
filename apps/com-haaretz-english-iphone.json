@@ -1,0 +1,30 @@
+{
+ "name": "Haaretz_Eng_Unlocked",
+ "identifier": "dev.perapp.com-haaretz-english-iphone",
+ "subtitle": "The Haaretz iPhone app",
+ "description": "Single-app source for Haaretz_Eng_Unlocked (com.haaretz.english.iphone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Haaretz_Eng_Unlocked.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.haaretz.english.iphone",
+   "name": "Haaretz_Eng_Unlocked",
+   "developerName": "Haaretz_Eng_Unlocked x CyPwn",
+   "subtitle": "The Haaretz iPhone app",
+   "localizedDescription": "The Haaretz iPhone app",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Haaretz_Eng_Unlocked.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.60",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "The Haaretz iPhone app",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Haaretz_Eng_Unlocked.ipa",
+     "size": 17836277
+    }
+   ]
+  }
+ ]
+}

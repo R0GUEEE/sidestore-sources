@@ -1,0 +1,30 @@
+{
+ "name": "DBLEGENDS",
+ "identifier": "dev.perapp.jp-co-bandainamcoent-bnei0333",
+ "subtitle": "Mods",
+ "description": "Single-app source for DBLEGENDS (jp.co.bandainamcoent.BNEI0333). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0333.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.co.bandainamcoent.BNEI0333",
+   "name": "DBLEGENDS",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Mods",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcoent.BNEI0333.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.16.0",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/DBLEGENDS_6.16.0_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 159912780
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PicTrace",
+ "identifier": "dev.perapp.com-avntech-ar-drawing",
+ "subtitle": "PicTrace",
+ "description": "Single-app source for PicTrace (com.avntech.ar-drawing). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.avntech.ar-drawing.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.avntech.ar-drawing",
+   "name": "PicTrace",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.avntech.ar-drawing.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.20260403",
+     "date": "2026-05-04T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-05-2026/PicTrace_5.5.20260403_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 175212365
+    }
+   ]
+  }
+ ]
+}

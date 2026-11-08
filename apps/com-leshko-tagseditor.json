@@ -1,0 +1,44 @@
+{
+ "name": "Evertag",
+ "identifier": "dev.perapp.com-leshko-tagseditor",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Evertag (com.leshko.tagseditor). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leshko.tagseditor",
+   "name": "Evertag",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.tagseditor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Evertag_4.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 57964468
+    },
+    {
+     "version": "3.9",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-11-2025/Evertag_3.9_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 40975538
+    },
+    {
+     "version": "3.7",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-08-2025/Evertag_3.7_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 37881738
+    }
+   ]
+  }
+ ]
+}

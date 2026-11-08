@@ -1,0 +1,34 @@
+{
+ "name": "Notes:",
+ "identifier": "dev.perapp.app-notes-notes",
+ "subtitle": "Apple Notes meets GitHub",
+ "description": "Single-app source for Notes: (app.notes.Notes). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.notes.Notes",
+   "name": "Notes:",
+   "developerName": "trail-b1az3r",
+   "subtitle": "Apple Notes meets GitHub",
+   "localizedDescription": "Notes::\n\nApple Notes meets GitHub. A native SwiftUI iPhone app (iOS 26 and newer; targets iOS 27 automatically once the build machine has the iOS 27 SDK) for local-first notes that can be linked to files in GitHub repositories, with real commits, history, diffs, offline editing and conflict resolution.\n\nStatus: the source was written without access to Xcode, so it has not yet been compiled or run on a device. The first CI run on a macOS runner is the first real build — see Status.\n\nThe bundle is always named nbwsc-vX.Y.Z.ipa (plus a .sha256). Two ways to get it:\n\n• compute the next version from the latest vX.Y.Z tag (patch/minor/major, or type an explicit version) and refuse to reuse a tag,.\n• run the unit tests,.\n• archive the app and package an .ipa,.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-10-14T23:11:16Z",
+     "localizedDescription": "nbwsc v1.1.1:\n\nUnsigned build. This .ipa is not signed and will not install directly. Re-sign it with your own Apple ID using a sideloading tool (e.g. AltStore or Sideloadly), or build from source in Xcode (see README).\n\nGitHub sign-in is not configured in this build (set the NOTES_GITHUB_CLIENT_ID repository variable). Local notes work regardless.\n\nSHA-256: 3ccd2820c86c1534f504c92ef1d16c6068d7248b6e4c6e85fb9959fb5597f0d2.\n\n• Fix GitHub sign-in failing when the app returns from the browser.",
+     "downloadURL": "https://github.com/trail-b1az3r/notes-but-with-source-control/releases/download/v1.1.1/nbwsc-v1.1.1-unsigned.ipa",
+     "size": 572960
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

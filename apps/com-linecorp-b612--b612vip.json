@@ -1,0 +1,30 @@
+{
+ "name": "B612VIP",
+ "identifier": "dev.perapp.com-linecorp-b612",
+ "subtitle": "B612VIP by Lãng Khách🇻🇳",
+ "description": "Single-app source for B612VIP (com.linecorp.b612). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.linecorp.b612.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.linecorp.b612",
+   "name": "B612VIP",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.linecorp.b612.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.2.10",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "All-in-one camera and photo/video editing app. A user requested it so here it is.\nLast updated: 07-14-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/B612VIP/B612VIP-13.2.10.ipa",
+     "size": 117982684
+    }
+   ]
+  }
+ ]
+}

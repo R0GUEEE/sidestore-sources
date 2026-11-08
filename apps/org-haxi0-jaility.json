@@ -1,0 +1,30 @@
+{
+ "name": "Jaility",
+ "identifier": "dev.perapp.org-haxi0-jaility",
+ "subtitle": "ipaomtk.com | Jaility IPA Disables Locking After a Respring & Supervises If you are an iOS user looking for a way to cus",
+ "description": "Single-app source for Jaility (org.haxi0.Jaility). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/5da1aa5b-5c78-4654-8026-8e274ec39971-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.haxi0.Jaility",
+   "name": "Jaility",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Jaility IPA Disables Locking After a Respring & Supervises If you are an iOS user looking for a way to customize your device beyond the ",
+   "localizedDescription": "ipaomtk.com | Jaility IPA Disables Locking After a Respring & Supervises If you are an iOS user looking for a way to customize your device beyond the ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/5da1aa5b-5c78-4654-8026-8e274ec39971-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.1",
+     "date": "2024-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Jaility IPA Disables Locking After a Respring & Supervises If you are an iOS user looking for a way to customize your device beyond the ",
+     "downloadURL": "https://file.ipaomtk.com/Trollstore/Jaility-3.1.1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

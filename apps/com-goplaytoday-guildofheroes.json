@@ -1,0 +1,37 @@
+{
+ "name": "Guild of Heroes",
+ "identifier": "dev.perapp.com-goplaytoday-guildofheroes",
+ "subtitle": "ipaomtk.com | Guild of Heroes Legendary War IPA iOS, This immersive and action-packed title offers a captivating blend o",
+ "description": "Single-app source for Guild of Heroes (com.goplaytoday.guildofheroes). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/Guild-of-Heroes-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.goplaytoday.guildofheroes",
+   "name": "Guild of Heroes",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Guild of Heroes Legendary War IPA iOS, This immersive and action-packed title offers a captivating blend of strategy, role-playing, and ",
+   "localizedDescription": "ipaomtk.com | Guild of Heroes Legendary War IPA iOS, This immersive and action-packed title offers a captivating blend of strategy, role-playing, and ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/Guild-of-Heroes-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.187.5",
+     "date": "2024-06-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Guild of Heroes Legendary War IPA iOS, This immersive and action-packed title offers a captivating blend of strategy, role-playing, and ",
+     "downloadURL": "https://file.ipaomtk.com/guild-of-heroes-legendary-war/Guild-of-Heroes-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.196.3",
+     "date": "2024-06-10T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Guild of Heroes Legendary War IPA iOS, This immersive and action-packed title offers a captivating blend of strategy, role-playing, and ",
+     "downloadURL": "https://file.ipaomtk.com/guild-of-heroes-legendary-war/Guild-of-Heroes-IPAOMTK.COM.ipa",
+     "size": 287649860
+    }
+   ]
+  }
+ ]
+}

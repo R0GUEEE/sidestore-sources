@@ -1,0 +1,30 @@
+{
+ "name": "Qrcode",
+ "identifier": "dev.perapp.com-internet-rocks-codescanner",
+ "subtitle": "Qrcode",
+ "description": "Single-app source for Qrcode (com.internet-rocks.codescanner). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.internet-rocks.codescanner",
+   "name": "Qrcode",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.11.0",
+     "date": "2025-02-02T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-02-2025/Qrcode_6.11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 64277929
+    }
+   ]
+  }
+ ]
+}

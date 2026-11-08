@@ -1,0 +1,37 @@
+{
+ "name": "EhPanda",
+ "identifier": "dev.perapp.app-ehpanda",
+ "subtitle": "EhPanda allows you to browse almost every category of E-Hentai that exists. It provides valuable details and information",
+ "description": "Single-app source for EhPanda (app.ehpanda). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/gzJjtF3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.ehpanda",
+   "name": "EhPanda",
+   "developerName": "Araki Tatsuzou",
+   "subtitle": "EhPanda allows you to browse almost every category of E-Hentai that exists. It provides valuable details and information about each series using an in",
+   "localizedDescription": "EhPanda allows you to browse almost every category of E-Hentai that exists. It provides valuable details and information about each series using an in",
+   "iconURL": "https://i.imgur.com/gzJjtF3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "EhPanda is an unofficial E-Hentai app for iOS & iPadOS built with SwiftUI & TCA. It supports almost all E-Hentai gallery categories, gallery browsing ",
+     "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.8.1/EhPanda.ipa",
+     "size": 7352364
+    },
+    {
+     "version": "2.7.10",
+     "date": "2024-12-21T00:00:00Z",
+     "localizedDescription": "EhPanda allows you to browse almost every category of E-Hentai that exists. It provides valuable details and information about each series using an in",
+     "downloadURL": "https://github.com/EhPanda-Team/EhPanda/releases/download/v2.7.10/EhPanda.ipa",
+     "size": 7231227
+    }
+   ]
+  }
+ ]
+}

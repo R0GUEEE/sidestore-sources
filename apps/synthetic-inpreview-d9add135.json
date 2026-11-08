@@ -1,0 +1,30 @@
+{
+ "name": "Inpreview",
+ "identifier": "dev.perapp.synthetic-inpreview-d9add135",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for Inpreview (synthetic.inpreview.d9add135). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/instapreview.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.inpreview.d9add135",
+   "name": "Inpreview",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/instapreview.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.8.0",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/Inpreview_6.8.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 139788308
+    }
+   ]
+  }
+ ]
+}

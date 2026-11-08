@@ -1,0 +1,30 @@
+{
+ "name": "HarpyReloaded",
+ "identifier": "dev.perapp.me-midnightchips-harpy-reloaded",
+ "subtitle": "Note: There are people that report this working, and people that report it broken. It's hit-and-miss at best. App that l",
+ "description": "Single-app source for HarpyReloaded (me.midnightchips.harpy-reloaded). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.midnightchips.harpy-reloaded.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.midnightchips.harpy-reloaded",
+   "name": "HarpyReloaded",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "Note: There are people that report this working, and people that report it broken. It's hit-and-miss at best. App that lets you block internet to othe",
+   "localizedDescription": "Note: There are people that report this working, and people that report it broken. It's hit-and-miss at best. App that lets you block internet to othe",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/me.midnightchips.harpy-reloaded.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Note: There are people that report this working, and people that report it broken. It's hit-and-miss at best. App that lets you block internet to othe",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/HarpyReloaded-1.0.1.ipa",
+     "size": 4856799
+    }
+   ]
+  }
+ ]
+}

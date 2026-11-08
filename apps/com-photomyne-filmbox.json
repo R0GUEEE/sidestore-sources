@@ -1,0 +1,30 @@
+{
+ "name": "FilmBox-ipaomtk",
+ "identifier": "dev.perapp.com-photomyne-filmbox",
+ "subtitle": "ipaomtk.com | FilmBox by Photomyne IPA is a cutting-edge solution designed to cater to the needs of film photography ent",
+ "description": "Single-app source for FilmBox-ipaomtk (com.photomyne.filmbox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/FilmBox-Film-Negatives-Scanner-thumbnail-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.photomyne.filmbox",
+   "name": "FilmBox-ipaomtk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FilmBox by Photomyne IPA is a cutting-edge solution designed to cater to the needs of film photography enthusiasts. Developed by the ren",
+   "localizedDescription": "ipaomtk.com | FilmBox by Photomyne IPA is a cutting-edge solution designed to cater to the needs of film photography enthusiasts. Developed by the ren",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/FilmBox-Film-Negatives-Scanner-thumbnail-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.13",
+     "date": "2024-09-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FilmBox by Photomyne IPA is a cutting-edge solution designed to cater to the needs of film photography enthusiasts. Developed by the ren",
+     "downloadURL": "https://file.ipaomtk.com/ipa/FilmBox-ipaomtk.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "flowkey",
+ "identifier": "dev.perapp.com-flowkey-app",
+ "subtitle": "ipaomtk.com | Flowkey invites you to explore the ​piano like never before. ​In this ‌article, we will delve into⁣ the ‍u",
+ "description": "Single-app source for flowkey (com.flowkey.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/flowkey-Learn-Piano-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.flowkey.app",
+   "name": "flowkey",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Flowkey invites you to explore the ​piano like never before. ​In this ‌article, we will delve into⁣ the ‍unique features of Flowkey, unc",
+   "localizedDescription": "ipaomtk.com | Flowkey invites you to explore the ​piano like never before. ​In this ‌article, we will delve into⁣ the ‍unique features of Flowkey, unc",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/flowkey-Learn-Piano-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.88.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Flowkey invites you to explore the ​piano like never before. ​In this ‌article, we will delve into⁣ the ‍unique features of Flowkey, unc",
+     "downloadURL": "https://file.ipaomtk.com/ipa/flowkey-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

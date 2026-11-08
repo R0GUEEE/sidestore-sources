@@ -1,0 +1,37 @@
+{
+ "name": "LavaSurvival",
+ "identifier": "dev.perapp.com-gamelegendstudio-lavasurvival",
+ "subtitle": "Injected with Mods",
+ "description": "Single-app source for LavaSurvival (com.gamelegendstudio.lavasurvival). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamelegendstudio.lavasurvival.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gamelegendstudio.lavasurvival",
+   "name": "LavaSurvival",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Mods",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gamelegendstudio.lavasurvival.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.4",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Mods",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/LavaSurvival_1.1.4_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 583840820
+    },
+    {
+     "version": "1.1.7",
+     "date": "2025-12-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Lava Survival IPA is an exciting iOS game that challenges players to stay alive in a constantly changing environment filled",
+     "downloadURL": "https://file.ipaomtk.com/Lava%20Survival/Lava-Survival-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

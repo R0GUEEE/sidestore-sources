@@ -1,0 +1,44 @@
+{
+ "name": "Eden",
+ "identifier": "dev.perapp.com-mfagency-nurture",
+ "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Eden (com.mfagency.nurture). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mfagency.nurture",
+   "name": "Eden",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.3.8",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Tweaks: riftysedentweak\n\n@riftysIPAlibrary | Eden: Daily Self Care Routine Tweak: Subscription Unlocked Version: 5.3.8 Patched ✓ @riftysIPAlibrary Additional Information ℹ️…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8869-Eden:%20Daily%20Self%20Care%20Routine-v5.3.8-riftysipas.ipa",
+     "size": 265165112
+    },
+    {
+     "version": "5.3.7",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: riftysedentweak\n\n@riftysIPAlibrary | Eden: Daily Self Care Routine  Tweak: Subscription Unlocked  Version: 5.3.7  Patched ✓  @riftysIPAlibrary  Additional Information ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8828-Eden:%20Daily%20Self%20Care%20Routine-v5.3.7-riftysipas.ipa",
+     "size": 264728779
+    },
+    {
+     "version": "5.3.6",
+     "date": "2026-10-21T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Eden: Daily Self Care Routine  Tweak: Subscription Unlocked  Version: 5.3.6  Patched ✓  @riftysIPAlibrary  Additional Information ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8485-Eden:%20Daily%20Self%20Care%20Routine-v5.3.6-riftysipas.ipa",
+     "size": 264724303
+    }
+   ]
+  }
+ ]
+}

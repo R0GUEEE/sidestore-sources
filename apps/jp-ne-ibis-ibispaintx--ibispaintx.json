@@ -1,0 +1,30 @@
+{
+ "name": "IbispaintX",
+ "identifier": "dev.perapp.jp-ne-ibis-ibispaintx",
+ "subtitle": "IbispaintX by Karbin-Store",
+ "description": "Single-app source for IbispaintX (jp.ne.ibis.ibisPaintX). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/IbispaintX.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.ne.ibis.ibisPaintX",
+   "name": "IbispaintX",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/IbispaintX.jpeg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.1.7",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/ibisPaint.X.ipa",
+     "size": 38320000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Send Snap ",
+ "identifier": "dev.perapp.synthetic-send-snap-021c8912",
+ "subtitle": "Send Snap  by Karbin-Store",
+ "description": "Single-app source for Send Snap  (synthetic.send-snap.021c8912). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Send.Snap.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.send-snap.021c8912",
+   "name": "Send Snap ",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "➜ Upload videos and photos with the highest",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Send.Snap.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "➜ Upload videos and photos with the highest",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/SendSnap.1.2.ipa",
+     "size": 9530000
+    }
+   ]
+  }
+ ]
+}

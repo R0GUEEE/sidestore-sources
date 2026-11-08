@@ -1,0 +1,30 @@
+{
+ "name": "FitNotes",
+ "identifier": "dev.perapp.xyz-gingertech-fitnotes",
+ "subtitle": "FitNotes",
+ "description": "Single-app source for FitNotes (xyz.gingertech.fitnotes). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.gingertech.fitnotes",
+   "name": "FitNotes",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18",
+     "date": "2026-09-09T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/FitNotes_18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 12169220
+    }
+   ]
+  }
+ ]
+}

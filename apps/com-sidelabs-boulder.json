@@ -1,0 +1,30 @@
+{
+ "name": "Coffee Inc 2+",
+ "identifier": "dev.perapp.com-sidelabs-boulder",
+ "subtitle": "@ipa_dark | 🔄 Coffee Inc 2+ - appstore  🇷🇺 Бизнес-симулятор, где нужно развивать собственную сеть кофеен, управлять перс",
+ "description": "Single-app source for Coffee Inc 2+ (com.sidelabs.Boulder). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1679.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sidelabs.Boulder",
+   "name": "Coffee Inc 2+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Coffee Inc 2+ - appstore  🇷🇺 Бизнес-симулятор, где нужно развивать собственную сеть кофеен, управлять персоналом и финансами, выбирать л",
+   "localizedDescription": "@ipa_dark | 🔄 Coffee Inc 2+ - appstore  🇷🇺 Бизнес-симулятор, где нужно развивать собственную сеть кофеен, управлять персоналом и финансами, выбирать л",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1679.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Coffee Inc 2+ - appstore  🇷🇺 Бизнес-симулятор, где нужно развивать собственную сеть кофеен, управлять персоналом и финансами, выбирать л",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1679-Coffee%20Inc%202+%20%5Bv2.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 341768862
+    }
+   ]
+  }
+ ]
+}

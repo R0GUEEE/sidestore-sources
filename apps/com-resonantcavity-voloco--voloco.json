@@ -1,0 +1,44 @@
+{
+ "name": "Voloco",
+ "identifier": "dev.perapp.com-resonantcavity-voloco",
+ "subtitle": "Voloco",
+ "description": "Single-app source for Voloco (com.resonantcavity.Voloco). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/1f787aff-549c-44a9-9afa-f62cce16718f/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.resonantcavity.Voloco",
+   "name": "Voloco",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Voloco: Vocal Recording Studio\n\nTweak: Subscription Unlocked\n\nVersion: 9.9.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/1f787aff-549c-44a9-9afa-f62cce16718f/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.20.0",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2134",
+     "size": 118157108
+    },
+    {
+     "version": "9.18.0",
+     "date": "2026-08-16T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2134",
+     "size": 114592101
+    },
+    {
+     "version": "9.17.0",
+     "date": "2026-08-02T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2134",
+     "size": 128651852
+    }
+   ]
+  }
+ ]
+}

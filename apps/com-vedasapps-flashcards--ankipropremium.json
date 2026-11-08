@@ -1,0 +1,30 @@
+{
+ "name": "AnkiProPremium",
+ "identifier": "dev.perapp.com-vedasapps-flashcards",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for AnkiProPremium (com.vedasapps.flashcards). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.vedasapps.flashcards.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vedasapps.flashcards",
+   "name": "AnkiProPremium",
+   "developerName": "IAppsBestLibrary",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nFlashcard app that uses an enhanced spaced repetition algorithm to help you study efficiently and also supports exam preparation and vocabulary learning. Customize your flashcards or choose from over 50,000 pre-made decks. A user requested it so here it is.\nLast updated: 08-07-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.vedasapps.flashcards.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nFlashcard app that uses an enhanced spaced repetition algorithm to help you study efficiently and also supports exam preparation and vocabulary…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnkiProPremium/AnkiProPremium-2.1.0.ipa",
+     "size": 62618755
+    }
+   ]
+  }
+ ]
+}

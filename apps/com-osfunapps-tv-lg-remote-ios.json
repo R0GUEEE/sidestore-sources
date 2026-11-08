@@ -1,0 +1,30 @@
+{
+ "name": "LG Remote",
+ "identifier": "dev.perapp.com-osfunapps-tv-lg-remote-ios",
+ "subtitle": "ipaomtk.com | Introduction Remote for LG IPA is an iOS application that turns your iPhone and iPad into a powerful and c",
+ "description": "Single-app source for LG Remote (com.osfunapps.tv-lg-remote-ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Remote-for-LG-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.osfunapps.tv-lg-remote-ios",
+   "name": "LG Remote",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Remote for LG IPA is an iOS application that turns your iPhone and iPad into a powerful and convenient remote control for L",
+   "localizedDescription": "ipaomtk.com | Introduction Remote for LG IPA is an iOS application that turns your iPhone and iPad into a powerful and convenient remote control for L",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Remote-for-LG-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18.6",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Remote for LG IPA is an iOS application that turns your iPhone and iPad into a powerful and convenient remote control for L",
+     "downloadURL": "https://file.ipaomtk.com/Remote%20for%20LG/LG-Remote_18.6-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

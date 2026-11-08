@@ -1,0 +1,37 @@
+{
+ "name": "Barcode Scanner",
+ "identifier": "dev.perapp.com-yourname028-barcodescanner",
+ "subtitle": "Barcode Scanner - IPA",
+ "description": "Single-app source for Barcode Scanner (com.yourname028.BarcodeScanner). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "c8cacc",
+ "iconURL": "https://cdn.omnidev.org/barcodescanner-za.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yourname028.BarcodeScanner",
+   "name": "Barcode Scanner",
+   "developerName": "Apple",
+   "subtitle": "Barcode Scanner - IPA",
+   "localizedDescription": "A barcode scanner official from Apple\nStatus: ✅",
+   "iconURL": "https://cdn.omnidev.org/barcodescanner-za.png",
+   "tintColor": "c8cacc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-10-24T00:00:00Z",
+     "localizedDescription": "A barcode scanner official from Apple\nStatus: ✅",
+     "downloadURL": "https://cdn.omnidev.org/Barcode_Scanner-wc.ipa",
+     "size": 184903
+    },
+    {
+     "version": "1.0",
+     "date": "2024-09-06T00:00:00Z",
+     "localizedDescription": "BarcodeScanner is an iOS app for scanning and reading barcodes and QR codes.",
+     "downloadURL": "https://raw.githubusercontent.com/YourName028/System-Apps/main/BarcodeScanner.ipa",
+     "size": 184903
+    }
+   ]
+  }
+ ]
+}

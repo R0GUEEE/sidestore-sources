@@ -1,0 +1,40 @@
+{
+ "name": "XeniOS",
+ "identifier": "dev.perapp.com-xenios-jp",
+ "subtitle": "The iOS and MacOS port of Xenia, the Xbox 360 Emulator Research project",
+ "description": "Single-app source for XeniOS (com.xenios.jp). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#91733b",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.xenios.jp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.xenios.jp",
+   "name": "XeniOS",
+   "developerName": "xenios-jp",
+   "subtitle": "The iOS and MacOS port of Xenia, the Xbox 360 Emulator Research project",
+   "localizedDescription": "XeniOS is an experimental Apple-focused fork of Xenia, currently based on Xenia Edge. It exists as a fast-moving place to develop, test, and ship iOS and macOS work while also carrying platform changes that benefit ARM64 Windows, Linux, and Android. Relevant improvements are intended to flow back upstream over time.\n\nCurrent Focus:\n\n• macOS (Apple Silicon).\n• macOS (Intel).\n\nCurrent published releases focus on iOS and macOS. For Windows or Linux builds, use Xenia Edge or Xenia Canary.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.xenios.jp.png",
+   "tintColor": "#91733b",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.1",
+     "date": "2026-11-08T02:49:21Z",
+     "localizedDescription": "Fixes on top of 2.3.0.\n\nRequires iOS / iPadOS 26 or later. A Mac build for Apple Silicon (macOS 15 or later) is attached as well.\n\nFixes:\n\n• When the app runs out of memory while compiling game code, it now says so instead of crashing without a message.\n• Fixed the Achievements screen freezing the app on some devices.\n\n• Installing over 2.2 or later keeps your games, saves, settings and shader storage.\n\nBuild details:\n\n• Stage: stable.\n• Version: 2.3.1.\n• Build number: 11662.\n• Commit: cf7c7ee45.\n• Published at: 2026-11-08T02:09:12Z.\n• Source ref: refs/heads/xenios.",
+     "downloadURL": "https://github.com/xenios-jp/XeniOS/releases/download/release-v2.3.1-build-11662/xenios_ios_iphone_ipad.ipa",
+     "size": 49156698
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "The camera scans the QR code on your new device so it can sign in to your account.",
+     "NSFaceIDUsageDescription": "Face ID confirms it’s you before another device signs in to your account.",
+     "NSLocalNetworkUsageDescription": "System Link uses your local network to play with other devices running XeniOS or Xenia, and with an XLink Kai engine on your network.",
+     "NSMicrophoneUsageDescription": "Voice chat in games uses your microphone, like a headset on the first controller.",
+     "NSMotionUsageDescription": "Head tracking adjusts spatial audio to your head movement when using the PHASE audio backend with supported headphones."
+    }
+   }
+  }
+ ]
+}

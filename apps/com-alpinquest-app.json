@@ -1,0 +1,37 @@
+{
+ "name": "Alpin Quests",
+ "identifier": "dev.perapp.com-alpinquest-app",
+ "subtitle": "@ipa_dark | 🔄 Alpin Quest PRO - Outdoor GPS - appstore  🇷🇺 GPS-навигация для активного отдыха на природе с офлайн-картам",
+ "description": "Single-app source for Alpin Quests (com.alpinquest.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1719.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.alpinquest.app",
+   "name": "Alpin Quests",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Alpin Quest PRO - Outdoor GPS - appstore  🇷🇺 GPS-навигация для активного отдыха на природе с офлайн-картами, отслеживанием маршрутов, на",
+   "localizedDescription": "@ipa_dark | 🔄 Alpin Quest PRO - Outdoor GPS - appstore  🇷🇺 GPS-навигация для активного отдыха на природе с офлайн-картами, отслеживанием маршрутов, на\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1719.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.0.50",
+     "date": "2026-09-28T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Alpin Quest PRO - Outdoor GPS - appstore  🇷🇺 GPS-навигация для активного отдыха на природе с офлайн-картами, отслеживанием маршрутов, на",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1766-Alpin%20Quest%20PRO%20-%20Outdoor%20GPS%20%5Bv10.0.50+1800%5D%28tg@ipa_dark%29.ipa",
+     "size": 19234669
+    },
+    {
+     "version": "9.0.36",
+     "date": "2026-09-15T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Alpin Quest PRO - Outdoor GPS - appstore  🇷🇺 GPS-навигация для активного отдыха на природе с офлайн-картами, отслеживанием маршрутов, на",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1719-Alpin%20Quest%20PRO%20-%20Outdoor%20GPS%20%5Bv9.0.36%5D%28tg@ipa_dark%29.ipa",
+     "size": 18143354
+    }
+   ]
+  }
+ ]
+}

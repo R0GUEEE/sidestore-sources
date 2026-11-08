@@ -1,0 +1,40 @@
+{
+ "name": "Keka",
+ "identifier": "dev.perapp.com-aone-keka-ios",
+ "subtitle": "The file archiver",
+ "description": "Single-app source for Keka (com.aone.Keka-iOS). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#aa6645",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aone.Keka-iOS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aone.Keka-iOS",
+   "name": "Keka",
+   "developerName": "RipeStore",
+   "subtitle": "The file archiver",
+   "localizedDescription": "Keka is a full featured file archiver, as easy as it can be.\n\nWith Keka you can compress as many files as you want in a bunch of formats. You can also encrypt them to store and share securely and with privacy.\n\nKeka can also browse and extract lots of compressed files, from ZIP and 7Z to RAR archives. Whether they are encrypted or encoded in with old charsets this is not a problem for Keka.\n\nCompression formats supported: 7Z, ZIP, TAR, ZSTD, GZIP, BZIP2 and AppleArchive (AAR).\n\nExtraction formats supported: 7Z, ZIP, RAR, TAR, GZIP, BZIP2, AAR, XZ, ZSTD, ISO, LZMA, EXE, CAB, MSI, PAX, JAR, APK, APPX, XPI, IPA, CPGZ, CPIO, XIP, CPT and many more.\n\nTerms of Use: https://www.keka.io/termsofuse",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aone.Keka-iOS.png",
+   "tintColor": "#aa6645",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/RipeStore/Keka@main/screenshots/screenshot_01.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/Keka@main/screenshots/screenshot_02.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/Keka@main/screenshots/screenshot_03.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/Keka@main/screenshots/screenshot_04.webp",
+    "https://cdn.jsdelivr.net/gh/RipeStore/Keka@main/screenshots/screenshot_05.webp"
+   ],
+   "versions": [
+    {
+     "version": "1.6.8",
+     "date": "2026-10-22T06:08:16Z",
+     "localizedDescription": "• Fully compatible with Duo.\n• This version needs iOS 18 or newer.\n• Fixed verification file access (Thanks to Alrosa-lucas).\n• Refined all Keka icons.\n• Using new mono icons for Clear and Tinted theme modes.\n• Czech translation updated (Thanks to @ferben) #1773.\n\n• File Picker Fix.",
+     "downloadURL": "https://github.com/RipeStore/Keka/releases/download/v1.6.8/com.aone.Keka-iOS_1.6.8.ipa",
+     "size": 21276636
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

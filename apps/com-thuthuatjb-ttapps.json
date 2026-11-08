@@ -1,0 +1,30 @@
+{
+ "name": "TTStore - TrollStore",
+ "identifier": "dev.perapp.com-thuthuatjb-ttapps",
+ "subtitle": "v2.3: Sửa lỗi không hiển thị trò chơi khi mở ứng dụng. Thêm nhắc nhở nếu ứng dụng không được cài qua TrollStore hoặc lỗi",
+ "description": "Single-app source for TTStore - TrollStore (com.thuthuatjb.ttapps). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thuthuatjb.ttapps",
+   "name": "TTStore - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "v2.3: Sửa lỗi không hiển thị trò chơi khi mở ứng dụng. Thêm nhắc nhở nếu ứng dụng không được cài qua TrollStore hoặc lỗi. Thay đổi nhỏ về cách hiển…",
+   "localizedDescription": "v2.3: Sửa lỗi không hiển thị trò chơi khi mở ứng dụng.\nThêm nhắc nhở nếu ứng dụng không được cài qua TrollStore hoặc lỗi.\nThay đổi nhỏ về cách hiển thị thông tin các ứng dụng, trò chơi.\nTTStore là ứng dụng giúp tải và cài đặt các ứng dụng, trò chơi từ TTJB IPA Repo, yêu cầu cài đặt với TrollStore để sử dụng - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/img/logo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "v2.3: Sửa lỗi không hiển thị trò chơi khi mở ứng dụng. Thêm nhắc nhở nếu ứng dụng không được cài qua TrollStore hoặc lỗi. Thay đổi nhỏ về cách hiển…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/TTApps/releases/download/2.3/TTStore_2.3.tipa",
+     "size": 4223338
+    }
+   ]
+  }
+ ]
+}

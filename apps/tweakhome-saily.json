@@ -1,0 +1,30 @@
+{
+ "name": "Saily",
+ "identifier": "dev.perapp.tweakhome-saily",
+ "subtitle": "ipaomtk.com | Saily IPA Package Manager is a revolutionary application for iPhone and iPad‍ users that brings a whole​ n",
+ "description": "Single-app source for Saily (tweakhome.Saily). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Saily-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "tweakhome.Saily",
+   "name": "Saily",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Saily IPA Package Manager is a revolutionary application for iPhone and iPad‍ users that brings a whole​ new level ‍of customization and",
+   "localizedDescription": "ipaomtk.com | Saily IPA Package Manager is a revolutionary application for iPhone and iPad‍ users that brings a whole​ new level ‍of customization and",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Saily-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Saily IPA Package Manager is a revolutionary application for iPhone and iPad‍ users that brings a whole​ new level ‍of customization and",
+     "downloadURL": "https://file.ipaomtk.com/ipa/saily.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

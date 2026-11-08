@@ -1,0 +1,37 @@
+{
+ "name": "FarOut",
+ "identifier": "dev.perapp.com-guthookhikes-athiker",
+ "subtitle": "FarOut",
+ "description": "Single-app source for FarOut (com.guthookhikes.ATHiker). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/c02395aa-4798-4cc6-a90c-6c4ba9be55e8/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.guthookhikes.ATHiker",
+   "name": "FarOut",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: FarOut Guides\n\nTweak: Unlimited Unlocked\n\nVersion: 14.0.4\n\nNotes: sign in then restart app to unlock unlimited\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/c02395aa-4798-4cc6-a90c-6c4ba9be55e8/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.4",
+     "date": "2026-07-30T00:00:00Z",
+     "localizedDescription": "Unlimited Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2296",
+     "size": 130423648
+    },
+    {
+     "version": "14.0.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: FarOut Guides\n\nTweak: Unlimited Unlocked\n\nVersion: 14.0.4\n\nNotes: sign in then restart app to unlock unlimited\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4692e7ed-8b6a-4bb3-9459-46312ade7824/FarOut_Guides-v14.0.4-riftysipas.ipa",
+     "size": 123152119
+    }
+   ]
+  }
+ ]
+}

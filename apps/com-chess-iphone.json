@@ -1,0 +1,30 @@
+{
+ "name": "Chess",
+ "identifier": "dev.perapp.com-chess-iphone",
+ "subtitle": "@compiledipas | Chess Assistant v2.2 by @itzzace0  Features: • Chess.com calculator move analysis with accuracy + move g",
+ "description": "Single-app source for Chess (com.chess.iphone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1323.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chess.iphone",
+   "name": "Chess",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | Chess Assistant v2.2 by @itzzace0  Features: • Chess.com calculator move analysis with accuracy + move grades  • Adjustable (ELO) • Cu",
+   "localizedDescription": "@compiledipas | Chess Assistant v2.2 by @itzzace0  Features: • Chess.com calculator move analysis with accuracy + move grades  • Adjustable (ELO) • Cu",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1323.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.10.22",
+     "date": "2026-08-06T00:00:00Z",
+     "localizedDescription": "@compiledipas | Chess Assistant v2.2 by @itzzace0  Features: • Chess.com calculator move analysis with accuracy + move grades  • Adjustable (ELO) • Cu",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1323-Chess.com_4.10.22_itzzace.ipa",
+     "size": 235171783
+    }
+   ]
+  }
+ ]
+}

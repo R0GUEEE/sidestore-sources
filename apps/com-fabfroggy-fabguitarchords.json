@@ -1,0 +1,30 @@
+{
+ "name": "FABULUS",
+ "identifier": "dev.perapp.com-fabfroggy-fabguitarchords",
+ "subtitle": "ipaomtk.com | The Guitar Chord Finder FABULUS IPA v6.6.11 for iOS is a must-have tool for both novice and experienced gu",
+ "description": "Single-app source for FABULUS (com.fabfroggy.FabGuitarChords). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/FABULUS-Reverse-chord-finder.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fabfroggy.FabGuitarChords",
+   "name": "FABULUS",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Guitar Chord Finder FABULUS IPA v6.6.11 for iOS is a must-have tool for both novice and experienced guitarists looking to expand the",
+   "localizedDescription": "ipaomtk.com | The Guitar Chord Finder FABULUS IPA v6.6.11 for iOS is a must-have tool for both novice and experienced guitarists looking to expand the",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/FABULUS-Reverse-chord-finder.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.6.11",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Guitar Chord Finder FABULUS IPA v6.6.11 for iOS is a must-have tool for both novice and experienced guitarists looking to expand the",
+     "downloadURL": "https://file.ipaomtk.com/ipa/FABULUS_Reverse_chord_finder-v6.5.3-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "AppIndex",
+ "identifier": "dev.perapp.com-serena-appindex",
+ "subtitle": "This app is TrollStore-only. An applications manager for iPhones! Allows viewing and copying a variety of app details, i",
+ "description": "Single-app source for AppIndex (com.serena.AppIndex). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.serena.AppIndex.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.serena.AppIndex",
+   "name": "AppIndex",
+   "developerName": "SerenaKit",
+   "subtitle": "This app is TrollStore-only. An applications manager for iPhones! Allows viewing and copying a variety of app details, including entitlements, entitle",
+   "localizedDescription": "This app is TrollStore-only. An applications manager for iPhones! Allows viewing and copying a variety of app details, including entitlements, entitle",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.serena.AppIndex.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "This app is TrollStore-only. An applications manager for iPhones! Allows viewing and copying a variety of app details, including entitlements, entitle",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-04-2023/AppIndex-1.0.ipa",
+     "size": 871661
+    }
+   ]
+  }
+ ]
+}

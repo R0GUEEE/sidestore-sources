@@ -1,0 +1,44 @@
+{
+ "name": "TinyDecisions",
+ "identifier": "dev.perapp.com-nixwang-decision",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for TinyDecisions (com.nixwang.decision). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nixwang.decision",
+   "name": "TinyDecisions",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.nixwang.decision.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.13.1",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@blatants | Tiny Decisions: Spin Wheel  • Bundle ID: com.nixwang.decision • Updated to: 26.13.1 • Minimum iOS: 17.0 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13265-Tiny_Decisions_Spin_Wheel_v26_13_1_Subscription_Unlocked_blatant.ipa",
+     "size": 87521397
+    },
+    {
+     "version": "26.13",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Tiny Decisions: Spin Wheel  • Bundle ID: com.nixwang.decision • Updated to: 26.13 • Minimum iOS: 17.0 • Patched • Modifier: Subscription U",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13246-Tiny_Decisions_Spin_Wheel_v26_13_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 107926321
+    },
+    {
+     "version": "26.12",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@blatants | Tiny Decisions: Spin Wheel  • Bundle ID: com.nixwang.decision • Updated to: 26.12 • Minimum iOS: 17.0 • Patched • Modifier: Subscription U",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13077-Tiny_Decisions_Spin_Wheel_v26_12_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 107849277
+    }
+   ]
+  }
+ ]
+}

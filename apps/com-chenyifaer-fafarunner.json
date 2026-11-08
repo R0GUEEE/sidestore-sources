@@ -1,0 +1,30 @@
+{
+ "name": "FaFa Runner",
+ "identifier": "dev.perapp.com-chenyifaer-fafarunner",
+ "subtitle": "FaFa Runner:  NOTE: This project is developed based on Darkness Dungeon.",
+ "description": "Single-app source for FaFa Runner (com.chenyifaer.fafarunner). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chenyifaer.fafarunner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chenyifaer.fafarunner",
+   "name": "FaFa Runner",
+   "developerName": "fafarunner",
+   "subtitle": "FaFa Runner:  NOTE: This project is developed based on Darkness Dungeon.",
+   "localizedDescription": "FaFa Runner:  NOTE: This project is developed based on Darkness Dungeon.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.chenyifaer.fafarunner.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.2",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "FaFa Runner:  NOTE: This project is developed based on Darkness Dungeon.",
+     "downloadURL": "https://github.com/fafarunner/fafarunner/releases/download/v3.2.2.397/FaFaRunner-3.2.2.397.ipa",
+     "size": 29610581
+    }
+   ]
+  }
+ ]
+}

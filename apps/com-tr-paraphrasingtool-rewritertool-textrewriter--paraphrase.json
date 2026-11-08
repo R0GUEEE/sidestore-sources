@@ -1,0 +1,44 @@
+{
+ "name": "Paraphrase",
+ "identifier": "dev.perapp.com-tr-paraphrasingtool-rewritertool-textrewriter",
+ "subtitle": "Paraphrase",
+ "description": "Single-app source for Paraphrase (com.tr.paraphrasingtool.rewritertool.textrewriter). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tr.paraphrasingtool.rewritertool.textrewriter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
+   "name": "Paraphrase",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tr.paraphrasingtool.rewritertool.textrewriter.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2026-08-14T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2184",
+     "size": 17916852
+    },
+    {
+     "version": "1.5.7",
+     "date": "2025-12-31T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-12-2025/Paraphrase_1.5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 35771893
+    },
+    {
+     "version": "1.5.6",
+     "date": "2025-12-16T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Paraphrase_1.5.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 36628510
+    }
+   ]
+  }
+ ]
+}

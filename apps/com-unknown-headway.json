@@ -1,0 +1,37 @@
+{
+ "name": "Headway",
+ "identifier": "dev.perapp.com-unknown-headway",
+ "subtitle": "جميع الميزات مفتوحة ✅",
+ "description": "Single-app source for Headway (com.unknown.headway). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Headway.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.headway",
+   "name": "Headway",
+   "developerName": "Karbin-Store",
+   "subtitle": "جميع الميزات مفتوحة ✅",
+   "localizedDescription": "جميع الميزات مفتوحة ✅",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Headway.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "288.1",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "جميع الميزات مفتوحة ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Headway.ipa",
+     "size": 94910000
+    },
+    {
+     "version": "308.1",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "جميع الميزات مفتوحة ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Headway.ipa",
+     "size": 121608754
+    }
+   ]
+  }
+ ]
+}

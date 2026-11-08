@@ -1,0 +1,30 @@
+{
+ "name": "Speed Test",
+ "identifier": "dev.perapp.com-highspeedinternet-speedtest",
+ "subtitle": "ipaomtk.com | In a world where streaming, video calls, gaming, and cloud work rely on stable internet, knowing the real ",
+ "description": "Single-app source for Speed Test (com.highspeedinternet.speedtest). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/speed-test-highspeedinternet-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.highspeedinternet.speedtest",
+   "name": "Speed Test",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | In a world where streaming, video calls, gaming, and cloud work rely on stable internet, knowing the real performance of your connection",
+   "localizedDescription": "ipaomtk.com | In a world where streaming, video calls, gaming, and cloud work rely on stable internet, knowing the real performance of your connection",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/speed-test-highspeedinternet-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.0",
+     "date": "2025-08-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | In a world where streaming, video calls, gaming, and cloud work rely on stable internet, knowing the real performance of your connection",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Speed-Test_1.6.0-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

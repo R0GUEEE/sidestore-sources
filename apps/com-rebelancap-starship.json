@@ -1,0 +1,41 @@
+{
+ "name": "Starship",
+ "identifier": "dev.perapp.com-rebelancap-starship",
+ "subtitle": "Starship (Star Fox 64) for iPhone & Apple Vision Pro — a native Metal port with a stereoscopic 3D mode on Vision Pro. Br",
+ "description": "Single-app source for Starship (com.rebelancap.starship). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#486abc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.starship.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.starship",
+   "name": "Starship",
+   "developerName": "rebelancap",
+   "subtitle": "Starship (Star Fox 64) for iPhone & Apple Vision Pro — a native Metal port with a stereoscopic 3D mode on Vision Pro. Bring your own ROM",
+   "localizedDescription": "Starship for iPhone & Apple Vision Pro:\n\nPlay Star Fox 64 on your iPhone and Apple Vision Pro — the full campaign across every branching route, with the Starship enhancements menu, game controllers and a tunable touch layout, and on Vision Pro a stereoscopic 3D mode that puts the game on a world-locked panel floating in your room with real depth.\n\nBuilt on Starship (Harbour Masters' native Star Fox 64 port) and libultraship, rendering natively on Metal — no translation layer. 100% vibe coded with lots of passion and attention to detail.\n\nStar Fox 64 on Apple Vision Pro — a resizable window floating in your room, with the on-screen touch layout. The same build also runs in stereoscopic 3D.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.starship.png",
+   "tintColor": "#486abc",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/rebelancap/Starship-ios@main/docs/screenshots/visionos-window.jpg"
+   ],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2026-10-11T16:32:40Z",
+     "localizedDescription": "A fresh install shows the ROM import prompts again instead of a black screen. If you already extracted the game, nothing changes and you do not need to extract again.\n\niPhone & iPad.\n\n• On a new install, the \"please provide a Star Fox 64 ROM\" prompt and the messages after it were invisible, so the app looked stuck on black. Those prompts show again. After you confirm, extraction runs and the game starts when it finishes.\n\nApple Vision Pro.\n\nBring your own ROM; the app extracts it on device.",
+     "downloadURL": "https://github.com/rebelancap/Starship-ios/releases/download/v1.0.3/starship-1.0.3-iOS.ipa",
+     "size": 4120864
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

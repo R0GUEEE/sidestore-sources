@@ -1,0 +1,30 @@
+{
+ "name": "Picturethis",
+ "identifier": "dev.perapp.cn-danatech-xingseus",
+ "subtitle": "Picturethis",
+ "description": "Single-app source for Picturethis (cn.danatech.xingseus). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cn.danatech.xingseus",
+   "name": "Picturethis",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cn.danatech.xingseus.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.0",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Picturethis_5.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 71263284
+    }
+   ]
+  }
+ ]
+}

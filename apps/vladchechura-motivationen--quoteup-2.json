@@ -1,0 +1,44 @@
+{
+ "name": "QuoteUp",
+ "identifier": "dev.perapp.vladchechura-motivationen",
+ "subtitle": "QuoteUp",
+ "description": "Single-app source for QuoteUp (vladchechura.MotivationEN). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/vladchechura.MotivationEN.png",
+ "apps": [
+  {
+   "bundleIdentifier": "vladchechura.MotivationEN",
+   "name": "QuoteUp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/vladchechura.MotivationEN.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.9",
+     "date": "2026-09-15T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2405",
+     "size": 93335696
+    },
+    {
+     "version": "1.5.0",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/QuoteUp_1.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 88372245
+    },
+    {
+     "version": "1.4.8",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: QuoteUp - Daily Motivation\n\nTweak: Premium Unlocked\n\nVersion: 1.4.8\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/dc85b402-23b3-4128-9b70-5c4521fe80be/QuoteUp_-_Daily_Motivation-v1.4.8-riftysipas.ipa",
+     "size": 87650026
+    }
+   ]
+  }
+ ]
+}

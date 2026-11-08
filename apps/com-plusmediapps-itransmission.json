@@ -1,0 +1,36 @@
+{
+ "name": "iTransmission",
+ "identifier": "dev.perapp.com-plusmediapps-itransmission",
+ "subtitle": "Fast and Lightweight Torrent App for iOS",
+ "description": "Single-app source for iTransmission (com.plusmediapps.itransmission). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#d263ac",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.plusmediapps.itransmission.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.plusmediapps.itransmission",
+   "name": "iTransmission",
+   "developerName": "alexsvitlov",
+   "subtitle": "Fast and Lightweight Torrent App for iOS",
+   "localizedDescription": "Info:\n\niTransmission is a new and revamped version of the original app. iTransmission is a fast, easy and Free Bittorrent Client for iOS. This app is powered by the latest Trasnmission library and it will be updated when the awesome Transmission team updates the Transmission lib.\n\nFeatures of the app:\n\n• Open external torrent files via the app.\n\n• Suppots File app and file sharing.\n\n• Dark Mode.\n\nSupports iOS 13 and up.\n\nBuild:\n\nSimply download or clone the project, open XCode and run the app.\n\nRequirements:\n\n• A computer running macOS or Windows.\n• Internet connection.\n• Apple ID (email & password).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.plusmediapps.itransmission.png",
+   "tintColor": "#d263ac",
+   "screenshots": [
+    "https://itransmissiondev.web.app/images/MainAssets/Altstore.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2024-01-12T20:05:56Z",
+     "localizedDescription": "The very first release of iTransmission app for iOS.",
+     "downloadURL": "https://github.com/alexsvitlov/iTransmission/releases/download/1.0.0/iTransmission.ipa",
+     "size": 3718662
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

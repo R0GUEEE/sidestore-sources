@@ -1,0 +1,30 @@
+{
+ "name": "Boxes: Lost Fragments (Hacked)",
+ "identifier": "dev.perapp.com-snapbreak-boxes",
+ "subtitle": "Boxes: Lost Fragments (Hacked) by sidelix",
+ "description": "Single-app source for Boxes: Lost Fragments (Hacked) (com.snapbreak.boxes). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a7998ffa7.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.snapbreak.boxes",
+   "name": "Boxes: Lost Fragments (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Features: \r\n- Free purchases: click buy, then cancel",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a35a7998ffa7.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.52",
+     "date": "2026-06-19T00:00:00Z",
+     "localizedDescription": "Features: \r\n- Free purchases: click buy, then cancel",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2096",
+     "size": 690049116
+    }
+   ]
+  }
+ ]
+}

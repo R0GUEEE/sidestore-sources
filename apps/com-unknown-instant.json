@@ -1,0 +1,30 @@
+{
+ "name": "Instant",
+ "identifier": "dev.perapp.com-unknown-instant",
+ "subtitle": "ئەپڵیکەیشنی دەستکاریکردنی وێنە و ڤیدیۆ",
+ "description": "Single-app source for Instant (com.unknown.instant). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Instant.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.instant",
+   "name": "Instant",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپڵیکەیشنی دەستکاریکردنی وێنە و ڤیدیۆ",
+   "localizedDescription": "ئەپڵیکەیشنی دەستکاریکردنی وێنە و ڤیدیۆ",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-1/Instant.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.217",
+     "date": "2025-01-13T00:00:00Z",
+     "localizedDescription": "ئەپڵیکەیشنی دەستکاریکردنی وێنە و ڤیدیۆ",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-2/Instant.Prompter_1.7.217_3BodSy.ipa",
+     "size": 12990000
+    }
+   ]
+  }
+ ]
+}

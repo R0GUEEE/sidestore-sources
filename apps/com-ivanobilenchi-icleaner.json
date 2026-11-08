@@ -1,0 +1,30 @@
+{
+ "name": "iCleaner Pro",
+ "identifier": "dev.perapp.com-ivanobilenchi-icleaner",
+ "subtitle": "iCleaner Pro",
+ "description": "Single-app source for iCleaner Pro (com.ivanobilenchi.icleaner). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ivanobilenchi.icleaner",
+   "name": "iCleaner Pro",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.10.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/d3e00419-63cc-4afe-9907-c2479096ddf9/iCleaner.ipa",
+     "size": 1416291
+    }
+   ]
+  }
+ ]
+}

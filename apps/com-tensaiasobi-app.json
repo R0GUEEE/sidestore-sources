@@ -1,0 +1,36 @@
+{
+ "name": "tensaiasobi",
+ "identifier": "dev.perapp.com-tensaiasobi-app",
+ "subtitle": "smart, free kids games for on the road",
+ "description": "Single-app source for tensaiasobi (com.tensaiasobi.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#cba554",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tensaiasobi.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tensaiasobi.app",
+   "name": "tensaiasobi",
+   "developerName": "anoff",
+   "subtitle": "smart, free kids games for on the road",
+   "localizedDescription": "tensaiasobi:\n\ngive your kids something to do.\n\nA modern, lightning-fast static web app designed for young children (ages 3-8). This project provides quick, educational, and fun mini-games perfect for short bursts of playtime, like waiting at a restaurant.\n\nLive Demo: [Insert GitHub Pages Link Here].\n\n🎯 Project Goals:\n\n• Instant Load & Performance: Powered by Vite and React for snappy state transitions and rendering.\n• Progress Tracking: Saves game settings and the child's streaks/milestones locally on the device using localStorage.\n• Kid-Friendly UX: Mobile-first, massive tap targets, intuitive interactions, and strictly positive feedback loops (no \"Game Over\" screens).\n• Restaurant-Safe: Muted by default. Relies on visual feedback (confetti, screen flashes, emojis) instead of sound effects.\n\n🛠️ Tech Stack:\n\n• Bundler & Tooling: Vite (Fast, optimized production builds for GitHub Pages).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.tensaiasobi.app.png",
+   "tintColor": "#cba554",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-11-07T23:23:29Z",
+     "localizedDescription": "Unsigned iOS build of master at 917301d. iPhones only run signed apps: install it with SideStore, AltStore or Sideloadly and your own Apple ID, or build and sign it on a Mac with npm run ios:device. See AppStore.md.",
+     "downloadURL": "https://github.com/anoff/tensaiasobi/releases/download/ios-latest/tensaiasobi-unsigned.ipa",
+     "size": 10305607
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "We use Face ID or your device passcode to confirm a grown-up before showing parent settings."
+    }
+   }
+  }
+ ]
+}

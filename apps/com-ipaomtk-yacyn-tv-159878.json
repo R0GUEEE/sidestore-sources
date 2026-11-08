@@ -1,0 +1,37 @@
+{
+ "name": "Yacyn TV",
+ "identifier": "dev.perapp.com-ipaomtk-yacyn-tv-159878",
+ "subtitle": "ipaomtk.com | What is APP or game Yacyn TV IPA? Yacyn TV IPA is an iOS application package designed to bring live TV str",
+ "description": "Single-app source for Yacyn TV (com.ipaomtk.yacyn.tv.159878). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Yacyn-TV-IPA-v1.2-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.yacyn.tv.159878",
+   "name": "Yacyn TV",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is APP or game Yacyn TV IPA? Yacyn TV IPA is an iOS application package designed to bring live TV streaming, IPTV channels, and on-",
+   "localizedDescription": "ipaomtk.com | What is APP or game Yacyn TV IPA? Yacyn TV IPA is an iOS application package designed to bring live TV streaming, IPTV channels, and on-",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Yacyn-TV-IPA-v1.2-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is APP or game Yacyn TV IPA? Yacyn TV IPA is an iOS application package designed to bring live TV streaming, IPTV channels, and on-",
+     "downloadURL": "https://file.ipaomtk.com/yacyn-tv/Yacyn-TV-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.2",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "Tweaks: ADsBlocker, NoAds-AB\n\nipaomtk.com | What is APP or game Yacyn TV IPA? Yacyn TV IPA is an iOS application package designed to bring live TV streaming, IPTV channels, and on-",
+     "downloadURL": "https://file.ipaomtk.com/yacyn-tv/Yacyn-TV-IPAOMTK.COM.ipa",
+     "size": 4655274
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SnapEdit",
+ "identifier": "dev.perapp.com-sfun-snapedit",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for SnapEdit (com.sfun.snapedit). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c8/a2/cfc8a288-19a7-eb47-678b-d8d2dfa2f908/AppIcon-Xmas-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sfun.snapedit",
+   "name": "SnapEdit",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cf/c8/a2/cfc8a288-19a7-eb47-678b-d8d2dfa2f908/AppIcon-Xmas-0-0-1x_U007ephone-0-1-0-85-220.jpeg/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/SnapEdit._5.5.3_TTJB.ipa",
+     "size": 100433056
+    }
+   ]
+  }
+ ]
+}

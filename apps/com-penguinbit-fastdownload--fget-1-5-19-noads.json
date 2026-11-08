@@ -1,0 +1,32 @@
+{
+ "name": "fGet_1.5.19_NoAds",
+ "identifier": "dev.perapp.com-penguinbit-fastdownload",
+ "subtitle": "fGet_1.5.19_NoAds by fGet_1.5.19_NoAds x CyPwn",
+ "description": "Single-app source for fGet_1.5.19_NoAds (com.penguinbit.fastdownload). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/fGet_1.5.19_NoAds.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.penguinbit.fastdownload",
+   "name": "fGet_1.5.19_NoAds",
+   "developerName": "fGet_1.5.19_NoAds x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Fast file downloader/manager",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/fGet_1.5.19_NoAds.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/fGet_1.5.19_NoAds/fGet_1.5.19_NoAds-0.png"
+   ],
+   "versions": [
+    {
+     "version": "1.5.19",
+     "date": "2025-02-25T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/fGet_1.5.19_NoAds.ipa",
+     "size": 14501806
+    }
+   ]
+  }
+ ]
+}

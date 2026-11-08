@@ -1,0 +1,37 @@
+{
+ "name": "FurryEvo",
+ "identifier": "dev.perapp.com-run-monster-era",
+ "subtitle": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for FurryEvo (com.run.monster.era). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.run.monster.era.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.run.monster.era",
+   "name": "FurryEvo",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.run.monster.era.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.2",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-08-2025/FurryEvo_1.6.2_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 129128103
+    },
+    {
+     "version": "2.1.0",
+     "date": "2025-08-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Furry Evo IPA MOD v1.2 is an exhilarating iOS game that brings the concept of evolution and survival to life in a vibrant, interactive w",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Furry_Evo_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

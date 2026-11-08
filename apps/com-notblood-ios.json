@@ -1,0 +1,36 @@
+{
+ "name": "NotBlood",
+ "identifier": "dev.perapp.com-notblood-ios",
+ "subtitle": "NotBlood (Blood source port) with bots, new match types, co-op saves, online lobbies and a live dashboard - Windows, Lin",
+ "description": "Single-app source for NotBlood (com.notblood.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e90000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.notblood.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.notblood.ios",
+   "name": "NotBlood",
+   "developerName": "AdrianPol-projects",
+   "subtitle": "NotBlood (Blood source port) with bots, new match types, co-op saves, online lobbies and a live dashboard - Windows, Linux, macOS, Android and iPad",
+   "localizedDescription": "NotBlood Chosen:\n\nNotBlood (a Blood source port) with bots, new match types, co-op saves, internet play without port forwarding, a live game dashboard, a MODS menu and a LAN game finder, for Windows, Linux (PC and ARM), macOS, Android and iPad. Every player in a network game needs the same version; all platforms of one version play together.\n\nDownloads.\n\n• Web browsers (iPad, phones, computers, no install): every NotBlood server serves it at /play/ (how it works).\n\nUnzip, copy your Blood files (One Unit Whole Blood: CD, GOG or Steam) next to the game and start it. The README in each download explains the rest.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.notblood.ios.png",
+   "tintColor": "#e90000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3",
+     "date": "2026-11-06T20:40:28Z",
+     "localizedDescription": "NotBlood Chosen 1.3:\n\nNotBlood Chosen is NotBlood (the Blood source port) with computer players (bots), new match types, co-op saves, internet play without port forwarding, a live game dashboard, a MODS menu and a LAN game finder. It runs on Windows, Linux, macOS, Android and iPad/iPhone, and all of them play together.\n\nYou need your own Blood files (One Unit Whole Blood: CD, GOG or Steam). The game files are not included.\n\nDownloads:\n\nNo install at all: if you or a friend runs a NotBlood server, open its address followed by /play/ in Safari, Chrome, Edge or Firefox. Pick your Blood files once, add it to the home screen and it works offline, with everything below except LAN games (more).\n\nEverybody in a network game needs 1.3. Older versions can't join a 1.3 game, and 1.3 can't join theirs.\n\nSetup:\n\nWindows / Linux.\n\n• Unzip into a folder of its own, for example NotBlood.\n• Copy your Blood files next to the game: BLOOD.INI, BLOOD.RFF, GUI.RFF, SOUNDS.RFF, SURFACE.DAT, TABLES.DAT, VOXEL.DAT and TILES000.ART to TILES017.ART.\n• Start notblood.exe (Windows) or ./notblood (Linux; nothing else to install, it works under X11 and Wayland).\n\nmacOS.\n\n• Copy your Blood files into the folder, next to NotBlood.app.\n• The app isn't signed by Apple, so macOS blocks it the first time. Open Terminal and type xattr -dr com.apple.quarantine with a space at the end. Drag the NotBlood folder onto the Terminal window and press Return.\n• Double-click NotBlood.app.\n\nAndroid.\n\n• Install the APK and start it once. Allow it \"access to all files\".\n\n• 1.3 installs over NotBlood Chosen 1.0, 1.2 and over the bots test builds, and keeps your files and settings.\n\niPad / iPhone.\n\n• Sign and install the IPA with Signulous, Sideloadly or AltStore, and start it once.\n• Copy your Blood files to Files > On My iPad > NotBlood.\n\nOptional extras (all platforms, in the game folder).\n\n• movie/: the cutscenes from the Blood CD's MOVIE folder.\n• addons/: add-on episodes, one folder each (for example Cryptic Passage in addons/cryptic).\n• mods/: mods as folders, .zip, .grp or .pk3 files. Pick them in the main menu under MODS.\n• CD music: save the CD audio tracks as blood02.ogg, blood03.ogg, and so on, then turn on OPTIONS > SOUND > REDBOOK AUDIO.\n\nWhat NotBlood Chosen adds to NotBlood:\n\nBots (new in 1.2).\n\n• Computer players that play like people. They hide, jump, chase, flee, ambush you at doorways, flank, take the high ground, ride lifts and open doors. They only know what a player could know: what they see and hear, and where they last saw you.\n• 4 difficulties (easy, normal, hard, nightmare) and 6 personalities (balanced, rusher, camper, trickster, coward, jumper), or a mix of them.\n• FINE TUNING for all bots: aim, reaction time, aggression, jumping, ambushes, flanking, camping, high ground, taunts, the cultist look, and how much damage they take. GRUDGES and ADAPTIVE DIFFICULTY are optional.\n• SET EACH BOT (new in 1.2): give each bot its own name, difficulty, personality, team, damage and fine tuning.\n• Offline: MULTIPLAYER > PLAY WITH BOTS, plus a 10-match CAREER and WATCH BOTS (only bots play while you watch).\n• In LAN and online games (new in 1.2): the host adds bots in the MULTIPLAYER setup under BOTS. The host's computer plays them, so everybody sees the same bots.\n• BOT ORDERS (ESC): follow me, hold this spot, go ahead. These are for the bots on your side in co-op and teams.\n\nMatch types and mutators.\n\n• Bloodbath: normal, gun game, king of the hill, juggernaut, last man standing, hide and seek (new in 1.3).\n• Teams (new in 1.2: all four modes): team bloodbath, capture the flag, king of the hill, last team standing.\n• Co-op: normal, survival (waves of monsters).\n• SET TEAMS (new in 1.2): put every player and bot on AUTO, BLUE or RED. Uneven teams are allowed.\n• Mutators: low or moon gravity, vampire, one-hit kills, random or single weapon; new in 1.3: tiny or big players, TNT barrels everywhere, akimbo everything.\n• MATCH RULES (new in 1.3): rounds, a vote for th",
+     "downloadURL": "https://github.com/AdrianPol-projects/NotBlood-Chosen/releases/download/v1.3/NotBlood-Chosen-1.3-ios.ipa",
+     "size": 16829680
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "NotBlood uses your local network to host and join LAN multiplayer games with other NotBlood players."
+    }
+   }
+  }
+ ]
+}

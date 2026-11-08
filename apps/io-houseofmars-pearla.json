@@ -1,0 +1,30 @@
+{
+ "name": "Pearla",
+ "identifier": "dev.perapp.io-houseofmars-pearla",
+ "subtitle": "Pearla",
+ "description": "Single-app source for Pearla (io.houseofmars.Pearla). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.houseofmars.Pearla.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.houseofmars.Pearla",
+   "name": "Pearla",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.houseofmars.Pearla.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.1.0",
+     "date": "2025-08-12T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2025/Pearla_3.1.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 292188195
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "CarX Street - Thinhk",
+ "identifier": "dev.perapp.com-carxtech-sr",
+ "subtitle": "CarX Street - Thinhk by Karbin-Store",
+ "description": "Single-app source for CarX Street - Thinhk (com.carxtech.sr). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/CarX.Street.-.Thinhkk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.carxtech.sr",
+   "name": "CarX Street - Thinhk",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Active Premium",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/CarX.Street.-.Thinhkk.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.1",
+     "date": "2025-01-10T00:00:00Z",
+     "localizedDescription": "Active Premium",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-fife/CarX.Street.-.Thinhkk.-.DVC.IPA.ipa",
+     "size": 1620530000
+    }
+   ]
+  }
+ ]
+}

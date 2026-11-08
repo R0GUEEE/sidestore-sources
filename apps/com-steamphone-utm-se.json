@@ -1,0 +1,40 @@
+{
+ "name": "SteamPhone",
+ "identifier": "dev.perapp.com-steamphone-utm-se",
+ "subtitle": "SteamPhone v2 - DroidDeck iOS port with the SPGB QEMU-to-Metal GPU bridge (GPL-3.0)",
+ "description": "Single-app source for SteamPhone (com.steamphone.UTM-SE). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3b71a8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.steamphone.UTM-SE.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.steamphone.UTM-SE",
+   "name": "SteamPhone",
+   "developerName": "zaya11092-gif",
+   "subtitle": "SteamPhone v2 - DroidDeck iOS port with the SPGB QEMU-to-Metal GPU bridge (GPL-3.0)",
+   "localizedDescription": "SteamPhone (steamphone-v2):\n\nSteamOS-style gaming on iPhone — v2 of the DroidDeck iOS port, adding the SteamPhone GPU Bridge (SPGB): a real QEMU→Metal translation layer for the local virtual machine, with an on-device harness proving the Metal side executes the protocol.\n\nUnofficial, GPL-3.0, not affiliated with Valve or Droid-Deck. v1 lineage: this repo carries the full v1 history (custom launcher, guest image builder, Moonlight streaming skeleton, CI) and rebrands the user-facing app to SteamPhone (com.steamphone.*), version 0.2.0.\n\niOS apps may only touch the GPU through Metal. v1's local VM was software-rendered for that reason. v2 introduces the translation pipeline with explicit gates (full audit in gpu-rd/G0-audit.md):\n\nBecause UTM's engine runs QEMU inside the app process, the boundary is a plain C call — no IPC, no shared memory, no kernel interfaces.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.steamphone.UTM-SE.png",
+   "tintColor": "#3b71a8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.5.5",
+     "date": "2026-10-04T16:51:04Z",
+     "localizedDescription": "SteamPhone v0.5.5:\n\nNew app logo (original artwork, Deck-circle inspired: gradient ring, handheld silhouette with d-pad, screen and buttons) plus a fix for the SteamPhoneOS download failure reported from the field.\n\nFixed:\n\n• Guest image build: corrected the network-manager package name (first image build failed on this).\n\nSHA-256:\n\nNote: the guest image itself (SteamPhoneOS-arm64.qcow2) is still being brought up — until it is attached here, use Import image from Files in the app with a Linux ARM64 ISO/image, or wait for the image pipeline to publish it. Streaming mode (Sunshine on your PC) works today.\n\nFull docs: https://github.com/zaya11092-gif/steamphone-v2#readme",
+     "downloadURL": "https://github.com/zaya11092-gif/steamphone-v2/releases/download/v0.5.5/SteamPhone-SE.ipa",
+     "size": 234724583
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.developer.kernel.extended-virtual-addressing",
+     "com.apple.developer.kernel.increased-memory-limit"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "DroidDeck uses the local network to discover GameStream hosts for streaming and to let the virtual machine access the network.",
+     "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
+    }
+   }
+  }
+ ]
+}

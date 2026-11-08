@@ -1,0 +1,30 @@
+{
+ "name": "Netflix Free",
+ "identifier": "dev.perapp.synthetic-netflix-free-9482fdff",
+ "subtitle": "Netflix Free",
+ "description": "Single-app source for Netflix Free (synthetic.netflix-free.9482fdff). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://ittza7aa.com/aseets/icon/netflix.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.netflix-free.9482fdff",
+   "name": "Netflix Free",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Pro Unlocked",
+   "iconURL": "https://ittza7aa.com/aseets/icon/netflix.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "Last",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://github.com/ehmedjamil/repo/releases/download/repo/netflix.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

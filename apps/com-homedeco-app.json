@@ -1,0 +1,30 @@
+{
+ "name": "Deko",
+ "identifier": "dev.perapp.com-homedeco-app",
+ "subtitle": "ipaomtk.com | Introduction Deko AI Home Design & Remodel is an advanced iOS application created for homeowners, designer",
+ "description": "Single-app source for Deko (com.homedeco.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Deko-AI-Home-Design-038-Remodel-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.homedeco.app",
+   "name": "Deko",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Deko AI Home Design & Remodel is an advanced iOS application created for homeowners, designers, and renovation enthusiasts ",
+   "localizedDescription": "ipaomtk.com | Introduction Deko AI Home Design & Remodel is an advanced iOS application created for homeowners, designers, and renovation enthusiasts ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/Deko-AI-Home-Design-038-Remodel-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.0",
+     "date": "2025-05-27T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Deko AI Home Design & Remodel is an advanced iOS application created for homeowners, designers, and renovation enthusiasts ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/deko-ai-home-design-remodel-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

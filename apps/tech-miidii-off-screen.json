@@ -1,0 +1,44 @@
+{
+ "name": "OffScreen",
+ "identifier": "dev.perapp.tech-miidii-off-screen",
+ "subtitle": "ipaomtk.com | Introduction In today’s digital world, managing screen time has become a major challenge. With smartphones",
+ "description": "Single-app source for OffScreen (tech.miidii.off-screen). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-26-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "tech.miidii.off-screen",
+   "name": "OffScreen",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction In today’s digital world, managing screen time has become a major challenge. With smartphones and apps taking up more hours",
+   "localizedDescription": "ipaomtk.com | Introduction In today’s digital world, managing screen time has become a major challenge. With smartphones and apps taking up more hours",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/512x512bb-26-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.22.5",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | OffScreen: Screen Time Control  Tweak: Subscription Unlocked  Version: 3.22.5  Notes: Some features require trollstore/jailbreak  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8766-OffScreen:%20Screen%20Time%20Control-v3.22.5-riftysipas.ipa",
+     "size": 64637037
+    },
+    {
+     "version": "3.22.4",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | OffScreen: Screen Time Control  Tweak: Subscription Unlocked  Version: 3.22.4  Notes: Some features require trollstore/jailbreak  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8723-OffScreen:%20Screen%20Time%20Control-v3.22.4-riftysipas.ipa",
+     "size": 64797172
+    },
+    {
+     "version": "3.22.3",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | OffScreen: Screen Time Control  Tweak: Subscription Unlocked  Version: 3.22.3  Notes: Some features require trollstore/jailbreak  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8703-OffScreen:%20Screen%20Time%20Control-v3.22.3-riftysipas.ipa",
+     "size": 64797335
+    }
+   ]
+  }
+ ]
+}

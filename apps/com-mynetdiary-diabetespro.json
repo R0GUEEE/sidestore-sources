@@ -1,0 +1,30 @@
+{
+ "name": "MyNetDiary",
+ "identifier": "dev.perapp.com-mynetdiary-diabetespro",
+ "subtitle": "ipaomtk.com | Introduction Diabetes Tracker by MyNetDiary IPA is a health-focused iOS application designed to support pe",
+ "description": "Single-app source for MyNetDiary (com.mynetdiary.diabetespro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-08-4.07.12%E2%80%AFAM-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mynetdiary.diabetespro",
+   "name": "MyNetDiary",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Diabetes Tracker by MyNetDiary IPA is a health-focused iOS application designed to support people who want better control o",
+   "localizedDescription": "ipaomtk.com | Introduction Diabetes Tracker by MyNetDiary IPA is a health-focused iOS application designed to support people who want better control o",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/2024-10-08-4.07.12%E2%80%AFAM-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.35",
+     "date": "2024-10-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Diabetes Tracker by MyNetDiary IPA is a health-focused iOS application designed to support people who want better control o",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Diabetes_Tracker_by_MyNetDiary-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

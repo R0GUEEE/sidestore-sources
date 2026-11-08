@@ -1,0 +1,46 @@
+{
+ "name": "Henge",
+ "identifier": "dev.perapp.com-henge-app",
+ "subtitle": "macOS on your iPhone and iPad.",
+ "description": "Single-app source for Henge (com.henge.app). Converted from itslevii.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#2E6BFF",
+ "iconURL": "https://raw.githubusercontent.com/Leviidev/Henge/main/docs/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.henge.app",
+   "name": "Henge",
+   "developerName": "Leviidev",
+   "subtitle": "macOS on your iPhone and iPad.",
+   "localizedDescription": "Henge runs macOS on iPhone and iPad with its own emulator. It downloads Apple's restore image and installs macOS right on the device, no Mac needed. Safari and Discord run, and the clipboard and a shared folder work between macOS and the device. It's emulation, so it runs slower than a real Mac. Henge needs JIT (StikDebug, its built-in StikJIT on iOS 26 or later, TrollStore or a jailbreak), iOS 17 or later, an A14 or M1 chip or newer, and about 43 GB free. iPad support is new and hasn't run on a real iPad yet.",
+   "iconURL": "https://raw.githubusercontent.com/Leviidev/Henge/main/docs/icon.png",
+   "tintColor": "#2E6BFF",
+   "screenshots": [
+    "https://raw.githubusercontent.com/Leviidev/Henge/main/Screenshots/macs.png",
+    "https://raw.githubusercontent.com/Leviidev/Henge/main/Screenshots/trackpad.png",
+    "https://raw.githubusercontent.com/Leviidev/Henge/main/Screenshots/install.png",
+    "https://raw.githubusercontent.com/Leviidev/Henge/main/Screenshots/ipad.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.1",
+     "date": "2026-11-06T13:28:11Z",
+     "localizedDescription": "## What's new?\nThe first release of Henge: macOS on your iPhone and iPad, installed right on the device with no Mac needed.\n\n## Confirmed Working\nmacOS Sequoia 15.6.1 - installs and boots on an iPhone 17 Pro, lock screen in about 15 seconds\nSafari\nDiscord - install, log in, send messages\nClipboard and file sharing between the iPhone and macOS\n\niPad support is new and hasn't run on a real iPad yet.\n\n## Installation\nSideload Henge.ipa with SideStore or AltStore, or install Henge.tipa with TrollStore or TrollStore Lite. Enable JIT, open the Install tab and install macOS. Needs iOS 17 or later, an A14 or M1 chip or newer, and about 43 GB free.\n\n## Issues\nIf any bugs / issues occur, report it to the GitHub or in my Discord Server.\n\nLinks:\nDiscord Server: https://itslevii.dev/discord\nEmail: hello@itslevii.dev\n",
+     "downloadURL": "https://github.com/Leviidev/Henge/releases/download/0.1/Henge.ipa",
+     "size": 8761298
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "get-task-allow",
+     "dynamic-codesigning",
+     "com.apple.developer.kernel.increased-memory-limit",
+     "com.apple.developer.kernel.extended-virtual-addressing"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Henge uses the local network to pair with this iPhone for JIT, without a computer."
+    }
+   }
+  }
+ ]
+}

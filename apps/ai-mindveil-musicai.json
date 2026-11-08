@@ -1,0 +1,37 @@
+{
+ "name": "SonivaMusic",
+ "identifier": "dev.perapp.ai-mindveil-musicai",
+ "subtitle": "Injected with Satella",
+ "description": "Single-app source for SonivaMusic (ai.mindveil.musicai). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.mindveil.musicai",
+   "name": "SonivaMusic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Satella",
+   "localizedDescription": "Injected with Satella",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Satella",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/SonivaMusic_1.7.4_Satella_@thisismanpreets_apptesters.org.ipa",
+     "size": 28178086
+    },
+    {
+     "version": "1.30",
+     "date": "2025-05-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Soniva Music IPA, ⁢an AI-powered song maker app ​designed specifically for iOS users, merging artistry and technology in an unprecedente",
+     "downloadURL": "https://file.ipaomtk.com/AI%20Song%20Maker/AI-Song-Maker-Soniva-Music-IPAOMTK.com.ipa",
+     "size": 73970329
+    }
+   ]
+  }
+ ]
+}

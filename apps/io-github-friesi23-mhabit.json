@@ -1,0 +1,40 @@
+{
+ "name": "Table Habit",
+ "identifier": "dev.perapp.io-github-friesi23-mhabit",
+ "subtitle": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and supp",
+ "description": "Single-app source for Table Habit (io.github.friesi23.mhabit). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1a76d1",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.friesi23.mhabit.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.friesi23.mhabit",
+   "name": "Table Habit",
+   "developerName": "FriesI23",
+   "subtitle": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux",
+   "localizedDescription": "Table Habit is a free and open-source habit tracker that helps you build micro habits with a unique scoring system, rich growth charts, and cross-device WebDAV sync. Available on Android, iOS, macOS, Windows, and Linux — no ads, no account required. See the translation badge above for supported languages. Licensed under Apache 2.0.\n\nWhy Table Habit?:\n\n• 📊 Smart Scoring — Not Just Streaks Quantifies your consistency beyond daily check-ins. Growth curves show your long-term progress with separate scoring models for \"do\" and \"don't\" habits.\n• 🔄 WebDAV Sync — Own Your Data Sync seamlessly across devices via Nextcloud, Koofr, or self-hosted servers. Zero vendor lock-in and complete data privacy — your habit data always stays yours.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.friesi23.mhabit.png",
+   "tintColor": "#1a76d1",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/FriesI23/mhabit@main/docs/README/images/feature-sync-settings.png",
+    "https://cdn.jsdelivr.net/gh/FriesI23/mhabit@main/docs/README/images/feature-customization-01.png",
+    "https://cdn.jsdelivr.net/gh/FriesI23/mhabit@main/docs/README/images/feature-customization-02.png",
+    "https://cdn.jsdelivr.net/gh/FriesI23/mhabit@main/docs/README/images/feature-offline-empty.png",
+    "https://cdn.jsdelivr.net/gh/FriesI23/mhabit@main/docs/README/images/feature-edit-habit.png"
+   ],
+   "versions": [
+    {
+     "version": "1.27.18",
+     "date": "2026-11-02T00:45:29Z",
+     "localizedDescription": "Released: v1.27.18+207:\n\nTable Habit now supports iOS Home Screen widgets! Thanks to @IlyaPalochkin for contributing the initial interactive widgets (#680).\n\n✨ Features:\n\n• Add interactive Home Screen widgets for iOS 17+, with seven-day progress and check-in, undo and refresh actions without opening the app (#680).\n• Choose automatic or fixed habits, including archived habits; fixed habits appear first. Small, medium and large widgets show up to one, three and six habits respectively (#687).\n• Keep automatic check-ins visible until tapping Next to show another habit; widgets on the same device share check-in and Next updates. Fixed habits stay visible with Undo. Show a completion message when all goals are complete, or No pending habits when incomplete or skipped goals leave no rows (#687).\n• Mark ordinary habits incomplete with Missed, distinguish ordinary and negative habit record states, and display labels in the app language (#687).\n\n🐛 Fixes:\n\n• Improve foldable-screen layouts: fit dialogs, sheets and date/time pickers to the selected screen area, and place confirmations in the right or lower area (#691).\n• Keep toolbars, sidebars, search and floating controls clear of window controls (#691).\n• Preserve navigation state across safe-area changes and fix Material localization reloads (#691).\n\n🧹 Others:\n\n• Standardize Swift formatting and add formatting checks to local and CI workflows (#688).\n• Update adaptive UI dependencies and select stable Xcode 27.x in CI (#691).\n• Refresh Apple build dependency locks.\n• Update contributor credits.",
+     "downloadURL": "https://github.com/FriesI23/mhabit/releases/download/v1.27.18%2B207/mhabit-unsigned.ipa",
+     "size": 15961434
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

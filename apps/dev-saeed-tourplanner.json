@@ -1,0 +1,47 @@
+{
+ "name": "Tour Planner",
+ "identifier": "dev.perapp.dev-saeed-tourplanner",
+ "subtitle": "Landing page, with a live demo of the planner",
+ "description": "Single-app source for Tour Planner (dev.saeed.tourplanner). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e10b3c",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.saeed.tourplanner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.saeed.tourplanner",
+   "name": "Tour Planner",
+   "developerName": "saeedkolivand",
+   "subtitle": "Landing page, with a live demo of the planner",
+   "localizedDescription": "Tour Planner:\n\nLanding page, with a live demo of the planner.\n\nPhotograph a DPD scanner's stop list; get the fastest delivery order, grouped into park-and-walk stops, with loading numbers and one-tap navigation. The phone app (Expo / React Native, iPhone and Android) and a web app both use one self-hosted backend on a home PC, reached privately over Tailscale.\n\nThe Android build with a sample tour (made-up names on Cologne streets); on iOS the map is Apple Maps.\n\nThe opening animation and the icon, \"Delivered road\": light, dark and tinted on iOS, adaptive and themed on Android.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.saeed.tourplanner.png",
+   "tintColor": "#e10b3c",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/saeedkolivand/tour-planner@main/docs/screenshots/app-dark.png",
+    "https://cdn.jsdelivr.net/gh/saeedkolivand/tour-planner@main/docs/screenshots/app-light.png",
+    "https://cdn.jsdelivr.net/gh/saeedkolivand/tour-planner@main/docs/screenshots/settings.png",
+    "https://cdn.jsdelivr.net/gh/saeedkolivand/tour-planner@main/docs/screenshots/history.png"
+   ],
+   "versions": [
+    {
+     "version": "1.17.0",
+     "date": "2026-11-07T22:31:42Z",
+     "localizedDescription": "Features:\n\n• phone: PHOENIX has a night and a day shift (Settings > Company > Night / Day), each with its own fixed route: route.json for nights, route-day.json for the day tour. Tonight's rows match only the chosen shift's route, and new stops join that one. The day tour has no opticians, so Load shows only the van (45f07f0).",
+     "downloadURL": "https://github.com/saeedkolivand/tour-planner/releases/download/v1.17.0/TourPlanner-unsigned.ipa",
+     "size": 22248272
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Photograph the scanner's stop list, and where to leave the goods at a customer.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "Show the names, PRIO and time slot of a stop as you arrive there, and measure where the van stops during a tour to plan better routes, even with the app in the background.",
+     "NSLocationAlwaysUsageDescription": "Allow TourPlanner to access your location",
+     "NSLocationWhenInUseUsageDescription": "Start or re-plan the route from where you are.",
+     "NSMicrophoneUsageDescription": "Allow TourPlanner to access your microphone",
+     "NSMotionUsageDescription": "Allow TourPlanner to detect your current motion activity",
+     "NSPhotoLibraryUsageDescription": "Pick screenshots of the scanner's stop list."
+    }
+   }
+  }
+ ]
+}

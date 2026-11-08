@@ -1,0 +1,61 @@
+{
+ "name": "Clip",
+ "identifier": "dev.perapp.com-rileytestut-clip-beta",
+ "subtitle": "Manage your clipboard history with ease.",
+ "description": "Single-app source for Clip (com.rileytestut.Clip.Beta). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "EC008C",
+ "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rileytestut.Clip.Beta",
+   "name": "Clip",
+   "developerName": "Riley Testut",
+   "subtitle": "Manage your clipboard history with ease.",
+   "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
+   "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
+   "tintColor": "EC008C",
+   "screenshots": [
+    "https://user-images.githubusercontent.com/705880/277759370-15119bc7-a9d9-40a5-9f88-11a8146aba3b.PNG",
+    "https://user-images.githubusercontent.com/705880/277759409-f8bd1286-ce84-4914-96b5-0c611e678918.PNG",
+    "https://user-images.githubusercontent.com/705880/277759432-15a62f4f-8fe8-4a76-b6ec-31631a5eaf0c.PNG"
+   ],
+   "versions": [
+    {
+     "version": "1.2b2",
+     "date": "2025-05-12T12:00:00-05:00Z",
+     "localizedDescription": "NEW\n\niPad Support\n• Supports multiple windows\n• Supports resizing windows in Stage Manager\n\nFIXED\n\nCustom Keyboard\n• Fixed invisible text in dark mode\n• Fixed opaque background in dark mode\n• Fixed opening keyboard settings",
+     "downloadURL": "https://www.patreon.com/file?h=105173733&m=465953820",
+     "size": 769944
+    },
+    {
+     "version": "1.2b",
+     "date": "2024-06-05T12:00:00-05:00Z",
+     "localizedDescription": "• Switches to using location services to run in background\n• Improves reading clipboard on iOS 17",
+     "downloadURL": "https://cdn.altstore.io/file/altstore/apps/clip/1_2_b.ipa",
+     "size": 601183
+    },
+    {
+     "version": "1.1b1",
+     "date": "2020-06-17T12:30:00-07:00Z",
+     "localizedDescription": "This update adds a Custom Keyboard app extension for quick access to clippings when editing text.\n\nTo enable the keyboard, go to Settings > General > Keyboard > Keyboards > Add New Keyboard... and add \"ClipBoard\". Once added, make sure to then enable \"Allow Full Access\" for ClipBoard so it can access your clippings.",
+     "downloadURL": "https://f000.backblazeb2.com/file/altstore/apps/clip/1_1_b1.ipa",
+     "size": 462771
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     {
+      "name": "inter-app-audio"
+     },
+     {
+      "name": "get-task-allow"
+     },
+     {
+      "name": "com.apple.security.application-groups"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "name": "Crunchyroll++",
+ "identifier": "dev.perapp.com-crunchyroll-iphone",
+ "subtitle": "The Ad-Free Anime you've been looking for.",
+ "description": "Single-app source for Crunchyroll++ (com.crunchyroll.iphone). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f47521",
+ "iconURL": "https://i.imgur.com/qM7e1Ey.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crunchyroll.iphone",
+   "name": "Crunchyroll++",
+   "developerName": "unlimapps",
+   "subtitle": "The Ad-Free Anime you've been looking for.",
+   "localizedDescription": "- No ads\n- New episodes one hour after airing in Japan\n- The highest watching quality possible",
+   "iconURL": "https://i.imgur.com/qM7e1Ey.png",
+   "tintColor": "#f47521",
+   "screenshots": [
+    "https://i.imgur.com/ss27Uf3.png",
+    "https://i.imgur.com/AxhO3kI.png",
+    "https://i.imgur.com/KdmaxEZ.png",
+    "https://i.imgur.com/XMO94gp.png",
+    "https://i.imgur.com/qBeM1ri.png"
+   ],
+   "versions": [
+    {
+     "version": "4.41.0",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Features:\r\n\r\n-Premium Unlocked\r\n- AD-Free",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2013",
+     "size": 78844730
+    },
+    {
+     "version": "4.40.0",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Crunchyroll/Crunchyroll-4.40.0.ipa",
+     "size": 72594141
+    },
+    {
+     "version": "3.5.1",
+     "date": "2019-10-01T00:00:00Z",
+     "localizedDescription": "Optimized for iOS 13.",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Crunchyroll++.ipa",
+     "size": 11688173
+    }
+   ]
+  }
+ ]
+}

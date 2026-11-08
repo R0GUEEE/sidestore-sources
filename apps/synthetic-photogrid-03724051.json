@@ -1,0 +1,30 @@
+{
+ "name": "PhotoGrid",
+ "identifier": "dev.perapp.synthetic-photogrid-03724051",
+ "subtitle": "PhotoGrid by Karbin-Store",
+ "description": "Single-app source for PhotoGrid (synthetic.photogrid.03724051). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/PhotoGrid.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.photogrid.03724051",
+   "name": "PhotoGrid",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "تایبەتمەندی؛ دەسکاردی کردن وێنەکان، پشگیری Ai دەکات",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/PhotoGrid.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.9.61",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی؛ دەسکاردی کردن وێنەکان، پشگیری Ai دەکات",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/PhotoGrid_8.9.61_DEV.ipa",
+     "size": 145510000
+    }
+   ]
+  }
+ ]
+}

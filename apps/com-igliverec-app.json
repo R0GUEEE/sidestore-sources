@@ -1,0 +1,30 @@
+{
+ "name": "GREC",
+ "identifier": "dev.perapp.com-igliverec-app",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for GREC (com.igliverec.app). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.igliverec.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.igliverec.app",
+   "name": "GREC",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.igliverec.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.3",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2025/GREC_4.6.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 24979735
+    }
+   ]
+  }
+ ]
+}

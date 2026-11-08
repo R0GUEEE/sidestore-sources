@@ -1,0 +1,44 @@
+{
+ "name": "GOWOD",
+ "identifier": "dev.perapp.eu-gowod",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for GOWOD (eu.gowod). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png",
+ "apps": [
+  {
+   "bundleIdentifier": "eu.gowod",
+   "name": "GOWOD",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.gowod.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.12.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | GOWOD – Mobility & Stretching  • Bundle ID: eu.gowod • Updated to: 5.12.0 • Minimum iOS: 16.4 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/GOWOD_5.12.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 66522192
+    },
+    {
+     "version": "5.11.4",
+     "date": "2026-09-24T00:00:00Z",
+     "localizedDescription": "@blatants | GOWOD – Mobility & Stretching  • Bundle ID: eu.gowod • Updated to: 5.11.4 • Minimum iOS: 16.4 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12442-GOWOD_%E2%80%93_Mobility_&_Stretching_v5_11_4_Subscription_Unlocked_blatant.ipa",
+     "size": 70293840
+    },
+    {
+     "version": "5.11.3",
+     "date": "2026-09-18T00:00:00Z",
+     "localizedDescription": "@blatants | GOWOD – Mobility & Stretching  • Bundle ID: eu.gowod • Updated to: 5.11.3 • Minimum iOS: 16.4 • Patched • Modifier: Subscription Unlocked ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12282-GOWOD_%E2%80%93_Mobility_&_Stretching_v5_11_3_Subscription_Unlocked_blatant.ipa",
+     "size": 70292467
+    }
+   ]
+  }
+ ]
+}

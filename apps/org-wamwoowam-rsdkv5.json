@@ -1,0 +1,30 @@
+{
+ "name": "Sonic Mania",
+ "identifier": "dev.perapp.org-wamwoowam-rsdkv5",
+ "subtitle": "Sonic Mania - IOS Port",
+ "description": "Single-app source for Sonic Mania (org.wamwoowam.RSDKv5). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "ffc000",
+ "iconURL": "https://cdn.omnidev.org/sonicmania-Xn.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.wamwoowam.RSDKv5",
+   "name": "Sonic Mania",
+   "developerName": "SEGA",
+   "subtitle": "Sonic Mania - IOS Port",
+   "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/sonicmania-Xn.png",
+   "tintColor": "ffc000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "RSDK5",
+     "date": "2024-10-12T00:00:00Z",
+     "localizedDescription": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay. Requires a Sonic Mania RSDK file.\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/Sonic_Mania-BK.ipa",
+     "size": 2805760
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "TravelTown",
+ "identifier": "dev.perapp.io-randomco-travel",
+ "subtitle": "TravelTown",
+ "description": "Single-app source for TravelTown (io.randomco.travel). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.randomco.travel",
+   "name": "TravelTown",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.randomco.travel.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.12.1241",
+     "date": "2025-10-01T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2025/TravelTown_2.12.1241_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 131650228
+    }
+   ]
+  }
+ ]
+}

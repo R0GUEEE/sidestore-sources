@@ -1,0 +1,30 @@
+{
+ "name": "HomeWorkouts",
+ "identifier": "dev.perapp.com-unknown-homeworkouts",
+ "subtitle": "خۆت زەعیف بکە لە ماڵەوە بە زەحمەت",
+ "description": "Single-app source for HomeWorkouts (com.unknown.homeworkouts). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/HomeWorkouts.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.homeworkouts",
+   "name": "HomeWorkouts",
+   "developerName": "Karbin-Store",
+   "subtitle": "خۆت زەعیف بکە لە ماڵەوە بە زەحمەت",
+   "localizedDescription": "خۆت زەعیف بکە لە ماڵەوە بە زەحمەت",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/HomeWorkouts.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.29.10",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "خۆت زەعیف بکە لە ماڵەوە بە زەحمەت",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/homeworkout.-.v1.29.10.ipa",
+     "size": 340120000
+    }
+   ]
+  }
+ ]
+}

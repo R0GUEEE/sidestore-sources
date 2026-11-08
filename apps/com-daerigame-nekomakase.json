@@ -1,0 +1,30 @@
+{
+ "name": "Cat Garden",
+ "identifier": "dev.perapp.com-daerigame-nekomakase",
+ "subtitle": "ipaomtk.com | Cat Garden Food Party Tycoon IPA Are you a cat lover? Do you enjoy playing simulation games? If so, then C",
+ "description": "Single-app source for Cat Garden (com.daerigame.nekomakase). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Cat-Garden-Food-Party-Tycoon-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.daerigame.nekomakase",
+   "name": "Cat Garden",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Cat Garden Food Party Tycoon IPA Are you a cat lover? Do you enjoy playing simulation games? If so, then Cat Garden Food Party Tycoon is",
+   "localizedDescription": "ipaomtk.com | Cat Garden Food Party Tycoon IPA Are you a cat lover? Do you enjoy playing simulation games? If so, then Cat Garden Food Party Tycoon is",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Cat-Garden-Food-Party-Tycoon-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2024-04-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Cat Garden Food Party Tycoon IPA Are you a cat lover? Do you enjoy playing simulation games? If so, then Cat Garden Food Party Tycoon is",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Cat-Garden.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

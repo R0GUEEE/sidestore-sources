@@ -1,0 +1,30 @@
+{
+ "name": "Paperback",
+ "identifier": "dev.perapp.dev-faizandurrani-moe-paperback-app",
+ "subtitle": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you li",
+ "description": "Single-app source for Paperback (dev.faizandurrani.moe.paperback.app). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.faizandurrani.moe.paperback.app",
+   "name": "Paperback",
+   "developerName": "N/A",
+   "subtitle": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App…",
+   "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App Store doesn't have Paperback\nLast updated: 01-14-2024\nStatus: ✅ 👍\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/dev.faizandurrani.moe.paperback.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.8.7",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Paperback is one of the two best manga readers on iOS (for anyone wondering, Aidoku is the other). Only needed if you live in an area where your App…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Paperback/Paperback-0.8.7.ipa",
+     "size": 10982924
+    }
+   ]
+  }
+ ]
+}

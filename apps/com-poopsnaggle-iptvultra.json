@@ -1,0 +1,30 @@
+{
+ "name": "IPTVUltra",
+ "identifier": "dev.perapp.com-poopsnaggle-iptvultra",
+ "subtitle": "IPTVUltra",
+ "description": "Single-app source for IPTVUltra (com.poopsnaggle.IPTVUltra). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/fe/e8/8afee8f4-8929-3a48-466c-992fbe08f5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.poopsnaggle.IPTVUltra",
+   "name": "IPTVUltra",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: IPTV Ultra\n\nTweak: Premium Unlocked\n\nVersion: 3.0\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/fe/e8/8afee8f4-8929-3a48-466c-992fbe08f5e5/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: IPTV Ultra\n\nTweak: Premium Unlocked\n\nVersion: 3.0\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/e249c827-4d79-4a5a-b191-e259589ce70f/iptv_ultra-v3.0-riftysipas.ipa",
+     "size": 20505881
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Mighty Calico",
+ "identifier": "dev.perapp.com-crazylabs-mightycalico",
+ "subtitle": "ipaomtk.com | Mighty Calico IPA, Craft beer enthusiasts, prepare to embark on a flavor journey like no other! Introducin",
+ "description": "Single-app source for Mighty Calico (com.crazylabs.mightycalico). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Mighty-Calico-IPA-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crazylabs.mightycalico",
+   "name": "Mighty Calico",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Mighty Calico IPA, Craft beer enthusiasts, prepare to embark on a flavor journey like no other! Introducing Mighty Calico IPA, a bold an",
+   "localizedDescription": "ipaomtk.com | Mighty Calico IPA, Craft beer enthusiasts, prepare to embark on a flavor journey like no other! Introducing Mighty Calico IPA, a bold an",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Mighty-Calico-IPA-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6",
+     "date": "2024-10-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Mighty Calico IPA, Craft beer enthusiasts, prepare to embark on a flavor journey like no other! Introducing Mighty Calico IPA, a bold an",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Mighty-Calico-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

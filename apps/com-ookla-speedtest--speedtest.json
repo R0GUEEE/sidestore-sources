@@ -1,0 +1,44 @@
+{
+ "name": "Speedtest",
+ "identifier": "dev.perapp.com-ookla-speedtest",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for Speedtest (com.ookla.speedtest). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ookla.speedtest",
+   "name": "Speedtest",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ookla.speedtest.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.3.4",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-10-2025/Speedtest_6.3.4_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 58334016
+    },
+    {
+     "version": "6.3.3",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-10-2025/Speedtest_6.3.3_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 58333843
+    },
+    {
+     "version": "6.4.1",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/20-11-2025/Speedtest_6.4.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 58619230
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "AnimeNow",
+ "identifier": "dev.perapp.com-errorerrorerror-animenow",
+ "subtitle": "AnimeNow by Neoncat-OG IPA Library",
+ "description": "Single-app source for AnimeNow (com.errorerrorerror.animenow). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.errorerrorerror.animenow",
+   "name": "AnimeNow",
+   "developerName": "Neoncat-OG IPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.errorerrorerror.animenow.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0b1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnimeNow/AnimeNow-1.0.0b1.ipa",
+     "size": 6691352
+    },
+    {
+     "version": "1.0.0-beta.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AnimeNow/AnimeNow-1.0.0b1.ipa",
+     "size": 6691352
+    },
+    {
+     "version": "1.0.0-b3",
+     "date": "2023-03-29T00:00:00Z",
+     "localizedDescription": "Features:  • Ad Free • No logins • Custom video playback • Airplay 2 Support • Picture in Picture playback support • Download & play episodes offline ",
+     "downloadURL": "https://github.com/WuXu1/wuxuslibrary/releases/download/Latest/Anime.Now.v1.0.0-b3.ipa",
+     "size": 6870000
+    }
+   ]
+  }
+ ]
+}

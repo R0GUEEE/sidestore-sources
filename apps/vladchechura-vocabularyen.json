@@ -1,0 +1,44 @@
+{
+ "name": "MyVocab",
+ "identifier": "dev.perapp.vladchechura-vocabularyen",
+ "subtitle": "ipaomtk.com | MyVocab IPA is an innovative iOS ‌application designed to help users learn ⁤new‍ words effortlessly. Packe",
+ "description": "Single-app source for MyVocab (vladchechura.VocabularyEN). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/MyVocab-8211-Learn-new-words-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "vladchechura.VocabularyEN",
+   "name": "MyVocab",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MyVocab IPA is an innovative iOS ‌application designed to help users learn ⁤new‍ words effortlessly. Packed with features that cater to⁢",
+   "localizedDescription": "ipaomtk.com | MyVocab IPA is an innovative iOS ‌application designed to help users learn ⁤new‍ words effortlessly. Packed with features that cater to⁢",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/MyVocab-8211-Learn-new-words-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MyVocab - Learn new words 🧸 Min.iOS: [15.0+] 🧀 App version: [2.0.1] !upd  🪼 App Store: https://apps.apple.com/ua/app/myvocab-learn-new-wo",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15520-%E2%80%8E%20MyVocab_v2.0.1_tg@Sa1y0miii.ipa",
+     "size": 110793679
+    },
+    {
+     "version": "2.0.0",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | MyVocab - Learn new words  Tweak: Subscription Unlocked  Version: 2.0.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8648-MyVocab%20-%20Learn%20new%20words-v2.0.0-riftysipas.ipa",
+     "size": 109295659
+    },
+    {
+     "version": "1.4.5",
+     "date": "2026-09-17T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | MyVocab - Learn new words 🧸 Min.iOS: [15.0+] 🧀 App version: [1.4.5] !upd  🪼 App Store: https://apps.apple.com/ua/app/myvocab-learn-new-wo",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13059-%E2%80%8E%20MyVocab_v1.4.5_tg@Sa1y0miii.ipa",
+     "size": 90200991
+    }
+   ]
+  }
+ ]
+}

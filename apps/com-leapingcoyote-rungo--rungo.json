@@ -1,0 +1,30 @@
+{
+ "name": "Rungo",
+ "identifier": "dev.perapp.com-leapingcoyote-rungo",
+ "subtitle": "Rungo",
+ "description": "Single-app source for Rungo (com.leapingcoyote.rungo). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leapingcoyote.rungo",
+   "name": "Rungo",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.1.2",
+     "date": "2025-02-04T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-02-2025/Rungo_7.1.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 34618265
+    }
+   ]
+  }
+ ]
+}

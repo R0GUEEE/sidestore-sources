@@ -1,0 +1,30 @@
+{
+ "name": "CallAssist (16)",
+ "identifier": "dev.perapp.com-apple-mobilephone-call",
+ "subtitle": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's p",
+ "description": "Single-app source for CallAssist (16) (com.apple.mobilephone-call). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.apple.mobilephone-call.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.apple.mobilephone-call",
+   "name": "CallAssist (16)",
+   "developerName": "xybp888",
+   "subtitle": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the…",
+   "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the version that match your iOS otherwise it will crash.\nLast updated: 12-26-2023\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.apple.mobilephone-call.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "36",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "(Not translated) Chinese alternative to NiceCaller, aimed at optimizing and expanding the capabilities of the system's phone app. Note: Use the…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CallAssist/CallAssist-16-103.ipa",
+     "size": 2619054
+    }
+   ]
+  }
+ ]
+}

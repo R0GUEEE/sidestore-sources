@@ -1,0 +1,44 @@
+{
+ "name": "StashTube",
+ "identifier": "dev.perapp.io-github-twoplay-stashtube",
+ "subtitle": "StashTube is a mobile client for Stash on iOS and Android, built with Flutter. It feels like the YouTube app",
+ "description": "Single-app source for StashTube (io.github.twoplay.stashtube). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#357de0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.twoplay.stashtube.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.twoplay.stashtube",
+   "name": "StashTube",
+   "developerName": "Two-Play",
+   "subtitle": "StashTube is a mobile client for Stash on iOS and Android, built with Flutter. It feels like the YouTube app",
+   "localizedDescription": "StashTube feels like the YouTube app: a feed with large thumbnails, a miniplayer that keeps playing while you browse, performers and studios as \"channels\", short portrait videos in a vertical Shorts feed and scene markers as looping \"Loops\". It talks to your own Stash server through its GraphQL API and plays the streams directly.\n\nStashTube connects only to the Stash server you enter. It has no account, no analytics and no other services. It is not affiliated with the Stash project.\n\nIt is in beta:\n\nSigned Android builds are on the releases page; on iOS it's available through TestFlight or AltStore/SideStore (see iOS). After an update the app shows what's new once.\n\nWatching:\n\n• Feed with sort chips, filters (tags, rating, length, resolution) and Stash's saved filters.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.twoplay.stashtube.png",
+   "tintColor": "#357de0",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Two-Play/StashTube@develop/docs/images/screenshots/home.png",
+    "https://cdn.jsdelivr.net/gh/Two-Play/StashTube@develop/docs/images/screenshots/player.png",
+    "https://cdn.jsdelivr.net/gh/Two-Play/StashTube@develop/docs/images/screenshots/shorts.png",
+    "https://cdn.jsdelivr.net/gh/Two-Play/StashTube@develop/docs/images/screenshots/channel.png",
+    "https://cdn.jsdelivr.net/gh/Two-Play/StashTube@develop/docs/images/screenshots/markers.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-27T11:26:43Z",
+     "localizedDescription": "• Server tasks, preview check and MP4 video previews.\n• Settings: hint that previews need Stash's animated WebP previews.\n• UX review: navigation, watch page, channels, shorts markers and more.\n• Shorts: play scene markers, mixed with the videos or only.\n• Own player panel instead of miniplayer, smoother player and shorts.\n• Back to the previous video, channel ratings and favorites, create performers/studios/groups.\n• Loops, thumbnail fit setting, app tour.\n• What's new, fullscreen by tilting, calmer shorts, marker editing.\n• Fullscreen: plain black fade on both platforms, quicker.",
+     "downloadURL": "https://github.com/Two-Play/StashTube/releases/download/v1.0.0-beta.7/stashtube-v1.0.0-beta.7-7.ipa",
+     "size": 23781560
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSFaceIDUsageDescription": "Unlock Stash with Face ID.",
+     "NSLocalNetworkUsageDescription": "Stash connects to your media server and finds Chromecast devices on the local network.",
+     "NSPhotoLibraryUsageDescription": "Choose photos to use as covers and images in Stash."
+    }
+   }
+  }
+ ]
+}

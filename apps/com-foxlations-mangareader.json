@@ -1,0 +1,41 @@
+{
+ "name": "Foxlations",
+ "identifier": "dev.perapp.com-foxlations-mangareader",
+ "subtitle": "A manga, manhwa, light-novel and video reader for Android and iOS with an",
+ "description": "Single-app source for Foxlations (com.foxlations.mangaReader). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#f0965a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.foxlations.mangaReader.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.foxlations.mangaReader",
+   "name": "Foxlations",
+   "developerName": "Foxlations",
+   "subtitle": "A manga, manhwa, light-novel and video reader for Android and iOS with an",
+   "localizedDescription": "Foxlations:\n\nA manga, manhwa, light-novel and video reader for Android and iOS with an extension-based source system. Add source and/or local repositories, sync progress to AniList / MyAnimeList / Kitsu, back up and restore your library.\n\nPlease note that I do school and work full time, so updates might be slow. I do see your messages and issues, it just might take me a bit to get to them!\n\nFoxlations is a reader only. It does not host any content. You add your own sources.\n\nlillq.me/foxlations. Same builds either way:\n\n• foxlations--arm64.apk (Android).\n• foxlations-.ipa (iOS, unsigned, for sideloading).\n\niOS users can add the page's AltStore/SideStore source instead and get updates automatically. The in-app About → Check for Updates reads the same manifest.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.foxlations.mangaReader.png",
+   "tintColor": "#f0965a",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.2",
+     "date": "2026-10-15T05:35:18Z",
+     "localizedDescription": "A big one — light-novel fixes, a Browse overhaul, and a lot of library polish.\n\nLight novels & sources.\n\n• Light-novel (LNReader) sources: fixed a crash when opening some sources, fixed a batch of sources that silently showed nothing, and every request now goes through the Cloudflare-aware path — so more sources load, and a blocked one shows an \"Open in WebView\" solve button instead of an empty screen.\n• When a source fails it now tells you why — Cloudflare, site unreachable, or \"needs an update\" — instead of a blank \"nothing found\". Full details stay in More → Debug logs.\n• Local sources you build in RepoForge now show up in the Browse repository filter.\n\nBrowse.\n\n• Language filter overhaul: the same language is no longer listed twice when repos spell it differently (\"English\" and \"en\" now merge), languages show full names, and the picker is a searchable grid where you can pin the ones you use. Filtering by a repository hides languages that repo doesn't have.\n• The Repository filter now matches the Language filter, and the Manga / Anime / Novel switch is one consistent control (with a sliding highlight) across Browse, Search and Discover. Pinned sources stay in sync everywhere.\n\nLibrary.\n\n• Library cards are now yours to arrange (library options → Display): put the title on the cover, below it, or hidden; place the badges in a bar under the cover, in the corner, or stacked on the cover bottom; and show reading progress as a thin line, a mini bar, or a % badge. Local sources get a folder badge, with a legend that explains each badge.\n• Filter / Sort / Display was restyled to match the app, and filters are now tri-state: tap once to show only those, again to hide them, again to clear.\n• Library updates show new chapters on each title the moment they're found instead of only when the whole check finishes; the Updates tab refreshes when you open it; and a redundant spinner in the header is gone.\n• \"Chapters read\" and \"Most-read series\" now count your actual read chapters — including ones imported or marked read by hand — so they match the unread badge, streak and heatmap.\n• New: a Default category so new titles file themselves automatically (Settings → Library).\n\nReader & chapters.\n\n• Reader and light-novel settings use the app's sliding pill controls.\n\nDiscover.\n\n• The genre filter is now a single \"Genres\" pill that expands in place, instead of a permanent strip of chips.\n\nSecurity.\n\n• App lock gained a \"Lock after\" timeout so a quick app-switch no longer forces you to re-authenticate (Settings → Security). Removed two toggles that weren't wired up yet.",
+     "downloadURL": "https://github.com/Foxlations/Foxlations/releases/download/v1.2.2%2B188/foxlations-jvm-1.2.2%2B188.ipa",
+     "size": 300086595
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Foxlations uses the camera when a website asks you to take a photo, and, only if you turn on hands-free scrolling, to track your face for gaze-based page scrolling. Face-tracking happens entirely on your device and is never recorded or sent anywhere.",
+     "NSFaceIDUsageDescription": "Foxlations uses Face ID to unlock the app when App Lock is turned on.",
+     "NSLocalNetworkUsageDescription": "Foxlations connects to a translation server running on your local network.",
+     "NSMicrophoneUsageDescription": "Foxlations needs microphone access when a website asks to record audio.",
+     "NSPhotoLibraryAddUsageDescription": "Foxlations needs permission to save manga pages and exported files to your photo library.",
+     "NSPhotoLibraryUsageDescription": "Foxlations needs photo access to import images you choose."
+    }
+   }
+  }
+ ]
+}

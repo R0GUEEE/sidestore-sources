@@ -1,0 +1,37 @@
+{
+ "name": "Tethercam",
+ "identifier": "dev.perapp.org-tethercam-app",
+ "subtitle": "Use your iPhone as a webcam on Windows over USB, at full resolution. Free, open source (GPL-3.0), clean-room",
+ "description": "Single-app source for Tethercam (org.tethercam.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#26a25f",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.tethercam.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.tethercam.app",
+   "name": "Tethercam",
+   "developerName": "kshitizwagle",
+   "subtitle": "Use your iPhone as a webcam on Windows over USB, at full resolution. Free, open source (GPL-3.0), clean-room",
+   "localizedDescription": "Tethercam:\n\nUse your iPhone as a webcam on Windows 11 or Linux, over a USB cable, at up to 4K. Free and open source.\n\nProject page →.\n\nTethercam turns an iPhone into a standard Windows webcam that Teams, Zoom, OBS, Streamlabs, browsers and the Camera app can use. No account, no watermark, no overlays: plug in the cable, open the app, pick Tethercam (Windows Virtual Camera). Optionally, pair once over the cable and use it over Wi-Fi.\n\nStatus: beta. Works end to end with a real iPhone 15 Pro Max: 1080p30/60 and 4K30 through the Windows camera stack, ~100 ms glass-to-glass latency at 1080p30, hardware encode and decode. On Linux the same iPhone pairs over USB and streams 1080p60 over Wi-Fi. See MILESTONES.md for what's still open.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.tethercam.app.png",
+   "tintColor": "#26a25f",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.18",
+     "date": "2026-11-02T07:01:24Z",
+     "localizedDescription": "Windows: install the MSI (needs Windows 11 and the Apple Devices app). Linux: install the .deb for your Ubuntu release or the .rpm for Fedora (needs v4l2loopback; see docs/USER_GUIDE.md). iPhone: add the AltStore source https://raw.githubusercontent.com/kshitizwagle/tethercam/main/altstore/source.json, or sideload Tethercam-unsigned.ipa with Sideloadly/AltStore (signs it with your Apple ID). See README for details.",
+     "downloadURL": "https://github.com/kshitizwagle/tethercam/releases/download/v0.1.18/Tethercam-unsigned.ipa",
+     "size": 304742
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Tethercam streams your camera to your PC over the USB cable, or over Wi-Fi to PCs you paired.",
+     "NSLocalNetworkUsageDescription": "With Wireless on, Tethercam lets PCs you paired over USB find your iPhone and receive its camera over Wi-Fi."
+    }
+   }
+  }
+ ]
+}

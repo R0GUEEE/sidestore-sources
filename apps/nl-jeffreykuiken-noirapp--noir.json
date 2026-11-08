@@ -1,0 +1,30 @@
+{
+ "name": "Noir",
+ "identifier": "dev.perapp.nl-jeffreykuiken-noirapp",
+ "subtitle": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Noir (nl.jeffreykuiken.NoirApp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/ea/f0/87eaf020-3be2-45ae-b586-55f531d3eaea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "nl.jeffreykuiken.NoirApp",
+   "name": "Noir",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/ea/f0/87eaf020-3be2-45ae-b586-55f531d3eaea/AppIcon-0-0-1x_U007epad-0-0-0-1-0-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.1.2",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "- IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Noir_2024.1.2_TTJB.ipa",
+     "size": 7539700
+    }
+   ]
+  }
+ ]
+}

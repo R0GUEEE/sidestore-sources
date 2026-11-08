@@ -1,0 +1,41 @@
+{
+ "name": "Apotris",
+ "identifier": "dev.perapp.com-rebelancap-apotris",
+ "subtitle": "Apotris for iPhone & Apple Vision Pro — native block-stacking, sideloadable via SideStore",
+ "description": "Single-app source for Apotris (com.rebelancap.apotris). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#68a15a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.apotris.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rebelancap.apotris",
+   "name": "Apotris",
+   "developerName": "rebelancap",
+   "subtitle": "Apotris for iPhone & Apple Vision Pro — native block-stacking, sideloadable via SideStore",
+   "localizedDescription": "Apotris for iPhone & Apple Vision Pro:\n\nPlay Apotris — a fast, feature-packed block-stacking game — natively on your iPhone, iPad, and Apple Vision Pro. Marathon, Sprint, Ultra, Dig, Blitz, Zen and more, with the responsive controls and deep customization the game is known for. 100% vibe coded with lots of passion and attention to detail.\n\nBuilt on Apotris by akouzoukos, running natively through Metal — no emulator, the game's own engine rebuilt for Apple platforms.\n\niPhone / iPad — gestures (default). The whole screen is the surface:\n\n• Drag left/right to move · drag down to soft drop · flick down to hard drop.\n• Tap the right / left half to rotate CW / CCW · two-finger tap for 180°.\n• Swipe up to hold · long-press for Zone.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rebelancap.apotris.png",
+   "tintColor": "#68a15a",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.11",
+     "date": "2026-11-05T19:36:58Z",
+     "localizedDescription": "Now built on Apotris v4.2.0:\n\n• Sonic Drop — a new option under Settings › Handling that makes the hard drop button drop the piece without locking it.\n• Better online play — multiplayer can now fall back to a relay when a direct connection between players isn't possible, which should help on mobile data and strict Wi-Fi. Connecting is more robust in general, and you can queue for a match in the background while you play something else.\n• If the server can't be reached, you now get a clear error and return to the menu after about 20 seconds, instead of waiting indefinitely.\n• Fixes — Death mode record ranking and level display, multiplayer room code entry and match result stats, a crash when stopping a song, and assorted menu and sprite fixes.\n\nTouch controls:\n\n• Swipe in from the left edge of the screen to go Back in menus, like the rest of iOS. Two-finger tap and long-press still go Back too, and swiping in the middle of the screen still changes values.\n• The pause button only appears during a game. It used to sit on the title screen and menus, where it did nothing.\n\nNote:\n\n• A game suspended in 1.1.10 can't be continued after updating; the saved-game format changed with the new upstream version. Scores, settings and stats are unaffected.",
+     "downloadURL": "https://github.com/rebelancap/apotris-ios/releases/download/v1.1.11/Apotris-1.1.11-iOS.ipa",
+     "size": 5505992
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Apotris uses the local network to connect you with nearby players for online matches."
+    }
+   }
+  }
+ ]
+}

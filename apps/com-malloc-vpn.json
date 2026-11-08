@@ -1,0 +1,30 @@
+{
+ "name": "Malloc",
+ "identifier": "dev.perapp.com-malloc-vpn",
+ "subtitle": "ipaomtk.com | Malloc VPN IPA is a exciting new virtual private network (VPN) service that is totally secure, totally pri",
+ "description": "Single-app source for Malloc (com.malloc.vpn). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-malloc-privacy-amp-security-vpn-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.malloc.vpn",
+   "name": "Malloc",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Malloc VPN IPA is a exciting new virtual private network (VPN) service that is totally secure, totally private, and totally free. Malloc",
+   "localizedDescription": "ipaomtk.com | Malloc VPN IPA is a exciting new virtual private network (VPN) service that is totally secure, totally private, and totally free. Malloc",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-malloc-privacy-amp-security-vpn-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2023.11.02",
+     "date": "2023-11-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Malloc VPN IPA is a exciting new virtual private network (VPN) service that is totally secure, totally private, and totally free. Malloc",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Malloc-VPN.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

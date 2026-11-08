@@ -1,0 +1,30 @@
+{
+ "name": "Bootstrap - TrollStore",
+ "identifier": "dev.perapp.com-roothide-bootstrap",
+ "subtitle": "Một bootstrap đầy đủ tính năng cho iOS 14.0-17.0 A8-A17 & M1+M2 sử dụng kiến trúc deb arm64e cung cấp hỗ trợ tuyệt vời c",
+ "description": "Single-app source for Bootstrap - TrollStore (com.roothide.Bootstrap). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/roothide/Bootstrap/main/Bootstrap/Assets.xcassets/AppIcon.appiconset/icon-60@2x.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.roothide.Bootstrap",
+   "name": "Bootstrap - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Một bootstrap đầy đủ tính năng cho iOS 14.0-17.0 A8-A17 & M1+M2 sử dụng kiến trúc deb arm64e cung cấp hỗ trợ tuyệt vời cho việc bỏ qua phát hiện…",
+   "localizedDescription": "Một bootstrap đầy đủ tính năng cho iOS 14.0-17.0 A8-A17 & M1+M2 sử dụng kiến trúc deb arm64e cung cấp hỗ trợ tuyệt vời cho việc bỏ qua phát hiện Jailbreak. Yêu cầu cài với TrollStore để hoạt động - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/roothide/Bootstrap/main/Bootstrap/Assets.xcassets/AppIcon.appiconset/icon-60@2x.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.6",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Một bootstrap đầy đủ tính năng cho iOS 14.0-17.0 A8-A17 & M1+M2 sử dụng kiến trúc deb arm64e cung cấp hỗ trợ tuyệt vời cho việc bỏ qua phát hiện…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=roothide/Bootstrap/releases/download/1.2.6/Bootstrap.tipa",
+     "size": 54497160
+    }
+   ]
+  }
+ ]
+}

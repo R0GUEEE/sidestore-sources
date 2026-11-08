@@ -1,0 +1,30 @@
+{
+ "name": "FELFishEyeLens",
+ "identifier": "dev.perapp.com-phantom-fantengmu",
+ "subtitle": "Tweaks: ProCamera",
+ "description": "Single-app source for FELFishEyeLens (com.phantom.fantengmu). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.phantom.fantengmu",
+   "name": "FELFishEyeLens",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: ProCamera",
+   "localizedDescription": "Tweaks: ProCamera\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.phantom.fantengmu.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.26",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: ProCamera\n\nChức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-11-2025/FELFishEyeLens_2.0.26_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 76120574
+    }
+   ]
+  }
+ ]
+}

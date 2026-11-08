@@ -1,0 +1,30 @@
+{
+ "name": "MeloCafé",
+ "identifier": "dev.perapp.com-stossy11-melocafe",
+ "subtitle": "MeloCafe - Wii U emulator:  This is the code repository of MeloCafe, a Cemu based Wii U emulator that is able to run mos",
+ "description": "Single-app source for MeloCafé (com.stossy11.MeloCafe). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.MeloCafe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stossy11.MeloCafe",
+   "name": "MeloCafé",
+   "developerName": "stossy11",
+   "subtitle": "MeloCafe - Wii U emulator:  This is the code repository of MeloCafe, a Cemu based Wii U emulator that is able to run most Wii U games and homebrew in ",
+   "localizedDescription": "MeloCafe - Wii U emulator:  This is the code repository of MeloCafe, a Cemu based Wii U emulator that is able to run most Wii U games and homebrew in\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.stossy11.MeloCafe.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "MeloCafe - Wii U emulator:  This is the code repository of MeloCafe, a Cemu based Wii U emulator that is able to run most Wii U games and homebrew in ",
+     "downloadURL": "https://github.com/stossy11/MeloCafe/releases/download/1.0/MeloCafe.ipa",
+     "size": 23433272
+    }
+   ]
+  }
+ ]
+}

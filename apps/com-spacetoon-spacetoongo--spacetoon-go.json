@@ -1,0 +1,30 @@
+{
+ "name": "Spacetoon Go",
+ "identifier": "dev.perapp.com-spacetoon-spacetoongo",
+ "subtitle": "Spacetoon Go",
+ "description": "Single-app source for Spacetoon Go (com.spacetoon.spacetoongo). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/f3/dc/e0f3dcbc-e8f6-02fa-cd39-df9475e611d9/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spacetoon.spacetoongo",
+   "name": "Spacetoon Go",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @dpixel |",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/f3/dc/e0f3dcbc-e8f6-02fa-cd39-df9475e611d9/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.36.5",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @dpixel |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/af1ccf84-08a6-446b-bf62-a5277d512053/Spacetoon_Go_2.36.5.ipa",
+     "size": 32593627
+    }
+   ]
+  }
+ ]
+}

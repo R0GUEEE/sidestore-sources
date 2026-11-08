@@ -1,0 +1,30 @@
+{
+ "name": "miRack",
+ "identifier": "dev.perapp.com-mifki-mirack-rack",
+ "subtitle": "ipaomtk.com | miRack Music production has come a long way, and with the advent of technology, musicians now have access ",
+ "description": "Single-app source for miRack (com.mifki.mirack.rack). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/miRack-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mifki.mirack.rack",
+   "name": "miRack",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | miRack Music production has come a long way, and with the advent of technology, musicians now have access to a wide range of tools and s",
+   "localizedDescription": "ipaomtk.com | miRack Music production has come a long way, and with the advent of technology, musicians now have access to a wide range of tools and s",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/miRack-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.03",
+     "date": "2024-01-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | miRack Music production has come a long way, and with the advent of technology, musicians now have access to a wide range of tools and s",
+     "downloadURL": "https://file.ipaomtk.com/ipa/miRack.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

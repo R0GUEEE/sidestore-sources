@@ -1,0 +1,30 @@
+{
+ "name": "Game",
+ "identifier": "dev.perapp.co-gxgames-spa",
+ "subtitle": "ipaomtk.com | Serenitys Spa Happy Retreat IPA v2.3.0 iOS, a revolutionary app that aims to transform your daily life int",
+ "description": "Single-app source for Game (co.gxgames.spa). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Serenitys-Spa-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "co.gxgames.spa",
+   "name": "Game",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Serenitys Spa Happy Retreat IPA v2.3.0 iOS, a revolutionary app that aims to transform your daily life into a serene oasis of relaxation",
+   "localizedDescription": "ipaomtk.com | Serenitys Spa Happy Retreat IPA v2.3.0 iOS, a revolutionary app that aims to transform your daily life into a serene oasis of relaxation",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/05/Serenitys-Spa-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.0",
+     "date": "2024-05-10T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Serenitys Spa Happy Retreat IPA v2.3.0 iOS, a revolutionary app that aims to transform your daily life into a serene oasis of relaxation",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Serenitys-Spa.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

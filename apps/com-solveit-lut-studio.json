@@ -1,0 +1,30 @@
+{
+ "name": "LUTStudio",
+ "identifier": "dev.perapp.com-solveit-lut-studio",
+ "subtitle": "LUTStudio",
+ "description": "Single-app source for LUTStudio (com.solveit.lut-studio). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.solveit.lut-studio",
+   "name": "LUTStudio",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.3",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/LUTStudio_4.1.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 142602213
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Dusklight",
+ "identifier": "dev.perapp.dev-twilitrealm-dusk",
+ "subtitle": "Overview:  Dusklight is a reverse-engineered reimplementation of Twilight Princess.  It aims to be as accurate as possib",
+ "description": "Single-app source for Dusklight (dev.twilitrealm.dusk). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.twilitrealm.dusk.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.twilitrealm.dusk",
+   "name": "Dusklight",
+   "developerName": "TwilitRealm",
+   "subtitle": "Overview:  Dusklight is a reverse-engineered reimplementation of Twilight Princess.  It aims to be as accurate as possible to the original while also ",
+   "localizedDescription": "Overview:  Dusklight is a reverse-engineered reimplementation of Twilight Princess.  It aims to be as accurate as possible to the original while also\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.twilitrealm.dusk.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.3",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Overview:  Dusklight is a reverse-engineered reimplementation of Twilight Princess.  It aims to be as accurate as possible to the original while also ",
+     "downloadURL": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-ios-arm64.ipa",
+     "size": 37056541
+    }
+   ]
+  }
+ ]
+}

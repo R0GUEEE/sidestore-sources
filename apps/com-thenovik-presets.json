@@ -1,0 +1,44 @@
+{
+ "name": "Edith",
+ "identifier": "dev.perapp.com-thenovik-presets",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Edith (com.thenovik.Presets). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thenovik.Presets.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thenovik.Presets",
+   "name": "Edith",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thenovik.Presets.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4.21",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Edith_2.4.21_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 469503910
+    },
+    {
+     "version": "2.4.20",
+     "date": "2026-08-02T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/Edith_2.4.20_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 469497998
+    },
+    {
+     "version": "2.4.19",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/Edith_2.4.19_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 472421177
+    }
+   ]
+  }
+ ]
+}

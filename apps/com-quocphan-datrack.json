@@ -1,0 +1,44 @@
+{
+ "name": "DaTrack",
+ "identifier": "dev.perapp.com-quocphan-datrack",
+ "subtitle": "@Sa1y0miii | Daily Expense Tracker: DaTrack 🧸 Min.iOS: [17.0+] 🧀 App version: [2.7.3]⠀new! 🪼 App Store: https://apps.app",
+ "description": "Single-app source for DaTrack (com.quocphan.datrack). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11105.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.quocphan.datrack",
+   "name": "DaTrack",
+   "developerName": "@Sa1y0miii",
+   "subtitle": "@Sa1y0miii | Daily Expense Tracker: DaTrack 🧸 Min.iOS: [17.0+] 🧀 App version: [2.7.3]⠀new! 🪼 App Store: https://apps.apple.com/app/id6760328162 📮 Note",
+   "localizedDescription": "@Sa1y0miii | Daily Expense Tracker: DaTrack 🧸 Min.iOS: [17.0+] 🧀 App version: [2.7.3]⠀new! 🪼 App Store: https://apps.apple.com/app/id6760328162 📮 Note",
+   "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11105.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.9",
+     "date": "2026-10-16T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Daily Expense Tracker: DaTrack 🧸 Min.iOS: [17.0+] 🧀 App version: [2.9] !upd  🪼 App Store: https://apps.apple.com/app/id6760328162 📮 Notes",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14346-%E2%80%8EExpense%20Tracker_v2.9_tg@Sa1y0miii.ipa",
+     "size": 13443121
+    },
+    {
+     "version": "2.8.5",
+     "date": "2026-10-11T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Daily Expense Tracker: DaTrack 🧸 Min.iOS: [17.0+] 🧀 App version: [2.8.5] !upd  🪼 App Store: https://apps.apple.com/app/id6760328162 📮 Not",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/14100-%E2%80%8EExpense%20Tracker_v2.8.5_tg@Sa1y0miii.ipa",
+     "size": 13354854
+    },
+    {
+     "version": "2.8.4",
+     "date": "2026-09-27T00:00:00Z",
+     "localizedDescription": "@Sa1y0miii | Daily Expense Tracker: DaTrack 🧸 Min.iOS: [17.0+] 🧀 App version: [2.8.4] !upd  🪼 App Store: https://apps.apple.com/app/id6760328162 📮 Not",
+     "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13569-%E2%80%8EExpense%20Tracker_v2.8.4_tg@Sa1y0miii.ipa",
+     "size": 13333184
+    }
+   ]
+  }
+ ]
+}

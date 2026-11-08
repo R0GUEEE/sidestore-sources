@@ -1,0 +1,37 @@
+{
+ "name": "ReelsappPro",
+ "identifier": "dev.perapp.com-nextgen-reelsapp",
+ "subtitle": "ReelsappPro by binnichtaktiv's iPA Library",
+ "description": "Single-app source for ReelsappPro (com.nextgen.reelsapp). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.nextgen.reelsapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nextgen.reelsapp",
+   "name": "ReelsappPro",
+   "developerName": "binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.nextgen.reelsapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.7",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "App to create videos with transitions to music rhythm and beat. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReelsappPro/ReelsappPro-5.7.ipa",
+     "size": 43839941
+    },
+    {
+     "version": "6.0",
+     "date": "2024-10-13T00:00:00Z",
+     "localizedDescription": "App to create videos with transitions to music rhythm and beat. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ReelsappPro/ReelsappPro-6.0.ipa",
+     "size": 39988031
+    }
+   ]
+  }
+ ]
+}

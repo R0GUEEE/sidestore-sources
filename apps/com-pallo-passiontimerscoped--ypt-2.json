@@ -1,0 +1,30 @@
+{
+ "name": "Ypt",
+ "identifier": "dev.perapp.com-pallo-passiontimerscoped",
+ "subtitle": "Ypt",
+ "description": "Single-app source for Ypt (com.pallo.passionTimerScoped). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pallo.passionTimerScoped",
+   "name": "Ypt",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Satella",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pallo.passionTimerScoped.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "706.1.6",
+     "date": "2025-01-24T00:00:00Z",
+     "localizedDescription": "Injected with Satella",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/Ypt_706.1.6_Satella_%40thisismanpreets_apptesters.org.ipa",
+     "size": 72999642
+    }
+   ]
+  }
+ ]
+}

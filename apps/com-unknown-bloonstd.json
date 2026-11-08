@@ -1,0 +1,37 @@
+{
+ "name": "Bloons TD",
+ "identifier": "dev.perapp.com-unknown-bloonstd",
+ "subtitle": "لە ئەپستۆر نرخی ئەم یاریە $7 ✅  زیاد کراوی IGG بۆ یاری ✅",
+ "description": "Single-app source for Bloons TD (com.unknown.bloonstd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Bloons.TD.6.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.bloonstd",
+   "name": "Bloons TD",
+   "developerName": "Karbin-Store",
+   "subtitle": "لە ئەپستۆر نرخی ئەم یاریە $7 ✅  زیاد کراوی IGG بۆ یاری ✅",
+   "localizedDescription": "لە ئەپستۆر نرخی ئەم یاریە $7 ✅  زیاد کراوی IGG بۆ یاری ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-3/Bloons.TD.6.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.42.2",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "لە ئەپستۆر نرخی ئەم یاریە $7 ✅  زیاد کراوی IGG بۆ یاری ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Bloons.TD.6._46.2_1737233825.ipa",
+     "size": 68440000
+    },
+    {
+     "version": "46.2",
+     "date": "2025-01-20T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nلە ئەپستۆر نرخی ئەم یاریە $7 ✅  زیاد کراوی IGG بۆ یاری ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-3/Bloons.TD.6._46.2_1737233825.ipa",
+     "size": 71671497
+    }
+   ]
+  }
+ ]
+}

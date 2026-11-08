@@ -1,0 +1,30 @@
+{
+ "name": "Jetpack Joyride",
+ "identifier": "dev.perapp.com-halfbrick-jetpack",
+ "subtitle": "Jetpack Joyride by Halfbrick Studios",
+ "description": "Single-app source for Jetpack Joyride (com.halfbrick.jetpack). Converted from riftys.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/a8/73/73a873bd-08e4-d82a-66e9-a3c12006d796/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.halfbrick.jetpack",
+   "name": "Jetpack Joyride",
+   "developerName": "Halfbrick Studios",
+   "subtitle": "",
+   "localizedDescription": "Get updated version from zx's AIO repo.",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/a8/73/73a873bd-08e4-d82a-66e9-a3c12006d796/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.97.1",
+     "date": "2025-02-18T00:00:00Z",
+     "localizedDescription": "Get updated version from zx's AIO repo.",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b40c068839472367c5058a",
+     "size": 241752218
+    }
+   ]
+  }
+ ]
+}

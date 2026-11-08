@@ -1,0 +1,30 @@
+{
+ "name": "CHANI",
+ "identifier": "dev.perapp.com-chaninicholas-chaniapp",
+ "subtitle": "CHANI",
+ "description": "Single-app source for CHANI (com.chaninicholas.chaniapp). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chaninicholas.chaniapp",
+   "name": "CHANI",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.0",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/CHANI_2.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 37695669
+    }
+   ]
+  }
+ ]
+}

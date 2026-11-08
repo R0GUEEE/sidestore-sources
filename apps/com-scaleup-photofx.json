@@ -1,0 +1,30 @@
+{
+ "name": "PhotoApp",
+ "identifier": "dev.perapp.com-scaleup-photofx",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for PhotoApp (com.scaleup.photofx). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.scaleup.photofx",
+   "name": "PhotoApp",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.scaleup.photofx.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.7.9",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2025/PhotoApp_2.7.9_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 491971766
+    }
+   ]
+  }
+ ]
+}

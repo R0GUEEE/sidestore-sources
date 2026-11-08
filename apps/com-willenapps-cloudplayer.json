@@ -1,0 +1,30 @@
+{
+ "name": "CloudBeats",
+ "identifier": "dev.perapp.com-willenapps-cloudplayer",
+ "subtitle": "ipaomtk.com | CloudBeats IPA v2.55.10 is a versatile cloud music player app that revolutionises the way users access and",
+ "description": "Single-app source for CloudBeats (com.willenapps.cloudplayer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/CloudBeats-Cloud-Music-Player.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.willenapps.cloudplayer",
+   "name": "CloudBeats",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | CloudBeats IPA v2.55.10 is a versatile cloud music player app that revolutionises the way users access and enjoy their music libraries. ",
+   "localizedDescription": "ipaomtk.com | CloudBeats IPA v2.55.10 is a versatile cloud music player app that revolutionises the way users access and enjoy their music libraries. ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/CloudBeats-Cloud-Music-Player.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.55.10",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | CloudBeats IPA v2.55.10 is a versatile cloud music player app that revolutionises the way users access and enjoy their music libraries. ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/CloudBeats_Cloud_Music_Player-v2.55.10-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

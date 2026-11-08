@@ -1,0 +1,30 @@
+{
+ "name": "Farmscapes",
+ "identifier": "dev.perapp.com-playrix-farmscapes",
+ "subtitle": "ipaomtk.com | FarmScapes IPA for iOS is an acclaimed farming game app that puts players in charge of building a thriving",
+ "description": "Single-app source for Farmscapes (com.playrix.farmscapes). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Farmscapes-IPA-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playrix.farmscapes",
+   "name": "Farmscapes",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | FarmScapes IPA for iOS is an acclaimed farming game app that puts players in charge of building a thriving farm. Players will have to ma",
+   "localizedDescription": "ipaomtk.com | FarmScapes IPA for iOS is an acclaimed farming game app that puts players in charge of building a thriving farm. Players will have to ma",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/Farmscapes-IPA-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.3",
+     "date": "2023-12-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | FarmScapes IPA for iOS is an acclaimed farming game app that puts players in charge of building a thriving farm. Players will have to ma",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Farmscapes.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

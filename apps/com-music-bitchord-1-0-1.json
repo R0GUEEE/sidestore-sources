@@ -1,0 +1,30 @@
+{
+ "name": "BitChord (1.0.1)",
+ "identifier": "dev.perapp.com-music-bitchord-1-0-1",
+ "subtitle": "A modern YouTube music client with clean aesthetics inspired from Apple Music",
+ "description": "Single-app source for BitChord (1.0.1) (com.music.bitchord.1.0.1). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/BitChord-Icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.music.bitchord.1.0.1",
+   "name": "BitChord (1.0.1)",
+   "developerName": "MXFia19",
+   "subtitle": "A modern YouTube music client with clean aesthetics inspired from Apple Music",
+   "localizedDescription": "A modern YouTube music client with clean aesthetics inspired from Apple Music\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/BitChord-Icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "A modern YouTube music client with clean aesthetics inspired from Apple Music",
+     "downloadURL": "https://repo.ballermc.com/tubevault/BitChord%201.0.1.ipa",
+     "size": 31698025
+    }
+   ]
+  }
+ ]
+}

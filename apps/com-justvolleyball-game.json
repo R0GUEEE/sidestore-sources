@@ -1,0 +1,34 @@
+{
+ "name": "Just Volleyball",
+ "identifier": "dev.perapp.com-justvolleyball-game",
+ "subtitle": "Just Volleyball (Godot 4.7.2) - unsigned iOS builds via GitHub Actions, plus the on-screen touch control layer",
+ "description": "Single-app source for Just Volleyball (com.justvolleyball.game). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#bbac2a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.justvolleyball.game.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.justvolleyball.game",
+   "name": "Just Volleyball",
+   "developerName": "PrismDev3",
+   "subtitle": "Just Volleyball (Godot 4.7.2) - unsigned iOS builds via GitHub Actions, plus the on-screen touch control layer",
+   "localizedDescription": "Just Volleyball - iOS build:\n\nGodot 4.7.2 project plus a GitHub Actions pipeline that produces an unsigned .ipa on GitHub's macOS runners. You do not need a Mac and you do not need an Apple Developer account to get the file; you only need an Apple ID on the device to sign it at install time.\n\n• Fallback: the same file is attached to every run under Actions -> iOS -> Artifacts (just-volleyball-unsigned-ipa), for 90 days.\n• Target: iOS 15+, iPhone and iPad, landscape only.\n• Device requirement: A12 or newer (iPhone XS/XR and later, any current iPad). Godot's Metal renderer declares the iphone-ipad-minimum-performance-a12 capability, so older devices will refuse to install it.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.justvolleyball.game.png",
+   "tintColor": "#bbac2a",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-10-11T16:17:16Z",
+     "localizedDescription": "All six complaints were real, and each one is fixed at the cause:\n\n• Replays: tap to skip. The skip was read from the accept key, which a phone has no way to press, so the vote could not be cast there at all. Any tap during a replay now casts it, and the banner names the gesture the device actually has (\"tap to skip\" on a phone, \"space to skip\" on a desktop). A tap also pauses and resumes inside the replay viewer.\n• Round movement wheel. The wheel's base was built with its corner radius at the default of 0, which draws square corners, so the circular stick sat on a flat card. It is now the same disc as its rim and knob, and the \"move\" label is gone.\n• No more frozen yellow. The yellow slab is the transition cover, and the next scene used to be loaded synchronously underneath it: the loading thread is the main thread, so the cover could not animate and a big venue read as a hang. Scenes now load on a worker thread while the cover runs a progress bar, the sweeps are shorter (about 0.33 s in, 0.2 s out), and the cover holds until the incoming scene has actually drawn - the first look at a new screen is a finished one, not a half-built court. The boot intro is about half as long and no longer waits out the full audio sting after its animation has finished.\n• Exit really exits. SceneTree.quit() only stops the main loop, and iOS answers it by leaving the app alive on its last frame - that is exactly what an exit button that \"freezes for a second instead of closing\" is. Saving happens first, then the process is ended, on every exit path (menu confirm, pause menu, launch gate).\n• Real saving. Settings, profile and career are flushed when the app is backgrounded (NOTIFICATION_APPLICATION_PAUSED is the only leaving notice a phone gives, and a suspended app can be killed without another word) and before quitting. Progress no longer depends on the 2-minute autosave.\n• Easier to start. A touch device that has never been asked starts on the easy CPU preset with aim assist on - a phone has no keyboard and no mouse, so the desktop defaults were the wrong starting point. It happens exactly once, never overrides a deliberate choice (the choice flag is persisted), and both stay ordinary settings you can change.\n\nNot verified by me:\n\nNothing here was checked on a phone - I have no iOS device. What was verified on the exact released file: the sha256 matches the published .sha256, the headless gate below ran green in CI before the export, and the pack audit passes inside the IPA.\n\nHarmless notes:\n\n• The difficulty/aim-assist preset applies once and never again: if you set a difficulty yourself, that wins forever.\n• The gate (tools/verify_transitions.gd) is a headless regression test that CI runs before every export; it caught two real bugs while being written. It runs without a device, so on-device times (how long a venue actually takes now) are still yours to confirm.\n• A12 or newer, unsigned, same install method: Sideloadly / AltStore as before.",
+     "downloadURL": "https://github.com/PrismDev3/just-volleyball-ios/releases/download/v1.0.2/volleyball-unsigned.ipa",
+     "size": 138882028
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

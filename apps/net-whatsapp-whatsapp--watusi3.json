@@ -1,0 +1,44 @@
+{
+ "name": "Watusi3",
+ "identifier": "dev.perapp.net-whatsapp-whatsapp",
+ "subtitle": "Watusi3 by CyPwn IPA Library / DPixel / MeemNon / zxcvbn’s tweaked IPAs / FouadRaheb",
+ "description": "Single-app source for Watusi3 (net.whatsapp.WhatsApp). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsApp",
+   "name": "Watusi3",
+   "developerName": "CyPwn IPA Library / DPixel / MeemNon / zxcvbn’s tweaked IPAs / FouadRaheb",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.whatsapp.WhatsApp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.24.83",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Watusi3-24.24.83.ipa",
+     "size": 121685187
+    },
+    {
+     "version": "Business-24.24.83",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Watusi3-Business-24.24.83.ipa",
+     "size": 128489116
+    },
+    {
+     "version": "24.22.82",
+     "date": "2024-11-17T00:00:00Z",
+     "localizedDescription": "WhatsApp, injected with Watusi v1.2.36, Stalky v4.1.27, OnlineNotify v3.4.4. Notifications and iCloud backups work with TrollStore.\nLast updated: 07-03-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-17-2024/Watusi3-24.22.82.ipa",
+     "size": 116653116
+    }
+   ]
+  }
+ ]
+}

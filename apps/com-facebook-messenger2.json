@@ -1,0 +1,30 @@
+{
+ "name": "Messenger 2",
+ "identifier": "dev.perapp.com-facebook-messenger2",
+ "subtitle": "Tweaks: SojuFramework, AntiCrash_Ourchase_NoAds, Appstoredata +1",
+ "description": "Single-app source for Messenger 2 (com.facebook.Messenger2). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/e7/a4/47e7a4d4-fb0d-9e6b-b630-2c10d37ca258/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.facebook.Messenger2",
+   "name": "Messenger 2",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Tweaks: SojuFramework, AntiCrash_Ourchase_NoAds, Appstoredata +1",
+   "localizedDescription": "Tweaks: SojuFramework, AntiCrash_Ourchase_NoAds, Appstoredata, PremiumNew\n\nFacebook Messenger phiên bản song song với phiên bản gốc - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/e7/a4/47e7a4d4-fb0d-9e6b-b630-2c10d37ca258/AppIcon-1x_U007emarketing-0-7-0-0-sRGB-85-220-0.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "441.0.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tweaks: SojuFramework, AntiCrash_Ourchase_NoAds, Appstoredata, PremiumNew\n\nFacebook Messenger phiên bản song song với phiên bản gốc - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Messenger.2_441.0.0_TTJB.ipa",
+     "size": 60804734
+    }
+   ]
+  }
+ ]
+}

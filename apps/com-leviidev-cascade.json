@@ -1,0 +1,40 @@
+{
+ "name": "Cascade",
+ "identifier": "dev.perapp.com-leviidev-cascade",
+ "subtitle": "Cascade is PS2 emulator for iOS",
+ "description": "Single-app source for Cascade (com.leviidev.cascade). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#338cff",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.leviidev.cascade.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leviidev.cascade",
+   "name": "Cascade",
+   "developerName": "Leviidev",
+   "subtitle": "Cascade is PS2 emulator for iOS",
+   "localizedDescription": "What is Cascade?:\n\nCascade is a PlayStation 2 emulator for iOS. It runs PS2 game images directly on your iPhone or iPad with a clean, native Liquid Glass UI. It targets accuracy, performance, and a polished user experience — with full support for sideloading on iOS 16+ via TrollStore, AltStore, or Sideloadly.\n\nAdd the Cascade source URL to AltStore or SideStore:\n\nSearch for Cascade and tap Install.\n\nOption 2 — TrollStore (iOS 16 / 17, permanent install):\n\n• Open it with TrollStore on your device.\n\nOption 3 — Sideloadly / AltStore direct IPA:\n\n• Sideload with Sideloadly, AltStore, or any compatible tool.\n\n• Add your BIOS:.\n\nOpen Cascade → Settings → BIOS and import your legally-dumped PS2 BIOS (SCPH-70012.bin recommended). Cascade detects the BIOS region automatically.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.leviidev.cascade.png",
+   "tintColor": "#338cff",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/5b905030-e029-4479-b219-8f913d778517",
+    "https://github.com/user-attachments/assets/92418a9c-3dd1-43b6-8c16-03e0816d503f"
+   ],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-05-21T18:21:23Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Leviidev/Cascade/releases/download/v1.0.1/Cascade.ipa",
+     "size": 453492
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSDocumentsFolderUsageDescription": "Cascade needs access to your files to import game ROMs and BIOS files.",
+     "NSLocationWhenInUseUsageDescription": "Cascade uses a silent, low-accuracy location update to keep the emulator running in the background. No location data is stored or transmitted."
+    }
+   }
+  }
+ ]
+}

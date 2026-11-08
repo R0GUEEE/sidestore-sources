@@ -1,0 +1,30 @@
+{
+ "name": "Music Player",
+ "identifier": "dev.perapp.com-dylancompanjen-musio",
+ "subtitle": "ipaomtk.com | Music Player ‣ IPA For iOS users, the App Store is bursting with options, ⁣each offering distinctive featu",
+ "description": "Single-app source for Music Player (com.dylancompanjen.musio). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Music-Player-%E2%80%A3-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dylancompanjen.musio",
+   "name": "Music Player",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Music Player ‣ IPA For iOS users, the App Store is bursting with options, ⁣each offering distinctive features, user interfaces, and musi",
+   "localizedDescription": "ipaomtk.com | Music Player ‣ IPA For iOS users, the App Store is bursting with options, ⁣each offering distinctive features, user interfaces, and musi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/07/Music-Player-%E2%80%A3-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.19",
+     "date": "2025-07-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Music Player ‣ IPA For iOS users, the App Store is bursting with options, ⁣each offering distinctive features, user interfaces, and musi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Music%20Player_1.19-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

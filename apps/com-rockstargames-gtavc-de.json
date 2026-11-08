@@ -1,0 +1,37 @@
+{
+ "name": "GTA: VC - Definitive VH",
+ "identifier": "dev.perapp.com-rockstargames-gtavc-de",
+ "subtitle": "Chức năng đã thêm: Việt Hóa. Đã mở khoá không cần tài khoản - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for GTA: VC - Definitive VH (com.rockstargames.gtavc.de). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVCDE.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.gtavc.de",
+   "name": "GTA: VC - Definitive VH",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Việt Hóa. Đã mở khoá không cần tài khoản - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Việt Hóa. Đã mở khoá không cần tài khoản - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVCDE.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.90.0",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 GTA: Vice City - Definitive  🇷🇺 Криминальный экшен с открытым миром, действие которого разворачивается в Майами 1980-х годов: предстоит ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1732-GTA:%20Vice%20City%20%5Bv1.90.0%5D%28tg@ipa_dark%29.ipa",
+     "size": 2147483647
+    },
+    {
+     "version": "1.72.42919648",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Việt Hóa. Đã mở khoá không cần tài khoản - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://archive.org/download/gta-vh-ttjb/GTA:%20Vice%20City%20_1.72.42919648_VH_TTJB.ipa",
+     "size": 2147483647
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PNP-PROD",
+ "identifier": "dev.perapp.com-ugroupmedia-pnp2014",
+ "subtitle": "ipaomtk.com | The “Call Santa Claus with PNP IPA” app offers a range of features that make it the perfect tool for child",
+ "description": "Single-app source for PNP-PROD (com.ugroupmedia.pnp2014). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Call-Santa-Claus-with-PNP-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ugroupmedia.pnp2014",
+   "name": "PNP-PROD",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The “Call Santa Claus with PNP IPA” app offers a range of features that make it the perfect tool for children and adults alike to connec",
+   "localizedDescription": "ipaomtk.com | The “Call Santa Claus with PNP IPA” app offers a range of features that make it the perfect tool for children and adults alike to connec",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Call-Santa-Claus-with-PNP-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.9.1",
+     "date": "2024-09-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The “Call Santa Claus with PNP IPA” app offers a range of features that make it the perfect tool for children and adults alike to connec",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Call_Santa_Claus_with_PNP-ipaomtk.com-v10.9.1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

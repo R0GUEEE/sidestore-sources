@@ -58,6 +58,26 @@ Plus `name` and `identifier` at the top level and `name` + `bundleIdentifier` pe
 `tools/audit_schema.py` checks exactly this; `tools/patch.py in.json out.json` fixes any
 source you point it at (lifts legacy fields, fills `size`, normalizes dates).
 
+## Per-app sources (`apps/`)
+
+Every app variant is also served as its own one-app source — 11,289 files:
+
+| URL | Contents |
+|---|---|
+| `https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/apps/<file>.json` | one source, exactly one app |
+| `https://raw.githubusercontent.com/R0GUEEE/sidestore-sources/main/apps/all.json` | all variants concatenated (11,289 entries) |
+| [`apps/index.json`](apps/index.json) | catalog: file, raw URL, name, bundle ID, developer, version, date, icon |
+| [`docs/apps.html`](docs/apps.html) | searchable index |
+
+Files are named from the bundle ID (`com-google-ios-youtube.json`); when one bundle ID has
+several distinct builds (YouTube+YTKACE vs YouTube+uYou, Instagram mods), each variant gets
+`<bundle-id>--<variant>.json`. Deduplication is per variant: same app + same name + same
+download host collapses into one file, newest version wins.
+
+Requirement for any of them there: int `size`. That's what killed the LENZ source
+(`apps > 60 > versions > 0 > size`). `tools/audit_schema.py` was run over all 11,289 files —
+zero failures.
+
 ## What the conversion does
 
 - **legacy → `versions[]`** — app-level `version` / `versionDate` / `downloadURL` / `size`
@@ -100,6 +120,8 @@ tools/ja.py         validate a URL list (stdin, one per line)
 tools/fcheck.py     validate converted files
 tools/verify.py     compatibility matrix against SideStore's decode rules
 tools/discover.py   walk a GitHub repo tree and validate every .json
+apps/               one source file per app variant (+ index.json, all.json)
+tools/perapp.py     regenerate apps/ from sources/
 ```
 
 Regenerate everything:
@@ -108,6 +130,7 @@ Regenerate everything:
 python3 tools/convert.py      # all upstreams → sources/*.json
 python3 tools/aggregate.py    # → sources/merged.json
 python3 tools/fcheck.py sources/*.json
+python3 tools/perapp.py       # → apps/*.json
 python3 tools/audit_schema.py     # strict Codable check: nothing may fail to decode
 ```
 

@@ -1,0 +1,39 @@
+{
+ "name": "gramX",
+ "identifier": "dev.perapp.dev-ragoose-gramx",
+ "subtitle": "Your Telegram channels as one timeline. An Android client built on TDLib",
+ "description": "Single-app source for gramX (dev.ragoose.gramx). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#42b2f0",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.ragoose.gramx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.ragoose.gramx",
+   "name": "gramX",
+   "developerName": "daveragos",
+   "subtitle": "Your Telegram channels as one timeline. An Android client built on TDLib",
+   "localizedDescription": "gramX:\n\nYour Telegram channels as one timeline.\n\ngramX is an Android app that shows the channels you follow on Telegram as a single feed, newest first, instead of a list of chats. Posts, comments, reactions, photos, videos and polls all read in one place, and you can still message people and post to the channels you run.\n\ngramX is an independent app. It is not made by, affiliated with, or endorsed by Telegram.\n\nFeatures:\n\n• Channels. A page for each channel with its posts, media, files and links, plus statistics for the channels you own or manage.\n• Messages. Your direct messages and groups, with replies, forwards, pins, search and scheduled messages.\n• Posting. Write to the channels you run: text, photos, videos, files, polls, stickers, voice messages and locations.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.ragoose.gramx.png",
+   "tintColor": "#42b2f0",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-10-08T21:25:41Z",
+     "localizedDescription": "gramX now runs on iPhone, the feed reads more like a timeline, and close to fifty things that didn't work right in 1.0.0 now do.\n\nWhich file to download:\n\nAndroid.\n\n• gramx-1.1.0-arm64-v8a.apk: for almost every phone from the last several years. Pick this one if you're not sure.\n• gramx-1.1.0-armeabi-v7a.apk: for older 32-bit phones.\n• gramx-1.1.0-x86_64.apk: for emulators and some tablets and Chromebooks.\n\ngramX needs Android 7.0 or newer. Open the downloaded file on your phone to install it; the first time, Android may ask you to allow installs from your browser or file manager. If you have 1.0.0, install this over it: you stay signed in and keep your settings.\n\niPhone.\n\n• gramx-1.1.0.ipa: for iPhone, iOS 15 or newer.\n\ngramX isn't in the App Store. You install it with Sideloadly, SideStore or AltStore, which sign it with your own Apple Account. The iPhone guide walks you through it.\n\nWhat's new:\n\n• gramX on iPhone, with voice messages that play and record like on Android.\n• A feed that reads like a timeline. Forwards, replies and quotes name the channel they came from. Posts with several photos show them in a row you can swipe. Photos sharpen from a small preview instead of waiting behind a spinner, and a post's buttons are easier to hit.\n• Channel pages with a profile header and similar channels to follow next.\n• Search has its own page, with recent searches and filters. Tapping Search again opens the keyboard.\n\n• Statistics for your channels list every channel that reposted a post.\n• Supporting gramX now works with telebirr, CBE Birr or Dashen Bank, from Settings or the support page. The money goes straight to RaGoose's account.\n\nFixes:\n\n• Search: results and pinned posts show what they say now, hashtags open from anywhere, and search finds posts within a folder.\n• Activity and notifications: the bell clears once mentions and reactions are read, and the notifications switch saves and turns them back on.\n• Signing in: switching from QR code to phone number works, signing in from guest mode takes you home, and a new sign-in starts clean. As a guest, Join asks you to sign in.\n• Opening the app: a link, share or notification that opens gramX now goes where it points. A second tap on a bookmark removes it.\n\ngramX has no servers of its own. It talks only to Telegram, and everything it stores stays on your phone.\n\ngramX is an independent app and is not affiliated with Telegram. To check a download, compare it with SHA256SUMS.txt.",
+     "downloadURL": "https://github.com/daveragos/gramx/releases/download/v1.1.0/gramx-1.1.0.ipa",
+     "size": 23791083
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "gramX needs the camera to record a video message.",
+     "NSLocationWhenInUseUsageDescription": "gramX needs your location only when you choose to send it in a message.",
+     "NSMicrophoneUsageDescription": "gramX needs the microphone to record a voice message.",
+     "NSPhotoLibraryUsageDescription": "gramX needs access to your photos so you can attach one to a post."
+    }
+   }
+  }
+ ]
+}

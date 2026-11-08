@@ -1,0 +1,44 @@
+{
+ "name": "Shapr3D",
+ "identifier": "dev.perapp.com-shapr3d-shapr",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Shapr3D (com.shapr3d.shapr). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shapr3d.shapr",
+   "name": "Shapr3D",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.150.0",
+     "date": "2026-08-19T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Shapr3D_26.150.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 1301742755
+    },
+    {
+     "version": "5.980.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-10-2025/Shapr3D_5.980.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 1186302726
+    },
+    {
+     "version": "5.1010.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Shapr3D_5.1010.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 1166654997
+    }
+   ]
+  }
+ ]
+}

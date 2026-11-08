@@ -1,0 +1,30 @@
+{
+ "name": "Isle of Arrows",
+ "identifier": "dev.perapp.com-gridpop-isleofarrows",
+ "subtitle": "ipaomtk.com | Isle of Arrows IPA is a popular craft beer from the West Coast of Canada. The beer takes its name from a r",
+ "description": "Single-app source for Isle of Arrows (com.gridpop.isleofarrows). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/isle-of-arrows-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gridpop.isleofarrows",
+   "name": "Isle of Arrows",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Isle of Arrows IPA is a popular craft beer from the West Coast of Canada. The beer takes its name from a rocky coastal island located of",
+   "localizedDescription": "ipaomtk.com | Isle of Arrows IPA is a popular craft beer from the West Coast of Canada. The beer takes its name from a rocky coastal island located of",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/isle-of-arrows-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2023-05-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Isle of Arrows IPA is a popular craft beer from the West Coast of Canada. The beer takes its name from a rocky coastal island located of",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Isle-of-Arrows.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Myst",
+ "identifier": "dev.perapp.com-cyanworlds-myst",
+ "subtitle": "ipaomtk.com | realMyst IPA Overview realMyst is a modern reimagining of the legendary Myst adventure, rebuilt with real-",
+ "description": "Single-app source for Myst (com.cyanworlds.Myst). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/realMyst-IPA-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cyanworlds.Myst",
+   "name": "Myst",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | realMyst IPA Overview realMyst is a modern reimagining of the legendary Myst adventure, rebuilt with real-time 3D environments that tran",
+   "localizedDescription": "ipaomtk.com | realMyst IPA Overview realMyst is a modern reimagining of the legendary Myst adventure, rebuilt with real-time 3D environments that tran",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/realMyst-IPA-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10.0",
+     "date": "2023-12-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | realMyst IPA Overview realMyst is a modern reimagining of the legendary Myst adventure, rebuilt with real-time 3D environments that tran",
+     "downloadURL": "https://file.ipaomtk.com/ipa/realMyst.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

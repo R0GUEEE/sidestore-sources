@@ -1,0 +1,30 @@
+{
+ "name": "Phantom_VPN_3.9.6_PhantomReset",
+ "identifier": "dev.perapp.com-avira-vpn",
+ "subtitle": "Phantom VPN with PhantomReset",
+ "description": "Single-app source for Phantom_VPN_3.9.6_PhantomReset (com.avira.vpn). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Phantom_VPN_3.9.6_PhantomReset.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.avira.vpn",
+   "name": "Phantom_VPN_3.9.6_PhantomReset",
+   "developerName": "Phantom_VPN_3.9.6_PhantomReset x CyPwn",
+   "subtitle": "Phantom VPN with PhantomReset",
+   "localizedDescription": "Phantom VPN with PhantomReset\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Phantom_VPN_3.9.6_PhantomReset.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.9.6",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Phantom VPN with PhantomReset",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Phantom_VPN_3.9.6_PhantomReset.ipa",
+     "size": 29212262
+    }
+   ]
+  }
+ ]
+}

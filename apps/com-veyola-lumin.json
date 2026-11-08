@@ -1,0 +1,30 @@
+{
+ "name": "Lumins",
+ "identifier": "dev.perapp.com-veyola-lumin",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for Lumins (com.Veyola.Lumin). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Veyola.Lumin.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.Veyola.Lumin",
+   "name": "Lumins",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.Veyola.Lumin.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2025/Lumins_2.6.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 158423795
+    }
+   ]
+  }
+ ]
+}

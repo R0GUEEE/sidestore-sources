@@ -1,0 +1,30 @@
+{
+ "name": "Nobitex",
+ "identifier": "dev.perapp.com-unknown-nobitex",
+ "subtitle": "ئاڵوگۆڕی ئۆنلاین - کڕین و فرۆشتنی دراوی دیجیتاڵی",
+ "description": "Single-app source for Nobitex (com.unknown.nobitex). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/market.nobitex.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.nobitex",
+   "name": "Nobitex",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئاڵوگۆڕی ئۆنلاین - کڕین و فرۆشتنی دراوی دیجیتاڵی",
+   "localizedDescription": "ئاڵوگۆڕی ئۆنلاین - کڕین و فرۆشتنی دراوی دیجیتاڵی",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/market.nobitex.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.0",
+     "date": "2026-02-27T00:00:00Z",
+     "localizedDescription": "ئاڵوگۆڕی ئۆنلاین - کڕین و فرۆشتنی دراوی دیجیتاڵی",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Nobitex3.3.0.ipa",
+     "size": 24550000
+    }
+   ]
+  }
+ ]
+}

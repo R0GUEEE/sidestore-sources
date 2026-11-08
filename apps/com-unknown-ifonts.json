@@ -1,0 +1,30 @@
+{
+ "name": "iFonts",
+ "identifier": "dev.perapp.com-unknown-ifonts",
+ "subtitle": "یەکێک لە جوانترین کیبۆردەکان بۆ نوسین لەسەر ئایفۆن دەتوانیت ئێستا دای بەزێنیت بە مۆد کراویی",
+ "description": "Single-app source for iFonts (com.unknown.ifonts). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/iFonts.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.ifonts",
+   "name": "iFonts",
+   "developerName": "Karbin-Store",
+   "subtitle": "یەکێک لە جوانترین کیبۆردەکان بۆ نوسین لەسەر ئایفۆن دەتوانیت ئێستا دای بەزێنیت بە مۆد کراویی",
+   "localizedDescription": "یەکێک لە جوانترین کیبۆردەکان بۆ نوسین لەسەر ئایفۆن دەتوانیت ئێستا دای بەزێنیت بە مۆد کراویی",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/iFonts.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "یەکێک لە جوانترین کیبۆردەکان بۆ نوسین لەسەر ئایفۆن دەتوانیت ئێستا دای بەزێنیت بە مۆد کراویی",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/iFonts.1.4.ipa",
+     "size": 32610000
+    }
+   ]
+  }
+ ]
+}

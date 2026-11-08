@@ -1,0 +1,49 @@
+{
+ "name": "Filza (MDC)",
+ "identifier": "dev.perapp.com-tigisoftware-filza",
+ "subtitle": "Filza for MacDirtyCow Devices!",
+ "description": "Single-app source for Filza (MDC) (com.tigisoftware.Filza). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "047a9a",
+ "iconURL": "https://static.appdb.to/images/cydia-1900000088-icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tigisoftware.Filza",
+   "name": "Filza (MDC)",
+   "developerName": "TIGI Software",
+   "subtitle": "Filza for MacDirtyCow Devices!",
+   "localizedDescription": "Filza with MDC Support and No Ads! (Limited Features)\n\nA Powerful File Manager for iPhone, iPad, iPod Touch. Flat design, with best performance:\n\n• File viewers: Media player, Hex editor, Text editor, SQLite Editor, IPA Installer, DEB Installer, Web viewer, Terminal ...\n• SQLite Editor was design for large query, works well with over 100k+ rows in result\n• Execute shell scripts and applications just few tap\n• Cloud services: Dropbox, Box, Google Drive, WebDAV, FTP, SFTP\n• Supports SMB (Windows File Sharing)\n• Search files and folders easily\n• Powerful files copy/move design, just few taps\n• Download normal/html file with easy way: copy html link to Pasteboard, and paste it to destination folder\n• Manage Music library easily: import/export/delete/rename ... just do same as normal files\n• Explore files in list view mode or grid view mode, with thumbnail\n• Compress zip file, decompress zip/7z/rar/tar/tar.gz/gz ...\n• Install and extract DEB/IPA file, view DEB/IPA file information\n• Black theme and white theme, custom folder icon, file",
+   "iconURL": "https://static.appdb.to/images/cydia-1900000088-icon.png",
+   "tintColor": "047a9a",
+   "screenshots": [
+    "https://static.appdb.to/images/cydia-1900001095-iphone-0-1675790063.png",
+    "https://static.appdb.to/images/cydia-1900001095-iphone-1-1675790064.png",
+    "https://static.appdb.to/images/cydia-1900001095-iphone-2-1675790064.png",
+    "https://static.appdb.to/images/cydia-1900001095-iphone-3-1675790064.png"
+   ],
+   "versions": [
+    {
+     "version": "4.0.2-NoUrlScheme",
+     "date": "2024-11-12T00:00:00Z",
+     "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TS, this might be useful.\nLast updated: 01-03-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Filza/Filza-4.0.2-NoUrlScheme.ipa",
+     "size": 13893015
+    },
+    {
+     "version": "4.0.0-NoUrlScheme",
+     "date": "2024-09-30T00:00:00Z",
+     "localizedDescription": "Cracked, NoURLScheme version requested. iOS filesystem explorer. Note: If you can't get an app back from the AppStore after installing it with TS, this might be useful.\nLast updated: 01-03-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Filza/Filza-4.0.0-NoUrlScheme.ipa",
+     "size": 13912275
+    },
+    {
+     "version": "3.7",
+     "date": "2023-05-14T00:00:00Z",
+     "localizedDescription": "• Added Filza (MDC) v3.7",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Filza.MDC.No.Ads.v3.7.ipa",
+     "size": 9040000
+    }
+   ]
+  }
+ ]
+}

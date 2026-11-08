@@ -1,0 +1,30 @@
+{
+ "name": "WABusiness",
+ "identifier": "dev.perapp.net-whatsapp-whatsappsmb",
+ "subtitle": "WABusiness",
+ "description": "Single-app source for WABusiness (net.whatsapp.WhatsAppSMB). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+   "name": "WABusiness",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.9.75",
+     "date": "2026-03-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WABusiness_26.9.75_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 142795991
+    }
+   ]
+  }
+ ]
+}

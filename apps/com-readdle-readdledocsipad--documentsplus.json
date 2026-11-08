@@ -1,0 +1,44 @@
+{
+ "name": "DocumentsPlus",
+ "identifier": "dev.perapp.com-readdle-readdledocsipad",
+ "subtitle": "DocumentsPlus by Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+ "description": "Single-app source for DocumentsPlus (com.readdle.ReaddleDocsIPad). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+   "name": "DocumentsPlus",
+   "developerName": "Manpreet Singh @thisismanpreets / binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.10.5",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DocumentsPlus/DocumentsPlus-8.10.5.ipa",
+     "size": 149574425
+    },
+    {
+     "version": "8.10.7",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DocumentsPlus/DocumentsPlus-8.10.7.ipa",
+     "size": 150166682
+    },
+    {
+     "version": "8.10.9",
+     "date": "2024-09-29T00:00:00Z",
+     "localizedDescription": "Browse, listen to, watch, and mark up nearly any material you desire. Documents, files, books, and all sorts of content find their perfect place in this app. A user requested it so here it is.\nLast updated: 08-11-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/DocumentsPlus/DocumentsPlus-8.10.9.ipa",
+     "size": 150245964
+    }
+   ]
+  }
+ ]
+}

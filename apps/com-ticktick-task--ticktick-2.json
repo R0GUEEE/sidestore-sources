@@ -1,0 +1,30 @@
+{
+ "name": "Ticktick",
+ "identifier": "dev.perapp.com-ticktick-task",
+ "subtitle": "Ticktick",
+ "description": "Single-app source for Ticktick (com.TickTick.task). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TickTick.task.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TickTick.task",
+   "name": "Ticktick",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.TickTick.task.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.5.20",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Ticktick_7.5.20_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 88018387
+    }
+   ]
+  }
+ ]
+}

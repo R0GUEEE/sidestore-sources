@@ -1,0 +1,30 @@
+{
+ "name": "Tripscout",
+ "identifier": "dev.perapp.co-tripscout-tripscout",
+ "subtitle": "ipaomtk.com | Trip Scout IPA As a tour steering company, Tripadvisor brings people, passions and locations together. We ",
+ "description": "Single-app source for Tripscout (co.tripscout.tripscout). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/tripscout-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "co.tripscout.tripscout",
+   "name": "Tripscout",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Trip Scout IPA As a tour steering company, Tripadvisor brings people, passions and locations together. We purpose to assist make you a h",
+   "localizedDescription": "ipaomtk.com | Trip Scout IPA As a tour steering company, Tripadvisor brings people, passions and locations together. We purpose to assist make you a h",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/tripscout-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "73.0.0",
+     "date": "2023-04-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Trip Scout IPA As a tour steering company, Tripadvisor brings people, passions and locations together. We purpose to assist make you a h",
+     "downloadURL": "https://file.ipaomtk.com/ipa/tripscout.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

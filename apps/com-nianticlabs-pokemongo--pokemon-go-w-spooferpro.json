@@ -1,0 +1,50 @@
+{
+ "name": "Pokemon Go (w/ SpooferPro)",
+ "identifier": "dev.perapp.com-nianticlabs-pokemongo",
+ "subtitle": "Pokemon Go injected with SpooferPro",
+ "description": "Single-app source for Pokemon Go (w/ SpooferPro) (com.nianticlabs.pokemongo). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "184f99",
+ "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/8f/0e/5e8f0e6c-3478-3bff-c4ad-03f543322688/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nianticlabs.pokemongo",
+   "name": "Pokemon Go (w/ SpooferPro)",
+   "developerName": "SpooferPro Team",
+   "subtitle": "Pokemon Go injected with SpooferPro",
+   "localizedDescription": "SpooferPro for POGO - iOS GPS Spoofer\n\nWith the tools from our Tweak, you can level up faster and catch the best Pokemon anywhere in the World.",
+   "iconURL": "https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/8f/0e/5e8f0e6c-3478-3bff-c4ad-03f543322688/AppIcon-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "184f99",
+   "screenshots": [
+    "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-1.webp",
+    "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-2.webp",
+    "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-3.webp",
+    "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-4.webp",
+    "https://img.ipa4fun.com/54/5c/d2/1094591345-screenshot-5.webp"
+   ],
+   "versions": [
+    {
+     "version": "0.421.1",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "With iPogo you get a full set of tools to help you be the best. iPogo is a simple, powerful and intuitive app that allows you to teleport to raids, skip animations, auto catch and much more!",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1995",
+     "size": 156747977
+    },
+    {
+     "version": "0.385.0",
+     "date": "2025-10-29T00:00:00Z",
+     "localizedDescription": "Why Use iSpoofer?\r\n\r\n🌍 Teleport to any location instantly\r\n🎮 Access rare & region-locked Pokémon\r\n🏆 Battle in distant gyms & raids\r\n🌀 Explore PokéStops from around the world\r\n✅ Works on iOS 14 – iOS 18 and iOS 26",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1874",
+     "size": 0
+    },
+    {
+     "version": "3.6.0",
+     "date": "2024-11-14T00:00:00Z",
+     "localizedDescription": "Pokemon GO with a bunch of cheats, including joystick-to-walk, increased catch accuracy, sniping, teleporting, etc. USE RESPONSIBLY, OVERUSE CAN GET YOU BANNED.\nLast updated: 08-15-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/11-14-2024/ipogo-3.6.0.ipa",
+     "size": 149124005
+    }
+   ]
+  }
+ ]
+}

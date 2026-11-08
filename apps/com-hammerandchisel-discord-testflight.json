@@ -1,0 +1,61 @@
+{
+ "name": "Discord",
+ "identifier": "dev.perapp.com-hammerandchisel-discord-testflight",
+ "subtitle": "🍎 Theos tweak that bridges Unbound into Discord's native layer to power addon management on iOS",
+ "description": "Single-app source for Discord (com.hammerandchisel.discord.testflight). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7c86f8",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.hammerandchisel.discord.testflight.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hammerandchisel.discord.testflight",
+   "name": "Discord",
+   "developerName": "unbound-app",
+   "subtitle": "🍎 Theos tweak that bridges Unbound into Discord's native layer to power addon management on iOS",
+   "localizedDescription": "Jailbroken:\n\n• Either add the apt repo to your package manager:.\n\nJailed:\n\nTrying to use non-ellekit tweak runtimes will likely break functionality. Ideally always use the pre-patched ipa when sideloading.\n\n• Either add the altsource to your on-device sideloading tool:.\n\nLive reload (HMR):\n\nWhen working on the JavaScript client you can have the app reload automatically whenever you rebuild the bundle, instead of relaunching by hand.\n\n• Run the client's dev server (bun scripts/dev in the client repo). It serves the bundle and a Server-Sent Events stream at /__hot.\n• In Unbound's settings, set:.\n\n• loader.update.url to your dev server's bundle URL, e.g. http://:3000/unbound.bundle\n• loader.update.hmr to true.\n\nloader.update.hmr is off by default, so this never runs for normal users. The HMR endpoint is derived from loader.update.url's origin — no separate setting needed.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.hammerandchisel.discord.testflight.png",
+   "tintColor": "#7c86f8",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "352.0",
+     "date": "2026-10-22T16:11:40Z",
+     "localizedDescription": "• chore(deps): bump actions/upload-artifact from 7.0.1 to 7.0.2[bot].",
+     "downloadURL": "https://github.com/unbound-app/loader-ios/releases/download/v352.0_117522/Unbound.ipa",
+     "size": 100576724
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "aps-environment",
+     "beta-reports-active",
+     "com.apple.developer.associated-domains",
+     "com.apple.developer.avfoundation.multitasking-camera-access",
+     "com.apple.developer.declared-age-range",
+     "com.apple.developer.devicecheck.appattest-environment",
+     "com.apple.developer.networking.carrier-constrained.appcategory",
+     "com.apple.developer.storekit.request-data",
+     "com.apple.developer.team-identifier",
+     "com.apple.developer.usernotifications.communication",
+     "com.apple.security.application-groups",
+     "get-task-allow"
+    ],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+     "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+     "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+     "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+     "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+     "NSLocationAlwaysUsageDescription": "To enable services that require location",
+     "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+     "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+     "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+     "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities.",
+     "NSUserTrackingUsageDescription": "Allowing tracking helps us show you Quests for games you play or are interested in. You can opt out anytime in your iOS settings."
+    }
+   }
+  }
+ ]
+}

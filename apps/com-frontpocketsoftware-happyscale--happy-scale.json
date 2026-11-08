@@ -1,0 +1,44 @@
+{
+ "name": "Happy Scale",
+ "identifier": "dev.perapp.com-frontpocketsoftware-happyscale",
+ "subtitle": "@ipa_dark | 🔄 Счастливые весы - appstore  🇷🇺 Приложение для контроля веса и отслеживания прогресса похудения или набора ",
+ "description": "Single-app source for Happy Scale (com.frontpocketsoftware.happyscale). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1637.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.frontpocketsoftware.happyscale",
+   "name": "Happy Scale",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Счастливые весы - appstore  🇷🇺 Приложение для контроля веса и отслеживания прогресса похудения или набора массы, позволяющее фиксировать",
+   "localizedDescription": "@ipa_dark | 🔄 Счастливые весы - appstore  🇷🇺 Приложение для контроля веса и отслеживания прогресса похудения или набора массы, позволяющее фиксировать",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1637.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.8.1",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@blatants | Happy Scale  • Bundle ID: com.frontpocketsoftware.happyscale • Updated to: 2026.8.1 • Minimum iOS: 16.0 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12890-Happy%20Scale%20v2026.8.1%20Subscription%20Unlocked%20blatant%20Patched.ipa",
+     "size": 42630432
+    },
+    {
+     "version": "2026.8",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@blatants | Happy Scale  • Bundle ID: com.frontpocketsoftware.happyscale • Updated to: 2026.8 • Minimum iOS: 16.0 • Patched • Modifier: Subscription U",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12818-Happy%20Scale%20v2026.8%20Subscription%20Unlocked%20blatant%20Patched.ipa",
+     "size": 42509806
+    },
+    {
+     "version": "2026.7",
+     "date": "2026-09-14T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/HappyScale_2026.7_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 42087969
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Replika",
+ "identifier": "dev.perapp.ai-replika-app",
+ "subtitle": "ipaomtk.com | Replika IPA v9.36.0 is an AI-powered chatbot companion app designed to provide users with a judgment-free ",
+ "description": "Single-app source for Replika (ai.replika.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Replika-8211-AI-Friend.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.replika.app",
+   "name": "Replika",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Replika IPA v9.36.0 is an AI-powered chatbot companion app designed to provide users with a judgment-free space for conversation and emo",
+   "localizedDescription": "ipaomtk.com | Replika IPA v9.36.0 is an AI-powered chatbot companion app designed to provide users with a judgment-free space for conversation and emo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Replika-8211-AI-Friend.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.21.0",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Replika IPA v9.36.0 is an AI-powered chatbot companion app designed to provide users with a judgment-free space for conversation and emo",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Replika_-_AI_Friend-v9.21.0-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

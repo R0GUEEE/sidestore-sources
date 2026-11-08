@@ -1,0 +1,44 @@
+{
+ "name": "AppInfo",
+ "identifier": "dev.perapp.uclort-com-appinfo",
+ "subtitle": "Injected with Nothing By uclort",
+ "description": "Single-app source for AppInfo (uclort.com.AppInfo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/uclort.com.AppInfo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uclort.com.AppInfo",
+   "name": "AppInfo",
+   "developerName": "OwO Source",
+   "subtitle": "Injected with Nothing By uclort",
+   "localizedDescription": "Injected with Nothing By uclort",
+   "iconURL": "https://raw.githubusercontent.com/owo-network/Repo/main/icons/uclort.com.AppInfo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.5",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Nothing By uclort",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-08-21/AppInfo_2.0.5_Nothing_By_uclort_@repo.owo.network.ipa",
+     "size": 4790996
+    },
+    {
+     "version": "0.1.1",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Nothing By uclort",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2023-10-31/AppInfo_0.1.1_Nothing_By_uclort_@repo.owo.network.ipa",
+     "size": 4368910
+    },
+    {
+     "version": "2.0.4",
+     "date": "2024-08-18T00:00:00Z",
+     "localizedDescription": "Injected with Nothing By uclort",
+     "downloadURL": "https://github.com/OwO-Network/Repo/releases/download/2024-08-17/AppInfo_2.0.4_Nothing_By_uclort_@repo.owo.network.ipa",
+     "size": 4778148
+    }
+   ]
+  }
+ ]
+}

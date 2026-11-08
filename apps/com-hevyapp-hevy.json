@@ -1,0 +1,30 @@
+{
+ "name": "Hevy",
+ "identifier": "dev.perapp.com-hevyapp-hevy",
+ "subtitle": "Hevy",
+ "description": "Single-app source for Hevy (com.hevyapp.hevy). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hevyapp.hevy",
+   "name": "Hevy",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.5",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/Hevy_3.2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 146854606
+    }
+   ]
+  }
+ ]
+}

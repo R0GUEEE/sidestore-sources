@@ -1,0 +1,30 @@
+{
+ "name": "DT1",
+ "identifier": "dev.perapp.com-tdmbest-dt1",
+ "subtitle": "DT1",
+ "description": "Single-app source for DT1 (com.tdmbest.DT1). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/130ac46e-9a88-4df9-b2f0-f9a9944bfb4b/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tdmbest.DT1",
+   "name": "DT1",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDT1 ported to iOS!\n(Reupload for zx repo)\n- DT1 ported to iOS\n- Saves visible in files!\n- .sav’s transferable PC/Android - iOS \n- DT1 itch.io\n- Dragonrod’s discord\n\nI messaged the guy that made this. He didn’t want it on his itchio cause if something went wrong it would go under him instead of me.",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/130ac46e-9a88-4df9-b2f0-f9a9944bfb4b/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDT1 ported to iOS!\n(Reupload for zx repo)\n- DT1 ported to iOS\n- Saves visible in files!\n- .sav’s transferable PC/Android - iOS \n- DT1 itch.io\n- Dragonrod’s discord\n\nI messaged the guy that made this. He didn’t want it on his itchio cause if something went wrong it would go under him instead of me.",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/bad21594-27bc-4469-bfd0-718a4c4694a3/DT1-TDMbest_d.ipa",
+     "size": 217267197
+    }
+   ]
+  }
+ ]
+}

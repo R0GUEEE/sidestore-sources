@@ -1,0 +1,30 @@
+{
+ "name": "The Blockheads",
+ "identifier": "dev.perapp.com-majicjungle-blockheads",
+ "subtitle": "Explore, mine, craft and build in this giant and detailed sandbox game. Navigate huge simulated worlds thousands of bloc",
+ "description": "Single-app source for The Blockheads (com.majicjungle.blockheads). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/Blockheads.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.majicjungle.blockheads",
+   "name": "The Blockheads",
+   "developerName": "Majic Jungle Software",
+   "subtitle": "Explore, mine, craft and build in this giant and detailed sandbox game. Navigate huge simulated worlds thousands of blocks wide with a full temperatur",
+   "localizedDescription": "Explore, mine, craft and build in this giant and detailed sandbox game. Navigate huge simulated worlds thousands of blocks wide with a full temperatur\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/NexSideloading/app-source/refs/heads/main/icons/Blockheads.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Explore, mine, craft and build in this giant and detailed sandbox game. Navigate huge simulated worlds thousands of blocks wide with a full temperatur",
+     "downloadURL": "https://github.com/NexSideloading/app-source/releases/download/ipa-files/Blockheads_1.7.4.ipa",
+     "size": 85208920
+    }
+   ]
+  }
+ ]
+}

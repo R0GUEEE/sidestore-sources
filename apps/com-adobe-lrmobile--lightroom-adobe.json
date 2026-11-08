@@ -1,0 +1,30 @@
+{
+ "name": "Lightroom (Adobe)",
+ "identifier": "dev.perapp.com-adobe-lrmobile",
+ "subtitle": "Subscription unlocked. For iPad 🚧",
+ "description": "Single-app source for Lightroom (Adobe) (com.adobe.lrmobile). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/13290.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.lrmobile",
+   "name": "Lightroom (Adobe)",
+   "developerName": "@blatants",
+   "subtitle": "Subscription unlocked. For iPad 🚧",
+   "localizedDescription": "@blatants | Adobe Lightroom for iPad\n\n• Bundle ID: com.adobe.lrmobile\n• Updated to: 12.0\n• Minimum iOS: 18.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\n• Note:\n🚧 For iPad 🚧\n\nJust login and restart the app to unlock the subscription.\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/13290.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.0.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@blatants | Adobe Lightroom for iPad • Bundle ID: com.adobe.lrmobile • Updated to: 12.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscription…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13290-Adobe_Lightroom_for_iPad_v12_0_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 221810101
+    }
+   ]
+  }
+ ]
+}

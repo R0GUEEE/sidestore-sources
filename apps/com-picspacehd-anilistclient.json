@@ -1,0 +1,30 @@
+{
+ "name": "AniClient",
+ "identifier": "dev.perapp.com-picspacehd-anilistclient",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for AniClient (com.picspacehd.anilistclient). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.picspacehd.anilistclient",
+   "name": "AniClient",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picspacehd.anilistclient.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-12-2025/AniClient_1.9.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 16710510
+    }
+   ]
+  }
+ ]
+}

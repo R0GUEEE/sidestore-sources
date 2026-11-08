@@ -1,0 +1,30 @@
+{
+ "name": "ffmpeg",
+ "identifier": "dev.perapp.com-ppgjx-ffmpeg",
+ "subtitle": "FFmpeg-ios is a local audio and video processing tool that runs on iPhone and iPad, suitable for users who need to perfo",
+ "description": "Single-app source for ffmpeg (com.ppgjx.ffmpeg). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ppgjx.ffmpeg.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ppgjx.ffmpeg",
+   "name": "ffmpeg",
+   "developerName": "RipeStore",
+   "subtitle": "FFmpeg-ios is a local audio and video processing tool that runs on iPhone and iPad, suitable for users who need to perform video to audio conversion, ",
+   "localizedDescription": "FFmpeg-ios is a local audio and video processing tool that runs on iPhone and iPad, suitable for users who need to perform video to audio conversion,\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ppgjx.ffmpeg.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "FFmpeg-ios is a local audio and video processing tool that runs on iPhone and iPad, suitable for users who need to perform video to audio conversion, ",
+     "downloadURL": "https://github.com/RipeStore/ffmpeg-ios-builder/releases/download/v1.1-ab6ef64/FFmpegShellIOS-v1.1-ab6ef64-unsigned.ipa",
+     "size": 13423932
+    }
+   ]
+  }
+ ]
+}

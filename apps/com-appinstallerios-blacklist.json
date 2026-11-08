@@ -1,0 +1,30 @@
+{
+ "name": "Blacklist",
+ "identifier": "dev.perapp.com-appinstallerios-blacklist",
+ "subtitle": "ipaomtk.com | The Blacklist iOS 16 and iOS 15 app can be used to open revoked apps and expired AltStore installed apps, ",
+ "description": "Single-app source for Blacklist (com.AppInstalleriOS.Blacklist). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/blacklist-app-1-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AppInstalleriOS.Blacklist",
+   "name": "Blacklist",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Blacklist iOS 16 and iOS 15 app can be used to open revoked apps and expired AltStore installed apps, by taking advantage of the No ",
+   "localizedDescription": "ipaomtk.com | The Blacklist iOS 16 and iOS 15 app can be used to open revoked apps and expired AltStore installed apps, by taking advantage of the No ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/blacklist-app-1-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2023-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Blacklist iOS 16 and iOS 15 app can be used to open revoked apps and expired AltStore installed apps, by taking advantage of the No ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Blacklist1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

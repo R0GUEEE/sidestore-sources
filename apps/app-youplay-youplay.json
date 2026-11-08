@@ -1,0 +1,30 @@
+{
+ "name": "YouPlay",
+ "identifier": "dev.perapp.app-youplay-youplay",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for YouPlay (app.youplay.YouPlay). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/243409.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.youplay.YouPlay",
+   "name": "YouPlay",
+   "developerName": "iOSDecrypted",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\niOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Satella: Unlocks In-App Purchases in some apps and games. --- Auto RevenueCat: Unlock\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/243409.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.8",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\niOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Satella: Unlocks In-App Purchases in some apps and games. --- Auto RevenueCat: Unlock",
+     "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/243409-%E2%80%8E%20%20%20YouPlay_v1.3.8_@iosdecrypted_processed.ipa",
+     "size": 45374569
+    }
+   ]
+  }
+ ]
+}

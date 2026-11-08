@@ -1,0 +1,44 @@
+{
+ "name": "MergeCooking",
+ "identifier": "dev.perapp.com-merge-cooking-theme-restaurant-food",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for MergeCooking (com.merge.cooking.theme.restaurant.food). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
+   "name": "MergeCooking",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.20.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/06-12-2025/MergeCooking_1.20.0_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 300673193
+    },
+    {
+     "version": "1.19.1",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/02-12-2025/MergeCooking_1.19.1_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 293978282
+    },
+    {
+     "version": "1.13.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/13-10-2025/MergeCooking_1.13.0_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 308184655
+    }
+   ]
+  }
+ ]
+}

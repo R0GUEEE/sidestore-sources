@@ -1,0 +1,30 @@
+{
+ "name": "GPS Tracks-ipaomtk.com",
+ "identifier": "dev.perapp.com-dmorneault-gpstracks",
+ "subtitle": "ipaomtk.com | GPS Tracks IPA, Are you an outdoor enthusiast who loves exploring new trails, hiking, biking, or tracking ",
+ "description": "Single-app source for GPS Tracks-ipaomtk.com (com.dmorneault.gpstracks). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/GPS-Tracks-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dmorneault.gpstracks",
+   "name": "GPS Tracks-ipaomtk.com",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | GPS Tracks IPA, Are you an outdoor enthusiast who loves exploring new trails, hiking, biking, or tracking your adventures? If so, then y",
+   "localizedDescription": "ipaomtk.com | GPS Tracks IPA, Are you an outdoor enthusiast who loves exploring new trails, hiking, biking, or tracking your adventures? If so, then y",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/GPS-Tracks-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.1",
+     "date": "2024-09-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | GPS Tracks IPA, Are you an outdoor enthusiast who loves exploring new trails, hiking, biking, or tracking your adventures? If so, then y",
+     "downloadURL": "https://file.ipaomtk.com/ipa/GPSTracks-ipaomtk.com_4.6.1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

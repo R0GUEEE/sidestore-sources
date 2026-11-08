@@ -1,0 +1,30 @@
+{
+ "name": "MobileTSS_TS",
+ "identifier": "dev.perapp.synthetic-mobiletss-ts-0f1b8ada",
+ "subtitle": "iOS app to check signing status of firmwares from Apple server and save SHSH blobs locally.",
+ "description": "Single-app source for MobileTSS_TS (synthetic.mobiletss-ts.0f1b8ada). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/MobileTSS_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.mobiletss-ts.0f1b8ada",
+   "name": "MobileTSS_TS",
+   "developerName": "MobileTSS_TS x CyPwn",
+   "subtitle": "iOS app to check signing status of firmwares from Apple server and save SHSH blobs locally.",
+   "localizedDescription": "iOS app to check signing status of firmwares from Apple server and save SHSH blobs locally.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/MobileTSS_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "iOS app to check signing status of firmwares from Apple server and save SHSH blobs locally.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/MobileTSS_TS.ipa",
+     "size": 828579
+    }
+   ]
+  }
+ ]
+}

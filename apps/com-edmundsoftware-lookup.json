@@ -1,0 +1,30 @@
+{
+ "name": "OneSearch",
+ "identifier": "dev.perapp.com-edmundsoftware-lookup",
+ "subtitle": "ipaomtk.com | OneSearch Fast Search Launcher IPA, the ultimate solution for increasing productivity on your iOS device. ",
+ "description": "Single-app source for OneSearch (com.edmundsoftware.Lookup). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/OneSearch-Fast-Search-Launcher-IPA-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.edmundsoftware.Lookup",
+   "name": "OneSearch",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | OneSearch Fast Search Launcher IPA, the ultimate solution for increasing productivity on your iOS device. In just a few taps, this innov",
+   "localizedDescription": "ipaomtk.com | OneSearch Fast Search Launcher IPA, the ultimate solution for increasing productivity on your iOS device. In just a few taps, this innov",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/OneSearch-Fast-Search-Launcher-IPA-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6",
+     "date": "2024-01-19T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | OneSearch Fast Search Launcher IPA, the ultimate solution for increasing productivity on your iOS device. In just a few taps, this innov",
+     "downloadURL": "https://file.ipaomtk.com/ipa/OneSearch-Fast-Search-Launcher.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

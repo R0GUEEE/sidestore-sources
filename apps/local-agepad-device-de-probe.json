@@ -1,0 +1,36 @@
+{
+ "name": "AgePad",
+ "identifier": "dev.perapp.local-agepad-device-de-probe",
+ "subtitle": "Age of Empires II: Definitive Edition, native on iPad. Your own Steam copy with touch, Apple Pencil and keyboard control",
+ "description": "Single-app source for AgePad (local.agepad.device-de-probe). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b74b31",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/local.agepad.device-de-probe.png",
+ "apps": [
+  {
+   "bundleIdentifier": "local.agepad.device-de-probe",
+   "name": "AgePad",
+   "developerName": "chrissotraidis",
+   "subtitle": "Age of Empires II: Definitive Edition, native on iPad. Your own Steam copy with touch, Apple Pencil and keyboard controls, Steam on the iPad, no streaming",
+   "localizedDescription": "Steam compatibility and account safety are unconfirmed. AgePad modifies local copies of Steam client and SDK files to run on iPadOS and uses internal client interfaces. We cannot confirm whether this integration complies with Steam's terms or what consequences using it could have for your account, including restrictions or bans. I am investigating interoperability changes with the goal of making the port compliant; that outcome is not established or guaranteed. Consider this uncertainty before signing in. For comparable projects and reported bans, see Steam account safety and the full risk review.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/local.agepad.device-de-probe.png",
+   "tintColor": "#b74b31",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/agepad@main/docs/images/ipad-skirmish-20260926.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-09-30T13:41:41Z",
+     "localizedDescription": "AgePad 0.1.0 (developer preview):\n\nPlay your own Steam copy of Age of Empires II: Definitive Edition natively on an iPad with 8 GB of memory.\n\nIn this release:\n\n• AgePad-v0.1.0-ios-unsigned.ipa (about 1 MB): AgePad's own code only. It contains no game or Steam files; scripts/audit-agepad-base.py checks this.\n• AgePad-v0.1.0-padmint.json: the recipe PadMint follows for this version. SHA256SUMS: checksums.\n• Build: game version 488492.107976 (Steam build 25464371), Steam for Mac as of 30 September 2026.\n\n• Without PadMint, run scripts/agepad-ipad.sh inject AgePad-v0.1.0-ios-unsigned.ipa. Either way your own game and Steam files are added and you get your AgePad IPA. Keep that file to yourself.\n• Install it with Sideloadly, AltStore, or Xcode. A paid Apple Developer account is recommended (full matches); a free Apple ID works for short matches.\n• Copy the AgeOfEmpires2Data folder to AgePad with Finder → Files (about 20 GB).\n• Open AgePad, scan the Steam sign-in code with the Steam app on your phone, and play.\n\nWhat works:\n\n• The real game: menu in about 30 seconds, skirmishes at about 120 fps, save and load.\n• Touch, Apple Pencil, mouse, trackpad and keyboard. Tap selects, two-finger tap gives orders, two- or three-finger drag moves the map, pinch zooms. With the Pencil, tap to select, then each tap gives an order until you hold.\n• Steam signed in on the iPad itself, online, or offline through Steam's offline mode.\n\nKnown limits:\n\n• Tested on one iPad (iPad Pro 12.9-inch, M2, 8 GB).\n• Not yet verified: full online matches, sessions over an hour, and a real mouse.\n• Without a paid developer account the app gets about 5 GB of memory; a five-player match fits, with little spare, and long matches may be closed by iPadOS.\n• Xbox Network sign-in doesn't open yet.\n\nUnofficial fan project, not affiliated with Microsoft, Valve, Feral Interactive or Apple. You need your own copy of the game.",
+     "downloadURL": "https://github.com/chrissotraidis/agepad/releases/download/v0.1.0/AgePad-v0.1.0-ios-unsigned.ipa",
+     "size": 1135945
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

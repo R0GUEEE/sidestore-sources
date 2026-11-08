@@ -1,0 +1,30 @@
+{
+ "name": "Lumafusion",
+ "identifier": "dev.perapp.com-luma-touch-lumafusion",
+ "subtitle": "Lumafusion",
+ "description": "Single-app source for Lumafusion (com.luma-touch.LumaFusion). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.luma-touch.LumaFusion",
+   "name": "Lumafusion",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.luma-touch.LumaFusion.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.0",
+     "date": "2025-03-04T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-03-2025/Lumafusion_5.2.0_%40thisismanpreets_apptesters.org.ipa",
+     "size": 165894735
+    }
+   ]
+  }
+ ]
+}

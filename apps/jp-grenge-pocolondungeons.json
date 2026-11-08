@@ -1,0 +1,30 @@
+{
+ "name": "ポコダン",
+ "identifier": "dev.perapp.jp-grenge-pocolondungeons",
+ "subtitle": "ipaomtk.com | Chain Dungeons IPA MOD is a popular mobile game that combines elements of puzzle-solving, role-playing, an",
+ "description": "Single-app source for ポコダン (jp.grenge.pocolondungeons). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/%E3%83%9D%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BA-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.grenge.pocolondungeons",
+   "name": "ポコダン",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Chain Dungeons IPA MOD is a popular mobile game that combines elements of puzzle-solving, role-playing, and dungeon exploration. Players",
+   "localizedDescription": "ipaomtk.com | Chain Dungeons IPA MOD is a popular mobile game that combines elements of puzzle-solving, role-playing, and dungeon exploration. Players",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/08/%E3%83%9D%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%E3%82%BA-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.19.1",
+     "date": "2023-08-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Chain Dungeons IPA MOD is a popular mobile game that combines elements of puzzle-solving, role-playing, and dungeon exploration. Players",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Chain-Dungeons.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

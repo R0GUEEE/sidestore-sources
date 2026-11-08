@@ -1,0 +1,30 @@
+{
+ "name": "StageCameraHD-ipaomtk",
+ "identifier": "dev.perapp.com-sky-nexus-stagecamerahd",
+ "subtitle": "ipaomtk.com | the StageCameraHD Pro camera IPA has emerged as a game-changer, offering a comprehensive and powerful solu",
+ "description": "Single-app source for StageCameraHD-ipaomtk (com.sky-nexus.StageCameraHD). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-7-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sky-nexus.StageCameraHD",
+   "name": "StageCameraHD-ipaomtk",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | the StageCameraHD Pro camera IPA has emerged as a game-changer, offering a comprehensive and powerful solution for capturing stunning vi",
+   "localizedDescription": "ipaomtk.com | the StageCameraHD Pro camera IPA has emerged as a game-changer, offering a comprehensive and powerful solution for capturing stunning vi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/512x512bb-7-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.8.0",
+     "date": "2024-09-07T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | the StageCameraHD Pro camera IPA has emerged as a game-changer, offering a comprehensive and powerful solution for capturing stunning vi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Stage-Camera-HD-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

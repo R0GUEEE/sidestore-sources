@@ -1,0 +1,44 @@
+{
+ "name": "BearPro",
+ "identifier": "dev.perapp.net-shinyfrog-bear-ios",
+ "subtitle": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before forc",
+ "description": "Single-app source for BearPro (net.shinyfrog.bear-iOS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.shinyfrog.bear-iOS",
+   "name": "BearPro",
+   "developerName": "zxcvbn's tweaked IPAs / Strejda603 / HertzSign iPA Library",
+   "subtitle": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollSt",
+   "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollSt",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/net.shinyfrog.bear-iOS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.7",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollSt",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-20-2022/BearPro-1.9.7.ipa",
+     "size": 18798823
+    },
+    {
+     "version": "2.2.1",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollSt",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BearPro/BearPro-2.2.1.ipa",
+     "size": 32533932
+    },
+    {
+     "version": "2.1",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Bear Notes, with pro features unlocked. If you already use Bear Notes from the App Store, back up your notes before force installing this with TrollSt",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/BearPro/BearPro-2.1.ipa",
+     "size": 26290969
+    }
+   ]
+  }
+ ]
+}

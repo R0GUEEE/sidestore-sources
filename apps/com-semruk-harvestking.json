@@ -1,0 +1,37 @@
+{
+ "name": "Harvest King",
+ "identifier": "dev.perapp.com-semruk-harvestking",
+ "subtitle": "ipaomtk.com | What is Harvest King IPA? Harvest King IPA is the iOS installation package of the farming simulation game ",
+ "description": "Single-app source for Harvest King (com.semruk.harvestking). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Harvest-King-IPA-v9.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.semruk.harvestking",
+   "name": "Harvest King",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Harvest King IPA? Harvest King IPA is the iOS installation package of the farming simulation game Harvest King, designed specifi",
+   "localizedDescription": "ipaomtk.com | What is Harvest King IPA? Harvest King IPA is the iOS installation package of the farming simulation game Harvest King, designed specifi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Harvest-King-IPA-v9.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.0",
+     "date": "2026-03-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Harvest King IPA? Harvest King IPA is the iOS installation package of the farming simulation game Harvest King, designed specifi",
+     "downloadURL": "https://file.ipaomtk.com/harvest-king/Harvest-King-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "15.0",
+     "date": "2026-03-01T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Harvest King IPA? Harvest King IPA is the iOS installation package of the farming simulation game Harvest King, designed specifi",
+     "downloadURL": "https://file.ipaomtk.com/harvest-king/Harvest-King-IPAOMTK.COM.ipa",
+     "size": 222073902
+    }
+   ]
+  }
+ ]
+}

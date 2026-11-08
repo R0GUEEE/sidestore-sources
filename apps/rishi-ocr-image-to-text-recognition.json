@@ -1,0 +1,30 @@
+{
+ "name": "Text Scanner",
+ "identifier": "dev.perapp.rishi-ocr-image-to-text-recognition",
+ "subtitle": "ipaomtk.com | OCR Text Scanner IPA stands for optical character recognition, and text scan image to text OCR is the proc",
+ "description": "Single-app source for Text Scanner (rishi.ocr.image.to.text.recognition). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/ocr-text-scanner-img-to-text-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "rishi.ocr.image.to.text.recognition",
+   "name": "Text Scanner",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | OCR Text Scanner IPA stands for optical character recognition, and text scan image to text OCR is the process of extracting the text emb",
+   "localizedDescription": "ipaomtk.com | OCR Text Scanner IPA stands for optical character recognition, and text scan image to text OCR is the process of extracting the text emb",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/ocr-text-scanner-img-to-text-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.3",
+     "date": "2023-03-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | OCR Text Scanner IPA stands for optical character recognition, and text scan image to text OCR is the process of extracting the text emb",
+     "downloadURL": "https://file.ipaomtk.com/ipa/TextScanner.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

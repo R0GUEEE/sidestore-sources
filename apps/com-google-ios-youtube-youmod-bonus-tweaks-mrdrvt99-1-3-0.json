@@ -1,0 +1,30 @@
+{
+ "name": "YouMod + Bonus Tweaks (1.3.0 - mrdrvt99)",
+ "identifier": "dev.perapp.com-google-ios-youtube-youmod-bonus-tweaks-mrdrvt99-1-3-0",
+ "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, Gonerino, IAmYouTube, iSpon",
+ "description": "Single-app source for YouMod + Bonus Tweaks (1.3.0 - mrdrvt99) (com.google.ios.youtube.youmod.bonus.tweaks.mrdrvt99.1.3.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.youmod.bonus.tweaks.mrdrvt99.1.3.0",
+   "name": "YouMod + Bonus Tweaks (1.3.0 - mrdrvt99)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, Gonerino, IAmYouTube, iSponsorBlock, libcolorpicker, YouC",
+   "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, Gonerino, IAmYouTube, iSponsorBlock, libcolorpicker, YouC\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.24.3",
+     "date": "2026-09-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, Gonerino, IAmYouTube, iSponsorBlock, libcolorpicker, YouC",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.24.3_1.3.0.ipa",
+     "size": 119918587
+    }
+   ]
+  }
+ ]
+}

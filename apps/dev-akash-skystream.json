@@ -1,0 +1,38 @@
+{
+ "name": "SkyStream",
+ "identifier": "dev.perapp.dev-akash-skystream",
+ "subtitle": "SkyStream is a modern, cross-platform media streaming client inspired by CloudStream. It uses a custom JavaScript runtim",
+ "description": "Single-app source for SkyStream (dev.akash.skystream). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3966dc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.akash.skystream.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.akash.skystream",
+   "name": "SkyStream",
+   "developerName": "akashdh11",
+   "subtitle": "SkyStream is a modern, cross-platform media streaming client inspired by CloudStream. It uses a custom JavaScript runtime for plugins, allowing users to scrape and stream content from various sources ",
+   "localizedDescription": "SkyStream:\n\n⚠️ Warning: By default, this app doesn't provide any video sources; you have to install extensions to add functionality to the app.\n\nA new, cross-platform media streaming application inspired by CloudStream.\n\nNote: This project is an independent application built with Flutter. While it supports similar extension formats, it is a simplified, modern re-imagining and is not a direct clone or fork of the official client.\n\nPlease don't create illegal extensions or use any that host any copyrighted media. This project does not condone copyright infringement.\n\nOverview:\n\nSkyStream is a modern, media streaming client. It draws inspiration from the versatile architecture of CloudStream but implements a custom, cross-platform JavaScript engine for extensions, enabling support for Android, iOS, and Desktop from a single codebase.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.akash.skystream.png",
+   "tintColor": "#3966dc",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/akashdh11/skystream@master/screenshots/mobile/home.png",
+    "https://cdn.jsdelivr.net/gh/akashdh11/skystream@master/screenshots/mobile/details.png",
+    "https://cdn.jsdelivr.net/gh/akashdh11/skystream@master/screenshots/mobile/settings.png"
+   ],
+   "versions": [
+    {
+     "version": "2.9.0",
+     "date": "2026-10-17T04:49:31Z",
+     "localizedDescription": "🧩 CloudStream Extensions:\n\n• CloudStream (.cs3) extensions on every platform – Install and run CloudStream extensions on Android, iOS, macOS, Windows and Linux. Their providers appear on Home, in search and in the provider list.\n• Repositories – Add a repository by its URL (repo.json or plugins.json), a cloudstreamrepo:// link or a shortcode. MegaRepo is supported, Check Updates shows what changed, and each extension can be updated or removed.\n• Extension settings – An extension's own settings open in SkyStream on every platform and take effect without restarting the app. Extensions' own dialogs and pages open in SkyStream too.\n• Full-screen extension windows – Extensions that open a full-screen page, games included, work on every platform, and Back closes them.\n• One switch – Turn CloudStream off entirely in Settings: no extension loads and their providers are hidden everywhere. Nothing is uninstalled.\n• Richer details – A CloudStream title's page shows everything its extension provides: its logo, score, content rating, status and tags; cast with voice actors; trailers; more titles from the same extension; when the next episode airs; named seasons; and each episode's rating, runtime and air date. A title not out yet says Coming soon. Tracking and skip times now get the title's MAL, AniList, IMDb and TMDB ids.\n\n🛡️ Bot Checks (Cloudflare and Others):\n\n• SkyStream's own browser engine – Bot checks are now cleared in each platform's own browser engine on every platform, Linux included, instead of the old WebView plugin.\n• Checks cleared for you – SkyStream ticks the checkbox itself where it can. When a site needs you, its check opens right where you are.\n• One check per site – A site cleared once works for SkyStream plugins, CloudStream extensions, Nuvio scrapers and Stremio add-ons alike, and stays cleared across restarts until the site asks again.\n• See each site's check – Search, Explore and Home show the sites that need a check, with Verify for one site or all of them. A site can be set not to open its check by itself.\n• Clearer reasons – A site that blocks VPNs, keeps asking, can't be reached, or needs a newer Android System WebView says so.\n• Moved sites followed – When a site moves to a new address, SkyStream follows it.\n• More check vendors – DDoS-Guard and other vendors are handled, and a captcha an extension asks for is shown to you to solve.\n\n🔎 Search:\n\n• Universal search – One search bar for SkyStream, CloudStream, Stremio and Nuvio: a section for each Stremio add-on and one for Nuvio, with every result tagged with where it came from.\n• Search in every language – Titles are found whatever their accents, letter forms, digits or spacing: \"pokemon\" finds \"Pokémon\", and Arabic, Persian, Urdu, Hebrew, Turkish and Indian-language titles match the way they are typed. Japanese, Chinese and Thai titles written without spaces are found by any part of the name, and Korean ones with or without spaces. A provider whose titles are all in another script shows them instead of nothing (PR #127).\n• Traditional and Simplified Chinese – A search in either finds titles written in the other: 复仇者联盟 finds 復仇者聯盟, and 活着 finds 活著.\n\n🎬 Player & Playback:\n\n• Volume and brightness swipes like VLC – Both follow your finger with no lag. The volume boost above 100% shows in orange, and a swipe from below 100% stops there first: swipe up again to go past it.\n• Volume keys – On Android the volume keys change the video's volume even while it is paused. On a desktop keyboard, holding a volume key keeps stepping.\n• Orientation – Leaving the player returns to your device's orientation, with the rotation lock respected.\n• Rotate button – On phones and tablets, a Rotate button turns the player between landscape and portrait. The player still turns to fit each video first; your choice holds for the rest of that video, and the next one fits itself again. It can be hidden in Player Controls. iPads and Android 16 tablets don't let apps turn the screen, so they d",
+     "downloadURL": "https://github.com/akashdh11/skystream/releases/download/v2.9.0/skystream-ios-unsigned-v2.9.0.ipa",
+     "size": 75949734
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

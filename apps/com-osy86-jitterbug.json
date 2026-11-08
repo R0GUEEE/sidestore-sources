@@ -1,0 +1,30 @@
+{
+ "name": "Jitterbug",
+ "identifier": "dev.perapp.com-osy86-jitterbug",
+ "subtitle": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on t",
+ "description": "Single-app source for Jitterbug (com.osy86.Jitterbug). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osy86.Jitterbug.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.osy86.Jitterbug",
+   "name": "Jitterbug",
+   "developerName": "osy",
+   "subtitle": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT…",
+   "localizedDescription": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT enabled. Can also establish a VPN tunnel using TrollStore to run apps on the local device without needing a second device.\nLast updated: 12-12-2023\nStatus: ❔\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.osy86.Jitterbug.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.1",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Application that enables wireless connection to another iOS device (none of which are jailbroken) and launch an app on the connected device with JIT…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Jitterbug/Jitterbug-1.3.1.ipa",
+     "size": 23012478
+    }
+   ]
+  }
+ ]
+}

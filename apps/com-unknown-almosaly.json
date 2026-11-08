@@ -1,0 +1,30 @@
+{
+ "name": "AlMosaly",
+ "identifier": "dev.perapp.com-unknown-almosaly",
+ "subtitle": "ئەپلیکەیشنێک بۆ زانینی کاتەکانی نوێژ و ئاراستەی قیبلە، وە بەشێکی هەیە بۆ دوعا و زیکرەکان، لەگەڵ هەموو سوودەکانی",
+ "description": "Single-app source for AlMosaly (com.unknown.almosaly). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/AlMosaly.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.almosaly",
+   "name": "AlMosaly",
+   "developerName": "Karbin-Store",
+   "subtitle": "ئەپلیکەیشنێک بۆ زانینی کاتەکانی نوێژ و ئاراستەی قیبلە، وە بەشێکی هەیە بۆ دوعا و زیکرەکان، لەگەڵ هەموو سوودەکانی",
+   "localizedDescription": "ئەپلیکەیشنێک بۆ زانینی کاتەکانی نوێژ و ئاراستەی قیبلە، وە بەشێکی هەیە بۆ دوعا و زیکرەکان، لەگەڵ هەموو سوودەکانی",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/AlMosaly.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "42.11",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "ئەپلیکەیشنێک بۆ زانینی کاتەکانی نوێژ و ئاراستەی قیبلە، وە بەشێکی هەیە بۆ دوعا و زیکرەکان، لەگەڵ هەموو سوودەکانی",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/AlMosaly_42.11.ipa",
+     "size": 164440000
+    }
+   ]
+  }
+ ]
+}

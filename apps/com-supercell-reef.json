@@ -1,0 +1,30 @@
+{
+ "name": "Reef",
+ "identifier": "dev.perapp.com-supercell-reef",
+ "subtitle": "ipaomtk.com | Boom Beach IPA Strategy War Game v54.83 is a captivating mobile combat strategy game developed by Supercel",
+ "description": "Single-app source for Reef (com.supercell.reef). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Boom-Beach-Strategy-War-Game.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.supercell.reef",
+   "name": "Reef",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Boom Beach IPA Strategy War Game v54.83 is a captivating mobile combat strategy game developed by Supercell, the creators of Clash of Cl",
+   "localizedDescription": "ipaomtk.com | Boom Beach IPA Strategy War Game v54.83 is a captivating mobile combat strategy game developed by Supercell, the creators of Clash of Cl",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Boom-Beach-Strategy-War-Game.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "54.83",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Boom Beach IPA Strategy War Game v54.83 is a captivating mobile combat strategy game developed by Supercell, the creators of Clash of Cl",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Boom_Beach_Strategy_War_Game-v54.83-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

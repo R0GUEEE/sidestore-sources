@@ -1,0 +1,30 @@
+{
+ "name": "Zombie Kingdom",
+ "identifier": "dev.perapp.com-gameberrystudio-kzombiesaga",
+ "subtitle": "ipaomtk.com | ZOMBIE Kingdom: Survival is a fun and addictive survival game. The game features impressive graphics, well",
+ "description": "Single-app source for Zombie Kingdom (com.gameberrystudio.kzombieSaga). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/zombie-kingdom-survival-afk-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gameberrystudio.kzombieSaga",
+   "name": "Zombie Kingdom",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | ZOMBIE Kingdom: Survival is a fun and addictive survival game. The game features impressive graphics, well-done sound effects, and a var",
+   "localizedDescription": "ipaomtk.com | ZOMBIE Kingdom: Survival is a fun and addictive survival game. The game features impressive graphics, well-done sound effects, and a var",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/zombie-kingdom-survival-afk-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.1.0",
+     "date": "2023-07-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | ZOMBIE Kingdom: Survival is a fun and addictive survival game. The game features impressive graphics, well-done sound effects, and a var",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Zombie-Kingdom.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

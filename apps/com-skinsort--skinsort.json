@@ -1,0 +1,37 @@
+{
+ "name": "SkinSort",
+ "identifier": "dev.perapp.com-skinsort",
+ "subtitle": "SkinSort",
+ "description": "Single-app source for SkinSort (com.skinsort). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/607a338c-7c00-4983-818b-1a9d4e0b08e0/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.skinsort",
+   "name": "SkinSort",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: SkinSort - Skincare Scanner\n\nTweak: Subscription Unlocked\n\nVersion: 1.54\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/607a338c-7c00-4983-818b-1a9d4e0b08e0/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.54",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: SkinSort - Skincare Scanner\n\nTweak: Subscription Unlocked\n\nVersion: 1.54\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/d98df374-c55c-401b-bbac-3993f6245fb0/SkinSort_-_Skincare_Scanner-v1.54-riftysipas.ipa",
+     "size": 16791281
+    },
+    {
+     "version": "1.50",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: SkinSort - Skincare Scanner\n\nTweak: Subscription Unlocked\n\nVersion: 1.50\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/31d526ea-ae01-4f9b-940b-dd65ba623ebc/SkinSort_-_Skincare_Scanner-v1.50-riftysipas.ipa",
+     "size": 16656371
+    }
+   ]
+  }
+ ]
+}

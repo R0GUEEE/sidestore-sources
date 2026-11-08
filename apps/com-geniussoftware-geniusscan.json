@@ -1,0 +1,30 @@
+{
+ "name": "GeniusScan",
+ "identifier": "dev.perapp.com-geniussoftware-geniusscan",
+ "subtitle": "GeniusScan",
+ "description": "Single-app source for GeniusScan (com.geniussoftware.GeniusScan). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.geniussoftware.GeniusScan.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.geniussoftware.GeniusScan",
+   "name": "GeniusScan",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.geniussoftware.GeniusScan.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.6.2",
+     "date": "2025-12-19T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/GeniusScan_8.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 53234227
+    }
+   ]
+  }
+ ]
+}

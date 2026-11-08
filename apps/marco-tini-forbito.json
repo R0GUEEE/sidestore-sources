@@ -1,0 +1,30 @@
+{
+ "name": "Word of the day",
+ "identifier": "dev.perapp.marco-tini-forbito",
+ "subtitle": "ipaomtk.com | Word of the day IPA v2.2.4 is an educational mobile application designed to expand users’ vocabulary effor",
+ "description": "Single-app source for Word of the day (Marco-Tini.Forbito). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Word-of-the-day.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "Marco-Tini.Forbito",
+   "name": "Word of the day",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Word of the day IPA v2.2.4 is an educational mobile application designed to expand users’ vocabulary effortlessly. This user-friendly ap",
+   "localizedDescription": "ipaomtk.com | Word of the day IPA v2.2.4 is an educational mobile application designed to expand users’ vocabulary effortlessly. This user-friendly ap",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/Word-of-the-day.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.4",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Word of the day IPA v2.2.4 is an educational mobile application designed to expand users’ vocabulary effortlessly. This user-friendly ap",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Word_of_the_day-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

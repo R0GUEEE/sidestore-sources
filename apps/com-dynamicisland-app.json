@@ -1,0 +1,37 @@
+{
+ "name": "Island",
+ "identifier": "dev.perapp.com-dynamicisland-app",
+ "subtitle": "ipaomtk.com | Wallpapers for Dynamic Island IPA ⁢the digital aesthetic of our⁣ devices has ⁢become⁢ a canvas for self-ex",
+ "description": "Single-app source for Island (com.dynamicisland.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Wallpapers-for-Dynamic-Island-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dynamicisland.app",
+   "name": "Island",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Wallpapers for Dynamic Island IPA ⁢the digital aesthetic of our⁣ devices has ⁢become⁢ a canvas for self-expression. Among​ the latest in",
+   "localizedDescription": "ipaomtk.com | Wallpapers for Dynamic Island IPA ⁢the digital aesthetic of our⁣ devices has ⁢become⁢ a canvas for self-expression. Among​ the latest in",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/Wallpapers-for-Dynamic-Island-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WallpapersforDynamicIsland/WallpapersforDynamicIsland-1.9.1.ipa",
+     "size": 34490423
+    },
+    {
+     "version": "1.10.0",
+     "date": "2025-04-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Wallpapers for Dynamic Island IPA ⁢the digital aesthetic of our⁣ devices has ⁢become⁢ a canvas for self-expression. Among​ the latest in",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Wallpapers-for-Dynamic-Island-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

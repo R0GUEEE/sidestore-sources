@@ -1,0 +1,30 @@
+{
+ "name": "Persona",
+ "identifier": "dev.perapp.com-tickettothemoon-video-persona",
+ "subtitle": "Persona",
+ "description": "Single-app source for Persona (com.tickettothemoon.video.persona). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tickettothemoon.video.persona",
+   "name": "Persona",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with VIP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15.42",
+     "date": "2026-07-02T00:00:00Z",
+     "localizedDescription": "Injected with VIP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/Persona_1.15.42_VIP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 201825343
+    }
+   ]
+  }
+ ]
+}

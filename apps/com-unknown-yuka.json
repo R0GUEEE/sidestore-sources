@@ -1,0 +1,37 @@
+{
+ "name": "Yuka",
+ "identifier": "dev.perapp.com-unknown-yuka",
+ "subtitle": "Yuka by Karbin-Store",
+ "description": "Single-app source for Yuka (com.unknown.yuka). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Yuka.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.yuka",
+   "name": "Yuka",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Yuka.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.42",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Yuka-v4.45.ipa",
+     "size": 127110000
+    },
+    {
+     "version": "4.45",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Yuka-v4.45.ipa",
+     "size": 133733253
+    }
+   ]
+  }
+ ]
+}

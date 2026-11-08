@@ -1,0 +1,30 @@
+{
+ "name": "WaterMinder",
+ "identifier": "dev.perapp.com-waterminder-waterminder",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for WaterMinder (com.waterminder.waterminder). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.waterminder.waterminder",
+   "name": "WaterMinder",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/WaterMinder_7.2_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 168603646
+    }
+   ]
+  }
+ ]
+}

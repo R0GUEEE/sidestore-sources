@@ -1,0 +1,30 @@
+{
+ "name": "Rest",
+ "identifier": "dev.perapp.com-evolve-helm",
+ "subtitle": "Rest",
+ "description": "Single-app source for Rest (com.evolve.helm). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.evolve.helm",
+   "name": "Rest",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.209.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Rest_3.209.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 135163701
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "HeadOn",
+ "identifier": "dev.perapp.com-instagames-headon",
+ "subtitle": "ipaomtk.com | HeadOn IPA a body cam shooter that invites users‍ to step into the shoes of a first responder, navigating ",
+ "description": "Single-app source for HeadOn (com.instagames.headon). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/HeadOn-8211-Body-Cam-Shooter-Game-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.instagames.headon",
+   "name": "HeadOn",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | HeadOn IPA a body cam shooter that invites users‍ to step into the shoes of a first responder, navigating high-stakes scenarios with bot",
+   "localizedDescription": "ipaomtk.com | HeadOn IPA a body cam shooter that invites users‍ to step into the shoes of a first responder, navigating high-stakes scenarios with bot",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/HeadOn-8211-Body-Cam-Shooter-Game-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.0",
+     "date": "2025-04-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | HeadOn IPA a body cam shooter that invites users‍ to step into the shoes of a first responder, navigating high-stakes scenarios with bot",
+     "downloadURL": "https://file.ipaomtk.com/ipa/HeadOn-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "kfd",
+ "identifier": "dev.perapp.com-34306-kfd",
+ "subtitle": "ipaomtk.com | Ponba Jailbreak is a semi-untethered jailbreak for iOS 16.0 – 16.6. It was released on July 28, 2023, by t",
+ "description": "Single-app source for kfd (com.34306.kfd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/panba-jailbreak-e1690831013975-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.34306.kfd",
+   "name": "kfd",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Ponba Jailbreak is a semi-untethered jailbreak for iOS 16.0 – 16.6. It was released on July 28, 2023, by the developer ponba. The jailbr",
+   "localizedDescription": "ipaomtk.com | Ponba Jailbreak is a semi-untethered jailbreak for iOS 16.0 – 16.6. It was released on July 28, 2023, by the developer ponba. The jailbr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/panba-jailbreak-e1690831013975-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2023-07-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Ponba Jailbreak is a semi-untethered jailbreak for iOS 16.0 – 16.6. It was released on July 28, 2023, by the developer ponba. The jailbr",
+     "downloadURL": "https://file.ipaomtk.com/ipa/kfd_12mini_16.6b1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

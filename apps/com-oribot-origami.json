@@ -1,0 +1,30 @@
+{
+ "name": "Origami",
+ "identifier": "dev.perapp.com-oribot-origami",
+ "subtitle": "Origami",
+ "description": "Single-app source for Origami (com.oribot.origami). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.oribot.origami",
+   "name": "Origami",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Origami_5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 204221518
+    }
+   ]
+  }
+ ]
+}

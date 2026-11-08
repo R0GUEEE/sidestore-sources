@@ -1,0 +1,44 @@
+{
+ "name": "MoneyManagerExpenseBudget",
+ "identifier": "dev.perapp.com-realbyteapps-moneymanager2",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for MoneyManagerExpenseBudget (com.realbyteapps.MoneyManager2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.realbyteapps.MoneyManager2",
+   "name": "MoneyManagerExpenseBudget",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.realbyteapps.MoneyManager2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.12.2",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/09-10-2025/MoneyManagerExpenseBudget_2.12.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 26982689
+    },
+    {
+     "version": "2.11.14",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Personal account management app. A user requested it so here it is. Last updated: 08-14-2024 Status: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MoneyManagerPremium/MoneyManagerPremium-2.11.14.ipa",
+     "size": 21046084
+    },
+    {
+     "version": "2.12.3",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-10-2025/MoneyManagerExpenseBudget_2.12.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 26990483
+    }
+   ]
+  }
+ ]
+}

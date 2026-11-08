@@ -1,0 +1,44 @@
+{
+ "name": "WABusiness",
+ "identifier": "dev.perapp.net-whatsapp-whatsappsmb",
+ "subtitle": "WABusiness",
+ "description": "Single-app source for WABusiness (net.whatsapp.WhatsAppSMB). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+   "name": "WABusiness",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.42.77",
+     "date": "2026-11-02T09:51:12+00:00",
+     "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793613547742-r26ig/net.whatsapp.WhatsAppSMB_26.42.77_watusi3_1.3.29_sl.ipa",
+     "size": 190347952
+    },
+    {
+     "version": "26.41.75",
+     "date": "2026-10-24T08:05:12+00:00",
+     "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41\n- Fixed viewed statuses being marked as seen for their sender after relaunching WhatsApp with Mark as Viewed enabled.\n- Fixed a crash when viewing some statuses with the Download or Mark as Viewed buttons enabled.\n- Fixed Allow View Once Screenshot/Recording not working on newer WhatsApp versions.",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196679-8ueg6/net.whatsapp.WhatsAppSMB_26.41.75_watusi3_1.3.28_sl.ipa",
+     "size": 187050481
+    },
+    {
+     "version": "26.41.74",
+     "date": "2026-10-20T06:32:12+00:00",
+     "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41.X\n- Fixed Status Archive not saving your statuses or their viewers on WhatsApp's new internal status storage.\n- Fixed a crash when viewing a status from the Statuses Bar.",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430259-1xo13/net.whatsapp.WhatsAppSMB_26.41.74_watusi3_1.3.27_sl.ipa",
+     "size": 186824364
+    }
+   ]
+  }
+ ]
+}

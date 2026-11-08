@@ -1,0 +1,30 @@
+{
+ "name": "MobileScanner",
+ "identifier": "dev.perapp.com-glority-everlens",
+ "subtitle": "MobileScanner",
+ "description": "Single-app source for MobileScanner (com.glority.everlens). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.glority.everlens",
+   "name": "MobileScanner",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.26.3",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/MobileScanner_2.26.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 119913575
+    }
+   ]
+  }
+ ]
+}

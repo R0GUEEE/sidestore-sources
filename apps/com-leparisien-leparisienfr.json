@@ -1,0 +1,30 @@
+{
+ "name": "Le Parisien",
+ "identifier": "dev.perapp.com-leparisien-leparisienfr",
+ "subtitle": "ipaomtk.com | staying up-to-date with the latest developments in Paris has never been more important. Enter the Le Paris",
+ "description": "Single-app source for Le Parisien (com.leparisien.leparisienfr). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/unnamed-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leparisien.leparisienfr",
+   "name": "Le Parisien",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | staying up-to-date with the latest developments in Paris has never been more important. Enter the Le Parisien l’info en direct IPA app, ",
+   "localizedDescription": "ipaomtk.com | staying up-to-date with the latest developments in Paris has never been more important. Enter the Le Parisien l’info en direct IPA app, ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/unnamed-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.9.2",
+     "date": "2024-09-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | staying up-to-date with the latest developments in Paris has never been more important. Enter the Le Parisien l’info en direct IPA app, ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Le-Parisien-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

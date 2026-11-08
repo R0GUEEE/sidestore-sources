@@ -1,0 +1,30 @@
+{
+ "name": "Image Size",
+ "identifier": "dev.perapp.com-rockybrain-resizeimage",
+ "subtitle": "ipaomtk.com | Resize Picture IPA pictures have become an integral part of our lives. We capture precious moments, docume",
+ "description": "Single-app source for Image Size (com.rockybrain.resizeimage). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/600x600bb-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockybrain.resizeimage",
+   "name": "Image Size",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Resize Picture IPA pictures have become an integral part of our lives. We capture precious moments, document important events, and share",
+   "localizedDescription": "ipaomtk.com | Resize Picture IPA pictures have become an integral part of our lives. We capture precious moments, document important events, and share",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/600x600bb-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2023-05-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Resize Picture IPA pictures have become an integral part of our lives. We capture precious moments, document important events, and share",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Resize-Imag.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Daylio",
+ "identifier": "dev.perapp.net-daylio-daylio",
+ "subtitle": "@ipa_dark | 🔄 Daylio Дневник, Ежедневник - appstore  🇷🇺 Дневник и трекер настроения, позволяющий отмечать эмоции, записы",
+ "description": "Single-app source for Daylio (net.daylio.Daylio). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1645.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.daylio.Daylio",
+   "name": "Daylio",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Daylio Дневник, Ежедневник - appstore  🇷🇺 Дневник и трекер настроения, позволяющий отмечать эмоции, записывать события и привычки, вести",
+   "localizedDescription": "@ipa_dark | 🔄 Daylio Дневник, Ежедневник - appstore  🇷🇺 Дневник и трекер настроения, позволяющий отмечать эмоции, записывать события и привычки, вести",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1645.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.74.5",
+     "date": "2026-08-15T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Daylio Дневник, Ежедневник - appstore  🇷🇺 Дневник и трекер настроения, позволяющий отмечать эмоции, записывать события и привычки, вести",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1645-Daylio%20Premium%20%5Bv1.74.5%5D%28tg@ipa_dark%29.ipa",
+     "size": 155276252
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Podium",
+ "identifier": "dev.perapp.com-leviidev-podium",
+ "subtitle": "Podium is a Classic iPod Touch Emulator.",
+ "description": "Single-app source for Podium (com.leviidev.podium). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.leviidev.podium.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.leviidev.podium",
+   "name": "Podium",
+   "developerName": "Leviidev",
+   "subtitle": "Podium is a Classic iPod Touch Emulator.",
+   "localizedDescription": "Podium is a Classic iPod Touch Emulator.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.leviidev.podium.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Podium is a Classic iPod Touch Emulator.",
+     "downloadURL": "https://github.com/Leviidev/Podium/releases/download/0.1.0/Podium_v0.1.0.ipa",
+     "size": 5193178
+    }
+   ]
+  }
+ ]
+}

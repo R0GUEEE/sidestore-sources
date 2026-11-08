@@ -1,0 +1,30 @@
+{
+ "name": "Grand Truck Simulator 2",
+ "identifier": "dev.perapp.com-unknown-grandtrucksimulator2",
+ "subtitle": "Hack Features",
+ "description": "Single-app source for Grand Truck Simulator 2 (com.unknown.grandtrucksimulator2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Grand.Truck.Simulator.2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.grandtrucksimulator2",
+   "name": "Grand Truck Simulator 2",
+   "developerName": "Karbin-Store",
+   "subtitle": "Hack Features",
+   "localizedDescription": "Hack Features",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Grand.Truck.Simulator.2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.34",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "Hack Features",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/GrandTruckSimulator2.ipa",
+     "size": 147530000
+    }
+   ]
+  }
+ ]
+}

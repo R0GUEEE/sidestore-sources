@@ -1,0 +1,30 @@
+{
+ "name": "My Talking Tom+ (Apple Arcade)",
+ "identifier": "dev.perapp.com-outfit7-mytalkingtom-arcade",
+ "subtitle": "My Talking Tom+ (Apple Arcade) by sidelix",
+ "description": "Single-app source for My Talking Tom+ (Apple Arcade) (com.outfit7.mytalkingtom.arcade). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6abd941082d38.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.outfit7.mytalkingtom.arcade",
+   "name": "My Talking Tom+ (Apple Arcade)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Talking Tom is the cat making every day a fun adventure.\r\n\r\nPlayers adopt this virtual pet, keep him happy and help him explore his world.\r\n\r\n- Talking Tom can really talk\r\n- Fashion and furniture items to collect\r\n- Mini games add action, adventure and fun\r\n- Travel destinations are waiting to be explored\r\n- Photo albums to be filled with memories\r\n- And more\r\n\r\nCustomer support: support@outfit7.com",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6abd941082d38.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "25.4.1",
+     "date": "2026-09-30T00:00:00Z",
+     "localizedDescription": "Talking Tom is the cat making every day a fun adventure.\r\n\r\nPlayers adopt this virtual pet, keep him happy and help him explore his world.\r\n\r\n- Talking Tom can really talk\r\n- Fashion and furniture items to collect\r\n- Mini games add action, adventure and fun\r\n- Travel destinations are waiting to be explored\r\n- Photo albums to be filled with memories\r\n- And more\r\n\r\nCustomer support: support@outfit7.com",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2411",
+     "size": 141639816
+    }
+   ]
+  }
+ ]
+}

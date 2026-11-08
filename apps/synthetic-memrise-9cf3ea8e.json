@@ -1,0 +1,30 @@
+{
+ "name": "Memrise",
+ "identifier": "dev.perapp.synthetic-memrise-9cf3ea8e",
+ "subtitle": "Memrise by Karbin-Store",
+ "description": "Single-app source for Memrise (synthetic.memrise.9cf3ea8e). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Memrise.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.memrise.9cf3ea8e",
+   "name": "Memrise",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "بەرنامەیەکی فێربوونی زمان",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Memrise.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.28",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "بەرنامەیەکی فێربوونی زمان",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Memrise_2024.10.28.ipa",
+     "size": 135510000
+    }
+   ]
+  }
+ ]
+}

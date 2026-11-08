@@ -1,0 +1,30 @@
+{
+ "name": "ExtensionFix",
+ "identifier": "dev.perapp.org-apptesters-repo-extensionfix",
+ "subtitle": "ExtensionFix",
+ "description": "Single-app source for ExtensionFix (org.apptesters.repo.extensionfix). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "org.apptesters.repo.extensionfix",
+   "name": "ExtensionFix",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "ExtensionFix",
+   "iconURL": "https://apptesters.org/wp-content/uploads/2024/04/AppTesters-Logo-Site-Icon.webp",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-12-06T00:00:00Z",
+     "localizedDescription": "ExtensionFix",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2024/ExtensionFix_1.0_%40thisismanpreets_apptesters.org.dylib",
+     "size": 3091600
+    }
+   ]
+  }
+ ]
+}

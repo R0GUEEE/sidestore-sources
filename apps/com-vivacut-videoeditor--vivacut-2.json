@@ -1,0 +1,30 @@
+{
+ "name": "Vivacut",
+ "identifier": "dev.perapp.com-vivacut-videoeditor",
+ "subtitle": "Vivacut",
+ "description": "Single-app source for Vivacut (com.vivacut.videoeditor). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vivacut.videoeditor",
+   "name": "Vivacut",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.8",
+     "date": "2025-01-25T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/Vivacut_4.0.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 171347646
+    }
+   ]
+  }
+ ]
+}

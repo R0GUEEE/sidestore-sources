@@ -1,0 +1,30 @@
+{
+ "name": "Draw it+",
+ "identifier": "dev.perapp.com-kwalee-drawitplus",
+ "subtitle": "@ipa_dark | 🔄 Draw It+ - appstore  🇷🇺 Казуальная игра на скорость, где нужно как можно быстрее рисовать предложенные пре",
+ "description": "Single-app source for Draw it+ (com.kwalee.drawitplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1670.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kwalee.drawitplus",
+   "name": "Draw it+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Draw It+ - appstore  🇷🇺 Казуальная игра на скорость, где нужно как можно быстрее рисовать предложенные предметы, соревноваться на время ",
+   "localizedDescription": "@ipa_dark | 🔄 Draw It+ - appstore  🇷🇺 Казуальная игра на скорость, где нужно как можно быстрее рисовать предложенные предметы, соревноваться на время ",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1670.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Draw It+ - appstore  🇷🇺 Казуальная игра на скорость, где нужно как можно быстрее рисовать предложенные предметы, соревноваться на время ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1670-Draw%20It%20%5Bv1.0.2%5D%28tg@ipa_dark%29.ipa",
+     "size": 124176618
+    }
+   ]
+  }
+ ]
+}

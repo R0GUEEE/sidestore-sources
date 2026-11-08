@@ -1,0 +1,44 @@
+{
+ "name": "NightSkyPlus",
+ "identifier": "dev.perapp.com-icandiapps-nightsky",
+ "subtitle": "NightSkyPlus by iOSGods!",
+ "description": "Single-app source for NightSkyPlus (com.icandiapps.nightsky). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.icandiapps.nightsky.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.icandiapps.nightsky",
+   "name": "NightSkyPlus",
+   "developerName": "iOSGods!",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.icandiapps.nightsky.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.2",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 06-23-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NightSkyPlus/NightSkyPlus-12.2.ipa",
+     "size": 659348721
+    },
+    {
+     "version": "12.3",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 06-23-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NightSkyPlus/NightSkyPlus-12.3.ipa",
+     "size": 663639512
+    },
+    {
+     "version": "12.6",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Night Sky transforms your device into an impressive personal planetarium. Effortlessly discover stars, planets, constellations, and satellites above with this enchanting tool. Whether you're seeking out a specific constellation or the International Space Station, Night Sky makes it easy to explore and research the heavens.\nLast updated: 06-23-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/NightSkyPlus/NightSkyPlus-12.6.ipa",
+     "size": 687902124
+    }
+   ]
+  }
+ ]
+}

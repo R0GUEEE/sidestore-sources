@@ -1,0 +1,30 @@
+{
+ "name": "Plantsnap",
+ "identifier": "dev.perapp.net-plantsnap-freemium",
+ "subtitle": "Plantsnap",
+ "description": "Single-app source for Plantsnap (net.plantsnap.freemium). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.plantsnap.freemium",
+   "name": "Plantsnap",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.5.9",
+     "date": "2025-01-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-01-2025/Plantsnap_6.5.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 74994263
+    }
+   ]
+  }
+ ]
+}

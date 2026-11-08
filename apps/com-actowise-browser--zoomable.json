@@ -1,0 +1,44 @@
+{
+ "name": "Zoomable",
+ "identifier": "dev.perapp.com-actowise-browser",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Zoomable (com.actowise.browser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.actowise.browser",
+   "name": "Zoomable",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.actowise.browser.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Zoomable_3.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 5515132
+    },
+    {
+     "version": "3.6",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/20-03-2026/Zoomable_3.6_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 5946848
+    },
+    {
+     "version": "3.4",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/07-10-2025/Zoomable_3.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 5599581
+    }
+   ]
+  }
+ ]
+}

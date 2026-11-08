@@ -1,0 +1,30 @@
+{
+ "name": "Netflix",
+ "identifier": "dev.perapp.com-unknown-netflix",
+ "subtitle": "هیچ ڕێکلامێک نیە ✅  هەموو تایبەتمەندیەکانی قفڵ کراوەکان کراونەتۆ ✅  وەرگێڕانی عەرەبی زیاد کراوە ✅",
+ "description": "Single-app source for Netflix (com.unknown.netflix). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Netflixxxxx.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.netflix",
+   "name": "Netflix",
+   "developerName": "Karbin-Store",
+   "subtitle": "هیچ ڕێکلامێک نیە ✅  هەموو تایبەتمەندیەکانی قفڵ کراوەکان کراونەتۆ ✅  وەرگێڕانی عەرەبی زیاد کراوە ✅",
+   "localizedDescription": "هیچ ڕێکلامێک نیە ✅  هەموو تایبەتمەندیەکانی قفڵ کراوەکان کراونەتۆ ✅  وەرگێڕانی عەرەبی زیاد کراوە ✅",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Netflixxxxx.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0",
+     "date": "2025-01-17T00:00:00Z",
+     "localizedDescription": "هیچ ڕێکلامێک نیە ✅  هەموو تایبەتمەندیەکانی قفڵ کراوەکان کراونەتۆ ✅  وەرگێڕانی عەرەبی زیاد کراوە ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-four/releases/download/kara-ipa-4/Netflix_4.0_.ipa",
+     "size": 16680000
+    }
+   ]
+  }
+ ]
+}

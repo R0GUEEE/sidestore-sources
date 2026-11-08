@@ -1,0 +1,30 @@
+{
+ "name": "Smart Tools",
+ "identifier": "dev.perapp.com-pcmehanik-smart-toolbox",
+ "subtitle": "ipaomtk.com | Smart Tools Utilities IPA A set of application equipment to help you in dozens of various jobs – Smart Too",
+ "description": "Single-app source for Smart Tools (com.pcmehanik.Smart-ToolBox). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/smart-tools-utilities-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pcmehanik.Smart-ToolBox",
+   "name": "Smart Tools",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Smart Tools Utilities IPA A set of application equipment to help you in dozens of various jobs – Smart Tools – Utilities. This is dubbed",
+   "localizedDescription": "ipaomtk.com | Smart Tools Utilities IPA A set of application equipment to help you in dozens of various jobs – Smart Tools – Utilities. This is dubbed",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/smart-tools-utilities-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6",
+     "date": "2023-04-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Smart Tools Utilities IPA A set of application equipment to help you in dozens of various jobs – Smart Tools – Utilities. This is dubbed",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Smart-ToolBox.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

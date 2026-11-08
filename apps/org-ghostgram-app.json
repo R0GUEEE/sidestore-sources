@@ -1,0 +1,30 @@
+{
+ "name": "Ghostgram",
+ "identifier": "dev.perapp.org-ghostgram-app",
+ "subtitle": "@ipa_dark | 🔄 Ghostgram - мод Telegram 🇷🇺 Телеграмм клиент с расширенным функционалом ⚠️ Для работы уведомлений нужен се",
+ "description": "Single-app source for Ghostgram (org.ghostgram.app). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1829.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.ghostgram.app",
+   "name": "Ghostgram",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Ghostgram - мод Telegram 🇷🇺 Телеграмм клиент с расширенным функционалом ⚠️ Для работы уведомлений нужен сертификат с правами appgroup…",
+   "localizedDescription": "@ipa_dark | 🔄 Ghostgram - мод Telegram\n\n🇷🇺 Телеграмм клиент с расширенным функционалом\n\n⚠️ Для работы уведомлений нужен сертификат с правами appgroup, вы можете приобрести его у нас\n\nℹ️ Особенности: \n🔔 Исправлены уведомления @ipa_dark 🫶🏻\n▎Последняя версия\n▎Кряк\n▎Удалённые сообщения\n▎Режим призрака\n▎Перевод сообщений\n▎Пароли на чаты\n▎Подмена устройства\n▎Подмена геолокации\n▎Изменение голоса\n▎Локальный премиум\n▎Настройки кастомизации (шрифт и прочее)\n▎Прочие настройки (пересылка и скриншоты с закрытых чатов/групп/каналов и др. функции)\n▎Добавлен твик Swiftgram\n\nНастройки мода включаются - Настройки -> Ghostgram \n\n💡 Для активации подписки в Safari команду:\nghostgram://feature/unlock-all\n\nПопулярные проблемы | Описание функций - FAQ\nЧитать статью FAQ - нажми\n\n✌️ Спасибо @meoowlx\n\n💌 Для установки приложения требуется сертификат разработчика, покупай у нас и устанавливай любые приложения \n\n📢 @ipa_dark #social\n\n[ Сертификат | Как установить ]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1829.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.0",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Ghostgram - мод Telegram 🇷🇺 Телеграмм клиент с расширенным функционалом ⚠️ Для работы уведомлений нужен сертификат с правами appgroup…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1829-Ghostgram_v13_0_build180_patch_by_meowl_FIX_notification_tg@i.ipa",
+     "size": 103207167
+    }
+   ]
+  }
+ ]
+}

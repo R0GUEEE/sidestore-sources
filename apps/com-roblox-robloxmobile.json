@@ -1,0 +1,44 @@
+{
+ "name": "Roblox - Delta",
+ "identifier": "dev.perapp.com-roblox-robloxmobile",
+ "subtitle": "Roblox - Delta by sidelix",
+ "description": "Single-app source for Roblox - Delta (com.roblox.robloxmobile). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a5ec1d649964.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.roblox.robloxmobile",
+   "name": "Roblox - Delta",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Delta is a revolutionary new way to experience the world of scripting with its extensive library of features that will make your life easier.",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a5ec1d649964.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.735.1135",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "Delta is a revolutionary new way to experience the world of scripting with its extensive library of features that will make your life easier.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1929",
+     "size": 138150624
+    },
+    {
+     "version": "2.729.838",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "Delta is a revolutionary new way to experience the world of scripting with its extensive library of features that will make your life easier.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1929",
+     "size": 139755697
+    },
+    {
+     "version": "2.695.955",
+     "date": "2025-10-26T00:00:00Z",
+     "localizedDescription": "Roblox - Krnl",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/328",
+     "size": 111639123
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Airbrush",
+ "identifier": "dev.perapp.com-unknown-airbrush",
+ "subtitle": "بەرنامەیەک بۆ دەستکاریکردنی وێنە",
+ "description": "Single-app source for Airbrush (com.unknown.airbrush). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Airbrush.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.airbrush",
+   "name": "Airbrush",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک بۆ دەستکاریکردنی وێنە",
+   "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Airbrush.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.4.401",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ دەستکاریکردنی وێنە",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/AirBrush_7.4.401.ipa",
+     "size": 328120000
+    }
+   ]
+  }
+ ]
+}

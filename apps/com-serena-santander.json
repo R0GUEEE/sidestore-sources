@@ -1,0 +1,30 @@
+{
+ "name": "Santander",
+ "identifier": "dev.perapp.com-serena-santander",
+ "subtitle": "Alternative file manager to Filza. Last updated: 11-14-2022 Status: ✅",
+ "description": "Single-app source for Santander (com.serena.santander). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.serena.santander.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.serena.santander",
+   "name": "Santander",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "Alternative file manager to Filza. Last updated: 11-14-2022 Status: ✅",
+   "localizedDescription": "Alternative file manager to Filza. Last updated: 11-14-2022 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.serena.santander.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Alternative file manager to Filza. Last updated: 11-14-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2022/Santander-1.0.ipa",
+     "size": 4511320
+    }
+   ]
+  }
+ ]
+}

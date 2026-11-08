@@ -1,0 +1,30 @@
+{
+ "name": "Evony",
+ "identifier": "dev.perapp.com-topgamesinc-evony",
+ "subtitle": "ipaomtk.com | Evony on iOS brings expansive real-time strategy gameplay directly to iPhone, combining city building, res",
+ "description": "Single-app source for Evony (com.topgamesinc.evony). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Evony-IPA-v5.19.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.topgamesinc.evony",
+   "name": "Evony",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Evony on iOS brings expansive real-time strategy gameplay directly to iPhone, combining city building, resource management, hero collect",
+   "localizedDescription": "ipaomtk.com | Evony on iOS brings expansive real-time strategy gameplay directly to iPhone, combining city building, resource management, hero collect",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/Evony-IPA-v5.19.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.19.0",
+     "date": "2026-02-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Evony on iOS brings expansive real-time strategy gameplay directly to iPhone, combining city building, resource management, hero collect",
+     "downloadURL": "https://file.ipaomtk.com/Evony/Evony-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

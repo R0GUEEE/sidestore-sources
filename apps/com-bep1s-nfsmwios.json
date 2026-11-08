@@ -1,0 +1,36 @@
+{
+ "name": "NFS Most Wanted",
+ "identifier": "dev.perapp.com-bep1s-nfsmwios",
+ "subtitle": "A static recompilation port of Need for Speed Most Wanted (Xbox 360 version) for iOS with various tweaks and QoL fixes",
+ "description": "Single-app source for NFS Most Wanted (com.bep1s.nfsmwios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#ab8242",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.bep1s.nfsmwios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bep1s.nfsmwios",
+   "name": "NFS Most Wanted",
+   "developerName": "bep1s69",
+   "subtitle": "A static recompilation port of Need for Speed Most Wanted (Xbox 360 version) for iOS with various tweaks and QoL fixes",
+   "localizedDescription": "NFSMW Recompiled for iOS:\n\nNeed for Speed: Most Wanted (2005), Xbox 360, running natively on iPhone and iPad.\n\nRequires iOS or iPadOS 18 or later.\n\nThe Xbox 360 PowerPC code is recompiled ahead of time for Apple arm64 using ReXGlue. The port uses a native Metal renderer for the game's shaders.\n\nYou need your own copy of the game. The app on the.\n\nfiles: no textures, models, sounds, music, videos or tracks. It reads all of them from your own ISO of the USA Xbox 360 game. This repository contains no game files and no translated game code. See Legal.\n\nVersion 0.6.0 adds LAN racing, redesigned menus with first-launch setup, more Extra Options, and lower memory use. See the changelog for the full release notes.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.bep1s.nfsmwios.png",
+   "tintColor": "#ab8242",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.6.0",
+     "date": "2026-11-06T15:18:25Z",
+     "localizedDescription": "• LAN multiplayer. Use Play on this Wi-Fi to find or host a local race. Mobile LAN supports compatible Android builds. Cross-play with the original PC game is experimental.\n\n• Redesigned launcher and in-game options. Dark menus share the same categories, compact summaries and a details button. Use the controller to navigate the launcher and in-game options. The launcher title stays fixed above a distinct, compact tab strip. This is an interim design. Both menus still need visual polish before 1.0.\n• Car selector touch controls. Tap a neighboring car in My Cars to move focus. Swipe up or down over the car in Quick Race and multiplayer Change Car. Options sidebar labels stay on one line.\n• First-launch setup and presets. Choose controls and graphics or keep your settings. Longest battery offers 30 fps or 40 fps on supported displays, with half-rate or every-frame car reflections. Its settings remain editable. Menu swipes are inverted by default.\n• Old renderer settings removed. The native Metal renderer always draws the game now; its on/off switch, the \"No emulated renderer\" switch, the whole Emulated renderer section and \"Scaling to the screen\" (FSR/CAS) are gone from the launcher. They keep the values they had by default.\n• Lower memory use. On an iPhone 17 Pro Max, development tests brought peak race memory from 1,749 MiB to 1,330–1,403 MiB. If you use a device with 2–3 GB of RAM, please share how 0.6.0 runs. If the game closes, send logs/boot.txt, which records the app's memory limit and warnings.\n\n• Sound: a decoder only for the sounds playing, not one for each of the 320 streams from the start (about 180 MB less at startup, ~70 MB in a race).\n• The pipeline cache (which keeps race starts smooth) is let go once the game's pipelines are ready and reopened only for a new one (~150 MB).\n• Touch controls: no whole-screen scratch picture per redraw (~29 MB).\n• When iOS warns that memory is low, unused textures and buffers are dropped.\n• For testers: Extra Args --nfsmw_diag_alloc_trace=true writes where the largest memory blocks come from to logs/allocs.txt.\n\nGolf engine sound no longer cuts out (GitHub #15). Mono sounds such as engines keep playing when their stream briefly runs dry, instead of dropping a moment of sound about once a second (dev94).\n\nSimpler Display menu. Screen shape is \"Fit this screen\" (this device's own shape) or \"16:9 (Xbox 360)\". Render resolution choices show the exact pixels they draw on your device, e.g. \"Native · 2868×1320\" (dev93).\n\niPhone Duo inner screen, experimental (GitHub #14). The game looked for its window on the device's \"main\" screen, which on a foldable can be the other panel, and showed nothing on the inner screen. It now uses the screen its own window is on, and the picture is redrawn to fit when you fold or unfold. Limitations: not tested on a Duo yet; the game's shape is chosen when it starts (from the panel it is started on) and does not change while it runs, so after folding or unfolding the picture keeps that shape with black bars; restart the game to fit the other panel. A screen narrower than 16:9 gets the game's 4:3 mode, the closest it has (dev92).\n\nLess CPU work by default. Five savings that were opt-in are now on: skipping picture copies nothing reads, honoring the game's face culling, handing the scene picture over instead of copying it, cheaper foliage alpha tests, and audio waits that sleep instead of checking every 1 ms. dev91 adds four more: cached draw recording and target, pipeline and attribute lookups. No battery gain was proven for them; they only cut work (dev90, dev91).\n\nLighter touch controls on the GPU. The on-screen controls are now drawn only where they are, not over the whole screen every frame: about 0.7 ms less GPU work a frame on an iPhone 17 Pro Max at native resolution (dev77).\n\nLighter trees. The soft edges of trees no longer re-shade the pixels their solid part already drew; same picture, a little less GPU work (dev79).\n\nLonger battery at 30 fps. Balance",
+     "downloadURL": "https://github.com/bep1s69/nfsmw-ios/releases/download/v0.6.0/NFSMW.ipa",
+     "size": 30669422
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Play LAN races with nearby iPhones, iPads and Android devices, or host their game lobby."
+    }
+   }
+  }
+ ]
+}

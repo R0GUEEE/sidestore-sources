@@ -1,0 +1,30 @@
+{
+ "name": "Duet",
+ "identifier": "dev.perapp.com-kumobius-duet",
+ "subtitle": "ipaomtk.com | Duet IPA is a mesmerizing and captivating game that draws you into a trance of co-dependency. The rules ar",
+ "description": "Single-app source for Duet (com.kumobius.duet). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/duet-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kumobius.duet",
+   "name": "Duet",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Duet IPA is a mesmerizing and captivating game that draws you into a trance of co-dependency. The rules are simple – control two vessels",
+   "localizedDescription": "ipaomtk.com | Duet IPA is a mesmerizing and captivating game that draws you into a trance of co-dependency. The rules are simple – control two vessels",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/duet-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.15",
+     "date": "2023-03-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Duet IPA is a mesmerizing and captivating game that draws you into a trance of co-dependency. The rules are simple – control two vessels",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Duet.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

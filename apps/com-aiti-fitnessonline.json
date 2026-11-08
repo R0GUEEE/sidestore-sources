@@ -1,0 +1,44 @@
+{
+ "name": "FitnessOnline",
+ "identifier": "dev.perapp.com-aiti-fitnessonline",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for FitnessOnline (com.aiti.FitnessOnline). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aiti.FitnessOnline",
+   "name": "FitnessOnline",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiti.FitnessOnline.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.31.0",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@blatants | Fitness App: Gym Workout Plan  • Bundle ID: com.aiti.FitnessOnline • Updated to: 1.31.0 • Minimum iOS: 15.0 • Patched • Modifier: Subscrip",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/FitnessOnline_1.31.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 134898786
+    },
+    {
+     "version": "1.30.0",
+     "date": "2026-10-17T00:00:00Z",
+     "localizedDescription": "@blatants | Fitness App: Gym Workout Plan  • Bundle ID: com.aiti.FitnessOnline • Updated to: 1.30.0 • Minimum iOS: 15.0 • Patched • Modifier: Subscrip",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12845-Fitness_App_Gym_Workout_Plan_v1_30_0_Subscription_Unlocked_blatant.ipa",
+     "size": 134609013
+    },
+    {
+     "version": "1.29.0",
+     "date": "2026-10-03T00:00:00Z",
+     "localizedDescription": "@blatants | Fitness App: Gym Workout Plan  • Bundle ID: com.aiti.FitnessOnline • Updated to: 1.29.0 • Minimum iOS: 15.0 • Patched • Modifier: Subscrip",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12604-Fitness_App_Gym_Workout_Plan_v1_29_0_Subscription_Unlocked_blatant.ipa",
+     "size": 134603033
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "Generals ZH",
+ "identifier": "dev.perapp.com-cnc-generalszh",
+ "subtitle": "Zero Hour running natively on Apple Silicon Macs, iPhone, and iPad — campaign,",
+ "description": "Single-app source for Generals ZH (com.cnc.generalszh). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#5071b7",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.cnc.generalszh.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cnc.generalszh",
+   "name": "Generals ZH",
+   "developerName": "Pinaypal",
+   "subtitle": "Zero Hour running natively on Apple Silicon Macs, iPhone, and iPad — campaign,",
+   "localizedDescription": "Command & Conquer Generals: Zero Hour — macOS, iOS & iPadOS:\n\nZero Hour running natively on Apple Silicon Macs, iPhone, and iPad — campaign, skirmish, and Generals Challenge, with touch controls built for RTS (tap-select, drag-box, long-press deselect, two-finger scroll, pinch zoom). No emulation: this is the real 2003 engine compiled for ARM64, rendering DirectX 8 → DXVK → Vulkan → MoltenVK → Metal.\n\nBuilt on EA's GPL v3 source release, standing on a chain of community work — TheSuperHackers, Fighter19's original Unix port, and fbraz3/GeneralsX — this fork adds the iOS/iPadOS port and a set of engine fixes. See Lineage & credits for who built what. The original GeneralsX README lives on the upstream-main branch.\n\nNo game assets are included or distributed. You need your own copy (Steam, ~$5 on sale).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.cnc.generalszh.png",
+   "tintColor": "#5071b7",
+   "screenshots": [
+    "https://github.com/user-attachments/assets/aeaf6692-36e6-40c8-b9f8-8066d014ec4b"
+   ],
+   "versions": [
+    {
+     "version": "1.0.4",
+     "date": "2026-10-10T07:10:20Z",
+     "localizedDescription": "Command & Conquer: Generals Zero Hour — iOS Shell IPA (Unsigned):\n\nThis is the lightweight compiled iOS IPA (~35 MB) for iPhone and iPad running natively on Apple Silicon with Metal / DXVK / MoltenVK and touch controls.\n\nHow to inject your retail game assets on Windows::\n\n• Place it in your project folder (GENERALS-IOS).\n• Run in PowerShell:The script auto-detects your Steam / EA App / CD installation, injects your files, and creates GeneralsXZH-ready-to-sideload.ipa.\n• Sideload onto your iPhone or iPad using Sideloadly, AltStore, or TrollStore.",
+     "downloadURL": "https://github.com/Pinaypal/GENERALS-IOS/releases/download/v1.0.4-ios/GeneralsXZH-unsigned.ipa",
+     "size": 21696153
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "Used for LAN multiplayer game discovery."
+    }
+   }
+  }
+ ]
+}

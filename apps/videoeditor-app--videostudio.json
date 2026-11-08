@@ -1,0 +1,44 @@
+{
+ "name": "VideoStudio",
+ "identifier": "dev.perapp.videoeditor-app",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for VideoStudio (videoeditor.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "videoeditor.app",
+   "name": "VideoStudio",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.21.5",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "@blatants | Video Editor ·  • Bundle ID: videoeditor.app • Updated to: 3.21.5 • Minimum iOS: 15.4 • Patched • Modifier: Subscription Unlocked • Tweake",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12909-Video_Editor_%C2%B7_v3_21_5_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 218393373
+    },
+    {
+     "version": "3.21.4",
+     "date": "2026-07-01T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/VideoStudio_3.21.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 211656078
+    },
+    {
+     "version": "3.21.3",
+     "date": "2026-06-24T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2026/VideoStudio_3.21.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 211601476
+    }
+   ]
+  }
+ ]
+}

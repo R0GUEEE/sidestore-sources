@@ -1,0 +1,37 @@
+{
+ "name": "RyukSign",
+ "identifier": "dev.perapp.ryuk2-anoxclan-com",
+ "subtitle": "@compiledipas | 📦 RyukSign 2.9.9  👤 Author: @axryuk 💾 Size: 17.04 MB 🏷 Version: v2.9.9 📅 Released: 2026-08-24  Release N",
+ "description": "Single-app source for RyukSign (ryuk2.anoxclan.com). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1464.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ryuk2.anoxclan.com",
+   "name": "RyukSign",
+   "developerName": "@compiledipas",
+   "subtitle": "@compiledipas | 📦 RyukSign 2.9.9  👤 Author: @axryuk 💾 Size: 17.04 MB 🏷 Version: v2.9.9 📅 Released: 2026-08-24  Release Notes  hot fix for \"corner of t",
+   "localizedDescription": "@compiledipas | 📦 RyukSign 2.9.9  👤 Author: @axryuk 💾 Size: 17.04 MB 🏷 Version: v2.9.9 📅 Released: 2026-08-24  Release Notes  hot fix for \"corner of t",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1464.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.1",
+     "date": "2026-09-11T00:00:00Z",
+     "localizedDescription": "@compiledipas | 📦 RyukSign 3.0.1  👤 Author: @axryuk 💾 Size: 17.24 MB 🏷️ Version: v3.0.1 📅 Released: 2026-09-10  Release Notes",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1549-ryuksign.ipa",
+     "size": 18082648
+    },
+    {
+     "version": "2.9.9",
+     "date": "2026-08-25T00:00:00Z",
+     "localizedDescription": "@compiledipas | 📦 RyukSign 2.9.9  👤 Author: @axryuk 💾 Size: 17.04 MB 🏷 Version: v2.9.9 📅 Released: 2026-08-24  Release Notes  hot fix for \"corner of t",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1464-RyukSign.ipa",
+     "size": 17869424
+    }
+   ]
+  }
+ ]
+}

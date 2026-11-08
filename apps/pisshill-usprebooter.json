@@ -1,0 +1,30 @@
+{
+ "name": "Serotonin - TrollStore",
+ "identifier": "dev.perapp.pisshill-usprebooter",
+ "subtitle": "Jailbreak không hoàn chỉnh cho iOS 16.0-16.6.1. Yêu cầu cài cùng Bootstrap để hoạt động. Yêu cầu cài với TrollStore để h",
+ "description": "Single-app source for Serotonin - TrollStore (pisshill.usprebooter). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/mineek/Serotonin/main/artwork/serotonin-precomposed.png",
+ "apps": [
+  {
+   "bundleIdentifier": "pisshill.usprebooter",
+   "name": "Serotonin - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Jailbreak không hoàn chỉnh cho iOS 16.0-16.6.1. Yêu cầu cài cùng Bootstrap để hoạt động. Yêu cầu cài với TrollStore để hoạt động - IPA đã được kiểm…",
+   "localizedDescription": "Jailbreak không hoàn chỉnh cho iOS 16.0-16.6.1. Yêu cầu cài cùng Bootstrap để hoạt động. Yêu cầu cài với TrollStore để hoạt động - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/mineek/Serotonin/main/artwork/serotonin-precomposed.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Jailbreak không hoàn chỉnh cho iOS 16.0-16.6.1. Yêu cầu cài cùng Bootstrap để hoạt động. Yêu cầu cài với TrollStore để hoạt động - IPA đã được kiểm…",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=mineek/Serotonin/releases/download/1.2.1/Serotonin.tipa",
+     "size": 14986482
+    }
+   ]
+  }
+ ]
+}

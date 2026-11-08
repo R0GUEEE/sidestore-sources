@@ -1,0 +1,34 @@
+{
+ "name": "SM64CoopDX",
+ "identifier": "dev.perapp.com-sm64coopdx-ios",
+ "subtitle": "iOS port of sm64coopdx",
+ "description": "Single-app source for SM64CoopDX (com.sm64coopdx.ios). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#ba912a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.sm64coopdx.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sm64coopdx.ios",
+   "name": "SM64CoopDX",
+   "developerName": "LeoManrique",
+   "subtitle": "iOS port of sm64coopdx",
+   "localizedDescription": "sm64coopdx is an online multiplayer project for the Super Mario 64 PC port that synchronizes all entities and every level for multiple players. The project was started by the Coop Deluxe Team. The purpose is to actively maintain and improve, but also continue sm64ex-coop, created by djoslin0. More features, customization, and power to the Lua API allow modders and players to enjoy Super Mario 64 more than ever!\n\nUnlike previous multiplayer projects, this one synchronizes enemies and events. This allows players to interact with the same world at the same time.\n\nInterestingly enough though, the goal of the project has slowly evolved over time from simply just making a Super Mario 64 multiplayer mod to constantly maintaining and improving the project (notably the Lua API.).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.sm64coopdx.ios.png",
+   "tintColor": "#ba912a",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "151.1.0",
+     "date": "2026-09-19T22:59:03Z",
+     "localizedDescription": "Changes:\n\n• Added support for iOS 27.\n• Fixed Bluetooth keyboards producing no input.\n• Added the DynOS folder support.\n\nSideload the IPA Download the .ipa and sideload using AltStore, SideStore, or similar tools.\n\nRequirements:\n\n• iOS 15.0+.\n• ARM64 device (iPhone/iPad).\n• A base ROM is required for first launch.",
+     "downloadURL": "https://github.com/LeoManrique/sm64coopdx-ios/releases/download/v151.1.0/sm64coopdx.ipa",
+     "size": 9790397
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "MacroFactorPremium",
+ "identifier": "dev.perapp.com-sbs-diet",
+ "subtitle": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing yo",
+ "description": "Single-app source for MacroFactorPremium (com.sbs.diet). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sbs.diet.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sbs.diet",
+   "name": "MacroFactorPremium",
+   "developerName": "Lãng Khách🇻🇳",
+   "subtitle": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to…",
+   "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to metabolic changes. A user requested it so here it is.\nLast updated: 07-15-2024\nStatus: ✅ ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.sbs.diet.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.0",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "App that leverages advanced algorithms and solid nutrition science to achieve sustainable diet results, personalizing your plan to adapt to…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MacroFactorPremium/MacroFactorPremium-3.0.0.ipa",
+     "size": 68013392
+    }
+   ]
+  }
+ ]
+}

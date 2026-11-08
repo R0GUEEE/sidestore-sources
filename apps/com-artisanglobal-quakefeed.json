@@ -1,0 +1,30 @@
+{
+ "name": "QuakeFeedPremium",
+ "identifier": "dev.perapp.com-artisanglobal-quakefeed",
+ "subtitle": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ",
+ "description": "Single-app source for QuakeFeedPremium (com.artisanglobal.quakefeed). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.artisanglobal.quakefeed",
+   "name": "QuakeFeedPremium",
+   "developerName": "zxcvbn’s tweaked IPAs",
+   "subtitle": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along…",
+   "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along with various data repositories, encompassing historical seismic events dating back to 1900. Additional map overlays are available to track wildfires, hurricanes, and active volcanoes.\nLast updated: 06-30-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.artisanglobal.quakefeed.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.4",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "An original viewpoint on global seismic activity, featuring maps and notifications for rapid earthquake updates. Access ten stunning base maps along…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/QuakeFeedPremium/QuakeFeedPremium-6.4.ipa",
+     "size": 62786555
+    }
+   ]
+  }
+ ]
+}

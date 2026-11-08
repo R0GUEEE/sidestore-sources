@@ -1,0 +1,44 @@
+{
+ "name": "Misaka",
+ "identifier": "dev.perapp.com-straight-tamago-misakars",
+ "subtitle": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize ",
+ "description": "Single-app source for Misaka (com.straight-tamago.misakaRS). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.straight-tamago.misakaRS",
+   "name": "Misaka",
+   "developerName": "Misaka",
+   "subtitle": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need ",
+   "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need ",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.straight-tamago.misakaRS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.2.2 Beta",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need ",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-8.2.2.ipa",
+     "size": 30621589
+    },
+    {
+     "version": "8.2.1 Beta",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need ",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-8.2.1.ipa",
+     "size": 30630317
+    },
+    {
+     "version": "8.2.0 Beta",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "iOS customisation tool for KFD & MDC. This application aims to provide iPhone users with the opportunity to personalize their phones without the need ",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Misaka/Misaka-8.2.0.ipa",
+     "size": 30621326
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "FujiXWeekly",
+ "identifier": "dev.perapp.com-fujixweekly-fujixweeklyrecipes",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for FujiXWeekly (com.fujixweekly.fujixweeklyrecipes). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
+   "name": "FujiXWeekly",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.16.2",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/FujiXWeekly_1.16.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 22914009
+    }
+   ]
+  }
+ ]
+}

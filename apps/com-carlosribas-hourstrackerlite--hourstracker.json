@@ -1,0 +1,37 @@
+{
+ "name": "HoursTracker",
+ "identifier": "dev.perapp.com-carlosribas-hourstrackerlite",
+ "subtitle": "HoursTracker",
+ "description": "Single-app source for HoursTracker (com.carlosribas.HoursTrackerLite). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/c2326758-3fcd-4ca3-b7d6-df9b6edcf495/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.carlosribas.HoursTrackerLite",
+   "name": "HoursTracker",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Hours Tracker: Time Tracking\n\nTweak: Premium Unlocked\n\nVersion: 7.3.4\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/c2326758-3fcd-4ca3-b7d6-df9b6edcf495/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.3.1",
+     "date": "2026-09-21T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2408",
+     "size": 40111200
+    },
+    {
+     "version": "7.3.4",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Hours Tracker: Time Tracking\n\nTweak: Premium Unlocked\n\nVersion: 7.3.4\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/1ee2244c-1bbe-4870-987f-079fc22a0186/Hours_Tracker__Time_Tracking-v7.3.4-riftysipas.ipa",
+     "size": 22086735
+    }
+   ]
+  }
+ ]
+}

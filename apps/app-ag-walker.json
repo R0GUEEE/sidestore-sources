@@ -1,0 +1,30 @@
+{
+ "name": "Walker",
+ "identifier": "dev.perapp.app-ag-walker",
+ "subtitle": "ipaomtk.com | The Walker Pedometer IPA v5.9.92 is an innovative and engaging way to motivate individuals to stay active ",
+ "description": "Single-app source for Walker (App.AG.Walker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Walker.-Pedometer-the-game.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "App.AG.Walker",
+   "name": "Walker",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Walker Pedometer IPA v5.9.92 is an innovative and engaging way to motivate individuals to stay active by turning daily walking into ",
+   "localizedDescription": "ipaomtk.com | The Walker Pedometer IPA v5.9.92 is an innovative and engaging way to motivate individuals to stay active by turning daily walking into ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Walker.-Pedometer-the-game.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.9.4",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Walker Pedometer IPA v5.9.92 is an innovative and engaging way to motivate individuals to stay active by turning daily walking into ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Walker._Pedometer_the_game-v5.9.4-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

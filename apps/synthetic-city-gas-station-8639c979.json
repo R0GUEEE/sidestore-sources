@@ -1,0 +1,30 @@
+{
+ "name": "City Gas Station",
+ "identifier": "dev.perapp.synthetic-city-gas-station-8639c979",
+ "subtitle": "City Gas Station by Karbin-Store",
+ "description": "Single-app source for City Gas Station (synthetic.city-gas-station.8639c979). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/City.Gas.Station.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.city-gas-station.8639c979",
+   "name": "City Gas Station",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Free Store ( Turn on from the menu )",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/City.Gas.Station.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.5",
+     "date": "2024-01-06T00:00:00Z",
+     "localizedDescription": "Free Store ( Turn on from the menu )",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-two/releases/download/karbin-ipa/City.Gas.Station.Simulator.v1.0.5_BabyloniPA.ipa",
+     "size": 104610000
+    }
+   ]
+  }
+ ]
+}

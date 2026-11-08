@@ -1,0 +1,30 @@
+{
+ "name": "Eplay",
+ "identifier": "dev.perapp.ergeakova-eplay",
+ "subtitle": "ipaomtk.com | Introducing EPlay IPTV Player EPlay IPA IPTV Player emerges as a robust and user-friendly application desi",
+ "description": "Single-app source for Eplay (ergeakova.Eplay). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/EPlay-IPTV-Player-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "ergeakova.Eplay",
+   "name": "Eplay",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introducing EPlay IPTV Player EPlay IPA IPTV Player emerges as a robust and user-friendly application designed specifically for iOS user",
+   "localizedDescription": "ipaomtk.com | Introducing EPlay IPTV Player EPlay IPA IPTV Player emerges as a robust and user-friendly application designed specifically for iOS user",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/EPlay-IPTV-Player-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.8",
+     "date": "2025-12-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introducing EPlay IPTV Player EPlay IPA IPTV Player emerges as a robust and user-friendly application designed specifically for iOS user",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Eplay-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

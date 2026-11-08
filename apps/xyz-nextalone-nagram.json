@@ -1,0 +1,44 @@
+{
+ "name": "Nagram",
+ "identifier": "dev.perapp.xyz-nextalone-nagram",
+ "subtitle": "@ipavault",
+ "description": "Single-app source for Nagram (xyz.nextalone.nagram). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/398.png",
+ "apps": [
+  {
+   "bundleIdentifier": "xyz.nextalone.nagram",
+   "name": "Nagram",
+   "developerName": "@ipavault",
+   "subtitle": "@ipavault",
+   "localizedDescription": "@ipavault\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/398.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.1.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Nagram 13.1.1 TestFlight  Builds: ▪iQTele 1.5 ▪Lead 2.0 ▪TGExtra 1.7.10 To enable iQTele: 1.) Go to Telegram Settings 2.) Tap th",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1149-Nagram%2013.1.1%20TF%20%28iQTele%201.5%29%20%5B@ipavault%5D.ipa",
+     "size": 101154653
+    },
+    {
+     "version": "13.0.2",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Nagram 13.0.1  ▪Updated to Nagram 13.0.2 TestFlight, TGExtra 1.7.9, iQTele 1.5 Builds: ▪iQTele 1.5 ▪MxGram 1.0.0 ▪TGExtra 1.7.9 ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1084-Nagram%2013.0.2%20TF%20%28iQTele%29%20%5B@ipavault%5D.ipa",
+     "size": 105296020
+    },
+    {
+     "version": "13.0.1",
+     "date": "2026-10-15T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Nagram 13.0.1 TestFlight  Builds: ▪iQTele 1.4 ▪MxGram 1.0.0 ▪TGExtra 1.7.9 To enable iQTele: 1.) Go to Telegram Settings 2.) Tap",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/886-Nagram%2013.0.1%20TF%20%28iQTele%29%20%5B@ipavault%5D.ipa",
+     "size": 105208769
+    }
+   ]
+  }
+ ]
+}

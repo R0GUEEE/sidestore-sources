@@ -1,0 +1,30 @@
+{
+ "name": "PAC-MAN",
+ "identifier": "dev.perapp.com-namconetworks-pacmanlite",
+ "subtitle": "ipaomtk.com | been almost four decades since the now iconic game Pac-Man IPA first came out into the world, and it has s",
+ "description": "Single-app source for PAC-MAN (com.namconetworks.pacmanlite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/PAC-MAN-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.namconetworks.pacmanlite",
+   "name": "PAC-MAN",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | been almost four decades since the now iconic game Pac-Man IPA first came out into the world, and it has stayed in the hearts and minds ",
+   "localizedDescription": "ipaomtk.com | been almost four decades since the now iconic game Pac-Man IPA first came out into the world, and it has stayed in the hearts and minds ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/PAC-MAN-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.5.5",
+     "date": "2023-04-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | been almost four decades since the now iconic game Pac-Man IPA first came out into the world, and it has stayed in the hearts and minds ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PAC-MAN.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

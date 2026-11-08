@@ -1,0 +1,30 @@
+{
+ "name": "Streamer",
+ "identifier": "dev.perapp.com-streamerapp-ios",
+ "subtitle": "App for Streaming Movies and TV shows on iOS and tvOS.  - Stream all TV shows and Movies from multiple websites without ",
+ "description": "Single-app source for Streamer (com.streamerapp.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/JbUuxP9.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.streamerapp.ios",
+   "name": "Streamer",
+   "developerName": "StreamerApp",
+   "subtitle": "App for Streaming Movies and TV shows on iOS and tvOS.  - Stream all TV shows and Movies from multiple websites without any annoying ads - Supports Ch",
+   "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.  - Stream all TV shows and Movies from multiple websites without any annoying ads - Supports Ch",
+   "iconURL": "https://i.imgur.com/JbUuxP9.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.3.0",
+     "date": "2026-05-18T00:00:00Z",
+     "localizedDescription": "App for Streaming Movies and TV shows on iOS and tvOS.  - Stream all TV shows and Movies from multiple websites without any annoying ads - Supports Ch",
+     "downloadURL": "https://github.com/StreamerApp/Streamer/releases/download/1.3.0/Streamer-iOS.ipa",
+     "size": 45382385
+    }
+   ]
+  }
+ ]
+}

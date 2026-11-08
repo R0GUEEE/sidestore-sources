@@ -1,0 +1,44 @@
+{
+ "name": "Vids",
+ "identifier": "dev.perapp.viral-vision-vids",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Vids (viral.vision.vids). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png",
+ "apps": [
+  {
+   "bundleIdentifier": "viral.vision.vids",
+   "name": "Vids",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/viral.vision.vids.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.129.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Vids_1.129.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 268730982
+    },
+    {
+     "version": "1.126.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/26-11-2025/Vids_1.126.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 196844768
+    },
+    {
+     "version": "1.113.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/13-08-2025/Vids_1.113.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 186951563
+    }
+   ]
+  }
+ ]
+}

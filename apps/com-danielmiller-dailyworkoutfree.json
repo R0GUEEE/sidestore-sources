@@ -1,0 +1,37 @@
+{
+ "name": "Daily Workouts",
+ "identifier": "dev.perapp.com-danielmiller-dailyworkoutfree",
+ "subtitle": "ipaomtk.com | Introduction to Daily Workouts on iOS Daily Workouts is a comprehensive fitness app designed to help iPhon",
+ "description": "Single-app source for Daily Workouts (com.danielmiller.dailyworkoutfree). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Daily-Workouts-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.danielmiller.dailyworkoutfree",
+   "name": "Daily Workouts",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction to Daily Workouts on iOS Daily Workouts is a comprehensive fitness app designed to help iPhone users build healthy habits t",
+   "localizedDescription": "ipaomtk.com | Introduction to Daily Workouts on iOS Daily Workouts is a comprehensive fitness app designed to help iPhone users build healthy habits t",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Daily-Workouts-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.3.2",
+     "date": "2026-01-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to Daily Workouts on iOS Daily Workouts is a comprehensive fitness app designed to help iPhone users build healthy habits t",
+     "downloadURL": "https://file.ipaomtk.com/Daily%20Workouts/Daily-Workouts-v8.3.2-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "8.7.8",
+     "date": "2026-01-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction to Daily Workouts on iOS Daily Workouts is a comprehensive fitness app designed to help iPhone users build healthy habits t",
+     "downloadURL": "https://file.ipaomtk.com/Daily%20Workouts/Daily-Workouts-v8.3.2-IPAOMTK.COM.ipa",
+     "size": 170907846
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "ReversoContext",
+ "identifier": "dev.perapp.com-softissimo-reversocontext",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for ReversoContext (com.softissimo.ReversoContext). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.softissimo.ReversoContext",
+   "name": "ReversoContext",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "15.6",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/11-09-2025/ReversoContext_15.6_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 175244632
+    },
+    {
+     "version": "15.5",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-08-2025/ReversoContext_15.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 178255267
+    },
+    {
+     "version": "16.8",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/25-03-2026/ReversoContext_16.8_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 161561269
+    }
+   ]
+  }
+ ]
+}

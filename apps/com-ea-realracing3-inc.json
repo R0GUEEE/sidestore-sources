@@ -1,0 +1,53 @@
+{
+ "name": "RR3 SE3 HD Test",
+ "identifier": "dev.perapp.com-ea-realracing3-inc",
+ "subtitle": "RR3 offline - fix for iPhone SE3. GUI resource-selection fix for the 33 MB download stall in Real Racing 3 14.0.1, with ",
+ "description": "Single-app source for RR3 SE3 HD Test (com.ea.realracing3.inc). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#1465e6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ea.realracing3.inc.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ea.realracing3.inc",
+   "name": "RR3 SE3 HD Test",
+   "developerName": "hefti",
+   "subtitle": "RR3 offline - fix for iPhone SE3. GUI resource-selection fix for the 33 MB download stall in Real Racing 3 14.0.1, with build tools, diagnostics and installation instructions",
+   "localizedDescription": "RR3 offline fix for iPhone SE 3:\n\nRR3 offline - fix for iPhone SE3 fixes the 33 MB additional-data download stall in the preserved Real Racing 3 14.0.1 iOS package.\n\nAfter an iOS update: stuck at 661 MB?:\n\nRecovery guide with screenshot → Re-import the matching Caches_ipastore.zip using the blue folder icon → first green row, 导入数据包 (Import data package), then fully close and reopen the game. The owner confirmed this fixed the 661 MB stall after updating to iOS 26.7.1. No new IPA, Sideloadly installation or Python was needed. The existing HD patch was still active in the diagnostic log.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ea.realracing3.inc.png",
+   "tintColor": "#1465e6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.0.1",
+     "date": "2026-10-13T14:08:02Z",
+     "localizedDescription": "• Open it in Sideloadly, connect your iPhone SE 3, select your Apple ID and click Start. Leave additional tweak injection off.\n• Keep your imported cache. For a fresh installation, import Caches_ipastore.zip through the game's three-finger double-tap menu.\n\nUpdating? Back up your data, leave the existing app installed, and use the same Apple ID and bundle-ID setting.\n\nSimple installation guide.\n\nVerified file:\n\nThis is the exact HD v1 IPA the owner reported working on iPhone SE 3 / iOS 26.6.1: launch, a race, and an offline cold restart. It includes the local diagnostic logger. Other devices and all optional events have not been validated.\n\nSHA-256 before re-signing:\n\nValidation · Upstream credits.",
+     "downloadURL": "https://github.com/hefti/RR3-offline-fix-for-iPhone-SE3/releases/download/v1.0-se3/RR3-SE3-HD-Test-v1.ipa",
+     "size": 1367992590
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "Real Racing 3 uses Bluetooth to connect to your Apple TV.",
+     "NSBluetoothPeripheralUsageDescription": "Real Racing 3 uses Bluetooth to connect to your Apple TV.",
+     "NSCalendarsUsageDescription": "Real Racing 3 would like to access your calendar to display interactive ads.",
+     "NSCameraUsageDescription": "Real Racing 3 would like to access your camera to display interactive content.",
+     "NSContactsUsageDescription": "This will enable us to connect you with your Contacts.",
+     "NSLocationAlwaysUsageDescription": "Real Racing 3 would like to access your location to display interactive advertisements.",
+     "NSLocationWhenInUseUsageDescription": "Real Racing 3 would like to access your location to display interactive advertisements.",
+     "NSMotionUsageDescription": "Real Racing 3 would like to access your motion controls to display interactive ads.",
+     "NSPhotoLibraryAddUsageDescription": "This will save the image to your device.",
+     "NSPhotoLibraryUsageDescription": "This will save the image to your device.",
+     "NSUserTrackingUsageDescription": "Tracking enables third-party logins, allows us to offer you relevant & rewarded ads more often, and helps us to improve the app. If disabled, third-party logins will not work and the ads you see will be less relevant to you. Whichever option you choose, we’re so excited to have you play the game!"
+    }
+   }
+  }
+ ]
+}

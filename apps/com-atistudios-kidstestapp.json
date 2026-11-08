@@ -1,0 +1,30 @@
+{
+ "name": "Mondly",
+ "identifier": "dev.perapp.com-atistudios-kidstestapp",
+ "subtitle": "ipaomtk.com | When it comes to learning, kids have different needs than adults. They need a tool that is educational, bu",
+ "description": "Single-app source for Mondly (com.atistudios.KidsTestApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-kids-learn-languages-by-mondly-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.atistudios.KidsTestApp",
+   "name": "Mondly",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | When it comes to learning, kids have different needs than adults. They need a tool that is educational, but also fun and engaging. That’",
+   "localizedDescription": "ipaomtk.com | When it comes to learning, kids have different needs than adults. They need a tool that is educational, but also fun and engaging. That’",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/download-kids-learn-languages-by-mondly-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.2.1",
+     "date": "2023-10-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | When it comes to learning, kids have different needs than adults. They need a tool that is educational, but also fun and engaging. That’",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Mondly-Kids.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

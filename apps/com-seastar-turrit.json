@@ -1,0 +1,44 @@
+{
+ "name": "Turrit (TS)",
+ "identifier": "dev.perapp.com-seastar-turrit",
+ "subtitle": "iOSDecrypted",
+ "description": "Single-app source for Turrit (TS) (com.seastar.turrit). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/196569.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.seastar.turrit",
+   "name": "Turrit (TS)",
+   "developerName": "iOSDecrypted",
+   "subtitle": "iOSDecrypted",
+   "localizedDescription": "iOSDecrypted",
+   "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/196569.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.8",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Turrit 1.5.8 TestFlight  Builds: ▪iQTele 1.5 ▪Lead 2.0 ▪TGExtra 1.7.10 To enable iQTele: 1.) Go to Turrit Settings 2.) Tap the i",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1145-Turrit%201.5.8%20TF%20%28iQTele%201.5%29%20%5B@ipavault%5D.ipa",
+     "size": 89792762
+    },
+    {
+     "version": "1.5.7",
+     "date": "2026-10-28T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Turrit 1.5.7 TestFlight  ▪Updated to Turrit 1.5.7 TestFlight Builds: ▪iQTele 1.5 ▪MxGram 1.0.0 ▪TGExtra 1.7.9 To enable iQTele: ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1083-Turrit%201.5.7%20TF%20%28TGExtra%29%20%5B@ipavault%5D.ipa",
+     "size": 94522247
+    },
+    {
+     "version": "1.5.6",
+     "date": "2026-10-18T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Turrit 1.5.6  ▪Updated to Turrit 1.5.6 Builds: ▪iQTele 1.4 ▪MxGram 1.0.0 ▪TGExtra 1.7.7 To enable iQTele: 1.) Go to Turrit Setti",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/915-Turrit%201.5.6%20%28iQTele%29%20%5B@ipavault%5D.ipa",
+     "size": 99832508
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Phone (NovusPhone)",
+ "identifier": "dev.perapp.com-nicho1asdev-novus-arm64e",
+ "subtitle": "ipaomtk.com | In today’s fast-paced world, our phones have become an integral part of our lives. From staying connected ",
+ "description": "Single-app source for Phone (NovusPhone) (com.nicho1asdev.novus-arm64e). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/63c85884d07d8971e705e859-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nicho1asdev.novus-arm64e",
+   "name": "Phone (NovusPhone)",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | In today’s fast-paced world, our phones have become an integral part of our lives. From staying connected with loved ones to managing…",
+   "localizedDescription": "ipaomtk.com | In today’s fast-paced world, our phones have become an integral part of our lives. From staying connected with loved ones to managing our daily tasks, we rely on our phones for a multitude of purposes. However, sometimes we find ourselves longing for a better phone experience – a more intuitive interface, improved functionality, and enhanced […]\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/63c85884d07d8971e705e859-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "36",
+     "date": "2024-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | In today’s fast-paced world, our phones have become an integral part of our lives. From staying connected with loved ones to managing…",
+     "downloadURL": "https://file.ipaomtk.com/Trollstore/NovusPhone_36-b1_arm64e.ipa",
+     "size": 4484711
+    }
+   ]
+  }
+ ]
+}

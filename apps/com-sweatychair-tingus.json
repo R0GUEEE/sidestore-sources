@@ -1,0 +1,30 @@
+{
+ "name": "Tingus Goose",
+ "identifier": "dev.perapp.com-sweatychair-tingus",
+ "subtitle": "ipaomtk.com | Tingus Goose IPA for iOS. It’s a fantastic way to explore craft beer from the comfort of your own home and",
+ "description": "Single-app source for Tingus Goose (com.sweatychair.tingus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-tingus-goose-weird-idle-game-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sweatychair.tingus",
+   "name": "Tingus Goose",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tingus Goose IPA for iOS. It’s a fantastic way to explore craft beer from the comfort of your own home and sample the world’s best IPAs.",
+   "localizedDescription": "ipaomtk.com | Tingus Goose IPA for iOS. It’s a fantastic way to explore craft beer from the comfort of your own home and sample the world’s best IPAs.",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-tingus-goose-weird-idle-game-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.0",
+     "date": "2023-11-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tingus Goose IPA for iOS. It’s a fantastic way to explore craft beer from the comfort of your own home and sample the world’s best IPAs.",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Tingus-Goose.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

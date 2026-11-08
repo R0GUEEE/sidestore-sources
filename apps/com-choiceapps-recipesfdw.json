@@ -1,0 +1,30 @@
+{
+ "name": "Voicepal",
+ "identifier": "dev.perapp.com-choiceapps-recipesfdw",
+ "subtitle": "Voicepal",
+ "description": "Single-app source for Voicepal (com.choiceapps.recipesfdw). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.choiceapps.recipesfdw",
+   "name": "Voicepal",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.choiceapps.recipesfdw.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.1",
+     "date": "2025-12-17T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Voicepal_2.2.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 47002918
+    }
+   ]
+  }
+ ]
+}

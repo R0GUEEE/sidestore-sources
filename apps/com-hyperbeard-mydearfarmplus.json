@@ -1,0 +1,30 @@
+{
+ "name": "MyDearFarm",
+ "identifier": "dev.perapp.com-hyperbeard-mydearfarmplus",
+ "subtitle": "@ipa_dark | 🔄 Милая ферма+ - appstore  🇷🇺 Уютный симулятор фермы с милой графикой. Украшайте участок, выращивайте урожай",
+ "description": "Single-app source for MyDearFarm (com.hyperbeard.mydearfarmplus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1632.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hyperbeard.mydearfarmplus",
+   "name": "MyDearFarm",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Милая ферма+ - appstore  🇷🇺 Уютный симулятор фермы с милой графикой. Украшайте участок, выращивайте урожай, заботьтесь о животных и созд",
+   "localizedDescription": "@ipa_dark | 🔄 Милая ферма+ - appstore  🇷🇺 Уютный симулятор фермы с милой графикой. Украшайте участок, выращивайте урожай, заботьтесь о животных и созд",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1632.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.11.1",
+     "date": "2026-08-02T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Милая ферма+ - appstore  🇷🇺 Уютный симулятор фермы с милой графикой. Украшайте участок, выращивайте урожай, заботьтесь о животных и созд",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1632-MyDearFarm%20%5Bv1.11.1%5D%28tg@ipa_dark%29.ipa",
+     "size": 190750196
+    }
+   ]
+  }
+ ]
+}

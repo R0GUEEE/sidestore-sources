@@ -1,0 +1,44 @@
+{
+ "name": "Bananai",
+ "identifier": "dev.perapp.com-mwm-bananai",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Bananai (com.mwm.bananai). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.bananai.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mwm.bananai",
+   "name": "Bananai",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.bananai.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.21",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-11-2025/Bananai_1.0.21_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 285495905
+    },
+    {
+     "version": "1.0.22",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/01-12-2025/Bananai_1.0.22_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 317661129
+    },
+    {
+     "version": "1.0.23",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-01-2026/Bananai_1.0.23_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 332943481
+    }
+   ]
+  }
+ ]
+}

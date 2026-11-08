@@ -1,0 +1,30 @@
+{
+ "name": "FilmCamPublic",
+ "identifier": "dev.perapp.filmcamera-vintagecamera-retro-cam-analog",
+ "subtitle": "Injected with IAP",
+ "description": "Single-app source for FilmCamPublic (filmcamera.vintagecamera.retro.cam.analog). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/filmcamera.vintagecamera.retro.cam.analog.png",
+ "apps": [
+  {
+   "bundleIdentifier": "filmcamera.vintagecamera.retro.cam.analog",
+   "name": "FilmCamPublic",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with IAP",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/filmcamera.vintagecamera.retro.cam.analog.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.8",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-02-2026/FilmCamPublic_1.0.8_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 70141640
+    }
+   ]
+  }
+ ]
+}

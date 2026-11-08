@@ -1,0 +1,30 @@
+{
+ "name": "WhatsApp (WGoldPlus 4.0)",
+ "identifier": "dev.perapp.net-whatsapp-whatsapp",
+ "subtitle": "Tweaks: WGold, WATranslator, WALocationSpoofer +1",
+ "description": "Single-app source for WhatsApp (WGoldPlus 4.0) (net.whatsapp.WhatsApp). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1700.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.whatsapp.WhatsApp",
+   "name": "WhatsApp (WGoldPlus 4.0)",
+   "developerName": "@compiledipas",
+   "subtitle": "Tweaks: WGold, WATranslator, WALocationSpoofer +1",
+   "localizedDescription": "Tweaks: WGold, WATranslator, WALocationSpoofer, WAFonts\n\n@compiledipas | WGoldPlus (WGold 4.0)\nWhatsAppSMB and WhatsApp v26.43.75\n\n\nIncluded tweaks:\nWGold 4.0(by @alibusut)\nWATranslator 2.1 (by @n9ipa)\nWAFonts v2.0.0 (by @n9ipa)\nWALocationSpoofer 0.0.6 (by @n9ipa)\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1700.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.43.75",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Tweaks: WGold, WATranslator, WALocationSpoofer, WAFonts\n\n@compiledipas | WGoldPlus (WGold 4.0) WhatsAppSMB and WhatsApp v26.43.75 Included tweaks: WGold 4.0(by @alibusut) WATranslator 2.1 (by @n9ipa)…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/compiledipas/1700-%E2%80%8EWhatsApp_26.43.75_WGoldPlus%284.0%29.ipa",
+     "size": 176696689
+    }
+   ]
+  }
+ ]
+}

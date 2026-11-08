@@ -1,0 +1,44 @@
+{
+ "name": "BeautyPlus",
+ "identifier": "dev.perapp.com-commsource-beautyplus",
+ "subtitle": "Injected with Premium",
+ "description": "Single-app source for BeautyPlus (com.commsource.BeautyPlus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.commsource.BeautyPlus",
+   "name": "BeautyPlus",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Premium",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.commsource.BeautyPlus.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.21.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-10-2025/BeautyPlus_7.21.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 341137589
+    },
+    {
+     "version": "7.16.0",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-08-2025/BeautyPlus_7.16.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 327546624
+    },
+    {
+     "version": "7.26.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/19-12-2025/BeautyPlus_7.26.0_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 354108504
+    }
+   ]
+  }
+ ]
+}

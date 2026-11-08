@@ -1,0 +1,30 @@
+{
+ "name": "Drambo",
+ "identifier": "dev.perapp.com-giku-drambo",
+ "subtitle": "ipaomtk.com | Drambo IPA v2.28 is an innovative and powerful modular music production studio designed for iOS devices. D",
+ "description": "Single-app source for Drambo (com.giku.Drambo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Drambo.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.giku.Drambo",
+   "name": "Drambo",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Drambo IPA v2.28 is an innovative and powerful modular music production studio designed for iOS devices. Developed by BeepStreet, this v",
+   "localizedDescription": "ipaomtk.com | Drambo IPA v2.28 is an innovative and powerful modular music production studio designed for iOS devices. Developed by BeepStreet, this v",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Drambo.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.27",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Drambo IPA v2.28 is an innovative and powerful modular music production studio designed for iOS devices. Developed by BeepStreet, this v",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Drambo-v2.27-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

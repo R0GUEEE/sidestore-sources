@@ -1,0 +1,30 @@
+{
+ "name": "CollaNote",
+ "identifier": "dev.perapp.com-unknown-collanote",
+ "subtitle": "مفتوح الاشتراك الكامل ✅",
+ "description": "Single-app source for CollaNote (com.unknown.collanote). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/CollaNote.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.collanote",
+   "name": "CollaNote",
+   "developerName": "Karbin-Store",
+   "subtitle": "مفتوح الاشتراك الكامل ✅",
+   "localizedDescription": "مفتوح الاشتراك الكامل ✅",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/CollaNote.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.5",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "مفتوح الاشتراك الكامل ✅",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/CollaNote.3.0.5.ipa",
+     "size": 115610000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "MyFitnessPalPremium",
+ "identifier": "dev.perapp.com-myfitnesspal-mfp",
+ "subtitle": "MyFitnessPalPremium by ipalibrary.me / binnichtaktiv's iPA Library",
+ "description": "Single-app source for MyFitnessPalPremium (com.myfitnesspal.mfp). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.myfitnesspal.mfp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.myfitnesspal.mfp",
+   "name": "MyFitnessPalPremium",
+   "developerName": "ipalibrary.me / binnichtaktiv's iPA Library",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.myfitnesspal.mfp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "24.11.0",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.11.0.ipa",
+     "size": 73759556
+    },
+    {
+     "version": "24.13.0",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.13.0.ipa",
+     "size": 77714063
+    },
+    {
+     "version": "24.15.0",
+     "date": "2024-10-11T00:00:00Z",
+     "localizedDescription": "Monitor your journey towards achieving your nutritional, hydration, fitness, and weight loss objectives with MyFitnessPal. This comprehensive health and food tracking application serves as your personal nutritionist, meal strategist, and food journal, available to you whenever you need it. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: ✅ ⭐",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/MyFitnessPalPremium/MyFitnessPalPremium-24.15.0.ipa",
+     "size": 78126607
+    }
+   ]
+  }
+ ]
+}

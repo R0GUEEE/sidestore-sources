@@ -1,0 +1,37 @@
+{
+ "name": "AlisTemporis",
+ "identifier": "dev.perapp.com-townsoft-cannibalplanet3",
+ "subtitle": "ipaomtk.com | Alis Temporis IPA a⁢ game​ that‍ invites players into a grand narrative interwoven with time manipulation ",
+ "description": "Single-app source for AlisTemporis (com.TownSoft.cannibalplanet3). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/RPG-Alis-Temporis-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TownSoft.cannibalplanet3",
+   "name": "AlisTemporis",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Alis Temporis IPA a⁢ game​ that‍ invites players into a grand narrative interwoven with time manipulation and breathtaking artistry. For",
+   "localizedDescription": "ipaomtk.com | Alis Temporis IPA a⁢ game​ that‍ invites players into a grand narrative interwoven with time manipulation and breathtaking artistry. For",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/05/RPG-Alis-Temporis-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.1",
+     "date": "2025-05-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Alis Temporis IPA a⁢ game​ that‍ invites players into a grand narrative interwoven with time manipulation and breathtaking artistry. For",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AlisTemporis-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "15.0",
+     "date": "2025-03-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Idle RPG Cannibal Planet 3 IPA, you may have already heard of the unique and outlandish title, Idle RPG Cannibal Planet 3. This game tak",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Idle_RPG-Cannibal_Planet_3_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

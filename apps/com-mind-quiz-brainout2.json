@@ -1,0 +1,30 @@
+{
+ "name": "Brainout2",
+ "identifier": "dev.perapp.com-mind-quiz-brainout2",
+ "subtitle": "Brainout2",
+ "description": "Single-app source for Brainout2 (com.mind.quiz.brainout2). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brainout2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mind.quiz.brainout2",
+   "name": "Brainout2",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with noads",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mind.quiz.brainout2.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.8",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with noads",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Brainout2_1.0.8_noads_%40thisismanpreets_apptesters.org.ipa",
+     "size": 156547894
+    }
+   ]
+  }
+ ]
+}

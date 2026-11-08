@@ -1,0 +1,30 @@
+{
+ "name": "Unscripted",
+ "identifier": "dev.perapp.com-ibit-unposed",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for Unscripted (com.ibit.UNPOSED). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ibit.UNPOSED.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ibit.UNPOSED",
+   "name": "Unscripted",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ibit.UNPOSED.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.1",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Unscripted_4.6.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 156109785
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "School",
+ "identifier": "dev.perapp.mytown-school",
+ "subtitle": "ipaomtk.com | My Town School IPA v3.02 is an interactive educational game that brings the school experience to life for ",
+ "description": "Single-app source for School (mytown.school). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/My-Town-School.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "mytown.school",
+   "name": "School",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | My Town School IPA v3.02 is an interactive educational game that brings the school experience to life for young children. This engaging ",
+   "localizedDescription": "ipaomtk.com | My Town School IPA v3.02 is an interactive educational game that brings the school experience to life for young children. This engaging ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/My-Town-School.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.00.01",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | My Town School IPA v3.02 is an interactive educational game that brings the school experience to life for young children. This engaging ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/My_Town__School_v.3.00-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

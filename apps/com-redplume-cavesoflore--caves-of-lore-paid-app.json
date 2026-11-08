@@ -1,0 +1,30 @@
+{
+ "name": "Caves of Lore (paid app)",
+ "identifier": "dev.perapp.com-redplume-cavesoflore",
+ "subtitle": "Caves of Lore (paid app) by sidelix",
+ "description": "Single-app source for Caves of Lore (paid app) (com.redplume.cavesoflore). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_69f75db1a45a4.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.redplume.cavesoflore",
+   "name": "Caves of Lore (paid app)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "I'm a self-taught solo-dev who built this passion project over 6 years while holding down a full time job and raising a family. I dedicated myself to work 5 minutes a day no matter what, and built the game piece by piece, not really knowing where I was going or how it would all end.\r\n\r\n• Caves of Lore is a turn-based, pixel-art, fantasy CRPG that combines elements of environmental exploration and character interaction with tactical, grid-based combat.\r\n\r\n\r\nFun and weird adventures await as you progress through a world full of monsters and humor. Hidden secrets and strange powers abound, allowing for a highly customizable party. \r\n• Vast amounts of loot and treasure constantly increase your power, while dialogue, books and lore are waiting fo",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_69f75db1a45a4.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.0",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "I'm a self-taught solo-dev who built this passion project over 6 years while holding down a full time job and raising a family. I dedicated myself to work 5 minutes a day no matter what, and built the game piece by piece, not really knowing where I was going or how it would all end.\r\n\r\n• Caves of Lore is a turn-based, pixel-art, fantasy CRPG that combines elements of environmental exploration and character interaction with tactical, grid-based combat.\r\n\r\n\r\nFun and weird adventures await as you progress through a world full of monsters and humor. Hidden secrets and strange powers abound, allowing for a highly customizable party. \r\n• Vast amounts of loot and treasure constantly increase your power, while dialogue, books and lore are waiting fo",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1998",
+     "size": 128136753
+    }
+   ]
+  }
+ ]
+}

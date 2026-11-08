@@ -1,0 +1,44 @@
+{
+ "name": "Bunpo",
+ "identifier": "dev.perapp.com-n2bunpouapp-yuki",
+ "subtitle": "@riftysIPAlibrary | Bunpo: Learn Japanese  Tweak: Platinum Unlocked  Version: 3.20.0  Patched ✓  @riftysIPAlibrary  Addi",
+ "description": "Single-app source for Bunpo (com.N2BunpouApp.yuki). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7324.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.N2BunpouApp.yuki",
+   "name": "Bunpo",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Bunpo: Learn Japanese  Tweak: Platinum Unlocked  Version: 3.20.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS ",
+   "localizedDescription": "@riftysIPAlibrary | Bunpo: Learn Japanese  Tweak: Platinum Unlocked  Version: 3.20.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS ",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7324.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.29.0",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Bunpo: Learn Japanese  Tweak: Platinum Unlocked  Version: 3.29.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8818-Bunpo:%20Learn%20Japanese-v3.29.0-riftysipas.ipa",
+     "size": 135149249
+    },
+    {
+     "version": "3.28.0",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Bunpo: Learn Japanese  Tweak: Platinum Unlocked  Version: 3.28.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8776-Bunpo:%20Learn%20Japanese-v3.28.0-riftysipas.ipa",
+     "size": 135157020
+    },
+    {
+     "version": "3.27.0",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Bunpo: Learn Japanese  Tweak: Platinum Unlocked  Version: 3.27.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8672-Bunpo:%20Learn%20Japanese-v3.27.0-riftysipas.ipa",
+     "size": 132680117
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "TreasureCruise",
+ "identifier": "dev.perapp.jp-co-bandainamcogames-bngi0218",
+ "subtitle": "TreasureCruise",
+ "description": "Single-app source for TreasureCruise (jp.co.bandainamcogames.BNGI0218). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcogames.BNGI0218.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jp.co.bandainamcogames.BNGI0218",
+   "name": "TreasureCruise",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with GodMode",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.co.bandainamcogames.BNGI0218.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.2.2",
+     "date": "2024-12-10T00:00:00Z",
+     "localizedDescription": "Injected with GodMode",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-12-2024/TreasureCruise_14.2.2_GodMode_%40thisismanpreets_apptesters.org.ipa",
+     "size": 85268685
+    }
+   ]
+  }
+ ]
+}

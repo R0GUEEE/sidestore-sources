@@ -1,0 +1,30 @@
+{
+ "name": "Riveo",
+ "identifier": "dev.perapp.co-forgeandform-riveo",
+ "subtitle": "Premium unlocked",
+ "description": "Single-app source for Riveo (co.forgeandform.riveo). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.forgeandform.riveo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.forgeandform.riveo",
+   "name": "Riveo",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Premium unlocked",
+   "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.forgeandform.riveo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.88",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2025/Riveo_3.88_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 145589237
+    }
+   ]
+  }
+ ]
+}

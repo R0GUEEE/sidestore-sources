@@ -1,0 +1,44 @@
+{
+ "name": "Mojo",
+ "identifier": "dev.perapp.archery-storify",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Mojo (archery.storify). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+ "apps": [
+  {
+   "bundleIdentifier": "archery.storify",
+   "name": "Mojo",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.282.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "@blatants | Mojo: AI Video & Reels Editor  • Bundle ID: archery.storify • Updated to: 1.282.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscription U",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Mojo_1.282.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 181367273
+    },
+    {
+     "version": "1.281.0",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "@blatants | Mojo: AI Video & Reels Editor  • Bundle ID: archery.storify • Updated to: 1.281.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscription U",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12781-Mojo_AI_Video_&_Reels_Editor_v1_281_0_Subscription_Unlocked_blatant.ipa",
+     "size": 182088346
+    },
+    {
+     "version": "1.280.0",
+     "date": "2026-10-07T00:00:00Z",
+     "localizedDescription": "@blatants | Mojo: AI Video & Reels Editor  • Bundle ID: archery.storify • Updated to: 1.280.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscription U",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12665-Mojo_AI_Video_&_Reels_Editor_v1_280_0_Subscription_Unlocked_blatant.ipa",
+     "size": 181912049
+    }
+   ]
+  }
+ ]
+}

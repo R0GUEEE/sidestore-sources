@@ -1,0 +1,30 @@
+{
+ "name": "AdobeFresco",
+ "identifier": "dev.perapp.com-adobe-fresco-ios",
+ "subtitle": "AdobeFresco",
+ "description": "Single-app source for AdobeFresco (com.adobe.fresco.ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.fresco.ios",
+   "name": "AdobeFresco",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.fresco.ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/AdobeFresco_8.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 838051851
+    }
+   ]
+  }
+ ]
+}

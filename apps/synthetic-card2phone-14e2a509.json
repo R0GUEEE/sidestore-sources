@@ -1,0 +1,30 @@
+{
+ "name": "Card2Phone",
+ "identifier": "dev.perapp.synthetic-card2phone-14e2a509",
+ "subtitle": "Card2Phone by Karbin-Store",
+ "description": "Single-app source for Card2Phone (synthetic.card2phone.14e2a509). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Card2Phone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.card2phone.14e2a509",
+   "name": "Card2Phone",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "خۆت زەخم بکە لە ناو خزمەکانت بەم بەرنامە",
+   "iconURL": "https://github.com/karbin98/karbin-image/releases/download/karbin-image/Card2Phone.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.11.6",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "خۆت زەخم بکە لە ناو خزمەکانت بەم بەرنامە",
+     "downloadURL": "https://github.com/karbin98/karbin-ipa/releases/download/karbin-ipa/Card2Phonel.ipa",
+     "size": 85940000
+    }
+   ]
+  }
+ ]
+}

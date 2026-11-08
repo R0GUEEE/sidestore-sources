@@ -1,0 +1,30 @@
+{
+ "name": "AppGroupCheck",
+ "identifier": "dev.perapp.com-choco-appgroupcheck",
+ "subtitle": "AppGroupCheck by Holloway",
+ "description": "Single-app source for AppGroupCheck (com.choco.appgroupcheck). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1761380456.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.choco.appgroupcheck",
+   "name": "AppGroupCheck",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Enhanced version of AppGroupCheck with premium features unlocked.",
+   "iconURL": "https://appstore.sidelix.vip/images/1761380456.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Enhanced version of AppGroupCheck with premium features unlocked.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1677",
+     "size": 1034233
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Quiche Browser",
+ "identifier": "dev.perapp.org-quiche-browser",
+ "subtitle": "@riftysIPAlibrary | Quiche Browser  Tweak: Plus Unlocked  Version: 1.71  Patched ✓  @riftysIPAlibrary  Additional Inform",
+ "description": "Single-app source for Quiche Browser (org.quiche.Browser). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7084.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.quiche.Browser",
+   "name": "Quiche Browser",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Quiche Browser  Tweak: Plus Unlocked  Version: 1.71  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16.4",
+   "localizedDescription": "@riftysIPAlibrary | Quiche Browser  Tweak: Plus Unlocked  Version: 1.71  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16.4",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7084.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.71",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Quiche Browser  Tweak: Plus Unlocked  Version: 1.71  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16.4",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7084-Quiche%20Browser-v1.71-riftysipas.ipa",
+     "size": 87856665
+    },
+    {
+     "version": "1.68.3",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Plus",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/QuicheBrowser_1.68.3_Plus_@thisismanpreets_apptesters.org.ipa",
+     "size": 86624203
+    },
+    {
+     "version": "1.68.1",
+     "date": "2025-12-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Quiche Browser IPA File offers iOS users a fast, efficient, and privacy-focused browsing experience designed to simplify daily internet ",
+     "downloadURL": "https://file.ipaomtk.com/Quiche-Browser/Quiche-Browser-IPAOMTK.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

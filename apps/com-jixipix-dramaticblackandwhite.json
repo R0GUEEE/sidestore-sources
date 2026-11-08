@@ -1,0 +1,30 @@
+{
+ "name": "Dramatic",
+ "identifier": "dev.perapp.com-jixipix-dramaticblackandwhite",
+ "subtitle": "ipaomtk.com | Dramatic Black & White App is a specialized photo editing application designed to transform color images i",
+ "description": "Single-app source for Dramatic (com.jixipix.DramaticBlackAndWhite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Dramatic-Black-038-White.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.jixipix.DramaticBlackAndWhite",
+   "name": "Dramatic",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Dramatic Black & White App is a specialized photo editing application designed to transform color images into striking monochrome master",
+   "localizedDescription": "ipaomtk.com | Dramatic Black & White App is a specialized photo editing application designed to transform color images into striking monochrome master",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Dramatic-Black-038-White.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.60",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Dramatic Black & White App is a specialized photo editing application designed to transform color images into striking monochrome master",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Dramatic_Black_White-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

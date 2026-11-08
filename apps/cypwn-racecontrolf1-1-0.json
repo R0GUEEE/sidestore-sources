@@ -1,0 +1,30 @@
+{
+ "name": "RaceControlF1",
+ "identifier": "dev.perapp.cypwn-racecontrolf1-1-0",
+ "subtitle": "Comprehensive F1 App",
+ "description": "Single-app source for RaceControlF1 (cypwn.RaceControlF1.1.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/RaceControlF1.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.RaceControlF1.1.0",
+   "name": "RaceControlF1",
+   "developerName": "RaceControlF1 x CyPwn",
+   "subtitle": "Comprehensive F1 App",
+   "localizedDescription": "Comprehensive F1 App",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/RaceControlF1.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Comprehensive F1 App",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/RaceControlF1.ipa",
+     "size": 5253365
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Stable Action",
+ "identifier": "dev.perapp.com-rudrashah-stable-action",
+ "subtitle": "Overview:  Samsung's Galaxy S26 Ultra ships a feature called Super Steady with Horizon Lock that keeps your footage perf",
+ "description": "Single-app source for Stable Action (com.rudrashah.Stable-Action). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rudrashah.Stable-Action.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rudrashah.Stable-Action",
+   "name": "Stable Action",
+   "developerName": "scienceLabwork",
+   "subtitle": "Overview:  Samsung's Galaxy S26 Ultra ships a feature called Super Steady with Horizon Lock that keeps your footage perfectly level no matter how much",
+   "localizedDescription": "Overview:  Samsung's Galaxy S26 Ultra ships a feature called Super Steady with Horizon Lock that keeps your footage perfectly level no matter how much\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.rudrashah.Stable-Action.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Overview:  Samsung's Galaxy S26 Ultra ships a feature called Super Steady with Horizon Lock that keeps your footage perfectly level no matter how much",
+     "downloadURL": "https://github.com/scienceLabwork/Stable-Action/releases/download/V1.0.1/StableActionV1.0.1.ipa",
+     "size": 2669757
+    }
+   ]
+  }
+ ]
+}

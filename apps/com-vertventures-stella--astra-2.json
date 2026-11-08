@@ -1,0 +1,44 @@
+{
+ "name": "Astra",
+ "identifier": "dev.perapp.com-vertventures-stella",
+ "subtitle": "Astra",
+ "description": "Single-app source for Astra (com.vertventures.stella). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vertventures.stella.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vertventures.stella",
+   "name": "Astra",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vertventures.stella.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.12.64",
+     "date": "2026-09-28T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked\r\n\r\nNotes: press restore if subscription isn't unlocked\r\nNotes: press restore if subscription isn't unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
+     "size": 102841761
+    },
+    {
+     "version": "3.12.60",
+     "date": "2026-09-21T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked\r\n\r\nNotes: press restore if subscription isn't unlocked\r\nNotes: press restore if subscription isn't unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
+     "size": 104961250
+    },
+    {
+     "version": "3.12.53",
+     "date": "2026-09-10T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked\r\n\r\nNotes: press restore if subscription isn't unlocked\r\nNotes: press restore if subscription isn't unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
+     "size": 105266308
+    }
+   ]
+  }
+ ]
+}

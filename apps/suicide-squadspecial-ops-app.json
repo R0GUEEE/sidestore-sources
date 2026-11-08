@@ -1,0 +1,30 @@
+{
+ "name": "Suicide Squad: Special Ops - (Removed from App Store)",
+ "identifier": "dev.perapp.suicide-squadspecial-ops-app",
+ "subtitle": "Suicide Squad: Special Ops - (Removed from App Store) by sidelix",
+ "description": "Single-app source for Suicide Squad: Special Ops - (Removed from App Store) (Suicide-SquadSpecial-Ops.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1781825279.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "Suicide-SquadSpecial-Ops.app",
+   "name": "Suicide Squad: Special Ops - (Removed from App Store)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Suicide Squad: Special Ops suits players who want short, focused sessions with clear goals in a city under pressure. It brings the film’s characters into a compact solo format that you can pick up and play without long setup. Meanwhile, the score chase gives steady motivation for quick retries when you have a few minutes.",
+   "iconURL": "https://appstore.sidelix.vip/images/1781825279.jpeg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.2",
+     "date": "2026-06-18T00:00:00Z",
+     "localizedDescription": "Suicide Squad: Special Ops suits players who want short, focused sessions with clear goals in a city under pressure. It brings the film’s characters into a compact solo format that you can pick up and play without long setup. Meanwhile, the score chase gives steady motivation for quick retries when you have a few minutes.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2084",
+     "size": 175024486
+    }
+   ]
+  }
+ ]
+}

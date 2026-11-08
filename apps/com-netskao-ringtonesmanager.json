@@ -1,0 +1,30 @@
+{
+ "name": "RingTonesManager",
+ "identifier": "dev.perapp.com-netskao-ringtonesmanager",
+ "subtitle": "ipaomtk.com | Are you tired of the limited selection of default ringtones on your iOS device? Do you wish you could pers",
+ "description": "Single-app source for RingTonesManager (com.netskao.ringtonesmanager). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/RingTonesManager-ios-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netskao.ringtonesmanager",
+   "name": "RingTonesManager",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Are you tired of the limited selection of default ringtones on your iOS device? Do you wish you could personalize your iPhone or iPad wi",
+   "localizedDescription": "ipaomtk.com | Are you tired of the limited selection of default ringtones on your iOS device? Do you wish you could personalize your iPhone or iPad wi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/RingTonesManager-ios-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1-4",
+     "date": "2024-02-21T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Are you tired of the limited selection of default ringtones on your iOS device? Do you wish you could personalize your iPhone or iPad wi",
+     "downloadURL": "https://file.ipaomtk.com/Trollstore/RingTonesManager-Troll.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

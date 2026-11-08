@@ -1,0 +1,30 @@
+{
+ "name": "IPTVExpert",
+ "identifier": "dev.perapp.com-iptv-player",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for IPTVExpert (com.iptv.player). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iptv.player",
+   "name": "IPTVExpert",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iptv.player.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.2.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/IPTVExpert_9.2.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 43888367
+    }
+   ]
+  }
+ ]
+}

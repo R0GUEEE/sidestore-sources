@@ -1,0 +1,44 @@
+{
+ "name": "Walli",
+ "identifier": "dev.perapp.com-stanga-projectku",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Walli (com.stanga.projectKu). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stanga.projectKu",
+   "name": "Walli",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stanga.projectKu.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.94.0",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-10-2025/Walli_1.94.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 131130195
+    },
+    {
+     "version": "1.89.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/12-08-2025/Walli_1.89.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 119583459
+    },
+    {
+     "version": "1.90.1",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/22-08-2025/Walli_1.90.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 119609057
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Tiny Squad",
+ "identifier": "dev.perapp.net-ekgames-projectzp2",
+ "subtitle": "ipaomtk.com | Tiny Squad on iOS brings together fast action and light tactical planning in a compact, mobile-friendly fo",
+ "description": "Single-app source for Tiny Squad (net.ekgames.projectzp2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/tiny-squad-waggle-defense-thumbnail-47159758-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.ekgames.projectzp2",
+   "name": "Tiny Squad",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Tiny Squad on iOS brings together fast action and light tactical planning in a compact, mobile-friendly format. From the first mission, ",
+   "localizedDescription": "ipaomtk.com | Tiny Squad on iOS brings together fast action and light tactical planning in a compact, mobile-friendly format. From the first mission, ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/tiny-squad-waggle-defense-thumbnail-47159758-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.00.02",
+     "date": "2026-02-20T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Tiny Squad on iOS brings together fast action and light tactical planning in a compact, mobile-friendly format. From the first mission, ",
+     "downloadURL": "https://file.ipaomtk.com/Tiny-Squad/Tiny-Squad-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

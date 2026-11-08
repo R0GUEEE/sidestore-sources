@@ -1,0 +1,44 @@
+{
+ "name": "FlexIPTV",
+ "identifier": "dev.perapp.com-funlabsoft-iptv",
+ "subtitle": "FlexIPTV",
+ "description": "Single-app source for FlexIPTV (com.funlabsoft.iptv). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.funlabsoft.iptv",
+   "name": "FlexIPTV",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.funlabsoft.iptv.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.15.1",
+     "date": "2026-04-30T00:00:00Z",
+     "localizedDescription": "- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1994",
+     "size": 20392215
+    },
+    {
+     "version": "2.15",
+     "date": "2026-04-10T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-04-2026/FlexIPTV_2.15_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 20597516
+    },
+    {
+     "version": "2.13",
+     "date": "2025-12-21T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-12-2025/FlexIPTV_2.13_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 19997692
+    }
+   ]
+  }
+ ]
+}

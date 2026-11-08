@@ -1,0 +1,30 @@
+{
+ "name": "BAM",
+ "identifier": "dev.perapp.com-optiflow-imposter",
+ "subtitle": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for BAM (com.optiflow.imposter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.optiflow.imposter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.optiflow.imposter",
+   "name": "BAM",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.optiflow.imposter.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.15",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/20-12-2025/BAM_2.15_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 78790205
+    }
+   ]
+  }
+ ]
+}

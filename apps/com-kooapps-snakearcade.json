@@ -1,0 +1,37 @@
+{
+ "name": "Snake.io+",
+ "identifier": "dev.perapp.com-kooapps-snakearcade",
+ "subtitle": "@ipa_dark | 🔄 Snake io+ - appstore  🇷🇺 Казуальная многопользовательская аркада, где нужно управлять змейкой, собирать сф",
+ "description": "Single-app source for Snake.io+ (com.kooapps.snakearcade). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1627.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kooapps.snakearcade",
+   "name": "Snake.io+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Snake io+ - appstore  🇷🇺 Казуальная многопользовательская аркада, где нужно управлять змейкой, собирать сферы для роста, избегать столкн",
+   "localizedDescription": "@ipa_dark | 🔄 Snake io+ - appstore  🇷🇺 Казуальная многопользовательская аркада, где нужно управлять змейкой, собирать сферы для роста, избегать столкн",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1627.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.18",
+     "date": "2026-08-23T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Snake io+ - appstore  🇷🇺 Казуальная многопользовательская аркада, где нужно управлять змейкой, собирать сферы для роста, избегать столкн",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1666-snake%20io%20%5Bv1.0.18%5D%28tg@ipa_dark%29.ipa",
+     "size": 65924645
+    },
+    {
+     "version": "1.0.17",
+     "date": "2026-07-31T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Snake io+ - appstore  🇷🇺 Казуальная многопользовательская аркада, где нужно управлять змейкой, собирать сферы для роста, избегать столкн",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1627-Snake.io+%20%5Bv1.0.17%5D%28tg@ipa_dark%29.ipa",
+     "size": 66304824
+    }
+   ]
+  }
+ ]
+}

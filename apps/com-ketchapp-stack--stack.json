@@ -1,0 +1,30 @@
+{
+ "name": "Stack",
+ "identifier": "dev.perapp.com-ketchapp-stack",
+ "subtitle": "Stack by Ketchapp",
+ "description": "Single-app source for Stack (com.ketchapp.stack). Converted from riftys.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/08/fc/1408fca0-e215-f0e2-46da-4ad3049998cd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.stack",
+   "name": "Stack",
+   "developerName": "Ketchapp",
+   "subtitle": "",
+   "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/08/fc/1408fca0-e215-f0e2-46da-4ad3049998cd/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.57",
+     "date": "2025-02-09T00:00:00Z",
+     "localizedDescription": "No Ads - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b2be46bfb5ad65523e2f3d",
+     "size": 67965051
+    }
+   ]
+  }
+ ]
+}

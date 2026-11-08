@@ -1,0 +1,30 @@
+{
+ "name": "HDFlixNoAds",
+ "identifier": "dev.perapp.com-box-hd-flix-drama-hub",
+ "subtitle": "HDFlixNoAds by Manpreet Singh @thisismanpreeets / ArianaMinajj",
+ "description": "Single-app source for HDFlixNoAds (com.box.hd.flix.drama.hub). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.box.hd.flix.drama.hub",
+   "name": "HDFlixNoAds",
+   "developerName": "Manpreet Singh @thisismanpreeets / ArianaMinajj",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.box.hd.flix.drama.hub.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2024-10-01T00:00:00Z",
+     "localizedDescription": "HD Flix without ads. A user requested it so here it is.\nLast updated: 08-16-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/HDFlixNoAds/HDFlixNoAds-3.0.ipa",
+     "size": 32320054
+    }
+   ]
+  }
+ ]
+}

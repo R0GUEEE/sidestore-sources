@@ -1,0 +1,30 @@
+{
+ "name": "X++",
+ "identifier": "dev.perapp.com-atebits-tweetie2",
+ "subtitle": "Tweaks: bhFLEX, BHTwitter",
+ "description": "Single-app source for X++ (com.atebits.Tweetie2). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.atebits.Tweetie2",
+   "name": "X++",
+   "developerName": "Densor",
+   "subtitle": "Tweaks: bhFLEX, BHTwitter",
+   "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\nFeatures:\n\n• Download Videos (even if account private).\n• Replay later feature.\n• Video zoom feature.\n• No history feature.\n• Hide topics tweet feature.\n• Disable video layer caption.\n• Padlock.\n• Font changer.\n• Auto load photos in highest quality feature\n• Undo tweet feature.\n• Reader mode feature.\n• Disable new tweet style (A.K.A edge to edge tweet)\n• Enable voice tweet and voice message in DM.\n• Hide promoted tweet from the timeline.\n• Confirm alert when hit the tweet button.\n• Confirm alert when hit like button.\n• FLEX for debugging.\n\n• And more!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/46/c4/bf46c48e-94bb-c30d-601f-d73ed5a70689/ProductionAppIcon-0-0-1x_U007emarketing-0-8-0-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.41",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "Tweaks: bhFLEX, BHTwitter\n\nFeatures: • Download Videos (even if account private). • Replay later feature. • Video zoom feature. • No history feature. • Hide topics tweet…",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.41.+.NFB.v7.3.1.fixed.ipa",
+     "size": 274889499
+    }
+   ]
+  }
+ ]
+}

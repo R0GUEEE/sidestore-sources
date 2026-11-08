@@ -1,0 +1,30 @@
+{
+ "name": "Manlook",
+ "identifier": "dev.perapp.synthetic-manlook-3d354fbf",
+ "subtitle": "Manlook by Karbin-Store",
+ "description": "Single-app source for Manlook (synthetic.manlook.3d354fbf). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Manlook.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.manlook.3d354fbf",
+   "name": "Manlook",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/Manlook.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Manlook++_1.4_LeTi.ipa",
+     "size": 75610000
+    }
+   ]
+  }
+ ]
+}

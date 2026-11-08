@@ -1,0 +1,30 @@
+{
+ "name": "!Vibes",
+ "identifier": "dev.perapp.com-andyworks-vibes",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for !Vibes (com.andyworks.vibes). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/13031.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.andyworks.vibes",
+   "name": "!Vibes",
+   "developerName": "@blatants",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "@blatants | (Not Boring) Vibes\n\n• Bundle ID: com.andyworks.vibes\n• Updated to: 1.30\n• Minimum iOS: 26.0\n• Patched\n• Modifier: Subscription Unlocked\n• Tweaked by @blatants\n\nッ JB Repo | ♡ Support | ⊕ Buy a cert\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/13031.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.30",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | (Not Boring) Vibes • Bundle ID: com.andyworks.vibes • Updated to: 1.30 • Minimum iOS: 26.0 • Patched • Modifier: Subscription Unlocked •…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13031-Not_Boring_Vibes_v1_30_Subscription_Unlocked_blatant_Patched.ipa",
+     "size": 272793503
+    }
+   ]
+  }
+ ]
+}

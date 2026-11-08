@@ -1,0 +1,30 @@
+{
+ "name": "SpotC++",
+ "identifier": "dev.perapp.com-yodaluca23-spotcplusplus",
+ "subtitle": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature.",
+ "description": "Single-app source for SpotC++ (com.yodaluca23.SpotCPlusPlus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC++%20AppIcon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.yodaluca23.SpotCPlusPlus",
+   "name": "SpotC++",
+   "developerName": "Whoeevee & Aesthyrica",
+   "subtitle": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. It even allows you to fetch l",
+   "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. It even allows you to fetch l",
+   "iconURL": "https://github.com/SpotCompiled/SpotC-AltStore-Repo/raw/main/SpotC++%20AppIcon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.6.3",
+     "date": "2026-05-05T00:00:00Z",
+     "localizedDescription": "EeveeSpotify is a Spotify IOS app tweak that removes ads, removes limited skips, and almost every other premium feature. It even allows you to fetch l",
+     "downloadURL": "https://files.catbox.moe/ugxkcy.ipa",
+     "size": 87434699
+    }
+   ]
+  }
+ ]
+}

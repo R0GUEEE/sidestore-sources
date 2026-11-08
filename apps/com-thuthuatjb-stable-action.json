@@ -1,0 +1,30 @@
+{
+ "name": "Stable Action",
+ "identifier": "dev.perapp.com-thuthuatjb-stable-action",
+ "subtitle": "Đem tính năng quay Video Horizon Lock của Galaxy S26 lên iOS - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Stable Action (com.thuthuatjb.Stable-Action). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/StableAction.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.thuthuatjb.Stable-Action",
+   "name": "Stable Action",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Đem tính năng quay Video Horizon Lock của Galaxy S26 lên iOS - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Đem tính năng quay Video Horizon Lock của Galaxy S26 lên iOS - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/StableAction.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Đem tính năng quay Video Horizon Lock của Galaxy S26 lên iOS - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Stable.Action_1.0_TTJB.ipa",
+     "size": 2663951
+    }
+   ]
+  }
+ ]
+}

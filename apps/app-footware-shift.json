@@ -1,0 +1,30 @@
+{
+ "name": "WristBoard",
+ "identifier": "dev.perapp.app-footware-shift",
+ "subtitle": "ipaomtk.com | WristBoard IPA v6.3.3 is an innovative keyboard application designed specifically for the Apple Watch, rev",
+ "description": "Single-app source for WristBoard (app.FootWare.Shift). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/WristBoard-8211-Watch-Keyboard.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "app.FootWare.Shift",
+   "name": "WristBoard",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | WristBoard IPA v6.3.3 is an innovative keyboard application designed specifically for the Apple Watch, revolutionizing text input on thi",
+   "localizedDescription": "ipaomtk.com | WristBoard IPA v6.3.3 is an innovative keyboard application designed specifically for the Apple Watch, revolutionizing text input on thi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/WristBoard-8211-Watch-Keyboard.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.3.3",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | WristBoard IPA v6.3.3 is an innovative keyboard application designed specifically for the Apple Watch, revolutionizing text input on thi",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/WristBoard_-_Watch_Keyboard-%5Bipaomtk.com%5D.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

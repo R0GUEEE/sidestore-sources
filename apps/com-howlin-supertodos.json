@@ -1,0 +1,30 @@
+{
+ "name": "Supertodos",
+ "identifier": "dev.perapp.com-howlin-supertodos",
+ "subtitle": "ipaomtk.com | Super ToDo’s IPA v10.4 is a powerful task management application designed to help users organize their dai",
+ "description": "Single-app source for Supertodos (com.howlin.SuperToDos). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Super-ToDo8217s.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.howlin.SuperToDos",
+   "name": "Supertodos",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Super ToDo’s IPA v10.4 is a powerful task management application designed to help users organize their daily lives with ease and efficie",
+   "localizedDescription": "ipaomtk.com | Super ToDo’s IPA v10.4 is a powerful task management application designed to help users organize their daily lives with ease and efficie",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Super-ToDo8217s.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Super ToDo’s IPA v10.4 is a powerful task management application designed to help users organize their daily lives with ease and efficie",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Super_ToDos-v10.2-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

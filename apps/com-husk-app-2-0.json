@@ -1,0 +1,30 @@
+{
+ "name": "Husk (v2.0)",
+ "identifier": "dev.perapp.com-husk-app-2-0",
+ "subtitle": "Run Android apps and games on your iPhone! This is an open source app that lets you run Android apps and games on iOS us",
+ "description": "Single-app source for Husk (v2.0) (com.husk.app.2.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/Husk-Icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.husk.app.2.0",
+   "name": "Husk (v2.0)",
+   "developerName": "Leviidev",
+   "subtitle": "Run Android apps and games on your iPhone! This is an open source app that lets you run Android apps and games on iOS using an ARM64 translation layer",
+   "localizedDescription": "Run Android apps and games on your iPhone! This is an open source app that lets you run Android apps and games on iOS using an ARM64 translation layer\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/Husk-Icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0",
+     "date": "2026-10-13T00:00:00Z",
+     "localizedDescription": "Run Android apps and games on your iPhone! This is an open source app that lets you run Android apps and games on iOS using an ARM64 translation layer",
+     "downloadURL": "https://repo.ballermc.com/tubevault/Husk.ipa",
+     "size": 110921859
+    }
+   ]
+  }
+ ]
+}

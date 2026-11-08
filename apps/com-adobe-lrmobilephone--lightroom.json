@@ -1,0 +1,44 @@
+{
+ "name": "Lightroom",
+ "identifier": "dev.perapp.com-adobe-lrmobilephone",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Lightroom (com.adobe.lrmobilephone). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.adobe.lrmobilephone",
+   "name": "Lightroom",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.lrmobilephone.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "12.0.0",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "@blatants | Lightroom Photo Editor & Video  • Bundle ID: com.adobe.lrmobilephone • Updated to: 12.0 • Minimum iOS: 18.0 • Patched • Modifier: Subscrip",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13288-Lightroom_Photo_Editor_&_Video_v12_0_Subscription_Unlocked_blatant.ipa",
+     "size": 221784240
+    },
+    {
+     "version": "11.6.21",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@blatants | Lightroom Photo Editor & Video  • Bundle ID: com.adobe.lrmobilephone • Updated to: 11.6.21 • Minimum iOS: 18.0 • Patched • Modifier: Subsc",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Lightroom_11.6.21_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 222689421
+    },
+    {
+     "version": "11.6.20",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "@blatants | Lightroom Photo Editor & Video  • Bundle ID: com.adobe.lrmobilephone • Updated to: 11.6.20 • Minimum iOS: 18.0 • Patched • Modifier: Subsc",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/Lightroom_11.6.20_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 222669708
+    }
+   ]
+  }
+ ]
+}

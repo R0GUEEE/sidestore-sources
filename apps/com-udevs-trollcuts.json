@@ -1,0 +1,30 @@
+{
+ "name": "TrollCuts",
+ "identifier": "dev.perapp.com-udevs-trollcuts",
+ "subtitle": "Shortcuts extensions for iOS 16.0+ Last updated: 01-23-2024 Status: ✅",
+ "description": "Single-app source for TrollCuts (com.udevs.TrollCuts). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.udevs.TrollCuts.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.udevs.TrollCuts",
+   "name": "TrollCuts",
+   "developerName": "udevsharold",
+   "subtitle": "Shortcuts extensions for iOS 16.0+ Last updated: 01-23-2024 Status: ✅",
+   "localizedDescription": "Shortcuts extensions for iOS 16.0+ Last updated: 01-23-2024 Status: ✅",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.udevs.TrollCuts.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Shortcuts extensions for iOS 16.0+ Last updated: 01-23-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/TrollCuts/TrollCuts-1.1.ipa",
+     "size": 529664
+    }
+   ]
+  }
+ ]
+}

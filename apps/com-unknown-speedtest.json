@@ -1,0 +1,30 @@
+{
+ "name": "Speedtest",
+ "identifier": "dev.perapp.com-unknown-speedtest",
+ "subtitle": "کردنەوەی تایبەتمەندیە بە پارەکان بە خۆڕایی",
+ "description": "Single-app source for Speedtest (com.unknown.speedtest). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Speedtest.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.speedtest",
+   "name": "Speedtest",
+   "developerName": "Karbin-Store",
+   "subtitle": "کردنەوەی تایبەتمەندیە بە پارەکان بە خۆڕایی",
+   "localizedDescription": "کردنەوەی تایبەتمەندیە بە پارەکان بە خۆڕایی",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Speedtest.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.0",
+     "date": "2026-03-14T00:00:00Z",
+     "localizedDescription": "کردنەوەی تایبەتمەندیە بە پارەکان بە خۆڕایی",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Speedtest5.5.0.ipa",
+     "size": 64070000
+    }
+   ]
+  }
+ ]
+}

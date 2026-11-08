@@ -1,0 +1,30 @@
+{
+ "name": "HIIT Timer",
+ "identifier": "dev.perapp.com-bodyplan-bittimer",
+ "subtitle": "ipaomtk.com | Introduction Interval Timer HIIT Timer IPA is a popular iOS fitness application designed to help users man",
+ "description": "Single-app source for HIIT Timer (com.bodyplan.bittimer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Interval-Timer-%E2%96%A1-HIIT-Timer-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bodyplan.bittimer",
+   "name": "HIIT Timer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Interval Timer HIIT Timer IPA is a popular iOS fitness application designed to help users manage high-intensity interval tr",
+   "localizedDescription": "ipaomtk.com | Introduction Interval Timer HIIT Timer IPA is a popular iOS fitness application designed to help users manage high-intensity interval tr",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Interval-Timer-%E2%96%A1-HIIT-Timer-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.7.4",
+     "date": "2025-12-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Interval Timer HIIT Timer IPA is a popular iOS fitness application designed to help users manage high-intensity interval tr",
+     "downloadURL": "https://file.ipaomtk.com/Interval%20Timer/HIIT-Timer-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

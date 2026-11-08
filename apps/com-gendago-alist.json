@@ -1,0 +1,30 @@
+{
+ "name": "AListServer",
+ "identifier": "dev.perapp.com-gendago-alist",
+ "subtitle": "ipaomtk.com | AListServer IPA Paid For Free v1.11 iOS is a cutting-edge server management solution designed to streamlin",
+ "description": "Single-app source for AListServer (com.gendago.alist). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/alistserver-ico-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gendago.alist",
+   "name": "AListServer",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | AListServer IPA Paid For Free v1.11 iOS is a cutting-edge server management solution designed to streamline and simplify the complex wor",
+   "localizedDescription": "ipaomtk.com | AListServer IPA Paid For Free v1.11 iOS is a cutting-edge server management solution designed to streamline and simplify the complex wor",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/alistserver-ico-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.10",
+     "date": "2024-10-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | AListServer IPA Paid For Free v1.11 iOS is a cutting-edge server management solution designed to streamline and simplify the complex wor",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/AListServer-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Skein",
+ "identifier": "dev.perapp.com-ripestore-skein",
+ "subtitle": "A native BitTorrent client for macOS and iOS, built with SwiftUI over",
+ "description": "Single-app source for Skein (com.ripestore.skein). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ripestore.skein",
+   "name": "Skein",
+   "developerName": "SwiftyLab",
+   "subtitle": "A native BitTorrent client for macOS and iOS, built with SwiftUI over",
+   "localizedDescription": "Skein:\n\nA native BitTorrent client for macOS and iOS, built with SwiftUI over libtorrent using Swift/C++ interop.\n\nGetting started:\n\nmake on its own lists everything. make config prints the bundle id and team it resolved, which is the quickest way to check Local.env is being read.\n\nBundle identity and signing:\n\nLocal.env is gitignored, so a team identifier never lands in the repository. Precedence is environment, then Local.env, then the defaults in Project.swift — so CI can override a developer's checkout without editing it.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-10-10T17:21:04Z",
+     "localizedDescription": "Skein 1.0.1 (build 202610100817) for iOS 26.0 and later, notarized for alternative distribution.\n\niPhone and iPad: install through AltStore PAL by adding this source: https://raw.githubusercontent.com/SwiftyLab/Skein/main/AltStore/source.json\n\nMac: download Skein-1.0.1-202610100817-macOS.zip below (signed with Developer ID and notarized by Apple), unzip it and move Skein to Applications. It is attached separately, shortly after this release appears.",
+     "downloadURL": "https://github.com/SwiftyLab/Skein/releases/download/v1.0.1-202610100817/b28cb7df-c8ee-3895-8c0f-7b681b84c364.ipa",
+     "size": 24856962
+    }
+   ]
+  }
+ ]
+}

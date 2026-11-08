@@ -1,0 +1,30 @@
+{
+ "name": "hianime",
+ "identifier": "dev.perapp.com-pyanime-anime-search",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for hianime (com.pyanime.anime.search). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pyanime.anime.search.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.pyanime.anime.search",
+   "name": "hianime",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pyanime.anime.search.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.18",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2025/hianime_1.0.18_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 19060461
+    }
+   ]
+  }
+ ]
+}

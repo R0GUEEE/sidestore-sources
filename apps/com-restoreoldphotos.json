@@ -1,0 +1,37 @@
+{
+ "name": "Clearify",
+ "identifier": "dev.perapp.com-restoreoldphotos",
+ "subtitle": "ipaomtk.com | Overview Clearify IPA Clearify is an iOS app designed to restore and enhance photos — especially old, fade",
+ "description": "Single-app source for Clearify (com.restoreoldphotos). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Clearify-Old-Photo-Restore-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.restoreoldphotos",
+   "name": "Clearify",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Overview Clearify IPA Clearify is an iOS app designed to restore and enhance photos — especially old, faded, blurry or black‑and‑white p",
+   "localizedDescription": "ipaomtk.com | Overview Clearify IPA Clearify is an iOS app designed to restore and enhance photos — especially old, faded, blurry or black‑and‑white p",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Clearify-Old-Photo-Restore-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.26",
+     "date": "2025-12-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Overview Clearify IPA Clearify is an iOS app designed to restore and enhance photos — especially old, faded, blurry or black‑and‑white p",
+     "downloadURL": "https://file.ipaomtk.com/clearify/Clearify-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.31",
+     "date": "2025-12-08T00:00:00Z",
+     "localizedDescription": "Tweaks: 3BodSyPlus\n\nipaomtk.com | Overview Clearify IPA Clearify is an iOS app designed to restore and enhance photos — especially old, faded, blurry or black‑and‑white p",
+     "downloadURL": "https://file.ipaomtk.com/clearify/Clearify-IPAOMTK.COM.ipa",
+     "size": 9931228
+    }
+   ]
+  }
+ ]
+}

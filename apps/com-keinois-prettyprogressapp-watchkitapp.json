@@ -1,0 +1,37 @@
+{
+ "name": "Pretty Progress",
+ "identifier": "dev.perapp.com-keinois-prettyprogressapp-watchkitapp",
+ "subtitle": "Pretty Progress",
+ "description": "Single-app source for Pretty Progress (com.keinois.PrettyProgressApp.watchkitapp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.keinois.PrettyProgressApp.watchkitapp",
+   "name": "Pretty Progress",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Countdown - Pretty Progress\n⁣\nTweak: Subscription Unlocked\n\nVersion: 1.19.13\n\nMade by riftysIPAlibrary",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.19.13",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Countdown - Pretty Progress\n⁣\nTweak: Subscription Unlocked\n\nVersion: 1.19.13\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/0de82241-c4bb-4431-9dac-fc0cd5265f1f/PrettyProgress_v1.19.13-riftysipas.ipa",
+     "size": 92381014
+    },
+    {
+     "version": "1.19.12",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Countdown - Pretty Progress\n⁣\nTweak: Subscription Unlocked\n\nBundle ID: com.keinois.PrettyProgressApp\n\nDeveloper: keinois OU\n\nVersion: 1.19.12\n\nMade by riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/eb9c203a-9da3-44a3-b25d-3ecda73c3829/PrettyProgress_v1.19.12-riftysipas.ipa",
+     "size": 90755502
+    }
+   ]
+  }
+ ]
+}

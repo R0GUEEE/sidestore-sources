@@ -1,0 +1,37 @@
+{
+ "name": "OverSpace",
+ "identifier": "dev.perapp.com-shooterhero",
+ "subtitle": "ipaomtk.com | Overspace: Alien Shooter RPG on iOS Overspace: Alien Shooter RPG on iOS delivers an intense space combat e",
+ "description": "Single-app source for OverSpace (com.shooterhero). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Overspace-Alien-Shooter-RPG-IPA-v1.1-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.shooterhero",
+   "name": "OverSpace",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Overspace: Alien Shooter RPG on iOS Overspace: Alien Shooter RPG on iOS delivers an intense space combat experience where players pilot ",
+   "localizedDescription": "ipaomtk.com | Overspace: Alien Shooter RPG on iOS Overspace: Alien Shooter RPG on iOS delivers an intense space combat experience where players pilot ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Overspace-Alien-Shooter-RPG-IPA-v1.1-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.1",
+     "date": "2026-01-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Overspace: Alien Shooter RPG on iOS Overspace: Alien Shooter RPG on iOS delivers an intense space combat experience where players pilot ",
+     "downloadURL": "https://file.ipaomtk.com/overspace-alien-shooter-rpg/Overspace-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.7",
+     "date": "2026-01-26T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Overspace: Alien Shooter RPG on iOS Overspace: Alien Shooter RPG on iOS delivers an intense space combat experience where players pilot ",
+     "downloadURL": "https://file.ipaomtk.com/overspace-alien-shooter-rpg/Overspace-IPAOMTK.COM.ipa",
+     "size": 195454387
+    }
+   ]
+  }
+ ]
+}

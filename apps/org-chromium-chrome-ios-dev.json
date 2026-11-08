@@ -1,0 +1,37 @@
+{
+ "name": "Chromium",
+ "identifier": "dev.perapp.org-chromium-chrome-ios-dev",
+ "subtitle": "Open source version of Google's Chrome browser for iOS",
+ "description": "Single-app source for Chromium (org.chromium.chrome.ios.dev). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/TheNightmanCodeth/chromium-ios/raw/master/Icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.chromium.chrome.ios.dev",
+   "name": "Chromium",
+   "developerName": "Google",
+   "subtitle": "Open source version of Google's Chrome browser for iOS",
+   "localizedDescription": "Open source version of Google's Chrome browser for iOS",
+   "iconURL": "https://github.com/TheNightmanCodeth/chromium-ios/raw/master/Icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "91.0.4458.0",
+     "date": "2026-04-20T00:00:00Z",
+     "localizedDescription": "Open source version of Google's Chrome browser for iOS",
+     "downloadURL": "https://github.com/TheNightmanCodeth/chromium-ios/releases/download/1.0.0/chromium.ipa",
+     "size": 106722609
+    },
+    {
+     "version": "91.4458.0",
+     "date": "2026-04-20T00:00:00Z",
+     "localizedDescription": "Open source version of Google's Chrome browser for iOS",
+     "downloadURL": "https://github.com/TheNightmanCodeth/chromium-ios/releases/download/1.0.0/chromium.ipa",
+     "size": 106722609
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Vlognow",
+ "identifier": "dev.perapp.com-frontrow-vlog",
+ "subtitle": "Vlognow",
+ "description": "Single-app source for Vlognow (com.frontrow.vlog). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.frontrow.vlog",
+   "name": "Vlognow",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.91",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Vlognow_1.91_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 302189621
+    }
+   ]
+  }
+ ]
+}

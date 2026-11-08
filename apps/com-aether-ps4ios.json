@@ -1,0 +1,30 @@
+{
+ "name": "AetherPS4",
+ "identifier": "dev.perapp.com-aether-ps4ios",
+ "subtitle": "AetherPS4:  Experimental PlayStation 4 emulation for iOS, built on shadPS4 with an ARM64-ported FEXCore x86-64 → ARM64 J",
+ "description": "Single-app source for AetherPS4 (com.aether.ps4ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aether.ps4ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.aether.ps4ios",
+   "name": "AetherPS4",
+   "developerName": "Leviidev",
+   "subtitle": "AetherPS4:  Experimental PlayStation 4 emulation for iOS, built on shadPS4 with an ARM64-ported FEXCore x86-64 → ARM64 JIT and a native SwiftUI front ",
+   "localizedDescription": "AetherPS4:  Experimental PlayStation 4 emulation for iOS, built on shadPS4 with an ARM64-ported FEXCore x86-64 → ARM64 JIT and a native SwiftUI front\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aether.ps4ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "AetherPS4:  Experimental PlayStation 4 emulation for iOS, built on shadPS4 with an ARM64-ported FEXCore x86-64 → ARM64 JIT and a native SwiftUI front ",
+     "downloadURL": "https://github.com/Leviidev/AetherPS4/releases/download/v1.2/AetherPS4-iOS.ipa",
+     "size": 34208394
+    }
+   ]
+  }
+ ]
+}

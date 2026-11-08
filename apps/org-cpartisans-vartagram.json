@@ -1,0 +1,55 @@
+{
+ "name": "Vartagram",
+ "identifier": "dev.perapp.org-cpartisans-vartagram",
+ "subtitle": "Telegram-iOS",
+ "description": "Single-app source for Vartagram (org.cpartisans.vartagram). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0678b6",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.cpartisans.vartagram.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.cpartisans.vartagram",
+   "name": "Vartagram",
+   "developerName": "wrwrabbit",
+   "subtitle": "Telegram-iOS",
+   "localizedDescription": "Vartagram Source Code Compilation Guide:\n\nWe welcome all developers to use our source code to create applications. There are several things we require from all developers for the moment.\n\nCreating your Telegram Application:\n\n• Please remember to publish your code too in order to comply with the licences.\n\nAdjust Configuration:\n\n• Generate a random identifier:.\n\n• Open Keychain Access and navigate to Certificates. Locate Apple Development: your@email.address (XXXXXXXXXX) and double tap the certificate. Under Details, locate Organizational Unit. This is the Team ID.\n• Edit build-system/template_minimal_development_configuration.json. Use data from the previous steps.\n\nXcode:\n\n• Copy and edit build-system/appstore-configuration.json.\n• Generate an Xcode project:.\n\nIPA:\n\n• Repeat the steps from the previous section. Use distribution provisioning profiles.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.cpartisans.vartagram.png",
+   "tintColor": "#0678b6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-27T12:12:36Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/wrwrabbit/Vartagram/releases/download/build-32766/Telegram.ipa",
+     "size": 68496380
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "com.apple.developer.usernotifications.filtering",
+     "com.apple.security.application-groups",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "We need this so that you can take and share photos and videos.",
+     "NSContactsUsageDescription": "Vartagram stores your contacts heavily encrypted in the cloud to let you connect with your friends across all your devices.",
+     "NSFaceIDUsageDescription": "You can use Face ID to unlock the app.",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "When you choose to share your Live Location with friends in a chat, Vartagram needs background access to your location to keep them updated for the duration of the live sharing.",
+     "NSLocationAlwaysUsageDescription": "When you send your location to your friends, Vartagram needs access to show them a map. You also need this to send locations from an Apple Watch.",
+     "NSLocationWhenInUseUsageDescription": "When you send your location to your friends, Vartagram needs access to show them a map.",
+     "NSMicrophoneUsageDescription": "We need this so that you can record and share voice messages and videos with sound.",
+     "NSMotionUsageDescription": "When you send your location to your friends, Vartagram needs access to show them a map.",
+     "NSPhotoLibraryAddUsageDescription": "We need this so that you can share photos and videos from your photo library.",
+     "NSPhotoLibraryUsageDescription": "We need this so that you can share photos and videos from your photo library.",
+     "NSSiriUsageDescription": "You can use Siri to send messages.",
+     "NSSpeechRecognitionUsageDescription": "We need this to transcribe voice messages on your request."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "peanuts",
+ "identifier": "dev.perapp.com-activision-peanuts",
+ "subtitle": "ipaomtk.com | If you’ve ever loved the timeless Peanuts characters like Snoopy, Charlie Brown, and Woodstock, then Peanu",
+ "description": "Single-app source for peanuts (com.activision.peanuts). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/snoopys-town-tale-citybuilder-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.activision.peanuts",
+   "name": "peanuts",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | If you’ve ever loved the timeless Peanuts characters like Snoopy, Charlie Brown, and Woodstock, then Peanuts Snoopy Town Tale IPA for iO",
+   "localizedDescription": "ipaomtk.com | If you’ve ever loved the timeless Peanuts characters like Snoopy, Charlie Brown, and Woodstock, then Peanuts Snoopy Town Tale IPA for iO",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/08/snoopys-town-tale-citybuilder-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.7.1",
+     "date": "2025-08-31T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | If you’ve ever loved the timeless Peanuts characters like Snoopy, Charlie Brown, and Woodstock, then Peanuts Snoopy Town Tale IPA for iO",
+     "downloadURL": "https://file.ipaomtk.com/Peanuts-Snoopy-Town-Tale/Peanuts-Snoopy-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "4.7.8",
+     "date": "2025-08-31T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | If you’ve ever loved the timeless Peanuts characters like Snoopy, Charlie Brown, and Woodstock, then Peanuts Snoopy Town Tale IPA for iO",
+     "downloadURL": "https://file.ipaomtk.com/Peanuts-Snoopy-Town-Tale/Peanuts-Snoopy-IPAOMTK.COM.ipa",
+     "size": 98483402
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "Lunatask",
+ "identifier": "dev.perapp.com-mikekreeki-tasks",
+ "subtitle": "Lunatask",
+ "description": "Single-app source for Lunatask (com.mikekreeki.tasks). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mikekreeki.tasks.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mikekreeki.tasks",
+   "name": "Lunatask",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mikekreeki.tasks.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.36.1",
+     "date": "2026-07-15T00:00:00Z",
+     "localizedDescription": "Lunatask is an all-in-one encrypted to-do list, habit tracker, journaling, life-tracking and notes app – now with relationship tracking too!\r\n\r\nSELF-ORGANIZING LISTS\r\n\r\nWe’ve got your back, take the weight off your shoulders, and ensure no task is left behind. Pick your workflow and let our unique, forgiving, battle-tested approach handle the rest.\r\n\r\n- Must/Should/Want Method\r\n- Eisenhower Matrix\r\n- Urgency-based Prioritization\r\n- Pomodoro Timer\r\n- Status Tracking\r\n- Goal Tracking\r\n- Task Estimation\r\n- Recurring/Scheduled Tasks\r\n- Work-in-progress Limit\r\n\r\nDAILY CALENDAR + TIME BLOCKING\r\n\r\nConnect your calendars to see meetings and calls for today directly next to your tasks. Then, drag your planned tasks and habits onto the calendar to fil",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2241",
+     "size": 30206300
+    },
+    {
+     "version": "2.1.18",
+     "date": "2025-12-23T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/Lunatask_2.1.18_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 14829930
+    },
+    {
+     "version": "2.1.7",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Lunatask: A Better To-Do List\n\nTweak: Premium Unlocked\n\nVersion: 2.1.7\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/7c8987ce-a46a-4ed1-b6f3-e9d6bfc7a136/Lunatask__A_Better_To-Do_List-v2.1.7-riftysipas.ipa",
+     "size": 15415148
+    }
+   ]
+  }
+ ]
+}

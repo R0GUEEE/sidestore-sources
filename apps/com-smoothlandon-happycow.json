@@ -1,0 +1,30 @@
+{
+ "name": "HappyCow",
+ "identifier": "dev.perapp.com-smoothlandon-happycow",
+ "subtitle": "ipaomtk.com | HappyCow – Vegan Food Near You IPA, Navigating the world of vegan dining can be a daunting task, especiall",
+ "description": "Single-app source for HappyCow (com.smoothlandon.happycow). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/HappyCow-Vegan-Food-Near-You-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.smoothlandon.happycow",
+   "name": "HappyCow",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | HappyCow – Vegan Food Near You IPA, Navigating the world of vegan dining can be a daunting task, especially when you’re in an unfamiliar",
+   "localizedDescription": "ipaomtk.com | HappyCow – Vegan Food Near You IPA, Navigating the world of vegan dining can be a daunting task, especially when you’re in an unfamiliar",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/HappyCow-Vegan-Food-Near-You-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.4.0",
+     "date": "2024-10-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | HappyCow – Vegan Food Near You IPA, Navigating the world of vegan dining can be a daunting task, especially when you’re in an unfamiliar",
+     "downloadURL": "https://file.ipaomtk.com/ipa/HappyCow_Vegan_Food_Near_You-ipaomtk.com-v7.4.0.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

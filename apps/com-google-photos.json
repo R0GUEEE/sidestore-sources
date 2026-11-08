@@ -1,0 +1,44 @@
+{
+ "name": "GooglePhotos",
+ "identifier": "dev.perapp.com-google-photos",
+ "subtitle": "@ipavault",
+ "description": "Single-app source for GooglePhotos (com.google.photos). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipavault/445.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.photos",
+   "name": "GooglePhotos",
+   "developerName": "@ipavault",
+   "subtitle": "@ipavault",
+   "localizedDescription": "@ipavault\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipavault/445.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.0.0",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Tweaks: GunshotJailed\n\n@ipavault | Builds of Google Photos (Gunshot 0.3.1)  Spoofs Google Pixel 1 for Unlimited Original Quality Photo Uploads Builds: ▪Google Photos 8.0.0 (",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1227-Google%20Photos%208.0.0%20%28Gunshot%29%20%5B@ipavault%5D.ipa",
+     "size": 181372788
+    },
+    {
+     "version": "7.99.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "@ipavault | Google Photos 7.99.0 (Gunshot 0.3.0)  ▪Updated to Google Photos 7.99.0 Spoofs Google Pixel 1 for Unlimited Original Quality Photo Uploads ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1119-Google%20Photos%207.99.0%20%28Gunshot%29%20%5B@ipavault%5D.ipa",
+     "size": 181615213
+    },
+    {
+     "version": "7.98.0",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@ipavault | Google Photos 7.98.0 (Gunshot 0.3.0)  ▪Updated to Google Photos 7.98.0 Spoofs Google Pixel 1 for Unlimited Original Quality Photo Uploads ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/984-Google%20Photos%207.98.0%20%28Gunshot%29%20%5B@ipavault%5D.ipa",
+     "size": 180154903
+    }
+   ]
+  }
+ ]
+}

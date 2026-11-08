@@ -1,0 +1,44 @@
+{
+ "name": "Moment",
+ "identifier": "dev.perapp.com-momentinc-procamera",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Moment (com.momentinc.procamera). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.momentinc.procamera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.momentinc.procamera",
+   "name": "Moment",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.momentinc.procamera.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/21-12-2025/Moment_1.0.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 11493843
+    },
+    {
+     "version": "1.1.2",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-03-2026/Moment_1.1.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 15254034
+    },
+    {
+     "version": "1.1",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-03-2026/Moment_1.1_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 16898045
+    }
+   ]
+  }
+ ]
+}

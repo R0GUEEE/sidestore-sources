@@ -1,0 +1,44 @@
+{
+ "name": "StatusMagic",
+ "identifier": "dev.perapp.com-avangelista-statusmagic",
+ "subtitle": "Status bar customizations - change carrier text, breadcrumb text, or clock text, or hide icons. Persistent through reboo",
+ "description": "Single-app source for StatusMagic (com.avangelista.StatusMagic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.StatusMagic.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.avangelista.StatusMagic",
+   "name": "StatusMagic",
+   "developerName": "Avangelista",
+   "subtitle": "Status bar customizations - change carrier text, breadcrumb text, or clock text, or hide icons. Persistent through reboots Last updated: 02-08-2023 St",
+   "localizedDescription": "Status bar customizations - change carrier text, breadcrumb text, or clock text, or hide icons. Persistent through reboots Last updated: 02-08-2023 St",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.avangelista.StatusMagic.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.2",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Status bar customizations - change carrier text, breadcrumb text, or clock text, or hide icons. Persistent through reboots Last updated: 02-08-2023 St",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-08-2023/StatusMagic-1.0.2.ipa",
+     "size": 1218528
+    },
+    {
+     "version": "1.0.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Status bar customizations - change carrier text, breadcrumb text, or clock text, or hide icons. Persistent through reboots Last updated: 02-08-2023 St",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-06-2023/StatusMagic-1.0.1.ipa",
+     "size": 1219216
+    },
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Status bar customizations - change carrier text, breadcrumb text, or clock text, or hide icons. Persistent through reboots Last updated: 02-08-2023 St",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-05-2023/StatusMagic-1.0.ipa",
+     "size": 1195805
+    }
+   ]
+  }
+ ]
+}

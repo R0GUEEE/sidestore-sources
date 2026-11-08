@@ -1,0 +1,30 @@
+{
+ "name": "English Galaxy",
+ "identifier": "dev.perapp.ru-englishgalaxy-ios",
+ "subtitle": "@ipa_dark | 🔄 English Galaxy - appstore  🇷🇺 Приложение помогает изучить английский язык с нуля до продвинутого уровня по",
+ "description": "Single-app source for English Galaxy (ru.englishgalaxy.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1698.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ru.englishgalaxy.ios",
+   "name": "English Galaxy",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 English Galaxy - appstore  🇷🇺 Приложение помогает изучить английский язык с нуля до продвинутого уровня по грамматике и словарному запас",
+   "localizedDescription": "@ipa_dark | 🔄 English Galaxy - appstore  🇷🇺 Приложение помогает изучить английский язык с нуля до продвинутого уровня по грамматике и словарному запас\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1698.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.4",
+     "date": "2026-09-06T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 English Galaxy - appstore  🇷🇺 Приложение помогает изучить английский язык с нуля до продвинутого уровня по грамматике и словарному запас",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1698-English%20Galaxy%20Premium%20%5Bv1.7.4%5D%28tg@ipa_dark%29.ipa",
+     "size": 123156031
+    }
+   ]
+  }
+ ]
+}

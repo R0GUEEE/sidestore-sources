@@ -1,0 +1,30 @@
+{
+ "name": "Eden",
+ "identifier": "dev.perapp.com-mfagency-nurture",
+ "subtitle": "Eden",
+ "description": "Single-app source for Eden (com.mfagency.nurture). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mfagency.nurture",
+   "name": "Eden",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1.8",
+     "date": "2025-12-16T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Eden_5.1.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 141966739
+    }
+   ]
+  }
+ ]
+}

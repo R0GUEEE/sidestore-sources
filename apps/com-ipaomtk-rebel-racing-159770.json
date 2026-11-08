@@ -1,0 +1,37 @@
+{
+ "name": "Rebel Racing",
+ "identifier": "dev.perapp.com-ipaomtk-rebel-racing-159770",
+ "subtitle": "ipaomtk.com | What is Rebel Racing IPA? Rebel Racing IPA is the iOS installable version of an arcade-style racing game t",
+ "description": "Single-app source for Rebel Racing (com.ipaomtk.rebel.racing.159770). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Rebel-Racing-IPA-v27.03.19281-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.rebel.racing.159770",
+   "name": "Rebel Racing",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Rebel Racing IPA? Rebel Racing IPA is the iOS installable version of an arcade-style racing game that combines realistic driving",
+   "localizedDescription": "ipaomtk.com | What is Rebel Racing IPA? Rebel Racing IPA is the iOS installable version of an arcade-style racing game that combines realistic driving",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Rebel-Racing-IPA-v27.03.19281-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Rebel Racing IPA? Rebel Racing IPA is the iOS installable version of an arcade-style racing game that combines realistic driving",
+     "downloadURL": "https://file.ipaomtk.com/rebel-racing/Rebel-Racing-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "27.06.19469",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | What is Rebel Racing IPA? Rebel Racing IPA is the iOS installable version of an arcade-style racing game that combines realistic driving",
+     "downloadURL": "https://file.ipaomtk.com/rebel-racing/Rebel-Racing-IPAOMTK.COM.ipa",
+     "size": 736033555
+    }
+   ]
+  }
+ ]
+}

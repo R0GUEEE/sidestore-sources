@@ -1,0 +1,30 @@
+{
+ "name": "KillMyOTA",
+ "identifier": "dev.perapp.org-haxi0-killmyota",
+ "subtitle": "OTA Killer for iOS 15.0 - 16.1.2",
+ "description": "Single-app source for KillMyOTA (org.haxi0.KillMyOTA). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/haxi0/KillMyOTA/master/KillMyOTA-modified.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.haxi0.KillMyOTA",
+   "name": "KillMyOTA",
+   "developerName": "haxi0",
+   "subtitle": "OTA Killer for iOS 15.0 - 16.1.2",
+   "localizedDescription": "OTA Killer for iOS 15.0 - 16.1.2",
+   "iconURL": "https://raw.githubusercontent.com/haxi0/KillMyOTA/master/KillMyOTA-modified.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2023-01-30T00:00:00Z",
+     "localizedDescription": "OTA Killer for iOS 15.0 - 16.1.2",
+     "downloadURL": "https://github.com/haxi0/KillMyOTA/releases/download/1.1/KillMyOTA-1.1.ipa",
+     "size": 339440
+    }
+   ]
+  }
+ ]
+}

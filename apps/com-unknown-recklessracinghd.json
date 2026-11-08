@@ -1,0 +1,30 @@
+{
+ "name": "Reckless Racing HD",
+ "identifier": "dev.perapp.com-unknown-recklessracinghd",
+ "subtitle": "لە ئەپستۆر بە پارەیە لێرە بەخۆڕایی دای بەزێنە",
+ "description": "Single-app source for Reckless Racing HD (com.unknown.recklessracinghd). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Reckless.Racing.HD.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.recklessracinghd",
+   "name": "Reckless Racing HD",
+   "developerName": "Karbin-Store",
+   "subtitle": "لە ئەپستۆر بە پارەیە لێرە بەخۆڕایی دای بەزێنە",
+   "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بەخۆڕایی دای بەزێنە",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Reckless.Racing.HD.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.2",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "لە ئەپستۆر بە پارەیە لێرە بەخۆڕایی دای بەزێنە",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Reckless.Racing.HD._1.5.2_1737140319.ipa",
+     "size": 56080000
+    }
+   ]
+  }
+ ]
+}

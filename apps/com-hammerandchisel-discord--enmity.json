@@ -1,0 +1,44 @@
+{
+ "name": "Enmity",
+ "identifier": "dev.perapp.com-hammerandchisel-discord",
+ "subtitle": "Enmity by CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
+ "description": "Single-app source for Enmity (com.hammerandchisel.discord). Converted from swaggy.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hammerandchisel.discord",
+   "name": "Enmity",
+   "developerName": "CyPwn IPA Library / Enmity Team / zxcvbn's tweaked IPAs",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.hammerandchisel.discord.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.6-184.0",
+     "date": "2023-07-04T00:00:00Z",
+     "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-04-2023/Enmity-2.2.6-184.0.ipa",
+     "size": 99992444
+    },
+    {
+     "version": "2.2.6-180.0",
+     "date": "2023-06-04T00:00:00Z",
+     "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-04-2023/Enmity-2.2.6-180.0.ipa",
+     "size": 98676455
+    },
+    {
+     "version": "2.2.6-177.1",
+     "date": "2023-05-15T00:00:00Z",
+     "localizedDescription": "Discord, injected with the popular tweak Enmity!\nLast updated: 09-13-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2023/Enmity-2.2.6-177.1.ipa",
+     "size": 90036977
+    }
+   ]
+  }
+ ]
+}

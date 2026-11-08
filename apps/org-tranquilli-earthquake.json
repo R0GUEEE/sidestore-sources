@@ -1,0 +1,37 @@
+{
+ "name": "EarthquakePro",
+ "identifier": "dev.perapp.org-tranquilli-earthquake",
+ "subtitle": "Access the latest global data from multiple sources and stay informed through widgets. Note: To bypass the \"Integrity ch",
+ "description": "Single-app source for EarthquakePro (org.tranquilli.Earthquake). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.tranquilli.Earthquake.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.tranquilli.Earthquake",
+   "name": "EarthquakePro",
+   "developerName": "DPixel / Paisseon",
+   "subtitle": "Access the latest global data from multiple sources and stay informed through widgets. Note: To bypass the \"Integrity checks failed\" message, press \"O",
+   "localizedDescription": "Access the latest global data from multiple sources and stay informed through widgets. Note: To bypass the \"Integrity checks failed\" message, press \"O",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/org.tranquilli.Earthquake.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.6.8",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Access the latest global data from multiple sources and stay informed through widgets. Note: To bypass the \"Integrity checks failed\" message, press \"O",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EarthquakePro/EarthquakePro-4.6.8.ipa",
+     "size": 11683418
+    },
+    {
+     "version": "5.4.1",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Access the latest global data from multiple sources and stay informed through widgets. Note: To bypass the \"Integrity checks failed\" message, press \"O",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/EarthquakePro/EarthquakePro-5.4.1.ipa",
+     "size": 16028213
+    }
+   ]
+  }
+ ]
+}

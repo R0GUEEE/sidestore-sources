@@ -1,0 +1,30 @@
+{
+ "name": "Streeme",
+ "identifier": "dev.perapp.co-uk-areaengineering-mytv",
+ "subtitle": "ipaomtk.com | Streeme IPTV Streaming IPA v2.0.10 the way we consume television content with its cutting-edge IPTV stream",
+ "description": "Single-app source for Streeme (co.uk.areaengineering.MyTV). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Streeme-IPTV-Streaming.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "co.uk.areaengineering.MyTV",
+   "name": "Streeme",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Streeme IPTV Streaming IPA v2.0.10 the way we consume television content with its cutting-edge IPTV streaming app. IPTV, or Internet Pro",
+   "localizedDescription": "ipaomtk.com | Streeme IPTV Streaming IPA v2.0.10 the way we consume television content with its cutting-edge IPTV streaming app. IPTV, or Internet Pro",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Streeme-IPTV-Streaming.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.10",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Streeme IPTV Streaming IPA v2.0.10 the way we consume television content with its cutting-edge IPTV streaming app. IPTV, or Internet Pro",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Streeme_IPTV_Streaming-v2.0.10-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

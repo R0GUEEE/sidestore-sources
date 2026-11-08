@@ -1,0 +1,30 @@
+{
+ "name": "Squad Heroes",
+ "identifier": "dev.perapp.com-tapugo-squadheroes",
+ "subtitle": "ipaomtk.com | A Fresh Take on Tactical Action Squad Heroes is a fast-paced tactical RPG that blends strategy, team-build",
+ "description": "Single-app source for Squad Heroes (com.tapugo.squadheroes). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/squad-heroes-ico-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tapugo.squadheroes",
+   "name": "Squad Heroes",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | A Fresh Take on Tactical Action Squad Heroes is a fast-paced tactical RPG that blends strategy, team-building, and explosive action. Pla",
+   "localizedDescription": "ipaomtk.com | A Fresh Take on Tactical Action Squad Heroes is a fast-paced tactical RPG that blends strategy, team-building, and explosive action. Pla",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/squad-heroes-ico-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2",
+     "date": "2025-09-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | A Fresh Take on Tactical Action Squad Heroes is a fast-paced tactical RPG that blends strategy, team-building, and explosive action. Pla",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Squad_Heroes_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "NES.emu",
+ "identifier": "dev.perapp.com-explusalpha-nesemu",
+ "subtitle": "ipaomtk.com | NES.emu IPA is an emulator application that allows iOS users to play classic NES games on their devices. T",
+ "description": "Single-app source for NES.emu (com.explusalpha.NesEmu). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/nesemu-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.explusalpha.NesEmu",
+   "name": "NES.emu",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | NES.emu IPA is an emulator application that allows iOS users to play classic NES games on their devices. This application, available for",
+   "localizedDescription": "ipaomtk.com | NES.emu IPA is an emulator application that allows iOS users to play classic NES games on their devices. This application, available for",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/nesemu-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.29",
+     "date": "2023-02-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | NES.emu IPA is an emulator application that allows iOS users to play classic NES games on their devices. This application, available for",
+     "downloadURL": "https://file.ipaomtk.com/ipa/NES-emu.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Istb",
+ "identifier": "dev.perapp.com-na-istb",
+ "subtitle": "Istb",
+ "description": "Single-app source for Istb (com.na.istb). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.na.istb",
+   "name": "Istb",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.na.istb.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.28.0",
+     "date": "2025-03-06T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-03-2025/Istb_1.28.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 37933477
+    }
+   ]
+  }
+ ]
+}

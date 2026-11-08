@@ -1,0 +1,44 @@
+{
+ "name": "Apollo",
+ "identifier": "dev.perapp.com-christianselig-apollo",
+ "subtitle": "scholars lounge | Apollo Apollo-Reborn version: 3.5.0 Bundle ID: com.christianselig.Apollo App by Apollo-Reborn  Apollo,",
+ "description": "Single-app source for Apollo (com.christianselig.Apollo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68584.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.christianselig.Apollo",
+   "name": "Apollo",
+   "developerName": "scholars lounge",
+   "subtitle": "scholars lounge | Apollo Apollo-Reborn version: 3.5.0 Bundle ID: com.christianselig.Apollo App by Apollo-Reborn  Apollo, reborn A community-maintained",
+   "localizedDescription": "scholars lounge | Apollo Apollo-Reborn version: 3.5.0 Bundle ID: com.christianselig.Apollo App by Apollo-Reborn  Apollo, reborn A community-maintained",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/68584.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.1",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "scholars lounge | Apollo Apollo-Reborn version: 4.0.1 Bundle ID: com.christianselig.Apollo App by Apollo-Reborn  Apollo, reborn A community-maintained",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/82510-Apollo-Reborn-4.0.1-GLASS.ipa",
+     "size": 129202414
+    },
+    {
+     "version": "4.0.0",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "@ipavault | Builds of Apollo Reborn 4.0.0  Builds: ▪Apollo Reborn ▪Apollo Reborn (Glass)  ▪Apollo Reborn (No Plugins) ▪Apollo Reborn (No Plugins) (Gla",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1032-Apollo%20Reborn%204.0.0%20No%20Plugins%20%28Glass%29.ipa",
+     "size": 118896090
+    },
+    {
+     "version": "3.9.0",
+     "date": "2026-10-11T00:00:00Z",
+     "localizedDescription": "scholars lounge | Apollo Apollo-Reborn version: 3.9.0 Bundle ID: com.christianselig.Apollo App by Apollo-Reborn  Apollo, reborn A community-maintained",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/79227-Apollo-Reborn-3.9.0-GLASS.ipa",
+     "size": 128560322
+    }
+   ]
+  }
+ ]
+}

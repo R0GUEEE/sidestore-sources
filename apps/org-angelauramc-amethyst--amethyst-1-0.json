@@ -1,0 +1,44 @@
+{
+ "name": "Amethyst_1.0",
+ "identifier": "dev.perapp.org-angelauramc-amethyst",
+ "subtitle": "Minecraft: Java Edition Launcher",
+ "description": "Single-app source for Amethyst_1.0 (org.angelauramc.amethyst). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Amethyst_1.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.angelauramc.amethyst",
+   "name": "Amethyst_1.0",
+   "developerName": "Amethyst_1.0 x CyPwn",
+   "subtitle": "Minecraft: Java Edition Launcher",
+   "localizedDescription": "Minecraft: Java Edition Launcher",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Amethyst_1.0.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.f98c413",
+     "date": "2026-10-06T00:00:00Z",
+     "localizedDescription": "THESE BUILDS WILL NOT AUTOMATICALLY UPDATE AND YOU WILL NOT RECEIVE ANY NOTIFICATIONS FOR SUCH (at least, right now. I'm working on it.). Angel Aura A",
+     "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/f98c413/org.angelauramc.amethyst-1.0-ios.ipa",
+     "size": 191479328
+    },
+    {
+     "version": "1.0.9212a18",
+     "date": "2026-08-11T00:00:00Z",
+     "localizedDescription": "THESE BUILDS WILL NOT AUTOMATICALLY UPDATE AND YOU WILL NOT RECEIVE ANY NOTIFICATIONS FOR SUCH (at least, right now. I'm working on it.). Angel Aura A",
+     "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/9212a18/org.angelauramc.amethyst-1.0-ios.ipa",
+     "size": 191478253
+    },
+    {
+     "version": "1.0.64c5c9c",
+     "date": "2026-08-08T00:00:00Z",
+     "localizedDescription": "THESE BUILDS WILL NOT AUTOMATICALLY UPDATE AND YOU WILL NOT RECEIVE ANY NOTIFICATIONS FOR SUCH (at least, right now. I'm working on it.). Angel Aura A",
+     "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/64c5c9c/org.angelauramc.amethyst-1.0-ios.ipa",
+     "size": 191478154
+    }
+   ]
+  }
+ ]
+}

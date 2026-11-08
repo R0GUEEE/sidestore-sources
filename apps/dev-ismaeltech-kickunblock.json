@@ -1,0 +1,30 @@
+{
+ "name": "KickUnblock",
+ "identifier": "dev.perapp.dev-ismaeltech-kickunblock",
+ "subtitle": "@ipavault | KickUnblock A native Kick client for iPhone and iPad. Live streams, VODs, clips and chat in a fast SwiftUI a",
+ "description": "Single-app source for KickUnblock (dev.ismaeltech.kickunblock). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84364.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.ismaeltech.kickunblock",
+   "name": "KickUnblock",
+   "developerName": "scholars lounge",
+   "subtitle": "@ipavault | KickUnblock A native Kick client for iPhone and iPad. Live streams, VODs, clips and chat in a fast SwiftUI app. KickUnblock is an…",
+   "localizedDescription": "@ipavault | KickUnblock\n\nA native Kick client for iPhone and iPad. Live streams, VODs, clips and chat in a fast SwiftUI app. \n\nKickUnblock is an ad-free, open-source Kick viewer. It uses the same Amazon IVS player as Kick for livestreams. It uses Apple's player for VODs and clips. It keeps your follows and saved clips on your device. No account is needed to watch.\nMore Info\n\nKickUnblock by @swiftfreakdeer\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/84364.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-11-08T00:00:00Z",
+     "localizedDescription": "@ipavault | KickUnblock A native Kick client for iPhone and iPad. Live streams, VODs, clips and chat in a fast SwiftUI app. KickUnblock is an…",
+     "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/84364-KickUnblock.ipa",
+     "size": 3705840
+    }
+   ]
+  }
+ ]
+}

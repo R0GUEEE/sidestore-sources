@@ -1,0 +1,44 @@
+{
+ "name": "YouTubeOLED",
+ "identifier": "dev.perapp.com-google-ios-youtube",
+ "subtitle": "YouTubeOLED",
+ "description": "Single-app source for YouTubeOLED (com.google.ios.youtube). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube",
+   "name": "YouTubeOLED",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "21.44.4",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "• YouTube updated to v21.44.4",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.44.4.+.YTPlus.v6.0b2.fixed.ipa",
+     "size": 153444491
+    },
+    {
+     "version": "21.43.5",
+     "date": "2026-10-27T00:00:00Z",
+     "localizedDescription": "• YouTube updated to v21.43.5",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.43.5.+.YTPlus.v6.0b2.ipa",
+     "size": 156330159
+    },
+    {
+     "version": "21.42.4",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "• YouTube updated to v21.42.4",
+     "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/YouTube.v21.42.4.+.YTPlus.v6.0b2.ipa",
+     "size": 156074761
+    }
+   ]
+  }
+ ]
+}

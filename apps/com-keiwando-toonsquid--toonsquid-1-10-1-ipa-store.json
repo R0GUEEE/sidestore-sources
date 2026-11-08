@@ -1,0 +1,32 @@
+{
+ "name": "ToonSquid_1.10.1_ipa.store",
+ "identifier": "dev.perapp.com-keiwando-toonsquid",
+ "subtitle": "ToonSquid_1.10.1_ipa.store by ToonSquid_1.10.1_ipa.store x CyPwn",
+ "description": "Single-app source for ToonSquid_1.10.1_ipa.store (com.keiwando.toonsquid). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/ToonSquid_1.10.1_ipa.store.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.keiwando.toonsquid",
+   "name": "ToonSquid_1.10.1_ipa.store",
+   "developerName": "ToonSquid_1.10.1_ipa.store x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "ToonSquid",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/ToonSquid_1.10.1_ipa.store.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/ToonSquid_1.10.1_ipa.store/ToonSquid_1.10.1_ipa.store-0.png"
+   ],
+   "versions": [
+    {
+     "version": "1.10.1",
+     "date": "2024-01-01T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/ToonSquid_1.10.1_ipa.store.ipa",
+     "size": 27640463
+    }
+   ]
+  }
+ ]
+}

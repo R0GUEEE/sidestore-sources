@@ -1,0 +1,30 @@
+{
+ "name": "Channels",
+ "identifier": "dev.perapp.com-channelsapp-channels",
+ "subtitle": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.  Features:  • Daily liv",
+ "description": "Single-app source for Channels (com.channelsapp.channels). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://i.imgur.com/qixCmDA.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.channelsapp.channels",
+   "name": "Channels",
+   "developerName": "Furkan Simsir",
+   "subtitle": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.  Features:  • Daily live events for NBA, NFL, Soccer,",
+   "localizedDescription": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.  Features:  • Daily live events for NBA, NFL, Soccer,",
+   "iconURL": "https://i.imgur.com/qixCmDA.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.0",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Channels allows you to watch live TV & sport events for free on your iPhone, iPad or iPod Touch.  Features:  • Daily live events for NBA, NFL, Soccer,",
+     "downloadURL": "https://github.com/QuarkSources/quarksources.github.io/releases/download/v1.0/Channels.ipa",
+     "size": 9090644
+    }
+   ]
+  }
+ ]
+}

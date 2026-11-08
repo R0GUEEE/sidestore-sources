@@ -1,0 +1,30 @@
+{
+ "name": "DumpDecrypter - TrollStore",
+ "identifier": "dev.perapp.com-netskao-dumpdecrypter",
+ "subtitle": "Giải mã và xuất IPA từ ứng dụng đã mã hóa tải trên App Store - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm t",
+ "description": "Single-app source for DumpDecrypter - TrollStore (com.netskao.dumpdecrypter). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.thuthuatjb.com/view/img/DumpDecrypter.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netskao.dumpdecrypter",
+   "name": "DumpDecrypter - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Giải mã và xuất IPA từ ứng dụng đã mã hóa tải trên App Store - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Giải mã và xuất IPA từ ứng dụng đã mã hóa tải trên App Store - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.thuthuatjb.com/view/img/DumpDecrypter.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4-8",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Giải mã và xuất IPA từ ứng dụng đã mã hóa tải trên App Store - Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/DumpDecrypter_1.4-8_TTJB.tipa",
+     "size": 480474
+    }
+   ]
+  }
+ ]
+}

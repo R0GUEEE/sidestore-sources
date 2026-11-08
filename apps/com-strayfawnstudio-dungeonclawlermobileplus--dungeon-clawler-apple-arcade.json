@@ -1,0 +1,30 @@
+{
+ "name": "Dungeon Clawler+ (Apple Arcade)",
+ "identifier": "dev.perapp.com-strayfawnstudio-dungeonclawlermobileplus",
+ "subtitle": "Dungeon Clawler+ (Apple Arcade) by sidelix",
+ "description": "Single-app source for Dungeon Clawler+ (Apple Arcade) (com.strayfawnstudio.dungeonclawlermobileplus). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9c6e9ed96.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.strayfawnstudio.dungeonclawlermobileplus",
+   "name": "Dungeon Clawler+ (Apple Arcade)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Dungeon Clawler is a Roguelike Claw Machine Deckbuilder. Build your unique deck, fight enemies by grabbing weapons and items from a claw machine and find special artefacts that help you on your quest to reclaim something you lost... Aim carefully to claw your way through this dungeon!\r\n\r\nFEATURES:\r\n- Unique Claw Machine Mechanic: Control a real-time claw machine to snatch weapons, shields, and items from the claw machine. Every grab counts, so plan your strategy and defeat enemies with precision.\r\n- Roguelike Dungeon Exploration: Traverse procedurally generated dungeons that change with every run, offering new challenges, enemies, and treasures every time you play.\r\n- Innovative Deckbuilding Strategy: Collect and upgrade your item pool with powe",
+   "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9c6e9ed96.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.1",
+     "date": "2026-08-27T00:00:00Z",
+     "localizedDescription": "Dungeon Clawler is a Roguelike Claw Machine Deckbuilder. Build your unique deck, fight enemies by grabbing weapons and items from a claw machine and find special artefacts that help you on your quest to reclaim something you lost... Aim carefully to claw your way through this dungeon!\r\n\r\nFEATURES:\r\n- Unique Claw Machine Mechanic: Control a real-time claw machine to snatch weapons, shields, and items from the claw machine. Every grab counts, so plan your strategy and defeat enemies with precision.\r\n- Roguelike Dungeon Exploration: Traverse procedurally generated dungeons that change with every run, offering new challenges, enemies, and treasures every time you play.\r\n- Innovative Deckbuilding Strategy: Collect and upgrade your item pool with powe",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2387",
+     "size": 347574403
+    }
+   ]
+  }
+ ]
+}

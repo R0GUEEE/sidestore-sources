@@ -1,0 +1,40 @@
+{
+ "name": "Lampcord",
+ "identifier": "dev.perapp.me-lampu-lampcord",
+ "subtitle": "A Kotlin Multiplatform Material 3 Discord client",
+ "description": "Single-app source for Lampcord (me.lampu.lampcord). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7e5dd5",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.lampu.lampcord.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.lampu.lampcord",
+   "name": "Lampcord",
+   "developerName": "l6t9",
+   "subtitle": "A Kotlin Multiplatform Material 3 Discord client",
+   "localizedDescription": "Lampcord:\n\nLampcord is a lightweight Discord client built with Compose Multiplatform for Mobile and Desktop. It aims for a native, fast, and customizable Discord experience without the bloat and heavy memory footprint of Electron or WebViews.\n\nInspiration:\n\n• Aliucord: Lampcord inherits a lot of my work on Aliucord and my plugins for it.\n• Nucleus: Provides proper support for Wayland.\n\nLampcord is in BETA.\n\nThis is still in development and may not be ready for day-to-day use.\n\nAuthentication:\n\n• [x] Password & token login.\n• [x] Remote QR code login.\n• [x] Multi-account switcher.\n\nMessaging and chat:\n\n• [x] Markdown parsing & code highlighting.\n• [x] Custom emojis, reactions & stickers.\n• [x] Message replies & edit / delete.\n• [x] Message pinning & thread views.\n• [x] Local message deletion logger.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/me.lampu.lampcord.png",
+   "tintColor": "#7e5dd5",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.6",
+     "date": "2026-11-03T16:08:36Z",
+     "localizedDescription": "See CHANGELOG.md attachment for details.",
+     "downloadURL": "https://github.com/l6t9/Lampcord/releases/download/v1.0.6/lampcord-ios-1.0.6.ipa",
+     "size": 36696666
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Lampcord needs camera access for voice and video.",
+     "NSMicrophoneUsageDescription": "Lampcord needs microphone access for voice calls.",
+     "NSPhotoLibraryAddUsageDescription": "Lampcord needs access to save images you download.",
+     "NSPhotoLibraryUsageDescription": "Lampcord needs access to your photos to send images.",
+     "NSUserTrackingUsageDescription": "Lampcord does not track you."
+    }
+   }
+  }
+ ]
+}

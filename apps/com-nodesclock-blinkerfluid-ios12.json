@@ -1,0 +1,30 @@
+{
+ "name": "Blinker Fluid",
+ "identifier": "dev.perapp.com-nodesclock-blinkerfluid-ios12",
+ "subtitle": "About:  Blinker Fluid is an experimental privacy-focused browser that ports Chromium's Blink rendering engine and V8 Jav",
+ "description": "Single-app source for Blinker Fluid (com.nodesclock.blinkerfluid.ios12). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nodesclock.blinkerfluid.ios12.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nodesclock.blinkerfluid.ios12",
+   "name": "Blinker Fluid",
+   "developerName": "Nodesclock",
+   "subtitle": "About:  Blinker Fluid is an experimental privacy-focused browser that ports Chromium's Blink rendering engine and V8 JavaScript engine to iOS, allowin",
+   "localizedDescription": "About:  Blinker Fluid is an experimental privacy-focused browser that ports Chromium's Blink rendering engine and V8 JavaScript engine to iOS, allowin\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.nodesclock.blinkerfluid.ios12.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "About:  Blinker Fluid is an experimental privacy-focused browser that ports Chromium's Blink rendering engine and V8 JavaScript engine to iOS, allowin",
+     "downloadURL": "https://github.com/Nodesclock/Blinker-Fluid/releases/download/v.0.3.1/iOS.12.11.Blinker.Fluid.v.0.3.1.ipa",
+     "size": 74750331
+    }
+   ]
+  }
+ ]
+}

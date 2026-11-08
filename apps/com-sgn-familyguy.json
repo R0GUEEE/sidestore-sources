@@ -1,0 +1,30 @@
+{
+ "name": "Family Guy",
+ "identifier": "dev.perapp.com-sgn-familyguy",
+ "subtitle": "ipaomtk.com | Family Guy Freakin IPA Mobile Game is an exciting and addictive mobile game that brings the hilarious worl",
+ "description": "Single-app source for Family Guy (com.sgn.familyguy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/Family-Guy-Freakin-Mobile-Game-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sgn.familyguy",
+   "name": "Family Guy",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Family Guy Freakin IPA Mobile Game is an exciting and addictive mobile game that brings the hilarious world of Family Guy to your finger",
+   "localizedDescription": "ipaomtk.com | Family Guy Freakin IPA Mobile Game is an exciting and addictive mobile game that brings the hilarious world of Family Guy to your finger",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/Family-Guy-Freakin-Mobile-Game-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.69.2",
+     "date": "2024-03-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Family Guy Freakin IPA Mobile Game is an exciting and addictive mobile game that brings the hilarious world of Family Guy to your finger",
+     "downloadURL": "https://file.ipaomtk.com/family-guy-freakin-mobile-game/Family-Guy-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

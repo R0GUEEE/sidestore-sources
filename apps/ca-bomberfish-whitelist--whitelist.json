@@ -1,0 +1,44 @@
+{
+ "name": "Whitelist",
+ "identifier": "dev.perapp.ca-bomberfish-whitelist",
+ "subtitle": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+ "description": "Single-app source for Whitelist (ca.bomberfish.Whitelist). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ca.bomberfish.Whitelist",
+   "name": "Whitelist",
+   "developerName": "BomberFish",
+   "subtitle": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+   "localizedDescription": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+   "iconURL": "https://raw.githubusercontent.com/BomberFish/Whitelist/main/img/icon.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2023-02-04T00:00:00Z",
+     "localizedDescription": "- Fix icon (again)\r\n- Check for app updates on start (thanks leminlimez!)",
+     "downloadURL": "https://github.com/BomberFish/Whitelist/releases/download/1.1.0/Whitelist.ipa",
+     "size": 599193
+    },
+    {
+     "version": "1.0.1",
+     "date": "2023-02-04T00:00:00Z",
+     "localizedDescription": "- Fix icon",
+     "downloadURL": "https://github.com/BomberFish/Whitelist/releases/download/1.0.1/Whitelist.ipa",
+     "size": 606490
+    },
+    {
+     "version": "1.0",
+     "date": "2023-02-04T00:00:00Z",
+     "localizedDescription": "- First Release!\r\n",
+     "downloadURL": "https://github.com/BomberFish/Whitelist/releases/download/1.0/Whitelist.ipa",
+     "size": 613149
+    }
+   ]
+  }
+ ]
+}

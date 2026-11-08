@@ -1,0 +1,30 @@
+{
+ "name": "WolframAlpha Classic",
+ "identifier": "dev.perapp.com-unknown-wolframalphaclassic",
+ "subtitle": "باشترین ئامڕاز بۆ ئەرکی ماڵەوە و توێژینەوە چەندین بوار لەخۆ دەگرێت لەوانە کیمیا و زیندەزانی و ئەندازیاری و ئابوری و ئەست",
+ "description": "Single-app source for WolframAlpha Classic (com.unknown.wolframalphaclassic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/WolframAlpha.Classic.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.wolframalphaclassic",
+   "name": "WolframAlpha Classic",
+   "developerName": "Karbin-Store",
+   "subtitle": "باشترین ئامڕاز بۆ ئەرکی ماڵەوە و توێژینەوە چەندین بوار لەخۆ دەگرێت لەوانە کیمیا و زیندەزانی و ئەندازیاری و ئابوری و ئەستێرەناسی و ئامار و شتی تر    لە",
+   "localizedDescription": "باشترین ئامڕاز بۆ ئەرکی ماڵەوە و توێژینەوە چەندین بوار لەخۆ دەگرێت لەوانە کیمیا و زیندەزانی و ئەندازیاری و ئابوری و ئەستێرەناسی و ئامار و شتی تر    لە",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/WolframAlpha.Classic.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.3",
+     "date": "2026-04-26T00:00:00Z",
+     "localizedDescription": "باشترین ئامڕاز بۆ ئەرکی ماڵەوە و توێژینەوە چەندین بوار لەخۆ دەگرێت لەوانە کیمیا و زیندەزانی و ئەندازیاری و ئابوری و ئەستێرەناسی و ئامار و شتی تر    لە",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/WolframAlpha.Classic._2.1.3_1737136838.ipa",
+     "size": 14660000
+    }
+   ]
+  }
+ ]
+}

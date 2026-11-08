@@ -1,0 +1,44 @@
+{
+ "name": "inflow",
+ "identifier": "dev.perapp.com-inflow-app",
+ "subtitle": "@riftysIPAlibrary | Inflow - Manage your ADHD  Tweak: Subscription Unlocked  Version: 3.3.0  Patched ✓  @riftysIPAlibrar",
+ "description": "Single-app source for inflow (com.inflow.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7313.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inflow.app",
+   "name": "inflow",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Inflow - Manage your ADHD  Tweak: Subscription Unlocked  Version: 3.3.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+   "localizedDescription": "@riftysIPAlibrary | Inflow - Manage your ADHD  Tweak: Subscription Unlocked  Version: 3.3.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7313.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.3.8",
+     "date": "2026-08-26T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Inflow - Manage your ADHD  Tweak: Subscription Unlocked  Version: 3.3.8  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7591-Inflow%20-%20Manage%20your%20ADHD-v3.3.8-riftysipas.ipa",
+     "size": 46806881
+    },
+    {
+     "version": "3.3.7",
+     "date": "2026-08-18T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Inflow - Manage your ADHD  Tweak: Subscription Unlocked  Version: 3.3.7  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7492-Inflow%20-%20Manage%20your%20ADHD-v3.3.7-riftysipas.ipa",
+     "size": 46096345
+    },
+    {
+     "version": "3.3.0",
+     "date": "2026-08-05T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Inflow - Manage your ADHD  Tweak: Subscription Unlocked  Version: 3.3.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7313-Inflow%20-%20Manage%20your%20ADHD-v3.3.0-riftysipas.ipa",
+     "size": 46115872
+    }
+   ]
+  }
+ ]
+}

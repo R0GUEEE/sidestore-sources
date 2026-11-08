@@ -1,0 +1,38 @@
+{
+ "name": "SunPad",
+ "identifier": "dev.perapp.com-sunpad-sunpad",
+ "subtitle": "Super Mario Sunshine on iPhone, iPad, Apple Silicon Mac, and tVOS through static recompilation and Metal",
+ "description": "Single-app source for SunPad (com.sunpad.SunPad). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#43839f",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.sunpad.SunPad.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sunpad.SunPad",
+   "name": "SunPad",
+   "developerName": "chrissotraidis",
+   "subtitle": "Super Mario Sunshine on iPhone, iPad, Apple Silicon Mac, and tVOS through static recompilation and Metal",
+   "localizedDescription": "SunPad:\n\nSuper Mario Sunshine on iPhone, iPad, Apple silicon Mac, and experimental Apple TV through ahead-of-time recompilation. SunPad brings together Metal rendering, touch controls, controller support, and local game-image import. Supply your own supported copy of the game.\n\nBuilt with ModernGekko, by Hyperway, ExpansionPak and contributors, and DolRecomp, on the RecompCore / Dolphin runtime. SunPad provides the Apple app and Sunshine-specific integration. See full credits, including Apple TV contributions and AI/artwork provenance.\n\nMaintained forks: ModernGekko, RecompCore, and DolRecomp. Runtime and compiler dependencies use pinned submodules. The source graph records the separate Apple and tvOS versions.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.sunpad.SunPad.png",
+   "tintColor": "#43839f",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/sunpad@main/docs/readme/sunpad-delfino-plaza.jpg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/sunpad@main/docs/readme/sunpad-plaza-conversation.jpg",
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/sunpad@main/docs/readme/sunpad-isle-delfino-map.jpg"
+   ],
+   "versions": [
+    {
+     "version": "0.2.3",
+     "date": "2026-10-30T03:23:31Z",
+     "localizedDescription": "SunPad 0.2.3 (build 17) fixes two confirmed import/build failures:\n\n• Incomplete disc extraction is rejected before installed data is replaced. Every extracted file must have the expected type and size; a partial file can no longer pass just because the file count looks correct. Existing game data and saves remain intact on this extraction failure.\n• iOS device builds use bundled xxHash consistently. A system/Homebrew copy previously caused provisioning to fail. The build also clears the stale xxHash cache when updating an existing checkout.\n\nRebuild with PadMint and install over the existing app using the same signing identity. Do not uninstall first if you want to retain local data.\n\nThe unsigned app asset contains no translated game module. PadMint adds a module built from your own supported disc. Do not redistribute the resulting personal app or game data.\n\nValidation: the production extractor wrapper was tested under ASan/UBSan with controlled synthetic DiscIO outputs (complete, truncated, missing and wrong-type). The upstream exporter’s failure behavior was verified in source; no physical storage failure was induced. Other checks include the complete source/dependency suite, iPhoneOS app build/package audit, warm-cache repair, and both PadMint/private gates on every public asset. Physical gameplay and provider-specific selection are not newly certified.",
+     "downloadURL": "https://github.com/chrissotraidis/sunpad/releases/download/v0.2.3/SunPad-v0.2.3-ios-unsigned.ipa",
+     "size": 12891500
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

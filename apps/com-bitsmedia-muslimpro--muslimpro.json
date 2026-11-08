@@ -1,0 +1,44 @@
+{
+ "name": "MuslimPro",
+ "identifier": "dev.perapp.com-bitsmedia-muslimpro",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for MuslimPro (com.bitsmedia.muslimpro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bitsmedia.muslimpro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bitsmedia.muslimpro",
+   "name": "MuslimPro",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bitsmedia.muslimpro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "16.18",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-10-2025/MuslimPro_16.18_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 148360342
+    },
+    {
+     "version": "16.15.3",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/27-08-2025/MuslimPro_16.15.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 164247561
+    },
+    {
+     "version": "16.15.2",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-08-2025/MuslimPro_16.15.2_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 161141191
+    }
+   ]
+  }
+ ]
+}

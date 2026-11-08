@@ -1,0 +1,30 @@
+{
+ "name": "Cask2D",
+ "identifier": "dev.perapp.com-fpdev92-cask2d",
+ "subtitle": "ipaomtk.com | CASK IPA MOD iOS is the ultimate solution for installing and managing IPA apps on your iPhone or iPad. Wit",
+ "description": "Single-app source for Cask2D (com.fpdev92.Cask2D). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/CASK-thumbnail-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fpdev92.Cask2D",
+   "name": "Cask2D",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | CASK IPA MOD iOS is the ultimate solution for installing and managing IPA apps on your iPhone or iPad. With its user-friendly interface ",
+   "localizedDescription": "ipaomtk.com | CASK IPA MOD iOS is the ultimate solution for installing and managing IPA apps on your iPhone or iPad. With its user-friendly interface ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/CASK-thumbnail-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2024-03-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | CASK IPA MOD iOS is the ultimate solution for installing and managing IPA apps on your iPhone or iPad. With its user-friendly interface ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/CASK.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

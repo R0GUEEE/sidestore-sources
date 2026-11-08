@@ -1,0 +1,30 @@
+{
+ "name": "Relive",
+ "identifier": "dev.perapp.cc-relive-reliveapp",
+ "subtitle": "Relive",
+ "description": "Single-app source for Relive (cc.relive.reliveapp). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cc.relive.reliveapp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cc.relive.reliveapp",
+   "name": "Relive",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/cc.relive.reliveapp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.15.0",
+     "date": "2026-05-15T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-05-2026/Relive_6.15.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 61477193
+    }
+   ]
+  }
+ ]
+}

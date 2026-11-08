@@ -1,0 +1,30 @@
+{
+ "name": "tvOS ONLY!! - MuTube (v4.51.01) - BallerMC",
+ "identifier": "dev.perapp.com-google-tvos-youtube-4-54-01",
+ "subtitle": "MuTube enhances YouTube on Apple TV with TizenTube Cobalt's userscript, which removes ads and adds support for features ",
+ "description": "Single-app source for tvOS ONLY!! - MuTube (v4.51.01) - BallerMC (com.google.tvos.youtube.4.54.01). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.tvos.youtube.4.54.01",
+   "name": "tvOS ONLY!! - MuTube (v4.51.01) - BallerMC",
+   "developerName": "MXFia19",
+   "subtitle": "MuTube enhances YouTube on Apple TV with TizenTube Cobalt's userscript, which removes ads and adds support for features like SponsorBlock. See more…",
+   "localizedDescription": "MuTube enhances YouTube on Apple TV with TizenTube Cobalt's userscript, which removes ads and adds support for features like SponsorBlock.\nSee more about this mod here: https://github.com/Exaphis/mutube \ntvOS Build! Does not work on iOS!!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.54.01",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "MuTube enhances YouTube on Apple TV with TizenTube Cobalt's userscript, which removes ads and adds support for features like SponsorBlock. See more…",
+     "downloadURL": "https://repo.ballermc.com/tubevault/mutube_updated.ipa",
+     "size": 42233519
+    }
+   ]
+  }
+ ]
+}

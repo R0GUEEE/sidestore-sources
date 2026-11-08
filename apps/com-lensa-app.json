@@ -1,0 +1,30 @@
+{
+ "name": "Lensa: Photo Editor",
+ "identifier": "dev.perapp.com-lensa-app",
+ "subtitle": "Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventiona",
+ "description": "Single-app source for Lensa: Photo Editor (com.lensa.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://bunduuk.github.io/altstore-source/img/Lensa/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lensa.app",
+   "name": "Lensa: Photo Editor",
+   "developerName": "Prisma Labs, Inc.",
+   "subtitle": "Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing to",
+   "localizedDescription": "Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing to",
+   "iconURL": "https://bunduuk.github.io/altstore-source/img/Lensa/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.7",
+     "date": "2026-07-07T00:00:00Z",
+     "localizedDescription": "Lensa is a brand new way of making your selfies look better, than you could have ever imagined. Forget about conventional filters and photo editing to",
+     "downloadURL": "https://bunduuk.github.io/altstore-source/ipa/Lensa/Lensa2.0.7.ipa?raw=true",
+     "size": 49208000
+    }
+   ]
+  }
+ ]
+}

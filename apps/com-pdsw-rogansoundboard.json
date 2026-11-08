@@ -1,0 +1,30 @@
+{
+ "name": "JRS",
+ "identifier": "dev.perapp.com-pdsw-rogansoundboard",
+ "subtitle": "ipaomtk.com | The Joe Rogan Soundboard App is an entertaining mobile application that brings the iconic voice and memora",
+ "description": "Single-app source for JRS (com.PDSW.RoganSoundboard). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Joe-Rogan-Soundboard.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.PDSW.RoganSoundboard",
+   "name": "JRS",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Joe Rogan Soundboard App is an entertaining mobile application that brings the iconic voice and memorable quotes of popular podcast ",
+   "localizedDescription": "ipaomtk.com | The Joe Rogan Soundboard App is an entertaining mobile application that brings the iconic voice and memorable quotes of popular podcast ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Joe-Rogan-Soundboard.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Joe Rogan Soundboard App is an entertaining mobile application that brings the iconic voice and memorable quotes of popular podcast ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Joe_Rogan_Soundboard-v2.0.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

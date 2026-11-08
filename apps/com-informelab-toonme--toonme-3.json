@@ -1,0 +1,30 @@
+{
+ "name": "Toonme",
+ "identifier": "dev.perapp.com-informelab-toonme",
+ "subtitle": "Toonme",
+ "description": "Single-app source for Toonme (com.informelab.toonme). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.informelab.toonme",
+   "name": "Toonme",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.informelab.toonme.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.11.19",
+     "date": "2025-01-18T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-01-2025/Toonme_0.11.19_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 136128573
+    }
+   ]
+  }
+ ]
+}

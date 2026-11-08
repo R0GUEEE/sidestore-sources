@@ -1,0 +1,30 @@
+{
+ "name": "BSD Brawl Stars",
+ "identifier": "dev.perapp.bsd-suitcase-release",
+ "subtitle": "Brawl Stars Hacks!  Status: ✅🔥",
+ "description": "Single-app source for BSD Brawl Stars (bsd.suitcase.release). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.omnidev.org/512x512bb_1-lM.png",
+ "apps": [
+  {
+   "bundleIdentifier": "bsd.suitcase.release",
+   "name": "BSD Brawl Stars",
+   "developerName": "Supercell",
+   "subtitle": "Brawl Stars Hacks!  Status: ✅🔥",
+   "localizedDescription": "Brawl Stars Hacks!  Status: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/512x512bb_1-lM.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "57.325",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Brawl Stars Hacks!  Status: ✅🔥",
+     "downloadURL": "https://bsdbrawl.com/bsd_brawl_v57.325_%2826%29.ipa",
+     "size": 195238232
+    }
+   ]
+  }
+ ]
+}

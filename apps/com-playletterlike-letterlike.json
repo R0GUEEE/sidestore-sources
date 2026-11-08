@@ -1,0 +1,30 @@
+{
+ "name": "Letterlike",
+ "identifier": "dev.perapp.com-playletterlike-letterlike",
+ "subtitle": "ipaomtk.com | The Letterlike IPA v11.4 for iOS offers a unique and engaging platform for users to create and share perso",
+ "description": "Single-app source for Letterlike (com.playletterlike.letterlike). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Letterlike-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.playletterlike.letterlike",
+   "name": "Letterlike",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Letterlike IPA v11.4 for iOS offers a unique and engaging platform for users to create and share personalized handwritten letters an",
+   "localizedDescription": "ipaomtk.com | The Letterlike IPA v11.4 for iOS offers a unique and engaging platform for users to create and share personalized handwritten letters an",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/12/Letterlike-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.4",
+     "date": "2024-12-22T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Letterlike IPA v11.4 for iOS offers a unique and engaging platform for users to create and share personalized handwritten letters an",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Letterlike-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

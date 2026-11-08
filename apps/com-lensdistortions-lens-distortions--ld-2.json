@@ -1,0 +1,30 @@
+{
+ "name": "LD",
+ "identifier": "dev.perapp.com-lensdistortions-lens-distortions",
+ "subtitle": "Unlocked",
+ "description": "Single-app source for LD (com.lensdistortions.Lens-Distortions). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/9d/d9/f09dd901-3f64-a1f0-2498-407dd7e63285/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lensdistortions.Lens-Distortions",
+   "name": "LD",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Unlocked",
+   "localizedDescription": "Chức năng đã thêm: mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/9d/d9/f09dd901-3f64-a1f0-2498-407dd7e63285/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.9.1",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/LD_6.9.1_TTJB.ipa",
+     "size": 118477962
+    }
+   ]
+  }
+ ]
+}

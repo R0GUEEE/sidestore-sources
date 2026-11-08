@@ -1,0 +1,30 @@
+{
+ "name": "HearBoost",
+ "identifier": "dev.perapp.com-futuremoments-audiospy",
+ "subtitle": "HearBoost",
+ "description": "Single-app source for HearBoost (com.futuremoments.audiospy). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.futuremoments.audiospy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.futuremoments.audiospy",
+   "name": "HearBoost",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Unlimited",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.futuremoments.audiospy.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0",
+     "date": "2025-02-12T00:00:00Z",
+     "localizedDescription": "Injected with Unlimited",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-02-2025/HearBoost_3.0_Unlimited_%40thisismanpreets_apptesters.org.ipa",
+     "size": 29764772
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Sileo Demo",
+ "identifier": "dev.perapp.org-coolstar-sileodemo",
+ "subtitle": "Unpack the full potential of your iDevice.",
+ "description": "Single-app source for Sileo Demo (org.coolstar.SileoDemo). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "1AC3BE",
+ "iconURL": "https://pbs.twimg.com/profile_images/1019627376857280512/laMqxYhl_400x400.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "org.coolstar.SileoDemo",
+   "name": "Sileo Demo",
+   "developerName": "Sileo Team",
+   "subtitle": "Unpack the full potential of your iDevice.",
+   "localizedDescription": "Sileo is a fast, beautiful, powerful and efficient APT Package Manager designed for jailbroken devices running iOS 11 and up with focus on being up to date and most importantly reliable.",
+   "iconURL": "https://pbs.twimg.com/profile_images/1019627376857280512/laMqxYhl_400x400.jpg",
+   "tintColor": "1AC3BE",
+   "screenshots": [
+    "https://pbs.twimg.com/media/ED-2Z-XUEAIYfJB?format=png&name=4096x4096",
+    "https://pbs.twimg.com/media/ED-2Z_YUUAAVQma?format=png&name=4096x4096",
+    "https://pbs.twimg.com/media/ED-2aAmUEAAa6wf?format=png&name=4096x4096",
+    "https://pbs.twimg.com/media/ED-2aCUUcAEsFzf?format=png&name=4096x4096"
+   ],
+   "versions": [
+    {
+     "version": "1.4.1",
+     "date": "2019-09-07T00:00:00Z",
+     "localizedDescription": "Sileo is a fast, beautiful, powerful and efficient APT Package Manager designed for jailbroken devices running iOS 11 and up with focus on being up to date and most importantly reliable.",
+     "downloadURL": "https://electrarepo64.coolstar.org/ipas/Sileo%20Demo%201.4.1.ipa",
+     "size": 7792641
+    }
+   ]
+  }
+ ]
+}

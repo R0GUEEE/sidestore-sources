@@ -1,0 +1,30 @@
+{
+ "name": "FAITH",
+ "identifier": "dev.perapp.com-tdmbest-faith",
+ "subtitle": "FAITH",
+ "description": "Single-app source for FAITH (com.TDMbest.faith). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/23f7a776-b063-4272-960a-a249bb860a0f/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TDMbest.faith",
+   "name": "FAITH",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nFAITH unholy trinity 1.4v ported to iOS! (Reupload for zx repo)\n⚠️ONLY can run on 3-4gb+ devices⚠️ \n⚠️Heavy on ram game will crash with other stuff open keep that in mind⚠️\n\nCredit to spriter(guy that made the fnaf port) for the art without him the port would look weird\nIt’s still on the 1.4 version of the game It updated while I was working on it keep that in mind\n\n- Steam",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/23f7a776-b063-4272-960a-a249bb860a0f/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nFAITH unholy trinity 1.4v ported to iOS! (Reupload for zx repo)\n⚠️ONLY can run on 3-4gb+ devices⚠️ \n⚠️Heavy on ram game will crash with other stuff open keep that in mind⚠️\n\nCredit to spriter(guy that made the fnaf port) for the art without him the port would look weird\nIt’s still on the 1.4 version of the game It updated while I was working on it keep that in mind\n\n- Steam",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/caae6a2a-9dd8-4245-8874-c8c65978d2d1/FAITH-TDMbest_d_spriter.ipa",
+     "size": 139584496
+    }
+   ]
+  }
+ ]
+}

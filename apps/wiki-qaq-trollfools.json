@@ -1,0 +1,32 @@
+{
+ "name": "TrollFools_3.7-42",
+ "identifier": "dev.perapp.wiki-qaq-trollfools",
+ "subtitle": "TrollFools_3.7-42 by TrollFools_3.7-42 x CyPwn",
+ "description": "Single-app source for TrollFools_3.7-42 (wiki.qaq.TrollFools). Converted from cypwn-trollstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_3.7-42.png",
+ "apps": [
+  {
+   "bundleIdentifier": "wiki.qaq.TrollFools",
+   "name": "TrollFools_3.7-42",
+   "developerName": "TrollFools_3.7-42 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "Inject tweaks into apps",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TrollFools_3.7-42.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/TrollFools_3.7-42/TrollFools_3.7-42-0.png"
+   ],
+   "versions": [
+    {
+     "version": "3.7",
+     "date": "2025-04-24T00:00:00Z",
+     "localizedDescription": "Inject tweaks into apps",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TrollFools_3.7-42.ipa",
+     "size": 6029312
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "name": "DSH Tether",
+ "identifier": "dev.perapp.cc-zexa-dshtether",
+ "subtitle": "DeepSeek Harness (dsh) remote access from your phone: Android iOS mobile client, peer to peer over iroh across networks,",
+ "description": "Single-app source for DSH Tether (cc.zexa.dshtether). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4abc30",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/cc.zexa.dshtether.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cc.zexa.dshtether",
+   "name": "DSH Tether",
+   "developerName": "zexadev",
+   "subtitle": "DeepSeek Harness (dsh) remote access from your phone: Android iOS mobile client, peer to peer over iroh across networks, no server to set up, relay fallback sees only ciphertext; Android can also run ",
+   "localizedDescription": "DSH Tether carries the DeepSeek Harness web interface to your phone over a direct peer-to-peer connection. The agent keeps running on the machine your code lives on, and the phone gets DSH's own full interface — conversations, tool calls, approvals and settings, not a reimplementation of them. Pair once with a 6-digit code; after that the two ends find each other whatever network they are on.\n\nWhen there is no machine around, the same app can run DSH on the phone itself (Android) — see Local mode.\n\nThe case it solves:\n\nYou are not on your machine's network, and you do not want a server in the middle.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/cc.zexa.dshtether.png",
+   "tintColor": "#4abc30",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/zexadev/dsh-tether@main/assets/phone-cellular.png",
+    "https://cdn.jsdelivr.net/gh/zexadev/dsh-tether@main/assets/phone-sidebar-drawer.png",
+    "https://cdn.jsdelivr.net/gh/zexadev/dsh-tether@main/assets/phone-settings.png"
+   ],
+   "versions": [
+    {
+     "version": "0.1.25",
+     "date": "2026-11-02T18:28:29Z",
+     "localizedDescription": "English:\n\nAttachment thumbnails were squeezed out of shape on narrow screens (found while fixing #22). Those narrow-screen rules selected the frame with [class*=\"_frame\"], but the conversation area, attachment thumbnails, subagent and document-preview components all carry local class names containing _frame and all live inside the frame. An attachment thumbnail is a single-cell grid, so grid-template-columns: 56px minmax(0,1fr) 0px turned it into three columns and pushed the image into the 56px first column, and the sidebar veil would likewise be painted over every nested element. Those rules are now restricted to a _frame that is not inside another _frame.\n\nSupport is now declared for dsh 0.2.1-rc.5 and 0.2.2-alpha.2. Since 0.1.7 dsh refuses to install a plugin whose declared range does not cover it, so the 0.2.2-alpha line could not install this plugin at all. Both versions were verified by running them: the layout package class names and data-sidebar-collapsed are identical to 0.2.1-rc.3, and the drawer, settings dialog and sidebar button all behave the same. The dsh bundled inside the APK stays at 0.2.1-rc.2.",
+     "downloadURL": "https://github.com/zexadev/dsh-tether/releases/download/v0.1.25/dsh-tether-0.1.25-ios-unsigned.ipa",
+     "size": 7123667
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "用于发现并直连同一局域网内已配对的电脑,不走公网中转时更快、更省流量。"
+    }
+   }
+  }
+ ]
+}

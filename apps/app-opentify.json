@@ -1,0 +1,38 @@
+{
+ "name": "Opentify",
+ "identifier": "dev.perapp.app-opentify",
+ "subtitle": "A self-hosted personal music server with its own apps (web, iOS, Android, Windows)",
+ "description": "Single-app source for Opentify (app.opentify). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4367dc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.opentify.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.opentify",
+   "name": "Opentify",
+   "developerName": "krystofskala",
+   "subtitle": "A self-hosted personal music server with its own apps (web, iOS, Android, Windows)",
+   "localizedDescription": "Opentify:\n\nA self-hosted personal music server with its own apps (web, iOS, Android, Windows). It plays your own music library, organises it with metadata from MusicBrainz and Deezer, and gives you a Spotify-like experience on your own hardware.\n\nOsobní hudební server pro vlastní hardware. Rozhraní appky je česky.\n\nStatus: a personal hobby project, not released for use by others yet (see License). The app's interface is in Czech, there is no support, and things change without notice.\n\nImportant: legal notice:\n\nThis repository contains software only — no music, no accounts, no keys.\n\nOpentify can optionally fetch tracks that are missing from your library through third-party tools (Soulseek via slskd, and.\n\nmusic without permission is illegal in many countries.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.opentify.png",
+   "tintColor": "#4367dc",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.1.107",
+     "date": "2026-10-30T07:37:10Z",
+     "localizedDescription": "Nepodepsaná appka pro iPhone (verze 0.1.107). Aktualizace chodí samy přes zdroj v SideStore: https://raw.githubusercontent.com/krystofskala/Opentify/altstore/source.json",
+     "downloadURL": "https://github.com/krystofskala/Opentify/releases/download/ios-build-107/Opentify.ipa",
+     "size": 16733358
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.security.application-groups"
+    ],
+    "privacy": {
+     "NSMicrophoneUsageDescription": "Mikrofon slouží jen pro Open Shazam a ladičku. Zvuk se nikam neukládá."
+    }
+   }
+  }
+ ]
+}

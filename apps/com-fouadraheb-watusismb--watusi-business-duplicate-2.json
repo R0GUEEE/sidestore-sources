@@ -1,0 +1,30 @@
+{
+ "name": "Watusi Business · Duplicate",
+ "identifier": "dev.perapp.com-fouadraheb-watusismb",
+ "subtitle": "This is a duplicated app, it can be installed alongside original WhatsApp Business. (Bundle ID com.fouadraheb.watusiSMB)",
+ "description": "Single-app source for Watusi Business · Duplicate (com.fouadraheb.watusiSMB). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fouadraheb.watusiSMB",
+   "name": "Watusi Business · Duplicate",
+   "developerName": "Fouad Raheb",
+   "subtitle": "This is a duplicated app, it can be installed alongside original WhatsApp Business. (Bundle ID com.fouadraheb.watusiSMB) Watusi is your all-in-one…",
+   "localizedDescription": "This is a duplicated app, it can be installed alongside original WhatsApp Business. (Bundle ID com.fouadraheb.watusiSMB) \n\nWatusi is your all-in-one tweak for WhatsApp Messenger.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/business.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.42.77",
+     "date": "2026-11-04T00:00:00Z",
+     "localizedDescription": "This is a duplicated app, it can be installed alongside original WhatsApp Business. (Bundle ID com.fouadraheb.watusiSMB) Watusi is your all-in-one…",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793703806340-lg0ok/com.fouadraheb.watusiSMB_26.42.77_watusi3_1.3.30_sl.ipa",
+     "size": 187640301
+    }
+   ]
+  }
+ ]
+}

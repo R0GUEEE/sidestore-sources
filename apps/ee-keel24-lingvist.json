@@ -1,0 +1,30 @@
+{
+ "name": "Lingvist",
+ "identifier": "dev.perapp.ee-keel24-lingvist",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Lingvist (ee.keel24.Lingvist). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ee.keel24.Lingvist.png",
+ "apps": [
+  {
+   "bundleIdentifier": "ee.keel24.Lingvist",
+   "name": "Lingvist",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ee.keel24.Lingvist.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.65.5",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Lingvist_2.65.5_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 42175248
+    }
+   ]
+  }
+ ]
+}

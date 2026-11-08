@@ -1,0 +1,37 @@
+{
+ "name": "Rosiecord",
+ "identifier": "dev.perapp.com-unknown-rosiecord",
+ "subtitle": "Modification of the Discord application",
+ "description": "Single-app source for Rosiecord (com.unknown.rosiecord). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Rosiecord.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.rosiecord",
+   "name": "Rosiecord",
+   "developerName": "Karbin-Store",
+   "subtitle": "Modification of the Discord application",
+   "localizedDescription": "Modification of the Discord application",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image-three/Rosiecord.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "262.2",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "Modification of the Discord application",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Rosiecord-262.ipa",
+     "size": 96660000
+    },
+    {
+     "version": "262.0",
+     "date": "2025-01-08T00:00:00Z",
+     "localizedDescription": "Modification of the Discord application",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Rosiecord-262.ipa",
+     "size": 101242813
+    }
+   ]
+  }
+ ]
+}

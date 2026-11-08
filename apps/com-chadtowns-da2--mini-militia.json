@@ -1,0 +1,37 @@
+{
+ "name": "Mini Militia",
+ "identifier": "dev.perapp.com-chadtowns-da2",
+ "subtitle": "Mini Militia",
+ "description": "Single-app source for Mini Militia (com.chadtowns.da2). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/1a/79/051a792c-fb53-473b-d6be-8073b3285988/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.chadtowns.da2",
+   "name": "Mini Militia",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/1a/79/051a792c-fb53-473b-d6be-8073b3285988/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.1",
+     "date": "2025-10-28T00:00:00Z",
+     "localizedDescription": "Hack Features:\r\n\r\n- Infinite ammo\r\n- No reloading\r\n- Infinite Ammo (Grenades, etc.)\r\n- Infinite Jet Boost\r\n- Free Premium",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1840",
+     "size": 45971577
+    },
+    {
+     "version": "4.2.8",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/2bc13892-124f-4fb1-a2b0-f69d150782c3/Mini_Militia_4.2.8.ipa",
+     "size": 74051416
+    }
+   ]
+  }
+ ]
+}

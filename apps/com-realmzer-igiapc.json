@@ -1,0 +1,30 @@
+{
+ "name": "iOS Gods iAP Cracker",
+ "identifier": "dev.perapp.com-realmzer-igiapc",
+ "subtitle": "In app purchases cracker",
+ "description": "Single-app source for iOS Gods iAP Cracker (com.realmzer.igiapc). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "e8a7b0",
+ "iconURL": "https://cdn.omnidev.org/iitsk_FB-Ya.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.realmzer.igiapc",
+   "name": "iOS Gods iAP Cracker",
+   "developerName": "iOS Gods",
+   "subtitle": "In app purchases cracker",
+   "localizedDescription": "Although this is a nice tweak, LocaliApStore does not work for some games such as Borderlands & the new Batman game but this tweak does!\nStatus: ✅✨",
+   "iconURL": "https://cdn.omnidev.org/iitsk_FB-Ya.png",
+   "tintColor": "e8a7b0",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.1",
+     "date": "2024-11-17T00:00:00Z",
+     "localizedDescription": "Although this is a nice tweak, LocaliApStore does not work for some games such as Borderlands & the new Batman game but this tweak does!\nStatus: ✅✨",
+     "downloadURL": "https://cdn.omnidev.org/i_OS_Gods_com_i_AP_Cracker_0_0_1_1_debug_iphoneos_arm-Cg.deb",
+     "size": 4096
+    }
+   ]
+  }
+ ]
+}

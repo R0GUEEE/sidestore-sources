@@ -1,0 +1,30 @@
+{
+ "name": "Hajwala Drifter",
+ "identifier": "dev.perapp.com-unknown-hajwaladrifter",
+ "subtitle": "فرۆشگای بێ بەرامبەر (کڕین پاشان هەڵوەشاندنەوە)",
+ "description": "Single-app source for Hajwala Drifter (com.unknown.hajwaladrifter). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Hajwala.Drifter.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.hajwaladrifter",
+   "name": "Hajwala Drifter",
+   "developerName": "Karbin-Store",
+   "subtitle": "فرۆشگای بێ بەرامبەر (کڕین پاشان هەڵوەشاندنەوە)",
+   "localizedDescription": "فرۆشگای بێ بەرامبەر (کڕین پاشان هەڵوەشاندنەوە)",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Hajwala.Drifter.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.49",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "فرۆشگای بێ بەرامبەر (کڕین پاشان هەڵوەشاندنەوە)",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/Highway.Drifter_.Hajwala.Drift_1.2.49_DEV.ipa",
+     "size": 605330000
+    }
+   ]
+  }
+ ]
+}

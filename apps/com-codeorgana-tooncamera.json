@@ -1,0 +1,30 @@
+{
+ "name": "ToonCamera",
+ "identifier": "dev.perapp.com-codeorgana-tooncamera",
+ "subtitle": "ipaomtk.com | ToonCamera IPA v5.2.2 is a creative photo editing application that transforms ordinary photographs into vi",
+ "description": "Single-app source for ToonCamera (com.codeorgana.tooncamera). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/ToonCamera.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.codeorgana.tooncamera",
+   "name": "ToonCamera",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | ToonCamera IPA v5.2.2 is a creative photo editing application that transforms ordinary photographs into vibrant, cartoon-style images. T",
+   "localizedDescription": "ipaomtk.com | ToonCamera IPA v5.2.2 is a creative photo editing application that transforms ordinary photographs into vibrant, cartoon-style images. T",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/ToonCamera.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.2.2",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | ToonCamera IPA v5.2.2 is a creative photo editing application that transforms ordinary photographs into vibrant, cartoon-style images. T",
+     "downloadURL": "https://file.ipaomtk.com/ipa/ToonCamera-v5.2.2_2024-10-29_16-33-23-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

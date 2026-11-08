@@ -1,0 +1,37 @@
+{
+ "name": "Kitty Keep",
+ "identifier": "dev.perapp.com-funovus-wildcastle2",
+ "subtitle": "ipaomtk.com | Kitty Keep IPA is a captivating mobile game that has taken the gaming world by storm. Developed by a talen",
+ "description": "Single-app source for Kitty Keep (com.funovus.wildcastle2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/Kitty-Keep-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.funovus.wildcastle2",
+   "name": "Kitty Keep",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Kitty Keep IPA is a captivating mobile game that has taken the gaming world by storm. Developed by a talented team of designers and prog",
+   "localizedDescription": "ipaomtk.com | Kitty Keep IPA is a captivating mobile game that has taken the gaming world by storm. Developed by a talented team of designers and prog",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/08/Kitty-Keep-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.48.2",
+     "date": "2024-08-15T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Kitty Keep IPA is a captivating mobile game that has taken the gaming world by storm. Developed by a talented team of designers and prog",
+     "downloadURL": "https://file.ipaomtk.com/Kitty%20Keep%E2%84%A2/Kitty-Keep-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.63.0",
+     "date": "2024-08-15T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Kitty Keep IPA is a captivating mobile game that has taken the gaming world by storm. Developed by a talented team of designers and prog",
+     "downloadURL": "https://file.ipaomtk.com/Kitty%20Keep%E2%84%A2/Kitty-Keep-IPAOMTK.COM.ipa",
+     "size": 217106880
+    }
+   ]
+  }
+ ]
+}

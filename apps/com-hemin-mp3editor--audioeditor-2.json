@@ -1,0 +1,44 @@
+{
+ "name": "AudioEditor",
+ "identifier": "dev.perapp.com-hemin-mp3editor",
+ "subtitle": "AudioEditor",
+ "description": "Single-app source for AudioEditor (com.hemin.mp3editor). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hemin.mp3editor",
+   "name": "AudioEditor",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with IAP",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hemin.mp3editor.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.85",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "features: in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2024",
+     "size": 106976186
+    },
+    {
+     "version": "5.82",
+     "date": "2026-05-22T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/AudioEditor_5.82_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 107093676
+    },
+    {
+     "version": "5.80",
+     "date": "2026-05-20T00:00:00Z",
+     "localizedDescription": "Injected with IAP",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/AudioEditor_5.80_IAP_%40thisismanpreets_apptesters.org.ipa",
+     "size": 107092628
+    }
+   ]
+  }
+ ]
+}

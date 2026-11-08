@@ -1,0 +1,30 @@
+{
+ "name": "Ballz",
+ "identifier": "dev.perapp.com-ketchapp-ballz",
+ "subtitle": "Ballz by Ketchapp",
+ "description": "Single-app source for Ballz (com.ketchapp.ballz). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/64/63/05646384-0792-1019-a721-550efa841ff3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ketchapp.ballz",
+   "name": "Ballz",
+   "developerName": "Ketchapp",
+   "subtitle": "",
+   "localizedDescription": "IGG added for unlimited currency - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/64/63/05646384-0792-1019-a721-550efa841ff3/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.8.17",
+     "date": "2025-02-10T00:00:00Z",
+     "localizedDescription": "IGG added for unlimited currency - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67a9768a72b77be7cfa3ae8b",
+     "size": 124471773
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Bloomberg",
+ "identifier": "dev.perapp.com-bloomberg-bloomberg",
+ "subtitle": "Tweaks: Fux",
+ "description": "Single-app source for Bloomberg (com.bloomberg.Bloomberg). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloomberg.Bloomberg.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bloomberg.Bloomberg",
+   "name": "Bloomberg",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: Fux",
+   "localizedDescription": "Tweaks: Fux\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bloomberg.Bloomberg.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.51.1",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Tweaks: Fux\n\nChức năng đã thêm: Premium - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-01-2026/Bloomberg_6.51.1_Premium_@thisismanpreets_apptesters.org.ipa",
+     "size": 25702367
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "SparkPremium",
+ "identifier": "dev.perapp.com-readdle-smartemail",
+ "subtitle": "Tweaks: Favour-Alert",
+ "description": "Single-app source for SparkPremium (com.readdle.smartemail). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.smartemail.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.readdle.smartemail",
+   "name": "SparkPremium",
+   "developerName": "zxcvbn's tweaked IPAs",
+   "subtitle": "Tweaks: Favour-Alert",
+   "localizedDescription": "Tweaks: Favour-Alert\n\nSpark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it through TrollStore then reinstall it via the AppStore. For some reason, this process keeps the tweak working.\nLast updated: 07-07-2024\nStatus: ✅ 👍 ⭐\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.readdle.smartemail.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.9.6",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: Favour-Alert\n\nSpark, with premium features (except AI) and built-in a feature to hide update notifications. Note: To obtain the latest version, first install it…",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/SparkPremium/SparkPremium-3.9.6.ipa",
+     "size": 121485106
+    }
+   ]
+  }
+ ]
+}

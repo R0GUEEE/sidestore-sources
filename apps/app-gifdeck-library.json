@@ -1,0 +1,36 @@
+{
+ "name": "GIFDeck Fresh",
+ "identifier": "dev.perapp.app-gifdeck-library",
+ "subtitle": "A local GIF and photo library inside Messages, with Liquid Glass controls and animated previews",
+ "description": "Single-app source for GIFDeck Fresh (app.gifdeck.library). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#3e7789",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.gifdeck.library.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.gifdeck.library",
+   "name": "GIFDeck Fresh",
+   "developerName": "wakeupbrk",
+   "subtitle": "A local GIF and photo library inside Messages, with Liquid Glass controls and animated previews",
+   "localizedDescription": "GIFDeck:\n\nYour GIFs, one tap away in Messages.\n\nSave GIFs and photos to your own Messages library, preview them as you browse, and tap to add the original image to a conversation. A light Liquid Glass interface keeps your collection close to the conversation.\n\nMade for your collection:\n\n• Import once, use across conversations. Add selected GIFs or photos through Photos or Files. Your copies stay saved inside the Messages extension.\n• See the motion before sending. Visible GIFs animate without an arbitrary 18-preview limit. Offscreen previews pause, and Reduce Motion is respected.\n• Send the original. Preview crops never change the file inserted into Messages. Tap an image, then press Send yourself.\n• Browse naturally. Compact and expanded libraries use native scrolling. A presentation button lets you expand or collapse the drawer.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/app.gifdeck.library.png",
+   "tintColor": "#3e7789",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/wakeupbrk/GIFDeck@main/Documentation/Screenshots/expanded-library.png"
+   ],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-10-06T17:04:50Z",
+     "localizedDescription": "GIFDeck Fresh is a local GIF and photo library inside Messages, with Liquid Glass controls, animated previews, Photos/Files import, and native scrolling.\n\nThis release uses neutral identifiers: app.gifdeck.library and app.gifdeck.library.messages. It carries no personal Apple certificate, team ID, device information, or provisioning profile.\n\nDownload GIFDeck-Fresh-Build-8.ipa, then use your installer to sign both the app and embedded Messages extension. The IPA has integrity signatures only and requires Apple re-signing before installation.\n\nThe interface matches the supplied build-7 screenshots. Build 8 changes the public app identity. All 25 core tests, the privacy audit, device Release archive, and IPA validation passed. Phone gesture and delivery behavior still require normal device acceptance.\n\nVerify the downloaded IPA using SHA256SUMS. Read SIGNING-STATUS.txt and the repository signing guide before installation.",
+     "downloadURL": "https://github.com/wakeupbrk/GIFDeck/releases/download/v1.1-build8/GIFDeck-Fresh-Build-8.ipa",
+     "size": 294822
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "SwiftyCompiler",
+ "identifier": "dev.perapp.com-hassantaleb-swiftcompiler",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for SwiftyCompiler (com.hassantaleb.SwiftCompiler). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hassantaleb.SwiftCompiler",
+   "name": "SwiftyCompiler",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.SwiftCompiler.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.18",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-11-2025/SwiftyCompiler_9.18_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 32345726
+    },
+    {
+     "version": "9.17",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/11-11-2025/SwiftyCompiler_9.17_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 32328816
+    },
+    {
+     "version": "9.19",
+     "date": "2026-05-11T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-05-2026/SwiftyCompiler_9.19_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 32575445
+    }
+   ]
+  }
+ ]
+}

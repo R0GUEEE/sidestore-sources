@@ -1,0 +1,30 @@
+{
+ "name": "StadioMax",
+ "identifier": "dev.perapp.com-stadiomax-ios",
+ "subtitle": "StadioMax by stadiomax",
+ "description": "Single-app source for StadioMax (com.stadiomax.ios). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1783190981.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stadiomax.ios",
+   "name": "StadioMax",
+   "developerName": "stadiomax",
+   "subtitle": "",
+   "localizedDescription": "StadioMax — live TV and video on demand in Spanish. TV en vivo y video bajo demanda en español: fútbol y deportes en vivo, películas y series. App oficial para suscriptores: requiere una cuenta activada por un distribuidor autorizado — instala, abre la app e ingresa tu código de activación. Para iPhone y iPad (iOS 26 o superior), con AirPlay y Picture-in-Picture.",
+   "iconURL": "https://appstore.sidelix.vip/images/1783190981.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-07-05T00:00:00Z",
+     "localizedDescription": "StadioMax — live TV and video on demand in Spanish. TV en vivo y video bajo demanda en español: fútbol y deportes en vivo, películas y series. App oficial para suscriptores: requiere una cuenta activada por un distribuidor autorizado — instala, abre la app e ingresa tu código de activación. Para iPhone y iPad (iOS 26 o superior), con AirPlay y Picture-in-Picture.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2143",
+     "size": 5132291
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "name": "VeneraX",
+ "identifier": "dev.perapp.io-github-kyosee-venera",
+ "subtitle": "A continually enhanced, cross platform comic reader based on Venera, with experimental AI translation",
+ "description": "Single-app source for VeneraX (io.github.kyosee.venera). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8567bb",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.kyosee.venera.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.kyosee.venera",
+   "name": "VeneraX",
+   "developerName": "Kyosee",
+   "subtitle": "A continually enhanced, cross platform comic reader based on Venera, with experimental AI translation",
+   "localizedDescription": "VeneraX is a free and open-source, multi-platform comic reader forked from Venera and maintained with enhancements over the original.\n\nOriginal Project: This project is forked from venera-app/venera.\n\nBefore downloading, installing, or using this software, please read and fully understand the User Agreement & Disclaimer. By downloading, installing, copying, modifying, or using this software, you are deemed to have read, understood, and accepted it in its entirety; if you do not agree, do not use the software and delete it immediately.\n\nNew Features & Improvements:\n\n• [x] Improved WebDAV backup & sync, with a per-item choice of settings to skip.\n• [x] Automatic update checks on Windows and Android APK.\n• [x] Seamless continuous-chapter reading.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.kyosee.venera.png",
+   "tintColor": "#8567bb",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.3.12",
+     "date": "2026-11-08T08:15:56Z",
+     "localizedDescription": "Added:\n\n• Added a Multi-Select button to the local favorites toolbar for organizing comics in bulk.\n• Added Read and Continue reading actions to comic menus so you can start reading or resume your last position directly.\n• Added an Actions button to detailed comic lists on mobile for opening a comic's menu with a tap.\n\nChanged:\n\n• Organized settings into 10 categories, with category navigation on the left on desktop and a category list on mobile.\n• Settings pages now show common options first, with further options such as page layout and gestures under More settings.\n• Improved settings layouts on large screens, made single options fill their row, and tightened mobile header spacing to reduce empty space and duplicate titles.\n• Settings now switch between one and two panes based on the available width, improving layouts on foldables, split-screen views and smaller desktop windows.\n• Enlarged desktop comic menu text and click targets, and grouped actions such as favorites and collections more clearly.\n\n• Updated the English and Chinese guides with the new settings paths, search, reader sidebar and menu controls.\n\nFixed:\n\n• Fixed overlapping and overflowing text in the reading settings sidebar on high-resolution windows.\n• Fixed secondary settings opening full screen from the reader sidebar; navigation and Back now stay inside the sidebar.\n• Fixed duplicate spacing along screen edges on some devices and cramped settings content in narrow windows.\n• Fixed keyboard navigation not becoming available immediately after opening a desktop menu.\n• Fixed some guide contents entries failing to jump to their sections.",
+     "downloadURL": "https://github.com/Kyosee/VeneraX/releases/download/v2.3.12/VeneraX-ios-2.3.12%2B257.ipa",
+     "size": 39009856
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Scan a QR code to import sync configuration.",
+     "NSFaceIDUsageDescription": "Ensure that the operation is being performed by the user themselves.",
+     "NSPhotoLibraryUsageDescription": "Choose images"
+    }
+   }
+  }
+ ]
+}

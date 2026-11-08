@@ -1,0 +1,30 @@
+{
+ "name": "Leghe FC",
+ "identifier": "dev.perapp.it-quadronica-leghe",
+ "subtitle": "ipaomtk.com | Leghe Fantacalcio IPA Game is an innovative and immersive fantasy football experience that allows you to m",
+ "description": "Single-app source for Leghe FC (it.quadronica.leghe). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/leghe-fantacalcio-ipa-v2-5-10-in-app-purchases-appstore-icon-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "it.quadronica.leghe",
+   "name": "Leghe FC",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Leghe Fantacalcio IPA Game is an innovative and immersive fantasy football experience that allows you to manage your own virtual footbal",
+   "localizedDescription": "ipaomtk.com | Leghe Fantacalcio IPA Game is an innovative and immersive fantasy football experience that allows you to manage your own virtual footbal",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/leghe-fantacalcio-ipa-v2-5-10-in-app-purchases-appstore-icon-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.5.10",
+     "date": "2024-09-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Leghe Fantacalcio IPA Game is an innovative and immersive fantasy football experience that allows you to manage your own virtual footbal",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Leghe-Fantacalcio-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

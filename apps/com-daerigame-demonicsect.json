@@ -1,0 +1,30 @@
+{
+ "name": "Demonicsect",
+ "identifier": "dev.perapp.com-daerigame-demonicsect",
+ "subtitle": "Mods",
+ "description": "Single-app source for Demonicsect (com.daerigame.demonicsect). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.daerigame.demonicsect.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.daerigame.demonicsect",
+   "name": "Demonicsect",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Mods",
+   "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.daerigame.demonicsect.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "111",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mods - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2025/Demonicsect_111_Mods_@thisismanpreets_apptesters.org.ipa",
+     "size": 217180425
+    }
+   ]
+  }
+ ]
+}

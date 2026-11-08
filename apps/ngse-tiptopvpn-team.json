@@ -1,0 +1,30 @@
+{
+ "name": "TipTop VPN",
+ "identifier": "dev.perapp.ngse-tiptopvpn-team",
+ "subtitle": "ipaomtk.com | VPN proxy – TipTop VPN is a mobile application designed to enhance online privacy and security while provi",
+ "description": "Single-app source for TipTop VPN (ngse.tiptopvpn.team). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/VPN-proxy-8211-TipTop-VPN.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "ngse.tiptopvpn.team",
+   "name": "TipTop VPN",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | VPN proxy – TipTop VPN is a mobile application designed to enhance online privacy and security while providing unrestricted access to in",
+   "localizedDescription": "ipaomtk.com | VPN proxy – TipTop VPN is a mobile application designed to enhance online privacy and security while providing unrestricted access to in",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/VPN-proxy-8211-TipTop-VPN.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | VPN proxy – TipTop VPN is a mobile application designed to enhance online privacy and security while providing unrestricted access to in",
+     "downloadURL": "https://file.ipaomtk.com/ipa/VPN_proxy_-_TipTop_VPN-v5-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

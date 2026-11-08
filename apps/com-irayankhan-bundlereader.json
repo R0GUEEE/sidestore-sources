@@ -1,0 +1,30 @@
+{
+ "name": "BundleReader",
+ "identifier": "dev.perapp.com-irayankhan-bundlereader",
+ "subtitle": "See ipa contents",
+ "description": "Single-app source for BundleReader (com.iRayanKhan.BundleReader). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/BundleReader.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.iRayanKhan.BundleReader",
+   "name": "BundleReader",
+   "developerName": "BundleReader x CyPwn",
+   "subtitle": "See ipa contents",
+   "localizedDescription": "See ipa contents\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/BundleReader.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "See ipa contents",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/BundleReader.ipa",
+     "size": 71534
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "VK",
+ "identifier": "dev.perapp.com-vk-vkclient",
+ "subtitle": "VK",
+ "description": "Single-app source for VK (com.vk.vkclient). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/dc/9e/26dc9e0a-46a6-543f-feff-ccd56a4a9f25/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vk.vkclient",
+   "name": "VK",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nVK v8.119.1 | Orwell v1.0\n\n🇷🇺 Модифицированный клиент ВК\n— Загрузка медиа-файлов\n— Режим инкогнито\n— Улучшения в чатах\n— Требуется iOS 15.6\n© Создано: Dan's Workshop\n\n🇺🇸 Modified client for VK\n— Download media files\n— Incognito mode\n— Improvements in chats\n— Requires iOS 15.6\n© Created: Dan's Workshop",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/dc/9e/26dc9e0a-46a6-543f-feff-ccd56a4a9f25/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.144.1",
+     "date": "2025-09-20T05:00:00+03:00",
+     "localizedDescription": "OrwellVK v1.2\n\n- Fixed clips downloading issue\n- Fixed custom notch theming\n- Improved downloading videos\n- Improved downloading voice messages\n- Improved per-message marking logic\n- Improved logic for marking voice messages and videos as played\n- Improved downloading music\n - Improved toast and download progress UI. Now you can also swipe up the toast to hide it\n- Optimization for VK on iOS 26\n\n- Huge thanks for 10K OrwellVK users ❤️",
+     "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/ovk_1.2+8.144.1.ipa",
+     "size": 209551943
+    },
+    {
+     "version": "8.119.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nVK v8.119.1 | Orwell v1.0\n\n🇷🇺 Модифицированный клиент ВК\n— Загрузка медиа-файлов\n— Режим инкогнито\n— Улучшения в чатах\n— Требуется iOS 15.6\n© Создано: Dan's Workshop\n\n🇺🇸 Modified client for VK\n— Download media files\n— Incognito mode\n— Improvements in chats\n— Requires iOS 15.6\n© Created: Dan's Workshop",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/bef35d1c-73b5-42b2-a6c7-648eb19c308d/VK_v8.119.1___Orwell_v1.0_tg_glesign_.ipa",
+     "size": 169224866
+    },
+    {
+     "version": "8.107",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nVK v8.107 | Orwell v1.0\n\n🇷🇺 Модифицированный клиент ВК\n— Загрузка медиа-файлов\n— Режим инкогнито\n— Улучшения в чатах\n— Требуется iOS 14.0\n© Создано: Dan's Workshop\n\n🇺🇸 Modified client for VK\n— Download media files\n— Incognito mode\n— Improvements in chats\n— Requires iOS 14.0\n© Created: Dan's Workshop",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/937108d9-fbb8-43e6-887f-53f8c5bea87a/VK_v8.107___Orwell_v1.0_tg_glesign_.ipa",
+     "size": 142699820
+    }
+   ]
+  }
+ ]
+}

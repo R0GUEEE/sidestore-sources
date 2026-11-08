@@ -1,0 +1,44 @@
+{
+ "name": "Tsumiru",
+ "identifier": "dev.perapp.com-suwayomi-tachidesksorayomi",
+ "subtitle": "Tsumiru is a native client for reading manga & manhwa from a Suwayomi-Server instance, built for long webtoon binges. Of",
+ "description": "Single-app source for Tsumiru (com.suwayomi.tachideskSorayomi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.suwayomi.tachideskSorayomi",
+   "name": "Tsumiru",
+   "developerName": "Suwayomi",
+   "subtitle": "Tsumiru is a native client for reading manga & manhwa from a Suwayomi-Server instance, built for long webtoon binges. Offline downloads with an on-dev",
+   "localizedDescription": "Tsumiru is a native client for reading manga & manhwa from a Suwayomi-Server instance, built for long webtoon binges. Offline downloads with an on-dev\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Suwayomi-Tsumiru/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.6.4",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Tsumiru is a native client for reading manga & manhwa from a Suwayomi-Server instance, built for long webtoon binges. Offline downloads with an on-dev",
+     "downloadURL": "https://github.com/Suwayomi/Suwayomi-Tsumiru/releases/download/v1.6.4/tsumiru-v1.6.4-ios.ipa",
+     "size": 17154795
+    },
+    {
+     "version": "1.6.3",
+     "date": "2026-10-31T00:00:00Z",
+     "localizedDescription": "Tsumiru is a native client for reading manga & manhwa from a Suwayomi-Server instance, built for long webtoon binges. Offline downloads with an on-dev",
+     "downloadURL": "https://github.com/Suwayomi/Suwayomi-Tsumiru/releases/download/v1.6.3/tsumiru-v1.6.3-ios.ipa",
+     "size": 18404468
+    },
+    {
+     "version": "1.6.2",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "Tsumiru is a native client for reading manga & manhwa from a Suwayomi-Server instance, built for long webtoon binges. Offline downloads with an on-dev",
+     "downloadURL": "https://github.com/Suwayomi/Suwayomi-Tsumiru/releases/download/v1.6.2/tsumiru-v1.6.2-ios.ipa",
+     "size": 18312147
+    }
+   ]
+  }
+ ]
+}

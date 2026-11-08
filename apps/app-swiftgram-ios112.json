@@ -1,0 +1,30 @@
+{
+ "name": "Swiftgram v11.2",
+ "identifier": "dev.perapp.app-swiftgram-ios112",
+ "subtitle": "Swiftgram - Telegram for iOS Supercharged",
+ "description": "Single-app source for Swiftgram v11.2 (app.swiftgram.ios112). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "f56d3e",
+ "iconURL": "https://cdn.omnidev.org/swiftgram-we.png",
+ "apps": [
+  {
+   "bundleIdentifier": "app.swiftgram.ios112",
+   "name": "Swiftgram v11.2",
+   "developerName": "Akentech Ltd",
+   "subtitle": "Swiftgram - Telegram for iOS Supercharged",
+   "localizedDescription": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/swiftgram-we.png",
+   "tintColor": "f56d3e",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.2",
+     "date": "2024-11-05T00:00:00Z",
+     "localizedDescription": "Supercharged Telegram experience — unlocked, feature-rich, secure messaging.\nStatus: ✅🔥",
+     "downloadURL": "https://cdn.omnidev.org/app_swiftgram_ios_11_2-a4.ipa",
+     "size": 73510912
+    }
+   ]
+  }
+ ]
+}

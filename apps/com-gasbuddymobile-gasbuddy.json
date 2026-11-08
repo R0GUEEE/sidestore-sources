@@ -1,0 +1,30 @@
+{
+ "name": "GasBuddy",
+ "identifier": "dev.perapp.com-gasbuddymobile-gasbuddy",
+ "subtitle": "Full app description here. App that helps you find gas stations near you with the cheapest prices, including some cash-b",
+ "description": "Single-app source for GasBuddy (com.gasbuddymobile.gasbuddy). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gasbuddymobile.gasbuddy.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gasbuddymobile.gasbuddy",
+   "name": "GasBuddy",
+   "developerName": "AppDB",
+   "subtitle": "Full app description here. App that helps you find gas stations near you with the cheapest prices, including some cash-back deals, etc, modded to bloc",
+   "localizedDescription": "Full app description here. App that helps you find gas stations near you with the cheapest prices, including some cash-back deals, etc, modded to bloc",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.gasbuddymobile.gasbuddy.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "700.75.22775",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Full app description here. App that helps you find gas stations near you with the cheapest prices, including some cash-back deals, etc, modded to bloc",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-11-2023/GasBuddy-700.75.22775.ipa",
+     "size": 49671837
+    }
+   ]
+  }
+ ]
+}

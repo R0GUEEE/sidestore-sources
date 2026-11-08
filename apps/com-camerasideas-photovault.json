@@ -1,0 +1,30 @@
+{
+ "name": "PV",
+ "identifier": "dev.perapp.com-camerasideas-photovault",
+ "subtitle": "ipaomtk.com | PV Secret Photo Album IPA Do you ever worry that someone might stumble upon and view your most private pho",
+ "description": "Single-app source for PV (com.camerasideas.photovault). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/PV-Secret-Photo-Album-IPA-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.camerasideas.photovault",
+   "name": "PV",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | PV Secret Photo Album IPA Do you ever worry that someone might stumble upon and view your most private photos? With PV Secret Photo Albu",
+   "localizedDescription": "ipaomtk.com | PV Secret Photo Album IPA Do you ever worry that someone might stumble upon and view your most private photos? With PV Secret Photo Albu",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/PV-Secret-Photo-Album-IPA-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.25",
+     "date": "2023-12-06T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | PV Secret Photo Album IPA Do you ever worry that someone might stumble upon and view your most private photos? With PV Secret Photo Albu",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PV-Secret-Photo-Album.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

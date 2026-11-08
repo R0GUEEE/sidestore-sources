@@ -1,0 +1,37 @@
+{
+ "name": "Gbox - ashtemobile",
+ "identifier": "dev.perapp.com-nes-gboxx",
+ "subtitle": "ipaomtk.com | Introduction Gbox has become a popular solution for iOS users who want more flexibility when installing ap",
+ "description": "Single-app source for Gbox - ashtemobile (com.nes.gboxx). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/11/GBOX-IPAOMTK.COM_-150x150.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nes.gboxx",
+   "name": "Gbox - ashtemobile",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Gbox has become a popular solution for iOS users who want more flexibility when installing applications on their devices. A",
+   "localizedDescription": "ipaomtk.com | Introduction Gbox has become a popular solution for iOS users who want more flexibility when installing applications on their devices. A",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/11/GBOX-IPAOMTK.COM_-150x150.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.8",
+     "date": "2025-11-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Gbox has become a popular solution for iOS users who want more flexibility when installing applications on their devices. A",
+     "downloadURL": "https://file.ipaomtk.com/Gbox/Gbox.ipa",
+     "size": 0
+    },
+    {
+     "version": "5.7",
+     "date": "2025-11-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Gbox has become a popular solution for iOS users who want more flexibility when installing applications on their devices. A",
+     "downloadURL": "https://file.ipaomtk.com/Gbox/Gbox.ipa",
+     "size": 6744946
+    }
+   ]
+  }
+ ]
+}

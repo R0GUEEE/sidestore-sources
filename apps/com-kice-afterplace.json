@@ -1,0 +1,30 @@
+{
+ "name": "Afterplace",
+ "identifier": "dev.perapp.com-kice-afterplace",
+ "subtitle": "ipaomtk.com | Afterplace IPA is the latest in image processing technology designed for photographers. Whether a professi",
+ "description": "Single-app source for Afterplace (com.kice.afterplace). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-afterplace-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kice.afterplace",
+   "name": "Afterplace",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Afterplace IPA is the latest in image processing technology designed for photographers. Whether a professional or amateur, the Afterplac",
+   "localizedDescription": "ipaomtk.com | Afterplace IPA is the latest in image processing technology designed for photographers. Whether a professional or amateur, the Afterplac",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-afterplace-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.13",
+     "date": "2023-11-18T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Afterplace IPA is the latest in image processing technology designed for photographers. Whether a professional or amateur, the Afterplac",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Afterplace.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

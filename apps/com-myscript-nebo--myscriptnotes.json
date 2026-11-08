@@ -1,0 +1,44 @@
+{
+ "name": "MyScriptNotes",
+ "identifier": "dev.perapp.com-myscript-nebo",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for MyScriptNotes (com.myscript.nebo). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.myscript.nebo",
+   "name": "MyScriptNotes",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myscript.nebo.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.0.4",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/29-09-2025/MyScriptNotes_7.0.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 169984335
+    },
+    {
+     "version": "6.8.4",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Nebo_6.8.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 148749342
+    },
+    {
+     "version": "7.0.5",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/15-10-2025/MyScriptNotes_7.0.5_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 117124723
+    }
+   ]
+  }
+ ]
+}

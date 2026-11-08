@@ -1,0 +1,30 @@
+{
+ "name": "Purple Place",
+ "identifier": "dev.perapp.com-appmaster-cakemaker",
+ "subtitle": "ipaomtk.com | The Purple Place IPA is an enormously powerful application specially designed and developed for the iOS op",
+ "description": "Single-app source for Purple Place (com.appmaster.cakemaker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-purple-place-full-game-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.appmaster.cakemaker",
+   "name": "Purple Place",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | The Purple Place IPA is an enormously powerful application specially designed and developed for the iOS operating system to help users u",
+   "localizedDescription": "ipaomtk.com | The Purple Place IPA is an enormously powerful application specially designed and developed for the iOS operating system to help users u",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/download-purple-place-full-game-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.0.1",
+     "date": "2023-12-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | The Purple Place IPA is an enormously powerful application specially designed and developed for the iOS operating system to help users u",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Purple-Place.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

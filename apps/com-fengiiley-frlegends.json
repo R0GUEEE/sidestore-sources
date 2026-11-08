@@ -1,0 +1,37 @@
+{
+ "name": "FR Legends",
+ "identifier": "dev.perapp.com-fengiiley-frlegends",
+ "subtitle": "ipaomtk.com | Introduction FR Legends IPA is one of the most popular racing games available for iOS users, designed spec",
+ "description": "Single-app source for FR Legends (com.fengiiley.frlegends). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/fr-legends-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fengiiley.frlegends",
+   "name": "FR Legends",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction FR Legends IPA is one of the most popular racing games available for iOS users, designed specifically for fans of drifting ",
+   "localizedDescription": "ipaomtk.com | Introduction FR Legends IPA is one of the most popular racing games available for iOS users, designed specifically for fans of drifting ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/06/fr-legends-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.7",
+     "date": "2023-06-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction FR Legends IPA is one of the most popular racing games available for iOS users, designed specifically for fans of drifting ",
+     "downloadURL": "https://file.ipaomtk.com/fr-legends/FR-Legends-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "0.4.9",
+     "date": "2023-06-16T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Introduction FR Legends IPA is one of the most popular racing games available for iOS users, designed specifically for fans of drifting ",
+     "downloadURL": "https://file.ipaomtk.com/fr-legends/FR-Legends-IPAOMTK.COM.ipa",
+     "size": 148882252
+    }
+   ]
+  }
+ ]
+}

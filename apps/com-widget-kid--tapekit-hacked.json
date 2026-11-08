@@ -1,0 +1,37 @@
+{
+ "name": "TapeKit (Hacked)",
+ "identifier": "dev.perapp.com-widget-kid",
+ "subtitle": "TapeKit (Hacked) by sidelix",
+ "description": "Single-app source for TapeKit (Hacked) (com.widget-kid). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a9945488ed70.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.widget-kid",
+   "name": "TapeKit (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Premium Unlocked",
+   "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a9945488ed70.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.6.1",
+     "date": "2026-09-17T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2395",
+     "size": 149157062
+    },
+    {
+     "version": "3.5.0",
+     "date": "2026-09-03T00:00:00Z",
+     "localizedDescription": "Premium Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2395",
+     "size": 144741165
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "AdGuardHomeRemote",
+ "identifier": "dev.perapp.adguardhome-remote-app",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for AdGuardHomeRemote (adguardhome.remote.app). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/46/23/15462327-e6af-78ce-3be9-feb5060ca5b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "adguardhome.remote.app",
+   "name": "AdGuardHomeRemote",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Mở khóa Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/46/23/15462327-e6af-78ce-3be9-feb5060ca5b5/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "7.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Mở khóa Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/AdGuardHomeRemote_7.3_TTJB.ipa",
+     "size": 32233355
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "AutoCAD",
+ "identifier": "dev.perapp.com-autodesk-autocadws",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for AutoCAD (com.autodesk.autocadws). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.autodesk.autocadws.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.autodesk.autocadws",
+   "name": "AutoCAD",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.autodesk.autocadws.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.19.0",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/11-09-2025/AutoCAD_6.19.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 208061574
+    },
+    {
+     "version": "6.20.0",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/31-10-2025/AutoCAD_6.20.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 202660245
+    },
+    {
+     "version": "6.22.0",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-03-2026/AutoCAD_6.22.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 192009571
+    }
+   ]
+  }
+ ]
+}

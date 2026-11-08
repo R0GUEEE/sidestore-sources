@@ -1,0 +1,44 @@
+{
+ "name": "INTVL",
+ "identifier": "dev.perapp.com-intvl-app",
+ "subtitle": "INTVL",
+ "description": "Single-app source for INTVL (com.intvl.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intvl.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.intvl.app",
+   "name": "INTVL",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Mods",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.intvl.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.9",
+     "date": "2026-09-28T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2168",
+     "size": 89400783
+    },
+    {
+     "version": "4.0.6",
+     "date": "2026-08-20T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2168",
+     "size": 102456322
+    },
+    {
+     "version": "4.0.5",
+     "date": "2026-08-18T00:00:00Z",
+     "localizedDescription": "Features:\r\n- subscription unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2168",
+     "size": 101276507
+    }
+   ]
+  }
+ ]
+}

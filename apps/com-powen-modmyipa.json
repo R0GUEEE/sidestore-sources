@@ -1,0 +1,37 @@
+{
+ "name": "ModMyIPA_TS",
+ "identifier": "dev.perapp.com-powen-modmyipa",
+ "subtitle": "Clone Apps with TrollStore",
+ "description": "Single-app source for ModMyIPA_TS (com.powen.ModMyIPA). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/ModMyIPA_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.powen.ModMyIPA",
+   "name": "ModMyIPA_TS",
+   "developerName": "ModMyIPA_TS x CyPwn",
+   "subtitle": "Clone Apps with TrollStore",
+   "localizedDescription": "Clone Apps with TrollStore",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/ModMyIPA_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Clone Apps with TrollStore",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/ModMyIPA_TS.ipa",
+     "size": 2443182
+    },
+    {
+     "version": "1.0",
+     "date": "2023-05-16T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Have you ever wished that you could have multiple instances of the same app installed on your iOS device? Maybe you want to have two dif",
+     "downloadURL": "https://file.ipaomtk.com/ipa/ModMyIPA.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

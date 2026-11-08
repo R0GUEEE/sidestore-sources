@@ -1,0 +1,30 @@
+{
+ "name": "Funky Restaurant",
+ "identifier": "dev.perapp.com-dmg-foodthrow",
+ "subtitle": "ipaomtk.com | Funky Restaurant IPA where dining is an experience like no other. Step into a world of vibrant colors, uni",
+ "description": "Single-app source for Funky Restaurant (com.dmg.foodthrow). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Funky-Restaurant-ipa-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dmg.foodthrow",
+   "name": "Funky Restaurant",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Funky Restaurant IPA where dining is an experience like no other. Step into a world of vibrant colors, unique flavors, and a lively atmo",
+   "localizedDescription": "ipaomtk.com | Funky Restaurant IPA where dining is an experience like no other. Step into a world of vibrant colors, unique flavors, and a lively atmo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/04/Funky-Restaurant-ipa-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.4",
+     "date": "2024-04-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Funky Restaurant IPA where dining is an experience like no other. Step into a world of vibrant colors, unique flavors, and a lively atmo",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Funky-Restaurant.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

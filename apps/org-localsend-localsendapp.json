@@ -1,0 +1,30 @@
+{
+ "name": "LocalSend",
+ "identifier": "dev.perapp.org-localsend-localsendapp",
+ "subtitle": "LocalSend - Cross-Platform File Sharing",
+ "description": "Single-app source for LocalSend (org.localsend.localsendApp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "008080",
+ "iconURL": "https://cdn.omnidev.org/localsend-TR.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.localsend.localsendApp",
+   "name": "LocalSend",
+   "developerName": "Tien Do Nam",
+   "subtitle": "LocalSend - Cross-Platform File Sharing",
+   "localizedDescription": "Send files to nearby devices (cross-platform). \nThis app is free and open source. \nNo external servers are needed. \nEverything happens locally in the wifi network.\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/localsend-TR.png",
+   "tintColor": "008080",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.15.4",
+     "date": "2024-10-30T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/org_localsend_localsend_App_1_15_4-gZ.ipa",
+     "size": 16416768
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "CineMate",
+ "identifier": "dev.perapp.com-cinemtt-apt",
+ "subtitle": "Tweaks: ziniteviplus, DanPixelmsg",
+ "description": "Single-app source for CineMate (com.cinemtt.apt). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.cinemtt.apt.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cinemtt.apt",
+   "name": "CineMate",
+   "developerName": "DPixel",
+   "subtitle": "Tweaks: ziniteviplus, DanPixelmsg",
+   "localizedDescription": "Tweaks: ziniteviplus, DanPixelmsg\n\nYet another remake of HDO Play, with ads removed. Full app description here\nLast updated: 02-24-2023\nStatus: ❌\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.cinemtt.apt.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Tweaks: ziniteviplus, DanPixelmsg\n\nYet another remake of HDO Play, with ads removed. Full app description here Last updated: 02-24-2023 Status: ❌",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-24-2023/CineMate-1.1.ipa",
+     "size": 10848574
+    }
+   ]
+  }
+ ]
+}

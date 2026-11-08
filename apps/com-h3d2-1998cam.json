@@ -1,0 +1,37 @@
+{
+ "name": "1998 Cam",
+ "identifier": "dev.perapp.com-h3d2-1998cam",
+ "subtitle": "ipaomtk.com | the 1998 Cam Vintage Camera IPA offers a unique and nostalgic experience for iOS users. This app transport",
+ "description": "Single-app source for 1998 Cam (com.h3d2.1998cam). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/1998-Cam-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.h3d2.1998cam",
+   "name": "1998 Cam",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | the 1998 Cam Vintage Camera IPA offers a unique and nostalgic experience for iOS users. This app transports you to the era when film rei",
+   "localizedDescription": "ipaomtk.com | the 1998 Cam Vintage Camera IPA offers a unique and nostalgic experience for iOS users. This app transports you to the era when film rei",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/1998-Cam-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.1",
+     "date": "2023-03-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | the 1998 Cam Vintage Camera IPA offers a unique and nostalgic experience for iOS users. This app transports you to the era when film rei",
+     "downloadURL": "https://file.ipaomtk.com/1998-cam/1998-Cam-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "2.4.5",
+     "date": "2023-03-17T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | the 1998 Cam Vintage Camera IPA offers a unique and nostalgic experience for iOS users. This app transports you to the era when film rei",
+     "downloadURL": "https://file.ipaomtk.com/1998-cam/1998-Cam-IPAOMTK.COM.ipa",
+     "size": 134235978
+    }
+   ]
+  }
+ ]
+}

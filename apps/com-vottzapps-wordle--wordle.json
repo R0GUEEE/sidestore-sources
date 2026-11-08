@@ -1,0 +1,30 @@
+{
+ "name": "Wordle",
+ "identifier": "dev.perapp.com-vottzapps-wordle",
+ "subtitle": "Wordle",
+ "description": "Single-app source for Wordle (com.vottzapps.wordle). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/0b/32/210b32bb-d3d9-9c54-7bab-9b83ca303d55/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vottzapps.wordle",
+   "name": "Wordle",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @riftysIPAlibrary |",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/0b/32/210b32bb-d3d9-9c54-7bab-9b83ca303d55/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @riftysIPAlibrary |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/1b951823-b72e-46cb-806e-a5176b2b5788/Wordle_v2.0.1-riftysipas.ipa",
+     "size": 82754933
+    }
+   ]
+  }
+ ]
+}

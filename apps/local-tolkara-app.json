@@ -1,0 +1,39 @@
+{
+ "name": "Tolkara",
+ "identifier": "dev.perapp.local-tolkara-app",
+ "subtitle": "Tolkara runs unmodified arm64 macOS applications on an iPad, with",
+ "description": "Single-app source for Tolkara (local.tolkara.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#4d6fbe",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/local.tolkara.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "local.tolkara.app",
+   "name": "Tolkara",
+   "developerName": "tolkara",
+   "subtitle": "Tolkara runs unmodified arm64 macOS applications on an iPad, with",
+   "localizedDescription": "Tolkara:\n\nTolkara runs unmodified arm64 macOS applications on an iPad, with experimental iPhone support. It loads the original executable as data, executes its instructions natively on the device's Apple silicon, and translates the macOS API calls it makes (AppKit, Metal, CoreAudio, Carbon, Security, …) into their iOS/iPadOS equivalents.\n\nIt follows the model of Wine and Valve's Proton: the program is not ported or patched, and its executable is never modified or re-signed. Only the operating-system calls underneath it are translated. The application's own code, logic, assets and network protocol are left exactly as the vendor shipped them.\n\nTolkara is a do-it-yourself developer project. You build it yourself.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/local.tolkara.app.png",
+   "tintColor": "#4d6fbe",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.2.1",
+     "date": "2026-10-11T18:13:36Z",
+     "localizedDescription": "Tolkara 0.2.1: WoW water on the iPad, older iPhones, easier setup.\n\nWorld of Warcraft Forever's water no longer renders black on the iPad. The iPad hides its GPU from the I/O Registry, so the game took it for an AMD GPU; Tolkara now describes the GPU as a Mac with Apple silicon does (--native-gpu-identity restores the old answers). New opt-in diagnostics: --trace-metal and --trace-iokit.\n\nGPUs without BC texture sampling (A16 and older iPhones) now run games that use BC1-BC7 textures: Tolkara decodes them on the CPU and stores them uncompressed. WoW Classic runs on an iPhone 15 Plus this way.\n\nTolkara Management finds your team when Xcode is signed in but has never signed anything, asks for the Team ID when Xcode has not saved it, and has you start WoW once on the Mac before copying it, so the copy has the region the game saves on its first start. Steam Cloud now unpacks zipped downloads from Steam's own client.\n\nCommits since v0.2.0:\n\n• 920b4da IOKit: a stand-in GPU entry where the iPad's sandbox shows no accelerator.\n• f54662e Metal, IOKit: GPU identified as on a Mac with Apple silicon; creation and registry traces.\n• 9b11dd9 Metal: build the BC fallback for the simulator too.\n• 691026c Metal: store BC textures uncompressed on GPUs without BC sampling.\n• 50611a6 Metal: CPU decoders for BC1-BC7 texture blocks.\n• 4a8a677 Tolkara Management: find the team when Xcode is signed in but never signed anything.\n• 754bc1b Tolkara Management: start WoW once on the Mac before it is copied.\n• 705b134 Profiles: WoW copies need the region the game saves on its first Mac start.\n• 454e073 Tolkara Management: ask for the Team ID when Xcode has not saved the team.",
+     "downloadURL": "https://github.com/tolkara/tolkara/releases/download/v0.2.1/Tolkara-unsigned.ipa",
+     "size": 6905803
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.developer.kernel.extended-virtual-addressing",
+     "com.apple.developer.kernel.increased-memory-limit"
+    ],
+    "privacy": {
+     "NSMicrophoneUsageDescription": "Allow the app you run in Tolkara to use the microphone, for example for in-game voice chat."
+    }
+   }
+  }
+ ]
+}

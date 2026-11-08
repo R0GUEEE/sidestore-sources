@@ -1,0 +1,30 @@
+{
+ "name": "SixPack Premium",
+ "identifier": "dev.perapp.com-unknown-sixpackpremium",
+ "subtitle": "لەڕێ ئەم بەرنامەوە لە کەمترین مودە خۆت زەعیڤ بکە بەبێ ئەوەی بچیتە هۆڵئ وەرزشی",
+ "description": "Single-app source for SixPack Premium (com.unknown.sixpackpremium). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/SixPack.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.sixpackpremium",
+   "name": "SixPack Premium",
+   "developerName": "Karbin-Store",
+   "subtitle": "لەڕێ ئەم بەرنامەوە لە کەمترین مودە خۆت زەعیڤ بکە بەبێ ئەوەی بچیتە هۆڵئ وەرزشی",
+   "localizedDescription": "لەڕێ ئەم بەرنامەوە لە کەمترین مودە خۆت زەعیڤ بکە بەبێ ئەوەی بچیتە هۆڵئ وەرزشی",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/SixPack.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.22.0",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "لەڕێ ئەم بەرنامەوە لە کەمترین مودە خۆت زەعیڤ بکە بەبێ ئەوەی بچیتە هۆڵئ وەرزشی",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/SixPack.-.v1.22.0.ipa",
+     "size": 258120000
+    }
+   ]
+  }
+ ]
+}

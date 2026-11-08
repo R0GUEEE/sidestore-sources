@@ -1,0 +1,30 @@
+{
+ "name": "HappyScale",
+ "identifier": "dev.perapp.com-frontpocketsoftware-happyscale",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for HappyScale (com.frontpocketsoftware.happyscale). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.frontpocketsoftware.happyscale",
+   "name": "HappyScale",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.8.1",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/HappyScale_2026.8.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 42630432
+    }
+   ]
+  }
+ ]
+}

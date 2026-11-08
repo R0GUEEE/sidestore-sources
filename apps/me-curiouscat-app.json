@@ -1,0 +1,30 @@
+{
+ "name": "CuriousCat",
+ "identifier": "dev.perapp.me-curiouscat-app",
+ "subtitle": "ipaomtk.com | CuriousCat is a relatively new online platform designed for anonymous communication. Its approach to commu",
+ "description": "Single-app source for CuriousCat (me.curiouscat.app). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/curiouscat-anonymous-qampampa-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.curiouscat.app",
+   "name": "CuriousCat",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | CuriousCat is a relatively new online platform designed for anonymous communication. Its approach to communication revolves around the c",
+   "localizedDescription": "ipaomtk.com | CuriousCat is a relatively new online platform designed for anonymous communication. Its approach to communication revolves around the c",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/curiouscat-anonymous-qampampa-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.3",
+     "date": "2023-05-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | CuriousCat is a relatively new online platform designed for anonymous communication. Its approach to communication revolves around the c",
+     "downloadURL": "https://file.ipaomtk.com/ipa/CuriousCat.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

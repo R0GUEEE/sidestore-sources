@@ -1,0 +1,37 @@
+{
+ "name": "eFootball™",
+ "identifier": "dev.perapp.com-ipaomtk-efootball-159785",
+ "subtitle": "ipaomtk.com | What is eFootball™ IPA? eFootball™ IPA is the iOS installable version of a football simulation game develo",
+ "description": "Single-app source for eFootball™ (com.ipaomtk.efootball.159785). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/eFootball%E2%84%A2-IPA-v10.4.1-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.efootball.159785",
+   "name": "eFootball™",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is eFootball™ IPA? eFootball™ IPA is the iOS installable version of a football simulation game developed by Konami, designed to del",
+   "localizedDescription": "ipaomtk.com | What is eFootball™ IPA? eFootball™ IPA is the iOS installable version of a football simulation game developed by Konami, designed to del",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/eFootball%E2%84%A2-IPA-v10.4.1-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is eFootball™ IPA? eFootball™ IPA is the iOS installable version of a football simulation game developed by Konami, designed to del",
+     "downloadURL": "https://file.ipaomtk.com/efootball/eFootball-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "11.1.1",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is eFootball™ IPA? eFootball™ IPA is the iOS installable version of a football simulation game developed by Konami, designed to del",
+     "downloadURL": "https://file.ipaomtk.com/efootball/eFootball-IPAOMTK.COM.ipa",
+     "size": 2147483647
+    }
+   ]
+  }
+ ]
+}

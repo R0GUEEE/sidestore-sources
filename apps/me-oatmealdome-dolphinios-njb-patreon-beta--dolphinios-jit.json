@@ -1,0 +1,44 @@
+{
+ "name": "DolphiniOS JIT",
+ "identifier": "dev.perapp.me-oatmealdome-dolphinios-njb-patreon-beta",
+ "subtitle": "use this if you want to play wii sports",
+ "description": "Single-app source for DolphiniOS JIT (me.oatmealdome.DolphiniOS-njb-patreon-beta). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.oatmealdome.DolphiniOS-njb-patreon-beta",
+   "name": "DolphiniOS JIT",
+   "developerName": "OatmealDome",
+   "subtitle": "use this if you want to play wii sports",
+   "localizedDescription": "DolphiniOS is a GameCube/Wii emulator (this version requires JIT).\n\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/community_Icon_jqq2ogu91q851-V4.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.0b4",
+     "date": "2025-10-23T02:30:00.0000000Z",
+     "localizedDescription": "Beta 4 attempts to fix crashes when using JIT on devices with an A12, A13, A14, or M1 chip running iOS 26.\n\nBeta 3 adds support for emulating Skylander Portal of Power, fixes JIT on some devices running iOS 17 and 18, and fixes random errors with JIT on iOS 26.\n\nBeta 1 adds support for JIT on iOS 26 using StikDebug.",
+     "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b4/Non-Jailbroken.ipa",
+     "size": 17958943
+    },
+    {
+     "version": "5.0.0b3",
+     "date": "2025-10-18T00:00:00.0000000Z",
+     "localizedDescription": "Adds support for emulating Skylander Portal of Power, and fixes JIT on some devices running iOS 17 and 18.",
+     "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b3/Non-Jailbroken.ipa",
+     "size": 17958943
+    },
+    {
+     "version": "5.0.0b2",
+     "date": "2025-10-13T00:00:00.0000000Z",
+     "localizedDescription": "Adds support for JIT on iOS 26 using StikDebug.",
+     "downloadURL": "https://github.com/OatmealDome/dolphin-ios/releases/download/v5.0.0b2/Non-Jailbroken.ipa",
+     "size": 17958943
+    }
+   ]
+  }
+ ]
+}

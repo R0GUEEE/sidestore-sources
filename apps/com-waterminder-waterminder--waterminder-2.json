@@ -1,0 +1,30 @@
+{
+ "name": "Waterminder",
+ "identifier": "dev.perapp.com-waterminder-waterminder",
+ "subtitle": "Waterminder",
+ "description": "Single-app source for Waterminder (com.waterminder.waterminder). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.waterminder.waterminder",
+   "name": "Waterminder",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.waterminder.waterminder.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.8.6",
+     "date": "2025-02-07T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Waterminder_6.8.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 213866603
+    }
+   ]
+  }
+ ]
+}

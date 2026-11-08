@@ -1,0 +1,30 @@
+{
+ "name": "Ultra Player",
+ "identifier": "dev.perapp.com-unknown-ultraplayer",
+ "subtitle": "بەرنامەیەک بۆ پەخشکردنی ڤیدیۆ و لیستەکانی M3U    ڕیکلامەکان بەتەواویی سڕاوەنەتۆ ✅  بەرنامەکە لە ئەپستۆر سڕاوەتۆ ✅",
+ "description": "Single-app source for Ultra Player (com.unknown.ultraplayer). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Ultra.Player.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.ultraplayer",
+   "name": "Ultra Player",
+   "developerName": "Karbin-Store",
+   "subtitle": "بەرنامەیەک بۆ پەخشکردنی ڤیدیۆ و لیستەکانی M3U    ڕیکلامەکان بەتەواویی سڕاوەنەتۆ ✅  بەرنامەکە لە ئەپستۆر سڕاوەتۆ ✅",
+   "localizedDescription": "بەرنامەیەک بۆ پەخشکردنی ڤیدیۆ و لیستەکانی M3U    ڕیکلامەکان بەتەواویی سڕاوەنەتۆ ✅  بەرنامەکە لە ئەپستۆر سڕاوەتۆ ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-2/Ultra.Player.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-05-16T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک بۆ پەخشکردنی ڤیدیۆ و لیستەکانی M3U    ڕیکلامەکان بەتەواویی سڕاوەنەتۆ ✅  بەرنامەکە لە ئەپستۆر سڕاوەتۆ ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-ipa-2/Ultra.Player._1.7.0_1737134493.ipa",
+     "size": 34780000
+    }
+   ]
+  }
+ ]
+}

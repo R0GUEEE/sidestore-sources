@@ -1,0 +1,30 @@
+{
+ "name": "MileIQ",
+ "identifier": "dev.perapp.com-mobiledatalabs-goiq",
+ "subtitle": "ipaomtk.com | MileIQ IPA, an innovative mileage tracking app designed to simplify the often-dreaded task of recording tr",
+ "description": "Single-app source for MileIQ (com.mobiledatalabs.goiq). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/MileIQ-Mileage-Tracker-038-Log-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mobiledatalabs.goiq",
+   "name": "MileIQ",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MileIQ IPA, an innovative mileage tracking app designed to simplify the often-dreaded task of recording travel expenses. Seamlessly inte",
+   "localizedDescription": "ipaomtk.com | MileIQ IPA, an innovative mileage tracking app designed to simplify the often-dreaded task of recording travel expenses. Seamlessly inte",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/04/MileIQ-Mileage-Tracker-038-Log-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.0",
+     "date": "2025-04-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MileIQ IPA, an innovative mileage tracking app designed to simplify the often-dreaded task of recording travel expenses. Seamlessly inte",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MileIQ-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

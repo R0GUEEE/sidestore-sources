@@ -1,0 +1,30 @@
+{
+ "name": "Snake.io",
+ "identifier": "dev.perapp.com-amelosinteractive-snake",
+ "subtitle": "ipaomtk.com | Snake.io IPA Have you ever played the classic game of Snake? We all remember how entertaining it was to ma",
+ "description": "Single-app source for Snake.io (com.amelosinteractive.snake). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Snake-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.amelosinteractive.snake",
+   "name": "Snake.io",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Snake.io IPA Have you ever played the classic game of Snake? We all remember how entertaining it was to maneuver the snake around and co",
+   "localizedDescription": "ipaomtk.com | Snake.io IPA Have you ever played the classic game of Snake? We all remember how entertaining it was to maneuver the snake around and co",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Snake-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.21.0",
+     "date": "2023-03-13T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Snake.io IPA Have you ever played the classic game of Snake? We all remember how entertaining it was to maneuver the snake around and co",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Snake-io.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "LCSign",
+ "identifier": "dev.perapp.com-huami-loadcontroller",
+ "subtitle": "LCSign by sidelix",
+ "description": "Single-app source for LCSign (com.huami.LoadController). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1781280155.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.huami.LoadController",
+   "name": "LCSign",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "An on-device iOS app packager & signer. Certificates, plugins, resources and installation in one place — every step runs on your device.\r\n\r\nA single shade of celadon. Quiet as paper.",
+   "iconURL": "https://appstore.sidelix.vip/images/1781280155.webp",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.4",
+     "date": "2026-07-07T00:00:00Z",
+     "localizedDescription": "An on-device iOS app packager & signer. Certificates, plugins, resources and installation in one place — every step runs on your device.\r\n\r\nA single shade of celadon. Quiet as paper.",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2040",
+     "size": 19553682
+    }
+   ]
+  }
+ ]
+}

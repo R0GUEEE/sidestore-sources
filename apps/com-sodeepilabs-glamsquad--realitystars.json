@@ -1,0 +1,30 @@
+{
+ "name": "RealityStars",
+ "identifier": "dev.perapp.com-sodeepilabs-glamsquad",
+ "subtitle": "RealityStars by Holloway",
+ "description": "Single-app source for RealityStars (com.sodeepilabs.glamsquad). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://i.imgur.com/KSSr4ML.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sodeepilabs.glamsquad",
+   "name": "RealityStars",
+   "developerName": "Holloway",
+   "subtitle": "",
+   "localizedDescription": "Injected with UnlimitedCurrencies",
+   "iconURL": "https://i.imgur.com/KSSr4ML.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.20",
+     "date": "2025-10-25T00:00:00Z",
+     "localizedDescription": "Injected with UnlimitedCurrencies",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1583",
+     "size": 161542265
+    }
+   ]
+  }
+ ]
+}

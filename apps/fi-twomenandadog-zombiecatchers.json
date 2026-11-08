@@ -1,0 +1,30 @@
+{
+ "name": "ZombieCatchers",
+ "identifier": "dev.perapp.fi-twomenandadog-zombiecatchers",
+ "subtitle": "Tweaks: iGameGod",
+ "description": "Single-app source for ZombieCatchers (fi.twomenandadog.zombiecatchers). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "fi.twomenandadog.zombiecatchers",
+   "name": "ZombieCatchers",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: iGameGod",
+   "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fi.twomenandadog.zombiecatchers.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.59.31",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nChức năng đã thêm: IGG - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/ZombieCatchers_1.59.31_IGG_@thisismanpreets_apptesters.org.ipa",
+     "size": 109903803
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Score Masters",
+ "identifier": "dev.perapp.com-bh-hypergoal",
+ "subtitle": "ipaomtk.com | Score Masters IPA (Auto ADS Disable – Gems [ Mission Rewards ] – Coins [ Mission Rewards ] – Player Score ",
+ "description": "Single-app source for Score Masters (com.bh.hypergoal). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/Score-Masters-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bh.hypergoal",
+   "name": "Score Masters",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Score Masters IPA (Auto ADS Disable – Gems [ Mission Rewards ] – Coins [ Mission Rewards ] – Player Score 20 Max – Always Win Player – A",
+   "localizedDescription": "ipaomtk.com | Score Masters IPA (Auto ADS Disable – Gems [ Mission Rewards ] – Coins [ Mission Rewards ] – Player Score 20 Max – Always Win Player – A",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/02/Score-Masters-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.4",
+     "date": "2025-02-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Score Masters IPA (Auto ADS Disable – Gems [ Mission Rewards ] – Coins [ Mission Rewards ] – Player Score 20 Max – Always Win Player – A",
+     "downloadURL": "https://file.ipaomtk.com/score-masters/Score-Masters-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

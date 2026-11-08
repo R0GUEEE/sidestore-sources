@@ -1,0 +1,30 @@
+{
+ "name": "NetflixChecker",
+ "identifier": "dev.perapp.com-julioverne-netflixchecker",
+ "subtitle": "App that checks a username-password combination, or list of them, against Netflix's servers Last updated: 11-10-2022 Sta",
+ "description": "Single-app source for NetflixChecker (com.julioverne.netflixchecker). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.julioverne.netflixchecker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.julioverne.netflixchecker",
+   "name": "NetflixChecker",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "App that checks a username-password combination, or list of them, against Netflix's servers Last updated: 11-10-2022 Status: ✅",
+   "localizedDescription": "App that checks a username-password combination, or list of them, against Netflix's servers\nLast updated: 11-10-2022\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.julioverne.netflixchecker.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "App that checks a username-password combination, or list of them, against Netflix's servers Last updated: 11-10-2022 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-09-2022/NetflixChecker.ipa",
+     "size": 60283
+    }
+   ]
+  }
+ ]
+}

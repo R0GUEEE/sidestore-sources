@@ -1,0 +1,32 @@
+{
+ "name": "AppsDump3_4.0.9",
+ "identifier": "dev.perapp.cn-gblw-appsdump",
+ "subtitle": "AppsDump3_4.0.9 by AppsDump3_4.0.9 x CyPwn",
+ "description": "Single-app source for AppsDump3_4.0.9 (cn.gblw.AppsDump). Converted from cypwn-trollstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppsDump3_4.0.9.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cn.gblw.AppsDump",
+   "name": "AppsDump3_4.0.9",
+   "developerName": "AppsDump3_4.0.9 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "AppsDump3_4.0.9",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppsDump3_4.0.9.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/AppsDump3_4.0.9/AppsDump3_4.0.9-0.png"
+   ],
+   "versions": [
+    {
+     "version": "4.0.9",
+     "date": "2025-05-09T00:00:00Z",
+     "localizedDescription": "AppsDump3_4.0.9",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/AppsDump3_4.0.9.ipa",
+     "size": 4571791
+    }
+   ]
+  }
+ ]
+}

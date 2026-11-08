@@ -1,0 +1,30 @@
+{
+ "name": "Eventium",
+ "identifier": "dev.perapp.com-johnhair-mycal2",
+ "subtitle": "ipaomtk.com | Eventium IPA (Paid) iOS is a versatile calendar application available for iOS devices, offering a revoluti",
+ "description": "Single-app source for Eventium (com.johnhair.mycal2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Eventium.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.johnhair.mycal2",
+   "name": "Eventium",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Eventium IPA (Paid) iOS is a versatile calendar application available for iOS devices, offering a revolutionary approach to event manage",
+   "localizedDescription": "ipaomtk.com | Eventium IPA (Paid) iOS is a versatile calendar application available for iOS devices, offering a revolutionary approach to event manage",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/Eventium.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.3.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Eventium IPA (Paid) iOS is a versatile calendar application available for iOS devices, offering a revolutionary approach to event manage",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Eventium-v4.3.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

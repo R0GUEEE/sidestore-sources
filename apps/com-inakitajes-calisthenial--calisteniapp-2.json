@@ -1,0 +1,44 @@
+{
+ "name": "Calisteniapp",
+ "identifier": "dev.perapp.com-inakitajes-calisthenial",
+ "subtitle": "Calisteniapp",
+ "description": "Single-app source for Calisteniapp (com.inakitajes.Calisthenial). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.inakitajes.Calisthenial",
+   "name": "Calisteniapp",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.inakitajes.Calisthenial.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.7.0",
+     "date": "2026-07-17T00:00:00Z",
+     "localizedDescription": "features:\r\n\r\n- in app purchase",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2027",
+     "size": 46875657
+    },
+    {
+     "version": "26.5.0",
+     "date": "2026-05-16T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-05-2026/Calisteniapp_26.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 40755708
+    },
+    {
+     "version": "26.4.0",
+     "date": "2026-04-18T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-04-2026/Calisteniapp_26.4.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 40219170
+    }
+   ]
+  }
+ ]
+}

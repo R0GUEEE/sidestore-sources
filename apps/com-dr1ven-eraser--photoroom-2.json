@@ -1,0 +1,44 @@
+{
+ "name": "Photoroom",
+ "identifier": "dev.perapp.com-dr1ven-eraser",
+ "subtitle": "Photoroom",
+ "description": "Single-app source for Photoroom (com.dr1ven.eraser). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.dr1ven.eraser",
+   "name": "Photoroom",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dr1ven.eraser.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2026.33.01",
+     "date": "2026-08-11T00:00:00Z",
+     "localizedDescription": "Photoroom is the ultimate AI-powered photo editing app, trusted by over 300 million users.\r\n\r\nCreate studio-quality product photos in seconds with Photoroom’s advanced AI photo editing technology. No design skills required.\r\n\r\n\r\nWHY CHOOSE PHOTOROOM?\r\n\r\nENHANCE PRODUCT LISTINGS. Showcase clothing on virtual models, ghost mannequins, and flat lay. No studio required.\r\n\r\nREMOVE, REPLACE, AND RECOLOR. Remove backgrounds, swap for AI-generated edits, and recolor products in seconds.\r\n\r\nSAVE TIME WITH BATCH EDITING. Edit your entire product catalog at once.\r\n\r\nCONNECT TO SHOPIFY. Create SEO-optimised listings and sync directly to Shopify.\r\n\r\nSELL ON EVERY MARKETPLACE. Export images sized for Shopify, Amazon, Etsy, Depop, Poshmark, Vinted, Instagram",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2230",
+     "size": 243951191
+    },
+    {
+     "version": "2026.28.01",
+     "date": "2026-07-07T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/Photoroom_2026.28.01_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 182084521
+    },
+    {
+     "version": "2026.26.01",
+     "date": "2026-06-22T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-06-2026/Photoroom_2026.26.01_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 183428299
+    }
+   ]
+  }
+ ]
+}

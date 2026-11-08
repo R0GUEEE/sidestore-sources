@@ -1,0 +1,44 @@
+{
+ "name": "NotePlan",
+ "identifier": "dev.perapp.co-noteplan-noteplan3",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for NotePlan (co.noteplan.NotePlan3). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.noteplan.NotePlan3",
+   "name": "NotePlan",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.22",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@blatants | NotePlan - To-Do List & Notes  • Bundle ID: co.noteplan.NotePlan3 • Updated to: 3.22 • Minimum iOS: 16.0 • Patched • Modifier: Subscriptio",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/13050-NotePlan_To_Do_List_&_Notes_v3_22_Subscription_Unlocked_blatant.ipa",
+     "size": 129952521
+    },
+    {
+     "version": "3.21.3",
+     "date": "2026-09-21T00:00:00Z",
+     "localizedDescription": "@blatants | NotePlan - To-Do List & Notes  • Bundle ID: co.noteplan.NotePlan3 • Updated to: 3.21.3 • Minimum iOS: 15.0 • Patched • Modifier: Subscript",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/NotePlan_3.21.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 134023883
+    },
+    {
+     "version": "3.21.2",
+     "date": "2026-08-12T00:00:00Z",
+     "localizedDescription": "@blatants | NotePlan - To-Do List & Notes  • Bundle ID: co.noteplan.NotePlan3 • Updated to: 3.21.2 • Minimum iOS: 14.0 • Patched • Modifier: Subscript",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11569-NotePlan_To_Do_List_&_Notes_v3_21_2_Subscription_Unlocked_blatant.ipa",
+     "size": 119957061
+    }
+   ]
+  }
+ ]
+}

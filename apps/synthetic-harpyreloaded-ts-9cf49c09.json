@@ -1,0 +1,30 @@
+{
+ "name": "HarpyReloaded_TS",
+ "identifier": "dev.perapp.synthetic-harpyreloaded-ts-9cf49c09",
+ "subtitle": "Application to manage your local network.",
+ "description": "Single-app source for HarpyReloaded_TS (synthetic.harpyreloaded-ts.9cf49c09). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/HarpyReloaded_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.harpyreloaded-ts.9cf49c09",
+   "name": "HarpyReloaded_TS",
+   "developerName": "HarpyReloaded_TS x CyPwn",
+   "subtitle": "Application to manage your local network.",
+   "localizedDescription": "Application to manage your local network.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/HarpyReloaded_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.1",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Application to manage your local network.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/HarpyReloaded_TS.ipa",
+     "size": 4854906
+    }
+   ]
+  }
+ ]
+}

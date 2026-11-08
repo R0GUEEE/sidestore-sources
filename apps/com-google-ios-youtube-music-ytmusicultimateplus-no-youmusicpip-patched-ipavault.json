@@ -1,0 +1,44 @@
+{
+ "name": "YTMusicUltimate+ (Patched - No YouMusicPiP - IPAVault)",
+ "identifier": "dev.perapp.com-google-ios-youtube-music-ytmusicultimateplus-no-youmusic",
+ "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABCon",
+ "description": "Single-app source for YTMusicUltimate+ (Patched - No YouMusicPiP - IPAVault) (com.google.ios.youtube.music.ytmusicultimateplus.no.youmusicpip.patched.ipavault). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.no.youmusicpip.patched.ipavault",
+   "name": "YTMusicUltimate+ (Patched - No YouMusicPiP - IPAVault)",
+   "developerName": "YouTube",
+   "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downlo",
+   "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downlo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.44.2",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and New Do",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.44.2%20No%20PIP%20%5B@ipavault%5D.ipa",
+     "size": 112591841
+    },
+    {
+     "version": "9.43.2",
+     "date": "2026-10-26T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and New Do",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.43.2%20No%20PIP%20%5B@ipavault%5D.ipa",
+     "size": 111946635
+    },
+    {
+     "version": "9.42.2",
+     "date": "2026-10-20T00:00:00Z",
+     "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downlo",
+     "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%209.42.2%20No%20PIP%20%5B@ipavault%5D.ipa",
+     "size": 108466665
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "HiLink Hub",
+ "identifier": "dev.perapp.com-hilalbeber-connection-hilinkhub",
+ "subtitle": "HiLink Hub",
+ "description": "Single-app source for HiLink Hub (com.hilalbeber.connection.hilinkhub). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.hilalbeber.connection.hilinkhub",
+   "name": "HiLink Hub",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nHiLink Hub v1.0\n\n🇷🇺 Жёлтый банк снова с вами \n— Приложение из TestFlight\n— Работает только через TrollStore\n© Создано: GLESign\n\n🇺🇸 The Yellow Bank is with you again\n— The app from TestFlight\n— Works only through the TrollStore\n© Created by: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nHiLink Hub v1.0\n\n🇷🇺 Жёлтый банк снова с вами \n— Приложение из TestFlight\n— Работает только через TrollStore\n© Создано: GLESign\n\n🇺🇸 The Yellow Bank is with you again\n— The app from TestFlight\n— Works only through the TrollStore\n© Created by: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/79e02fc7-ffe1-4a6e-abe5-a4605f015ff5/HiLink_Hub_v1.0_tg_glesign_.ipa",
+     "size": 188819851
+    }
+   ]
+  }
+ ]
+}

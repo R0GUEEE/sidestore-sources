@@ -1,0 +1,44 @@
+{
+ "name": "Lingora",
+ "identifier": "dev.perapp.com-stebtech-lingora",
+ "subtitle": "@riftysIPAlibrary | Lingora  Tweak: Subscription Unlocked  Version: 5.8.4  Patched ✓  @riftysIPAlibrary  Additional Info",
+ "description": "Single-app source for Lingora (com.stebtech.lingora). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8272.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stebtech.lingora",
+   "name": "Lingora",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Lingora  Tweak: Subscription Unlocked  Version: 5.8.4  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+   "localizedDescription": "@riftysIPAlibrary | Lingora  Tweak: Subscription Unlocked  Version: 5.8.4  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8272.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.9.4",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Lingora  Tweak: Subscription Unlocked  Version: 5.9.4  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8740-Lingora-v5.9.4-riftysipas.ipa",
+     "size": 57588392
+    },
+    {
+     "version": "5.9.3",
+     "date": "2026-10-24T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Lingora  Tweak: Subscription Unlocked  Version: 5.9.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8591-Lingora-v5.9.3-riftysipas.ipa",
+     "size": 54314387
+    },
+    {
+     "version": "5.9.2",
+     "date": "2026-10-19T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Lingora  Tweak: Subscription Unlocked  Version: 5.9.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 16",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8447-Lingora-v5.9.2-riftysipas.ipa",
+     "size": 54116758
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Bridge Constr+",
+ "identifier": "dev.perapp.com-headupgames-bridgeconstructor-arcade",
+ "subtitle": "@ipa_dark | 🔄 Bridge Constructor+ - appstore  🇷🇺 Головоломка, в которой нужно проектировать и строить мосты из различных",
+ "description": "Single-app source for Bridge Constr+ (com.headupgames.bridgeconstructor-arcade). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1633.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.headupgames.bridgeconstructor-arcade",
+   "name": "Bridge Constr+",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Bridge Constructor+ - appstore  🇷🇺 Головоломка, в которой нужно проектировать и строить мосты из различных материалов, проверять их на п",
+   "localizedDescription": "@ipa_dark | 🔄 Bridge Constructor+ - appstore  🇷🇺 Головоломка, в которой нужно проектировать и строить мосты из различных материалов, проверять их на п",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1633.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "14.0.873",
+     "date": "2026-08-05T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Bridge Constructor+ - appstore  🇷🇺 Головоломка, в которой нужно проектировать и строить мосты из различных материалов, проверять их на п",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1633-Bridge%20Constr+%20%5Bv14.0.873%5D%28tg@ipa_dark%29.ipa",
+     "size": 113351874
+    },
+    {
+     "version": "12.4.650",
+     "date": "2024-10-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Bridge Constructor+ IPA v13.1 Free is an engaging puzzle game that challenges players to unleash their inner engineer. In this captivati",
+     "downloadURL": "https://file.ipaomtk.com/ipa1/Bridge_Constructor+-v13.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

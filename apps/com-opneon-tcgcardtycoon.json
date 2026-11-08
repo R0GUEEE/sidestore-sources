@@ -1,0 +1,30 @@
+{
+ "name": "TCGCardTycoon",
+ "identifier": "dev.perapp.com-opneon-tcgcardtycoon",
+ "subtitle": "ipaomtk.com | Have you ever dreamt of owning your own trading card shop? Well, now you can turn that dream into reality ",
+ "description": "Single-app source for TCGCardTycoon (com.OPNeon.TCGCardTycoon). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/TCG-Card-Shop-Tycoon-Simulator-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.OPNeon.TCGCardTycoon",
+   "name": "TCGCardTycoon",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Have you ever dreamt of owning your own trading card shop? Well, now you can turn that dream into reality with the TCG Card Shop Tycoon ",
+   "localizedDescription": "ipaomtk.com | Have you ever dreamt of owning your own trading card shop? Well, now you can turn that dream into reality with the TCG Card Shop Tycoon ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/02/TCG-Card-Shop-Tycoon-Simulator-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "267",
+     "date": "2024-02-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Have you ever dreamt of owning your own trading card shop? Well, now you can turn that dream into reality with the TCG Card Shop Tycoon ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/TCG-Card-Shop-Tycoon-Simulator.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

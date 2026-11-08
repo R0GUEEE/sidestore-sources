@@ -1,0 +1,30 @@
+{
+ "name": "Mileways (Hacked)",
+ "identifier": "dev.perapp.com-mileways-app",
+ "subtitle": "Mileways (Hacked) by sidelix",
+ "description": "Single-app source for Mileways (Hacked) (com.mileways.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a97e5bc3275b.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mileways.app",
+   "name": "Mileways (Hacked)",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Pro Unlocked",
+   "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a97e5bc3275b.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.7.5",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "Pro Unlocked",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2391",
+     "size": 118503852
+    }
+   ]
+  }
+ ]
+}

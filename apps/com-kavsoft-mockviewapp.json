@@ -1,0 +1,30 @@
+{
+ "name": "Mockview",
+ "identifier": "dev.perapp.com-kavsoft-mockviewapp",
+ "subtitle": "Mockview",
+ "description": "Single-app source for Mockview (com.kavsoft.MockviewApp). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kavsoft.MockviewApp",
+   "name": "Mockview",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.0.4",
+     "date": "2026-10-03T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/Mockview_5.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 111254952
+    }
+   ]
+  }
+ ]
+}

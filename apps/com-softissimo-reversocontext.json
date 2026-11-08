@@ -1,0 +1,30 @@
+{
+ "name": "ReversoContext",
+ "identifier": "dev.perapp.com-softissimo-reversocontext",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for ReversoContext (com.softissimo.ReversoContext). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.softissimo.ReversoContext",
+   "name": "ReversoContext",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.softissimo.ReversoContext.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "16.4",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/ReversoContext_16.4_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 154261046
+    }
+   ]
+  }
+ ]
+}

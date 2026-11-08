@@ -1,0 +1,30 @@
+{
+ "name": "DSLR Camera",
+ "identifier": "dev.perapp.com-fulvio-reflex",
+ "subtitle": "ipaomtk.com | DSLR Camera IPA, is a software application designed to enhance the capabilities of your DSLR (Digital Sing",
+ "description": "Single-app source for DSLR Camera (com.fulvio.Reflex). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/DSLR-Camera-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fulvio.Reflex",
+   "name": "DSLR Camera",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | DSLR Camera IPA, is a software application designed to enhance the capabilities of your DSLR (Digital Single-Lens Reflex) camera on your",
+   "localizedDescription": "ipaomtk.com | DSLR Camera IPA, is a software application designed to enhance the capabilities of your DSLR (Digital Single-Lens Reflex) camera on your",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/DSLR-Camera-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.10",
+     "date": "2024-09-02T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | DSLR Camera IPA, is a software application designed to enhance the capabilities of your DSLR (Digital Single-Lens Reflex) camera on your",
+     "downloadURL": "https://file.ipaomtk.com/ipa/DSLR-Camera-ipaomtk.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

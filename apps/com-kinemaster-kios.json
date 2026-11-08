@@ -1,0 +1,30 @@
+{
+ "name": "KineMaster",
+ "identifier": "dev.perapp.com-kinemaster-kios",
+ "subtitle": "KineMaster",
+ "description": "Single-app source for KineMaster (com.kinemaster.kios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.kinemaster.kios",
+   "name": "KineMaster",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "8.2.9",
+     "date": "2026-11-06T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/KineMaster_8.2.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 157456218
+    }
+   ]
+  }
+ ]
+}

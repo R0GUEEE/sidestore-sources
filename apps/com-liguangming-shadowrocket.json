@@ -1,0 +1,44 @@
+{
+ "name": "Shadowrocket - TrollStore",
+ "identifier": "dev.perapp.com-liguangming-shadowrocket",
+ "subtitle": "Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+ "description": "Single-app source for Shadowrocket - TrollStore (com.liguangming.Shadowrocket). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/78/5e/06785efb-aec6-84ca-cbbc-84c1f4a4f369/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.liguangming.Shadowrocket",
+   "name": "Shadowrocket - TrollStore",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "localizedDescription": "Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/78/5e/06785efb-aec6-84ca-cbbc-84c1f4a4f369/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2.92",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Shadowrocket - appstore  🇷🇺 Мощный инструмент для управления прокси и VPN. Поддерживает различные протоколы, включая Shadowsocks и V2Ray",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1840-Shadowrocket%20%5Bv2.2.92%5D%28tg@ipa_dark%29.ipa",
+     "size": 23434674
+    },
+    {
+     "version": "2.2.44",
+     "date": "2026-07-21T00:00:00Z",
+     "localizedDescription": "Chỉ hoạt động khi cài với TrollStore - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=thuthuatjb/IPAS/releases/download/2/Shadowrocket_2.2.44_TTJB.ipa",
+     "size": 16926062
+    },
+    {
+     "version": "2.2.41",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "This link allow to use or potentially unlock the premium functions of many applications. Use only if you're well-versed with the process. Last updated",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Shadowrocket/Shadowrocket-2.2.41.ipa",
+     "size": 34343960
+    }
+   ]
+  }
+ ]
+}

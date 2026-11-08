@@ -1,0 +1,37 @@
+{
+ "name": "BXNG",
+ "identifier": "dev.perapp.com-app-bxngapp",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for BXNG (com.app.BXNGApp). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.BXNGApp.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.app.BXNGApp",
+   "name": "BXNG",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.BXNGApp.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.50",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/14-09-2025/BXNG_1.50_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 17455404
+    },
+    {
+     "version": "1.51",
+     "date": "2026-06-08T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-05-2026/BXNG_1.51_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 18376561
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "JackQuest",
+ "identifier": "dev.perapp.com-crescentmoongames-jackquest",
+ "subtitle": "ipaomtk.com | JackQuest on iOS brings a traditional action-platformer experience to iPhone users who appreciate skill-ba",
+ "description": "Single-app source for JackQuest (com.crescentmoongames.jackquest). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/JackQuest-IPA-v2.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.crescentmoongames.jackquest",
+   "name": "JackQuest",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | JackQuest on iOS brings a traditional action-platformer experience to iPhone users who appreciate skill-based gameplay and old-school de",
+   "localizedDescription": "ipaomtk.com | JackQuest on iOS brings a traditional action-platformer experience to iPhone users who appreciate skill-based gameplay and old-school de",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/02/JackQuest-IPA-v2.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.1",
+     "date": "2026-02-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | JackQuest on iOS brings a traditional action-platformer experience to iPhone users who appreciate skill-based gameplay and old-school de",
+     "downloadURL": "https://file.ipaomtk.com/jackquest/JackQuest_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

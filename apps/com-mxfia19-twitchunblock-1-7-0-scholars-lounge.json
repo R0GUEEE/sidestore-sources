@@ -1,0 +1,30 @@
+{
+ "name": "iOS ONLY!! TwitchUnblock (v1.7.0) - Scholars Lounge",
+ "identifier": "dev.perapp.com-mxfia19-twitchunblock-1-7-0-scholars-lounge",
+ "subtitle": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full ",
+ "description": "Single-app source for iOS ONLY!! TwitchUnblock (v1.7.0) - Scholars Lounge (com.mxfia19.twitchunblock.1.7.0.scholars.lounge). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/TwitchUnblock-Icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mxfia19.twitchunblock.1.7.0.scholars.lounge",
+   "name": "iOS ONLY!! TwitchUnblock (v1.7.0) - Scholars Lounge",
+   "developerName": "MXFia19",
+   "subtitle": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this m",
+   "localizedDescription": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this m\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/TwitchUnblock-Icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this m",
+     "downloadURL": "https://repo.ballermc.com/tubevault/TwitchUnblock.ipa",
+     "size": 4486034
+    }
+   ]
+  }
+ ]
+}

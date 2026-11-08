@@ -1,0 +1,44 @@
+{
+ "name": "BodyFast",
+ "identifier": "dev.perapp.de-bodyfast-bodyfast2",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for BodyFast (de.BodyFast.BodyFast2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.BodyFast.BodyFast2.png",
+ "apps": [
+  {
+   "bundleIdentifier": "de.BodyFast.BodyFast2",
+   "name": "BodyFast",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/de.BodyFast.BodyFast2.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.0.12",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/10-11-2025/BodyFast_4.0.12_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 46734012
+    },
+    {
+     "version": "3.49.3",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-09-2025/BodyFast_3.49.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 46343194
+    },
+    {
+     "version": "4.2.7",
+     "date": "2026-05-22T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-05-2026/BodyFast_4.2.7_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 52077572
+    }
+   ]
+  }
+ ]
+}

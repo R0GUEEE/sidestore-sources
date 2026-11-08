@@ -1,0 +1,30 @@
+{
+ "name": "PrivateCameraLite",
+ "identifier": "dev.perapp.com-gungyi-privatecameralite",
+ "subtitle": "ipaomtk.com | Private Photo Album Vault IPA is an innovative app designed to provide individuals with a secure way to st",
+ "description": "Single-app source for PrivateCameraLite (com.gungyi.PrivateCameraLite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Vault-Lock-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gungyi.PrivateCameraLite",
+   "name": "PrivateCameraLite",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Private Photo Album Vault IPA is an innovative app designed to provide individuals with a secure way to store and share their digital pi",
+   "localizedDescription": "ipaomtk.com | Private Photo Album Vault IPA is an innovative app designed to provide individuals with a secure way to store and share their digital pi",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/Vault-Lock-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.6.1",
+     "date": "2023-02-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Private Photo Album Vault IPA is an innovative app designed to provide individuals with a secure way to store and share their digital pi",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Private-Photo-Album-Vault-Lock.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

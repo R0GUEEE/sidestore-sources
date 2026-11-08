@@ -1,0 +1,30 @@
+{
+ "name": "Grok",
+ "identifier": "dev.perapp.ai-x-grokapp",
+ "subtitle": "Grok",
+ "description": "Single-app source for Grok (ai.x.GrokApp). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/56/66/53566602-581d-4a68-c353-004067324338/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "ai.x.GrokApp",
+   "name": "Grok",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/53/56/66/53566602-581d-4a68-c353-004067324338/AppIcon-0-1x_U007epad-0-0-0-1-0-0-85-220-0.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.9",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/87a65f50-e34d-4665-a005-3f7fabadc13a/Grok1.0.9Moe.ipa",
+     "size": 16801520
+    }
+   ]
+  }
+ ]
+}

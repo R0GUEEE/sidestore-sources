@@ -1,0 +1,30 @@
+{
+ "name": "KitchenStories",
+ "identifier": "dev.perapp.com-ajnsnewmedia-kitchenstories",
+ "subtitle": "KitchenStories",
+ "description": "Single-app source for KitchenStories (com.AJNSNewMedia.KitchenStories). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AJNSNewMedia.KitchenStories",
+   "name": "KitchenStories",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AJNSNewMedia.KitchenStories.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "26.0.5",
+     "date": "2025-10-22T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2025/KitchenStories_26.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 61929406
+    }
+   ]
+  }
+ ]
+}

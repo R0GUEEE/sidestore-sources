@@ -1,0 +1,30 @@
+{
+ "name": "Craftersy",
+ "identifier": "dev.perapp.apps-homepreserves-prohome",
+ "subtitle": "@ipa_dark | 🔄 Тинькофф | Tinkoff  🇷🇺 Обновлённое приложение Т-Банка, добавленное в appstore под видом другого приложения",
+ "description": "Single-app source for Craftersy (apps.homepreserves.prohome). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1723.png",
+ "apps": [
+  {
+   "bundleIdentifier": "apps.homepreserves.prohome",
+   "name": "Craftersy",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Тинькофф | Tinkoff  🇷🇺 Обновлённое приложение Т-Банка, добавленное в appstore под видом другого приложения \"CraftT\".  ℹ️ Особенности: ▎У",
+   "localizedDescription": "@ipa_dark | 🔄 Тинькофф | Tinkoff  🇷🇺 Обновлённое приложение Т-Банка, добавленное в appstore под видом другого приложения \"CraftT\".  ℹ️ Особенности: ▎У\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1723.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.1",
+     "date": "2026-09-18T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Тинькофф | Tinkoff  🇷🇺 Обновлённое приложение Т-Банка, добавленное в appstore под видом другого приложения \"CraftT\".  ℹ️ Особенности: ▎У",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1723-Tinkoff%20CraftT%20%5Bv8.2.6%5D%28tg@ipa_dark%29.ipa",
+     "size": 249054241
+    }
+   ]
+  }
+ ]
+}

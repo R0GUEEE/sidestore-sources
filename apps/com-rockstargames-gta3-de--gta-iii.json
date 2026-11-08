@@ -1,0 +1,30 @@
+{
+ "name": "GTA III",
+ "identifier": "dev.perapp.com-rockstargames-gta3-de",
+ "subtitle": "GTA III by Karbin-Store",
+ "description": "Single-app source for GTA III (com.rockstargames.gta3.de). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA-III.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.rockstargames.gta3.de",
+   "name": "GTA III",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "🟠 Free \n🟠 Unlimited Cash \n🟠 Unlimited Ammo \n🟠 Never Die",
+   "iconURL": "https://github.com/karbin09/karbin-image/releases/download/karbin-image/GTA-III.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.72.429",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "🟠 Free \n🟠 Unlimited Cash \n🟠 Unlimited Ammo \n🟠 Never Die",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa-three/releases/download/karbin-ipa/GTA.III.-.RCS.v1.72.42919648.2.ipa",
+     "size": 1451120000
+    }
+   ]
+  }
+ ]
+}

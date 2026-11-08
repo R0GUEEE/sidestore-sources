@@ -1,0 +1,44 @@
+{
+ "name": "Peek Weather",
+ "identifier": "dev.perapp.com-indiegoodies-weather2",
+ "subtitle": "@riftysIPAlibrary | Peek Weather - Rain Forecast  Tweak: Subscription Unlocked  Version: 1.7.0  Patched ✓  @riftysIPAlib",
+ "description": "Single-app source for Peek Weather (com.indiegoodies.Weather2). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8191.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.indiegoodies.Weather2",
+   "name": "Peek Weather",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Peek Weather - Rain Forecast  Tweak: Subscription Unlocked  Version: 1.7.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+   "localizedDescription": "@riftysIPAlibrary | Peek Weather - Rain Forecast  Tweak: Subscription Unlocked  Version: 1.7.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8191.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.0",
+     "date": "2026-10-30T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Peek Weather - Rain Forecast  Tweak: Subscription Unlocked  Version: 2.1.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8691-Peek%20Weather%20-%20Rain%20Forecast-v2.1.0-riftysipas.ipa",
+     "size": 5930823
+    },
+    {
+     "version": "2.0.0",
+     "date": "2026-10-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Peek Weather - Rain Forecast  Tweak: Subscription Unlocked  Version: 2.0.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8671-Peek%20Weather%20-%20Rain%20Forecast-v2.0.0-riftysipas.ipa",
+     "size": 4797018
+    },
+    {
+     "version": "1.7.0",
+     "date": "2026-10-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Peek Weather - Rain Forecast  Tweak: Subscription Unlocked  Version: 1.7.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8191-Peek%20Weather%20-%20Rain%20Forecast-v1.7.0-riftysipas.ipa",
+     "size": 233261952
+    }
+   ]
+  }
+ ]
+}

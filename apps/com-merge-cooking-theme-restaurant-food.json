@@ -1,0 +1,30 @@
+{
+ "name": "MergeCooking",
+ "identifier": "dev.perapp.com-merge-cooking-theme-restaurant-food",
+ "subtitle": "Free in-app purchases (tap buy, then cancel)",
+ "description": "Single-app source for MergeCooking (com.merge.cooking.theme.restaurant.food). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.merge.cooking.theme.restaurant.food",
+   "name": "MergeCooking",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Free in-app purchases (tap buy, then cancel)",
+   "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ)  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.merge.cooking.theme.restaurant.food.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.21.0",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: hack mua hàng trong ứng dụng (bấm mua rồi huỷ) - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/MergeCooking_1.21.0_IAP_@thisismanpreets_apptesters.org.ipa",
+     "size": 303884370
+    }
+   ]
+  }
+ ]
+}

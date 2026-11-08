@@ -1,0 +1,73 @@
+{
+ "name": "Winston for Reddit",
+ "identifier": "dev.perapp.lo-cafe-winston",
+ "subtitle": "Winston, a beautiful and native Reddit client for iOS",
+ "description": "Single-app source for Winston for Reddit (lo.cafe.winston). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#000000",
+ "iconURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "lo.cafe.winston",
+   "name": "Winston for Reddit",
+   "developerName": "Kinark",
+   "subtitle": "Winston, a beautiful and native Reddit client for iOS",
+   "localizedDescription": "Introducing Winston: \n A Stunning and native Reddit client for iOS\n- In-development, free, and open-source app and bot \n- User-friendly interface designed for easy navigation\n- Compliance with Reddit's Terms of Service for a seamless experience\n- Stay connected with the Reddit community in a sleek and intuitive way\n- Experience the beauty of Winston, your ultimate iOS Reddit companion.\n",
+   "iconURL": "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/0.png",
+   "tintColor": "#000000",
+   "screenshots": [
+    "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/1.png",
+    "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/2.png",
+    "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/3.png",
+    "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/4.png",
+    "https://raw.githubusercontent.com/lo-cafe/winston-altstore/main/images/5.png"
+   ],
+   "versions": [
+    {
+     "version": "1.1.5",
+     "date": "2024-06-24T08:53:08Z",
+     "localizedDescription": "• Fixed placeholder message alignment\r\n• Fixed Reddit API preferences page\r\n• Added localization support\r\n• Cleaned unused code and replaced glitchy book Lottie\r\n• Removed old, unused TipJar component\r\n• Added back GlobalLoaderProvider\r\n• Fixed broken build\r\n• Improved RedditListingFeed component and cleaned up some files\r\n• Fixed many UI bugs and stutters; added new NukeUI Opt components\r\n• Removed redundant code calling setAudioToMixWithOthers three times\r\n• Provided RedditListingFeed with a force refresh handler; fixed UserView issues\r\n• Fixed blur flash on app open\r\n• Fixed cache clear button not working\r\n• Added support for inline image within comments\r\n• Improved spoiler handling in selftext\r\n• Corrected tab bar hit detection in Split View on iPad",
+     "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.5/winston.ipa",
+     "size": 50003343
+    },
+    {
+     "version": "1.1.4",
+     "date": "2024-03-14T17:18:44Z",
+     "localizedDescription": "• Implemented option to toggle visibility of feeds prefixes\r\n• Fixed multis not showing up\r\n• Now compact posts settings will be hidden if the option is not enabled\r\n• Fixed comments context menu preview showing in the wrong size",
+     "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.4/winston.ipa",
+     "size": 47535139
+    },
+    {
+     "version": "1.1.3",
+     "date": "2024-03-12T17:02:28Z",
+     "localizedDescription": "• Complete rewrite of how Winston displays the elements in each feed, resulting in a major boost to Winston’s smoothness \r\n• Fixed bug regarding crossposts in compact mode\r\n• Fixed rare bug causing crashes when  in compact mode \r\n• Addition of setting to select the comment skipper button location\r\n• Fixed compact mode bug relating to post link heights\r\n• Fixed crashed related to UI being updated in the background\r\n• Fixed bug relating to tab bar swiping\r\n• Fixed bug relating to swipe anywhere\r\n\r\n\r\n",
+     "downloadURL": "https://github.com/lo-cafe/winston/releases/download/v1.1.3/winston.ipa",
+     "size": 47330770
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     {
+      "name": "com.apple.developer.associated-domains"
+     },
+     {
+      "name": "get-task-allow"
+     },
+     {
+      "name": "com.apple.developer.siri"
+     }
+    ],
+    "privacy": [
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "Winston needs access to your library to be able to download images."
+     },
+     {
+      "name": "DocumentsFolder",
+      "usageDescription": "Winston needs access to your documents to save/import themes."
+     }
+    ]
+   }
+  }
+ ]
+}

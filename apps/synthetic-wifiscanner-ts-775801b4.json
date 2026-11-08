@@ -1,0 +1,30 @@
+{
+ "name": "WiFiScanner_TS",
+ "identifier": "dev.perapp.synthetic-wifiscanner-ts-775801b4",
+ "subtitle": "Wifi scanner. Scans WiFi.",
+ "description": "Single-app source for WiFiScanner_TS (synthetic.wifiscanner-ts.775801b4). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/WiFiScanner_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.wifiscanner-ts.775801b4",
+   "name": "WiFiScanner_TS",
+   "developerName": "WiFiScanner_TS x CyPwn",
+   "subtitle": "Wifi scanner. Scans WiFi.",
+   "localizedDescription": "Wifi scanner. Scans WiFi.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/WiFiScanner_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Wifi scanner. Scans WiFi.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/WiFiScanner_TS.ipa",
+     "size": 357038
+    }
+   ]
+  }
+ ]
+}

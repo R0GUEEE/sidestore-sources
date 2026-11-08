@@ -1,0 +1,44 @@
+{
+ "name": "Dune",
+ "identifier": "dev.perapp.io-voodoo-dune",
+ "subtitle": "@riftysIPAlibrary | Dune!  Tweak: Unlimited Coins, No Ads  Version: 5.6.07  Patched ✓  @riftysIPAlibrary  Additional Inf",
+ "description": "Single-app source for Dune (io.voodoo.dune). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7595.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.voodoo.dune",
+   "name": "Dune",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | Dune!  Tweak: Unlimited Coins, No Ads  Version: 5.6.07  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 1",
+   "localizedDescription": "@riftysIPAlibrary | Dune!  Tweak: Unlimited Coins, No Ads  Version: 5.6.07  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 1",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7595.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.7.5",
+     "date": "2026-11-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Dune!  Tweak: Unlimited Coins, No Ads  Version: 5.7.5  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8747-Dune%21-v5.7.5-riftysipas.ipa",
+     "size": 107268002
+    },
+    {
+     "version": "5.7.3",
+     "date": "2026-10-25T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Dune!  Tweak: Unlimited Coins, No Ads  Version: 5.7.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 14",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8596-Dune%21-v5.7.3-riftysipas.ipa",
+     "size": 107250781
+    },
+    {
+     "version": "5.7.2",
+     "date": "2026-09-29T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | Dune!  Tweak: Unlimited Coins, No Ads  Version: 5.7.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 14",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8134-Dune%21-v5.7.2-riftysipas.ipa",
+     "size": 102346333
+    }
+   ]
+  }
+ ]
+}

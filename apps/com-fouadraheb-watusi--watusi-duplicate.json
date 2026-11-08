@@ -1,0 +1,69 @@
+{
+ "name": "Watusi (Duplicate)",
+ "identifier": "dev.perapp.com-fouadraheb-watusi",
+ "subtitle": "The all-in-one tweak for WhatsApp",
+ "description": "Single-app source for Watusi (Duplicate) (com.fouadraheb.watusi). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#075e54",
+ "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fouadraheb.watusi",
+   "name": "Watusi (Duplicate)",
+   "developerName": "Fouad Raheb",
+   "subtitle": "The all-in-one tweak for WhatsApp",
+   "localizedDescription": "Watusi is your all-in-one tweak for WhatsApp Messenger.\n\nThis is a duplicated app, it can be installed alongside original WhatsApp (Bundle ID com.fouadraheb.watusi).",
+   "iconURL": "https://raw.githubusercontent.com/FouadRaheb/Watusi-for-WhatsApp/master/altstore/watusi/wa.png",
+   "tintColor": "#075e54",
+   "screenshots": [
+    "https://fouadraheb.com/images/screenshots/watusi/s1.png",
+    "https://fouadraheb.com/images/screenshots/watusi/s2.png"
+   ],
+   "versions": [
+    {
+     "version": "26.42.77",
+     "date": "2026-11-02T09:51:12+00:00",
+     "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.42",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793613547742-vi5hn/com.fouadraheb.watusi_26.42.77_watusi3_1.3.29_sl.ipa",
+     "size": 180526473
+    },
+    {
+     "version": "26.41.75",
+     "date": "2026-10-24T08:05:12+00:00",
+     "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41\n- Fixed viewed statuses being marked as seen for their sender after relaunching WhatsApp with Mark as Viewed enabled.\n- Fixed a crash when viewing some statuses with the Download or Mark as Viewed buttons enabled.\n- Fixed Allow View Once Screenshot/Recording not working on newer WhatsApp versions.",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-z1lbl/com.fouadraheb.watusi_26.41.75_watusi3_1.3.28_sl.ipa",
+     "size": 177339052
+    },
+    {
+     "version": "26.41.74",
+     "date": "2026-10-20T06:32:12+00:00",
+     "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41.X\n- Fixed Status Archive not saving your statuses or their viewers on WhatsApp's new internal status storage.\n- Fixed a crash when viewing a status from the Statuses Bar.",
+     "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-mwf9q/com.fouadraheb.watusi_26.41.74_watusi3_1.3.27_sl.ipa",
+     "size": 177140855
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSSiriUsageDescription": "This lets you use Siri to quickly send and read messages and make calls.",
+     "NSCameraUsageDescription": "This lets you make video calls, take photos, and record videos.",
+     "NSFaceIDUsageDescription": "Use Face ID to authenticate on WhatsApp.",
+     "NSContactsUsageDescription": "Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+     "NSLocationUsageDescription": "This lets you send your current location or nearby places in chats.",
+     "NSCalendarsUsageDescription": "This lets you create events on your calendar.",
+     "NSRemindersUsageDescription": "This lets you set reminders to call your friends back.",
+     "NSMicrophoneUsageDescription": "This lets you make calls, send voice messages, and record videos with sound.",
+     "NSLocalNetworkUsageDescription": "This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+     "NSPhotoLibraryUsageDescription": "This lets you send photos and videos from your library and save the ones you capture.",
+     "NSLocationAlwaysUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+     "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+     "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your library.",
+     "NSLocationWhenInUseUsageDescription": "This lets you send your current location or nearby places in chats.",
+     "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp.",
+     "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+     "NSLocationAlwaysAndWhenInUseUsageDescription": "If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place."
+    }
+   }
+  }
+ ]
+}

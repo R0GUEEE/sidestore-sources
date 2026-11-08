@@ -1,0 +1,30 @@
+{
+ "name": "ImageSearch",
+ "identifier": "dev.perapp.synthetic-imagesearch-521e21c1",
+ "subtitle": "ImageSearch by Karbin-Store",
+ "description": "Single-app source for ImageSearch (synthetic.imagesearch.521e21c1). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ImageSearch.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.imagesearch.521e21c1",
+   "name": "ImageSearch",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "بەرنامەیەک تایبەت بە گەڕان بە دوایی وێنە",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/ImageSearch.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.1",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "بەرنامەیەک تایبەت بە گەڕان بە دوایی وێنە",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/ImageSearch_6.1_DEV.ipa",
+     "size": 9210000
+    }
+   ]
+  }
+ ]
+}

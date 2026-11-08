@@ -1,0 +1,30 @@
+{
+ "name": "Bunny Tactics",
+ "identifier": "dev.perapp.com-stellarjam-furry",
+ "subtitle": "ipaomtk.com | Real-time strategy (RTS) games have always been about planning, resource management, and tactical executio",
+ "description": "Single-app source for Bunny Tactics (com.stellarjam.furry). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/bunny-tactics-rts-battles-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.stellarjam.furry",
+   "name": "Bunny Tactics",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Real-time strategy (RTS) games have always been about planning, resource management, and tactical execution. But when a game like Bunny ",
+   "localizedDescription": "ipaomtk.com | Real-time strategy (RTS) games have always been about planning, resource management, and tactical execution. But when a game like Bunny ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/09/bunny-tactics-rts-battles-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.3.2",
+     "date": "2025-09-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Real-time strategy (RTS) games have always been about planning, resource management, and tactical execution. But when a game like Bunny ",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Bunny_Tactics_RTS_Battles_ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

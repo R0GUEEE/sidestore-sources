@@ -1,0 +1,30 @@
+{
+ "name": "Navic",
+ "identifier": "dev.perapp.paige-navic",
+ "subtitle": "Subsonic music streaming app for Android.",
+ "description": "Single-app source for Navic (paige.Navic). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/paige.Navic.png",
+ "apps": [
+  {
+   "bundleIdentifier": "paige.Navic",
+   "name": "Navic",
+   "developerName": "ssalggnikool",
+   "subtitle": "Subsonic music streaming app for Android.",
+   "localizedDescription": "Subsonic music streaming app for Android.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/paige.Navic.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Subsonic music streaming app for Android.",
+     "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha59/Navic.ipa",
+     "size": 21475549
+    }
+   ]
+  }
+ ]
+}

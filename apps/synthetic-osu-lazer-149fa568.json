@@ -1,0 +1,37 @@
+{
+ "name": "Osu!lazer",
+ "identifier": "dev.perapp.synthetic-osu-lazer-149fa568",
+ "subtitle": "Osu!lazer iOS - Play Osu! but with a touchscreen",
+ "description": "Single-app source for Osu!lazer (synthetic.osu-lazer.149fa568). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "f863a6",
+ "iconURL": "https://cdn.omnidev.org/osu-Wu.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.osu-lazer.149fa568",
+   "name": "Osu!lazer",
+   "developerName": "peppy",
+   "subtitle": "Osu!lazer iOS - Play Osu! but with a touchscreen",
+   "localizedDescription": "rhythm is just a *click* away!\nStatus: ✅🔥",
+   "iconURL": "https://cdn.omnidev.org/osu-Wu.png",
+   "tintColor": "f863a6",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2024.1115.3",
+     "date": "2024-11-16T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/osu2024_1115_3-TG.ipa",
+     "size": 195981312
+    },
+    {
+     "version": "2024.1009.1",
+     "date": "2024-10-29T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://cdn.omnidev.org/osu_i_OS_2024_1009_1-G8.ipa",
+     "size": 196280320
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "German Galaxy",
+ "identifier": "dev.perapp.com-germangalaxy-ios",
+ "subtitle": "@ipa_dark | 🔄 German Galaxy - appstore  🇷🇺 Изучайте немецкий язык с нуля легко и эффективно с помощью уникального прилож",
+ "description": "Single-app source for German Galaxy (com.germangalaxy.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1700.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.germangalaxy.ios",
+   "name": "German Galaxy",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 German Galaxy - appstore  🇷🇺 Изучайте немецкий язык с нуля легко и эффективно с помощью уникального приложения, которое объединяет лекси",
+   "localizedDescription": "@ipa_dark | 🔄 German Galaxy - appstore  🇷🇺 Изучайте немецкий язык с нуля легко и эффективно с помощью уникального приложения, которое объединяет лекси\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1700.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.2",
+     "date": "2026-09-06T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 German Galaxy - appstore  🇷🇺 Изучайте немецкий язык с нуля легко и эффективно с помощью уникального приложения, которое объединяет лекси",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1700-German%20Galaxy%20Premium%20%5Bv1.1.2%5D%28tg@ipa_dark%29.ipa",
+     "size": 94105762
+    }
+   ]
+  }
+ ]
+}

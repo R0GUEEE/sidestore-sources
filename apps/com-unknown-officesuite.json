@@ -1,0 +1,30 @@
+{
+ "name": "OfficeSuite",
+ "identifier": "dev.perapp.com-unknown-officesuite",
+ "subtitle": "تایبەتمەندی؛ ڕێگەت پێدەدات بەڵگەنامەی وۆرد دروست بکەیت، بە ئاسانی بینین و دەستکاریکردنی ئێکسڵ، پاوەرپۆینت، جگە لە ئەنجام",
+ "description": "Single-app source for OfficeSuite (com.unknown.officesuite). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/OfficeSuite.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.officesuite",
+   "name": "OfficeSuite",
+   "developerName": "Karbin-Store",
+   "subtitle": "تایبەتمەندی؛ ڕێگەت پێدەدات بەڵگەنامەی وۆرد دروست بکەیت، بە ئاسانی بینین و دەستکاریکردنی ئێکسڵ، پاوەرپۆینت، جگە لە ئەنجامدانی کارەکانی PDF پێشکەوتوو Ge",
+   "localizedDescription": "تایبەتمەندی؛ ڕێگەت پێدەدات بەڵگەنامەی وۆرد دروست بکەیت، بە ئاسانی بینین و دەستکاریکردنی ئێکسڵ، پاوەرپۆینت، جگە لە ئەنجامدانی کارەکانی PDF پێشکەوتوو Ge",
+   "iconURL": "https://github.com/Karbin18/kara-store-image-two/releases/download/karbin-image/OfficeSuite.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.9.3",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "تایبەتمەندی؛ ڕێگەت پێدەدات بەڵگەنامەی وۆرد دروست بکەیت، بە ئاسانی بینین و دەستکاریکردنی ئێکسڵ، پاوەرپۆینت، جگە لە ئەنجامدانی کارەکانی PDF پێشکەوتوو Ge",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa-three/releases/download/karbin-ipa-three/OfficeSuite.10.9.3.ipa",
+     "size": 65880000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+{
+ "name": "MonokaiToolkitPro",
+ "identifier": "dev.perapp.com-monokaitoolkit-pro",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for MonokaiToolkitPro (com.monokaitoolkit.pro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.monokaitoolkit.pro",
+   "name": "MonokaiToolkitPro",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.monokaitoolkit.pro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.6",
+     "date": "2026-07-18T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/12-08-2025/MonokaiToolkitPro_1.2.6_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 42825257
+    },
+    {
+     "version": "18.0.0",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-03-2026/MonokaiToolkitPro_18.0.0_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 30702973
+    },
+    {
+     "version": "1.2.7",
+     "date": "2026-04-27T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-03-2026/MonokaiToolkitPro_1.2.7_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 30193002
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Magic Touch",
+ "identifier": "dev.perapp.com-nitrome-magictouch",
+ "subtitle": "ipaomtk.com | Magic Touch Wizard for Hire, an engaging and captivating iOS game that will transport you to a realm of ma",
+ "description": "Single-app source for Magic Touch (com.nitrome.magictouch). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/Magic-Touch-Wizard-for-Hire-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.nitrome.magictouch",
+   "name": "Magic Touch",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Magic Touch Wizard for Hire, an engaging and captivating iOS game that will transport you to a realm of magic, adventure, and endless en",
+   "localizedDescription": "ipaomtk.com | Magic Touch Wizard for Hire, an engaging and captivating iOS game that will transport you to a realm of magic, adventure, and endless en",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/06/Magic-Touch-Wizard-for-Hire-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.1.8",
+     "date": "2024-06-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Magic Touch Wizard for Hire, an engaging and captivating iOS game that will transport you to a realm of magic, adventure, and endless en",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Magic-Touch.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

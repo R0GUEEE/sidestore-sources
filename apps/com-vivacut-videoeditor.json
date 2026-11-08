@@ -1,0 +1,30 @@
+{
+ "name": "VivaCut",
+ "identifier": "dev.perapp.com-vivacut-videoeditor",
+ "subtitle": "Subscription unlocked",
+ "description": "Single-app source for VivaCut (com.vivacut.videoeditor). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.vivacut.videoeditor",
+   "name": "VivaCut",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Subscription unlocked",
+   "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vivacut.videoeditor.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.5.2",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Subscription mở khoá - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2025/VivaCut_4.5.2_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 224700480
+    }
+   ]
+  }
+ ]
+}

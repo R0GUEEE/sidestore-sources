@@ -1,0 +1,30 @@
+{
+ "name": "KinjaRun",
+ "identifier": "dev.perapp.com-habby-kinjarun",
+ "subtitle": "ipaomtk.com | Kinja Run IPA is an incredible arcade-style game that has been bringing the most thrilling game experience",
+ "description": "Single-app source for KinjaRun (com.habby.kinjarun). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/kinja-run-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.habby.kinjarun",
+   "name": "KinjaRun",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Kinja Run IPA is an incredible arcade-style game that has been bringing the most thrilling game experience to players all over the world",
+   "localizedDescription": "ipaomtk.com | Kinja Run IPA is an incredible arcade-style game that has been bringing the most thrilling game experience to players all over the world",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/04/kinja-run-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.7.5",
+     "date": "2023-04-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Kinja Run IPA is an incredible arcade-style game that has been bringing the most thrilling game experience to players all over the world",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Kinja-Run.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

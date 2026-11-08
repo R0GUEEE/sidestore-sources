@@ -1,0 +1,37 @@
+{
+ "name": "GBox",
+ "identifier": "dev.perapp.com-ncs-gbox",
+ "subtitle": "GBox",
+ "description": "Single-app source for GBox (com.ncs.gbox). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ncs.gbox",
+   "name": "GBox",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @glesign |\n---------------\nGBox v5.7.3\n\n🇷🇺  Приложение для подписания приложений сертификатом, обеспечивающее безопасную установку и управление IPA-файлами на вашем устройстве.  \n—  Обновлено до 5.7.3\n© Создано: GLESign\n\n🇺🇸  An app for signing applications with a certificate, ensuring secure installation and management of IPA files on your device. \n— Updated to 5.7.3\n© Created: GLESign",
+   "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.0.2",
+     "date": "2026-06-12T00:00:00Z",
+     "localizedDescription": "iOS signing tool\r\n\r\nWarning: logs location , ip",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/336",
+     "size": 7454179
+    },
+    {
+     "version": "5.7.3",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @glesign |\n---------------\nGBox v5.7.3\n\n🇷🇺  Приложение для подписания приложений сертификатом, обеспечивающее безопасную установку и управление IPA-файлами на вашем устройстве.  \n—  Обновлено до 5.7.3\n© Создано: GLESign\n\n🇺🇸  An app for signing applications with a certificate, ensuring secure installation and management of IPA files on your device. \n— Updated to 5.7.3\n© Created: GLESign",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/381b7f52-24ec-478c-ba12-625eaf120e98/GBox_v5.7.3_tg_glesign_.ipa",
+     "size": 6769362
+    }
+   ]
+  }
+ ]
+}

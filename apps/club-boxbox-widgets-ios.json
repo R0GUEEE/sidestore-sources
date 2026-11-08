@@ -1,0 +1,30 @@
+{
+ "name": "BoxBox",
+ "identifier": "dev.perapp.club-boxbox-widgets-ios",
+ "subtitle": "BoxBox",
+ "description": "Single-app source for BoxBox (club.boxbox.widgets-ios). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "club.boxbox.widgets-ios",
+   "name": "BoxBox",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.5.6",
+     "date": "2026-11-07T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/BoxBox_5.5.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 123990013
+    }
+   ]
+  }
+ ]
+}

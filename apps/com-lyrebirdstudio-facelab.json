@@ -1,0 +1,44 @@
+{
+ "name": "Facelab",
+ "identifier": "dev.perapp.com-lyrebirdstudio-facelab",
+ "subtitle": "Injected with Subscription Unlocked",
+ "description": "Single-app source for Facelab (com.lyrebirdstudio.facelab). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.lyrebirdstudio.facelab",
+   "name": "Facelab",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Subscription Unlocked",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyrebirdstudio.facelab.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.96",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Facelab_2.96_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 390663178
+    },
+    {
+     "version": "2.95",
+     "date": "2026-09-28T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-09-2026/Facelab_2.95_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 391788798
+    },
+    {
+     "version": "2.94",
+     "date": "2026-08-08T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-08-2026/Facelab_2.94_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 391181017
+    }
+   ]
+  }
+ ]
+}

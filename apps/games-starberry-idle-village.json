@@ -1,0 +1,30 @@
+{
+ "name": "Merge Mayor",
+ "identifier": "dev.perapp.games-starberry-idle-village",
+ "subtitle": "ipaomtk.com | Merge Mayor IPA is an online board game that combines classic city building-style gameplay with engaging p",
+ "description": "Single-app source for Merge Mayor (games.starberry.idle-village). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Merge-Mayor-1-150x150.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "games.starberry.idle-village",
+   "name": "Merge Mayor",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Merge Mayor IPA is an online board game that combines classic city building-style gameplay with engaging puzzles. Merge Mayor IPA This g",
+   "localizedDescription": "ipaomtk.com | Merge Mayor IPA is an online board game that combines classic city building-style gameplay with engaging puzzles. Merge Mayor IPA This g",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/Merge-Mayor-1-150x150.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.22.572",
+     "date": "2023-03-05T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Merge Mayor IPA is an online board game that combines classic city building-style gameplay with engaging puzzles. Merge Mayor IPA This g",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MergeMayor-esign.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

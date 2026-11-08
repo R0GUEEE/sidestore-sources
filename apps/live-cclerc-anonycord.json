@@ -1,0 +1,44 @@
+{
+ "name": "Anonycord",
+ "identifier": "dev.perapp.live-cclerc-anonycord",
+ "subtitle": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, ",
+ "description": "Single-app source for Anonycord (live.cclerc.Anonycord). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.omnidev.org/2024_08_07_04s_Kleki-lQ.png",
+ "apps": [
+  {
+   "bundleIdentifier": "live.cclerc.Anonycord",
+   "name": "Anonycord",
+   "developerName": "c22Dev",
+   "subtitle": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.  Status: ✅",
+   "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.  Status: ✅",
+   "iconURL": "https://cdn.omnidev.org/2024_08_07_04s_Kleki-lQ.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "A video-recorder without preview. Record without your screen showing anything. Helpful for possibly abused individuals, or to play a prank.  Status: ✅",
+     "downloadURL": "https://github.com/c22dev/Anonycord/releases/download/1.2/Anonycord.ipa",
+     "size": 12375230
+    },
+    {
+     "version": "1.1",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Background anonymous video recording. Similar functionality to SneakyCam by SparkDev Last updated: 01-31-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-29-2023/Anonycord-1.1.ipa",
+     "size": 1370655
+    },
+    {
+     "version": "RC2",
+     "date": "2026-07-08T00:00:00Z",
+     "localizedDescription": "Background anonymous video recording. Similar functionality to SneakyCam by SparkDev Last updated: 01-31-2023 Status: ✅",
+     "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-23-2022/Anonycord-RC2.ipa",
+     "size": 1366859
+    }
+   ]
+  }
+ ]
+}

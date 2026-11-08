@@ -1,0 +1,30 @@
+{
+ "name": "Space Minions",
+ "identifier": "dev.perapp.com-teamsparta-spaceminions",
+ "subtitle": "ipaomtk.com | What is Space Minions: Defense IPA? Space Minions: Defense IPA is the iOS application package for the Spac",
+ "description": "Single-app source for Space Minions (com.TeamSparta.SpaceMinions). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Space-Minions-Defense-IPA-v0.0.13-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TeamSparta.SpaceMinions",
+   "name": "Space Minions",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Space Minions: Defense IPA? Space Minions: Defense IPA is the iOS application package for the Space Minions: Defense game, allow",
+   "localizedDescription": "ipaomtk.com | What is Space Minions: Defense IPA? Space Minions: Defense IPA is the iOS application package for the Space Minions: Defense game, allow",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/03/Space-Minions-Defense-IPA-v0.0.13-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.0.13",
+     "date": "2026-03-08T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Space Minions: Defense IPA? Space Minions: Defense IPA is the iOS application package for the Space Minions: Defense game, allow",
+     "downloadURL": "https://file.ipaomtk.com/space-minions-defense/Space%20Minions-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

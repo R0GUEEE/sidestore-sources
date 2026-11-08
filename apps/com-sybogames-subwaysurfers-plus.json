@@ -1,0 +1,37 @@
+{
+ "name": "Subway Surf",
+ "identifier": "dev.perapp.com-sybogames-subwaysurfers-plus",
+ "subtitle": "ipaomtk.com | Introduction Subway Surfers+ IPA is an enhanced iOS endless runner game that brings fast-paced action, col",
+ "description": "Single-app source for Subway Surf (com.sybogames.subwaysurfers.plus). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Subway-Surfers-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sybogames.subwaysurfers.plus",
+   "name": "Subway Surf",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Introduction Subway Surfers+ IPA is an enhanced iOS endless runner game that brings fast-paced action, colorful visuals, and smooth game",
+   "localizedDescription": "ipaomtk.com | Introduction Subway Surfers+ IPA is an enhanced iOS endless runner game that brings fast-paced action, colorful visuals, and smooth game",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/12/Subway-Surfers-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.7",
+     "date": "2026-09-06T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Subway Surf+ - appstore  🇷🇺 Динамичный раннер, где нужно управлять персонажем, убегать по железнодорожным путям, уворачиваться от поездо",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1697-Subway%20Surf+%20%5Bv1.0.7%5D%28tg@ipa_dark%29.ipa",
+     "size": 415200578
+    },
+    {
+     "version": "1.0.2",
+     "date": "2025-12-24T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Introduction Subway Surfers+ IPA is an enhanced iOS endless runner game that brings fast-paced action, colorful visuals, and smooth game",
+     "downloadURL": "https://file.ipaomtk.com/Subway%20Surf/Subway-Surf+-v1.0.2-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

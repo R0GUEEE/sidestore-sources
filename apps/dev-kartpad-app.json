@@ -1,0 +1,38 @@
+{
+ "name": "KartPad",
+ "identifier": "dev.perapp.dev-kartpad-app",
+ "subtitle": "Mario Kart Wii and Retro Rewind, native for iOS, iPadOS, macOS, tvOS, and Android",
+ "description": "Single-app source for KartPad (dev.kartpad.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#e62633",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.kartpad.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.kartpad.app",
+   "name": "KartPad",
+   "developerName": "chrissotraidis",
+   "subtitle": "Mario Kart Wii and Retro Rewind, native for iOS, iPadOS, macOS, tvOS, and Android",
+   "localizedDescription": "KartPad:\n\nKartPad builds on WiiCompiled, the original Mario Kart Wii static recompilation project created by patchzyy. WiiCompiled provides the foundational translator and runtime; KartPad maintains the Apple and Android integration, native controls, game chooser, game-data management, packaging, and releases. The projects are independently maintained.\n\nBring your own game data. KartPad requires a legally obtained supported PAL RMCP01 revision 0 Mario Kart Wii image. tvOS remains experimental.\n\nAI disclosure: KartPad uses substantial AI assistance for code, tests, documentation, debugging and maintenance. Some support replies and maintenance tasks are automated. There is no audited percentage of AI-generated code. Build, test and device records describe what was checked. This disclosure concerns KartPad's workflow, not the authorship of its upstream projects.\n\nGet KartPad:\n\nKartPad is free. On Android, download it from the.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.kartpad.app.png",
+   "tintColor": "#e62633",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrissotraidis/kartpad@main/docs/images/kartpad-dk-summit-ipad.png"
+   ],
+   "versions": [
+    {
+     "version": "0.8.8",
+     "date": "2026-11-07T01:57:23Z",
+     "localizedDescription": "KartPad 0.8.8 (build 273) updates Retro Rewind to 6.13.5, which Retro WFC now requires, and adds Shake with a Controller on Android, iPhone and iPad.\n\nFixed:\n\n• Android, 30 FPS Races in Retro Rewind: Retro Rewind sets the race frame rate a second time from its own code, which moved in 6.13.5. KartPad now follows the new location, so the option still keeps Retro Rewind races at 30 FPS.\n\nUpdating:\n\n• Apple Silicon Mac: build 0.8.8 through PadMint (Mario Kart Wii → This Mac) and replace your current app. PadMint prepares the 6.13.5 files; see the Mac guide.\n\nChecks:\n\n• Retro Rewind 6.13.5 pins: the official full pack (1,939,393,404 bytes), its Code.pul and Riivolution XML match the hashes in the build profile, and the Retro WFC payload is unchanged. KartPad's builder translated the new code into 3,979 Retro Rewind functions (4,139 for 6.13.4).\n\n• Shake with a Controller (Android emulator): the new switch appears under Shake to Trick, is off by default, and keeps its setting after the dialog is reopened. An emulator can't shake with a controller attached, so the press itself is untested.\n\n• PadMint player checks (before tagging): passed for iPhone/iPad, Mac and Android from current PadMint main, with Apple's Python 3.9 and an empty PadMint folder.\n• Not checked: a physical Android phone, iPhone, iPad or Mac running 0.8.8; a live Retro WFC race; Shake with a Controller with a real clip-on controller.\n• If Retro Rewind still says it needs attention after updating from 0.8.7, tap Retry Installation.",
+     "downloadURL": "https://github.com/chrissotraidis/kartpad/releases/download/v0.8.8/KartPad-v0.8.8-ios-for-padmint.ipa",
+     "size": 9444878
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSLocalNetworkUsageDescription": "KartPad connects to your selected private Wii server and other players on your local network."
+    }
+   }
+  }
+ ]
+}

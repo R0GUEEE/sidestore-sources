@@ -1,0 +1,37 @@
+{
+ "name": "KittenTTS",
+ "identifier": "dev.perapp.com-cookie9843-kittentts2app",
+ "subtitle": "Run KittenTTS 2 locally on your iDevice!",
+ "description": "Single-app source for KittenTTS (com.cookie9843.KittenTTS2App). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#6156e2",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cookie9843.KittenTTS2App",
+   "name": "KittenTTS",
+   "developerName": "Cookie9843",
+   "subtitle": "Run KittenTTS 2 locally on your iDevice!",
+   "localizedDescription": "KittenTTS2-iOS:\n\nMake speech right on your iPhone or iPad with this offline text-to-speech app. Once a model is on your device, speech is generated there too—no account or cloud service needed.\n\n• KittenTTS 2 offers 48 preset voices, several languages, and voice cloning from a short recording.\n• KittenTTS 0.8 is smaller and faster, with the original Nano, Micro, and Mini models, 8 voices, and a speed control.\n\nQuickStart:\n\nNew to KittenTTS and don’t have model files yet? You don’t need to find or prepare a model yourself: install the app, then download one from its Models tab.\n\n• Open Speak, select the model and a preset voice, enter text, and tap Speak.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/placeholder.png",
+   "tintColor": "#6156e2",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.1",
+     "date": "2026-10-11T02:57:03Z",
+     "localizedDescription": "Changelog:\n\n• Added a button to check if the app has the com.apple.developer.kernel.increased-memory-limit entitlement (use the getmoreram app or Xcode for the entitlement).",
+     "downloadURL": "https://github.com/Cookie9843/KittenTTS2-iOS/releases/download/V0.9.1/KittenTTS-unsigned.ipa",
+     "size": 10427588
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSMicrophoneUsageDescription": "KittenTTS uses the microphone only when you record a short reference clip for voice cloning. Audio is processed on this device and is never uploaded.",
+     "NSSpeechRecognitionUsageDescription": "KittenTTS can draft a transcript of your reference clip when you tap Transcribe. Recognition runs on this device only and the recording is never uploaded."
+    }
+   }
+  }
+ ]
+}

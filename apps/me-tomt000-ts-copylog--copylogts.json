@@ -1,0 +1,30 @@
+{
+ "name": "CopylogTS",
+ "identifier": "dev.perapp.me-tomt000-ts-copylog",
+ "subtitle": "CopylogTS by copylogts / tomt000",
+ "description": "Single-app source for CopylogTS (me.tomt000.ts.copylog). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/me.tomt000.ts.copylog.png",
+ "apps": [
+  {
+   "bundleIdentifier": "me.tomt000.ts.copylog",
+   "name": "CopylogTS",
+   "developerName": "copylogts / tomt000",
+   "subtitle": "",
+   "localizedDescription": "CopyLog serves as an efficient clipboard history manager for iOS, offering simplicity in usage and compatibility with both iPhone and iPad, aiding in the monitoring of your device's clipboard activity. It is suitable for iOS 16-17 but has limited support for iPads.\nLast updated: 01-07-2024\nStatus: ✅ 👍",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/me.tomt000.ts.copylog.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2024-09-28T00:00:00Z",
+     "localizedDescription": "CopyLog serves as an efficient clipboard history manager for iOS, offering simplicity in usage and compatibility with both iPhone and iPad, aiding in the monitoring of your device's clipboard activity. It is suitable for iOS 16-17 but has limited support for iPads.\nLast updated: 01-07-2024\nStatus: ✅ 👍",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/CopylogTS/CopylogTS.ipa",
+     "size": 9642000
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Obscura",
+ "identifier": "dev.perapp.com-benricemccarthy-obscura-3",
+ "subtitle": "Obscura",
+ "description": "Single-app source for Obscura (com.benricemccarthy.obscura-3). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benricemccarthy.obscura-3.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.benricemccarthy.obscura-3",
+   "name": "Obscura",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.benricemccarthy.obscura-3.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2025.9",
+     "date": "2025-09-24T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/Obscura_2025.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 78616062
+    }
+   ]
+  }
+ ]
+}

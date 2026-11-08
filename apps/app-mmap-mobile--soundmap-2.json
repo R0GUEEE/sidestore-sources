@@ -1,0 +1,30 @@
+{
+ "name": "Soundmap",
+ "identifier": "dev.perapp.app-mmap-mobile",
+ "subtitle": "Soundmap by Intonation Studios Inc.",
+ "description": "Single-app source for Soundmap (app.mmap.mobile). Converted from riftys.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/84/6c/f8846c19-8543-7d02-f747-43efe1720031/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "app.mmap.mobile",
+   "name": "Soundmap",
+   "developerName": "Intonation Studios Inc.",
+   "subtitle": "",
+   "localizedDescription": "Subscription unlocked (may be for trollstore only) - Join my telegram: t.me/riftysIPAlibrary",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/84/6c/f8846c19-8543-7d02-f747-43efe1720031/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.52.0",
+     "date": "2025-02-14T00:00:00Z",
+     "localizedDescription": "Subscription unlocked (may be for trollstore only) - Join my telegram: t.me/riftysIPAlibrary",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67aed2460011d73832c2f52a",
+     "size": 50205651
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Hill Climb Racing",
+ "identifier": "dev.perapp.om-fingersoft-hillclimbracing",
+ "subtitle": "Hill Climb Racing by FingerSoft",
+ "description": "Single-app source for Hill Climb Racing (om.fingersoft.hillclimbracing). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/ea/66/e0ea66da-6969-88dc-2ce4-0997b85a5b3e/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "om.fingersoft.hillclimbracing",
+   "name": "Hill Climb Racing",
+   "developerName": "FingerSoft",
+   "subtitle": "",
+   "localizedDescription": "Get updated version from zx's AIO repo.",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/ea/66/e0ea66da-6969-88dc-2ce4-0997b85a5b3e/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.64.5",
+     "date": "2025-02-26T00:00:00Z",
+     "localizedDescription": "Get updated version from zx's AIO repo.",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67be6b96a4c0b89c735047e6",
+     "size": 112022584
+    },
+    {
+     "version": "1.64.0",
+     "date": "2025-02-18T00:00:00Z",
+     "localizedDescription": "Get updated version from zx's AIO repo.",
+     "downloadURL": "https://file-to-link-nx-ccf8d5eda5c0.herokuapp.com/dl/67b40c508839472367c5058d",
+     "size": 112022584
+    }
+   ]
+  }
+ ]
+}

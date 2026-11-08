@@ -1,0 +1,30 @@
+{
+ "name": "My Hotel",
+ "identifier": "dev.perapp.com-unknown-myhotel",
+ "subtitle": "پارەی بێ سنوور ✅  بلیتی بێ سنوور ✅",
+ "description": "Single-app source for My Hotel (com.unknown.myhotel). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/Myhotel.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.myhotel",
+   "name": "My Hotel",
+   "developerName": "Karbin-Store",
+   "subtitle": "پارەی بێ سنوور ✅  بلیتی بێ سنوور ✅",
+   "localizedDescription": "پارەی بێ سنوور ✅  بلیتی بێ سنوور ✅",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/kara-img-1/Myhotel.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.17.3",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "پارەی بێ سنوور ✅  بلیتی بێ سنوور ✅",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/kara-spa-1/My.Hotel_1.17.3_DEV.ipa",
+     "size": 183120000
+    }
+   ]
+  }
+ ]
+}

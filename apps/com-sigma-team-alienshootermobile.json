@@ -1,0 +1,30 @@
+{
+ "name": "AlienShooter",
+ "identifier": "dev.perapp.com-sigma-team-alienshootermobile",
+ "subtitle": "@ipa_dark | 🔄 Alien Shooter - Начало - appstore  🇷🇺 Динамичный шутер с видом сверху, где нужно сражаться с ордами инопла",
+ "description": "Single-app source for AlienShooter (com.sigma-team.alienshootermobile). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1736.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.sigma-team.alienshootermobile",
+   "name": "AlienShooter",
+   "developerName": "@ipa_dark",
+   "subtitle": "@ipa_dark | 🔄 Alien Shooter - Начало - appstore  🇷🇺 Динамичный шутер с видом сверху, где нужно сражаться с ордами инопланетных существ, использовать р",
+   "localizedDescription": "@ipa_dark | 🔄 Alien Shooter - Начало - appstore  🇷🇺 Динамичный шутер с видом сверху, где нужно сражаться с ордами инопланетных существ, использовать р\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1736.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.2.7",
+     "date": "2026-09-23T00:00:00Z",
+     "localizedDescription": "@ipa_dark | 🔄 Alien Shooter - Начало - appstore  🇷🇺 Динамичный шутер с видом сверху, где нужно сражаться с ордами инопланетных существ, использовать р",
+     "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1736-Alien%20Shooter%20%5Bv1.2.7%5D%28tg@ipa_dark%29.ipa",
+     "size": 57759804
+    }
+   ]
+  }
+ ]
+}

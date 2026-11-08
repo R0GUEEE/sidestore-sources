@@ -1,0 +1,30 @@
+{
+ "name": "EeveeSpotifyReincarnated (v6.8.8) - Liquid Glass + Patched",
+ "identifier": "dev.perapp.com-spotify-client-ios-eeveespotifyreincarnated-6-8-8-liquid",
+ "subtitle": "This is a modded version of Spotify. This enables Liquid Glass effect on the app. This does not work with sidestore or l",
+ "description": "Single-app source for EeveeSpotifyReincarnated (v6.8.8) - Liquid Glass + Patched (com.spotify.client.ios.eeveespotifyreincarnated.6.8.8.liquidglass.patched.9.1.76). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.6.8.8.liquidglass.patched.9.1.76",
+   "name": "EeveeSpotifyReincarnated (v6.8.8) - Liquid Glass + Patched",
+   "developerName": "Spotify",
+   "subtitle": "This is a modded version of Spotify. This enables Liquid Glass effect on the app. This does not work with sidestore or livecontainer!!",
+   "localizedDescription": "This is a modded version of Spotify. This enables Liquid Glass effect on the app. This does not work with sidestore or livecontainer!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.1.76",
+     "date": "2026-10-01T00:00:00Z",
+     "localizedDescription": "This is a modded version of Spotify. This enables Liquid Glass effect on the app. This does not work with sidestore or livecontainer!!",
+     "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8_Spotify_v9.1.76_Patched_LG.ipa",
+     "size": 136322970
+    }
+   ]
+  }
+ ]
+}

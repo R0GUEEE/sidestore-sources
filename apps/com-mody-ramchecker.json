@@ -1,0 +1,30 @@
+{
+ "name": "Ram Checker",
+ "identifier": "dev.perapp.com-mody-ramchecker",
+ "subtitle": "RAM Checker:  A lightweight iOS utility that shows what your device — and the app itself — actually has access to at the",
+ "description": "Single-app source for Ram Checker (com.mody.ramchecker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mody.ramchecker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mody.ramchecker",
+   "name": "Ram Checker",
+   "developerName": "Ayan4k",
+   "subtitle": "RAM Checker:  A lightweight iOS utility that shows what your device — and the app itself — actually has access to at the kernel level: physical RAM, p",
+   "localizedDescription": "RAM Checker:  A lightweight iOS utility that shows what your device — and the app itself — actually has access to at the kernel level: physical RAM, p\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.mody.ramchecker.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "RAM Checker:  A lightweight iOS utility that shows what your device — and the app itself — actually has access to at the kernel level: physical RAM, p",
+     "downloadURL": "https://github.com/Ayan4k/Ram-Checker/releases/download/Stable/RamChecker.ipa",
+     "size": 296930
+    }
+   ]
+  }
+ ]
+}

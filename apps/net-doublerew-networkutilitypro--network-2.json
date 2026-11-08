@@ -1,0 +1,30 @@
+{
+ "name": "Network",
+ "identifier": "dev.perapp.net-doublerew-networkutilitypro",
+ "subtitle": "Network",
+ "description": "Single-app source for Network (net.doublerew.NetworkUtilityPro). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.doublerew.NetworkUtilityPro",
+   "name": "Network",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.doublerew.NetworkUtilityPro.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.10.3",
+     "date": "2025-02-07T00:00:00Z",
+     "localizedDescription": "Injected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-02-2025/Network_9.10.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+     "size": 5678768
+    }
+   ]
+  }
+ ]
+}

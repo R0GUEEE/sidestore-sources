@@ -1,0 +1,30 @@
+{
+ "name": "foriOS",
+ "identifier": "dev.perapp.com-tapinfinity-hdjcxcode7",
+ "subtitle": "Tweaks: iOS-Programming",
+ "description": "Single-app source for foriOS (com.tapinfinity.HdjcXcode7). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.tapinfinity.HdjcXcode7",
+   "name": "foriOS",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: iOS-Programming",
+   "localizedDescription": "Tweaks: iOS-Programming\n\nInjected with Pro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tapinfinity.HdjcXcode7.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.3",
+     "date": "2026-10-22T00:00:00Z",
+     "localizedDescription": "Tweaks: iOS-Programming\n\nInjected with Pro",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/foriOS_13.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 43616502
+    }
+   ]
+  }
+ ]
+}

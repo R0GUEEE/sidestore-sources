@@ -1,0 +1,37 @@
+{
+ "name": "PojavLauncher",
+ "identifier": "dev.perapp.net-kdt-pojavlauncher",
+ "subtitle": "ipaomtk.com | PojavLauncher IPA Are you an avid Minecraft JAVA player who wishes to enjoy the game on your iOS device? L",
+ "description": "Single-app source for PojavLauncher (net.kdt.pojavlauncher). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/PojavLauncher-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.kdt.pojavlauncher",
+   "name": "PojavLauncher",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | PojavLauncher IPA Are you an avid Minecraft JAVA player who wishes to enjoy the game on your iOS device? Look no further than PojavLaunc",
+   "localizedDescription": "ipaomtk.com | PojavLauncher IPA Are you an avid Minecraft JAVA player who wishes to enjoy the game on your iOS device? Look no further than PojavLaunc",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/03/PojavLauncher-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.2",
+     "date": "2026-08-08T00:00:00Z",
+     "localizedDescription": "PojavLauncher was a Minecraft: Java Edition launcher for iOS and Android based on the Boardwalk project.  Notice: PojavLauncher iOS has been discontin",
+     "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+     "size": 108175347
+    },
+    {
+     "version": "2.1.2",
+     "date": "2024-03-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | PojavLauncher IPA Are you an avid Minecraft JAVA player who wishes to enjoy the game on your iOS device? Look no further than PojavLaunc",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PojavLauncher.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

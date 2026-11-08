@@ -1,0 +1,30 @@
+{
+ "name": "Minecraft - China",
+ "identifier": "dev.perapp.com-netease-mc",
+ "subtitle": "Minecraft - China by sidelix",
+ "description": "Single-app source for Minecraft - China (com.netease.mc). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://appstore.sidelix.vip/images/1781367044.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.netease.mc",
+   "name": "Minecraft - China",
+   "developerName": "sidelix",
+   "subtitle": "",
+   "localizedDescription": "Minecraft Chinese version",
+   "iconURL": "https://appstore.sidelix.vip/images/1781367044.jpeg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.2.20",
+     "date": "2026-06-13T00:00:00Z",
+     "localizedDescription": "Minecraft Chinese version",
+     "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2045",
+     "size": 1956228141
+    }
+   ]
+  }
+ ]
+}

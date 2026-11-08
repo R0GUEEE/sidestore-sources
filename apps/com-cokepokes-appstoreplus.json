@@ -1,0 +1,32 @@
+{
+ "name": "AppStore++_NewAPI",
+ "identifier": "dev.perapp.com-cokepokes-appstoreplus",
+ "subtitle": "AppStore++_NewAPI by AppStore++_NewAPI x CyPwn",
+ "description": "Single-app source for AppStore++_NewAPI (com.cokepokes.AppStorePlus). Converted from cypwn-trollstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppStore++_NewAPI.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cokepokes.AppStorePlus",
+   "name": "AppStore++_NewAPI",
+   "developerName": "AppStore++_NewAPI x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "AppStore++ with new API",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/AppStore++_NewAPI.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/AppStore++_NewAPI/AppStore++_NewAPI-0.png"
+   ],
+   "versions": [
+    {
+     "version": "1.0.3",
+     "date": "2024-10-14T00:00:00Z",
+     "localizedDescription": "AppStore++ with new API",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/AppStore++_NewAPI.ipa",
+     "size": 15917383
+    }
+   ]
+  }
+ ]
+}

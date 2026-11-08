@@ -1,0 +1,40 @@
+{
+ "name": "Glory of Rome",
+ "identifier": "dev.perapp.com-danheskett-gloryofrome",
+ "subtitle": "OpenBounty: open-source engine for King's Bounty (1990) and other turn-based fantasy gamepacks",
+ "description": "Single-app source for Glory of Rome (com.danheskett.gloryofrome). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#ab7f3a",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.danheskett.gloryofrome.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.danheskett.gloryofrome",
+   "name": "Glory of Rome",
+   "developerName": "dannyheskett",
+   "subtitle": "OpenBounty: open-source engine for King's Bounty (1990) and other turn-based fantasy gamepacks",
+   "localizedDescription": "OpenBounty:\n\nA faithful raylib reimplementation of King's Bounty (1990, New World Computing), and the engine behind The Glory of Rome, an original pack that has run on desktop, the web, iOS and Android.\n\nThis document has described how the game works, what it ships with, and how to build and run it.\n\nPre-built binaries have been published on the GitHub Releases page:\n\nEvery release has carried two desktop products for each of Linux x86_64, Windows x86_64 and i686, and macOS universal, plus the web and mobile builds.\n\n• OpenBounty (openbounty-build-N-*): King's Bounty, the binary with assets/kings-bounty.openbounty beside it; it has started with no flags. ./openbounty --extract has also built the same pack from a copy of the DOS distribution (§3).",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.danheskett.gloryofrome.png",
+   "tintColor": "#ab7f3a",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "48",
+     "date": "2026-10-27T16:55:36Z",
+     "localizedDescription": "• .gitignore: anchor legacy/ to the top level.\n• Promote: .gitignore legacy/ anchored.",
+     "downloadURL": "https://github.com/dannyheskett/openbounty/releases/download/release-48/gloryofrome-build-48-ios-arm64.ipa",
+     "size": 25019358
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {}
+   }
+  }
+ ]
+}

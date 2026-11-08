@@ -1,0 +1,44 @@
+{
+ "name": "DT2",
+ "identifier": "dev.perapp.com-tdmbest-dt2",
+ "subtitle": "DT2",
+ "description": "Single-app source for DT2 (com.TDMbest.DT2). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://mypleasure.zxcvbn.fyi/a5f0d9a3-abdf-4903-b702-85571ab501aa/icon.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.TDMbest.DT2",
+   "name": "DT2",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDT2 port Updated to 1.9v!\n- DT2 iOS port updated!\n- saves visible in files!\n- .sav’s transferable PC/Android - iOS \n- Transfer old sav to new sav bottom right\n- DT2’s Itch.io page\n- DT2’s Discord",
+   "iconURL": "https://mypleasure.zxcvbn.fyi/a5f0d9a3-abdf-4903-b702-85571ab501aa/icon.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.9",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDT2 port Updated to 1.9v!\n- DT2 iOS port updated!\n- saves visible in files!\n- .sav’s transferable PC/Android - iOS \n- Transfer old sav to new sav bottom right\n- DT2’s Itch.io page\n- DT2’s Discord",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/58c4145e-6234-430f-a3d2-eb00ed4581cd/DT2_1.9-TDMbest_d.ipa",
+     "size": 279611384
+    },
+    {
+     "version": "1.0.6",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDT2 port Updated to 1.6v!\n- DT2 iOS port updated!\n- saves visible in files!\n- .sav’s transferable PC/Android - iOS \n- DT2’s Itch.io page\n- DT2’s Discord",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/96cda0f4-ac7b-4566-95f8-e335ab58ff9c/DT2_1.6-TDMbest_d.ipa",
+     "size": 322791826
+    },
+    {
+     "version": "1.0.5",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @tdmbest_ipas |\n--------------------\nDT2 port Updated to 1.5v!\n- DT2 iOS port updated!\n- saves visible in files!\n- .sav’s transferable PC/Android - iOS \n- might post on itch.io\n- Itch.io page\n- DT2’s Discord",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/725b9b4b-5439-4fbe-a74a-cfa7d3bbda04/DT2_1.5-TDMbest_d.ipa",
+     "size": 320966315
+    }
+   ]
+  }
+ ]
+}

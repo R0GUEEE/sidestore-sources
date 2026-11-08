@@ -1,0 +1,30 @@
+{
+ "name": "ZiniTeviPlusPlus",
+ "identifier": "dev.perapp.jb-zini-tevi",
+ "subtitle": "Another movie app, modded to remove ads and tracking. No need to toggle the disable tracking options Last updated: 02-09",
+ "description": "Single-app source for ZiniTeviPlusPlus (jb.zini.tevi). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jb.zini.tevi.png",
+ "apps": [
+  {
+   "bundleIdentifier": "jb.zini.tevi",
+   "name": "ZiniTeviPlusPlus",
+   "developerName": "AppDB",
+   "subtitle": "Another movie app, modded to remove ads and tracking. No need to toggle the disable tracking options Last updated: 02-09-2023 Status: ⚠️",
+   "localizedDescription": "Another movie app, modded to remove ads and tracking. No need to toggle the disable tracking options Last updated: 02-09-2023 Status: ⚠️",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/jb.zini.tevi.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.5.0",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Another movie app, modded to remove ads and tracking. No need to toggle the disable tracking options Last updated: 02-09-2023 Status: ⚠️",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ZiniTeviPlusPlus/ZiniTeviPlusPlus-1.5.0.ipa",
+     "size": 7948926
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "BandLab",
+ "identifier": "dev.perapp.com-bandlab-bandlab-iphone",
+ "subtitle": "Boost Membership unlocked",
+ "description": "Single-app source for BandLab (com.bandlab.bandlab.iphone). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bandlab.bandlab.iphone.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.bandlab.bandlab.iphone",
+   "name": "BandLab",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Boost Membership unlocked",
+   "localizedDescription": "Chức năng đã thêm: Boost Membership - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bandlab.bandlab.iphone.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "11.14.0",
+     "date": "2026-07-23T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Boost Membership - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/BandLab_11.14.0_Boost_Membership_@thisismanpreets_apptesters.org.ipa",
+     "size": 117391237
+    }
+   ]
+  }
+ ]
+}

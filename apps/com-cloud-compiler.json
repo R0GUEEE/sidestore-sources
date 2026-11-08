@@ -1,0 +1,30 @@
+{
+ "name": "CodeSnackIDE",
+ "identifier": "dev.perapp.com-cloud-compiler",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for CodeSnackIDE (com.cloud-compiler). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.cloud-compiler",
+   "name": "CodeSnackIDE",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nInjected with Subscription Unlocked\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.2.0",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nInjected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/CodeSnackIDE_6.2.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 20899183
+    }
+   ]
+  }
+ ]
+}

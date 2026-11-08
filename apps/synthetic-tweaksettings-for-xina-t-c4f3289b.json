@@ -1,0 +1,30 @@
+{
+ "name": "TweakSettings_for_Xina_TS",
+ "identifier": "dev.perapp.synthetic-tweaksettings-for-xina-t-c4f3289b",
+ "subtitle": "TweakSettings app. For XinaA15 jailbreaks only.",
+ "description": "Single-app source for TweakSettings_for_Xina_TS (synthetic.tweaksettings-for-xina-t.c4f3289b). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/TweakSettings_for_Xina_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.tweaksettings-for-xina-t.c4f3289b",
+   "name": "TweakSettings_for_Xina_TS",
+   "developerName": "TweakSettings_for_Xina_TS x CyPwn",
+   "subtitle": "TweakSettings app. For XinaA15 jailbreaks only.",
+   "localizedDescription": "TweakSettings app. For XinaA15 jailbreaks only.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/TweakSettings_for_Xina_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.6",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "TweakSettings app. For XinaA15 jailbreaks only.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/TweakSettings_for_Xina_TS.ipa",
+     "size": 3418357
+    }
+   ]
+  }
+ ]
+}

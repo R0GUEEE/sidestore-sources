@@ -1,0 +1,35 @@
+{
+ "name": "Flightradar24_9.17.0",
+ "identifier": "dev.perapp.se-resenatverket-flightradar24-free",
+ "subtitle": "Flightradar24_9.17.0 by Flightradar24_9.17.0 x CyPwn",
+ "description": "Single-app source for Flightradar24_9.17.0 (se.resenatverket.FlightRadar24-Free). Converted from cypwn-altstore.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "FFC300",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Flightradar24_9.17.0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
+   "name": "Flightradar24_9.17.0",
+   "developerName": "Flightradar24_9.17.0 x CyPwn",
+   "subtitle": "",
+   "localizedDescription": "FlightRadar24 Gold Subscription",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Flightradar24_9.17.0.png",
+   "tintColor": "FFC300",
+   "screenshots": [
+    "https://ipa.cypwn.xyz/serve/screenshots/Flightradar24_9.17.0/Flightradar24_9.17.0-0.png",
+    "https://ipa.cypwn.xyz/serve/screenshots/Flightradar24_9.17.0/Flightradar24_9.17.0.jpeg",
+    "https://ipa.cypwn.xyz/serve/screenshots/Flightradar24_9.17.0/Flightradar24_9.17.0.png",
+    "https://ipa.cypwn.xyz/serve/screenshots/Flightradar24_9.17.0/Flightradar24_9.17.0_0.jpeg"
+   ],
+   "versions": [
+    {
+     "version": "9.17.0",
+     "date": "2024-02-09T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Flightradar24_9.17.0.ipa",
+     "size": 113088921
+    }
+   ]
+  }
+ ]
+}

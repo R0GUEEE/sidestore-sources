@@ -1,0 +1,37 @@
+{
+ "name": "Mindustry",
+ "identifier": "dev.perapp.io-anuke-mindustry-be",
+ "subtitle": "Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo in",
+ "description": "Single-app source for Mindustry (io.anuke.mindustry.be). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/icon.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.anuke.mindustry.be",
+   "name": "Mindustry",
+   "developerName": "Unofficial Mindustry repository",
+   "subtitle": "Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo into your turrets, produce mater",
+   "localizedDescription": "Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo into your turrets, produce mater",
+   "iconURL": "https://connect.sidestore.io/public/apps/io.anuke.mindustry.be/icon.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "20021",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo into your turrets, produce mater",
+     "downloadURL": "https://github.com/sonphantrung/MindustryiOS-Compiler/releases/download/20021/IOSLauncher.ipa",
+     "size": 118182344
+    },
+    {
+     "version": "7.20021.0",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "Mindustry is a factory-building game with tower defense and RTS elements. Create elaborate supply chains to feed ammo into your turrets, produce mater",
+     "downloadURL": "https://github.com/sonphantrung/MindustryiOS-Compiler/releases/download/20021/IOSLauncher.ipa",
+     "size": 118182344
+    }
+   ]
+  }
+ ]
+}

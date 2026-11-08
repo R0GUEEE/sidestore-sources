@@ -1,0 +1,44 @@
+{
+ "name": "Noteful",
+ "identifier": "dev.perapp.com-noteful-technologies-noteful",
+ "subtitle": "Injected with Pro",
+ "description": "Single-app source for Noteful (com.noteful-technologies.noteful). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.noteful-technologies.noteful",
+   "name": "Noteful",
+   "developerName": "AppTesters IPA Repo",
+   "subtitle": "Injected with Pro",
+   "localizedDescription": "Injected with Pro",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.noteful-technologies.noteful.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.30",
+     "date": "2026-07-20T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/24-11-2025/Noteful_1.4.30_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 94043538
+    },
+    {
+     "version": "1.4.31",
+     "date": "2026-07-19T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Noteful_1.4.31_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 94056033
+    },
+    {
+     "version": "1.4.29",
+     "date": "2026-07-10T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/05-11-2025/Noteful_1.4.29_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 93798939
+    }
+   ]
+  }
+ ]
+}

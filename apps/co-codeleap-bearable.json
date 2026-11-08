@@ -1,0 +1,44 @@
+{
+ "name": "Bearable",
+ "identifier": "dev.perapp.co-codeleap-bearable",
+ "subtitle": "@blatants | Bearable - Symptom Tracker  • Bundle ID: co.codeleap.bearable • Updated to: 1.0.607 • Minimum iOS: 15.1 • Pa",
+ "description": "Single-app source for Bearable (co.codeleap.bearable). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/blatants/11458.png",
+ "apps": [
+  {
+   "bundleIdentifier": "co.codeleap.bearable",
+   "name": "Bearable",
+   "developerName": "@blatants",
+   "subtitle": "@blatants | Bearable - Symptom Tracker  • Bundle ID: co.codeleap.bearable • Updated to: 1.0.607 • Minimum iOS: 15.1 • Patched • Modifier: Subscription",
+   "localizedDescription": "@blatants | Bearable - Symptom Tracker  • Bundle ID: co.codeleap.bearable • Updated to: 1.0.607 • Minimum iOS: 15.1 • Patched • Modifier: Subscription",
+   "iconURL": "https://fastsign.dev/tg-icon/blatants/11458.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0.614",
+     "date": "2026-10-23T00:00:00Z",
+     "localizedDescription": "@blatants | Bearable - Symptom Tracker  • Bundle ID: co.codeleap.bearable • Updated to: 1.0.614 • Minimum iOS: 15.1 • Patched • Modifier: Subscription",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Bearable_1.0.614_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+     "size": 64247504
+    },
+    {
+     "version": "1.0.613",
+     "date": "2026-10-17T00:00:00Z",
+     "localizedDescription": "@blatants | Bearable - Symptom Tracker  • Bundle ID: co.codeleap.bearable • Updated to: 1.0.613 • Minimum iOS: 15.1 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12842-Bearable_Symptom_Tracker_v1_0_613_Subscription_Unlocked_blatant.ipa",
+     "size": 64159970
+    },
+    {
+     "version": "1.0.612",
+     "date": "2026-10-08T00:00:00Z",
+     "localizedDescription": "@blatants | Bearable - Symptom Tracker  • Bundle ID: co.codeleap.bearable • Updated to: 1.0.612 • Minimum iOS: 15.1 • Patched • Modifier: Subscription",
+     "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12683-Bearable_Symptom_Tracker_v1_0_612_Subscription_Unlocked_blatant.ipa",
+     "size": 64115144
+    }
+   ]
+  }
+ ]
+}

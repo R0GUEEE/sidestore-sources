@@ -1,0 +1,37 @@
+{
+ "name": "valkries",
+ "identifier": "dev.perapp.com-megagames-valkyrie",
+ "subtitle": "ipaomtk.com | Valkyrie Heart on iOS Valkyrie Heart on iOS delivers a deeply engaging action RPG experience built around ",
+ "description": "Single-app source for valkries (com.megagames.valkyrie). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Valkyrie-Heart-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.megagames.valkyrie",
+   "name": "valkries",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Valkyrie Heart on iOS Valkyrie Heart on iOS delivers a deeply engaging action RPG experience built around dynamic battles, evocative wor",
+   "localizedDescription": "ipaomtk.com | Valkyrie Heart on iOS Valkyrie Heart on iOS delivers a deeply engaging action RPG experience built around dynamic battles, evocative wor",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/01/Valkyrie-Heart-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-01-25T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Valkyrie Heart on iOS Valkyrie Heart on iOS delivers a deeply engaging action RPG experience built around dynamic battles, evocative wor",
+     "downloadURL": "https://file.ipaomtk.com/valkyrie-heart/Valkyrie-Heart-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.4.2",
+     "date": "2026-01-25T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Valkyrie Heart on iOS Valkyrie Heart on iOS delivers a deeply engaging action RPG experience built around dynamic battles, evocative wor",
+     "downloadURL": "https://file.ipaomtk.com/valkyrie-heart/Valkyrie-Heart-IPAOMTK.COM.ipa",
+     "size": 1160164968
+    }
+   ]
+  }
+ ]
+}

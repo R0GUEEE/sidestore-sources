@@ -1,0 +1,102 @@
+{
+ "name": "Rocket for Instagram",
+ "identifier": "dev.perapp.com-burbn-instagram",
+ "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 12.4 and later.",
+ "description": "Single-app source for Rocket for Instagram (com.burbn.instagram). Converted from quantumsource.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "c72a96",
+ "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.burbn.instagram",
+   "name": "Rocket for Instagram",
+   "developerName": "Alfhaily & Qn_",
+   "subtitle": "Save posts and view stories anonymously and do much more. Requires iOS 12.4 and later.",
+   "localizedDescription": "Rocket not only gives you the features that are missing from Instagram, but it also gives you full control over the app.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix\n\nFEATURES\n- Browse home feed in grid layout.\n- Show following status in Profile.\n- Download posts from your feed.\n- Repost any post from your feed.\n- Long press on posts to zoom.\n- Copy post captions from your feed.\n- Download all Stories on Instagram.\n- Save videos from IGTV.\n- View Stories without notifying others.\n- Mute and unmute Stories.\n- Disable Auto-Advance in Stories.\n- Hide Stories from your feed.\n- Play in high quality on Mobile Data.\n- Long press on profile photo to zoom.\n- Disable read receipts in DM.\n- Disable Screenshot notifications in DM.\n- Disable Read Receipts in DM.\n\nLearn how to make your own Rocket for Instagram iPA here: https://github.com/qnblackcat/IGSideloadFix",
+   "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/800px-Instagram_logo_2016.svg.png",
+   "tintColor": "c72a96",
+   "screenshots": [
+    "https://apt.alfhaily.me/cdn/assets/rocket-screenshot1.jpg",
+    "https://apt.alfhaily.me/cdn/assets/rocket-screenshot2.jpg",
+    "https://apt.alfhaily.me/cdn/assets/rocket-screenshot3.jpg",
+    "https://apt.alfhaily.me/cdn/assets/rocket-screenshot4.jpg"
+   ],
+   "versions": [
+    {
+     "version": "312.0.0",
+     "date": "2024-01-05T12:00:00-01:00Z",
+     "localizedDescription": "Changelog v312.0.0-3.8.19:\n- https://apt.alfhaily.me/depiction/4EYOXC",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EdNlrmF07-VKts4Vb-ZNdn8Bl_HIJjiUKwnNGHEzOsmW4g?download=1",
+     "size": 91750400
+    },
+    {
+     "version": "288.1",
+     "date": "2023-07-03T12:00:00-01:00Z",
+     "localizedDescription": "Changelog v280.0-3.8.9:\n- https://apt.alfhaily.me/depiction/4EYOXC",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EQv6sckLCvlGnfMH24EzBpsB0SIt-cMlQrxXYjO8U_H5IA?download=1",
+     "size": 91750400
+    },
+    {
+     "version": "280.0",
+     "date": "2023-04-28T12:00:00-01:00Z",
+     "localizedDescription": "Changelog v280.0-3.8.5:\n- https://apt.alfhaily.me/depiction/4EYOXC",
+     "downloadURL": "https://27man-my.sharepoint.com/:u:/g/personal/qn____27man_onmicrosoft_com/EVmGQw5amutDvTKiKOn6cdYBad3s6R-SsSAGV3BshbNd7g?download=1",
+     "size": 91750400
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": [
+     {
+      "name": "Calendars",
+      "usageDescription": "This will let Instagram sync events to your calendar."
+     },
+     {
+      "name": "Camera",
+      "usageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects."
+     },
+     {
+      "name": "Contacts",
+      "usageDescription": "Instagram will use your contacts to help you connect with the people and things you care about and offer a better service. Your contacts will be synced and securely stored on Instagram's servers."
+     },
+     {
+      "name": "FaceID",
+      "usageDescription": "Enable Face ID for quick and secure authentication on Instagram."
+     },
+     {
+      "name": "FocusStatus",
+      "usageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings."
+     },
+     {
+      "name": "LocationAlwaysAndWhenInUse",
+      "usageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings."
+     },
+     {
+      "name": "Location",
+      "usageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings."
+     },
+     {
+      "name": "LocationWhenInUse",
+      "usageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings."
+     },
+     {
+      "name": "Microphone",
+      "usageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects."
+     },
+     {
+      "name": "PhotoLibraryAdd",
+      "usageDescription": "This lets you save photos and videos to your Camera Roll."
+     },
+     {
+      "name": "PhotoLibrary",
+      "usageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share."
+     },
+     {
+      "name": "UserTracking",
+      "usageDescription": "This allows Instagram to provide you with a better ads experience."
+     }
+    ]
+   }
+  }
+ ]
+}

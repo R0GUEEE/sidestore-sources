@@ -1,0 +1,37 @@
+{
+ "name": "Mini Legend",
+ "identifier": "dev.perapp.com-twitchyfinger-itunes-minilegend",
+ "subtitle": "ipaomtk.com | Mini Legend 4WD Racing Sim IPA, Attention all racing enthusiasts! Brace yourselves for an exhilarating jou",
+ "description": "Single-app source for Mini Legend (com.twitchyfinger.itunes.minilegend). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/mini-legend-4wd-racing-sim-ico-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.twitchyfinger.itunes.minilegend",
+   "name": "Mini Legend",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Mini Legend 4WD Racing Sim IPA, Attention all racing enthusiasts! Brace yourselves for an exhilarating journey into the world of off-roa",
+   "localizedDescription": "ipaomtk.com | Mini Legend 4WD Racing Sim IPA, Attention all racing enthusiasts! Brace yourselves for an exhilarating journey into the world of off-roa",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/mini-legend-4wd-racing-sim-ico-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.23.0",
+     "date": "2024-10-26T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Mini Legend 4WD Racing Sim IPA, Attention all racing enthusiasts! Brace yourselves for an exhilarating journey into the world of off-roa",
+     "downloadURL": "https://file.ipaomtk.com/Mini_Legend_4WD_Racing_Sim/Mini-Legend-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "3.30.0",
+     "date": "2024-10-26T00:00:00Z",
+     "localizedDescription": "Tweaks: iGameGod\n\nipaomtk.com | Mini Legend 4WD Racing Sim IPA, Attention all racing enthusiasts! Brace yourselves for an exhilarating journey into the world of off-roa",
+     "downloadURL": "https://file.ipaomtk.com/Mini_Legend_4WD_Racing_Sim/Mini-Legend-IPAOMTK.COM.ipa",
+     "size": 468629117
+    }
+   ]
+  }
+ ]
+}

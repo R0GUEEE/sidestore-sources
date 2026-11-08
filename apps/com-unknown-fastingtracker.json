@@ -1,0 +1,30 @@
+{
+ "name": "Fasting Tracker",
+ "identifier": "dev.perapp.com-unknown-fastingtracker",
+ "subtitle": "ڕێجیمێکی خێرا و سادە بۆ دابەزاندنی کێش",
+ "description": "Single-app source for Fasting Tracker (com.unknown.fastingtracker). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Fasting.Tracker.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.fastingtracker",
+   "name": "Fasting Tracker",
+   "developerName": "Karbin-Store",
+   "subtitle": "ڕێجیمێکی خێرا و سادە بۆ دابەزاندنی کێش",
+   "localizedDescription": "ڕێجیمێکی خێرا و سادە بۆ دابەزاندنی کێش",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Fasting.Tracker.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.8.9",
+     "date": "2026-02-27T00:00:00Z",
+     "localizedDescription": "ڕێجیمێکی خێرا و سادە بۆ دابەزاندنی کێش",
+     "downloadURL": "https://github.com/Karbin18/kara-store-ipa/releases/download/Kara-Store/Fasting1.8.9.ipa",
+     "size": 164010000
+    }
+   ]
+  }
+ ]
+}

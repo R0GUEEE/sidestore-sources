@@ -1,0 +1,30 @@
+{
+ "name": "Fltr",
+ "identifier": "dev.perapp.com-feelty",
+ "subtitle": "Fltr",
+ "description": "Single-app source for Fltr (com.feelty). Converted from ittza7aa.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.feelty",
+   "name": "Fltr",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.feelty.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.18.4",
+     "date": "2024-12-09T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-12-2024/Fltr_4.18.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 87111496
+    }
+   ]
+  }
+ ]
+}

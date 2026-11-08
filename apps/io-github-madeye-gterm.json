@@ -1,0 +1,30 @@
+{
+ "name": "gterm",
+ "identifier": "dev.perapp.io-github-madeye-gterm",
+ "subtitle": "gterm:  An iOS terminal app that renders with ghostty's libghostty engine (GPU/Metal, full xterm/VT emulation) and conne",
+ "description": "Single-app source for gterm (io.github.madeye.gterm). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.madeye.gterm.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.github.madeye.gterm",
+   "name": "gterm",
+   "developerName": "madeye",
+   "subtitle": "gterm:  An iOS terminal app that renders with ghostty's libghostty engine (GPU/Metal, full xterm/VT emulation) and connects over SSH.  📲 Get the app: ",
+   "localizedDescription": "gterm:  An iOS terminal app that renders with ghostty's libghostty engine (GPU/Metal, full xterm/VT emulation) and connects over SSH.  📲 Get the app:\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.github.madeye.gterm.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "gterm:  An iOS terminal app that renders with ghostty's libghostty engine (GPU/Metal, full xterm/VT emulation) and connects over SSH.  📲 Get the app: ",
+     "downloadURL": "https://github.com/madeye/gterm/releases/download/v1.1-2026060109/gterm-1.1-2026060109.ipa",
+     "size": 18147048
+    }
+   ]
+  }
+ ]
+}

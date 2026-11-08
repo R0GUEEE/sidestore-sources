@@ -1,0 +1,44 @@
+{
+ "name": "WallcraftPro",
+ "identifier": "dev.perapp.com-wallpaperscraft-wallpapers",
+ "subtitle": "WallcraftPro by DPixel",
+ "description": "Single-app source for WallcraftPro (com.wallpaperscraft.wallpapers). Converted from neoncat-native.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wallpaperscraft.wallpapers.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wallpaperscraft.wallpapers",
+   "name": "WallcraftPro",
+   "developerName": "DPixel",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.wallpaperscraft.wallpapers.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "3.12",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WallcraftPro/WallcraftPro-3.12.ipa",
+     "size": 92047124
+    },
+    {
+     "version": "3.14",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WallcraftPro/WallcraftPro-3.14.ipa",
+     "size": 91839901
+    },
+    {
+     "version": "3.17",
+     "date": "2024-10-15T00:00:00Z",
+     "localizedDescription": "High-quality wallpapers for iPhone, unlocked with Pro. A user requested it so here it is.\nLast updated: 08-01-2024\nStatus: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/WallcraftPro/WallcraftPro-3.17.ipa",
+     "size": 107411971
+    }
+   ]
+  }
+ ]
+}

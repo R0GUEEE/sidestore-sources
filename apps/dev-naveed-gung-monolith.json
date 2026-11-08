@@ -1,0 +1,30 @@
+{
+ "name": "Monolith",
+ "identifier": "dev.perapp.dev-naveed-gung-monolith",
+ "subtitle": "Monolith:  A personal music player for iOS and Android. Bring your own music, keep a local collection, and listen with t",
+ "description": "Single-app source for Monolith (dev.naveed-gung.monolith). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.naveed-gung.monolith.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.naveed-gung.monolith",
+   "name": "Monolith",
+   "developerName": "naveed-gung",
+   "subtitle": "Monolith:  A personal music player for iOS and Android. Bring your own music, keep a local collection, and listen with the screen locked.  On a comput",
+   "localizedDescription": "Monolith:  A personal music player for iOS and Android. Bring your own music, keep a local collection, and listen with the screen locked.  On a comput\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.naveed-gung.monolith.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.4.6",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Monolith:  A personal music player for iOS and Android. Bring your own music, keep a local collection, and listen with the screen locked.  On a comput",
+     "downloadURL": "https://github.com/naveed-gung/Monolith/releases/download/v1.4.6/monolith.ipa",
+     "size": 11128634
+    }
+   ]
+  }
+ ]
+}

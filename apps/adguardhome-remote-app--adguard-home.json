@@ -1,0 +1,30 @@
+{
+ "name": "AdGuard Home",
+ "identifier": "dev.perapp.adguardhome-remote-app",
+ "subtitle": "AdGuard Home",
+ "description": "Single-app source for AdGuard Home (adguardhome.remote.app). Converted from dsewerek-general.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/5d/e3/d15de32a-3991-5114-6777-b5c48e3edab3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+ "apps": [
+  {
+   "bundleIdentifier": "adguardhome.remote.app",
+   "name": "AdGuard Home",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAdGuard Home Remote\n\nPro features unlocked\n\nYou might have to restore purchase\n\nminimum OS version 16.2\n\nAppStore link | Donate | Get your own signing cert",
+   "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/5d/e3/d15de32a-3991-5114-6777-b5c48e3edab3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "5.3.2",
+     "date": "2000-01-01T00:00:00Z",
+     "localizedDescription": "from @binnichtaktivsipas |\n--------------------------\nAdGuard Home Remote\n\nPro features unlocked\n\nYou might have to restore purchase\n\nminimum OS version 16.2\n\nAppStore link | Donate | Get your own signing cert",
+     "downloadURL": "https://mypleasure.zxcvbn.fyi/4e8e8099-2ab3-42af-814f-97ade4cafd9d/AdGuard_Home_Remote_Pro_5.3.2.ipa",
+     "size": 18768491
+    }
+   ]
+  }
+ ]
+}

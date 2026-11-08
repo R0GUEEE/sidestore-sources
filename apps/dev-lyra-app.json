@@ -1,0 +1,38 @@
+{
+ "name": "Lyra",
+ "identifier": "dev.perapp.dev-lyra-app",
+ "subtitle": "A standalone agent with its own model settings",
+ "description": "Single-app source for Lyra (dev.lyra.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#8dafef",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.lyra.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "dev.lyra.app",
+   "name": "Lyra",
+   "developerName": "kittors",
+   "subtitle": "A standalone agent with its own model settings",
+   "localizedDescription": "A standalone agent with its own model settings. The desktop app is Electron, the phone app is React Native, and the phone works on the same sessions as the computer.\n\nThis is not a shell around Claude Code or Codex. The agent loop, tools, skills, and MCP are implemented here. You bring the models, plugins, and skills.\n\nDownload:\n\nIf you are not sure which architecture you have: on macOS look at the chip line in About This Mac, on Windows look at System type under Settings → System → About, on Linux run uname -m (x86_64 is x64, aarch64 is arm64).\n\nAppImage or deb, not both. AppImage needs no installer: chmod +x and run it on any distribution. The .deb is for Debian and Ubuntu: sudo apt install ./Lyra--amd64.deb.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/dev.lyra.app.png",
+   "tintColor": "#8dafef",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.9.33",
+     "date": "2026-11-04T23:49:53Z",
+     "localizedDescription": "New:\n\n• Pictures are made smaller before they go to the model. A 4K screenshot is several megabytes, a phone photo about as much, and every request carries every picture in the conversation again. Thirteen of them made each request 25 MB; over a 15 KB/s upload that is about 28 minutes a turn. A 6.8 MB screenshot was over the 5 MB per-picture limit some providers enforce, and the request was refused — then the next one too, because the picture stayed in the history. A HEIC photo from an iPhone never reached the model at all: it was swapped for a line saying the format is not supported.\n\n• A picture is fitted once, when it enters the conversation: at most 2000 px on the long side, about 512 KB where possible. That covers the three message boxes, pasting, marked-up pictures, photos from the phone, and pictures tools bring back — a picture file the agent opens, an MCP server, a browser screenshot. Screenshots stay PNG when they fit and otherwise become JPEG with small text still readable; photos go as JPEG. On macOS, HEIC is converted.\n• The same thirteen pictures now make a 3 MB first request and about 2 MB after that.\n• A request carries the latest 10 pictures (4 MB at most) as they are. Older ones go as small copies, then as a line telling the model it can no longer see them. The conversation itself keeps every picture.\n• Dropping thirteen pictures in at once takes 3.0 s instead of 2.4 s.\n\n• Menus work from the keyboard. ↑ and ↓ move, Home and End jump to either end, Enter chooses, → opens a submenu and ← closes it. After opening a menu with the mouse, ↓ goes to its first item. In menus with a search box, typing stays in the box and the arrows move the highlight.\n\n• Alt-click (⌥-click) a conversation in the sidebar to open it in Split view next to the one you are in, as in Claude's desktop app.\n• Right-click in a reply to copy the selected text, Copy link, Copy image, or save the image with Save as….\n• In Split view you can see which pane has the keyboard: the other panes' titles and icons are one step dimmer.\n\nImprovements & Fixes:\n\n• On Windows, a terminal opened in its own window could not be moved, and double-clicking its title bar did nothing. Only the first 10 px of the bar could be grabbed; the row of tabs took the rest. The empty part of the bar now drags the window, and a double-click maximizes it.\n• On Windows, Ctrl+W hid the whole window in the tray. Windows 11 keeps new tray icons behind ^, so it looked as though Lyra had quit. Ctrl+W now closes the panel in front, then the split pane, and never the window; in the terminal it still deletes the previous word. The first time closing the window leaves Lyra running in the notification area, a notification says so and how to bring it back. It appears once.\n\n• Opening a panel in a new window left nothing on screen for about three seconds. The panel vanished from the main window at once, and the new window came up later with a splash screen. The panel now stays where it is, marked \"Moving to a new window…\", until the new window is showing. On the test machine that takes 0.39 s the first time. After that, Lyra keeps one window ready in the background and the next one takes 0.06 s; the ready window is a hidden page of about 80 MB that only exists once you have used this, and it closes with the main window.\n• On Windows, the pointer over dividers was hard to see. It was Chromium's own ←‖→, which almost disappears on grey. Dividers and the sidebar handle use the system ↔ and ↕ pointers now.\n• The terminal's scrollbar was a 14 px grey block. It is the same thin rounded bar as everywhere else.\n\n• Dragging a conversation to the right edge to make a split, the card under the pointer went off the window. Near the edges it moves to the other side of the pointer.\n\nNouveautés:\n\n• Les images sont réduites avant de partir vers le modèle. Une capture d'écran 4K pèse plusieurs mégaoctets, une photo de téléphone à peu près autant, et chaque requête renvoie toutes les images de la conversat",
+     "downloadURL": "https://github.com/kittors/Lyra/releases/download/v0.9.33/Lyra-0.9.33-ios-unsigned.ipa",
+     "size": 13072315
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSCameraUsageDescription": "Scan the QR code on the desktop to pair, or take a photo to send in a conversation.",
+     "NSFaceIDUsageDescription": "Allow Lyra to access your Face ID biometric data.",
+     "NSMicrophoneUsageDescription": "Records sound when you film a video to send in a conversation."
+    }
+   }
+  }
+ ]
+}

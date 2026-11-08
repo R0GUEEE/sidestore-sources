@@ -1,0 +1,40 @@
+{
+ "name": "C64 Commander",
+ "identifier": "dev.perapp.uk-gleissner-c64commander",
+ "subtitle": "Control and manage a Commodore 64 Ultimate from Android, iOS, or a self-hosted web deployment on your local network",
+ "description": "Single-app source for C64 Commander (uk.gleissner.c64commander). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#bea85c",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/uk.gleissner.c64commander.png",
+ "apps": [
+  {
+   "bundleIdentifier": "uk.gleissner.c64commander",
+   "name": "C64 Commander",
+   "developerName": "chrisgleissner",
+   "subtitle": "Control and manage a Commodore 64 Ultimate from Android, iOS, or a self-hosted web deployment on your local network",
+   "localizedDescription": "C64 Commander:\n\nControl and manage a Commodore 64 Ultimate from Android, iOS, or a self-hosted web deployment on your local network.\n\nFeatures:\n\n• Device support: Works with the C64 Ultimate, Ultimate 64 Elite I/II, and Ultimate-II+(L) cartridges.\n• Search: Find any page, setting, action, tune or disk by name. Three ways in — the field at the top of Home, the Quick menu, or the 7 key. A result you cannot use yet is still listed, with the reason.\n• Guided tour: A first-run walk through every part of the app.\n• Dashboard: Control the machine, drives, printer, SID mixer, lighting, and streams from one page.\n• Playlists and SID Radio: Play programs and SID music from local files, device storage, HVSC, or CommoServe.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/uk.gleissner.c64commander.png",
+   "tintColor": "#bea85c",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/c64commander@main/docs/img/app/home/00-overview-light.png",
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/c64commander@main/docs/img/app/home/sections/01-quick-actions-to-live-view.png",
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/c64commander@main/docs/img/app/home/01-overview-dark.png",
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/c64commander@main/docs/img/app/home/sections/04-video-to-audio.png",
+    "https://cdn.jsdelivr.net/gh/chrisgleissner/c64commander@main/docs/img/app/home/sections/10-lighting-to-keyboard-light.png"
+   ],
+   "versions": [
+    {
+     "version": "1.2.2",
+     "date": "2026-11-07T06:49:16Z",
+     "localizedDescription": "What's New:\n\nThis release makes it safe to control one C64 from two phones, or from C64 Commander and another app, at the same time. The C64 has one stream target, one audio mixer, one joystick and keyboard state, one set of drives and one configuration for everyone connected to it. Before this release, several actions in the app assumed it was the only one connected.\n\nTwo phones on one C64:\n\n• Live View: When a second phone starts Live View, the first phone no longer takes the stream back every few seconds. It shows that another app has the stream, and closing Live View on it no longer stops the other phone's picture. After a Wi-Fi drop, the phone takes its stream back when its packets arrive again. (#637).\n\n• Disks: Each phone now uses its own work file when it mounts a disk from the phone, so one phone's eject can no longer save the other phone's disk over its own file. Eject, Remove and the next and previous disk of a group now check the drive first and leave a disk in place that another phone has mounted since. Stop on the Play page ejects only the disk it mounted. (#637).\n• Playback: When the song-length timer runs out, or you press Stop or the sleep timer ends, the app first checks that the C64 is still playing its tune. If another app has started something else, the app stops its playlist with a message and leaves the C64 alone. This check covers SID tunes. (#637).\n• Volume: Pause and resume, Stop, the end of a playlist, seeking in a tune, Solo and config Revert now restore only the volume levels this phone changed. A level set by another app in the meantime is kept. (#637).\n• Health check: Two phones running the health check at the same moment no longer leave a changed setting behind. The FTP check now allows 3 seconds, like the REST and Telnet checks, so a short Wi-Fi stall no longer reports a healthy C64 as degraded. (#637).\n\nReliability:\n\n• Telnet: A background check of another saved C64 can no longer take over a Telnet session in the middle of a task, so keystrokes always reach the C64 the task started on. REU and config file tasks stay on one C64 from start to finish. (#637).\n• Remote seek: Fixed a rare case where pausing during a seek could make the app undo the seek again later. (#637).\n• Keyboard Lighting: Home and Lighting Studio no longer ask for Keyboard Lighting settings from a C64 that has none. (#637).",
+     "downloadURL": "https://github.com/chrisgleissner/c64commander/releases/download/1.2.2/c64commander-1.2.2-ios.ipa",
+     "size": 7611560
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {}
+   }
+  }
+ ]
+}

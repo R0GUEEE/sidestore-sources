@@ -1,0 +1,30 @@
+{
+ "name": "ArabicArt",
+ "identifier": "dev.perapp.com-appchief-arabicart",
+ "subtitle": "Pro unlocked",
+ "description": "Single-app source for ArabicArt (com.AppChief.ArabicArt). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.AppChief.ArabicArt",
+   "name": "ArabicArt",
+   "developerName": "TTJB IPA Repo",
+   "subtitle": "Pro unlocked",
+   "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.AppChief.ArabicArt.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.0.3",
+     "date": "2026-11-03T00:00:00Z",
+     "localizedDescription": "Chức năng đã thêm: Pro - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
+     "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/30-07-2026/_10.0.3_Pro_@thisismanpreets_apptesters.org.ipa",
+     "size": 71521371
+    }
+   ]
+  }
+ ]
+}

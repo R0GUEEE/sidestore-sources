@@ -1,0 +1,30 @@
+{
+ "name": "Tsubomi",
+ "identifier": "dev.perapp.org-vita3k-experimental-ios",
+ "subtitle": "Tsubomi:  Tsubomi is an experimental PlayStation Vita emulator for iOS (iPhone/iPad).  Tsubomi is a fork of Vita3K and u",
+ "description": "Single-app source for Tsubomi (org.vita3k.experimental.ios). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.vita3k.experimental.ios.png",
+ "apps": [
+  {
+   "bundleIdentifier": "org.vita3k.experimental.ios",
+   "name": "Tsubomi",
+   "developerName": "125hz",
+   "subtitle": "Tsubomi:  Tsubomi is an experimental PlayStation Vita emulator for iOS (iPhone/iPad).  Tsubomi is a fork of Vita3K and uses it as its emulation base. ",
+   "localizedDescription": "Tsubomi:  Tsubomi is an experimental PlayStation Vita emulator for iOS (iPhone/iPad).  Tsubomi is a fork of Vita3K and uses it as its emulation base.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/org.vita3k.experimental.ios.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.47.0",
+     "date": "2026-10-14T00:00:00Z",
+     "localizedDescription": "Tsubomi:  Tsubomi is an experimental PlayStation Vita emulator for iOS (iPhone/iPad).  Tsubomi is a fork of Vita3K and uses it as its emulation base. ",
+     "downloadURL": "https://github.com/125hz/Tsubomi/releases/download/0.47.0/Tsubomi.ipa",
+     "size": 19485724
+    }
+   ]
+  }
+ ]
+}

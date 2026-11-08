@@ -1,0 +1,30 @@
+{
+ "name": "MadOut2",
+ "identifier": "dev.perapp.com-madout-big",
+ "subtitle": "ipaomtk.com | MadOut 2: Grand Auto Racing on iOS MadOut 2: Grand Auto Racing is one of the most ambitious open-world dri",
+ "description": "Single-app source for MadOut2 (com.MadOut.BIG). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/MadOut-2-Grand-Auto-racing-LOGO-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.MadOut.BIG",
+   "name": "MadOut2",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | MadOut 2: Grand Auto Racing on iOS MadOut 2: Grand Auto Racing is one of the most ambitious open-world driving games available on iPhone",
+   "localizedDescription": "ipaomtk.com | MadOut 2: Grand Auto Racing on iOS MadOut 2: Grand Auto Racing is one of the most ambitious open-world driving games available on iPhone",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/10/MadOut-2-Grand-Auto-racing-LOGO-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "18.02",
+     "date": "2023-10-04T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | MadOut 2: Grand Auto Racing on iOS MadOut 2: Grand Auto Racing is one of the most ambitious open-world driving games available on iPhone",
+     "downloadURL": "https://file.ipaomtk.com/madout2-big-city-online-ipa/MadOut2_18.02-IPAOMTK.COM.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "PlayNav",
+ "identifier": "dev.perapp.com-wetube-app-wetube",
+ "subtitle": "ipaomtk.com | PlayNav Video Player IPA is a revolutionary app that brings a whole new level of entertainment to your iOS",
+ "description": "Single-app source for PlayNav (com.wetube-app.wetube). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/PlayNav-Video-Player-iOS-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.wetube-app.wetube",
+   "name": "PlayNav",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | PlayNav Video Player IPA is a revolutionary app that brings a whole new level of entertainment to your iOS device. With its sleek design",
+   "localizedDescription": "ipaomtk.com | PlayNav Video Player IPA is a revolutionary app that brings a whole new level of entertainment to your iOS device. With its sleek design",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/01/PlayNav-Video-Player-iOS-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.12",
+     "date": "2024-01-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | PlayNav Video Player IPA is a revolutionary app that brings a whole new level of entertainment to your iOS device. With its sleek design",
+     "downloadURL": "https://file.ipaomtk.com/ipa/PlayNav.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

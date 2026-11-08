@@ -1,0 +1,37 @@
+{
+ "name": "Endel",
+ "identifier": "dev.perapp.com-unknown-endel",
+ "subtitle": "Endel by Karbin-Store",
+ "description": "Single-app source for Endel (com.unknown.endel). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Endel.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.endel",
+   "name": "Endel",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/Karbin18/kara-store-image/releases/download/Kara-Store/Endel.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.46.44",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Endel.ipa",
+     "size": 166170000
+    },
+    {
+     "version": "4.45.5",
+     "date": "2024-10-27T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/karbin09/karbin-ipa/releases/download/karbin-ipa/Endel.ipa",
+     "size": 200318355
+    }
+   ]
+  }
+ ]
+}

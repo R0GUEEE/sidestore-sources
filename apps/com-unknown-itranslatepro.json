@@ -1,0 +1,30 @@
+{
+ "name": "iTranslatePro",
+ "identifier": "dev.perapp.com-unknown-itranslatepro",
+ "subtitle": "یەکێک لە باشترین بەرنامەکان بۆ وەرگێڕی چەندەها زمان",
+ "description": "Single-app source for iTranslatePro (com.unknown.itranslatepro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/iTranslatePro.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.itranslatepro",
+   "name": "iTranslatePro",
+   "developerName": "Karbin-Store",
+   "subtitle": "یەکێک لە باشترین بەرنامەکان بۆ وەرگێڕی چەندەها زمان",
+   "localizedDescription": "یەکێک لە باشترین بەرنامەکان بۆ وەرگێڕی چەندەها زمان",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/iTranslatePro.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "17.4.2",
+     "date": "2025-01-11T00:00:00Z",
+     "localizedDescription": "یەکێک لە باشترین بەرنامەکان بۆ وەرگێڕی چەندەها زمان",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/iTranslatePro/iTranslatePro-17.4.2.ipa",
+     "size": 95570000
+    }
+   ]
+  }
+ ]
+}

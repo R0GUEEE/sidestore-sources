@@ -1,0 +1,46 @@
+{
+ "name": "BrewLog",
+ "identifier": "dev.perapp.com-brewlog-app",
+ "subtitle": "The flow axis scales to the 98th percentile, so a bump on the scale doesn't squash the graph",
+ "description": "Single-app source for BrewLog (com.brewlog.app). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#b96e3e",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.brewlog.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.brewlog.app",
+   "name": "BrewLog",
+   "developerName": "proelio57",
+   "subtitle": "The flow axis scales to the 98th percentile, so a bump on the scale doesn't squash the graph",
+   "localizedDescription": "Features:\n\n• Setup assistant on first launch: one simple question per screen with big tappable tiles: brewer (pour-over or espresso machine like Cafelat Robot, Flair 58, Decent DE1, La Marzocco, Gaggia) → connect the espresso machine (GaggiMate, Decent DE1 or La Marzocco; only if you picked one) → filter papers (the ones that fit your brewer come first; skipped for espresso only) → grinder + your usual setting → beans → scale. The Gear tab lists espresso machines apart from pour-over brewers. Every step can be skipped. \"Skip, just use the scale\" goes straight to Quick weigh. Run it again any time from Gear → Setup assistant. If you skipped it, the Brew tab shows a small reminder card.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.brewlog.app.png",
+   "tintColor": "#b96e3e",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/proelio57/BrewLog@main/docs/screenshots/welcome.png",
+    "https://cdn.jsdelivr.net/gh/proelio57/BrewLog@main/docs/screenshots/setup-brewer.png",
+    "https://cdn.jsdelivr.net/gh/proelio57/BrewLog@main/docs/screenshots/quick-weigh.png",
+    "https://cdn.jsdelivr.net/gh/proelio57/BrewLog@main/docs/screenshots/setup.png",
+    "https://cdn.jsdelivr.net/gh/proelio57/BrewLog@main/docs/screenshots/suggestions.png"
+   ],
+   "versions": [
+    {
+     "version": "2.0.2",
+     "date": "2026-11-07T12:15:29Z",
+     "localizedDescription": "• A knock on the scale no longer spoils a brew: short spikes are removed even when the scale sends several readings of them, so the final weight, the pour analysis (\"overpoured\") and the flow chart ignore them.\n\n• A knock on the scale no longer spoils a brew: short spikes are removed even when the scale sends several readings of them, so the final weight, the pour analysis (\"overpoured\") and the flow chart ignore them.\n\nWeb.",
+     "downloadURL": "https://github.com/proelio57/BrewLog/releases/download/v2.0.2/BrewLog.ipa",
+     "size": 12612291
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "com.apple.security.application-groups"
+    ],
+    "privacy": {
+     "NSBluetoothAlwaysUsageDescription": "BrewLog connects to your Bluetooth coffee scale to read the weight live while you brew.",
+     "NSCameraUsageDescription": "BrewLog uses the camera to photograph your coffee bag and read the details from its label. The photo stays on this device.",
+     "NSLocalNetworkUsageDescription": "BrewLog connects to your espresso machine (GaggiMate) in your Wi-Fi to record pressure and temperature and to start shots."
+    }
+   }
+  }
+ ]
+}

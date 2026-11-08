@@ -1,0 +1,44 @@
+{
+ "name": "GymStreak",
+ "identifier": "dev.perapp.com-gymstreak-gymstreakai",
+ "subtitle": "@riftysIPAlibrary | GymStreak: AI Personal Trainer  Tweak: Subscription Unlocked  Version: 6.4.0  Patched ✓  @riftysIPAl",
+ "description": "Single-app source for GymStreak (com.gymstreak.GymStreakAI). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7250.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.gymstreak.GymStreakAI",
+   "name": "GymStreak",
+   "developerName": "@riftysIPAlibrary",
+   "subtitle": "@riftysIPAlibrary | GymStreak: AI Personal Trainer  Tweak: Subscription Unlocked  Version: 6.4.0  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "localizedDescription": "@riftysIPAlibrary | GymStreak: AI Personal Trainer  Tweak: Subscription Unlocked  Version: 6.4.0  Patched ✓  @riftysIPAlibrary  Additional Information",
+   "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7250.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "6.4.3",
+     "date": "2026-09-02T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | GymStreak: AI Personal Trainer  Tweak: Subscription Unlocked  Version: 6.4.3  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7619-GymStreak:%20AI%20Personal%20Trainer-v6.4.3-riftysipas.ipa",
+     "size": 110525608
+    },
+    {
+     "version": "6.4.2",
+     "date": "2026-08-22T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | GymStreak: AI Personal Trainer  Tweak: Subscription Unlocked  Version: 6.4.2  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7541-GymStreak:%20AI%20Personal%20Trainer-v6.4.2-riftysipas.ipa",
+     "size": 109201210
+    },
+    {
+     "version": "6.4.1",
+     "date": "2026-08-19T00:00:00Z",
+     "localizedDescription": "@riftysIPAlibrary | GymStreak: AI Personal Trainer  Tweak: Subscription Unlocked  Version: 6.4.1  Patched ✓  @riftysIPAlibrary  Additional Information",
+     "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7516-GymStreak:%20AI%20Personal%20Trainer-v6.4.1-riftysipas.ipa",
+     "size": 109003256
+    }
+   ]
+  }
+ ]
+}

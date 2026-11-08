@@ -1,0 +1,44 @@
+{
+ "name": "Yuka",
+ "identifier": "dev.perapp.yuca-scanner",
+ "subtitle": "ipaomtk.com | Yuka IPA Premium Unlocked MOD v4.59 is a revolutionary tool designed to empower consumers with instant pro",
+ "description": "Single-app source for Yuka (yuca.scanner). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/yuka-food-cosmetic-scanner-ico-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "yuca.scanner",
+   "name": "Yuka",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Yuka IPA Premium Unlocked MOD v4.59 is a revolutionary tool designed to empower consumers with instant product information. With a simpl",
+   "localizedDescription": "ipaomtk.com | Yuka IPA Premium Unlocked MOD v4.59 is a revolutionary tool designed to empower consumers with instant product information. With a simpl",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/10/yuka-food-cosmetic-scanner-ico-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.37",
+     "date": "2026-07-12T00:00:00Z",
+     "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed in",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.37.ipa",
+     "size": 128090889
+    },
+    {
+     "version": "4.38",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/Yuka/Yuka-4.38.ipa",
+     "size": 135776995
+    },
+    {
+     "version": "4.39",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "App that let you scan the barcodes of food and personal care items to instantly learn about their health impacts. It provides a rating and detailed in",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/YukaPremium/YukaPremium-4.39.ipa",
+     "size": 137085186
+    }
+   ]
+  }
+ ]
+}

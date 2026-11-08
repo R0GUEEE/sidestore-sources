@@ -1,0 +1,30 @@
+{
+ "name": "Impulse",
+ "identifier": "dev.perapp.com-unknown-impulse",
+ "subtitle": "بۆ گەشەکردن و تاقیکردنەوەی دەروونی ✅  تایبەتمەندییە قفڵ نەکراوەکان بکڕە پاشان هەڵوەشێنەرەوە 🔔",
+ "description": "Single-app source for Impulse (com.unknown.impulse). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Impulse.jpeg",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.impulse",
+   "name": "Impulse",
+   "developerName": "Karbin-Store",
+   "subtitle": "بۆ گەشەکردن و تاقیکردنەوەی دەروونی ✅  تایبەتمەندییە قفڵ نەکراوەکان بکڕە پاشان هەڵوەشێنەرەوە 🔔",
+   "localizedDescription": "بۆ گەشەکردن و تاقیکردنەوەی دەروونی ✅  تایبەتمەندییە قفڵ نەکراوەکان بکڕە پاشان هەڵوەشێنەرەوە 🔔",
+   "iconURL": "https://github.com/Karbin19/karbin-image-one/releases/download/karbin-image-one/Impulse.jpeg",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.32",
+     "date": "2025-01-07T00:00:00Z",
+     "localizedDescription": "بۆ گەشەکردن و تاقیکردنەوەی دەروونی ✅  تایبەتمەندییە قفڵ نەکراوەکان بکڕە پاشان هەڵوەشێنەرەوە 🔔",
+     "downloadURL": "https://github.com/Karbin19/karbin-ipa-One/releases/download/karbin-ipa-two/Impulse_1.32_DEV.ipa",
+     "size": 73110000
+    }
+   ]
+  }
+ ]
+}

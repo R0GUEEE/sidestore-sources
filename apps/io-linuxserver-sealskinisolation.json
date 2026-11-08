@@ -1,0 +1,42 @@
+{
+ "name": "SealSkin",
+ "identifier": "dev.perapp.io-linuxserver-sealskinisolation",
+ "subtitle": "A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isola",
+ "description": "Single-app source for SealSkin (io.linuxserver.sealskinisolation). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#a64b99",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.linuxserver.sealskinisolation.png",
+ "apps": [
+  {
+   "bundleIdentifier": "io.linuxserver.sealskinisolation",
+   "name": "SealSkin",
+   "developerName": "selkies-project",
+   "subtitle": "A self-hosted platform for streaming containerized desktop applications to your browser, providing secure workload isolation and remote file handling",
+   "localizedDescription": "SealSkin runs desktop applications in isolated containers on a server you control and streams them to any browser or phone. A browser extension turns every link, file, download, and text selection into something you open remotely instead of locally, so nothing from the web ever runs on the device in front of you. With nothing installed, the server's own web app does the same from any browser. It is built on Selkies and the LinuxServer.io application images.\n\nRead the documentation or visit sealskin.app.\n\nClients:\n\ncarries the extension zips, the APK, the IPA, and the server wheel.\n\nServer:\n\nThe server ships as the.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/io.linuxserver.sealskinisolation.png",
+   "tintColor": "#a64b99",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "0.4.2",
+     "date": "2026-11-07T00:21:22Z",
+     "localizedDescription": "SealSkin 0.4.2:\n\nMaintenance release.\n\nChanges:\n\n• PRoot Apps catalogs from a private remote. When SEALSKIN_PROOT_APPS_REMOTE names a private proot-apps repository, its apps keep their short names in a catalog. A session on a catalog now gets PA_DEFAULT_REPO, the registry of that remote, so proot-apps install.\n\n<app> and the app's desktop entries resolve to the private registry rather than ghcr.io/linuxserver/proot-apps. Apps of any other remote are still installed by their full image name.\n\n• Dependency updates for the server and the client.",
+     "downloadURL": "https://github.com/selkies-project/sealskin/releases/download/0.4.2/sealskin-v0.4.2.ipa",
+     "size": 1744117
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [
+     "application-identifier",
+     "beta-reports-active",
+     "com.apple.developer.team-identifier",
+     "get-task-allow",
+     "keychain-access-groups"
+    ],
+    "privacy": {
+     "NSCameraUsageDescription": "SealSkin reads the QR code of an application key shown in the web app."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "TunerPro",
+ "identifier": "dev.perapp.com-mwm-guitartuner",
+ "subtitle": "TunerPro",
+ "description": "Single-app source for TunerPro (com.mwm.guitartuner). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.mwm.guitartuner",
+   "name": "TunerPro",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Subscription Unlocked",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "4.01.09",
+     "date": "2026-11-05T00:00:00Z",
+     "localizedDescription": "Injected with Subscription Unlocked",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/TunerPro_4.01.09_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+     "size": 303182339
+    }
+   ]
+  }
+ ]
+}

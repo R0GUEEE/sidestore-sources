@@ -1,0 +1,37 @@
+{
+ "name": "Bunny",
+ "identifier": "dev.perapp.com-unknown-bunny",
+ "subtitle": "Bunny by Karbin-Store",
+ "description": "Single-app source for Bunny (com.unknown.bunny). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Bunny.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.unknown.bunny",
+   "name": "Bunny",
+   "developerName": "Karbin-Store",
+   "subtitle": "",
+   "localizedDescription": "",
+   "iconURL": "https://github.com/karbin09/karbin-image-two/releases/download/kara-img-four/Bunny.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.60",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Bunny-260.ipa",
+     "size": 84440000
+    },
+    {
+     "version": "260.0",
+     "date": "2026-06-07T00:00:00Z",
+     "localizedDescription": "",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/Bunny-260.ipa",
+     "size": 88529265
+    }
+   ]
+  }
+ ]
+}

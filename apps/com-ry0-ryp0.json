@@ -1,0 +1,42 @@
+{
+ "name": "ryP0",
+ "identifier": "dev.perapp.com-ry0-ryp0",
+ "subtitle": "ryP0 is a modern iOS app library for discovering, downloading, and managing IPA files from GitHub and other sources, wit",
+ "description": "Single-app source for ryP0 (com.ry0.ryP0). Converted from altmaker.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#7366dc",
+ "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ry0.ryP0.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ry0.ryP0",
+   "name": "ryP0",
+   "developerName": "Sami-Wali",
+   "subtitle": "ryP0 is a modern iOS app library for discovering, downloading, and managing IPA files from GitHub and other sources, with automatic update tracking",
+   "localizedDescription": "Discover beyond the usual.:\n\nDiscover, download, and keep supported iOS apps automatically up to date.\n\nFeatures:\n\n• Installer Integrations — Direct 1-tap installation via LiveContainer,zContianer, AltStore, SideStore, or Zeus.\n• Custom Repositories — Add external HTTPS JSON repos with full offline browsing and caching.",
+   "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.ry0.ryP0.png",
+   "tintColor": "#7366dc",
+   "screenshots": [
+    "https://cdn.jsdelivr.net/gh/Sami-Wali/ryP0@main/assets/screenshots/1.PNG",
+    "https://cdn.jsdelivr.net/gh/Sami-Wali/ryP0@main/assets/screenshots/2.PNG",
+    "https://cdn.jsdelivr.net/gh/Sami-Wali/ryP0@main/assets/screenshots/3.PNG",
+    "https://cdn.jsdelivr.net/gh/Sami-Wali/ryP0@main/assets/screenshots/4.PNG",
+    "https://cdn.jsdelivr.net/gh/Sami-Wali/ryP0@main/assets/screenshots/5.PNG"
+   ],
+   "versions": [
+    {
+     "version": "2.2",
+     "date": "2026-10-23T20:45:34Z",
+     "localizedDescription": "What’s New:\n\n• Install Apps Directly on LiveContainer 1 Without LiveContainer 2 (Thats include any Container App).\n\n• Added the new PS3 theme with and Colors.\n• Added Installation Location to track updates for installed apps.\n\n• Fix Sign-in with Google Account.\n• Add sections for Port Category (Ready to Install) (Built it Yourself).\n\nNotes:\n\nLiveContainer or any Container App Users: Enable \"Switch App Without Asking\" from the settings.",
+     "downloadURL": "https://github.com/Sami-Wali/ryP0/releases/download/2.2/ryP0-unsigned.ipa",
+     "size": 14531954
+    }
+   ],
+   "appPermissions": {
+    "entitlements": [],
+    "privacy": {
+     "NSPhotoLibraryAddUsageDescription": "Save selected repository icons to Photos."
+    }
+   }
+  }
+ ]
+}

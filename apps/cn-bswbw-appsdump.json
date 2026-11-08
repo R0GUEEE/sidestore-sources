@@ -1,0 +1,30 @@
+{
+ "name": "AppDump2",
+ "identifier": "dev.perapp.cn-bswbw-appsdump",
+ "subtitle": "Decrypt IPA files. Note: that to initiate the decryption process, it is imperative to open the desired app at least once",
+ "description": "Single-app source for AppDump2 (cn.bswbw.AppsDump). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/cn.bswbw.AppsDump.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cn.bswbw.AppsDump",
+   "name": "AppDump2",
+   "developerName": "CyPwn IPA Library",
+   "subtitle": "Decrypt IPA files. Note: that to initiate the decryption process, it is imperative to open the desired app at least once. Additionally, Filza might be",
+   "localizedDescription": "Decrypt IPA files. Note: that to initiate the decryption process, it is imperative to open the desired app at least once. Additionally, Filza might be",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/cn.bswbw.AppsDump.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "2.0.6",
+     "date": "2026-05-23T00:00:00Z",
+     "localizedDescription": "Decrypt IPA files. Note: that to initiate the decryption process, it is imperative to open the desired app at least once. Additionally, Filza might be",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/AppDump2/AppDump2-2.0.6.ipa",
+     "size": 614335
+    }
+   ]
+  }
+ ]
+}

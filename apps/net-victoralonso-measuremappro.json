@@ -1,0 +1,30 @@
+{
+ "name": "MeasureMapP",
+ "identifier": "dev.perapp.net-victoralonso-measuremappro",
+ "subtitle": "ipaomtk.com | Managing geographical data and performing accurate measurements in the world of GIS or Geographical Inform",
+ "description": "Single-app source for MeasureMapP (net.victoralonso.measuremappro). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/measure-map-pro-poster-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "net.victoralonso.measuremappro",
+   "name": "MeasureMapP",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Managing geographical data and performing accurate measurements in the world of GIS or Geographical Information System (GIS) is becoming",
+   "localizedDescription": "ipaomtk.com | Managing geographical data and performing accurate measurements in the world of GIS or Geographical Information System (GIS) is becoming",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/05/measure-map-pro-poster-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "13.6.1",
+     "date": "2023-05-30T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Managing geographical data and performing accurate measurements in the world of GIS or Geographical Information System (GIS) is becoming",
+     "downloadURL": "https://file.ipaomtk.com/ipa/MeasureMap.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

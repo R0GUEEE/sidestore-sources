@@ -1,0 +1,30 @@
+{
+ "name": "RingtoneMaker",
+ "identifier": "dev.perapp.com-csj-ling",
+ "subtitle": "Tweaks: SatellaJailed",
+ "description": "Single-app source for RingtoneMaker (com.csj.ling). Converted from fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.csj.ling.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.csj.ling",
+   "name": "RingtoneMaker",
+   "developerName": "ArianaMinajj",
+   "subtitle": "Tweaks: SatellaJailed",
+   "localizedDescription": "Tweaks: SatellaJailed\n\nInjected with Satella for no ads. A user requested it so here it is.\nLast updated: 06-30-2024\nStatus: ✅\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+   "iconURL": "https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/icons/com.csj.ling.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.9.19",
+     "date": "2026-11-01T00:00:00Z",
+     "localizedDescription": "Tweaks: SatellaJailed\n\nInjected with Satella for no ads. A user requested it so here it is. Last updated: 06-30-2024 Status: ✅",
+     "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/RingtoneMaker/RingtoneMaker-1.9.19.ipa",
+     "size": 17897259
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "name": "Fishbrain",
+ "identifier": "dev.perapp.com-fishbrain-app",
+ "subtitle": "Fishbrain",
+ "description": "Single-app source for Fishbrain (com.fishbrain.app). Converted from apptesters.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "#0A84FF",
+ "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.fishbrain.app",
+   "name": "Fishbrain",
+   "developerName": "",
+   "subtitle": "",
+   "localizedDescription": "Injected with Premium",
+   "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fishbrain.app.png",
+   "tintColor": "#0A84FF",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "9.54.0",
+     "date": "2026-05-27T00:00:00Z",
+     "localizedDescription": "Injected with Premium",
+     "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-05-2026/Fishbrain_9.54.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+     "size": 93746361
+    }
+   ]
+  }
+ ]
+}

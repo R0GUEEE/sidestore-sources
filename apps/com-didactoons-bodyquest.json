@@ -1,0 +1,30 @@
+{
+ "name": "BodyQuest",
+ "identifier": "dev.perapp.com-didactoons-bodyquest",
+ "subtitle": "ipaomtk.com | Exploring the human body becomes an enthralling adventure with “BodyQuest Anatomy for kids IPA,” an educat",
+ "description": "Single-app source for BodyQuest (com.didactoons.bodyquest). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/BodyQuest-Anatomy-for-kids-thumbnail-150x150.png",
+ "apps": [
+  {
+   "bundleIdentifier": "com.didactoons.bodyquest",
+   "name": "BodyQuest",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | Exploring the human body becomes an enthralling adventure with “BodyQuest Anatomy for kids IPA,” an educational iOS game designed to spa",
+   "localizedDescription": "ipaomtk.com | Exploring the human body becomes an enthralling adventure with “BodyQuest Anatomy for kids IPA,” an educational iOS game designed to spa",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/12/BodyQuest-Anatomy-for-kids-thumbnail-150x150.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "01.00.10",
+     "date": "2023-12-28T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | Exploring the human body becomes an enthralling adventure with “BodyQuest Anatomy for kids IPA,” an educational iOS game designed to spa",
+     "downloadURL": "https://file.ipaomtk.com/ipa/Body-Quest.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

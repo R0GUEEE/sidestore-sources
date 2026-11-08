@@ -1,0 +1,37 @@
+{
+ "name": "Status Magic",
+ "identifier": "dev.perapp.com-ipaomtk-status-magic-159862",
+ "subtitle": "ipaomtk.com | What is Status Magic IPA? Status Magic IPA is the iOS installable version of a customization utility desig",
+ "description": "Single-app source for Status Magic (com.ipaomtk.status.magic.159862). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/StatusMagic-11-150x150.avif",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.status.magic.159862",
+   "name": "Status Magic",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Status Magic IPA? Status Magic IPA is the iOS installable version of a customization utility designed to change and personalize ",
+   "localizedDescription": "ipaomtk.com | What is Status Magic IPA? Status Magic IPA is the iOS installable version of a customization utility designed to change and personalize ",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/StatusMagic-11-150x150.avif",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Status Magic IPA? Status Magic IPA is the iOS installable version of a customization utility designed to change and personalize ",
+     "downloadURL": "https://file.ipaomtk.com/status-magic/StatusMagic-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.0.2",
+     "date": "2026-05-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Status Magic IPA? Status Magic IPA is the iOS installable version of a customization utility designed to change and personalize ",
+     "downloadURL": "https://file.ipaomtk.com/status-magic/StatusMagic-IPAOMTK.COM.ipa",
+     "size": 1218528
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "name": "Pine Hearts",
+ "identifier": "dev.perapp.com-ipaomtk-pine-hearts-159432",
+ "subtitle": "ipaomtk.com | What is Pine Hearts IPA? Pine Hearts IPA is the iOS installable version of a story-driven adventure game d",
+ "description": "Single-app source for Pine Hearts (com.ipaomtk.pine.hearts.159432). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Pine-Hearts-IPA-v1.5.0-For-iOS-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.ipaomtk.pine.hearts.159432",
+   "name": "Pine Hearts",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | What is Pine Hearts IPA? Pine Hearts IPA is the iOS installable version of a story-driven adventure game designed to deliver a calm, emo",
+   "localizedDescription": "ipaomtk.com | What is Pine Hearts IPA? Pine Hearts IPA is the iOS installable version of a story-driven adventure game designed to deliver a calm, emo",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2026/05/Pine-Hearts-IPA-v1.5.0-For-iOS-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-05-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Pine Hearts IPA? Pine Hearts IPA is the iOS installable version of a story-driven adventure game designed to deliver a calm, emo",
+     "downloadURL": "https://file.ipaomtk.com/pine-hearts/Pine-Hearts-IPAOMTK.COM.ipa",
+     "size": 0
+    },
+    {
+     "version": "1.5.0",
+     "date": "2026-05-01T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | What is Pine Hearts IPA? Pine Hearts IPA is the iOS installable version of a story-driven adventure game designed to deliver a calm, emo",
+     "downloadURL": "https://file.ipaomtk.com/pine-hearts/Pine-Hearts-IPAOMTK.COM.ipa",
+     "size": 863261295
+    }
+   ]
+  }
+ ]
+}

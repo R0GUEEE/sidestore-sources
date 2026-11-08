@@ -1,0 +1,30 @@
+{
+ "name": "ControlCenter++_TS",
+ "identifier": "dev.perapp.synthetic-controlcenter-ts-a9c07dfb",
+ "subtitle": "Rearrange all Control Center modules.",
+ "description": "Single-app source for ControlCenter++_TS (synthetic.controlcenter-ts.a9c07dfb). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/ControlCenter++_TS.png",
+ "apps": [
+  {
+   "bundleIdentifier": "synthetic.controlcenter-ts.a9c07dfb",
+   "name": "ControlCenter++_TS",
+   "developerName": "ControlCenter++_TS x CyPwn",
+   "subtitle": "Rearrange all Control Center modules.",
+   "localizedDescription": "Rearrange all Control Center modules.",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/ControlCenter++_TS.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Rearrange all Control Center modules.",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/ControlCenter++_TS.ipa",
+     "size": 1048576
+    }
+   ]
+  }
+ ]
+}

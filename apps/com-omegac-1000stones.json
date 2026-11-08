@@ -1,0 +1,30 @@
+{
+ "name": "1000 Stones",
+ "identifier": "dev.perapp.com-omegac-1000stones",
+ "subtitle": "ipaomtk.com | 1000 Stones IPA v1.1 is a meditative and minimalist puzzle game that challenges players to find harmony an",
+ "description": "Single-app source for 1000 Stones (com.omegac.1000stones). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/1000-Stones.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.omegac.1000stones",
+   "name": "1000 Stones",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | 1000 Stones IPA v1.1 is a meditative and minimalist puzzle game that challenges players to find harmony and balance in a digital zen gar",
+   "localizedDescription": "ipaomtk.com | 1000 Stones IPA v1.1 is a meditative and minimalist puzzle game that challenges players to find harmony and balance in a digital zen gar",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/11/1000-Stones.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1",
+     "date": "2024-11-03T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | 1000 Stones IPA v1.1 is a meditative and minimalist puzzle game that challenges players to find harmony and balance in a digital zen gar",
+     "downloadURL": "https://file.ipaomtk.com/ipa/1000_Stones-v1.1-ipaomtk.com.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

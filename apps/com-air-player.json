@@ -1,0 +1,30 @@
+{
+ "name": "Aer Player",
+ "identifier": "dev.perapp.com-air-player",
+ "subtitle": "ipaomtk.com | IPTV Smarter Player IPA is a powerful and feature-rich IPTV app designed specifically for iOS devices. It ",
+ "description": "Single-app source for Aer Player (com.air.player). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/IPTV-Smarter-Player-IPA-150x150.webp",
+ "apps": [
+  {
+   "bundleIdentifier": "com.air.player",
+   "name": "Aer Player",
+   "developerName": "ipaomtk.com",
+   "subtitle": "ipaomtk.com | IPTV Smarter Player IPA is a powerful and feature-rich IPTV app designed specifically for iOS devices. It allows you to access and strea",
+   "localizedDescription": "ipaomtk.com | IPTV Smarter Player IPA is a powerful and feature-rich IPTV app designed specifically for iOS devices. It allows you to access and strea",
+   "iconURL": "https://ipaomtk.com/wp-content/uploads/2024/09/IPTV-Smarter-Player-IPA-150x150.webp",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "10.8",
+     "date": "2024-09-23T00:00:00Z",
+     "localizedDescription": "ipaomtk.com | IPTV Smarter Player IPA is a powerful and feature-rich IPTV app designed specifically for iOS devices. It allows you to access and strea",
+     "downloadURL": "https://file.ipaomtk.com/ipa/AerPlayer-IPAOMTK.COM_9.1.ipa",
+     "size": 0
+    }
+   ]
+  }
+ ]
+}

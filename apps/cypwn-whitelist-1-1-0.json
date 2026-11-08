@@ -1,0 +1,30 @@
+{
+ "name": "Whitelist",
+ "identifier": "dev.perapp.cypwn-whitelist-1-1-0",
+ "subtitle": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+ "description": "Single-app source for Whitelist (cypwn.Whitelist.1.1.0). Converted from dsewerek-fastsign.json.",
+ "website": "https://github.com/R0GUEEE/sidestore-sources",
+ "tintColor": "000000",
+ "iconURL": "https://ipa.cypwn.xyz/serve/icons/Whitelist.png",
+ "apps": [
+  {
+   "bundleIdentifier": "cypwn.Whitelist.1.1.0",
+   "name": "Whitelist",
+   "developerName": "Whitelist x CyPwn",
+   "subtitle": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+   "localizedDescription": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+   "iconURL": "https://ipa.cypwn.xyz/serve/icons/Whitelist.png",
+   "tintColor": "000000",
+   "screenshots": [],
+   "versions": [
+    {
+     "version": "1.1.0",
+     "date": "2026-06-10T00:00:00Z",
+     "localizedDescription": "Jailed iOS app to un-blacklist all enterprise-signed apps",
+     "downloadURL": "https://ipa.cypwn.xyz/ipas/Whitelist.ipa",
+     "size": 599193
+    }
+   ]
+  }
+ ]
+}

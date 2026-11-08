@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SideStore Source Audit — 2026-11-08</title>
+<style>
+:root{--bg:#0b0c10;--line:#262a33;--txt:#e7e9ee;--dim:#9aa2b1;--ok:#3ddc84;--bad:#ff5c5c;--part:#ffc14d}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.5 -apple-system,BlinkMacSystemFont,"SF Pro Text",system-ui,sans-serif;padding:20px 14px 60px}
+h1{font-size:22px;margin:0 0 4px}
+.sub{color:var(--dim);font-size:13px;margin-bottom:18px}
+h2{font-size:16px;margin:26px 0 8px;color:#cfd6e4}
+table{width:100%;border-collapse:collapse;font-size:12.5px}
+th{text-align:left;color:var(--dim);font-weight:600;padding:6px;border-bottom:1px solid var(--line)}
+td{padding:6px;border-bottom:1px solid #1b1e25;vertical-align:top;word-break:break-word}
+code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px;color:#c8ccd6}
+.ok{color:var(--ok);font-weight:600}.bad{color:var(--bad);font-weight:600}.part{color:var(--part);font-weight:600}.mute{color:var(--dim)}
+</style>
+</head>
+<body>
+<h1>SideStore source audit</h1>
+<div class="sub">16 URLs · validated against SideStore's source rules (name+identifier header, apps[], versions[].downloadURL, real bundle IDs) · 2026-11-08 09:2x ET</div>
+
+<h2>The 16 you gave</h2>
+<table>
+<tr><th>Source</th><th>Result</th><th>Detail</th><th>Use instead</th></tr>
+<tr><td>LiveContainer nightly asset</td><td class="ok">OK</td><td>1 app, LC 3.4.50 (stable IPA shipped under the nightly tag)</td><td>—</td></tr>
+<tr><td>LiveContainer apps_ss_lc.json (release)</td><td class="bad">404</td><td>never a release asset; lives in git only</td><td><code>raw.githubusercontent.com/LiveContainer/LiveContainer/main/.github/apps_ss_lc.json</code></td></tr>
+<tr><td>shplash apps.json</td><td class="part">PARTIAL</td><td>2 apps, 1 legacy without versions[]</td><td>—</td></tr>
+<tr><td>repository.apptesters.org</td><td class="bad">FAIL</td><td>10,084 apps, 100% legacy/eSign layout (app-level version, versionDate, downloadURL, size)</td><td>legacy→versions[] mirror</td></tr>
+<tr><td>ipa.cypwn.xyz/cypwn.json</td><td class="bad">FAIL</td><td>210 apps legacy + 50 bogus bundle IDs (hex hashes)</td><td><code>ipa.cypwn.xyz/cypwn_altstore.json</code> (180 native)</td></tr>
+<tr><td>Riftys reposource.json</td><td class="bad">FAIL</td><td>44 legacy; 36/43 URLs are dead Heroku dynos</td><td>—</td></tr>
+<tr><td>FrizzleM frizzlem.json</td><td class="bad">404</td><td>URL form wrong</td><td><code>raw.githubusercontent.com/FrizzleM/SideInstaller/main/frizzlem.json</code> (OK, 2)</td></tr>
+<tr><td>Neoncat apps_esign.json</td><td class="bad">FAIL</td><td>1,988 legacy; no iconURL</td><td><code>Neoncat-OG/TrollStore-IPAs/main/apps.json</code> (347 native)</td></tr>
+<tr><td>repo.owo.network</td><td class="bad">FAIL</td><td>169 legacy only — no native asset in the repo</td><td>normalized mirror</td></tr>
+<tr><td>CyPwn TrollStore cypwn_ts.json</td><td class="bad">FAIL</td><td>127 legacy, no AltStore twin</td><td>normalized mirror</td></tr>
+<tr><td>AltMaker</td><td class="ok">OK</td><td>445 apps, featured, dated versions</td><td>—</td></tr>
+<tr><td>dsewerek general.json</td><td class="bad">FAIL</td><td>1,961 apps but no <code>identifier</code> header (required by spec)</td><td>1-line header patch</td></tr>
+<tr><td>ittza7aa.com/repo.json</td><td class="bad">FAIL</td><td>1,794 entries / 341 bundle IDs, 704 with <code>bundleIdentifier: null</code>, legacy, many dead AppTesters URLs</td><td>normalized mirror</td></tr>
+<tr><td>itslevii.dev/repo.json</td><td class="ok">OK</td><td>6 apps, release IPAs live</td><td>—</td></tr>
+<tr><td>Telegram telegram-source.json</td><td class="bad">unreadable</td><td><code>/var/mobile/Containers/…</code> is the app container — not reachable by the sandbox or SideStore</td><td>re-export to an http(s) host</td></tr>
+<tr><td>NexSideloading repo.json</td><td class="ok">OK</td><td>7 apps live</td><td>—</td></tr>
+<tr><td>fastsign.dev/repo.json</td><td class="ok">OK</td><td>16,945 apps, 23 MB (mostly AppTesters dump)</td><td>—</td></tr>
+</table>
+
+<h2>Replacements that need no work</h2>
+<table>
+<tr><th>Replace</th><th>With</th><th>Apps</th></tr>
+<tr><td>LC+SS 404</td><td><code>https://raw.githubusercontent.com/LiveContainer/LiveContainer/main/.github/apps_ss_lc.json</code></td><td>1</td></tr>
+<tr><td>FrizzleM 404</td><td><code>https://raw.githubusercontent.com/FrizzleM/SideInstaller/main/frizzlem.json</code></td><td>2</td></tr>
+<tr><td>Neoncat eSign</td><td><code>https://raw.githubusercontent.com/Neoncat-OG/TrollStore-IPAs/main/apps.json</code></td><td>347</td></tr>
+<tr><td>CyPwn legacy</td><td><code>https://ipa.cypwn.xyz/cypwn_altstore.json</code></td><td>180</td></tr>
+<tr><td>dsewerek general</td><td>same file + <code>"identifier":"com.dsewerek.general"</code></td><td>1,961</td></tr>
+</table>
+
+<h2>Verified extras (SideStore trusted list + adjacent)</h2>
+<table>
+<tr><th>URL</th><th>Apps</th></tr>
+<tr><td><code>https://apps.sidestore.io</code></td><td>6</td></tr>
+<tr><td><code>https://community-apps.sidestore.io/sidecommunity.json</code></td><td>23</td></tr>
+<tr><td><code>https://connect.sidestore.io/apps.json</code></td><td>8</td></tr>
+<tr><td><code>https://quarksources.github.io/quantumsource++.json</code></td><td>35</td></tr>
+<tr><td><code>https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json</code></td><td>133</td></tr>
+<tr><td><code>https://provenance-emu.com/apps.json</code></td><td>4</td></tr>
+<tr><td><code>https://stikdebug.xyz/index.json</code></td><td>2</td></tr>
+<tr><td><code>https://ios-repo.geode-sdk.org/altsource/main.json</code></td><td>1</td></tr>
+<tr><td><code>https://repos.yattee.stream/alt/apps.json</code></td><td class="bad">404</td></tr>
+<tr><td><code>https://theodyssey.dev/altstore/odysseysource.json</code></td><td class="bad">404</td></tr>
+</table>
+
+<h2>Built here (legacy → SideStore native)</h2>
+<table>
+<tr><th>File</th><th>Apps</th><th>Source</th></tr>
+<tr><td><code>mirror-apptesters.json</code></td><td>785</td><td>AppTesters 10,084 legacy rows → valid bundle IDs, newest version per app</td></tr>
+<tr><td><code>mirror-cypwn.json</code></td><td>130</td><td>CyPwn 210 legacy minus 50 junk IDs, minus dupes</td></tr>
+<tr><td><code>mirror-neoncat.json</code></td><td>286</td><td>Neoncat eSign 1,988 → real bundle IDs only</td></tr>
+<tr><td><code>merged.json</code></td><td>1,230</td><td>all of the above + OwO + Riftys + ittza7aa</td></tr>
+</table>
+<p class="mute" style="font-size:12px">SideStore loads http(s) only — host these on GitHub raw/gist/static host. Validator used: /var/minis/workspace/reposcan/fcheck.py</p>
+</body>
+</html>

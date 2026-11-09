@@ -135,3 +135,18 @@ python3 tools/audit_schema.py     # strict Codable check: nothing may fail to de
 ```
 
 These files only point at upstream download URLs — no IPAs are mirrored here.
+
+## One repository per app
+
+`repos/<slug>/` holds the tree for a dedicated GitHub repo (`apps.json` + a short README);
+`tools/publish_repos.py` creates `R0GUEEE/<slug>` if missing and pushes the tree through the
+GitHub blob API, recording state in `docs/repos.json` so runs resume where they stopped.
+
+```sh
+REPO_TREE=1 python3 tools/perapp.py          # regenerate repos/ from sources/
+python3 tools/publish_repos.py --limit 50    # publish the next 50 (resumable)
+sh tools/publish_loop.sh                     # keep going in 12-repo chunks
+```
+
+Each published repo serves `https://raw.githubusercontent.com/R0GUEEE/<slug>/main/apps.json`.
+`docs/repos.json` maps every app file to its repo name, raw URL, bundle ID and state.

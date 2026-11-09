@@ -4,7 +4,7 @@
 cd /var/minis/workspace/reposcan || exit 1
 LOG=/var/minis/workspace/reposcan/docs/publish.log
 while :; do
-    out=$(timeout 240 python3 tools/publish_repos.py --limit 12 2>&1 | tail -1)
+    out=$(timeout 240 nice -n 10 ionice -c 3 python3 tools/publish_repos.py --limit 6 2>&1 | grep '^done' | tail -1)
     echo "$(date '+%H:%M:%S') $out" >> "$LOG"
     case "$out" in
         done*fail=0\ total_pushed=*) ;;

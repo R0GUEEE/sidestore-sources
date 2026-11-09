@@ -19,12 +19,23 @@ args = sys.argv[1:]
 limit = int(args[args.index("--limit") + 1]) if "--limit" in args else None
 force = "--force" in args
 only = args[args.index("--slug") + 1:] if "--slug" in args else []
+CHUNK = int(args[args.index("--chunk") + 1]) if "--chunk" in args else None
+CHUNK_SIZE = int(args[args.index("--chunk-size") + 1]) if "--chunk-size" in args else 1500
+STATE_FILE = args[args.index("--state") + 1] if "--state" in args else None
 
 def slugify(s):
     return re.sub(r"[^A-Za-z0-9]+", "-", s).strip("-").lower()[:95] or "app"
 
 state = json.load(open(state_path)) if os.path.exists(state_path) else {"repos": {}}
 entries = {a["file"][:-5]: a for a in idx["apps"]}
+
+_login = None
+def user_login():
+    global _login
+    if _login is None:
+        r = subprocess.run(["gh", "api", "user", "--jq", ".login"], capture_output=True)
+        _login = (r.stdout.decode().strip() or "R0GUEEE")
+    return _login
 
 def gh(*a):
     # stream outputs to /dev/null: capturing these on iSH occasionally hits MemoryError
@@ -67,10 +78,15 @@ def push(slug, repo):
     return True, ""
 
 todo = [s for s in entries if (not only or s in only) and (force or state["repos"].get(s, {}).get("state") != "pushed")]
+if CHUNK is not None:
+    # disjoint window of the pending queue: parallel runners never touch the same slug
+    todo = todo[CHUNK * CHUNK_SIZE:(CHUNK + 1) * CHUNK_SIZE]
 if limit: todo = todo[:limit]
 print("targets: %d (already pushed: %d)" % (len(todo), sum(1 for v in state["repos"].values() if v.get("state") == "pushed")), flush=True)
 
+run_state = {"repos": {} if CHUNK is not None else dict(state["repos"])}  # chunked runs emit only their own results
 ok = fail = 0
+RUN_STATE_PATH = STATE_FILE or state_path
 for i, slug in enumerate(todo):
     e = entries[slug]
     repo = slugify(slug)
@@ -83,13 +99,14 @@ for i, slug in enumerate(todo):
         exists = subprocess.run(["gh", "repo", "view", "R0GUEEE/" + repo],
                                 stdout=dn, stderr=dn).returncode == 0
     if not exists:
-        r = gh("api", "-X", "POST", "user/repos", "-f", "name=" + repo,
+        owner = os.environ.get("REPO_OWNER", "R0GUEEE")
+        r = gh("api", "-X", "POST", "user/repos" if owner == user_login() else "orgs/%s/repos" % owner, "-f", "name=" + repo,
                "-f", "description=SideStore source: " + slug, "-F", "private=false", "-F", "auto_init=true")
         if r.returncode != 0:
             msg = r.stderr.decode()[:160]
             rec["state"] = "create-failed"; rec["error"] = msg
             state["repos"][slug] = rec; fail += 1
-            json.dump(state, open(state_path, "w"), indent=1)
+            json.dump(run_state, open(RUN_STATE_PATH, "w"), indent=1)
             print("create failed", repo, msg, flush=True)
             if "rate limit" in msg.lower() or "abuse" in msg.lower(): break
             continue
@@ -101,5 +118,5 @@ for i, slug in enumerate(todo):
     if (i + 1) % 20 == 0 or not good:
         json.dump(state, open(state_path, "w"), indent=1)
         print("%5d ok=%d fail=%d %s" % (i + 1, ok, fail, repo), flush=True)
-json.dump(state, open(state_path, "w"), indent=1)
+json.dump(run_state if STATE_FILE else state, open(RUN_STATE_PATH, "w"), indent=1)
 print("done ok=%d fail=%d total_pushed=%d" % (ok, fail, sum(1 for v in state["repos"].values() if v["state"] == "pushed")))
